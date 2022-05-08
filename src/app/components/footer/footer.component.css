@@ -1,0 +1,18 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+.slide-toggle {
+  margin-left: 20px;
+}
+
+.footer-text {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: steelblue;
+  text-align: right;
+  margin-top: 10px;
+}

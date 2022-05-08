@@ -1,0 +1,16 @@
+mat-card:hover {
+  cursor: pointer;
+}
+
+mat-icon {
+  font-size: 1.5rem;
+}
+
+mat-card-title {
+  padding-top: 15px;
+  font-size: 1.5rem;
+}
+
+mat-card-subtitle {
+  padding-top: 10px;
+}

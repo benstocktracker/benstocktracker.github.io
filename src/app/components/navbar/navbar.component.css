@@ -1,0 +1,10 @@
+button {
+  text-align: left;
+  padding: 5px 20px;
+}
+
+.nav-sidebar {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}

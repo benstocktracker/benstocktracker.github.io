@@ -1,0 +1,10 @@
+<div class="add-padding">
+    <div *ngFor="let item of news" class="news-container">
+        <div class="news-item">
+            <mat-icon class="material-icons-round">{{ item.type === 'STORY' ? 'feed' : 'movie'}}</mat-icon>
+            <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+            <span>{{ item.publisher }}</span>
+            <span>{{ item.providerPublishTime * 1000 | date }}</span>
+        </div>
+    </div>
+</div>

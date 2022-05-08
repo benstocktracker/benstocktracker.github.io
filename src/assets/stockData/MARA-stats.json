@@ -1,0 +1,470 @@
+{
+    "defaultKeyStatistics": {
+        "annualHoldingsTurnover": null,
+        "enterpriseToRevenue": 16.235,
+        "beta3Year": null,
+        "profitMargins": -0.24042,
+        "enterpriseToEbitda": -32.834,
+        "52WeekChange": -0.4158281,
+        "morningStarRiskRating": null,
+        "forwardEps": 3.97,
+        "revenueQuarterlyGrowth": null,
+        "sharesOutstanding": 102631000,
+        "fundInceptionDate": null,
+        "annualReportExpenseRatio": null,
+        "totalAssets": null,
+        "bookValue": 6.649,
+        "sharesShort": 20337012,
+        "sharesPercentSharesOut": 0.1982,
+        "fundFamily": null,
+        "lastFiscalYearEnd": 1640908800,
+        "heldPercentInstitutions": 0.40909,
+        "netIncomeToCommon": -36174504,
+        "trailingEps": -0.364,
+        "lastDividendValue": null,
+        "SandP52WeekChange": 0.0840292,
+        "priceToBook": 3.3614078,
+        "heldPercentInsiders": 0.09034,
+        "nextFiscalYearEnd": 1703980800,
+        "yield": null,
+        "mostRecentQuarter": 1640908800,
+        "shortRatio": 1.38,
+        "sharesShortPreviousMonthDate": 1642118400,
+        "floatShares": 96269295,
+        "beta": 4.637795,
+        "enterpriseValue": 2442816000,
+        "priceHint": 2,
+        "threeYearAverageReturn": null,
+        "lastSplitDate": 1554681600,
+        "lastSplitFactor": "1:4",
+        "legalType": null,
+        "lastDividendDate": null,
+        "morningStarOverallRating": null,
+        "earningsQuarterlyGrowth": null,
+        "priceToSalesTrailing12Months": null,
+        "dateShortInterest": 1644883200,
+        "pegRatio": 0.12,
+        "ytdReturn": null,
+        "forwardPE": 5.629723,
+        "maxAge": 1,
+        "lastCapGain": null,
+        "shortPercentOfFloat": 0.2074,
+        "sharesShortPriorMonth": 20174514,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "fiveYearAverageReturn": null
+    },
+    "details": null,
+    "summaryProfile": {
+        "zip": "89144",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Marathon Digital Holdings, Inc. operates as a digital asset technology company that mines cryptocurrencies with a focus on the blockchain ecosystem and the generation of digital assets in United States. The company was formerly known as Marathon Patent Group, Inc. and changed its name to Marathon Digital Holdings, Inc. in February 2021. Marathon Digital Holdings, Inc. was founded in 2010 and is headquartered in Las Vegas, Nevada.",
+        "city": "Las Vegas",
+        "phone": "702 945 2773",
+        "state": "NV",
+        "country": "United States",
+        "companyOfficers": [],
+        "website": "https://www.marathondh.com",
+        "maxAge": 86400,
+        "address1": "1180 North Town Center Drive",
+        "fax": "703 956 2521",
+        "industry": "Capital Markets",
+        "address2": "Suite 100"
+    },
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "actual": 0.87,
+                    "estimate": 0.02
+                },
+                {
+                    "date": "2Q2021",
+                    "actual": -1.09,
+                    "estimate": 0.16
+                },
+                {
+                    "date": "3Q2021",
+                    "actual": -0.22,
+                    "estimate": 0.43
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.1,
+                    "estimate": 0.34
+                }
+            ],
+            "currentQuarterEstimate": 0.29,
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1649075400,
+                1649421000
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 1562372,
+                    "earnings": -12814324
+                },
+                {
+                    "date": 2019,
+                    "revenue": 1185227,
+                    "earnings": -3517065
+                },
+                {
+                    "date": 2020,
+                    "revenue": 4357443,
+                    "earnings": -10447771
+                },
+                {
+                    "date": 2021,
+                    "revenue": 150463770,
+                    "earnings": -36174506
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "revenue": 9152815,
+                    "earnings": 83356742
+                },
+                {
+                    "date": "2Q2021",
+                    "revenue": 29321857,
+                    "earnings": -108884620
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 51707483,
+                    "earnings": -22172567
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 60281615,
+                    "earnings": 11525939
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "price": {
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "regularMarketOpen": 21.75,
+        "averageDailyVolume3Month": 12851595,
+        "exchange": "NCM",
+        "regularMarketTime": 1646773203,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 23.49,
+        "shortName": "Marathon Digital Holdings, Inc.",
+        "averageDailyVolume10Day": 13928130,
+        "longName": "Marathon Digital Holdings, Inc.",
+        "regularMarketChange": 0.87000084,
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": 21.48,
+        "postMarketTime": 1646785066,
+        "preMarketPrice": 21.75,
+        "preMarketTime": 1646749799,
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": 0.3199997,
+        "postMarketPrice": 22.67,
+        "exchangeName": "NasdaqCM",
+        "preMarketChange": 0.27,
+        "circulatingSupply": null,
+        "regularMarketDayLow": 21.3,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketPrice": 22.35,
+        "regularMarketVolume": 10825458,
+        "lastMarket": null,
+        "regularMarketSource": "FREE_REALTIME",
+        "openInterest": null,
+        "marketState": "POST",
+        "underlyingSymbol": null,
+        "marketCap": 2293803008,
+        "quoteType": "EQUITY",
+        "preMarketChangePercent": 0.0125699,
+        "volumeAllCurrencies": null,
+        "postMarketSource": "FREE_REALTIME",
+        "strikePrice": null,
+        "symbol": "MARA",
+        "postMarketChangePercent": 0.014317659,
+        "preMarketSource": "FREE_REALTIME",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": 0.040502835
+    },
+    "financialData": {
+        "ebitdaMargins": -0.49447,
+        "profitMargins": -0.24042,
+        "grossMargins": -0.31581,
+        "operatingCashflow": null,
+        "revenueGrowth": 21.803,
+        "operatingMargins": -0.5655,
+        "ebitda": -74400000,
+        "targetLowPrice": 48,
+        "recommendationKey": "strong_buy",
+        "grossProfits": -47518088,
+        "freeCashflow": null,
+        "targetMedianPrice": 50.5,
+        "currentPrice": 22.35,
+        "earningsGrowth": null,
+        "currentRatio": 49.886,
+        "returnOnAssets": -0.06038,
+        "numberOfAnalystOpinions": 6,
+        "targetMeanPrice": 53.83,
+        "debtToEquity": 106.644,
+        "returnOnEquity": -0.07273,
+        "targetHighPrice": 65,
+        "totalCash": 492300576,
+        "totalDebt": 728405952,
+        "totalRevenue": 150463776,
+        "totalCashPerShare": 4.792,
+        "financialCurrency": "USD",
+        "maxAge": 86400,
+        "revenuePerShare": 1.515,
+        "quickRatio": 35.688,
+        "recommendationMean": 1.5
+    },
+    "quoteType": {
+        "exchange": "NCM",
+        "shortName": "Marathon Digital Holdings, Inc.",
+        "longName": "Marathon Digital Holdings, Inc.",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EST",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-18000000",
+        "quoteType": "EQUITY",
+        "symbol": "MARA",
+        "messageBoardId": "finmb_158387416",
+        "market": "us_market"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1649075400,
+                1649421000
+            ],
+            "earningsAverage": 0.29,
+            "earningsLow": 0.18,
+            "earningsHigh": 0.41,
+            "revenueAverage": 76630000,
+            "revenueLow": 54900000,
+            "revenueHigh": 101500000
+        },
+        "exDividendDate": null,
+        "dividendDate": 1554681600
+    },
+    "summaryDetail": {
+        "previousClose": 21.48,
+        "regularMarketOpen": 21.75,
+        "twoHundredDayAverage": 35.11385,
+        "trailingAnnualDividendYield": 0,
+        "payoutRatio": 0,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 23.49,
+        "navPrice": null,
+        "averageDailyVolume10Day": 13928130,
+        "totalAssets": null,
+        "regularMarketPreviousClose": 21.48,
+        "fiftyDayAverage": 26.839,
+        "trailingAnnualDividendRate": 0,
+        "open": 21.75,
+        "toCurrency": null,
+        "averageVolume10days": 13928130,
+        "expireDate": null,
+        "yield": null,
+        "algorithm": null,
+        "dividendRate": null,
+        "exDividendDate": null,
+        "beta": 4.637795,
+        "circulatingSupply": null,
+        "startDate": null,
+        "regularMarketDayLow": 21.3,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketVolume": 10825458,
+        "lastMarket": null,
+        "maxSupply": null,
+        "openInterest": null,
+        "marketCap": 2293803008,
+        "volumeAllCurrencies": null,
+        "strikePrice": null,
+        "averageVolume": 12851595,
+        "priceToSalesTrailing12Months": 15.244885,
+        "dayLow": 21.3,
+        "ask": 22.7,
+        "ytdReturn": null,
+        "askSize": 1000,
+        "volume": 10825458,
+        "fiftyTwoWeekHigh": 83.45,
+        "forwardPE": 5.629723,
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": null,
+        "fiftyTwoWeekLow": 18.32,
+        "bid": 22.5,
+        "tradeable": false,
+        "dividendYield": null,
+        "bidSize": 2200,
+        "dayHigh": 23.49
+    },
+    "symbol": "MARA",
+    "esgScores": null,
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": 1646745563,
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1643378397,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1642504766,
+                "firm": "BTIG",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1634289111,
+                "firm": "DA Davidson",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1631712288,
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1624275429,
+                "firm": "Compass Point",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1622026377,
+                "firm": "B. Riley Securities",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1612783909,
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1607945268,
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1606130499,
+                "firm": "HC Wainwright & Co.",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1606296975,
+                "firm": "JP Morgan",
+                "toGrade": "Underweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1606296975,
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1606296975,
+                "firm": "Northland Securities",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1606296975,
+                "firm": "Roth Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "pageViews": {
+        "shortTermTrend": "DOWN",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}

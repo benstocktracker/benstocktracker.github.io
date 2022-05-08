@@ -1,0 +1,21 @@
+.add-padding {
+  padding: 20px 20px 0px 20px;
+}
+
+.news-container {
+  padding-bottom: 5px;
+}
+
+.news-item {
+  display: flex;
+  margin: 0px 0px 3px 0px;
+  align-items: center;
+}
+
+.news-item > a, span, mat-icon {
+  margin-right: 10px;
+}
+
+a {
+  color: steelblue;
+}

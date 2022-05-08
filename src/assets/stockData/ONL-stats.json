@@ -1,0 +1,350 @@
+{
+    "defaultKeyStatistics": {
+        "annualHoldingsTurnover": null,
+        "enterpriseToRevenue": 16.925,
+        "beta3Year": null,
+        "profitMargins": -0.59593,
+        "enterpriseToEbitda": 25.195,
+        "52WeekChange": -0.30175626,
+        "morningStarRiskRating": null,
+        "forwardEps": -0.7,
+        "revenueQuarterlyGrowth": null,
+        "sharesOutstanding": 56625600,
+        "fundInceptionDate": null,
+        "annualReportExpenseRatio": null,
+        "totalAssets": null,
+        "bookValue": 19.195,
+        "sharesShort": 3909042,
+        "sharesPercentSharesOut": 0.069,
+        "fundFamily": null,
+        "lastFiscalYearEnd": 1640908800,
+        "heldPercentInstitutions": 0.83511,
+        "netIncomeToCommon": -47481000,
+        "trailingEps": -0.84,
+        "lastDividendValue": 0.1,
+        "SandP52WeekChange": -0.015540421,
+        "priceToBook": 0.6835113,
+        "heldPercentInsiders": 0.00079,
+        "nextFiscalYearEnd": 1703980800,
+        "yield": null,
+        "mostRecentQuarter": 1640908800,
+        "shortRatio": 3.75,
+        "sharesShortPreviousMonthDate": 1647302400,
+        "floatShares": 48177103,
+        "beta": null,
+        "enterpriseValue": 1348515200,
+        "priceHint": 2,
+        "threeYearAverageReturn": null,
+        "lastSplitDate": null,
+        "lastSplitFactor": null,
+        "legalType": null,
+        "lastDividendDate": 1648598400,
+        "morningStarOverallRating": null,
+        "earningsQuarterlyGrowth": null,
+        "priceToSalesTrailing12Months": null,
+        "dateShortInterest": 1649894400,
+        "pegRatio": null,
+        "ytdReturn": null,
+        "forwardPE": -18.742857,
+        "maxAge": 1,
+        "lastCapGain": null,
+        "shortPercentOfFloat": 0.0949,
+        "sharesShortPriorMonth": 2888043,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "fiveYearAverageReturn": null
+    },
+    "details": null,
+    "summaryProfile": {
+        "zip": "85016",
+        "sector": "Real Estate",
+        "fullTimeEmployees": 26,
+        "longBusinessSummary": "Orion Office REIT specializes in the ownership, acquisition and management of a diversified portfolio of mission-critical and corporate headquarters office buildings in high-quality suburban markets across the U.S. The portfolio is leased primarily on a single-tenant net lease basis to creditworthy tenants. The company's team of experienced industry leaders employs a proven, cycle-tested investment evaluation framework which serves as the lens through which capital allocation decisions are made for the current portfolio and future acquisitions.",
+        "city": "Phoenix",
+        "phone": "602-698-1002",
+        "state": "AZ",
+        "country": "United States",
+        "companyOfficers": [],
+        "maxAge": 86400,
+        "address1": "2325 East Camelback Road",
+        "industry": "REIT\u2014Office",
+        "address2": "Floor 8"
+    },
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 0,
+                "buy": 1,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [],
+            "earningsDate": [
+                1651744800
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 54664000,
+                    "earnings": 14763000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 53465000,
+                    "earnings": 15284000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 53474000,
+                    "earnings": -1899000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 79675000,
+                    "earnings": -47481000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "revenue": 12807500,
+                    "earnings": 4423500
+                },
+                {
+                    "date": "2Q2021",
+                    "revenue": 12587000,
+                    "earnings": 4296000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 13315000,
+                    "earnings": 1374000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 40745000,
+                    "earnings": -57701000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "price": {
+        "quoteSourceName": "Delayed Quote",
+        "regularMarketOpen": 13.15,
+        "averageDailyVolume3Month": 730008,
+        "exchange": "NYQ",
+        "regularMarketTime": 1651867202,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 13.26,
+        "shortName": "Orion Office REIT Inc.",
+        "averageDailyVolume10Day": 709780,
+        "longName": "Orion Office REIT Inc.",
+        "regularMarketChange": -0.10000038,
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": 13.22,
+        "postMarketTime": 1651881590,
+        "preMarketPrice": null,
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": -0.17000008,
+        "postMarketPrice": 12.95,
+        "exchangeName": "NYSE",
+        "preMarketChange": null,
+        "circulatingSupply": null,
+        "regularMarketDayLow": 12.98,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketPrice": 13.12,
+        "regularMarketVolume": 704276,
+        "lastMarket": null,
+        "regularMarketSource": "DELAYED",
+        "openInterest": null,
+        "marketState": "CLOSED",
+        "underlyingSymbol": null,
+        "marketCap": 742927872,
+        "quoteType": "EQUITY",
+        "volumeAllCurrencies": null,
+        "postMarketSource": "DELAYED",
+        "strikePrice": null,
+        "symbol": "ONL",
+        "postMarketChangePercent": -0.012957322,
+        "preMarketSource": "FREE_REALTIME",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": -0.0075643254
+    },
+    "financialData": {
+        "ebitdaMargins": 0.67177004,
+        "profitMargins": -0.59593,
+        "grossMargins": 0.73240995,
+        "operatingCashflow": 56108000,
+        "revenueGrowth": 2.064,
+        "operatingMargins": 0.13305001,
+        "ebitda": 53523000,
+        "targetLowPrice": 19,
+        "recommendationKey": "buy",
+        "grossProfits": 58355000,
+        "freeCashflow": 44887752,
+        "targetMedianPrice": 19,
+        "currentPrice": 13.12,
+        "earningsGrowth": null,
+        "currentRatio": 2.95,
+        "returnOnAssets": 0.00575,
+        "numberOfAnalystOpinions": 1,
+        "targetMeanPrice": 19,
+        "debtToEquity": 56.68,
+        "returnOnEquity": -0.05988,
+        "targetHighPrice": 19,
+        "totalCash": 29617000,
+        "totalDebt": 616846976,
+        "totalRevenue": 79675000,
+        "totalCashPerShare": 0.523,
+        "financialCurrency": "USD",
+        "maxAge": 86400,
+        "revenuePerShare": 1.407,
+        "quickRatio": 2.735,
+        "recommendationMean": 2
+    },
+    "quoteType": {
+        "exchange": "NYQ",
+        "shortName": "Orion Office REIT Inc.",
+        "longName": "Orion Office REIT Inc.",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-14400000",
+        "quoteType": "EQUITY",
+        "symbol": "ONL",
+        "messageBoardId": "finmb_1684297636",
+        "market": "us_market"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1651744800
+            ],
+            "earningsAverage": null,
+            "earningsLow": null,
+            "earningsHigh": null,
+            "revenueAverage": 13315000,
+            "revenueLow": 53930000,
+            "revenueHigh": 53930000
+        },
+        "exDividendDate": 1656460800,
+        "dividendDate": 1649980800
+    },
+    "summaryDetail": {
+        "previousClose": 13.22,
+        "regularMarketOpen": 13.15,
+        "twoHundredDayAverage": 16.547895,
+        "trailingAnnualDividendYield": 0,
+        "payoutRatio": 0,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 13.26,
+        "navPrice": null,
+        "averageDailyVolume10Day": 709780,
+        "totalAssets": null,
+        "regularMarketPreviousClose": 13.22,
+        "fiftyDayAverage": 15.0632,
+        "trailingAnnualDividendRate": 0,
+        "open": 13.15,
+        "toCurrency": null,
+        "averageVolume10days": 709780,
+        "expireDate": null,
+        "yield": null,
+        "algorithm": null,
+        "dividendRate": 0.4,
+        "exDividendDate": 1656460800,
+        "beta": null,
+        "circulatingSupply": null,
+        "startDate": null,
+        "regularMarketDayLow": 12.98,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketVolume": 704276,
+        "lastMarket": null,
+        "maxSupply": null,
+        "openInterest": null,
+        "marketCap": 742927872,
+        "volumeAllCurrencies": null,
+        "strikePrice": null,
+        "averageVolume": 730008,
+        "priceToSalesTrailing12Months": 9.324479,
+        "dayLow": 12.98,
+        "ask": 13.39,
+        "ytdReturn": null,
+        "askSize": 1000,
+        "volume": 704276,
+        "fiftyTwoWeekHigh": 19.27,
+        "forwardPE": -18.742857,
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": null,
+        "fiftyTwoWeekLow": 12.98,
+        "bid": 12.95,
+        "tradeable": false,
+        "dividendYield": 0.0305,
+        "bidSize": 900,
+        "dayHigh": 13.26
+    },
+    "symbol": "ONL",
+    "esgScores": null,
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": 1637315735,
+                "firm": "EF Hutton",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "pageViews": {
+        "shortTermTrend": "DOWN",
+        "midTermTrend": "UP",
+        "longTermTrend": "NONE",
+        "maxAge": 1
+    }
+}

@@ -1,0 +1,22 @@
+.research-header {
+  display: flex;
+  justify-content: center;
+}
+
+.search-field {
+  width: 50vw;
+}
+
+mat-divider {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+
+.bottom {
+  margin-bottom: 20px;
+}

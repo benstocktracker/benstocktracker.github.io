@@ -1,0 +1,162 @@
+<ng-container *ngIf="stockStats" class="stock-stats">
+  <div class="stat-cards">
+    <app-stat-card
+      icon="event"
+      [value]="earningsDate"
+      subtitle="Earnings Date"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="event"
+      [value]="earningsEstimateValue"
+      [subtitle]="earningsEstimateSubtitle"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="percent"
+      [value]="stockStats.defaultKeyStatistics['52WeekChange']"
+      subtitle="52Week Change"
+      [percentage]="true"
+      [fontSize]="fontSize"
+      [color]="
+        stockStats.defaultKeyStatistics['52WeekChange'] < 0
+          ? 'tomato'
+          : 'forestgreen'
+      "
+    ></app-stat-card>
+    <app-stat-card
+      icon="percent"
+      [value]="stockStats.defaultKeyStatistics.SandP52WeekChange"
+      subtitle="S&P 52Week Change"
+      [percentage]="true"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="bar_chart"
+      [value]="stockStats.price.regularMarketVolume"
+      subtitle="Volume"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="bar_chart"
+      [value]="stockStats.price.averageDailyVolume3Month"
+      subtitle="3-Month Average Volume"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="insights"
+      [value]="stockStats.defaultKeyStatistics.forwardEps || 'No Data'"
+      subtitle="Forward EPS"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="insights"
+      [value]="stockStats.summaryDetail.forwardPE || 'No Data'"
+      subtitle="Forward PE"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="insights"
+      [value]="stockStats.defaultKeyStatistics.bookValue || 'No Data'"
+      subtitle="Book Value"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    </div>
+
+  <div class="stat-cards">
+    <app-stat-card
+      icon="event"
+      [value]="
+        (stockStats.defaultKeyStatistics.lastDividendDate * 1000
+          | date: 'shortDate':'UTC') || 'No Data'
+      "
+      subtitle="Last Dividend Date"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="paid"
+      [value]="stockStats.defaultKeyStatistics.lastDividendValue || 'No Data'"
+      subtitle="Last Dividend"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="event"
+      [value]="
+        (stockStats.calendarEvents.exDividendDate * 1000
+          | date: 'shortDate':'UTC') || 'No Data'
+      "
+      subtitle="Ex-Div Date"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="event"
+      [value]="
+        (stockStats.calendarEvents.dividendDate * 1000
+          | date: 'shortDate':'UTC') || 'No Data'
+      "
+      subtitle="Dividend Date"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+
+    <app-stat-card
+      icon="percent"
+      [value]="stockStats.summaryDetail.dividendYield || '0'"
+      subtitle="Yield %"
+      [percentage]="true"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="percent"
+      [value]="stockStats.summaryDetail.trailingAnnualDividendRate / 100 || '0'"
+      subtitle="Trailing Annual Yield"
+      [percentage]="true"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="paid"
+      [value]="stockStats.summaryDetail.fiveYearAvgDividendYield || '0'"
+      subtitle="5-year Average Yield"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="percent"
+      [value]="stockStats.summaryDetail.payoutRatio || '0'"
+      subtitle="Payout Ratio"
+      [percentage]="true"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+  </div>
+
+  <div class="stat-cards">
+    <app-stat-card
+      icon="badge"
+      [value]="stockStats.summaryProfile.sector"
+      subtitle="Sector"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="badge"
+      [value]="stockStats.summaryProfile.industry"
+      subtitle="Industry"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="badge"
+      [value]="stockStats.summaryProfile.country"
+      subtitle="Country"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="badge"
+      [value]="stockStats.price.exchangeName"
+      subtitle="Exchange"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+    <app-stat-card
+      icon="badge"
+      [value]="stockStats.quoteType.quoteType | titlecase"
+      subtitle="Type"
+      [fontSize]="fontSize"
+    ></app-stat-card>
+  </div>
+</ng-container>

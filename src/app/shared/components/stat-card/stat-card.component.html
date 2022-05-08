@@ -1,0 +1,9 @@
+<mat-card>
+  <mat-icon *ngIf="icon" class="material-icons-round">{{ icon }}</mat-icon>
+  <mat-card-title [ngStyle]="getStyle()">
+    <ng-container *ngIf="currency">{{ value | currency }}</ng-container>
+    <ng-container *ngIf="percentage">{{ value | percent:'.2' }}</ng-container>
+    <ng-container *ngIf="!currency && !percentage">{{ value }}</ng-container>
+  </mat-card-title>
+  <mat-card-subtitle>{{ subtitle }}</mat-card-subtitle>
+</mat-card>
