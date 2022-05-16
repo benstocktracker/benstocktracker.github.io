@@ -5,9 +5,6 @@ import { MatTable, MatTableDataSource } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { animate, state, style, transition, trigger } from '@angular/animations';
-import { CrudService } from 'src/app/shared/services/crud.service';
-import { StocksService } from 'src/app/shared/services/stocks.service';
-import { ApiResponse } from 'src/app/shared/interfaces/api-response.interface';
 
 @Component({
   selector: 'app-stocks',
@@ -27,8 +24,9 @@ export class StocksComponent implements OnInit, AfterViewInit {
   @ViewChild(MatSort) sort!: MatSort;
   @ViewChild('singleQuoteWidget') singleQuoteWidget!: ElementRef;
 
-  today!: Date;
-  holdings = {};
+  today = new Date();
+  holdings: { [key: string]: any } = {};
+  stocksData: any[] = [];
   dataSource = new MatTableDataSource<any>();
   columnDefs = [
     'symbol', 'sharesOwned', 'costAverage', 'costBasis', 'marketValue',
@@ -79,8 +77,6 @@ export class StocksComponent implements OnInit, AfterViewInit {
   constructor(
     private activatedRoute: ActivatedRoute,
     private snackBar: MatSnackBar, 
-    private crudService: CrudService,
-    private stocksService: StocksService,
   ) { }
 
   getColColor(stock: any, index: number) {
@@ -112,29 +108,15 @@ export class StocksComponent implements OnInit, AfterViewInit {
     }
   }
 
-  ngOnInit(): void {
-    this.today = new Date();
-    // this.activatedRoute.data.subscribe(response => {
-    //   if (response['stocks'].status === 200) {
-    //     try {
-    //       this.dataSource.data = this.calculateStockData(Object.values(response['stocks'].data));
-    //     } catch (error) {
-    //       console.error(error);
-    //     }
-    //   } else {
-    //     this.showSnackBar(response['stocks'].message);
-    //   }
-    // });
+  async ngOnInit() {
     this.activatedRoute.data.subscribe(response => {
-      console.log('!!!data!!!');
-      console.log(response);
+      this.holdings = response['stocks'];
     });
-    this.crudService.load('holdings').subscribe((response: ApiResponse) => {
-      if (response.status === 200) {
-        this.holdings = response.data;
-      } else {
-        this.showSnackBar(response.message!);
-      }
+    Object.keys(this.holdings).forEach(ticker => {
+      import(`../../../../assets/stockData/${ticker}-stats.json`).then(data => {
+        this.stocksData.push({ ...data, 'holdings': this.holdings[ticker] })
+        this.dataSource.data = this.calculateStockData(this.stocksData);
+      });
     });
   }
 
@@ -155,7 +137,11 @@ export class StocksComponent implements OnInit, AfterViewInit {
     this.dataSource.filter = (event.target as HTMLInputElement).value;
   }
 
-  calculateStockData(portfolio: any) {
+  expandRow(row: any) {
+    this.expandedRow = this.expandedRow === row ? null : row;
+  }
+
+  calculateStockData(portfolio: any[]) {    
     return portfolio.map((stock: any) => {
       const sharesOwned = stock.holdings
                             .map((holding: any) => holding.sharesOwned)
@@ -196,30 +182,5 @@ export class StocksComponent implements OnInit, AfterViewInit {
       stockRow.stats = stock;
       return stockRow;
     });
-  }
-
-  expandRow(row: any) {
-    this.expandedRow = this.expandedRow === row ? null : row;
-  }
-
-  refreshAllStocks() {
-    this.showSnackBar('Fetching all stock data...');
-    this.stocksService.stocksData('fetch').subscribe((response: ApiResponse) => {
-      this.showSnackBar(response.message!);
-    });
-  }
-
-  refreshStock(stock: any) {
-    this.showSnackBar(`Fetching data for ${stock.symbol}`);
-    this.stocksService.fetchOneTickerData(stock.symbol).subscribe((response: ApiResponse) => {
-      this.showSnackBar(response.message!);
-    })
-  }
-
-  saveHoldings() {
-    this.showSnackBar('Saving stocks data...')
-    this.crudService.dump('holdings', this.holdings).subscribe((response: ApiResponse) => {
-        this.showSnackBar(response.message!);
-      });
   }
 }

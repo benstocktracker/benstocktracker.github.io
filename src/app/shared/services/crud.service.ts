@@ -29,7 +29,6 @@ export class CrudService {
     let errorMessage = error.error instanceof ErrorEvent 
       ? error.error.message 
       : `Error Code: ${error.status}\nMessage: ${error.message}`;
-    console.log('backend service error:', errorMessage);
     this.showSnackBar(errorMessage);
     return of({data: [], message: errorMessage, status: 500});
   }

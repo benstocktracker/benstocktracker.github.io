@@ -1,7 +1,7 @@
 {
     "AAPL": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 68.54,
             "costBasis": 6854.000000000001,
             "sharesOwned": 100,
@@ -10,7 +10,7 @@
     ],
     "ABBV": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 87.13,
             "costBasis": 4356.5,
             "sharesOwned": 50,
@@ -19,7 +19,7 @@
     ],
     "ARCC": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 13.8,
             "costBasis": 690,
             "sharesOwned": 50,
@@ -28,7 +28,7 @@
     ],
     "BEN": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 19.35,
             "costBasis": 580.5,
             "sharesOwned": 30,
@@ -37,7 +37,7 @@
     ],
     "DIDI": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 12.59,
             "costBasis": 3777,
             "sharesOwned": 300,
@@ -46,7 +46,7 @@
     ],
     "DIS": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 99.49,
             "costBasis": 2984.7,
             "sharesOwned": 30,
@@ -55,7 +55,7 @@
     ],
     "DOCN": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 39.79,
             "costBasis": 996.0000000000001,
             "sharesOwned": 30,
@@ -64,7 +64,7 @@
     ],
     "ENB": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 30.01,
             "costBasis": 3001,
             "sharesOwned": 100,
@@ -73,7 +73,7 @@
     ],
     "ET": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 5.91,
             "costBasis": 591,
             "sharesOwned": 100,
@@ -82,7 +82,7 @@
     ],
     "FRT": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 76.15,
             "costBasis": 761.5,
             "sharesOwned": 10,
@@ -91,7 +91,7 @@
     ],
     "GILD": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 61.01,
             "costBasis": 1830.3,
             "sharesOwned": 30,
@@ -100,7 +100,7 @@
     ],
     "JMIA": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 19.65,
             "costBasis": 3929.9999999999995,
             "sharesOwned": 200,
@@ -109,7 +109,7 @@
     ],
     "KMI": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 10.94,
             "costBasis": 273.5,
             "sharesOwned": 25,
@@ -118,7 +118,7 @@
     ],
     "MSFT": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 167.08,
             "costBasis": 5012.400000000001,
             "sharesOwned": 30,
@@ -127,7 +127,7 @@
     ],
     "NIO": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 28.11,
             "costBasis": 1405.5,
             "sharesOwned": 50,
@@ -145,7 +145,7 @@
     ],
     "O": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 59.98,
             "costBasis": 2927,
             "sharesOwned": 60,
@@ -154,7 +154,7 @@
     ],
     "ONL": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 13.96,
             "costBasis": 101.8,
             "sharesOwned": 50,
@@ -163,7 +163,7 @@
     ],
     "PFE": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 34.55,
             "costBasis": 1209.25,
             "sharesOwned": 35,
@@ -172,7 +172,7 @@
     ],
     "QYLD": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 19.88,
             "costBasis": 1009.5000000000001,
             "sharesOwned": 95,
@@ -181,7 +181,7 @@
     ],
     "RTL": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 5.45,
             "costBasis": 545,
             "sharesOwned": 100,
@@ -190,7 +190,7 @@
     ],
     "SPG": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 65.77,
             "costBasis": 1315.3999999999999,
             "sharesOwned": 20,
@@ -199,7 +199,7 @@
     ],
     "STOR": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 27.468,
             "costBasis": 1369.5,
             "sharesOwned": 90,
@@ -208,14 +208,14 @@
     ],
     "T": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 22.5,
             "costBasis": 2250,
             "sharesOwned": 100,
             "ticker": "T"
         },
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 24.29,
             "costBasis": 1457.3999999999999,
             "sharesOwned": 60,
@@ -224,7 +224,7 @@
     ],
     "TPVG": [
         {
-            "account": "Brokerage",
+            "account": "Schwab",
             "costAverage": 10.33,
             "costBasis": 516.5,
             "sharesOwned": 50,
@@ -233,7 +233,7 @@
     ],
     "TSM": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 102.52,
             "costBasis": 2053.2,
             "sharesOwned": 20,
@@ -242,7 +242,7 @@
     ],
     "UL": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 46.25,
             "costBasis": 1156.25,
             "sharesOwned": 25,
@@ -251,7 +251,7 @@
     ],
     "VICI": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 27.02,
             "costBasis": 270.2,
             "sharesOwned": 10,
@@ -260,7 +260,7 @@
     ],
     "VTRS": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 10.87,
             "costBasis": 1250,
             "sharesOwned": 25,
@@ -269,7 +269,7 @@
     ],
     "VZ": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 50.68,
             "costBasis": 1558.5,
             "sharesOwned": 40,
@@ -278,7 +278,7 @@
     ],
     "XPEV": [
         {
-            "account": "Roth IRA",
+            "account": "Roth",
             "costAverage": 31.74,
             "costBasis": 2380.5,
             "sharesOwned": 75,
