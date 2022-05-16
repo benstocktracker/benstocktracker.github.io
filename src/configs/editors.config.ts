@@ -3,5 +3,5 @@ export const editorConfig = {
     BudgetTypes: ['Expense', 'Need', 'Want', 'Other'],
     AccountTypes: ['Debit', 'Saving', 'Checking', 'HSA', 'Credit Card', 'Investment', 'Retirement', 'Crypto'],
     AccountStatus: ['Active', 'Not used', 'Closed', 'Other'],
-    InvestmentAccounts: ['Schwab', 'Webull', 'Roth', 'HSA', 'Coinbase'],
+    InvestmentAccounts: ['Brokerage', 'Brokerage', 'Roth IRA', 'HSA', 'Coinbase'],
 }

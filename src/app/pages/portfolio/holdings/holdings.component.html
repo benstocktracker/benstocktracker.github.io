@@ -1,38 +1,3 @@
-<div class="holdings-actions">
-  <form class="form-group center" [formGroup]="holdingForm" (ngSubmit)="addHolding()">
-    <mat-form-field class="form-field">
-      <mat-label for="ticker">Ticker</mat-label>
-      <input matInput formControlName="ticker" type="text" id="ticker" class="form-control" oninput="this.value = this.value.toUpperCase()"/>
-    </mat-form-field>
-    <mat-form-field class="form-field">
-      <mat-label for="sharesOwned">Shares Owned</mat-label>
-      <input matInput formControlName="sharesOwned" type="number" id="sharesOwned" class="form-control" />
-    </mat-form-field>
-    <mat-form-field class="form-field">
-      <mat-label for="costAverage">Cost Average</mat-label>
-      <input matInput formControlName="costAverage" type="number" id="costAverage" class="form-control" />
-    </mat-form-field>
-    <mat-form-field class="form-field">
-      <mat-label for="account">Account</mat-label>
-      <mat-select formControlName="account" id="account" class="form-control">
-        <mat-option *ngFor="let account of investmentAccounts" value="{{account}}">{{ account }}</mat-option>
-      </mat-select>
-    </mat-form-field>
-    <button mat-button type="submit" color="primary">
-      <mat-icon class="material-icons-round">post_add</mat-icon>
-    </button>
-  </form>
-  <div>
-    <button mat-button color="primary" (click)="saveHoldings()">
-      <mat-icon class="material-icons-round">save</mat-icon>
-    </button>
-    <mat-form-field appearance="standard">
-      <mat-label>Filter</mat-label>
-      <input matInput (keyup)="applyFilter($event)" #input>
-    </mat-form-field>
-  </div>
-</div>
-
 <table mat-table matSort [dataSource]="dataSource" class="mat-elevation-z8 holdings-table">
   <ng-container matColumnDef="ticker">
     <th mat-header-cell *matHeaderCellDef mat-sort-header>Ticker</th>
@@ -60,23 +25,11 @@
     <td mat-footer-cell *matFooterCellDef></td>
   </ng-container>
 
-  <ng-container matColumnDef="actions">
-    <th mat-header-cell *matHeaderCellDef></th>
-    <td mat-cell *matCellDef="let holding; let ridx = index">
-        <button mat-button color="primary" (click)="editHolding(holding, ridx)">
-          <mat-icon class="material-icons-round">edit</mat-icon>
-        </button>
-        <button mat-button color="warn" (click)="deleteHolding(ridx)">
-          <mat-icon class="material-icons-round">delete</mat-icon>
-        </button>
-    </td>
-  </ng-container>
-
   <tr mat-header-row *matHeaderRowDef="columnDefs; sticky: true;" class="table-header"></tr>
   <tr mat-row cdkDrag *matRowDef="let row; columns: columnDefs"></tr>
   <tr *matNoDataRow class="mat-row">
     <td class="mat-cell" colspan="4">
-      Wow! No data matching the filter "{{ input.value }}".
+      Wow! No data here!
     </td>
   </tr>
 </table>
