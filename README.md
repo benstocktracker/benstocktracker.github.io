@@ -1,3 +1,3 @@
 # BenStockTracker
 
-Work in progress, everything is broken! :)
+Work in progress, most things are very broken lol! :)

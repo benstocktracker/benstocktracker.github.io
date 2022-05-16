@@ -4,17 +4,17 @@ import { StocksDataResolver } from './pages/portfolio/data.resolver';
 
 const routes: Routes = [
   {
-    path: '',
-    loadChildren: () => import('./pages/main/main.module').then(m => m.MainModule)
-  },
-  {
-    path: 'portfolio', 
+    path: '', 
     loadChildren: () => import('./pages/portfolio/portfolio.module').then(m => m.PortfolioModule),
     resolve: {stocks: StocksDataResolver}
   },
   {
     path: 'research', 
     loadChildren: () => import('./pages/stock-research/stock-research.module').then(m => m.StockResearchModule),
+  },
+  {
+    path: 'updates',
+    loadChildren: () => import('./pages/main/main.module').then(m => m.MainModule)
   },
   {
     path: '**', 

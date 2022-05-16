@@ -62,7 +62,7 @@ export class StocksService {
   }
 
   loadHoldings(): any {
-    const httpCall = this.http.get<object>("assets/holdings.json");
+    const httpCall = this.http.get<object>("assets/stocks/holdings.json");
     return this.wrapHttpCall(httpCall);
   }
 }

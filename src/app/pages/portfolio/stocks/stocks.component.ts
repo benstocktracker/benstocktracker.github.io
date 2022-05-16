@@ -113,7 +113,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
       this.holdings = response['stocks'];
     });
     Object.keys(this.holdings).forEach(ticker => {
-      import(`../../../../assets/stockData/${ticker}-stats.json`).then(data => {
+      import(`../../../../assets/stocks/${ticker}-stats.json`).then(data => {
         this.stocksData.push({ ...data, 'holdings': this.holdings[ticker] })
         this.dataSource.data = this.calculateStockData(this.stocksData);
       });
