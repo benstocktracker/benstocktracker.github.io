@@ -6,7 +6,6 @@ import { SharedComponentsModule } from 'src/app/shared/components/shared-compone
 import { PortfolioRoutingModule } from './portfolio-routing.module';
 import { StocksComponent } from './stocks/stocks.component';
 import { StockDetailsComponent } from './stock-details/stock-details.component';
-import { HoldingsComponent } from './holdings/holdings.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { NewsComponent } from './news/news.component';
 
@@ -15,7 +14,6 @@ import { NewsComponent } from './news/news.component';
   declarations: [
     StocksComponent,
     StockDetailsComponent,
-    HoldingsComponent,
     PortfolioComponent,
     NewsComponent
   ],
