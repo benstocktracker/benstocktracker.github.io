@@ -1,0 +1,391 @@
+{
+    "defaultKeyStatistics": {
+        "annualHoldingsTurnover": null,
+        "enterpriseToRevenue": 8.167,
+        "beta3Year": null,
+        "profitMargins": -0.11988,
+        "enterpriseToEbitda": 13.854,
+        "52WeekChange": -0.18895966,
+        "morningStarRiskRating": null,
+        "forwardEps": null,
+        "revenueQuarterlyGrowth": null,
+        "sharesOutstanding": 133041000,
+        "fundInceptionDate": null,
+        "annualReportExpenseRatio": null,
+        "totalAssets": null,
+        "bookValue": 13.779,
+        "sharesShort": 2334920,
+        "sharesPercentSharesOut": 0.0176,
+        "fundFamily": null,
+        "lastFiscalYearEnd": 1640908800,
+        "heldPercentInstitutions": 0.56915003,
+        "netIncomeToCommon": -64478000,
+        "trailingEps": -0.56,
+        "lastDividendValue": 0.213,
+        "SandP52WeekChange": -0.05660814,
+        "priceToBook": 0.5544669,
+        "heldPercentInsiders": 0.00511,
+        "nextFiscalYearEnd": 1703980800,
+        "yield": null,
+        "mostRecentQuarter": 1640908800,
+        "shortRatio": 3.13,
+        "sharesShortPreviousMonthDate": 1648684800,
+        "floatShares": 128652747,
+        "beta": 1.450191,
+        "enterpriseValue": 2737352192,
+        "priceHint": 2,
+        "threeYearAverageReturn": null,
+        "lastSplitDate": null,
+        "lastSplitFactor": null,
+        "legalType": null,
+        "lastDividendDate": 1649376000,
+        "morningStarOverallRating": null,
+        "earningsQuarterlyGrowth": null,
+        "priceToSalesTrailing12Months": null,
+        "dateShortInterest": 1651190400,
+        "pegRatio": null,
+        "ytdReturn": null,
+        "forwardPE": null,
+        "maxAge": 1,
+        "lastCapGain": null,
+        "shortPercentOfFloat": 0.02,
+        "sharesShortPriorMonth": 3316623,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "fiveYearAverageReturn": null
+    },
+    "details": null,
+    "summaryProfile": {
+        "zip": "10019",
+        "sector": "Real Estate",
+        "longBusinessSummary": "The Necessity Retail REIT (Nasdaq: RTL) is a publicly traded real estate investment trust listed on Nasdaq focused on acquiring and managing a diversified portfolio of primarily service-oriented and traditional retail and distribution related commercial real estate properties in the U.S. Additional information about RTL can be found on its website at www.necessityretailreit.com.",
+        "city": "New York",
+        "phone": "212-415-6500",
+        "state": "NY",
+        "country": "United States",
+        "companyOfficers": [],
+        "website": "https://www.necessityretailreit.com",
+        "maxAge": 86400,
+        "address1": "650 Fifth Avenue",
+        "industry": "REIT\u2014Diversified",
+        "address2": "30th Floor"
+    },
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 1,
+                "buy": 2,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 0,
+                "buy": 0,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "1Q2020",
+                    "actual": -0.04,
+                    "estimate": 0.26
+                },
+                {
+                    "date": "2Q2020",
+                    "actual": -0.08,
+                    "estimate": 0.26
+                },
+                {
+                    "date": "3Q2020",
+                    "actual": -0.05,
+                    "estimate": 0.27
+                },
+                {
+                    "date": "2Q2021",
+                    "actual": -0.07,
+                    "estimate": 0.24
+                }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2021,
+            "earningsDate": [
+                1659988800,
+                1660334400
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 291207000,
+                    "earnings": -37409000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 299744000,
+                    "earnings": 4147000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 305224000,
+                    "earnings": -31862000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 335156000,
+                    "earnings": -40179000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "1Q2021",
+                    "revenue": 79187000,
+                    "earnings": -3748000
+                },
+                {
+                    "date": "2Q2021",
+                    "revenue": 81577000,
+                    "earnings": -1480000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 91915000,
+                    "earnings": -569000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 82477000,
+                    "earnings": -34382000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "price": {
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "regularMarketOpen": 7.74,
+        "averageDailyVolume3Month": 842508,
+        "exchange": "NMS",
+        "regularMarketTime": 1652904004,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 7.97,
+        "shortName": "The Necessity Retail REIT, Inc.",
+        "averageDailyVolume10Day": 758630,
+        "longName": "The Necessity Retail REIT, Inc.",
+        "regularMarketChange": -0.16000032,
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": 7.8,
+        "postMarketTime": 1652913759,
+        "preMarketPrice": 7.88,
+        "preMarketTime": 1652880571,
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": -0.0299997,
+        "postMarketPrice": 7.61,
+        "exchangeName": "NasdaqGS",
+        "preMarketChange": 0.0799999,
+        "circulatingSupply": null,
+        "regularMarketDayLow": 7.615,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketPrice": 7.64,
+        "regularMarketVolume": 960087,
+        "lastMarket": null,
+        "regularMarketSource": "FREE_REALTIME",
+        "openInterest": null,
+        "marketState": "POSTPOST",
+        "underlyingSymbol": null,
+        "marketCap": 1017754944,
+        "quoteType": "EQUITY",
+        "preMarketChangePercent": 0.0102564,
+        "volumeAllCurrencies": null,
+        "postMarketSource": "FREE_REALTIME",
+        "strikePrice": null,
+        "symbol": "RTL",
+        "postMarketChangePercent": -0.00392667,
+        "preMarketSource": "FREE_REALTIME",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": -0.020512862
+    },
+    "financialData": {
+        "ebitdaMargins": 0.58953,
+        "profitMargins": -0.11988,
+        "grossMargins": 0.72382003,
+        "operatingCashflow": 145227008,
+        "revenueGrowth": 0.068,
+        "operatingMargins": 0.22082001,
+        "ebitda": 197583008,
+        "targetLowPrice": 11,
+        "recommendationKey": "buy",
+        "grossProfits": 242592000,
+        "freeCashflow": -103252000,
+        "targetMedianPrice": 11,
+        "currentPrice": 7.64,
+        "earningsGrowth": null,
+        "currentRatio": 12.806,
+        "returnOnAssets": 0.012460001,
+        "numberOfAnalystOpinions": 3,
+        "targetMeanPrice": 11.33,
+        "debtToEquity": 115.486,
+        "returnOnEquity": -0.023570001,
+        "targetHighPrice": 12,
+        "totalCash": 214852992,
+        "totalDebt": 1975139968,
+        "totalRevenue": 335156000,
+        "totalCashPerShare": 1.661,
+        "financialCurrency": "USD",
+        "maxAge": 86400,
+        "revenuePerShare": 2.904,
+        "quickRatio": 6.685,
+        "recommendationMean": 2
+    },
+    "quoteType": {
+        "exchange": "NMS",
+        "shortName": "The Necessity Retail REIT, Inc.",
+        "longName": "The Necessity Retail REIT, Inc.",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-14400000",
+        "quoteType": "EQUITY",
+        "symbol": "RTL",
+        "messageBoardId": "finmb_231649027",
+        "market": "us_market"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1659988800,
+                1660334400
+            ],
+            "earningsAverage": null,
+            "earningsLow": null,
+            "earningsHigh": null,
+            "revenueAverage": 91915000,
+            "revenueLow": 83040000,
+            "revenueHigh": 83770000
+        },
+        "exDividendDate": 1649376000,
+        "dividendDate": 1650240000
+    },
+    "summaryDetail": {
+        "previousClose": 7.8,
+        "regularMarketOpen": 7.74,
+        "twoHundredDayAverage": 8.21915,
+        "trailingAnnualDividendYield": 0.10897436,
+        "payoutRatio": null,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 7.97,
+        "navPrice": null,
+        "averageDailyVolume10Day": 758630,
+        "totalAssets": null,
+        "regularMarketPreviousClose": 7.8,
+        "fiftyDayAverage": 7.6374,
+        "trailingAnnualDividendRate": 0.85,
+        "open": 7.74,
+        "toCurrency": null,
+        "averageVolume10days": 758630,
+        "expireDate": null,
+        "yield": null,
+        "algorithm": null,
+        "dividendRate": 0.85,
+        "exDividendDate": 1649376000,
+        "beta": 1.450191,
+        "circulatingSupply": null,
+        "startDate": null,
+        "regularMarketDayLow": 7.615,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketVolume": 960087,
+        "lastMarket": null,
+        "maxSupply": null,
+        "openInterest": null,
+        "marketCap": 1017754944,
+        "volumeAllCurrencies": null,
+        "strikePrice": null,
+        "averageVolume": 842508,
+        "priceToSalesTrailing12Months": 3.0366604,
+        "dayLow": 7.615,
+        "ask": 7.84,
+        "ytdReturn": null,
+        "askSize": 3200,
+        "volume": 960087,
+        "fiftyTwoWeekHigh": 9.57,
+        "forwardPE": null,
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": null,
+        "fiftyTwoWeekLow": 6.83,
+        "bid": 7.64,
+        "tradeable": false,
+        "dividendYield": 0.1169,
+        "bidSize": 900,
+        "dayHigh": 7.97
+    },
+    "symbol": "RTL",
+    "esgScores": null,
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": 1652180027,
+                "firm": "JMP Securities",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1644242996,
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1640099309,
+                "firm": "Colliers Securities",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "pageViews": {
+        "shortTermTrend": "UP",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}

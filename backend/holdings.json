@@ -1,0 +1,288 @@
+{
+    "AAPL": [
+        {
+            "account": "Brokerage",
+            "costAverage": 68.54,
+            "costBasis": 6854.000000000001,
+            "sharesOwned": 100,
+            "ticker": "AAPL"
+        }
+    ],
+    "ABBV": [
+        {
+            "account": "Brokerage",
+            "costAverage": 87.13,
+            "costBasis": 4356.5,
+            "sharesOwned": 50,
+            "ticker": "ABBV"
+        }
+    ],
+    "ARCC": [
+        {
+            "account": "Brokerage",
+            "costAverage": 13.8,
+            "costBasis": 690,
+            "sharesOwned": 50,
+            "ticker": "ARCC"
+        }
+    ],
+    "BEN": [
+        {
+            "account": "Brokerage",
+            "costAverage": 19.35,
+            "costBasis": 580.5,
+            "sharesOwned": 30,
+            "ticker": "BEN"
+        }
+    ],
+    "DIDI": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 12.59,
+            "costBasis": 3777,
+            "sharesOwned": 300,
+            "ticker": "DIDI"
+        }
+    ],
+    "DIS": [
+        {
+            "account": "Brokerage",
+            "costAverage": 99.49,
+            "costBasis": 2984.7,
+            "sharesOwned": 30,
+            "ticker": "DIS"
+        }
+    ],
+    "DOCN": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 39.79,
+            "costBasis": 996.0000000000001,
+            "sharesOwned": 30,
+            "ticker": "DOCN"
+        }
+    ],
+    "ENB": [
+        {
+            "account": "Brokerage",
+            "costAverage": 30.01,
+            "costBasis": 3001,
+            "sharesOwned": 100,
+            "ticker": "ENB"
+        }
+    ],
+    "ET": [
+        {
+            "account": "Brokerage",
+            "costAverage": 5.91,
+            "costBasis": 591,
+            "sharesOwned": 100,
+            "ticker": "ET"
+        }
+    ],
+    "FRT": [
+        {
+            "account": "Brokerage",
+            "costAverage": 76.15,
+            "costBasis": 761.5,
+            "sharesOwned": 10,
+            "ticker": "FRT"
+        }
+    ],
+    "GILD": [
+        {
+            "account": "Brokerage",
+            "costAverage": 61.01,
+            "costBasis": 1830.3,
+            "sharesOwned": 30,
+            "ticker": "GILD"
+        }
+    ],
+    "JMIA": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 19.65,
+            "costBasis": 3929.9999999999995,
+            "sharesOwned": 200,
+            "ticker": "JMIA"
+        }
+    ],
+    "KMI": [
+        {
+            "account": "Brokerage",
+            "costAverage": 10.94,
+            "costBasis": 273.5,
+            "sharesOwned": 25,
+            "ticker": "KMI"
+        }
+    ],
+    "MSFT": [
+        {
+            "account": "Brokerage",
+            "costAverage": 167.08,
+            "costBasis": 5012.400000000001,
+            "sharesOwned": 30,
+            "ticker": "MSFT"
+        }
+    ],
+    "NIO": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 28.11,
+            "costBasis": 1405.5,
+            "sharesOwned": 50,
+            "ticker": "NIO"
+        }
+    ],
+    "NVAX": [
+        {
+            "account": "Brokerage",
+            "costAverage": 44.46,
+            "costBasis": 444.6,
+            "sharesOwned": 10,
+            "ticker": "NVAX"
+        }
+    ],
+    "O": [
+        {
+            "account": "Brokerage",
+            "costAverage": 59.98,
+            "costBasis": 2927,
+            "sharesOwned": 60,
+            "ticker": "O"
+        }
+    ],
+    "ONL": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 13.96,
+            "costBasis": 101.8,
+            "sharesOwned": 50,
+            "ticker": "ONL"
+        }
+    ],
+    "PFE": [
+        {
+            "account": "Brokerage",
+            "costAverage": 34.55,
+            "costBasis": 1209.25,
+            "sharesOwned": 35,
+            "ticker": "PFE"
+        }
+    ],
+    "QYLD": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 19.88,
+            "costBasis": 1009.5000000000001,
+            "sharesOwned": 95,
+            "ticker": "QYLD"
+        }
+    ],
+    "RTL": [
+        {
+            "account": "Brokerage",
+            "costAverage": 5.45,
+            "costBasis": 545,
+            "sharesOwned": 100,
+            "ticker": "RTL"
+        }
+    ],
+    "SPG": [
+        {
+            "account": "Brokerage",
+            "costAverage": 65.77,
+            "costBasis": 1315.3999999999999,
+            "sharesOwned": 20,
+            "ticker": "SPG"
+        }
+    ],
+    "STOR": [
+        {
+            "account": "Brokerage",
+            "costAverage": 27.468,
+            "costBasis": 1369.5,
+            "sharesOwned": 90,
+            "ticker": "STOR"
+        }
+    ],
+    "T": [
+        {
+            "account": "Brokerage",
+            "costAverage": 22.5,
+            "costBasis": 2250,
+            "sharesOwned": 100,
+            "ticker": "T"
+        },
+        {
+            "account": "Roth IRA",
+            "costAverage": 24.29,
+            "costBasis": 1457.3999999999999,
+            "sharesOwned": 60,
+            "ticker": "T"
+        }
+    ],
+    "TPVG": [
+        {
+            "account": "Brokerage",
+            "costAverage": 10.33,
+            "costBasis": 516.5,
+            "sharesOwned": 50,
+            "ticker": "TPVG"
+        }
+    ],
+    "TSM": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 102.52,
+            "costBasis": 2053.2,
+            "sharesOwned": 20,
+            "ticker": "TSM"
+        }
+    ],
+    "UL": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 46.25,
+            "costBasis": 1156.25,
+            "sharesOwned": 25,
+            "ticker": "UL"
+        }
+    ],
+    "VICI": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 27.02,
+            "costBasis": 270.2,
+            "sharesOwned": 10,
+            "ticker": "VICI"
+        }
+    ],
+    "VTRS": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 10.87,
+            "costBasis": 1250,
+            "sharesOwned": 25,
+            "ticker": "VTRS"
+        }
+    ],
+    "VZ": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 50.68,
+            "costBasis": 1558.5,
+            "sharesOwned": 40,
+            "ticker": "VZ"
+        }
+    ],
+    "XPEV": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 31.74,
+            "costBasis": 2380.5,
+            "sharesOwned": 75,
+            "ticker": "XPEV"
+        }
+    ]
+}
