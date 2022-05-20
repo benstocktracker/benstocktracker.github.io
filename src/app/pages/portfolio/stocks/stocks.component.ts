@@ -108,7 +108,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
     }
   }
 
-  async ngOnInit() {
+  ngOnInit() {
     this.activatedRoute.data.subscribe(response => {
       this.holdings = response['stocks'];
     });

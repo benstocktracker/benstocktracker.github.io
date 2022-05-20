@@ -1,66 +1,66 @@
 {
-    "5f97c2be-4066-355b-9d0a-f0695977ae15": {
-        "uuid": "5f97c2be-4066-355b-9d0a-f0695977ae15",
-        "title": "Better Buy: AMD vs. Intel",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/5f97c2be-4066-355b-9d0a-f0695977ae15/better-buy%3A-amd-vs.-intel.html",
-        "providerPublishTime": 1651923720,
-        "type": "STORY"
-    },
-    "60baeb55-77f1-3506-8593-61318bb7ee8b": {
-        "uuid": "60baeb55-77f1-3506-8593-61318bb7ee8b",
-        "title": "4 Stocks to Add During This Market Sell-Off",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/60baeb55-77f1-3506-8593-61318bb7ee8b/4-stocks-to-add-during-this.html",
-        "providerPublishTime": 1651746600,
-        "type": "STORY"
-    },
-    "020e0549-58a2-3594-8b12-dff62544758e": {
-        "uuid": "020e0549-58a2-3594-8b12-dff62544758e",
-        "title": "AMD Soars After Data-Center Chip Sales Fuel Upbeat Forecast",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/amd-delivers-upbeat-forecast-sells-202842121.html",
-        "providerPublishTime": 1651615905,
-        "type": "STORY"
-    },
-    "139effdf-c73f-307d-9bc0-7d2a85f57ebf": {
-        "uuid": "139effdf-c73f-307d-9bc0-7d2a85f57ebf",
-        "title": "Buy Nvidia Stock As Semiconductor Companies Start to Recover",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/buy-nvidia-stock-semiconductor-companies-174203905.html",
-        "providerPublishTime": 1651513323,
-        "type": "STORY"
-    },
-    "c4a67825-b1a0-3e5c-bf0c-dccefb60cacf": {
-        "uuid": "c4a67825-b1a0-3e5c-bf0c-dccefb60cacf",
-        "title": "Taiwan's stocks suffer market jolt as China's zero-Covid policy and lockdown disrupt supply chains from PCs to vehicles",
-        "publisher": "South China Morning Post",
-        "link": "https://finance.yahoo.com/news/taiwans-stocks-suffer-market-jolt-093000150.html",
-        "providerPublishTime": 1651483800,
-        "type": "STORY"
-    },
-    "cb376cf6-d4a6-3276-9ce8-872d17501c92": {
-        "uuid": "cb376cf6-d4a6-3276-9ce8-872d17501c92",
-        "title": "The Semiconductor Shortage Is Far From Over, According to Industry Executives",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cb376cf6-d4a6-3276-9ce8-872d17501c92/the-semiconductor-shortage-is.html",
-        "providerPublishTime": 1651320780,
-        "type": "STORY"
-    },
-    "e9a8e03d-6a4d-377d-8e52-dfc997787316": {
-        "uuid": "e9a8e03d-6a4d-377d-8e52-dfc997787316",
-        "title": "Intel CEO Promises Quicker Return to Technological Leadership",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/intel-ceo-promises-quicker-return-165615523.html",
-        "providerPublishTime": 1651251375,
-        "type": "STORY"
-    },
-    "2f08b7da-4b18-3748-a8e4-8d64608ee89b": {
-        "uuid": "2f08b7da-4b18-3748-a8e4-8d64608ee89b",
-        "title": "Have Microchip Stocks Declined Into an Attractive Buying Level?",
+    "8e7b08e5-218a-329d-abdd-ec80527ab1b1": {
+        "uuid": "8e7b08e5-218a-329d-abdd-ec80527ab1b1",
+        "title": "Why AMD Investors Can Sleep Soundly",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/microchip-stocks-declined-attractive-buying-201108559.html",
-        "providerPublishTime": 1651176668,
+        "link": "https://finance.yahoo.com/news/why-amd-investors-sleep-soundly-223510257.html",
+        "providerPublishTime": 1652999710,
+        "type": "STORY"
+    },
+    "2e70080b-dbc9-3a9d-864e-e16f97e29ecb": {
+        "uuid": "2e70080b-dbc9-3a9d-864e-e16f97e29ecb",
+        "title": "Samsung Struggles to Go Green in Coal-Addicted South Korea",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/samsung-struggles-green-coal-addicted-220001416.html",
+        "providerPublishTime": 1652997601,
+        "type": "STORY"
+    },
+    "5f61e1a4-5dfd-3d76-b462-c404a5bebe22": {
+        "uuid": "5f61e1a4-5dfd-3d76-b462-c404a5bebe22",
+        "title": "Applied Materials Gives Weak Forecast as Shortages Drag On",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/applied-materials-gives-weak-forecast-201640675.html",
+        "providerPublishTime": 1652994913,
+        "type": "STORY"
+    },
+    "363eabe6-556e-3170-9865-de6ce6d8af48": {
+        "uuid": "363eabe6-556e-3170-9865-de6ce6d8af48",
+        "title": "TSMC Weighs Multi-Billion Dollar Chip Plant Investment In Singapore",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/tsmc-weighs-multi-billion-dollar-181145701.html",
+        "providerPublishTime": 1652983905,
+        "type": "STORY"
+    },
+    "36b55379-8ac1-382b-8713-27afd75a865e": {
+        "uuid": "36b55379-8ac1-382b-8713-27afd75a865e",
+        "title": "TSMC Looks to Build Multibillion-Dollar Chip Plant in Singapore",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/36b55379-8ac1-382b-8713-27afd75a865e/tsmc-looks-to-build.html",
+        "providerPublishTime": 1652965500,
+        "type": "STORY"
+    },
+    "4bbe5a2c-ce8a-34aa-af44-febae621be09": {
+        "uuid": "4bbe5a2c-ce8a-34aa-af44-febae621be09",
+        "title": "10 Best Stocks to Buy Now According to Billionaire Ken Fisher",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-now-130340279.html",
+        "providerPublishTime": 1652965420,
+        "type": "STORY"
+    },
+    "153d9b5e-c8cc-386a-a890-1b1db23f535f": {
+        "uuid": "153d9b5e-c8cc-386a-a890-1b1db23f535f",
+        "title": "This Semiconductor Stock Could Go Parabolic",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/153d9b5e-c8cc-386a-a890-1b1db23f535f/this-semiconductor-stock.html",
+        "providerPublishTime": 1652890885,
+        "type": "STORY"
+    },
+    "e76c6619-a512-3edc-9573-23387fb808d9": {
+        "uuid": "e76c6619-a512-3edc-9573-23387fb808d9",
+        "title": "3 Tech Stocks That Could Help Set You Up for Life",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e76c6619-a512-3edc-9573-23387fb808d9/3-tech-stocks-that-could-help.html",
+        "providerPublishTime": 1652889058,
         "type": "STORY"
     }
 }

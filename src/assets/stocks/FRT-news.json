@@ -1,10 +1,42 @@
 {
-    "4d494fc5-1a5e-3119-aab0-dc29c68f68aa": {
-        "uuid": "4d494fc5-1a5e-3119-aab0-dc29c68f68aa",
-        "title": "Analyst Report: Federal Realty Investment Trust",
-        "publisher": "Morningstar Research",
-        "link": "https://finance.yahoo.com/m/4d494fc5-1a5e-3119-aab0-dc29c68f68aa/analyst-report%3A-federal.html",
-        "providerPublishTime": 1651798108,
+    "4ef05896-8516-31ca-a9ad-042c7bc0977c": {
+        "uuid": "4ef05896-8516-31ca-a9ad-042c7bc0977c",
+        "title": "3 Dividend Stocks to Buy for Passive Income",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/3-dividend-stocks-buy-passive-113031826.html",
+        "providerPublishTime": 1652441431,
+        "type": "STORY"
+    },
+    "b5602845-d91d-3202-be66-af8a0e476274": {
+        "uuid": "b5602845-d91d-3202-be66-af8a0e476274",
+        "title": "Simon Property (SPG) Q1 FFO Tops, '22 View Up, Dividend Hiked",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/simon-property-spg-q1-ffo-143902094.html",
+        "providerPublishTime": 1652193542,
+        "type": "STORY"
+    },
+    "a2f491cc-78fc-3666-b69d-5d1709c5b8f5": {
+        "uuid": "a2f491cc-78fc-3666-b69d-5d1709c5b8f5",
+        "title": "Macerich's (MAC) Q1 FFO Beats, Revenues Lag, Stock Down",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/macerichs-mac-q1-ffo-beats-132601798.html",
+        "providerPublishTime": 1652189161,
+        "type": "STORY"
+    },
+    "4c1f98bf-3fa8-3671-a757-3c6b3593af29": {
+        "uuid": "4c1f98bf-3fa8-3671-a757-3c6b3593af29",
+        "title": "Results: Federal Realty Investment Trust Beat Earnings Expectations And Analysts Now Have New Forecasts",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/results-federal-realty-investment-trust-121552837.html",
+        "providerPublishTime": 1652012152,
+        "type": "STORY"
+    },
+    "90fa918b-daf9-32fb-895e-0e72b9427850": {
+        "uuid": "90fa918b-daf9-32fb-895e-0e72b9427850",
+        "title": "This High-Dividend Stock Is the Mother of All REITs",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/90fa918b-daf9-32fb-895e-0e72b9427850/this-high-dividend-stock-is.html",
+        "providerPublishTime": 1652010300,
         "type": "STORY"
     },
     "bb740087-aabd-375d-8dfe-39a7eb64e643": {
@@ -29,38 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-announces-113000892.html",
         "providerPublishTime": 1651750200,
-        "type": "STORY"
-    },
-    "b5ae639d-28c8-36d5-86db-21e33e655283": {
-        "uuid": "b5ae639d-28c8-36d5-86db-21e33e655283",
-        "title": "Realty Income Corp. (O) Surpasses Q1 FFO and Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/realty-income-corp-o-surpasses-221510581.html",
-        "providerPublishTime": 1651702510,
-        "type": "STORY"
-    },
-    "f6e3b88b-751a-383e-885c-41c4e98d6caf": {
-        "uuid": "f6e3b88b-751a-383e-885c-41c4e98d6caf",
-        "title": "Public Storage (PSA) Tops Q1 FFO Estimates, Reiterates '22 View",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/public-storage-psa-tops-q1-132901519.html",
-        "providerPublishTime": 1651670941,
-        "type": "STORY"
-    },
-    "b0e6bd28-cd89-34c3-9ca3-c3d503a35391": {
-        "uuid": "b0e6bd28-cd89-34c3-9ca3-c3d503a35391",
-        "title": "What's in Store for Federal Realty (FRT) This Earnings Season?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/whats-store-federal-realty-frt-164104000.html",
-        "providerPublishTime": 1651596064,
-        "type": "STORY"
-    },
-    "6013fba2-1817-3e3f-93f2-baa444798051": {
-        "uuid": "6013fba2-1817-3e3f-93f2-baa444798051",
-        "title": "Federal Realty Investment Trust (FRT) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-frt-220010696.html",
-        "providerPublishTime": 1650924010,
         "type": "STORY"
     }
 }

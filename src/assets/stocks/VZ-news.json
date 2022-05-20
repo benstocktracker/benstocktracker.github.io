@@ -1,66 +1,66 @@
 {
-    "f44ff3f9-b677-39e0-9e10-1e2d3109d200": {
-        "uuid": "f44ff3f9-b677-39e0-9e10-1e2d3109d200",
-        "title": "2 Top Buffett Stocks to Buy and Hold for the Long Haul",
+    "d1d0ed1c-51ec-32a0-a614-cced853b0e76": {
+        "uuid": "d1d0ed1c-51ec-32a0-a614-cced853b0e76",
+        "title": "Verizon and NYC MediaLab Announce Winners of the $1M Museum Initiative",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/verizon-nyc-medialab-announce-winners-191107376.html",
+        "providerPublishTime": 1652987467,
+        "type": "STORY"
+    },
+    "fd47453c-af8f-36cd-b360-dddff73f07ef": {
+        "uuid": "fd47453c-af8f-36cd-b360-dddff73f07ef",
+        "title": "Capture your creativity with the new moto g stylus 5G available now at Verizon",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/capture-creativity-moto-g-stylus-175700285.html",
+        "providerPublishTime": 1652983020,
+        "type": "STORY"
+    },
+    "751c6966-1876-35a0-b89a-2248b8c58f7d": {
+        "uuid": "751c6966-1876-35a0-b89a-2248b8c58f7d",
+        "title": "3 Dividend Stocks to Buy Hand Over Fist",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f44ff3f9-b677-39e0-9e10-1e2d3109d200/2-top-buffett-stocks-to-buy.html",
-        "providerPublishTime": 1651928100,
+        "link": "https://finance.yahoo.com/m/751c6966-1876-35a0-b89a-2248b8c58f7d/3-dividend-stocks-to-buy-hand.html",
+        "providerPublishTime": 1652966460,
         "type": "STORY"
     },
-    "dea95f8e-af7e-39df-bb9d-53aac018b2ed": {
-        "uuid": "dea95f8e-af7e-39df-bb9d-53aac018b2ed",
-        "title": "AT&T May Have Just Given Verizon a Gift",
+    "1128e845-b31e-3bd0-9313-93b06ed9be2d": {
+        "uuid": "1128e845-b31e-3bd0-9313-93b06ed9be2d",
+        "title": "How Will Telecom ETFs React to Decent Q1 Earnings?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/telecom-etfs-react-decent-q1-170105110.html",
+        "providerPublishTime": 1652893265,
+        "type": "STORY"
+    },
+    "37a7cd49-a0fb-3892-9025-9cc20af9b2f1": {
+        "uuid": "37a7cd49-a0fb-3892-9025-9cc20af9b2f1",
+        "title": "Verizon boosts investment in Texas",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-boosts-investment-texas-160000040.html",
+        "providerPublishTime": 1652889600,
+        "type": "STORY"
+    },
+    "b65de123-d467-399a-b58a-a0a384bbcca2": {
+        "uuid": "b65de123-d467-399a-b58a-a0a384bbcca2",
+        "title": "Verizon to speak at MoffettNathanson Summit May 19",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-speak-moffettnathanson-summit-may-123000258.html",
+        "providerPublishTime": 1652877000,
+        "type": "STORY"
+    },
+    "06da62ca-69d6-3c01-8629-b8a29bf03d2e": {
+        "uuid": "06da62ca-69d6-3c01-8629-b8a29bf03d2e",
+        "title": "Dillard and Starbucks have been highlighted as Zacks Bull and Bear of the Day",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/dillard-starbucks-highlighted-zacks-bull-122912624.html",
+        "providerPublishTime": 1652876952,
+        "type": "STORY"
+    },
+    "efbd7b80-4d95-3014-adf3-ee066abdb9f1": {
+        "uuid": "efbd7b80-4d95-3014-adf3-ee066abdb9f1",
+        "title": "3 Dividend-Paying Tech Stocks to Buy in May",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/dea95f8e-af7e-39df-bb9d-53aac018b2ed/at%26t-may-have-just-given.html",
-        "providerPublishTime": 1651836600,
-        "type": "STORY"
-    },
-    "ca494712-dfd5-3dce-b1cb-2b5675e2a282": {
-        "uuid": "ca494712-dfd5-3dce-b1cb-2b5675e2a282",
-        "title": "Here's How Verizon Plans To Beat Inflation",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/heres-verizon-plans-beat-inflation-195918436.html",
-        "providerPublishTime": 1651780758,
-        "type": "STORY"
-    },
-    "fbe541e3-7b56-366e-9000-83a4ade99763": {
-        "uuid": "fbe541e3-7b56-366e-9000-83a4ade99763",
-        "title": "Verizon Communications Inc. (NYSE:VZ) Delivered A Better ROE Than Its Industry",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/verizon-communications-inc-nyse-vz-190413314.html",
-        "providerPublishTime": 1651777453,
-        "type": "STORY"
-    },
-    "ad49f4ba-2023-3b73-a28a-eb4e33029713": {
-        "uuid": "ad49f4ba-2023-3b73-a28a-eb4e33029713",
-        "title": "Why Casa Systems Stock Got Crushed Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ad49f4ba-2023-3b73-a28a-eb4e33029713/why-casa-systems-stock-got.html",
-        "providerPublishTime": 1651771121,
-        "type": "STORY"
-    },
-    "90566c51-6e3a-386b-9f6f-4076cf40588c": {
-        "uuid": "90566c51-6e3a-386b-9f6f-4076cf40588c",
-        "title": "T-Mobile Just Put Big Cable on Notice",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/90566c51-6e3a-386b-9f6f-4076cf40588c/t-mobile-just-put-big-cable.html",
-        "providerPublishTime": 1651755000,
-        "type": "STORY"
-    },
-    "0d15f055-d156-3402-8082-29effc1f4a14": {
-        "uuid": "0d15f055-d156-3402-8082-29effc1f4a14",
-        "title": "The Mobile Phone Industry's Biggest Problem Just Got Bigger",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0d15f055-d156-3402-8082-29effc1f4a14/the-mobile-phone-industry%27s.html",
-        "providerPublishTime": 1651753860,
-        "type": "STORY"
-    },
-    "c32b2849-47bb-36bf-b66e-7b3bbda2c859": {
-        "uuid": "c32b2849-47bb-36bf-b66e-7b3bbda2c859",
-        "title": "1 Massive Telecom Stock With Huge Potential",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c32b2849-47bb-36bf-b66e-7b3bbda2c859/1-massive-telecom-stock-with.html",
-        "providerPublishTime": 1651750200,
+        "link": "https://finance.yahoo.com/m/efbd7b80-4d95-3014-adf3-ee066abdb9f1/3-dividend-paying-tech-stocks.html",
+        "providerPublishTime": 1652872500,
         "type": "STORY"
     }
 }

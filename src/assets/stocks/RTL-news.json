@@ -1,4 +1,28 @@
 {
+    "e8a2da58-c462-3d9a-b1f3-70344db5754c": {
+        "uuid": "e8a2da58-c462-3d9a-b1f3-70344db5754c",
+        "title": "The Necessity Retail REIT CEO Michael Weil Discusses the Retail Renaissance with GlobeSt",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-201500561.html",
+        "providerPublishTime": 1652386500,
+        "type": "STORY"
+    },
+    "e35a54e5-61f0-395f-bdf9-3593f5821b8f": {
+        "uuid": "e35a54e5-61f0-395f-bdf9-3593f5821b8f",
+        "title": "Investors three-year losses grow to 14% as the stock sheds US$59m this past week",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/investors-three-losses-grow-14-133917898.html",
+        "providerPublishTime": 1652276357,
+        "type": "STORY"
+    },
+    "1ecf46d6-5699-3852-aab3-a7808281edaf": {
+        "uuid": "1ecf46d6-5699-3852-aab3-a7808281edaf",
+        "title": "The Necessity Retail REIT CEO Michael Weil Discusses with Shopping Center Business how RTL's Retail Portfolio Meets the Needs of Today's Consumer",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-201500508.html",
+        "providerPublishTime": 1652213700,
+        "type": "STORY"
+    },
     "7c04fe64-aa6b-3633-9ee5-62ed82a488e8": {
         "uuid": "7c04fe64-aa6b-3633-9ee5-62ed82a488e8",
         "title": "THE NECESSITY RETAIL REIT ANNOUNCES FIRST QUARTER 2022 RESULTS",
@@ -37,30 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-100000498.html",
         "providerPublishTime": 1648461600,
-        "type": "STORY"
-    },
-    "cc76ed2f-e86e-3b3e-b500-b58c24e6344d": {
-        "uuid": "cc76ed2f-e86e-3b3e-b500-b58c24e6344d",
-        "title": "The Necessity Retail REIT CEO Michael Weil Presents at the March 23-24 Sidoti & Company Small Cap Virtual Conference",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-203000118.html",
-        "providerPublishTime": 1648153800,
-        "type": "STORY"
-    },
-    "d684765d-f0be-3248-81e5-30717c56c85b": {
-        "uuid": "d684765d-f0be-3248-81e5-30717c56c85b",
-        "title": "The Necessity Retail REIT Announces Preferred Stock Dividends",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-preferred-100000982.html",
-        "providerPublishTime": 1648116000,
-        "type": "STORY"
-    },
-    "d9e75135-ad34-3aa8-9d3b-b71cf3ddfc80": {
-        "uuid": "d9e75135-ad34-3aa8-9d3b-b71cf3ddfc80",
-        "title": "Sidoti March Virtual Small Cap Investor Conference",
-        "publisher": "ACCESSWIRE",
-        "link": "https://finance.yahoo.com/news/sidoti-march-virtual-small-cap-135000102.html",
-        "providerPublishTime": 1647957000,
         "type": "STORY"
     }
 }

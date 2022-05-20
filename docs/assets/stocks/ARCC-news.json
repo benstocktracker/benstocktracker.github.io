@@ -1,4 +1,20 @@
 {
+    "4df9610b-cfb6-381e-af84-0fc615d8d3a9": {
+        "uuid": "4df9610b-cfb6-381e-af84-0fc615d8d3a9",
+        "title": "Seeking at Least 8% Dividend Yield? Analysts Suggest 2 Dividend Stocks to Buy",
+        "publisher": "TipRanks",
+        "link": "https://finance.yahoo.com/news/seeking-least-8-dividend-yield-144624100.html",
+        "providerPublishTime": 1652712384,
+        "type": "STORY"
+    },
+    "1395cebc-a6a0-36ce-aff7-30bc59c77ee1": {
+        "uuid": "1395cebc-a6a0-36ce-aff7-30bc59c77ee1",
+        "title": "Dye & Durham CEO Defends $2.5 Billion Australia Deal After Swoon in Tech Stocks",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/dye-durham-ceo-defends-2-164517219.html",
+        "providerPublishTime": 1652466090,
+        "type": "STORY"
+    },
     "4a4112c9-b7f1-37fd-83ef-8a568b0add3e": {
         "uuid": "4a4112c9-b7f1-37fd-83ef-8a568b0add3e",
         "title": "Private Credit Switches Up Sales Pitch to Win From Higher Rates",
@@ -45,22 +61,6 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/ares-capital-corporation-announces-march-110000167.html",
         "providerPublishTime": 1650970800,
-        "type": "STORY"
-    },
-    "ae91f1b9-9332-3441-b82a-548b8fe54c9c": {
-        "uuid": "ae91f1b9-9332-3441-b82a-548b8fe54c9c",
-        "title": "What's in the Cards for Ares Capital (ARCC) in Q1 Earnings?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/whats-cards-ares-capital-arcc-145302114.html",
-        "providerPublishTime": 1650898382,
-        "type": "STORY"
-    },
-    "aa115e1a-41fc-3964-b908-08003bfb93db": {
-        "uuid": "aa115e1a-41fc-3964-b908-08003bfb93db",
-        "title": "3 Stocks to Buy to Battle Rapidly Rising Interest Rates",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/3-stocks-buy-battle-rapidly-235901224.html",
-        "providerPublishTime": 1649894341,
         "type": "STORY"
     }
 }

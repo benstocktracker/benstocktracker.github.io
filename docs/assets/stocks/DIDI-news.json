@@ -1,4 +1,20 @@
 {
+    "bc2fd14b-5558-3e49-ae31-71d3b3e39364": {
+        "uuid": "bc2fd14b-5558-3e49-ae31-71d3b3e39364",
+        "title": "Nasdaq leads gains into market close, Walmart stock plunges in worst day since 1987",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/nasdaq-leads-gains-market-close-201556157.html",
+        "providerPublishTime": 1652818556,
+        "type": "VIDEO"
+    },
+    "8ec980a3-bc1f-356c-9600-ec5b9b720742": {
+        "uuid": "8ec980a3-bc1f-356c-9600-ec5b9b720742",
+        "title": "DiDi's stock sinks into record-low territory after disclosing need to delist from NYSE",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/8ec980a3-bc1f-356c-9600-ec5b9b720742/didi%27s-stock-sinks-into.html",
+        "providerPublishTime": 1652358192,
+        "type": "STORY"
+    },
     "b4107f38-4eee-3d8b-891d-563737e2b4a0": {
         "uuid": "b4107f38-4eee-3d8b-891d-563737e2b4a0",
         "title": "Why Is Nio (NIO) Stock Down Today?",
@@ -45,22 +61,6 @@
         "publisher": "MarketWatch",
         "link": "https://finance.yahoo.com/m/2b710f92-2d3d-3d62-8f9c-f43e400b9485/didi%27s-stock-selloff-after.html",
         "providerPublishTime": 1651668317,
-        "type": "STORY"
-    },
-    "75bac6da-4ed0-3130-823b-64f9c0803460": {
-        "uuid": "75bac6da-4ed0-3130-823b-64f9c0803460",
-        "title": "Jack Ma 'Arrest' and SEC's DiDi Investigation Whack China Tech Stocks",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/75bac6da-4ed0-3130-823b-64f9c0803460/jack-ma-%27arrest%27-and-sec%27s.html",
-        "providerPublishTime": 1651666440,
-        "type": "STORY"
-    },
-    "281fb33f-898b-3cd6-83ea-030e8cbd80ea": {
-        "uuid": "281fb33f-898b-3cd6-83ea-030e8cbd80ea",
-        "title": "DiDi Faces Double Whammy Of US, China Investigations",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/didi-faces-double-whammy-us-105237759.html",
-        "providerPublishTime": 1651661557,
         "type": "STORY"
     }
 }
