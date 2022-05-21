@@ -1,18 +1,26 @@
 {
-    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
-        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Which Cathie Wood EV Giant Is The Better Buy?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1652996064,
-        "type": "STORY"
-    },
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
         "title": "5 Best Chinese Stocks To Buy And Watch: Shanghai Lockdowns Ease",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks-to-buy.html",
-        "providerPublishTime": 1652993574,
+        "providerPublishTime": 1653132354,
+        "type": "STORY"
+    },
+    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
+        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
+        "title": "Tesla Stock Vs. BYD Stock: As Tesla Falters, BYD Rallies As It Seizes EV Crown, Targets Model 3",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A-as.html",
+        "providerPublishTime": 1653132144,
+        "type": "STORY"
+    },
+    "4e07fb18-f9c7-3aec-bf01-1e9224c421a7": {
+        "uuid": "4e07fb18-f9c7-3aec-bf01-1e9224c421a7",
+        "title": "Xpeng Earnings: XPEV Stock On Deck As China Lockdowns Threaten EV Boom",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4e07fb18-f9c7-3aec-bf01-1e9224c421a7/xpeng-earnings%3A-xpev-stock-on.html",
+        "providerPublishTime": 1653085242,
         "type": "STORY"
     },
     "122449e8-b87b-33a5-ae22-63ae3842e91b": {
@@ -21,6 +29,14 @@
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
         "providerPublishTime": 1652897999,
+        "type": "STORY"
+    },
+    "fa99a371-29e5-39e4-95f1-1040fc53ac9b": {
+        "uuid": "fa99a371-29e5-39e4-95f1-1040fc53ac9b",
+        "title": "Xpeng Stock Looks Great as EV Maker Overcomes Supply-Chain Issues",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/xpeng-stock-looks-great-ev-134608714.html",
+        "providerPublishTime": 1652881568,
         "type": "STORY"
     },
     "aa8fc5eb-b58f-3198-8501-62b255b19d8a": {
@@ -45,22 +61,6 @@
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/blackrock-latest-report-china-10-212306831.html",
         "providerPublishTime": 1652736186,
-        "type": "STORY"
-    },
-    "5cb7c50b-49d3-35c5-ae77-7172824828e0": {
-        "uuid": "5cb7c50b-49d3-35c5-ae77-7172824828e0",
-        "title": "Baidu Bulls See Index Revamp Curbing 59% Stock Slump",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/baidu-bulls-see-index-revamp-102110838.html",
-        "providerPublishTime": 1652405969,
-        "type": "STORY"
-    },
-    "53329ce5-951b-3f1d-b3e1-13e3d8d60c42": {
-        "uuid": "53329ce5-951b-3f1d-b3e1-13e3d8d60c42",
-        "title": "Top Electric Car Stocks for Q2 2022",
-        "publisher": "Investopedia",
-        "link": "https://finance.yahoo.com/m/53329ce5-951b-3f1d-b3e1-13e3d8d60c42/top-electric-car-stocks-for.html",
-        "providerPublishTime": 1652390672,
         "type": "STORY"
     }
 }

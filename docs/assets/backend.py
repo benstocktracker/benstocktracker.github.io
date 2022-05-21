@@ -1,6 +1,7 @@
 import os
 import pprint
 from functools import reduce
+from datetime import datetime
 
 import yfinance as yf
 from cjs import CJS
@@ -51,7 +52,6 @@ def combine_stock_data():
             fetch_one_ticker_data(ticker)
             ticker_data = helper.load(os.path.join(STOCKS_DATA_PATH, f'{ticker}-stats.json'))
         stock_data[ticker] = {**ticker_data, 'holdings': holdings[ticker]}
-    helper.dump(stock_data, f'{BACKEND_DIR}/stocks-data.json')
     return stock_data
 
 
@@ -68,49 +68,52 @@ def combine_stock_news():
     return stock_news
 
 
-def calculate_data(portfolio: list):
-    for stock in portfolio:
-        shares_owned = map(lambda holding: holding.sharesOwned, stock.holdings)
-        total_shares_owned = reduce( lambda a, b: a + b, shares_owned)
-        total_cost = map(lambda holding: holding.costAverage * holding.sharesOwned, stock.holdings)
+def calculate_row_data(portfolio: list):
+    stock_rows = {}
+    for stock in portfolio.values():
+        shares_owned = map(lambda holding: holding['sharesOwned'], stock['holdings'])
+        total_shares_owned = reduce(lambda a, b: a + b, shares_owned)
+        total_cost = map(lambda holding: holding['costAverage'] * holding['sharesOwned'], stock['holdings'])
         total_cost = reduce(lambda a, b: a + b, total_cost)
+        try:
+            ex_div_date = datetime.fromtimestamp(stock['summaryDetail']['exDividendDate']).strftime("%m/%d/%Y, %H:%M:%S")
+        except TypeError:
+            ex_div_date = ''
         stock_row = {
-            'symbol': stock.symbol,
+            'symbol': stock['symbol'],
             'sharesOwned': total_shares_owned,
-            'costAverage': total_cost/total_shares_owned,
-            'marketPrice': stock.price.regularMarketPrice,
+            'costAverage': total_cost / total_shares_owned,
+            'marketPrice': stock['price']['regularMarketPrice'],
             'costBasis': total_cost,
-            'marketValue': stock.price.regularMarketPrice * total_shares_owned,
-            'payoutRatio': stock.summaryDetail.payoutRatio * 100,
-            'exDivDate': stock.summaryDetail.exDividendDate * 1000
+            'marketValue': stock['price']['regularMarketPrice'] * total_shares_owned,
+            'payoutRatio': (stock['summaryDetail']['payoutRatio'] or 0) * 100,
+            'exDivDate': ex_div_date.split(',')[0]
         }
 
-        if stock.quoteType.quoteType == 'EQUITY':
-            stock_row['yield'] = stock.summaryDetail.dividendRate or 0
-            stock_row['yieldPercent'] = stock.summaryDetail.dividendYield * 100 or 0
-            stock_row['sector'] = stock.summaryProfile.sector
-            stock_row['analysis'] = stock.financialData.recommendationKey.split('_').join(' ')
+        if stock['quoteType']['quoteType'] == 'EQUITY':
+            stock_row['yield'] = stock['summaryDetail']['dividendRate'] or 0
+            stock_row['yieldPercent'] = (stock['summaryDetail']['dividendYield'] or 0) * 100
+            stock_row['sector'] = stock['summaryProfile']['sector']
+            stock_row['analysis'] = ' '.join(stock['financialData']['recommendationKey'].split('_'))
         else:
-            stock_row['yield'] = stock.summaryDetail.yield * stock_row.marketPrice or 0
-            stock_row['yieldPercent'] = stock.summaryDetail.yield * 100 or 0
+            stock_row['yield'] = stock['summaryDetail']['yield'] * stock_row['marketPrice'] or 0
+            stock_row['yieldPercent'] = (stock['summaryDetail']['yield'] or 0) * 100
             stock_row['sector'] = 'N/A'
             stock_row['analysis'] = 'None'
         
-        stock_row['gainLoss'] = (stock_row.marketPrice - stock_row.costAverage) * stock_row.sharesOwned
-        stock_row['glPercent'] = (stock_row.marketPrice - stock_row.costAverage) / stock_row.costAverage * 100
-        stock_row['glPercent'] = !isFinite(stock_row.glPercent) ? 100 : stock_row.glPercent
-        stock_row['yieldOnCost'] = stock_row.yield / stock_row.costAverage * 100 or 0
-        year = new Date().getFullYear();
-        stock_row.exDivDate = stock_row.exDivDate.endsWith(year) ? stock_row.exDivDate : '';
-        stock_row.stats = stock;
-        return stock_row;
+        stock_row['gainLoss'] = (stock_row['marketPrice'] - stock_row['costAverage']) * stock_row['sharesOwned']
+        stock_row['glPercent'] = (stock_row['marketPrice'] - stock_row['costAverage']) / stock_row['costAverage'] * 100
+        stock_row['yieldOnCost'] = stock_row['yield'] / stock_row['costAverage'] * 100 or 0
+        stock_row['stats'] = stock
+        stock_rows[stock['symbol']] = stock_row
+    return stock_rows
 
 
 if __name__ == '__main__':
-    # stock_data = load_stock_data()
-    # stock_news = load_stock_news()
-    # pp.pprint(stock_news)
-
-    combine_stock_data()
-    # combine_stock_news()
-
+    # fetch_one_ticker_data('UL')
+    # fetch_one_ticker_data('VZ')
+    # fetch_one_ticker_data('XPEV')
+    stock_data = combine_stock_data()
+    stock_news = combine_stock_news()
+    stock_rows = calculate_row_data(stock_data)
+    helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')

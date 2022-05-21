@@ -41,15 +41,15 @@ export class StocksComponent implements OnInit, AfterViewInit {
   cells: Function[] = [
     (stock: any) => stock.symbol,
     (stock: any) => stock.sharesOwned,
-    (stock: any) => `$${stock.costAverage}`,
-    (stock: any) => `$${stock.costBasis}`,
-    (stock: any) => `$${stock.marketValue}`,
-    (stock: any) => `$${stock.gainLoss}`,
-    (stock: any) => `${stock.glPercent}%`,
-    (stock: any) => `$${stock.yield}`,
-    (stock: any) => `${stock.yieldPercent}%`,
-    (stock: any) => `${stock.yieldOnCost}%`,
-    (stock: any) => `${stock.payoutRatio}%`,
+    (stock: any) => `$${stock.costAverage.toFixed(2)}`,
+    (stock: any) => `$${stock.costBasis.toFixed(2)}`,
+    (stock: any) => `$${stock.marketValue.toFixed(2)}`,
+    (stock: any) => `$${stock.gainLoss.toFixed(2)}`,
+    (stock: any) => `${stock.glPercent.toFixed(2)}%`,
+    (stock: any) => `$${stock.yield.toFixed(2)}`,
+    (stock: any) => `${stock.yieldPercent.toFixed(2)}%`,
+    (stock: any) => `${stock.yieldOnCost.toFixed(2)}%`,
+    (stock: any) => `${stock.payoutRatio.toFixed(2)}%`,
     (stock: any) => `${stock.exDivDate}`,
     (stock: any) => stock.sector,
     (stock: any) => stock.analysis.toUpperCase(),
@@ -109,14 +109,11 @@ export class StocksComponent implements OnInit, AfterViewInit {
   }
 
   ngOnInit() {
-    this.activatedRoute.data.subscribe(response => {
-      this.holdings = response['stocks'];
-    });
-    Object.keys(this.holdings).forEach(ticker => {
-      import(`../../../../assets/stocks/${ticker}-stats.json`).then(data => {
-        this.stocksData.push({ ...data, 'holdings': this.holdings[ticker] })
-        this.dataSource.data = this.calculateStockData(this.stocksData);
-      });
+    // this.activatedRoute.data.subscribe(response => {
+    //   this.holdings = response['stocks'];
+    // });
+    import(`../../../../assets/stock-rows.json`).then(data  => { 
+      this.dataSource.data = Object.values(data.default);
     });
   }
 
@@ -139,48 +136,5 @@ export class StocksComponent implements OnInit, AfterViewInit {
 
   expandRow(row: any) {
     this.expandedRow = this.expandedRow === row ? null : row;
-  }
-
-  calculateStockData(portfolio: any[]) {    
-    return portfolio.map((stock: any) => {
-      const sharesOwned = stock.holdings
-                            .map((holding: any) => holding.sharesOwned)
-                            .reduce((acc: number, value: number) => acc + value, 0);
-      const totalCost = stock.holdings
-                          .map((holding: any) => holding.costAverage * holding.sharesOwned)
-                          .reduce((acc: number, value: number) => acc + value, 0)
-                          .toFixed(2);
-      const stockRow: any = {
-        symbol: stock.symbol,
-        sharesOwned: sharesOwned,
-        costAverage: +(totalCost / sharesOwned).toFixed(2),
-        marketPrice: stock.price.regularMarketPrice,
-        costBasis: totalCost,
-        marketValue: +(stock.price.regularMarketPrice * sharesOwned).toFixed(2),
-        payoutRatio: +(stock.summaryDetail.payoutRatio * 100).toFixed(2),
-        exDivDate: new Date(stock.summaryDetail.exDividendDate * 1000).toLocaleDateString('en-US'),
-      };
-
-      if (stock.quoteType.quoteType === 'EQUITY') {
-        stockRow.yield = stock.summaryDetail.dividendRate || 0;
-        stockRow.yieldPercent = +(stock.summaryDetail.dividendYield * 100).toFixed(2) || 0;
-        stockRow.sector = stock.summaryProfile.sector;
-        stockRow.analysis = stock.financialData.recommendationKey.split('_').join(' ');
-      } else {
-        stockRow.yield = stock.summaryDetail.yield ? +(stock.summaryDetail.yield * stockRow.marketPrice).toFixed(2) : 0;
-        stockRow.yieldPercent = +(stock.summaryDetail.yield * 100).toFixed(2) || 0;
-        stockRow.sector = 'N/A';
-        stockRow.analysis = 'None';
-      }
-
-      stockRow.gainLoss = +((stockRow.marketPrice - stockRow.costAverage) * stockRow.sharesOwned).toFixed(2);
-      stockRow.glPercent = +((stockRow.marketPrice - stockRow.costAverage) / stockRow.costAverage * 100).toFixed(2);
-      stockRow.glPercent = !isFinite(stockRow.glPercent) ? 100 : stockRow.glPercent;
-      stockRow.yieldOnCost = +(stockRow.yield / stockRow.costAverage * 100).toFixed(2) || 0;
-      const year = new Date().getFullYear();
-      stockRow.exDivDate = stockRow.exDivDate.endsWith(year) ? stockRow.exDivDate : '';
-      stockRow.stats = stock;
-      return stockRow;
-    });
   }
 }

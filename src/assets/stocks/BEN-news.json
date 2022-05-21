@@ -23,14 +23,6 @@
         "providerPublishTime": 1652955610,
         "type": "STORY"
     },
-    "4bc335e8-6447-397e-9152-c6a7440f555d": {
-        "uuid": "4bc335e8-6447-397e-9152-c6a7440f555d",
-        "title": "Analyst Report: Franklin Resources, Inc.",
-        "publisher": "Morningstar Research",
-        "link": "https://finance.yahoo.com/m/4bc335e8-6447-397e-9152-c6a7440f555d/analyst-report%3A-franklin.html",
-        "providerPublishTime": 1652885089,
-        "type": "STORY"
-    },
     "4cc6ef37-fa96-317a-9a39-67363a273ac9": {
         "uuid": "4cc6ef37-fa96-317a-9a39-67363a273ac9",
         "title": "Franklin Templeton Funds - 10 Best Templeton Mutual Funds",
@@ -61,6 +53,14 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/lazards-laz-april-aum-falls-130701838.html",
         "providerPublishTime": 1652360821,
+        "type": "STORY"
+    },
+    "3d7a6d77-48a7-3d11-929d-445d7cf3b144": {
+        "uuid": "3d7a6d77-48a7-3d11-929d-445d7cf3b144",
+        "title": "AllianceBernstein (AB) Stock Down as April AUM Declines 6.8%",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/alliancebernstein-ab-stock-down-april-125712913.html",
+        "providerPublishTime": 1652360232,
         "type": "STORY"
     }
 }

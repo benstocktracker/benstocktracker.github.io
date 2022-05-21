@@ -15,22 +15,6 @@
         "providerPublishTime": 1652967727,
         "type": "STORY"
     },
-    "24439aaa-d076-376c-bd2a-8fbe7decc813": {
-        "uuid": "24439aaa-d076-376c-bd2a-8fbe7decc813",
-        "title": "Analyst Report: Simon Property Group, Inc.",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/24439aaa-d076-376c-bd2a-8fbe7decc813/analyst-report%3A-simon.html",
-        "providerPublishTime": 1652966618,
-        "type": "STORY"
-    },
-    "63ebc12e-2427-382f-b56c-d7fcffa658d3": {
-        "uuid": "63ebc12e-2427-382f-b56c-d7fcffa658d3",
-        "title": "Market Update: CAH, CSCO, SHEL, SPG, TGT, LULU",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/63ebc12e-2427-382f-b56c-d7fcffa658d3/market-update%3A-cah%2C-csco%2C.html",
-        "providerPublishTime": 1652965718,
-        "type": "STORY"
-    },
     "29b2a3ac-17fd-3e19-806d-7eada33dbf68": {
         "uuid": "29b2a3ac-17fd-3e19-806d-7eada33dbf68",
         "title": "Simon Property Group's SouthPark mall to open Tag Heuer, Blue Nile and Levi's stores",
@@ -61,6 +45,22 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/9251e9ba-5dcd-386c-a2da-cf4c251fe2a8/simon-property-group-%28spg%29-q1.html",
         "providerPublishTime": 1652162440,
+        "type": "STORY"
+    },
+    "c139a595-3e36-3d20-973a-b449bd91dfec": {
+        "uuid": "c139a595-3e36-3d20-973a-b449bd91dfec",
+        "title": "David Simon \u2018Focused Internally,\u2019 Dismisses M&A\u00a0Rumors",
+        "publisher": "WWD",
+        "link": "https://finance.yahoo.com/m/c139a595-3e36-3d20-973a-b449bd91dfec/david-simon-%E2%80%98focused.html",
+        "providerPublishTime": 1652140789,
+        "type": "STORY"
+    },
+    "4ed572d1-1220-3d73-9fc2-f4b77e0d53ba": {
+        "uuid": "4ed572d1-1220-3d73-9fc2-f4b77e0d53ba",
+        "title": "Simon Property (SPG) Beats Q1 FFO and Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/simon-property-spg-beats-q1-213509419.html",
+        "providerPublishTime": 1652132109,
         "type": "STORY"
     }
 }

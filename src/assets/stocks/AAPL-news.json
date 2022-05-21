@@ -1,66 +1,66 @@
 {
-    "1da18e72-c0f8-3807-87d6-eb4f5dd20712": {
-        "uuid": "1da18e72-c0f8-3807-87d6-eb4f5dd20712",
-        "title": "Samsung Struggles to Go Green in Coal-Addicted South Korea",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/samsung-struggles-green-coal-addicted-220001732.html",
-        "providerPublishTime": 1652997601,
-        "type": "STORY"
-    },
-    "4a9cbad3-a3a4-3cf1-9fe1-7661278bc341": {
-        "uuid": "4a9cbad3-a3a4-3cf1-9fe1-7661278bc341",
-        "title": "Top Analyst Reports for Apple, Berkshire Hathaway, & S&P Global",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/top-analyst-reports-apple-berkshire-210809253.html",
-        "providerPublishTime": 1652994489,
-        "type": "STORY"
-    },
-    "1e430c68-26c7-4f88-a4ed-950105e8695d": {
-        "uuid": "1e430c68-26c7-4f88-a4ed-950105e8695d",
-        "title": "Meta defends its gamble on the metaverse, says it'll be worth $3 trillion",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/meta-defends-its-gamble-on-the-metaverse-says-itll-be-worth-3-trillion-210341412.html",
-        "providerPublishTime": 1652994221,
-        "type": "STORY"
-    },
-    "b6bd6c79-3fc4-39a0-b787-acacb40699a1": {
-        "uuid": "b6bd6c79-3fc4-39a0-b787-acacb40699a1",
-        "title": "Dow Jones Falls As Cisco Dives; Google Parent Slips Amid This Threat; Warren Buffett Stock Takes Key Level",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/b6bd6c79-3fc4-39a0-b787-acacb40699a1/dow-jones-falls-as-cisco.html",
-        "providerPublishTime": 1652991804,
-        "type": "STORY"
-    },
-    "259e1ca3-d8cc-3cc6-aad3-719b362fc722": {
-        "uuid": "259e1ca3-d8cc-3cc6-aad3-719b362fc722",
-        "title": "Stocks slip into the red at the close, Apple among biggest mega cap laggards of the day",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-slip-red-close-apple-201046450.html",
-        "providerPublishTime": 1652991046,
-        "type": "VIDEO"
-    },
-    "24d5c4e0-fe63-353a-89fe-ba970d5f1a62": {
-        "uuid": "24d5c4e0-fe63-353a-89fe-ba970d5f1a62",
-        "title": "Berkshire Hathaway takes $30 billion hit on Apple, Canada Goose posts strong earnings",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/berkshire-hathaway-takes-30-billion-195618896.html",
-        "providerPublishTime": 1652990178,
-        "type": "VIDEO"
-    },
-    "f29b9f31-ae07-3f6e-a9a5-1f545c58770b": {
-        "uuid": "f29b9f31-ae07-3f6e-a9a5-1f545c58770b",
-        "title": "Why Apple Stock Slipped on Thursday",
+    "da2a9fef-980c-38dc-af8e-48c928d84470": {
+        "uuid": "da2a9fef-980c-38dc-af8e-48c928d84470",
+        "title": "Why It Might Be a Lucrative Time to Buy Spotify Stock",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f29b9f31-ae07-3f6e-a9a5-1f545c58770b/why-apple-stock-slipped-on.html",
-        "providerPublishTime": 1652988497,
+        "link": "https://finance.yahoo.com/m/da2a9fef-980c-38dc-af8e-48c928d84470/why-it-might-be-a-lucrative.html",
+        "providerPublishTime": 1653136200,
         "type": "STORY"
     },
-    "fd4e7c01-6303-3e11-8c1e-4c635ec4a289": {
-        "uuid": "fd4e7c01-6303-3e11-8c1e-4c635ec4a289",
-        "title": "Best ETFs for High Inflation and Rising Rates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/best-etfs-high-inflation-rising-192007297.html",
-        "providerPublishTime": 1652988007,
+    "476a41c6-c6dc-3050-9b8f-c3777c8485b2": {
+        "uuid": "476a41c6-c6dc-3050-9b8f-c3777c8485b2",
+        "title": "Dow Jones Futures: Market Correction Getting Worse, Tesla Breaks Down; What You Must Do Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/476a41c6-c6dc-3050-9b8f-c3777c8485b2/dow-jones-futures%3A-market.html",
+        "providerPublishTime": 1653135053,
+        "type": "STORY"
+    },
+    "17933ff3-023c-3788-ab01-216812e693f9": {
+        "uuid": "17933ff3-023c-3788-ab01-216812e693f9",
+        "title": "Is Unity Software's Growth Slowdown a Permanent Problem?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/17933ff3-023c-3788-ab01-216812e693f9/is-unity-software%27s-growth.html",
+        "providerPublishTime": 1653134700,
+        "type": "STORY"
+    },
+    "614329cc-c117-3796-89ba-e1db753b44b3": {
+        "uuid": "614329cc-c117-3796-89ba-e1db753b44b3",
+        "title": "Megacap tech stocks suffered the most under this week's sell-off",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/megacap-tech-stocks-suffered-most-205314052.html",
+        "providerPublishTime": 1653079994,
+        "type": "VIDEO"
+    },
+    "2542c3ec-9b52-395e-8c00-9bc787767a3b": {
+        "uuid": "2542c3ec-9b52-395e-8c00-9bc787767a3b",
+        "title": "McDonald's Is Exiting Russia. Will Other Restaurants Follow?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2542c3ec-9b52-395e-8c00-9bc787767a3b/mcdonald%27s-is-exiting-russia..html",
+        "providerPublishTime": 1653078660,
+        "type": "STORY"
+    },
+    "cf091836-fac9-33b8-8b4f-585c3a7e4d84": {
+        "uuid": "cf091836-fac9-33b8-8b4f-585c3a7e4d84",
+        "title": "Apple iPhone Supply Chain Proving 'Surprisingly Resilient,' Analyst Says",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/cf091836-fac9-33b8-8b4f-585c3a7e4d84/apple-iphone-supply-chain.html",
+        "providerPublishTime": 1653077389,
+        "type": "STORY"
+    },
+    "71c2ea65-e0e8-3f61-961f-7ba5a5ec6f2e": {
+        "uuid": "71c2ea65-e0e8-3f61-961f-7ba5a5ec6f2e",
+        "title": "Market sell-off continues, Dow faces worst week since 2020",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-sell-off-continues-dow-192350518.html",
+        "providerPublishTime": 1653074630,
+        "type": "VIDEO"
+    },
+    "781b60f1-f677-3402-898c-bd7cab132528": {
+        "uuid": "781b60f1-f677-3402-898c-bd7cab132528",
+        "title": "Here's Why Apple Remains Top Pick For Wedbush Amid Odds",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/heres-why-apple-remains-top-184157813.html",
+        "providerPublishTime": 1653072117,
         "type": "STORY"
     }
 }

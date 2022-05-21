@@ -1,10 +1,18 @@
 {
-    "ba76c2a8-32c8-3846-9a51-e8445513730a": {
-        "uuid": "ba76c2a8-32c8-3846-9a51-e8445513730a",
-        "title": "Gilead Reaches Number One Spot as Top Overall Philanthropic Funder of HIV-Related Programs, According to Funders Concerned About AIDS Report",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-reaches-number-one-spot-173000162.html",
-        "providerPublishTime": 1652981400,
+    "19835d26-01ca-3da4-b6fd-eecbf488dc05": {
+        "uuid": "19835d26-01ca-3da4-b6fd-eecbf488dc05",
+        "title": "Top Research Reports for JPMorgan, Gilead Sciences & CSX",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/top-research-reports-jpmorgan-gilead-170805049.html",
+        "providerPublishTime": 1653066485,
+        "type": "STORY"
+    },
+    "d25e0d60-f2cd-3bab-a4fa-e35d8d8a1e1d": {
+        "uuid": "d25e0d60-f2cd-3bab-a4fa-e35d8d8a1e1d",
+        "title": "Gilead at Forefront of Herculean Effort to Combat COVID-19",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/gilead-forefront-herculean-effort-combat-140107010.html",
+        "providerPublishTime": 1653055267,
         "type": "STORY"
     },
     "2014bc73-3b4b-350b-9b45-3b0830c0555b": {
@@ -12,7 +20,15 @@
         "title": "Gilead Stock Earns Rating Upgrade After Quick Turnaround",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/2014bc73-3b4b-350b-9b45-3b0830c0555b/gilead-stock-earns-rating.html",
-        "providerPublishTime": 1652943600,
+        "providerPublishTime": 1652991420,
+        "type": "STORY"
+    },
+    "ba76c2a8-32c8-3846-9a51-e8445513730a": {
+        "uuid": "ba76c2a8-32c8-3846-9a51-e8445513730a",
+        "title": "Gilead Reaches Number One Spot as Top Overall Philanthropic Funder of HIV-Related Programs, According to Funders Concerned About AIDS Report",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/gilead-reaches-number-one-spot-173000162.html",
+        "providerPublishTime": 1652981400,
         "type": "STORY"
     },
     "d091051b-ca24-3c47-bbb6-ed8fd013a848": {
@@ -45,22 +61,6 @@
         "publisher": "Benzinga",
         "link": "https://finance.yahoo.com/news/gilead-sciences-resume-injectable-lenacapavir-154249789.html",
         "providerPublishTime": 1652802169,
-        "type": "STORY"
-    },
-    "67dd5edf-bc03-3259-846e-a16536fc7f65": {
-        "uuid": "67dd5edf-bc03-3259-846e-a16536fc7f65",
-        "title": "Gilead (GILD) HIV Studies Removed From FDA's Clinical Hold",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/gilead-gild-hiv-studies-removed-153003978.html",
-        "providerPublishTime": 1652801403,
-        "type": "STORY"
-    },
-    "8032a581-00ad-3f40-8a4a-1538a2ca9e9e": {
-        "uuid": "8032a581-00ad-3f40-8a4a-1538a2ca9e9e",
-        "title": "FDA Lifts Clinical Hold on Investigational Lenacapavir for the Treatment and Prevention of HIV",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/fda-lifts-clinical-hold-investigational-201000235.html",
-        "providerPublishTime": 1652731800,
         "type": "STORY"
     }
 }

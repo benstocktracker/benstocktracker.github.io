@@ -3,7 +3,7 @@
         {
             "account": "Brokerage",
             "costAverage": 68.54,
-            "costBasis": 6854.000000000001,
+            "costBasis": 6854.00,
             "sharesOwned": 100,
             "ticker": "AAPL"
         }
@@ -247,24 +247,6 @@
             "costBasis": 1156.25,
             "sharesOwned": 25,
             "ticker": "UL"
-        }
-    ],
-    "VICI": [
-        {
-            "account": "Roth IRA",
-            "costAverage": 27.02,
-            "costBasis": 270.2,
-            "sharesOwned": 10,
-            "ticker": "VICI"
-        }
-    ],
-    "VTRS": [
-        {
-            "account": "Roth IRA",
-            "costAverage": 10.87,
-            "costBasis": 1250,
-            "sharesOwned": 25,
-            "ticker": "VTRS"
         }
     ],
     "VZ": [

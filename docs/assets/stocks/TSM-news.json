@@ -1,4 +1,12 @@
 {
+    "fedfdddb-3072-3ce1-89f4-35bfb0277d2a": {
+        "uuid": "fedfdddb-3072-3ce1-89f4-35bfb0277d2a",
+        "title": "10 Best Buy-the-Dip Tech Stocks According to Billionaire Ken Fisher",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-buy-dip-tech-130517110.html",
+        "providerPublishTime": 1653051917,
+        "type": "STORY"
+    },
     "8e7b08e5-218a-329d-abdd-ec80527ab1b1": {
         "uuid": "8e7b08e5-218a-329d-abdd-ec80527ab1b1",
         "title": "Why AMD Investors Can Sleep Soundly",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/153d9b5e-c8cc-386a-a890-1b1db23f535f/this-semiconductor-stock.html",
         "providerPublishTime": 1652890885,
-        "type": "STORY"
-    },
-    "e76c6619-a512-3edc-9573-23387fb808d9": {
-        "uuid": "e76c6619-a512-3edc-9573-23387fb808d9",
-        "title": "3 Tech Stocks That Could Help Set You Up for Life",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e76c6619-a512-3edc-9573-23387fb808d9/3-tech-stocks-that-could-help.html",
-        "providerPublishTime": 1652889058,
         "type": "STORY"
     }
 }

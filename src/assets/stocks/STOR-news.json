@@ -1,4 +1,12 @@
 {
+    "865bf983-c4ee-3a62-b122-4f5f7ad6442d": {
+        "uuid": "865bf983-c4ee-3a62-b122-4f5f7ad6442d",
+        "title": "This REIT Sees a $3.9 Trillion Opportunity Open for the Taking",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/865bf983-c4ee-3a62-b122-4f5f7ad6442d/this-reit-sees-a-%243.9.html",
+        "providerPublishTime": 1653050100,
+        "type": "STORY"
+    },
     "dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd": {
         "uuid": "dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd",
         "title": "Want to Make $500 in Dividend Income? These 3 REITs Could Help You Do It",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/520a07a3-7c7c-31c8-bf04-fbc057f8ecdc/store-capital-%28stor%29-q1-2022.html",
         "providerPublishTime": 1651780834,
-        "type": "STORY"
-    },
-    "64e4a64e-6dad-32b2-aa2b-cc56e3b63b41": {
-        "uuid": "64e4a64e-6dad-32b2-aa2b-cc56e3b63b41",
-        "title": "These 2 REITs Come at a Low Price but a High Value",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/64e4a64e-6dad-32b2-aa2b-cc56e3b63b41/these-2-reits-come-at-a-low.html",
-        "providerPublishTime": 1651749660,
         "type": "STORY"
     }
 }

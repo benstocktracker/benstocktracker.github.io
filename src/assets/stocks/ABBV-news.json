@@ -1,4 +1,36 @@
 {
+    "c63d5b9a-ec62-35af-9e99-861e3632fb27": {
+        "uuid": "c63d5b9a-ec62-35af-9e99-861e3632fb27",
+        "title": "Warren Buffett is Selling These 6 Stocks in 2022",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/warren-buffett-selling-6-stocks-131707882.html",
+        "providerPublishTime": 1653052627,
+        "type": "STORY"
+    },
+    "21389253-7f86-3b68-a7e0-4913ce20047f": {
+        "uuid": "21389253-7f86-3b68-a7e0-4913ce20047f",
+        "title": "Investors Heavily Search AbbVie Inc. (ABBV): Here is What You Need to Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/investors-heavily-search-abbvie-inc-130001244.html",
+        "providerPublishTime": 1653051601,
+        "type": "STORY"
+    },
+    "ac8e07b8-3689-3f54-a1c7-a17ceb79d2b8": {
+        "uuid": "ac8e07b8-3689-3f54-a1c7-a17ceb79d2b8",
+        "title": "Pharma Stock Roundup: FDA Nod to PFE COVID Jab for Age 5-11 & LLY's Tirzepatide",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pharma-stock-roundup-fda-nod-125012943.html",
+        "providerPublishTime": 1653051012,
+        "type": "STORY"
+    },
+    "7cc50f27-b951-3bc2-8453-e82ffa22e733": {
+        "uuid": "7cc50f27-b951-3bc2-8453-e82ffa22e733",
+        "title": "AbbVie Submits New Drug Application to U.S. FDA for Investigational ABBV-951 (Foscarbidopa/Foslevodopa) for the Treatment of Advanced Parkinson's Disease",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-submits-drug-application-u-121500454.html",
+        "providerPublishTime": 1653048900,
+        "type": "STORY"
+    },
     "c00b441a-b95f-3ae6-86f4-9c6569273567": {
         "uuid": "c00b441a-b95f-3ae6-86f4-9c6569273567",
         "title": "These 3 Stocks Have Doubled Over the Past 3 Years. Can They Do It Again?",
@@ -15,52 +47,20 @@
         "providerPublishTime": 1652956200,
         "type": "STORY"
     },
+    "8a24a780-1c65-3fba-be49-70f2dc5f6b9f": {
+        "uuid": "8a24a780-1c65-3fba-be49-70f2dc5f6b9f",
+        "title": "7 Best Value Stocks to Buy if You Need Some Market Stability in Your Life",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-value-stocks-buy-221618103.html",
+        "providerPublishTime": 1652912178,
+        "type": "STORY"
+    },
     "b90b1ecc-a21f-36cd-bd78-9b73d99e6301": {
         "uuid": "b90b1ecc-a21f-36cd-bd78-9b73d99e6301",
         "title": "10 Best Vanguard Dividend Stocks with High Yields",
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/10-best-vanguard-dividend-stocks-133955697.html",
         "providerPublishTime": 1652881195,
-        "type": "STORY"
-    },
-    "3c589e4c-ca5e-3f69-b2c7-877c3398006b": {
-        "uuid": "3c589e4c-ca5e-3f69-b2c7-877c3398006b",
-        "title": "Vertex (VRTX) Outperforms Industry This Year So Far: Here's Why",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/vertex-vrtx-outperforms-industry-far-130601020.html",
-        "providerPublishTime": 1652879161,
-        "type": "STORY"
-    },
-    "0baf41df-c858-3cf0-ae79-fb24b6c6e02e": {
-        "uuid": "0baf41df-c858-3cf0-ae79-fb24b6c6e02e",
-        "title": "Buffett\u2019s Berkshire Hathaway is buying up Chevron, Citigroup, Paramount stocks",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/buffett-berkshire-hathaway-buying-chevron-155829742.html",
-        "providerPublishTime": 1652803109,
-        "type": "VIDEO"
-    },
-    "31c3b7c4-7c2d-3c00-808b-68bc93ad9e6a": {
-        "uuid": "31c3b7c4-7c2d-3c00-808b-68bc93ad9e6a",
-        "title": "Is It Too Late to Buy AbbVie Stock?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/31c3b7c4-7c2d-3c00-808b-68bc93ad9e6a/is-it-too-late-to-buy-abbvie.html",
-        "providerPublishTime": 1652800980,
-        "type": "STORY"
-    },
-    "29c6d777-27ed-3a9d-825a-cba110f32a28": {
-        "uuid": "29c6d777-27ed-3a9d-825a-cba110f32a28",
-        "title": "AbbVie (ABBV) Buys Option Rights to NextGen Inflammation Drug",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-buys-option-rights-132701108.html",
-        "providerPublishTime": 1652794021,
-        "type": "STORY"
-    },
-    "b22958a7-cb15-3ba5-8f44-811ef41379f1": {
-        "uuid": "b22958a7-cb15-3ba5-8f44-811ef41379f1",
-        "title": "Berkshire Hathaway exited Bristol Myers and AbbVie stakes in Q1",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/b22958a7-cb15-3ba5-8f44-811ef41379f1/berkshire-hathaway-exited.html",
-        "providerPublishTime": 1652737980,
         "type": "STORY"
     }
 }
