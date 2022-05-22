@@ -1,10 +1,10 @@
 <ng-container>
   <div class="container-header">
     <header class="summary">
-      <app-stat-card icon="paid" [value]="footerRow[3]()" subtitle="Market Value"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[2]()" subtitle="Investment"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[4]()" subtitle="Unrealized Gain/Lost" [color]="footerRow[4]()[1] === '-' ? 'tomato': 'forestgreen'"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[6]()" subtitle="Dividend Income" color="steelblue"></app-stat-card>
+      <app-stat-card icon="paid" [value]="footerRow[2]()" subtitle="Market Value"></app-stat-card>
+      <app-stat-card icon="paid" [value]="footerRow[1]()" subtitle="Investment"></app-stat-card>
+      <app-stat-card icon="paid" [value]="footerRow[3]()" subtitle="Unrealized Gain/Lost" [color]="footerRow[3]()[1] === '-' ? 'tomato': 'forestgreen'"></app-stat-card>
+      <app-stat-card icon="paid" [value]="footerRow[5]()" subtitle="Dividend Income" color="steelblue"></app-stat-card>
     </header>
 
     <div class="table-actions">
@@ -25,7 +25,7 @@
             <app-single-quote-widget symbol="{{stock.symbol}}" class="single-quote-widget"></app-single-quote-widget>
             <!-- {{ stock.symbol}} -->
           </div>
-          <div *ngIf="cidx === 1; else elseBlock" (click)="expandRow(stock)">
+          <div *ngIf="cidx === 1" (click)="expandRow(stock)">
             <app-price-slider
               [min]="stock.stats.summaryDetail.fiftyTwoWeekLow.toFixed(2)"
               [max]="stock.stats.summaryDetail.fiftyTwoWeekHigh.toFixed(2)"
@@ -34,7 +34,11 @@
               [sharesOwned]="stock.sharesOwned"
             ></app-price-slider>
           </div>
-          <div *ngIf="cidx === 12">
+          <div *ngIf="cidx === 3; else elseBlock" (click)="expandRow(stock)">
+            <div [ngStyle]="{'color': getColColor(stock, cidx)}">{{ cells[cidx](stock) }}</div>
+            <div [ngStyle]="{'color': getColColor(stock, cidx)}">{{ stock.glPercent.toFixed(2) }}%</div>
+          </div>
+          <div *ngIf="cidx === 11">
             <button mat-button color="primary">
               <mat-icon class="material-icons-round" (click)="expandRow(stock)">{{ expandedRow ? 'expand_less' : 'expand_more' }}</mat-icon>
             </button>

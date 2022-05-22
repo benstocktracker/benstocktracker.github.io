@@ -28,13 +28,13 @@ export class StocksComponent implements OnInit, AfterViewInit {
   stocksData: any[] = [];
   dataSource = new MatTableDataSource<any>();
   columnDefs = [
-    'symbol', 'Prices', 'marketValue',
-    'gainLoss', 'glPercent', 'yield', 'yieldPercent', 'yieldOnCost',
+    'symbol', 'Cost Average & 52 Week Price Range', 'marketValue',
+    'gainLoss', 'yield', 'yieldPercent', 'yieldOnCost',
     'payoutRatio', 'exDivDate', 'sector', 'analysis', 'actions'
   ];
   headers = [
-    'Symbol', 'Average Cost & 52 Week Price Range', 'Market Value',
-    'Gain', 'Gain %', 'Yield', 'Yield %', 'Yield on Cost',
+    'Symbol', 'Cost Average & 52 Week Price Range', 'Market Value',
+    'Gain / Lost', 'Yield', 'Yield %', 'Yield on Cost',
     'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', ''
   ];
   cells: Function[] = [
@@ -42,7 +42,6 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.gainLoss.toFixed(2)}`,
-    (stock: any) => `${stock.glPercent.toFixed(2)}%`,
     (stock: any) => `$${stock.yield.toFixed(2)}`,
     (stock: any) => `${stock.yieldPercent.toFixed(2)}%`,
     (stock: any) => `${stock.yieldOnCost.toFixed(2)}%`,
@@ -53,7 +52,6 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => ''
   ]
   footerRow: Function[] = [
-    () => '',
     () => '',
     () => `$${this.dataSource.data.map(t => t.sharesOwned * t.costAverage).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // cost basis
     () => `$${this.dataSource.data.map(t => t.sharesOwned * t.marketPrice).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
@@ -79,13 +77,11 @@ export class StocksComponent implements OnInit, AfterViewInit {
       case 3:
         return this.cells[index](stock)[1] === '-' ? 'tomato' : 'forestgreen';
       case 4:
-        return this.cells[index](stock)[0] === '-' ? 'tomato' : 'forestgreen';
-      case 5:
-      case 7:
+      case 6:
         return this.cells[index](stock) !== '0.00%' ? 'steelblue' : '#191919';
-      case 8:
+      case 7:
         return stock.payoutRatio >= 50 ? 'tomato' : '#191919';
-      case 11:
+      case 10:
         return this.getAnalysisColor(stock.analysis);
       default:
         return '#191919';
