@@ -1,10 +1,10 @@
 {
     "defaultKeyStatistics": {
         "annualHoldingsTurnover": null,
-        "enterpriseToRevenue": 9.694,
+        "enterpriseToRevenue": 9.671,
         "beta3Year": null,
         "profitMargins": 0.37627998,
-        "enterpriseToEbitda": 19.652,
+        "enterpriseToEbitda": 19.606,
         "52WeekChange": 0.0070978403,
         "morningStarRiskRating": null,
         "forwardEps": 10.78,
@@ -18,7 +18,7 @@
         "sharesPercentSharesOut": 0.0055,
         "fundFamily": null,
         "lastFiscalYearEnd": 1625011200,
-        "heldPercentInstitutions": 0.71626,
+        "heldPercentInstitutions": 0.71636003,
         "netIncomeToCommon": 72456003584,
         "trailingEps": 9.58,
         "lastDividendValue": 0.62,
@@ -32,7 +32,7 @@
         "sharesShortPreviousMonthDate": 1648684800,
         "floatShares": 7472077634,
         "beta": 0.93616,
-        "enterpriseValue": 1866563452928,
+        "enterpriseValue": 1862225625088,
         "priceHint": 2,
         "threeYearAverageReturn": null,
         "lastSplitDate": 1045526400,
@@ -195,7 +195,7 @@
     "price": {
         "quoteSourceName": "Delayed Quote",
         "regularMarketOpen": 257.24,
-        "averageDailyVolume3Month": 33772069,
+        "averageDailyVolume3Month": 33643617,
         "exchange": "NMS",
         "regularMarketTime": 1653076804,
         "volume24Hr": null,
@@ -335,7 +335,7 @@
         "marketCap": 1888903757824,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 33772069,
+        "averageVolume": 33643617,
         "priceToSalesTrailing12Months": 9.809582,
         "dayLow": 246.45,
         "ask": 253,
@@ -3032,7 +3032,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

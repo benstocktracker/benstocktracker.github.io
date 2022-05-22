@@ -31,6 +31,14 @@
         "providerPublishTime": 1653048900,
         "type": "STORY"
     },
+    "4569f40d-c411-36c8-83a8-8b533f2b013d": {
+        "uuid": "4569f40d-c411-36c8-83a8-8b533f2b013d",
+        "title": "6 Stocks to Buy to Hedge Your Portfolio in a Down Market",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/6-stocks-buy-hedge-portfolio-160044938.html",
+        "providerPublishTime": 1652976044,
+        "type": "STORY"
+    },
     "c00b441a-b95f-3ae6-86f4-9c6569273567": {
         "uuid": "c00b441a-b95f-3ae6-86f4-9c6569273567",
         "title": "These 3 Stocks Have Doubled Over the Past 3 Years. Can They Do It Again?",
@@ -53,14 +61,6 @@
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/7-best-value-stocks-buy-221618103.html",
         "providerPublishTime": 1652912178,
-        "type": "STORY"
-    },
-    "b90b1ecc-a21f-36cd-bd78-9b73d99e6301": {
-        "uuid": "b90b1ecc-a21f-36cd-bd78-9b73d99e6301",
-        "title": "10 Best Vanguard Dividend Stocks with High Yields",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-vanguard-dividend-stocks-133955697.html",
-        "providerPublishTime": 1652881195,
         "type": "STORY"
     }
 }

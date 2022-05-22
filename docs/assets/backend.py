@@ -1,5 +1,6 @@
 import os
 import pprint
+import time
 from functools import reduce
 from datetime import datetime
 
@@ -33,7 +34,8 @@ def save_stock_data(symbol, data):
 def fetch_one_ticker_data(symbol):
     print(f'fetching stock data for {symbol}...')
     save_stock_data(symbol, yf.Ticker(symbol))
-    print('tick tock!')
+    print('tick tock, tick tock, tick tock!')
+    time.sleep(3)
 
 
 def fetch_all_tickers_data():
@@ -112,16 +114,18 @@ def calculate_row_data(portfolio: list):
 
 
 if __name__ == '__main__':
+    # fetch_all_tickers_data()
     # fetch_one_ticker_data('UL')
     # fetch_one_ticker_data('VZ')
     # fetch_one_ticker_data('XPEV')
-    # stock_data = combine_stock_data()
-    # stock_news = combine_stock_news()
-    # stock_rows = calculate_row_data(stock_data)
-    # helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
+    # fetch_one_ticker_data('WBD')
+    stock_data = combine_stock_data()
+    stock_news = combine_stock_news()
+    stock_rows = calculate_row_data(stock_data)
+    helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
 
-    columns, *rows = holdings_csv[:-1]
-    stock_row_data = dict.fromkeys(columns)
-    for i in range(len(rows)):
-        stock_row_data[columns[i]] = rows[i]
-    print(stock_row_data)
+    # columns, *rows = holdings_csv[:-1]
+    # stock_row_data = dict.fromkeys(columns)
+    # for i in range(len(rows)):
+    #     stock_row_data[columns[i]] = rows[i]
+    # print(stock_row_data)

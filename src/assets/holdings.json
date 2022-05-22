@@ -3,7 +3,7 @@
         {
             "account": "Brokerage",
             "costAverage": 68.54,
-            "costBasis": 6854.00,
+            "costBasis": 6854,
             "sharesOwned": 100,
             "ticker": "AAPL"
         }
@@ -256,6 +256,15 @@
             "costBasis": 1558.5,
             "sharesOwned": 40,
             "ticker": "VZ"
+        }
+    ],
+    "WBD": [
+        {
+            "account": "Roth IRA",
+            "costAverage": 15.53,
+            "costBasis": 766.5,
+            "sharesOwned": 50,
+            "ticker": "WBD"
         }
     ],
     "XPEV": [

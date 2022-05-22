@@ -196,7 +196,7 @@
     "price": {
         "quoteSourceName": "Delayed Quote",
         "regularMarketOpen": 18.62,
-        "averageDailyVolume3Month": 3934468,
+        "averageDailyVolume3Month": 3938040,
         "exchange": "NGM",
         "regularMarketTime": 1653076804,
         "volume24Hr": null,
@@ -336,7 +336,7 @@
         "marketCap": 8914426880,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 3934468,
+        "averageVolume": 3938040,
         "priceToSalesTrailing12Months": 4.767073,
         "dayLow": 17.79,
         "ask": 18.1,

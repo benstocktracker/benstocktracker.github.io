@@ -1,11 +1,9 @@
 import { ActivatedRoute } from '@angular/router';
 import { AfterViewInit, Component, ElementRef, OnInit, ViewChild } from '@angular/core';
-import { MatSnackBar } from '@angular/material/snack-bar';
 import { MatTable, MatTableDataSource } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { animate, state, style, transition, trigger } from '@angular/animations';
-import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-stocks',
@@ -30,20 +28,18 @@ export class StocksComponent implements OnInit, AfterViewInit {
   stocksData: any[] = [];
   dataSource = new MatTableDataSource<any>();
   columnDefs = [
-    'symbol', 'sharesOwned', 'costAverage', 'costBasis', 'marketValue',
+    'symbol', 'Prices', 'marketValue',
     'gainLoss', 'glPercent', 'yield', 'yieldPercent', 'yieldOnCost',
     'payoutRatio', 'exDivDate', 'sector', 'analysis', 'actions'
   ];
   headers = [
-    'Symbol', 'Shares Owned', 'Cost Average', 'Cost Basis', 'Market Value',
+    'Symbol', 'Average Cost & 52 Week Price Range', 'Market Value',
     'Gain', 'Gain %', 'Yield', 'Yield %', 'Yield on Cost',
     'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', ''
   ];
   cells: Function[] = [
-    (stock: any) => stock.symbol,
-    (stock: any) => stock.sharesOwned,
-    (stock: any) => `$${stock.costAverage.toFixed(2)}`,
-    (stock: any) => `$${stock.costBasis.toFixed(2)}`,
+    (stock: any) => '',
+    (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.gainLoss.toFixed(2)}`,
     (stock: any) => `${stock.glPercent.toFixed(2)}%`,
@@ -57,9 +53,8 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => ''
   ]
   footerRow: Function[] = [
-    () => '',  // symbol
-    () => '',  // shares owned
-    () => '',  // cost average
+    () => '',
+    () => '',
     () => `$${this.dataSource.data.map(t => t.sharesOwned * t.costAverage).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // cost basis
     () => `$${this.dataSource.data.map(t => t.sharesOwned * t.marketPrice).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
     () => `$${this.dataSource.data.map(t => (t.marketPrice-t.costAverage) * t.sharesOwned).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // gain / lost
@@ -77,22 +72,20 @@ export class StocksComponent implements OnInit, AfterViewInit {
 
   constructor(
     private activatedRoute: ActivatedRoute,
-    private snackBar: MatSnackBar,
-    private http: HttpClient
   ) { }
 
   getColColor(stock: any, index: number) {
     switch (index) {
-      case 5:
+      case 3:
         return this.cells[index](stock)[1] === '-' ? 'tomato' : 'forestgreen';
-      case 6:
+      case 4:
         return this.cells[index](stock)[0] === '-' ? 'tomato' : 'forestgreen';
+      case 5:
       case 7:
+        return this.cells[index](stock) !== '0.00%' ? 'steelblue' : '#191919';
       case 8:
-        return this.cells[index](stock) !== '0%' ? 'steelblue' : '#191919';
-      case 10:
         return stock.payoutRatio >= 50 ? 'tomato' : '#191919';
-      case 13:
+      case 11:
         return this.getAnalysisColor(stock.analysis);
       default:
         return '#191919';
@@ -111,35 +104,23 @@ export class StocksComponent implements OnInit, AfterViewInit {
   }
 
   ngOnInit() {
-    // this.activatedRoute.data.subscribe(response => {
-    //   this.holdings = response['stocks'];
-    // });
-    import(`../../../../assets/stock-rows.json`).then(data  => { 
-      this.dataSource.data = Object.values(data.default);
+    this.activatedRoute.data.subscribe(response => {
+      this.dataSource.data = Object.values(response['stocks'].default);
+      console.log(this.dataSource.data[0]);
     });
-    this.http.get('../../../../assets/holdings.csv', {responseType: 'text'}).subscribe((data: string) => { 
-      const stocklist_data = data.split(/\r\n|\n/).slice(0, -1);
-      const header = stocklist_data.shift()!.split(',');
-      const stocklist = stocklist_data.map(row => {
-        row = row.replace('\"', '"');
-        return row.split(',');
-      });
-      console.log(header)
-      console.log(stocklist)
-    })
+    // this.http.get('../../../../assets/holdings.csv', {responseType: 'text'}).subscribe((data: string) => { 
+    //   const stocklist_data = data.split(/\r\n|\n/).slice(0, -1);
+    //   const header = stocklist_data.shift()!.split(',');
+    //   const stocklist = stocklist_data.map(row => {
+    //     row = row.replace('\"', '"');
+    //     return row.split(',');
+    //   });
+    // })
   }
 
   ngAfterViewInit(): void {
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
-  }
-
-  showSnackBar(message: string, action='Dismiss') {
-    return this.snackBar.open(message, action, {
-      duration: 3000,
-      horizontalPosition: 'right',
-      verticalPosition: 'top',
-    });
   }
 
   applyFilter(event: Event) {

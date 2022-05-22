@@ -1,0 +1,12 @@
+.price-slider {
+    display: flex;
+    align-items: center;
+}
+
+.mat-slider-horizontal {
+    min-width: 100px;
+}
+
+div {
+    font-size: 1rem;
+}

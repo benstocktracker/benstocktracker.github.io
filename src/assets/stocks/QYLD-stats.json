@@ -25,7 +25,7 @@
         "mostRecentQuarter": null,
         "enterpriseValue": null,
         "priceHint": 2,
-        "threeYearAverageReturn": 0.0417,
+        "threeYearAverageReturn": 0.0403,
         "lastSplitDate": null,
         "lastSplitFactor": null,
         "legalType": "Exchange Traded Fund",
@@ -34,12 +34,12 @@
         "earningsQuarterlyGrowth": null,
         "priceToSalesTrailing12Months": null,
         "pegRatio": null,
-        "ytdReturn": -0.15609999,
+        "ytdReturn": -0.1688,
         "forwardPE": null,
         "maxAge": 1,
         "lastCapGain": null,
         "category": null,
-        "fiveYearAverageReturn": 0.059
+        "fiveYearAverageReturn": 0.054899998
     },
     "fundProfile": {
         "initInvestment": null,
@@ -231,7 +231,7 @@
     "price": {
         "quoteSourceName": "Nasdaq Real Time Price",
         "regularMarketOpen": 18.15,
-        "averageDailyVolume3Month": 6233114,
+        "averageDailyVolume3Month": 6166151,
         "exchange": "NGM",
         "regularMarketTime": 1653076804,
         "volume24Hr": null,
@@ -289,16 +289,16 @@
         "performanceOverview": {
             "bestThreeYrTotalReturn": null,
             "morningStarReturnRating": null,
-            "ytdReturnPct": -0.15609999,
+            "ytdReturnPct": -0.1688,
             "fiveYrAvgReturnPct": null,
             "numYearsUp": null,
             "worstOneYrTotalReturn": null,
-            "oneYearTotalReturn": -0.062,
+            "oneYearTotalReturn": -0.0952,
             "numYearsDown": null,
-            "asOfDate": 1652918400,
+            "asOfDate": 1653004800,
             "worstThreeYrTotalReturn": null,
             "bestOneYrTotalReturn": null,
-            "threeYearTotalReturn": 0.0417
+            "threeYearTotalReturn": 0.0403
         },
         "riskOverviewStatistics": {
             "riskRating": null,
@@ -437,7 +437,7 @@
         "payoutRatio": null,
         "volume24Hr": null,
         "regularMarketDayHigh": 18.1685,
-        "navPrice": 17.9,
+        "navPrice": 17.71,
         "averageDailyVolume10Day": 9307840,
         "totalAssets": 6895924224,
         "regularMarketPreviousClose": 17.91,
@@ -464,7 +464,7 @@
         "marketCap": null,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 6233114,
+        "averageVolume": 6166151,
         "priceToSalesTrailing12Months": null,
         "dayLow": 17.41,
         "ask": 17.85,
@@ -492,7 +492,7 @@
     },
     "esgScores": null,
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

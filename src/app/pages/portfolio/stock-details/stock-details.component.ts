@@ -1,4 +1,4 @@
-import { Component, Input, OnInit, AfterViewInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { ApiResponse } from 'src/app/shared/interfaces/api-response.interface';
 import { CrudService } from 'src/app/shared/services/crud.service';
 import { StocksService } from 'src/app/shared/services/stocks.service';

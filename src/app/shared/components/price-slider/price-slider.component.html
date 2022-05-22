@@ -1,0 +1,16 @@
+<div>
+  <div class="cost-average">${{ costAverage}} x {{ sharesOwned }}</div>
+  <div class="price-slider">
+    <span>${{ min }}</span>
+    <mat-slider
+      class="example-margin"
+      [min]="min"
+      [max]="max"
+      value="{{currentPrice}}"
+      disabled
+      aria-labelledby="stock price"
+    >
+    </mat-slider>
+    <span>${{ max }}</span>
+  </div>
+</div>

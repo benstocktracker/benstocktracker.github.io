@@ -15,14 +15,6 @@
         "providerPublishTime": 1652969966,
         "type": "STORY"
     },
-    "f495bdcf-c89f-3d3c-a035-43d770bd3da1": {
-        "uuid": "f495bdcf-c89f-3d3c-a035-43d770bd3da1",
-        "title": "Daily \u2013 Vickers Top Insider Picks for 05/19/2022",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/f495bdcf-c89f-3d3c-a035-43d770bd3da1/daily-%E2%80%93-vickers-top-insider.html",
-        "providerPublishTime": 1652942151,
-        "type": "STORY"
-    },
     "9cd049f9-699e-34eb-9ec0-37ab159d3e5f": {
         "uuid": "9cd049f9-699e-34eb-9ec0-37ab159d3e5f",
         "title": "Hollywood braced for new age of austerity after streaming splurge",
@@ -39,14 +31,6 @@
         "providerPublishTime": 1652904356,
         "type": "VIDEO"
     },
-    "8319ca14-d406-380d-9ad5-1f91a8c368eb": {
-        "uuid": "8319ca14-d406-380d-9ad5-1f91a8c368eb",
-        "title": "Daily \u2013 Vickers Top Insider Picks for 05/18/2022",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/8319ca14-d406-380d-9ad5-1f91a8c368eb/daily-%E2%80%93-vickers-top-insider.html",
-        "providerPublishTime": 1652855468,
-        "type": "STORY"
-    },
     "4dae7c04-6280-41c2-8ef5-356af1ffb39b": {
         "uuid": "4dae7c04-6280-41c2-8ef5-356af1ffb39b",
         "title": "Why one Netflix bear changed his outlook, now sees 40% upside: 'It's undervalued'",
@@ -62,5 +46,21 @@
         "link": "https://finance.yahoo.com/video/netflix-massive-lead-product-despite-195710780.html",
         "providerPublishTime": 1652471830,
         "type": "VIDEO"
+    },
+    "29095497-1d4d-41e8-a1a7-9e5e2d08d831": {
+        "uuid": "29095497-1d4d-41e8-a1a7-9e5e2d08d831",
+        "title": "Disney sinks despite subscriber beat as analysts mull saturation in streaming market",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/disney-sinks-despite-subscriber-beat-as-analysts-mull-saturation-in-streaming-market-164940696.html",
+        "providerPublishTime": 1652374180,
+        "type": "STORY"
+    },
+    "c41d3706-f904-30ef-84b9-637cc3c3078f": {
+        "uuid": "c41d3706-f904-30ef-84b9-637cc3c3078f",
+        "title": "BT signs sports deal with Warner Bros Discovery",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/c41d3706-f904-30ef-84b9-637cc3c3078f/bt-signs-sports-deal-with.html",
+        "providerPublishTime": 1652350120,
+        "type": "STORY"
     }
 }

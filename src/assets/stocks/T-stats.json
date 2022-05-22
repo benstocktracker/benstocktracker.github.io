@@ -194,7 +194,7 @@
     "price": {
         "quoteSourceName": "Nasdaq Real Time Price",
         "regularMarketOpen": 20.21,
-        "averageDailyVolume3Month": 57591898,
+        "averageDailyVolume3Month": 57518085,
         "exchange": "NYQ",
         "regularMarketTime": 1653077007,
         "volume24Hr": null,
@@ -333,7 +333,7 @@
         "marketCap": 146043600896,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 57591898,
+        "averageVolume": 57518085,
         "priceToSalesTrailing12Months": 0.8958081,
         "dayLow": 20.09,
         "ask": 20.44,

@@ -1,4 +1,20 @@
 {
+    "1d50627c-331c-3203-883b-d44e72c0fbb8": {
+        "uuid": "1d50627c-331c-3203-883b-d44e72c0fbb8",
+        "title": "Is There An Opportunity With Pfizer Inc.'s (NYSE:PFE) 50% Undervaluation?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/opportunity-pfizer-inc-nyse-pfe-143337131.html",
+        "providerPublishTime": 1653230017,
+        "type": "STORY"
+    },
+    "115f1d57-6fc1-320c-abfa-85904dd6c448": {
+        "uuid": "115f1d57-6fc1-320c-abfa-85904dd6c448",
+        "title": "Have $2,000? 2 Market Crash-Ready Stocks to Buy",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/115f1d57-6fc1-320c-abfa-85904dd6c448/have-%242%2C000%3F-2-market.html",
+        "providerPublishTime": 1653213600,
+        "type": "STORY"
+    },
     "049bb7a7-318a-3d79-a930-889cb2469dc5": {
         "uuid": "049bb7a7-318a-3d79-a930-889cb2469dc5",
         "title": "\u2018I chose to take a gamble\u2019: Husband-wife lab researchers admit taking Pfizer vaccine data to develop their own cancer treatment",
@@ -45,22 +61,6 @@
         "publisher": "Benzinga",
         "link": "https://finance.yahoo.com/news/cdc-recommends-pfizer-biontech-covid-114340199.html",
         "providerPublishTime": 1653047020,
-        "type": "STORY"
-    },
-    "a889d1a4-20a0-3687-be8a-eedf4f780b1f": {
-        "uuid": "a889d1a4-20a0-3687-be8a-eedf4f780b1f",
-        "title": "Five Leading Stocks That At Least Double The S&P 500's Yield",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a889d1a4-20a0-3687-be8a-eedf4f780b1f/five-leading-stocks-that-at.html",
-        "providerPublishTime": 1653044427,
-        "type": "STORY"
-    },
-    "a0fe838e-5174-333c-a7d8-408dd9516498": {
-        "uuid": "a0fe838e-5174-333c-a7d8-408dd9516498",
-        "title": "Coronavirus tally: Daily COVID-19 cases tops 100,000 again and hospitalizations rise, but deaths fall to 10-mo. low",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/a0fe838e-5174-333c-a7d8-408dd9516498/coronavirus-tally%3A-daily.html",
-        "providerPublishTime": 1653042260,
         "type": "STORY"
     }
 }

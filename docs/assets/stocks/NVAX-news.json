@@ -31,6 +31,14 @@
         "providerPublishTime": 1653057780,
         "type": "STORY"
     },
+    "b42751d6-6bbf-3269-819a-5f2688b97568": {
+        "uuid": "b42751d6-6bbf-3269-819a-5f2688b97568",
+        "title": "7 Growth Stocks to Avoid Until the Market Crashes Again",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-growth-stocks-avoid-until-103019178.html",
+        "providerPublishTime": 1653042619,
+        "type": "STORY"
+    },
     "2fba1387-4a08-3c1c-97f6-b066f876b818": {
         "uuid": "2fba1387-4a08-3c1c-97f6-b066f876b818",
         "title": "3 Oversold Biotech Stocks to Buy Now",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/681ca347-105f-3978-9deb-b3bbd2fc7d0c/4-growth-stocks-billionaire.html",
         "providerPublishTime": 1652951160,
-        "type": "STORY"
-    },
-    "598e5112-10e0-3692-96dc-d47b2088ee4f": {
-        "uuid": "598e5112-10e0-3692-96dc-d47b2088ee4f",
-        "title": "Could Novavax's Next Step Make It a Multibagger?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/598e5112-10e0-3692-96dc-d47b2088ee4f/could-novavax%27s-next-step.html",
-        "providerPublishTime": 1652868000,
         "type": "STORY"
     }
 }

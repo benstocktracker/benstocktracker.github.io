@@ -1,4 +1,12 @@
 {
+    "4fb0955f-875b-35dc-821d-58611ffafa9b": {
+        "uuid": "4fb0955f-875b-35dc-821d-58611ffafa9b",
+        "title": "2 Top Electric Vehicle Stocks to Buy for the Long Haul",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4fb0955f-875b-35dc-821d-58611ffafa9b/2-top-electric-vehicle-stocks.html",
+        "providerPublishTime": 1653215460,
+        "type": "STORY"
+    },
     "d3d7102e-82c3-34ed-827d-96c671c0665e": {
         "uuid": "d3d7102e-82c3-34ed-827d-96c671c0665e",
         "title": "NIO Inc. (NIO) Stock Sinks As Market Gains: What You Should Know",
@@ -39,28 +47,20 @@
         "providerPublishTime": 1653047284,
         "type": "STORY"
     },
+    "30d251a7-7ef3-389e-8bc9-ea4cf6b3b4ec": {
+        "uuid": "30d251a7-7ef3-389e-8bc9-ea4cf6b3b4ec",
+        "title": "3 Reasons Investors Must Drop Nio Stock Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/3-reasons-investors-must-drop-101255842.html",
+        "providerPublishTime": 1653041575,
+        "type": "STORY"
+    },
     "2a0cb21e-a5ec-32bc-aac2-ca02c2c9f889": {
         "uuid": "2a0cb21e-a5ec-32bc-aac2-ca02c2c9f889",
         "title": "NIO Inc. Successfully Listed on the Main Board of the Singapore Exchange",
         "publisher": "GlobeNewswire",
         "link": "https://finance.yahoo.com/news/nio-inc-successfully-listed-main-040000010.html",
         "providerPublishTime": 1653019200,
-        "type": "STORY"
-    },
-    "89c109f1-114c-3f4e-9bde-8784dd432bd0": {
-        "uuid": "89c109f1-114c-3f4e-9bde-8784dd432bd0",
-        "title": "Why Nio Stock Is Surging Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/89c109f1-114c-3f4e-9bde-8784dd432bd0/why-nio-stock-is-surging-today.html",
-        "providerPublishTime": 1652979160,
-        "type": "STORY"
-    },
-    "55d02501-49e1-3ce3-8bb3-d6e9abfe1428": {
-        "uuid": "55d02501-49e1-3ce3-8bb3-d6e9abfe1428",
-        "title": "3 Reasons to Add Nio Stock to Your Portfolio",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/3-reasons-add-nio-stock-131601728.html",
-        "providerPublishTime": 1652966161,
         "type": "STORY"
     }
 }

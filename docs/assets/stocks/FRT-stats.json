@@ -196,7 +196,7 @@
     "price": {
         "quoteSourceName": "Delayed Quote",
         "regularMarketOpen": 112.55,
-        "averageDailyVolume3Month": 485606,
+        "averageDailyVolume3Month": 486498,
         "exchange": "NYQ",
         "regularMarketTime": 1653076804,
         "volume24Hr": null,
@@ -336,7 +336,7 @@
         "marketCap": 8760423424,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 485606,
+        "averageVolume": 486498,
         "priceToSalesTrailing12Months": 8.825609,
         "dayLow": 107.54,
         "ask": 111.81,
@@ -1409,7 +1409,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

@@ -186,7 +186,7 @@
                 },
                 {
                     "date": "1Q2022",
-                    "revenue": 27349000,
+                    "revenue": 27305000,
                     "earnings": 5705000
                 }
             ]
@@ -196,7 +196,7 @@
     "price": {
         "quoteSourceName": "Delayed Quote",
         "regularMarketOpen": 14.28,
-        "averageDailyVolume3Month": 156861,
+        "averageDailyVolume3Month": 156370,
         "exchange": "NYQ",
         "regularMarketTime": 1653076802,
         "volume24Hr": null,
@@ -336,7 +336,7 @@
         "marketCap": 432338464,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 156861,
+        "averageVolume": 156370,
         "priceToSalesTrailing12Months": 4.5954833,
         "dayLow": 13.75,
         "ask": 13.94,
@@ -566,7 +566,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

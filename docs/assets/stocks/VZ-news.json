@@ -1,4 +1,12 @@
 {
+    "94af0a3f-3cab-3efd-81b7-66eb21a9a5bb": {
+        "uuid": "94af0a3f-3cab-3efd-81b7-66eb21a9a5bb",
+        "title": "4 Simple Stocks to Buy With $1,000 Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/94af0a3f-3cab-3efd-81b7-66eb21a9a5bb/4-simple-stocks-to-buy-with.html",
+        "providerPublishTime": 1653222900,
+        "type": "STORY"
+    },
     "32f41679-3afc-3c6a-a038-d88aad4491d7": {
         "uuid": "32f41679-3afc-3c6a-a038-d88aad4491d7",
         "title": "Widow and orphan stocks: An old-timey term for a very relevant investing strategy",
@@ -13,6 +21,14 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/59d103be-0843-3035-8a79-180cc12b4a70/buying-these-5-dividend.html",
         "providerPublishTime": 1653127440,
+        "type": "STORY"
+    },
+    "1819dca8-db41-3528-a48c-41b89b5f3b8b": {
+        "uuid": "1819dca8-db41-3528-a48c-41b89b5f3b8b",
+        "title": "5 Dividend Stocks to Buy For Yield-Hungry, Risk Tolerant Investors",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/5-dividend-stocks-buy-yield-151904703.html",
+        "providerPublishTime": 1653059944,
         "type": "STORY"
     },
     "c63d5b9a-ec62-35af-9e99-861e3632fb27": {
@@ -45,22 +61,6 @@
         "publisher": "News Direct",
         "link": "https://finance.yahoo.com/news/verizon-nyc-medialab-announce-winners-191107376.html",
         "providerPublishTime": 1652987467,
-        "type": "STORY"
-    },
-    "fd47453c-af8f-36cd-b360-dddff73f07ef": {
-        "uuid": "fd47453c-af8f-36cd-b360-dddff73f07ef",
-        "title": "Capture your creativity with the new moto g stylus 5G available now at Verizon",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/capture-creativity-moto-g-stylus-175700285.html",
-        "providerPublishTime": 1652983020,
-        "type": "STORY"
-    },
-    "751c6966-1876-35a0-b89a-2248b8c58f7d": {
-        "uuid": "751c6966-1876-35a0-b89a-2248b8c58f7d",
-        "title": "3 Dividend Stocks to Buy Hand Over Fist",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/751c6966-1876-35a0-b89a-2248b8c58f7d/3-dividend-stocks-to-buy-hand.html",
-        "providerPublishTime": 1652966460,
         "type": "STORY"
     }
 }

@@ -195,9 +195,9 @@
     "price": {
         "quoteSourceName": "Delayed Quote",
         "regularMarketOpen": 25.49,
-        "averageDailyVolume3Month": 3435642,
+        "averageDailyVolume3Month": 3444735,
         "exchange": "NYQ",
-        "regularMarketTime": 1653076804,
+        "regularMarketTime": 1653076802,
         "volume24Hr": null,
         "regularMarketDayHigh": 25.815,
         "shortName": "Franklin Resources, Inc.",
@@ -335,7 +335,7 @@
         "marketCap": 12898038784,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 3435642,
+        "averageVolume": 3444735,
         "priceToSalesTrailing12Months": 1.4895701,
         "dayLow": 25.1,
         "ask": 26,
@@ -1837,7 +1837,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

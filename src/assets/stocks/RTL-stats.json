@@ -194,7 +194,7 @@
     "price": {
         "quoteSourceName": "Delayed Quote",
         "regularMarketOpen": 7.64,
-        "averageDailyVolume3Month": 837666,
+        "averageDailyVolume3Month": 838322,
         "exchange": "NMS",
         "regularMarketTime": 1653076805,
         "volume24Hr": null,
@@ -333,7 +333,7 @@
         "marketCap": 1004433536,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 837666,
+        "averageVolume": 838322,
         "priceToSalesTrailing12Months": 2.8623517,
         "dayLow": 7.41,
         "ask": 7.75,
@@ -381,7 +381,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1
