@@ -1,3 +1,8 @@
 mat-tab-group {
   padding-bottom: 20px;
 }
+
+app-stock-financials-panel {
+  width: 100%;
+  height: auto;
+}

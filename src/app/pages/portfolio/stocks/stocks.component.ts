@@ -76,7 +76,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
     switch (index) {
       case 3:
         return this.cells[index](stock)[1] === '-' ? 'tomato' : 'forestgreen';
-      case 4:
+      case 5:
       case 6:
         return this.cells[index](stock) !== '0.00%' ? 'steelblue' : '#191919';
       case 7:

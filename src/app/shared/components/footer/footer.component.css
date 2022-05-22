@@ -12,7 +12,9 @@
 .footer-text {
   padding-left: 20px;
   padding-right: 20px;
-  color: steelblue;
+  padding-top: 20px;
   text-align: right;
-  margin-top: 10px;
+  color: steelblue;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
