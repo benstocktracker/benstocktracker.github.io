@@ -124,6 +124,8 @@ export class StocksComponent implements OnInit, AfterViewInit {
         row = row.replace('\"', '"');
         return row.split(',');
       });
+      console.log(header)
+      console.log(stocklist)
     })
   }
 

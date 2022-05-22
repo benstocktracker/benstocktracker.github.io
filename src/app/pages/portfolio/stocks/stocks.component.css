@@ -69,7 +69,7 @@ tr.expanded-stock-row {
 
 .single-quote-widget {
   height: 90px;
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
 
 /* td.mat-cell:first-of-type { 
