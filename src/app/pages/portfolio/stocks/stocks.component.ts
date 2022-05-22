@@ -5,6 +5,7 @@ import { MatTable, MatTableDataSource } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { animate, state, style, transition, trigger } from '@angular/animations';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-stocks',
@@ -76,7 +77,8 @@ export class StocksComponent implements OnInit, AfterViewInit {
 
   constructor(
     private activatedRoute: ActivatedRoute,
-    private snackBar: MatSnackBar, 
+    private snackBar: MatSnackBar,
+    private http: HttpClient
   ) { }
 
   getColColor(stock: any, index: number) {
@@ -115,6 +117,14 @@ export class StocksComponent implements OnInit, AfterViewInit {
     import(`../../../../assets/stock-rows.json`).then(data  => { 
       this.dataSource.data = Object.values(data.default);
     });
+    this.http.get('../../../../assets/holdings.csv', {responseType: 'text'}).subscribe((data: string) => { 
+      const stocklist_data = data.split(/\r\n|\n/).slice(0, -1);
+      const header = stocklist_data.shift()!.split(',');
+      const stocklist = stocklist_data.map(row => {
+        row = row.replace('\"', '"');
+        return row.split(',');
+      });
+    })
   }
 
   ngAfterViewInit(): void {

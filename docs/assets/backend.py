@@ -9,11 +9,13 @@ from cjs import CJS
 
 BACKEND_DIR = os.path.abspath(os.path.dirname(__file__))
 HOLDINGS = os.path.join(BACKEND_DIR, 'holdings.json')
+HOLDINGS_CSV = os.path.join(BACKEND_DIR, 'holdings.csv')
 STOCKS_DATA_PATH = os.path.join(BACKEND_DIR, 'stocks')
 
 pp = pprint.PrettyPrinter(indent=4)
 helper = CJS()
 holdings = helper.load(HOLDINGS)
+holdings_csv = helper.load(HOLDINGS_CSV)
 
 
 def save_stock_data(symbol, data):
@@ -113,7 +115,13 @@ if __name__ == '__main__':
     # fetch_one_ticker_data('UL')
     # fetch_one_ticker_data('VZ')
     # fetch_one_ticker_data('XPEV')
-    stock_data = combine_stock_data()
-    stock_news = combine_stock_news()
-    stock_rows = calculate_row_data(stock_data)
-    helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
+    # stock_data = combine_stock_data()
+    # stock_news = combine_stock_news()
+    # stock_rows = calculate_row_data(stock_data)
+    # helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
+
+    columns, *rows = holdings_csv[:-1]
+    stock_row_data = dict.fromkeys(columns)
+    for i in range(len(rows)):
+        stock_row_data[columns[i]] = rows[i]
+    print(stock_row_data)
