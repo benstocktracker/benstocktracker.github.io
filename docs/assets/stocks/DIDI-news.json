@@ -1,4 +1,36 @@
 {
+    "61e35e59-903b-3691-ab3b-fc09a3e140ed": {
+        "uuid": "61e35e59-903b-3691-ab3b-fc09a3e140ed",
+        "title": "DiDi Provides Notification to Delist its ADSs from NYSE",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/didi-provides-notification-delist-adss-123900918.html",
+        "providerPublishTime": 1653309540,
+        "type": "STORY"
+    },
+    "7488032b-4fe7-3e91-bf2b-9f4496d333c7": {
+        "uuid": "7488032b-4fe7-3e91-bf2b-9f4496d333c7",
+        "title": "DiDi Announces Results of Extraordinary General Meeting",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/didi-announces-results-extraordinary-general-123900635.html",
+        "providerPublishTime": 1653309540,
+        "type": "STORY"
+    },
+    "4e721f6f-4fb3-3809-98af-015e696c810a": {
+        "uuid": "4e721f6f-4fb3-3809-98af-015e696c810a",
+        "title": "China Ride-Hailing Giant Didi Investors to Vote on N.Y. Delisting",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/video/china-ride-hailing-giant-didi-023046761.html",
+        "providerPublishTime": 1653273046,
+        "type": "VIDEO"
+    },
+    "fde47801-e632-3aa4-a355-b3c83d8deb07": {
+        "uuid": "fde47801-e632-3aa4-a355-b3c83d8deb07",
+        "title": "Didi Investors to Vote on NY Delisting After Beijing Crackdown",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/didi-investors-vote-ny-delisting-210000695.html",
+        "providerPublishTime": 1653253200,
+        "type": "STORY"
+    },
     "62ff2b78-a08d-35f6-8a38-47c750386ed1": {
         "uuid": "62ff2b78-a08d-35f6-8a38-47c750386ed1",
         "title": "Didi investors find themselves caught between a rock and a hard place ahead of vote to delist the firm from New York",
@@ -29,38 +61,6 @@
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/why-nio-nio-stock-down-135257653.html",
         "providerPublishTime": 1651758777,
-        "type": "STORY"
-    },
-    "ff6b1f34-0a83-31bd-a5b2-39fd52f3737a": {
-        "uuid": "ff6b1f34-0a83-31bd-a5b2-39fd52f3737a",
-        "title": "Didi, Lenovo founders go private on China social media, join retreat from spotlight",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/didi-lenovo-founders-private-china-094710176.html",
-        "providerPublishTime": 1651744030,
-        "type": "STORY"
-    },
-    "bec2b147-df18-350d-a521-cf07affbf36e": {
-        "uuid": "bec2b147-df18-350d-a521-cf07affbf36e",
-        "title": "Why Nio Stock Is Falling Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/bec2b147-df18-350d-a521-cf07affbf36e/why-nio-stock-is-falling-today.html",
-        "providerPublishTime": 1651679752,
-        "type": "STORY"
-    },
-    "4e1e9052-9097-3ae4-9a26-efc6f19c1844": {
-        "uuid": "4e1e9052-9097-3ae4-9a26-efc6f19c1844",
-        "title": "Didi Leads Slump in U.S.-Listed Chinese Shares Amid SEC Probe",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/didi-leads-slump-u-listed-081213397.html",
-        "providerPublishTime": 1651674031,
-        "type": "STORY"
-    },
-    "86a5e28d-5b19-32ab-8cf6-4b3263b88e66": {
-        "uuid": "86a5e28d-5b19-32ab-8cf6-4b3263b88e66",
-        "title": "DiDi Stock Plunges. An SEC Probe Has Alibaba and JD.com Investors On Edge.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/86a5e28d-5b19-32ab-8cf6-4b3263b88e66/didi-stock-plunges.-an-sec.html",
-        "providerPublishTime": 1651673760,
         "type": "STORY"
     }
 }

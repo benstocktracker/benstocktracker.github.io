@@ -1,4 +1,28 @@
 {
+    "d00a1c92-49ee-35ec-b174-f6d2942747ab": {
+        "uuid": "d00a1c92-49ee-35ec-b174-f6d2942747ab",
+        "title": "AbbVie Presents Positive Data from Phase 3 Study of Cariprazine (VRAYLAR\u00ae) for the Adjunctive Treatment of Major Depressive Disorder at 2022 APA Annual Meeting",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-presents-positive-data-phase-120000832.html",
+        "providerPublishTime": 1653307200,
+        "type": "STORY"
+    },
+    "4ff7ae82-638d-394c-8f4a-2120b7307f76": {
+        "uuid": "4ff7ae82-638d-394c-8f4a-2120b7307f76",
+        "title": "CHMP Recommends European Commission Approval of Upadacitinib (RINVOQ\u00ae) for the Treatment of Adults with Moderate to Severe Ulcerative Colitis",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/chmp-recommends-european-commission-approval-060000276.html",
+        "providerPublishTime": 1653285600,
+        "type": "STORY"
+    },
+    "4ae7afff-bf00-3983-b96a-1128a80c252a": {
+        "uuid": "4ae7afff-bf00-3983-b96a-1128a80c252a",
+        "title": "7 Retirement Stocks to Buy for Any Market Conditions",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-retirement-stocks-buy-market-113140782.html",
+        "providerPublishTime": 1653132700,
+        "type": "STORY"
+    },
     "c63d5b9a-ec62-35af-9e99-861e3632fb27": {
         "uuid": "c63d5b9a-ec62-35af-9e99-861e3632fb27",
         "title": "Warren Buffett is Selling These 6 Stocks in 2022",
@@ -37,30 +61,6 @@
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/6-stocks-buy-hedge-portfolio-160044938.html",
         "providerPublishTime": 1652976044,
-        "type": "STORY"
-    },
-    "c00b441a-b95f-3ae6-86f4-9c6569273567": {
-        "uuid": "c00b441a-b95f-3ae6-86f4-9c6569273567",
-        "title": "These 3 Stocks Have Doubled Over the Past 3 Years. Can They Do It Again?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c00b441a-b95f-3ae6-86f4-9c6569273567/these-3-stocks-have-doubled.html",
-        "providerPublishTime": 1652956800,
-        "type": "STORY"
-    },
-    "a0274645-1be8-3b50-950c-0ae1000ce1d2": {
-        "uuid": "a0274645-1be8-3b50-950c-0ae1000ce1d2",
-        "title": "The Petri Dish: Taiho acquires Cullinan cancer subsidiary in $405M deal",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/a0274645-1be8-3b50-950c-0ae1000ce1d2/the-petri-dish%3A-taiho.html",
-        "providerPublishTime": 1652956200,
-        "type": "STORY"
-    },
-    "8a24a780-1c65-3fba-be49-70f2dc5f6b9f": {
-        "uuid": "8a24a780-1c65-3fba-be49-70f2dc5f6b9f",
-        "title": "7 Best Value Stocks to Buy if You Need Some Market Stability in Your Life",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-best-value-stocks-buy-221618103.html",
-        "providerPublishTime": 1652912178,
         "type": "STORY"
     }
 }

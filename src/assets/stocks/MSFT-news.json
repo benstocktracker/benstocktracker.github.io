@@ -1,66 +1,66 @@
 {
+    "1f015e05-0006-3c8e-a072-7fff52e187a8": {
+        "uuid": "1f015e05-0006-3c8e-a072-7fff52e187a8",
+        "title": "Dow Jones Futures Rally As Stock Market Looks To Rebound; VMware Surges On Broadcom Talks",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1f015e05-0006-3c8e-a072-7fff52e187a8/dow-jones-futures-rally-as.html",
+        "providerPublishTime": 1653310192,
+        "type": "STORY"
+    },
+    "9944e128-5b78-31bc-8325-c3308553d527": {
+        "uuid": "9944e128-5b78-31bc-8325-c3308553d527",
+        "title": "Is Salesforce Stock A Buy Or Sell With Q1 Earnings Due?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/9944e128-5b78-31bc-8325-c3308553d527/is-salesforce-stock-a-buy-or.html",
+        "providerPublishTime": 1653308155,
+        "type": "STORY"
+    },
+    "865263b4-b1ef-3b0a-8bfc-4c3cda1089da": {
+        "uuid": "865263b4-b1ef-3b0a-8bfc-4c3cda1089da",
+        "title": "Is Snowflake Stock A Buy Or Sell Amid Software Sector Volatility?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/865263b4-b1ef-3b0a-8bfc-4c3cda1089da/is-snowflake-stock-a-buy-or.html",
+        "providerPublishTime": 1653307847,
+        "type": "STORY"
+    },
+    "76d852db-1f7e-36e2-bf3a-04573d5f7d9b": {
+        "uuid": "76d852db-1f7e-36e2-bf3a-04573d5f7d9b",
+        "title": "Zoom\u2019s 85% Selloff Has Analysts Calling for a Rally",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/zoom-85-selloff-analysts-calling-111332217.html",
+        "providerPublishTime": 1653304412,
+        "type": "STORY"
+    },
+    "e2240e4f-efce-3a3c-ad94-4742d689bb18": {
+        "uuid": "e2240e4f-efce-3a3c-ad94-4742d689bb18",
+        "title": "Broadcom\u00a0in Talks to Acquire Cloud Company VMware",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/broadcom-talks-acquire-cloud-company-232950840.html",
+        "providerPublishTime": 1653302073,
+        "type": "STORY"
+    },
+    "e847bc97-f827-33d1-a3df-a87e5d32f1d5": {
+        "uuid": "e847bc97-f827-33d1-a3df-a87e5d32f1d5",
+        "title": "4 Dow Stocks Billionaire Money Managers Bought Hand Over Fist in the First Quarter",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e847bc97-f827-33d1-a3df-a87e5d32f1d5/4-dow-stocks-billionaire.html",
+        "providerPublishTime": 1653296760,
+        "type": "STORY"
+    },
+    "9ffe524e-17c0-3daa-af5c-67d9546d4392": {
+        "uuid": "9ffe524e-17c0-3daa-af5c-67d9546d4392",
+        "title": "It\u2019s Zoom Earnings Day. Here\u2019s What to Expect.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/9ffe524e-17c0-3daa-af5c-67d9546d4392/it%E2%80%99s-zoom-earnings-day..html",
+        "providerPublishTime": 1653287400,
+        "type": "STORY"
+    },
     "32282f02-6b9e-332f-bf23-2a0d731b1cc2": {
         "uuid": "32282f02-6b9e-332f-bf23-2a0d731b1cc2",
         "title": "Want to Get Richer? 5 Top Stocks to Buy Now and Hold Forever",
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/32282f02-6b9e-332f-bf23-2a0d731b1cc2/want-to-get-richer%3F-5-top.html",
         "providerPublishTime": 1653133920,
-        "type": "STORY"
-    },
-    "3ba2488e-97d3-3da7-8c5d-5f4cf4dfb8cb": {
-        "uuid": "3ba2488e-97d3-3da7-8c5d-5f4cf4dfb8cb",
-        "title": "Billionaire investor Penny Pritzker advises entrepreneurs: \u2018The world has changed\u2019",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/3ba2488e-97d3-3da7-8c5d-5f4cf4dfb8cb/billionaire-investor-penny.html",
-        "providerPublishTime": 1653083303,
-        "type": "STORY"
-    },
-    "332975c2-24e6-3820-972c-7b12c5dabf78": {
-        "uuid": "332975c2-24e6-3820-972c-7b12c5dabf78",
-        "title": "Itron (ITRI) & Microsoft Partner to Speed Up Cloud Adoption",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/itron-itri-microsoft-partner-speed-154403413.html",
-        "providerPublishTime": 1653061443,
-        "type": "STORY"
-    },
-    "77619cc1-f7bc-3859-af07-798e7d20b501": {
-        "uuid": "77619cc1-f7bc-3859-af07-798e7d20b501",
-        "title": "Mega-cap stocks slide this week as retail and chip sectors tank",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/mega-cap-stocks-slide-week-151710928.html",
-        "providerPublishTime": 1653059830,
-        "type": "VIDEO"
-    },
-    "647b3d8a-3006-34ed-8e16-b5fc5884e3dd": {
-        "uuid": "647b3d8a-3006-34ed-8e16-b5fc5884e3dd",
-        "title": "Cybersecurity Report Finds Microsoft Censoring Politically Sensitive Chinese Names In US Searches",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/cybersecurity-report-finds-microsoft-censoring-145002848.html",
-        "providerPublishTime": 1653058202,
-        "type": "STORY"
-    },
-    "9f134f41-113d-399c-a886-b6ae19c5fddb": {
-        "uuid": "9f134f41-113d-399c-a886-b6ae19c5fddb",
-        "title": "Reasons to Hold DocuSign (DOCU) Stock in Your Portfolio For Now",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/reasons-hold-docusign-docu-stock-142002841.html",
-        "providerPublishTime": 1653056402,
-        "type": "STORY"
-    },
-    "2762706b-7e7e-3e68-aa2c-d75fd55f30ab": {
-        "uuid": "2762706b-7e7e-3e68-aa2c-d75fd55f30ab",
-        "title": "Market check: Stocks open higher amid steep weekly losses",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-stocks-open-higher-141049622.html",
-        "providerPublishTime": 1653055849,
-        "type": "VIDEO"
-    },
-    "7267f88f-802c-3d28-a17a-b6fd1e1501a3": {
-        "uuid": "7267f88f-802c-3d28-a17a-b6fd1e1501a3",
-        "title": "Dow Jones Rallies As China Cuts Key Interest Rate; Ross Stores Plummets 22% On Earnings",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/7267f88f-802c-3d28-a17a-b6fd1e1501a3/dow-jones-rallies-as-china.html",
-        "providerPublishTime": 1653053538,
         "type": "STORY"
     }
 }

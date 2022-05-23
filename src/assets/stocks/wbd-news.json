@@ -1,4 +1,12 @@
 {
+    "d9eaaf8d-eaee-3744-9725-ee3f3b213e40": {
+        "uuid": "d9eaaf8d-eaee-3744-9725-ee3f3b213e40",
+        "title": "Is It Too Late To Consider Buying Warner Bros. Discovery, Inc. (NASDAQ:WBD)?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/too-consider-buying-warner-bros-101616452.html",
+        "providerPublishTime": 1653300976,
+        "type": "STORY"
+    },
     "4024fb88-658c-354d-9240-145dcc52ca0c": {
         "uuid": "4024fb88-658c-354d-9240-145dcc52ca0c",
         "title": "Actor Tray Chaney looks back on career, success of \u2018The Wire\u2019",
@@ -53,14 +61,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://finance.yahoo.com/news/disney-sinks-despite-subscriber-beat-as-analysts-mull-saturation-in-streaming-market-164940696.html",
         "providerPublishTime": 1652374180,
-        "type": "STORY"
-    },
-    "c41d3706-f904-30ef-84b9-637cc3c3078f": {
-        "uuid": "c41d3706-f904-30ef-84b9-637cc3c3078f",
-        "title": "BT signs sports deal with Warner Bros Discovery",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/c41d3706-f904-30ef-84b9-637cc3c3078f/bt-signs-sports-deal-with.html",
-        "providerPublishTime": 1652350120,
         "type": "STORY"
     }
 }

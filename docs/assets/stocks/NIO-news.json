@@ -1,4 +1,20 @@
 {
+    "2a8c64f0-a419-31d5-b664-8dae5b79e6a2": {
+        "uuid": "2a8c64f0-a419-31d5-b664-8dae5b79e6a2",
+        "title": "NIO Inc. to Report First Quarter 2022 Financial Results on Thursday, June 9, 2022",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/nio-inc-report-first-quarter-000100513.html",
+        "providerPublishTime": 1653264060,
+        "type": "STORY"
+    },
+    "2d4ae7e2-745d-3460-8f1c-64cb9eb8358f": {
+        "uuid": "2d4ae7e2-745d-3460-8f1c-64cb9eb8358f",
+        "title": "NIO to be Added to The Hang Seng TECH Index as a Constituent Stock",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/nio-added-hang-seng-tech-000000134.html",
+        "providerPublishTime": 1653264000,
+        "type": "STORY"
+    },
     "4fb0955f-875b-35dc-821d-58611ffafa9b": {
         "uuid": "4fb0955f-875b-35dc-821d-58611ffafa9b",
         "title": "2 Top Electric Vehicle Stocks to Buy for the Long Haul",
@@ -45,22 +61,6 @@
         "publisher": "Yahoo Finance",
         "link": "https://finance.yahoo.com/news/stocks-hot-tickers-on-yahoo-finance-right-now-114804710.html",
         "providerPublishTime": 1653047284,
-        "type": "STORY"
-    },
-    "30d251a7-7ef3-389e-8bc9-ea4cf6b3b4ec": {
-        "uuid": "30d251a7-7ef3-389e-8bc9-ea4cf6b3b4ec",
-        "title": "3 Reasons Investors Must Drop Nio Stock Now",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/3-reasons-investors-must-drop-101255842.html",
-        "providerPublishTime": 1653041575,
-        "type": "STORY"
-    },
-    "2a0cb21e-a5ec-32bc-aac2-ca02c2c9f889": {
-        "uuid": "2a0cb21e-a5ec-32bc-aac2-ca02c2c9f889",
-        "title": "NIO Inc. Successfully Listed on the Main Board of the Singapore Exchange",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/nio-inc-successfully-listed-main-040000010.html",
-        "providerPublishTime": 1653019200,
         "type": "STORY"
     }
 }

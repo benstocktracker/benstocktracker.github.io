@@ -1,4 +1,12 @@
 {
+    "6246a593-76e4-3349-96ee-65edebd1a0d4": {
+        "uuid": "6246a593-76e4-3349-96ee-65edebd1a0d4",
+        "title": "Houston private equity firm among backers of Permian-to-Katy gas pipeline",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/6246a593-76e4-3349-96ee-65edebd1a0d4/houston-private-equity-firm.html",
+        "providerPublishTime": 1653300000,
+        "type": "STORY"
+    },
     "7fbc5de1-8dbf-3ae0-a432-5e7d6590ce87": {
         "uuid": "7fbc5de1-8dbf-3ae0-a432-5e7d6590ce87",
         "title": "Why Is Kinder Morgan (KMI) Down 3.9% Since Last Earnings Report?",
@@ -53,14 +61,6 @@
         "publisher": "Simply Wall St.",
         "link": "https://finance.yahoo.com/news/kinder-morgan-nyse-kmi-way-123959281.html",
         "providerPublishTime": 1652618399,
-        "type": "STORY"
-    },
-    "dccbf8ca-5589-311d-abd4-b22143d32512": {
-        "uuid": "dccbf8ca-5589-311d-abd4-b22143d32512",
-        "title": "Morgan Stanley Makes Inflation-Protected-Yield Stock List at B of A",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/dccbf8ca-5589-311d-abd4-b22143d32512/morgan-stanley-makes.html",
-        "providerPublishTime": 1652464380,
         "type": "STORY"
     }
 }

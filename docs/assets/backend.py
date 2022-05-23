@@ -68,7 +68,7 @@ def combine_stock_news():
             print(e)
     stock_news = list(stock_news.values())
     stock_news.sort(key=lambda x: x['providerPublishTime'], reverse=True)
-    # helper.dump(stock_news, 'stocks-news.text')
+    # helper.dump(stock_news, 'stocks-news.json')
     return stock_news
 
 

@@ -1,4 +1,36 @@
 {
+    "6652e8e4-2a11-3654-b62f-0eb04515ae7a": {
+        "uuid": "6652e8e4-2a11-3654-b62f-0eb04515ae7a",
+        "title": "T-Mobile launches 5G products to compete with Verizon, AT&T for business clients",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/t-mobile-launches-5g-products-130000467.html",
+        "providerPublishTime": 1653310800,
+        "type": "STORY"
+    },
+    "9b7849cf-478e-3904-b086-603d9c85ff16": {
+        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
+        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp Up Key To Revenue Growth",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
+        "providerPublishTime": 1653309315,
+        "type": "STORY"
+    },
+    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
+        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
+        "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
+        "providerPublishTime": 1653308713,
+        "type": "STORY"
+    },
+    "a3f5c1ba-bd94-3b85-b997-edab420eed60": {
+        "uuid": "a3f5c1ba-bd94-3b85-b997-edab420eed60",
+        "title": "AT&T Inc. Announces Expiration and Upsizing of Its Tender Offers for 63 Series of Notes",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/t-inc-announces-expiration-upsizing-113000480.html",
+        "providerPublishTime": 1653305400,
+        "type": "STORY"
+    },
     "bc7c2025-0107-3d5b-8bc8-3aae17eeb2e1": {
         "uuid": "bc7c2025-0107-3d5b-8bc8-3aae17eeb2e1",
         "title": "3 Extremely Safe High-Yield Dividend Stocks to Buy if the U.S. Dips Into Recession",
@@ -15,52 +47,20 @@
         "providerPublishTime": 1653133920,
         "type": "STORY"
     },
+    "1960c115-ebb6-3f19-b3b0-a54a1312c6b4": {
+        "uuid": "1960c115-ebb6-3f19-b3b0-a54a1312c6b4",
+        "title": "Investors Dare to Dip Back Into Bonds",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/1960c115-ebb6-3f19-b3b0-a54a1312c6b4/investors-dare-to-dip-back.html",
+        "providerPublishTime": 1653125400,
+        "type": "STORY"
+    },
     "d12ac844-b05f-3f5e-8ca8-6c4c9193f995": {
         "uuid": "d12ac844-b05f-3f5e-8ca8-6c4c9193f995",
         "title": "Media Stocks Mixed as Markets Tumble Toward Bear Territory",
         "publisher": "Variety",
         "link": "https://finance.yahoo.com/m/d12ac844-b05f-3f5e-8ca8-6c4c9193f995/media-stocks-mixed-as-markets.html",
         "providerPublishTime": 1653077428,
-        "type": "STORY"
-    },
-    "ab231bf1-3921-35cc-8ba9-ce1c872c1f0d": {
-        "uuid": "ab231bf1-3921-35cc-8ba9-ce1c872c1f0d",
-        "title": "AT&T Inc. Announces Pricing of Tender Offers for 63 Series of Notes",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/t-inc-announces-pricing-tender-181500119.html",
-        "providerPublishTime": 1653070500,
-        "type": "STORY"
-    },
-    "d477a0d7-d9e9-35b7-9e54-e215d157676c": {
-        "uuid": "d477a0d7-d9e9-35b7-9e54-e215d157676c",
-        "title": "10 Undervalued Non-Tech Stocks to Buy in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-undervalued-non-tech-stocks-174943209.html",
-        "providerPublishTime": 1653068983,
-        "type": "STORY"
-    },
-    "21ba69c8-9481-3b09-9753-8fc8033864a7": {
-        "uuid": "21ba69c8-9481-3b09-9753-8fc8033864a7",
-        "title": "AT&T Announces Preliminary Results of 2022 Annual Meeting",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/t-announces-preliminary-results-2022-205200435.html",
-        "providerPublishTime": 1652993520,
-        "type": "STORY"
-    },
-    "fef254e7-983e-3ec4-aae0-e375644a192a": {
-        "uuid": "fef254e7-983e-3ec4-aae0-e375644a192a",
-        "title": "AT&T and Welbilt to Showcase Connected Kitchen at National Restaurant Association Show in Collaboration with Microsoft",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/t-welbilt-showcase-connected-kitchen-133000322.html",
-        "providerPublishTime": 1652967000,
-        "type": "STORY"
-    },
-    "d4a7b614-471c-3681-b743-d8d2406ff193": {
-        "uuid": "d4a7b614-471c-3681-b743-d8d2406ff193",
-        "title": "AT&T Inc. (T) Is a Trending Stock: Facts to Know Before Betting on It",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/t-inc-t-trending-stock-130001544.html",
-        "providerPublishTime": 1652965201,
         "type": "STORY"
     }
 }

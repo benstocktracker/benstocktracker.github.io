@@ -43,7 +43,7 @@
         "earningsQuarterlyGrowth": 1.078,
         "priceToSalesTrailing12Months": null,
         "dateShortInterest": 1651190400,
-        "pegRatio": 3.03,
+        "pegRatio": 3.05,
         "ytdReturn": null,
         "forwardPE": 42.229813,
         "maxAge": 1,
@@ -193,9 +193,9 @@
         "financialCurrency": "USD"
     },
     "price": {
-        "quoteSourceName": "Delayed Quote",
+        "quoteSourceName": "Nasdaq Real Time Price",
         "regularMarketOpen": 67.79,
-        "averageDailyVolume3Month": 4005780,
+        "averageDailyVolume3Month": 4010381,
         "exchange": "NYQ",
         "regularMarketTime": 1653076804,
         "volume24Hr": null,
@@ -207,13 +207,14 @@
         "currencySymbol": "$",
         "regularMarketPreviousClose": 67.15,
         "postMarketTime": 1653091192,
-        "preMarketPrice": null,
+        "preMarketPrice": 67.75,
+        "preMarketTime": 1653310935,
         "exchangeDataDelayedBy": 0,
         "toCurrency": null,
         "postMarketChange": 0.19000244,
         "postMarketPrice": 68.18,
         "exchangeName": "NYSE",
-        "preMarketChange": null,
+        "preMarketChange": -0.23999786,
         "circulatingSupply": null,
         "regularMarketDayLow": 66.9,
         "priceHint": 2,
@@ -223,10 +224,11 @@
         "lastMarket": null,
         "regularMarketSource": "FREE_REALTIME",
         "openInterest": null,
-        "marketState": "CLOSED",
+        "marketState": "PRE",
         "underlyingSymbol": null,
         "marketCap": 40902647808,
         "quoteType": "EQUITY",
+        "preMarketChangePercent": -0.0035298995,
         "volumeAllCurrencies": null,
         "postMarketSource": "DELAYED",
         "strikePrice": null,
@@ -297,7 +299,7 @@
             "revenueHigh": 826620000
         },
         "exDividendDate": 1653955200,
-        "dividendDate": 1652400000
+        "dividendDate": 1655251200
     },
     "summaryDetail": {
         "previousClose": 67.15,
@@ -335,7 +337,7 @@
         "marketCap": 40902647808,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 4005780,
+        "averageVolume": 4010381,
         "priceToSalesTrailing12Months": 16.711246,
         "dayLow": 66.9,
         "ask": 68,
@@ -348,7 +350,7 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": 4.31,
         "fiftyTwoWeekLow": 62.74,
-        "bid": 67.28,
+        "bid": 67.7,
         "tradeable": false,
         "dividendYield": 0.0436,
         "bidSize": 900,
@@ -414,6 +416,13 @@
     },
     "upgradeDowngradeHistory": {
         "history": [
+            {
+                "epochGradeDate": 1653304712,
+                "firm": "Wolfe Research",
+                "toGrade": "Peer Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
             {
                 "epochGradeDate": 1647345349,
                 "firm": "Wolfe Research",
