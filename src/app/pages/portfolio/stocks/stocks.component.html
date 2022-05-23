@@ -3,7 +3,7 @@
     <header class="summary">
       <app-stat-card icon="paid" [value]="footerRow[2]()" subtitle="Market Value"></app-stat-card>
       <app-stat-card icon="paid" [value]="footerRow[1]()" subtitle="Investment"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[3]()" subtitle="Unrealized Gain/Lost" [color]="footerRow[3]()[1] === '-' ? 'tomato': 'forestgreen'"></app-stat-card>
+      <app-stat-card icon="paid" [value]="footerRow[3]()" subtitle="Unrealized Profit" [color]="footerRow[3]()[1] === '-' ? 'tomato': 'forestgreen'"></app-stat-card>
       <app-stat-card icon="paid" [value]="footerRow[5]()" subtitle="Dividend Income" color="steelblue"></app-stat-card>
     </header>
 
