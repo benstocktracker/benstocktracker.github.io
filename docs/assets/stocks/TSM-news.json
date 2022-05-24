@@ -1,4 +1,20 @@
 {
+    "bd7ea9f2-eea4-3a7c-9190-9612b8e8a5bf": {
+        "uuid": "bd7ea9f2-eea4-3a7c-9190-9612b8e8a5bf",
+        "title": "Samsung to Spend $360 Billion on Chips, Biotech Over 5 Years",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/samsung-spend-360-billion-chips-050000038.html",
+        "providerPublishTime": 1653374588,
+        "type": "STORY"
+    },
+    "67e8eced-5043-3ad0-93fe-8db6949e0774": {
+        "uuid": "67e8eced-5043-3ad0-93fe-8db6949e0774",
+        "title": "Markets: \u2018I am very concerned\u2019 rally won\u2019t persist long term, financial advisor says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/markets-am-very-concerned-rally-193848474.html",
+        "providerPublishTime": 1653334728,
+        "type": "VIDEO"
+    },
     "fedfdddb-3072-3ce1-89f4-35bfb0277d2a": {
         "uuid": "fedfdddb-3072-3ce1-89f4-35bfb0277d2a",
         "title": "10 Best Buy-the-Dip Tech Stocks According to Billionaire Ken Fisher",
@@ -45,22 +61,6 @@
         "publisher": "The Wall Street Journal",
         "link": "https://finance.yahoo.com/m/36b55379-8ac1-382b-8713-27afd75a865e/tsmc-looks-to-build.html",
         "providerPublishTime": 1652965500,
-        "type": "STORY"
-    },
-    "4bbe5a2c-ce8a-34aa-af44-febae621be09": {
-        "uuid": "4bbe5a2c-ce8a-34aa-af44-febae621be09",
-        "title": "10 Best Stocks to Buy Now According to Billionaire Ken Fisher",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-now-130340279.html",
-        "providerPublishTime": 1652965420,
-        "type": "STORY"
-    },
-    "153d9b5e-c8cc-386a-a890-1b1db23f535f": {
-        "uuid": "153d9b5e-c8cc-386a-a890-1b1db23f535f",
-        "title": "This Semiconductor Stock Could Go Parabolic",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/153d9b5e-c8cc-386a-a890-1b1db23f535f/this-semiconductor-stock.html",
-        "providerPublishTime": 1652890885,
         "type": "STORY"
     }
 }

@@ -1,4 +1,12 @@
 {
+    "3659912c-0c2c-3b9b-83af-e4747a686fec": {
+        "uuid": "3659912c-0c2c-3b9b-83af-e4747a686fec",
+        "title": "3 Deeply Discounted Stocks You'll Wish You Bought on the Dip",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3659912c-0c2c-3b9b-83af-e4747a686fec/3-deeply-discounted-stocks.html",
+        "providerPublishTime": 1653384060,
+        "type": "STORY"
+    },
     "c59f3c53-3c9f-3192-86a9-fe4e7eaa7668": {
         "uuid": "c59f3c53-3c9f-3192-86a9-fe4e7eaa7668",
         "title": "Better Buy: Moderna or Novavax?",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/ebc5a804-e2ce-3c70-86f6-14a26840befa/will-novavax-stock-ever-reach.html",
         "providerPublishTime": 1652956200,
-        "type": "STORY"
-    },
-    "681ca347-105f-3978-9deb-b3bbd2fc7d0c": {
-        "uuid": "681ca347-105f-3978-9deb-b3bbd2fc7d0c",
-        "title": "4 Growth Stocks Billionaire Money Managers Piled Into During the First Quarter",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/681ca347-105f-3978-9deb-b3bbd2fc7d0c/4-growth-stocks-billionaire.html",
-        "providerPublishTime": 1652951160,
         "type": "STORY"
     }
 }

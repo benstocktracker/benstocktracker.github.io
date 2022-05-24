@@ -44,6 +44,7 @@ def fetch_all_tickers_data():
         print(f'fetching stock data for {symbol}...')
         save_stock_data(symbol, tickers.tickers[symbol])
         print('tick tock!')
+        time.sleep(3)
 
 
 def combine_stock_data():
@@ -114,11 +115,7 @@ def calculate_row_data(portfolio: list):
 
 
 if __name__ == '__main__':
-    # fetch_all_tickers_data()
-    # fetch_one_ticker_data('UL')
-    # fetch_one_ticker_data('VZ')
-    # fetch_one_ticker_data('XPEV')
-    # fetch_one_ticker_data('WBD')
+    fetch_all_tickers_data()
     stock_data = combine_stock_data()
     stock_news = combine_stock_news()
     stock_rows = calculate_row_data(stock_data)

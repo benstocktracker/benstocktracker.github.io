@@ -1,66 +1,66 @@
 {
-    "ad2d7138-28d6-3ff9-b1d2-43c9f3385150": {
-        "uuid": "ad2d7138-28d6-3ff9-b1d2-43c9f3385150",
-        "title": "Pfizer\u2019s Three-Dose Covid Vaccine Is 80% Effective in Young Children, Data Show",
+    "fdc02dd8-e040-3aae-bea7-bd6e1b3da3a6": {
+        "uuid": "fdc02dd8-e040-3aae-bea7-bd6e1b3da3a6",
+        "title": "U.S. CDC recommends re-isolation if COVID recurs after taking Pfizer's pill",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/u-cdc-recommends-isolation-covid-152130024.html",
+        "providerPublishTime": 1653405690,
+        "type": "STORY"
+    },
+    "e4b4d549-a847-3300-88a8-415d622edbaf": {
+        "uuid": "e4b4d549-a847-3300-88a8-415d622edbaf",
+        "title": "Biogen Needs a New CEO. Here Are Some Options.",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/ad2d7138-28d6-3ff9-b1d2-43c9f3385150/pfizer%E2%80%99s-three-dose-covid.html",
-        "providerPublishTime": 1653309780,
+        "link": "https://finance.yahoo.com/m/e4b4d549-a847-3300-88a8-415d622edbaf/biogen-needs-a-new-ceo.-here.html",
+        "providerPublishTime": 1653405180,
         "type": "STORY"
     },
-    "4b7ed581-cd4a-332a-8e85-b9c43cffe786": {
-        "uuid": "4b7ed581-cd4a-332a-8e85-b9c43cffe786",
-        "title": "UPDATE 2-Biohaven's drug for neurological disease fails late-stage study",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-biohavens-drug-genetic-neurological-114604184.html",
-        "providerPublishTime": 1653306364,
+    "71101f86-85f4-3b60-8513-d8967ff5468c": {
+        "uuid": "71101f86-85f4-3b60-8513-d8967ff5468c",
+        "title": "Pfizer's Nearly $7 Billion Acquisition Of Arena Pharma Just Paid Off In A Big Way",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/71101f86-85f4-3b60-8513-d8967ff5468c/pfizer%27s-nearly-%247-billion.html",
+        "providerPublishTime": 1653401512,
         "type": "STORY"
     },
-    "4573d184-7692-3e10-8942-8149c2aad8bd": {
-        "uuid": "4573d184-7692-3e10-8942-8149c2aad8bd",
-        "title": "Pfizer touts vaccine data for children under 5 years old",
+    "6b44fc2f-e8ec-33cb-8a44-bbccb32d6e41": {
+        "uuid": "6b44fc2f-e8ec-33cb-8a44-bbccb32d6e41",
+        "title": "FDA panel to review Pfizer and Moderna vaccines for children aged six month to 4 years on June 15",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/4573d184-7692-3e10-8942-8149c2aad8bd/pfizer-touts-vaccine-data-for.html",
-        "providerPublishTime": 1653303600,
+        "link": "https://finance.yahoo.com/m/6b44fc2f-e8ec-33cb-8a44-bbccb32d6e41/fda-panel-to-review-pfizer.html",
+        "providerPublishTime": 1653400680,
         "type": "STORY"
     },
-    "7c1db2e7-7007-333e-af49-e37147e7f976": {
-        "uuid": "7c1db2e7-7007-333e-af49-e37147e7f976",
-        "title": "Pfizer, BioNTech COVID-19 vaccine for children aged 6 months to 5 years meets EUA criteria",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/7c1db2e7-7007-333e-af49-e37147e7f976/pfizer%2C-biontech-covid-19.html",
-        "providerPublishTime": 1653303404,
+    "b8b9aa6e-837f-3a50-a0eb-d626189a7fab": {
+        "uuid": "b8b9aa6e-837f-3a50-a0eb-d626189a7fab",
+        "title": "Biohaven's (BHVN) Zavegepant NDA for Migraine Accepted by FDA",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/biohavens-bhvn-zavegepant-nda-migraine-134701931.html",
+        "providerPublishTime": 1653400021,
         "type": "STORY"
     },
-    "4b806cf1-9e51-34cf-87e6-a2563379a859": {
-        "uuid": "4b806cf1-9e51-34cf-87e6-a2563379a859",
-        "title": "Pfizer to seek US emergency approval of Covid vaccine for under 5s",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/4b806cf1-9e51-34cf-87e6-a2563379a859/pfizer-to-seek-us-emergency.html",
-        "providerPublishTime": 1653302701,
+    "5a0d7e4f-117f-3ad6-8bd9-938bcc1a6392": {
+        "uuid": "5a0d7e4f-117f-3ad6-8bd9-938bcc1a6392",
+        "title": "Pfizer & BioNTech COVID Jab Booster Effective in Kids Under 5",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pfizer-biontech-covid-jab-booster-132601979.html",
+        "providerPublishTime": 1653398761,
         "type": "STORY"
     },
-    "38553137-2242-34d4-94df-4b045d44053a": {
-        "uuid": "38553137-2242-34d4-94df-4b045d44053a",
-        "title": "Pfizer-BioNTech COVID-19 Vaccine Demonstrates Strong Immune Response, High Efficacy and Favorable Safety in Children 6 Months to Under 5 Years of Age Following Third Dose",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/pfizer-biontech-covid-19-vaccine-104500866.html",
-        "providerPublishTime": 1653302700,
+    "0c8df928-6ea5-3f5e-8138-b5c3c00020ae": {
+        "uuid": "0c8df928-6ea5-3f5e-8138-b5c3c00020ae",
+        "title": "Pfizer Inc. (PFE) Is a Trending Stock: Facts to Know Before Betting on It",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pfizer-inc-pfe-trending-stock-130001728.html",
+        "providerPublishTime": 1653397201,
         "type": "STORY"
     },
-    "faf5eb31-d8d2-35b6-8e47-72550450533d": {
-        "uuid": "faf5eb31-d8d2-35b6-8e47-72550450533d",
-        "title": "Pfizer/BioNTech say 3 COVID shots generate good response in under-5s",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/pfizer-biontech-3-covid-shots-104500877.html",
-        "providerPublishTime": 1653302700,
-        "type": "STORY"
-    },
-    "564261fa-965c-3d69-8456-b02689a4ff70": {
-        "uuid": "564261fa-965c-3d69-8456-b02689a4ff70",
-        "title": "UPDATE 1-AstraZeneca says EU regulator approves COVID shot as booster",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-astrazeneca-says-eu-regulator-065126982.html",
-        "providerPublishTime": 1653288686,
+    "44b923e7-4412-381f-bec9-f39b6da88ff7": {
+        "uuid": "44b923e7-4412-381f-bec9-f39b6da88ff7",
+        "title": "10 High-Yield Dividend Stocks Popular on Robinhood",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-123653327.html",
+        "providerPublishTime": 1653395813,
         "type": "STORY"
     }
 }

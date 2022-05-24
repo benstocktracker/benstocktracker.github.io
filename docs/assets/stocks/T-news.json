@@ -1,10 +1,34 @@
 {
-    "6652e8e4-2a11-3654-b62f-0eb04515ae7a": {
-        "uuid": "6652e8e4-2a11-3654-b62f-0eb04515ae7a",
+    "7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d": {
+        "uuid": "7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d",
+        "title": "AT&T Should Dial It Up",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d/at%26t-should-dial-it-up.html",
+        "providerPublishTime": 1653402660,
+        "type": "STORY"
+    },
+    "44b923e7-4412-381f-bec9-f39b6da88ff7": {
+        "uuid": "44b923e7-4412-381f-bec9-f39b6da88ff7",
+        "title": "10 High-Yield Dividend Stocks Popular on Robinhood",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-123653327.html",
+        "providerPublishTime": 1653395813,
+        "type": "STORY"
+    },
+    "3f029711-120b-352c-8885-c187db44e683": {
+        "uuid": "3f029711-120b-352c-8885-c187db44e683",
+        "title": "AT&T CEO Updates Shareholders at J.P. Morgan Conference",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/t-ceo-updates-shareholders-j-004000826.html",
+        "providerPublishTime": 1653352800,
+        "type": "STORY"
+    },
+    "314a17cb-f1cd-302d-98bd-a3e442b6b8ad": {
+        "uuid": "314a17cb-f1cd-302d-98bd-a3e442b6b8ad",
         "title": "T-Mobile launches 5G products to compete with Verizon, AT&T for business clients",
         "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/t-mobile-launches-5g-products-130000467.html",
-        "providerPublishTime": 1653310800,
+        "link": "https://finance.yahoo.com/news/t-mobile-launches-5g-products-130118826.html",
+        "providerPublishTime": 1653310878,
         "type": "STORY"
     },
     "9b7849cf-478e-3904-b086-603d9c85ff16": {
@@ -37,30 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/bc7c2025-0107-3d5b-8bc8-3aae17eeb2e1/3-extremely-safe-high-yield.html",
         "providerPublishTime": 1653211260,
-        "type": "STORY"
-    },
-    "32282f02-6b9e-332f-bf23-2a0d731b1cc2": {
-        "uuid": "32282f02-6b9e-332f-bf23-2a0d731b1cc2",
-        "title": "Want to Get Richer? 5 Top Stocks to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/32282f02-6b9e-332f-bf23-2a0d731b1cc2/want-to-get-richer%3F-5-top.html",
-        "providerPublishTime": 1653133920,
-        "type": "STORY"
-    },
-    "1960c115-ebb6-3f19-b3b0-a54a1312c6b4": {
-        "uuid": "1960c115-ebb6-3f19-b3b0-a54a1312c6b4",
-        "title": "Investors Dare to Dip Back Into Bonds",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/1960c115-ebb6-3f19-b3b0-a54a1312c6b4/investors-dare-to-dip-back.html",
-        "providerPublishTime": 1653125400,
-        "type": "STORY"
-    },
-    "d12ac844-b05f-3f5e-8ca8-6c4c9193f995": {
-        "uuid": "d12ac844-b05f-3f5e-8ca8-6c4c9193f995",
-        "title": "Media Stocks Mixed as Markets Tumble Toward Bear Territory",
-        "publisher": "Variety",
-        "link": "https://finance.yahoo.com/m/d12ac844-b05f-3f5e-8ca8-6c4c9193f995/media-stocks-mixed-as-markets.html",
-        "providerPublishTime": 1653077428,
         "type": "STORY"
     }
 }

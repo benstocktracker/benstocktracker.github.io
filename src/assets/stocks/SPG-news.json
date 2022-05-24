@@ -1,4 +1,12 @@
 {
+    "914a7674-6e36-3a52-ae27-5e605420ea16": {
+        "uuid": "914a7674-6e36-3a52-ae27-5e605420ea16",
+        "title": "Here\u2019s Why Baron Funds Trimmed its Simon Property Group (SPG) Stake",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/why-baron-funds-trimmed-simon-132755621.html",
+        "providerPublishTime": 1653398875,
+        "type": "STORY"
+    },
     "dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd": {
         "uuid": "dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd",
         "title": "Want to Make $500 in Dividend Income? These 3 REITs Could Help You Do It",
@@ -53,14 +61,6 @@
         "publisher": "WWD",
         "link": "https://finance.yahoo.com/m/c139a595-3e36-3d20-973a-b449bd91dfec/david-simon-%E2%80%98focused.html",
         "providerPublishTime": 1652140789,
-        "type": "STORY"
-    },
-    "4ed572d1-1220-3d73-9fc2-f4b77e0d53ba": {
-        "uuid": "4ed572d1-1220-3d73-9fc2-f4b77e0d53ba",
-        "title": "Simon Property (SPG) Beats Q1 FFO and Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/simon-property-spg-beats-q1-213509419.html",
-        "providerPublishTime": 1652132109,
         "type": "STORY"
     }
 }

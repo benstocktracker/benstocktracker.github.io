@@ -1,66 +1,66 @@
 {
-    "767b7117-8a4d-3931-ada1-6406d6c641ed": {
-        "uuid": "767b7117-8a4d-3931-ada1-6406d6c641ed",
-        "title": "Oil Gains on Tight Fuel Supplies While Recession Fears Grow",
+    "63ec0e44-1b02-4483-8ec1-a26e0eb5c40a": {
+        "uuid": "63ec0e44-1b02-4483-8ec1-a26e0eb5c40a",
+        "title": "Stock market news live updates: Stocks extend losses as volatile trading continues, Snap drags down tech shares",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-may-24-2022-112212426.html",
+        "providerPublishTime": 1653404391,
+        "type": "STORY"
+    },
+    "af1c4b06-2ee6-3237-a368-ba15a0e14d35": {
+        "uuid": "af1c4b06-2ee6-3237-a368-ba15a0e14d35",
+        "title": "Oil Wavers, Caught Between China Lockdowns and Saudi Inaction",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-drops-traders-weigh-tight-225945671.html",
-        "providerPublishTime": 1653309647,
+        "link": "https://finance.yahoo.com/news/oil-eases-investors-focus-eu-001312263.html",
+        "providerPublishTime": 1653403606,
         "type": "STORY"
     },
-    "6cabbd91-eefa-3388-bf9f-03a36e71af7a": {
-        "uuid": "6cabbd91-eefa-3388-bf9f-03a36e71af7a",
-        "title": "UPDATE 2-White House weighs use of emergency diesel reserve to ease supply crunch",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-white-house-readies-diesel-115942630.html",
-        "providerPublishTime": 1653307182,
+    "61a7d01c-5225-3aac-8d3e-0f6f2e6723a7": {
+        "uuid": "61a7d01c-5225-3aac-8d3e-0f6f2e6723a7",
+        "title": "If You Invested $1000 in Marathon Petroleum a Decade Ago, This is How Much It'd Be Worth Now",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/invested-1000-marathon-petroleum-decade-123012607.html",
+        "providerPublishTime": 1653395412,
         "type": "STORY"
     },
-    "9277bdf9-c1b2-31a6-bb38-63414d0534d5": {
-        "uuid": "9277bdf9-c1b2-31a6-bb38-63414d0534d5",
-        "title": "Oil rises, boosted by tight fuel supplies as U.S. driving season looms",
+    "d438968f-7847-3525-82ee-5f8c1adaf1c8": {
+        "uuid": "d438968f-7847-3525-82ee-5f8c1adaf1c8",
+        "title": "Germany to Bring Back Coal Power Plants If Russia Cuts Gas",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/germany-reactivate-coal-oil-plants-084708432.html",
+        "providerPublishTime": 1653395380,
+        "type": "STORY"
+    },
+    "07eb1fa2-3c8c-38f9-b451-0aa0511c876f": {
+        "uuid": "07eb1fa2-3c8c-38f9-b451-0aa0511c876f",
+        "title": "Oil edges higher on fuel demand but Chinese demand still a concern",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/9277bdf9-c1b2-31a6-bb38-63414d0534d5/oil-rises%2C-boosted-by-tight.html",
-        "providerPublishTime": 1653306720,
+        "link": "https://finance.yahoo.com/m/07eb1fa2-3c8c-38f9-b451-0aa0511c876f/oil-edges-higher-on-fuel.html",
+        "providerPublishTime": 1653394860,
         "type": "STORY"
     },
-    "a8ef7077-dff3-34a5-b2e7-3274d1a91f26": {
-        "uuid": "a8ef7077-dff3-34a5-b2e7-3274d1a91f26",
-        "title": "Rising Energy Prices - Exxon Mobil (NYSE:XOM) Leads Our List of Stocks as Oil Prices Climb",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/rising-energy-prices-exxon-mobil-094145101.html",
-        "providerPublishTime": 1653298905,
-        "type": "STORY"
-    },
-    "ae1c4698-1b5f-31fa-84c1-4ffe00a7749b": {
-        "uuid": "ae1c4698-1b5f-31fa-84c1-4ffe00a7749b",
-        "title": "How Russia made its ruble the world\u2019s top-performing currency",
+    "c05558ec-04c9-3895-b792-bb415f6b7dea": {
+        "uuid": "c05558ec-04c9-3895-b792-bb415f6b7dea",
+        "title": "China\u2019s energy transition will be powered by coal",
         "publisher": "Quartz",
-        "link": "https://finance.yahoo.com/m/ae1c4698-1b5f-31fa-84c1-4ffe00a7749b/how-russia-made-its-ruble-the.html",
-        "providerPublishTime": 1653298835,
+        "link": "https://finance.yahoo.com/m/c05558ec-04c9-3895-b792-bb415f6b7dea/china%E2%80%99s-energy-transition.html",
+        "providerPublishTime": 1653393961,
         "type": "STORY"
     },
-    "d51a0514-3e59-3ade-9fe7-46d8274bf553": {
-        "uuid": "d51a0514-3e59-3ade-9fe7-46d8274bf553",
-        "title": "Australia\u2019s Greens demand end to new coal and gasfields",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/d51a0514-3e59-3ade-9fe7-46d8274bf553/australia%E2%80%99s-greens-demand-end.html",
-        "providerPublishTime": 1653292483,
+    "36371227-954f-34d8-888a-f934ed252ac7": {
+        "uuid": "36371227-954f-34d8-888a-f934ed252ac7",
+        "title": "Marathon Oil and Boeing have been highlighted as Zacks Bull and Bear of the Day",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/marathon-oil-boeing-highlighted-zacks-114011429.html",
+        "providerPublishTime": 1653392411,
         "type": "STORY"
     },
-    "9f6cb752-886b-3f87-86ad-07534b5e59cf": {
-        "uuid": "9f6cb752-886b-3f87-86ad-07534b5e59cf",
-        "title": "Indonesia policy uncertainty hampers resumption of palm oil exports",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/indonesia-set-resume-palm-oil-062032264.html",
-        "providerPublishTime": 1653286832,
-        "type": "STORY"
-    },
-    "805f7777-5795-3b31-869d-5a1db8b592d9": {
-        "uuid": "805f7777-5795-3b31-869d-5a1db8b592d9",
-        "title": "Oil firms on tight supply as U.S. driving season looms",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/oil-climbs-tight-market-u-020409721.html",
-        "providerPublishTime": 1653271449,
+    "6601611d-8bbd-34fb-a348-953800610b85": {
+        "uuid": "6601611d-8bbd-34fb-a348-953800610b85",
+        "title": "At Davos, climate debate over role of oil in \u2018going green\u2019",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/6601611d-8bbd-34fb-a348-953800610b85/at-davos%2C-climate-debate-over.html",
+        "providerPublishTime": 1653392280,
         "type": "STORY"
     }
 }

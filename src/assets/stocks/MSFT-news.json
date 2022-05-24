@@ -1,66 +1,66 @@
 {
-    "1f015e05-0006-3c8e-a072-7fff52e187a8": {
-        "uuid": "1f015e05-0006-3c8e-a072-7fff52e187a8",
-        "title": "Dow Jones Futures Rally As Stock Market Looks To Rebound; VMware Surges On Broadcom Talks",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1f015e05-0006-3c8e-a072-7fff52e187a8/dow-jones-futures-rally-as.html",
-        "providerPublishTime": 1653310192,
+    "2207582c-bd64-3192-a575-c0ae50eea1b9": {
+        "uuid": "2207582c-bd64-3192-a575-c0ae50eea1b9",
+        "title": "10 Biggest Software Companies",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/2207582c-bd64-3192-a575-c0ae50eea1b9/10-biggest-software-companies.html",
+        "providerPublishTime": 1653404298,
         "type": "STORY"
     },
-    "9944e128-5b78-31bc-8325-c3308553d527": {
-        "uuid": "9944e128-5b78-31bc-8325-c3308553d527",
-        "title": "Is Salesforce Stock A Buy Or Sell With Q1 Earnings Due?",
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Stock Picks Shift To Energy Stocks; Top Pick Tesla Takes A Hit",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9944e128-5b78-31bc-8325-c3308553d527/is-salesforce-stock-a-buy-or.html",
-        "providerPublishTime": 1653308155,
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stock.html",
+        "providerPublishTime": 1653403107,
         "type": "STORY"
     },
-    "865263b4-b1ef-3b0a-8bfc-4c3cda1089da": {
-        "uuid": "865263b4-b1ef-3b0a-8bfc-4c3cda1089da",
-        "title": "Is Snowflake Stock A Buy Or Sell Amid Software Sector Volatility?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/865263b4-b1ef-3b0a-8bfc-4c3cda1089da/is-snowflake-stock-a-buy-or.html",
-        "providerPublishTime": 1653307847,
+    "1ccd2c20-5e22-3157-ae0b-d29d0f4888ae": {
+        "uuid": "1ccd2c20-5e22-3157-ae0b-d29d0f4888ae",
+        "title": "6 Tech Stocks To Buy Today According To Billionaire David Tepper",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/6-tech-stocks-buy-today-143217976.html",
+        "providerPublishTime": 1653402737,
         "type": "STORY"
     },
-    "76d852db-1f7e-36e2-bf3a-04573d5f7d9b": {
-        "uuid": "76d852db-1f7e-36e2-bf3a-04573d5f7d9b",
-        "title": "Zoom\u2019s 85% Selloff Has Analysts Calling for a Rally",
+    "25f5cafc-07a7-3e47-85eb-2ae643235512": {
+        "uuid": "25f5cafc-07a7-3e47-85eb-2ae643235512",
+        "title": "Zoom earnings top estimates, stock rises premarket",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/zoom-earnings-top-estimates-stock-140013651.html",
+        "providerPublishTime": 1653400813,
+        "type": "VIDEO"
+    },
+    "e19bdb7f-b272-31c9-8d2d-bb43962a170c": {
+        "uuid": "e19bdb7f-b272-31c9-8d2d-bb43962a170c",
+        "title": "Dow Jones Falls As Snap Plunges 39% On Profit Warning",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e19bdb7f-b272-31c9-8d2d-bb43962a170c/dow-jones-falls-as-snap.html",
+        "providerPublishTime": 1653400295,
+        "type": "STORY"
+    },
+    "76613e7b-4e50-3c1c-ae62-7154afeeed4f": {
+        "uuid": "76613e7b-4e50-3c1c-ae62-7154afeeed4f",
+        "title": "Microsoft Corporation (MSFT) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/microsoft-corporation-msft-attracting-investor-130001268.html",
+        "providerPublishTime": 1653397201,
+        "type": "STORY"
+    },
+    "d243a4a4-66e8-3ba3-8492-eaaf801eb9d9": {
+        "uuid": "d243a4a4-66e8-3ba3-8492-eaaf801eb9d9",
+        "title": "Zoom Jumps on Sales Forecast, Signaling Success of New Products",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/zoom-85-selloff-analysts-calling-111332217.html",
-        "providerPublishTime": 1653304412,
+        "link": "https://finance.yahoo.com/news/zoom-jumps-sales-forecast-signaling-202255805.html",
+        "providerPublishTime": 1653396951,
         "type": "STORY"
     },
-    "e2240e4f-efce-3a3c-ad94-4742d689bb18": {
-        "uuid": "e2240e4f-efce-3a3c-ad94-4742d689bb18",
-        "title": "Broadcom\u00a0in Talks to Acquire Cloud Company VMware",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/broadcom-talks-acquire-cloud-company-232950840.html",
-        "providerPublishTime": 1653302073,
-        "type": "STORY"
-    },
-    "e847bc97-f827-33d1-a3df-a87e5d32f1d5": {
-        "uuid": "e847bc97-f827-33d1-a3df-a87e5d32f1d5",
-        "title": "4 Dow Stocks Billionaire Money Managers Bought Hand Over Fist in the First Quarter",
+    "80501576-00f0-33c4-8f20-120bd15f2c5d": {
+        "uuid": "80501576-00f0-33c4-8f20-120bd15f2c5d",
+        "title": "1 Green Growth Stock to Buy After Tesla's ESG-Index Exile",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e847bc97-f827-33d1-a3df-a87e5d32f1d5/4-dow-stocks-billionaire.html",
-        "providerPublishTime": 1653296760,
-        "type": "STORY"
-    },
-    "9ffe524e-17c0-3daa-af5c-67d9546d4392": {
-        "uuid": "9ffe524e-17c0-3daa-af5c-67d9546d4392",
-        "title": "It\u2019s Zoom Earnings Day. Here\u2019s What to Expect.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/9ffe524e-17c0-3daa-af5c-67d9546d4392/it%E2%80%99s-zoom-earnings-day..html",
-        "providerPublishTime": 1653287400,
-        "type": "STORY"
-    },
-    "32282f02-6b9e-332f-bf23-2a0d731b1cc2": {
-        "uuid": "32282f02-6b9e-332f-bf23-2a0d731b1cc2",
-        "title": "Want to Get Richer? 5 Top Stocks to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/32282f02-6b9e-332f-bf23-2a0d731b1cc2/want-to-get-richer%3F-5-top.html",
-        "providerPublishTime": 1653133920,
+        "link": "https://finance.yahoo.com/m/80501576-00f0-33c4-8f20-120bd15f2c5d/1-green-growth-stock-to-buy.html",
+        "providerPublishTime": 1653392700,
         "type": "STORY"
     }
 }

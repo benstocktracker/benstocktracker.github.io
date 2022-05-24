@@ -1,4 +1,12 @@
 {
+    "b220ba3e-e689-38fb-a7f9-d24cd24e119a": {
+        "uuid": "b220ba3e-e689-38fb-a7f9-d24cd24e119a",
+        "title": "Independent Group Announces Successful Launch of iStructure, linked to the Franklin BofA World Index\u2122",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/independent-group-announces-successful-launch-143000916.html",
+        "providerPublishTime": 1653316200,
+        "type": "STORY"
+    },
     "cf01c594-6c0e-3860-b10a-8a18b805708a": {
         "uuid": "cf01c594-6c0e-3860-b10a-8a18b805708a",
         "title": "Fiduciary Trust International Continues to Bolster Delaware Presence, Adding M. Lisa Parry Howard as Trust Counsel",
@@ -53,14 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/lazards-laz-april-aum-falls-130701838.html",
         "providerPublishTime": 1652360821,
-        "type": "STORY"
-    },
-    "3d7a6d77-48a7-3d11-929d-445d7cf3b144": {
-        "uuid": "3d7a6d77-48a7-3d11-929d-445d7cf3b144",
-        "title": "AllianceBernstein (AB) Stock Down as April AUM Declines 6.8%",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/alliancebernstein-ab-stock-down-april-125712913.html",
-        "providerPublishTime": 1652360232,
         "type": "STORY"
     }
 }

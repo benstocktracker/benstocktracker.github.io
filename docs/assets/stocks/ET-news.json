@@ -1,4 +1,20 @@
 {
+    "e08d8a33-d3ec-3d79-8d5d-2cd973c30044": {
+        "uuid": "e08d8a33-d3ec-3d79-8d5d-2cd973c30044",
+        "title": "Can Energy Transfer LP (ET) Climb 33% to Reach the Level Wall Street Analysts Expect?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-climb-135501795.html",
+        "providerPublishTime": 1653400501,
+        "type": "STORY"
+    },
+    "44b923e7-4412-381f-bec9-f39b6da88ff7": {
+        "uuid": "44b923e7-4412-381f-bec9-f39b6da88ff7",
+        "title": "10 High-Yield Dividend Stocks Popular on Robinhood",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-123653327.html",
+        "providerPublishTime": 1653395813,
+        "type": "STORY"
+    },
     "b870c8d5-3e78-3313-8934-d063be871605": {
         "uuid": "b870c8d5-3e78-3313-8934-d063be871605",
         "title": "Are Investors Undervaluing Energy Transfer (ET) Right Now?",
@@ -45,22 +61,6 @@
         "publisher": "GuruFocus.com",
         "link": "https://finance.yahoo.com/news/3-capital-intensive-stocks-consider-194511634.html",
         "providerPublishTime": 1652384711,
-        "type": "STORY"
-    },
-    "791e67f7-9577-3309-8399-9eb81156ed08": {
-        "uuid": "791e67f7-9577-3309-8399-9eb81156ed08",
-        "title": "A 67-Foot Pipeline Rupture in Texas Triggered\u00a0Massive Methane Plume",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/67-foot-pipeline-rupture-texas-140001297.html",
-        "providerPublishTime": 1652277601,
-        "type": "STORY"
-    },
-    "dd55b7fc-f3fd-3785-9bfa-b1b6d8793036": {
-        "uuid": "dd55b7fc-f3fd-3785-9bfa-b1b6d8793036",
-        "title": "Is Most-Watched Stock Energy Transfer LP (ET) Worth Betting on Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/most-watched-stock-energy-transfer-130001020.html",
-        "providerPublishTime": 1652274001,
         "type": "STORY"
     }
 }

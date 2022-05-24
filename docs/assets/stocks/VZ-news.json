@@ -1,4 +1,28 @@
 {
+    "920301fb-9cd0-3c88-8679-880dd68ebccb": {
+        "uuid": "920301fb-9cd0-3c88-8679-880dd68ebccb",
+        "title": "Verizon continues its crack down on spam calls and texts",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-continues-crack-down-spam-133000427.html",
+        "providerPublishTime": 1653399000,
+        "type": "STORY"
+    },
+    "00e29ac7-ac61-3882-87b7-b376ca8329cb": {
+        "uuid": "00e29ac7-ac61-3882-87b7-b376ca8329cb",
+        "title": "Indianapolis 500 Fans Get Closer Than Ever to the Action Thanks to Verizon 5G Ultra Wideband",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/indianapolis-500-fans-closer-ever-130000523.html",
+        "providerPublishTime": 1653397200,
+        "type": "STORY"
+    },
+    "76eba4e0-29d3-3f73-8cd0-d4b7f2d69666": {
+        "uuid": "76eba4e0-29d3-3f73-8cd0-d4b7f2d69666",
+        "title": "Ransomware threat rises:\u00a0Verizon 2022 Data Breach Investigations Report",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/ransomware-threat-rises-verizon-2022-041300501.html",
+        "providerPublishTime": 1653365580,
+        "type": "STORY"
+    },
     "314a17cb-f1cd-302d-98bd-a3e442b6b8ad": {
         "uuid": "314a17cb-f1cd-302d-98bd-a3e442b6b8ad",
         "title": "T-Mobile launches 5G products to compete with Verizon, AT&T for business clients",
@@ -37,30 +61,6 @@
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
         "providerPublishTime": 1653308713,
-        "type": "STORY"
-    },
-    "928efd4c-ce4b-31a9-9c34-e0702dcb409b": {
-        "uuid": "928efd4c-ce4b-31a9-9c34-e0702dcb409b",
-        "title": "3 High-Yield Dividend Stocks You'll Never Have to Sell",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/928efd4c-ce4b-31a9-9c34-e0702dcb409b/3-high-yield-dividend-stocks.html",
-        "providerPublishTime": 1653299520,
-        "type": "STORY"
-    },
-    "94af0a3f-3cab-3efd-81b7-66eb21a9a5bb": {
-        "uuid": "94af0a3f-3cab-3efd-81b7-66eb21a9a5bb",
-        "title": "4 Simple Stocks to Buy With $1,000 Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/94af0a3f-3cab-3efd-81b7-66eb21a9a5bb/4-simple-stocks-to-buy-with.html",
-        "providerPublishTime": 1653222900,
-        "type": "STORY"
-    },
-    "32f41679-3afc-3c6a-a038-d88aad4491d7": {
-        "uuid": "32f41679-3afc-3c6a-a038-d88aad4491d7",
-        "title": "Widow and orphan stocks: An old-timey term for a very relevant investing strategy",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/widow-orphan-stocks-old-timey-150000960.html",
-        "providerPublishTime": 1653145200,
         "type": "STORY"
     }
 }

@@ -1,10 +1,42 @@
 {
+    "4bbf7722-6837-3a25-92ac-5e11b248dcaf": {
+        "uuid": "4bbf7722-6837-3a25-92ac-5e11b248dcaf",
+        "title": "These 2 Numbers Could Spell Trouble for AbbVie Stock",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4bbf7722-6837-3a25-92ac-5e11b248dcaf/these-2-numbers-could-spell.html",
+        "providerPublishTime": 1653400800,
+        "type": "STORY"
+    },
+    "a4854347-c0ff-3aa1-93c9-a2a4089620db": {
+        "uuid": "a4854347-c0ff-3aa1-93c9-a2a4089620db",
+        "title": "AbbVie Showcases its Leadership in Rheumatology Research with New Data Across Multiple Inflammatory Joint Diseases at the EULAR 2022 Congress",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-showcases-leadership-rheumatology-research-120000352.html",
+        "providerPublishTime": 1653393600,
+        "type": "STORY"
+    },
+    "8e314b7c-4dab-35ac-ab52-2c5af70a7b7d": {
+        "uuid": "8e314b7c-4dab-35ac-ab52-2c5af70a7b7d",
+        "title": "AbbVie (ABBV) Files NDA for Parkinson's Disease Candidate",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-abbv-files-nda-parkinsons-154603893.html",
+        "providerPublishTime": 1653320763,
+        "type": "STORY"
+    },
     "d00a1c92-49ee-35ec-b174-f6d2942747ab": {
         "uuid": "d00a1c92-49ee-35ec-b174-f6d2942747ab",
         "title": "AbbVie Presents Positive Data from Phase 3 Study of Cariprazine (VRAYLAR\u00ae) for the Adjunctive Treatment of Major Depressive Disorder at 2022 APA Annual Meeting",
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/abbvie-presents-positive-data-phase-120000832.html",
         "providerPublishTime": 1653307200,
+        "type": "STORY"
+    },
+    "230e01ed-9efd-3704-a9c0-663a45293acc": {
+        "uuid": "230e01ed-9efd-3704-a9c0-663a45293acc",
+        "title": "EMA's CHMP Recommends AbbVie's Upadacitinib For Ulcerative Colitis",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/emas-chmp-recommends-abbvies-upadacitinib-110124823.html",
+        "providerPublishTime": 1653303684,
         "type": "STORY"
     },
     "4ff7ae82-638d-394c-8f4a-2120b7307f76": {
@@ -15,52 +47,20 @@
         "providerPublishTime": 1653285600,
         "type": "STORY"
     },
+    "976dad3c-1510-3cfc-8c31-b752101767f2": {
+        "uuid": "976dad3c-1510-3cfc-8c31-b752101767f2",
+        "title": "7 Quality Dividend Stocks to Buy on the Dip",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-quality-dividend-stocks-buy-150044410.html",
+        "providerPublishTime": 1653145244,
+        "type": "STORY"
+    },
     "4ae7afff-bf00-3983-b96a-1128a80c252a": {
         "uuid": "4ae7afff-bf00-3983-b96a-1128a80c252a",
         "title": "7 Retirement Stocks to Buy for Any Market Conditions",
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/7-retirement-stocks-buy-market-113140782.html",
         "providerPublishTime": 1653132700,
-        "type": "STORY"
-    },
-    "c63d5b9a-ec62-35af-9e99-861e3632fb27": {
-        "uuid": "c63d5b9a-ec62-35af-9e99-861e3632fb27",
-        "title": "Warren Buffett is Selling These 6 Stocks in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/warren-buffett-selling-6-stocks-131707882.html",
-        "providerPublishTime": 1653052627,
-        "type": "STORY"
-    },
-    "21389253-7f86-3b68-a7e0-4913ce20047f": {
-        "uuid": "21389253-7f86-3b68-a7e0-4913ce20047f",
-        "title": "Investors Heavily Search AbbVie Inc. (ABBV): Here is What You Need to Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/investors-heavily-search-abbvie-inc-130001244.html",
-        "providerPublishTime": 1653051601,
-        "type": "STORY"
-    },
-    "ac8e07b8-3689-3f54-a1c7-a17ceb79d2b8": {
-        "uuid": "ac8e07b8-3689-3f54-a1c7-a17ceb79d2b8",
-        "title": "Pharma Stock Roundup: FDA Nod to PFE COVID Jab for Age 5-11 & LLY's Tirzepatide",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pharma-stock-roundup-fda-nod-125012943.html",
-        "providerPublishTime": 1653051012,
-        "type": "STORY"
-    },
-    "7cc50f27-b951-3bc2-8453-e82ffa22e733": {
-        "uuid": "7cc50f27-b951-3bc2-8453-e82ffa22e733",
-        "title": "AbbVie Submits New Drug Application to U.S. FDA for Investigational ABBV-951 (Foscarbidopa/Foslevodopa) for the Treatment of Advanced Parkinson's Disease",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/abbvie-submits-drug-application-u-121500454.html",
-        "providerPublishTime": 1653048900,
-        "type": "STORY"
-    },
-    "4569f40d-c411-36c8-83a8-8b533f2b013d": {
-        "uuid": "4569f40d-c411-36c8-83a8-8b533f2b013d",
-        "title": "6 Stocks to Buy to Hedge Your Portfolio in a Down Market",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/6-stocks-buy-hedge-portfolio-160044938.html",
-        "providerPublishTime": 1652976044,
         "type": "STORY"
     }
 }
