@@ -6,15 +6,17 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./price-slider.component.css']
 })
 export class PriceSliderComponent implements OnInit {
-  @Input() min!: number;
-  @Input() max!: number;
-  @Input() currentPrice!: number;
+  @Input() min!: string;
+  @Input() max!: string;
+  @Input() currentPrice!: string;
   @Input() costAverage!: number;
   @Input() sharesOwned!: number;
+  color: string = '';
 
   constructor() { }
 
   ngOnInit(): void {
+    let mid = (+this.min + +this.max) / 2;
+    this.color = +this.currentPrice > mid ? 'primary' : 'warn';
   }
-
 }

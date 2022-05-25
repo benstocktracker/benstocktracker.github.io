@@ -3,11 +3,12 @@
   <div class="price-slider">
     <span>${{ min }}</span>
     <mat-slider
+      [color]="color"
       class="example-margin"
       [min]="min"
       [max]="max"
       value="{{currentPrice}}"
-      disabled
+      disabled="false"
       aria-labelledby="stock price"
     >
     </mat-slider>
