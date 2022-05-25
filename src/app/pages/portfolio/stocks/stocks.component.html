@@ -30,7 +30,7 @@
             <app-price-slider
               [min]="stock.stats.summaryDetail.fiftyTwoWeekLow.toFixed(2)"
               [max]="stock.stats.summaryDetail.fiftyTwoWeekHigh.toFixed(2)"
-              [currentPrice]="stock.stats.price.regularMarketOpen.toFixed(2)"
+              [currentPrice]="stock.stats.price.regularMarketPreviousClose.toFixed(2)"
               [costAverage]="stock.costAverage.toFixed(2)"
               [sharesOwned]="stock.sharesOwned"
             ></app-price-slider>
