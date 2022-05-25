@@ -8,14 +8,15 @@ import { StocksComponent } from './stocks/stocks.component';
 import { StockDetailsComponent } from './stock-details/stock-details.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { NewsComponent } from './news/news.component';
-
+import { HoldingsComponent } from './holdings/holdings.component';
 
 @NgModule({
   declarations: [
     StocksComponent,
     StockDetailsComponent,
     PortfolioComponent,
-    NewsComponent
+    NewsComponent,
+    HoldingsComponent,
   ],
   imports: [
     CommonModule,
