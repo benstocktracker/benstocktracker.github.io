@@ -37,7 +37,7 @@ export class TradingviewService {
   }
 
   singleQuoteWidget(symbol: string, theme='light', type='simple') {
-    let width = type === 'simple' ? 300 : 800;
+    let width = type === 'simple' ? 280 : 800;
     let src = type === 'simple' ? SourceScripts.SingleQuote : SourceScripts.SymbolInfo;
     const params = `
       {
