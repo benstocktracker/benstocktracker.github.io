@@ -1,4 +1,12 @@
 {
+    "a9fe34f6-8dce-31f3-ae61-a54a545fb61f": {
+        "uuid": "a9fe34f6-8dce-31f3-ae61-a54a545fb61f",
+        "title": "Gilead Reaches Number One Spot as Top Overall Philanthropic Funder of HIV-Related Programs, According to Funders Concerned About AIDS Report",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/gilead-reaches-number-one-spot-132606662.html",
+        "providerPublishTime": 1653485166,
+        "type": "STORY"
+    },
     "871b1096-f3eb-3a88-a0fb-534e06c76980": {
         "uuid": "871b1096-f3eb-3a88-a0fb-534e06c76980",
         "title": "The Zacks Analyst Blog Highlights JPMorgan Chase, Gilead Sciences, CSX, CVS Health and China Petroleum & Chemical",
@@ -53,14 +61,6 @@
         "publisher": "News Direct",
         "link": "https://finance.yahoo.com/news/living-metastatic-bladder-cancer-joeys-124608797.html",
         "providerPublishTime": 1652877968,
-        "type": "STORY"
-    },
-    "baab3845-2496-35cc-9f04-d7fa67dfbf88": {
-        "uuid": "baab3845-2496-35cc-9f04-d7fa67dfbf88",
-        "title": "Gilead and Kite Oncology to Highlight Advances Supporting New Innovations in Cancer Care at the ASCO Annual Meeting",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-kite-oncology-highlight-advances-203000908.html",
-        "providerPublishTime": 1652819400,
         "type": "STORY"
     }
 }

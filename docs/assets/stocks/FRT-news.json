@@ -1,4 +1,12 @@
 {
+    "9ca8e5d0-0b59-304c-84c4-b4431c5b82a7": {
+        "uuid": "9ca8e5d0-0b59-304c-84c4-b4431c5b82a7",
+        "title": "SKT vs. FRT: Which Stock Should Value Investors Buy Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/skt-vs-frt-stock-value-154003457.html",
+        "providerPublishTime": 1653406803,
+        "type": "STORY"
+    },
     "4ef05896-8516-31ca-a9ad-042c7bc0977c": {
         "uuid": "4ef05896-8516-31ca-a9ad-042c7bc0977c",
         "title": "3 Dividend Stocks to Buy for Passive Income",
@@ -53,14 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-frt-131501076.html",
         "providerPublishTime": 1651756501,
-        "type": "STORY"
-    },
-    "9ecc0837-aa20-3852-800b-0835e6e9e690": {
-        "uuid": "9ecc0837-aa20-3852-800b-0835e6e9e690",
-        "title": "Federal Realty Investment Trust Announces First Quarter 2022 Operating Results",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-announces-113000892.html",
-        "providerPublishTime": 1651750200,
         "type": "STORY"
     }
 }

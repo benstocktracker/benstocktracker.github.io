@@ -1,4 +1,20 @@
 {
+    "740c83a9-35a6-391f-82ba-cc6bd0798bc7": {
+        "uuid": "740c83a9-35a6-391f-82ba-cc6bd0798bc7",
+        "title": "10 Stocks to Sell According to Chase Coleman\u2019s Tiger Global",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-sell-according-chase-133248038.html",
+        "providerPublishTime": 1653485568,
+        "type": "STORY"
+    },
+    "9f353228-608c-35e3-becc-ccac57d1315c": {
+        "uuid": "9f353228-608c-35e3-becc-ccac57d1315c",
+        "title": "China's Didi faces rocky path to growth after winning U.S. delisting nod",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/chinas-didi-faces-rocky-path-092707987.html",
+        "providerPublishTime": 1653470827,
+        "type": "STORY"
+    },
     "92a54006-7fe6-377c-a544-82af4674f5a7": {
         "uuid": "92a54006-7fe6-377c-a544-82af4674f5a7",
         "title": "What Snap Tells Us About Consumers as Retailers Line Up More Earnings",
@@ -46,21 +62,5 @@
         "link": "https://finance.yahoo.com/video/didi-proceeds-nyse-delisting-153936602.html",
         "providerPublishTime": 1653320376,
         "type": "VIDEO"
-    },
-    "ced92b73-b8c7-31c2-be12-1ff9536ccff4": {
-        "uuid": "ced92b73-b8c7-31c2-be12-1ff9536ccff4",
-        "title": "Tesla stock dips, GameStop stock falls, DiDi stock rebounds",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/tesla-stock-dips-gamestop-stock-141903564.html",
-        "providerPublishTime": 1653315543,
-        "type": "VIDEO"
-    },
-    "5478ab4d-1549-3215-93d6-b7bad0b64b4e": {
-        "uuid": "5478ab4d-1549-3215-93d6-b7bad0b64b4e",
-        "title": "DiDi Investors To Vote On US Delisting",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/didi-investors-vote-us-delisting-135434435.html",
-        "providerPublishTime": 1653314074,
-        "type": "STORY"
     }
 }

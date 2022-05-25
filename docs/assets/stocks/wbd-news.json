@@ -23,14 +23,6 @@
         "providerPublishTime": 1653300976,
         "type": "STORY"
     },
-    "ed4eaf7a-3b2e-31ee-8fcb-7949286dcf15": {
-        "uuid": "ed4eaf7a-3b2e-31ee-8fcb-7949286dcf15",
-        "title": "Daily \u2013 Vickers Top Insider Picks for 05/23/2022",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/ed4eaf7a-3b2e-31ee-8fcb-7949286dcf15/daily-%E2%80%93-vickers-top-insider.html",
-        "providerPublishTime": 1653288544,
-        "type": "STORY"
-    },
     "4024fb88-658c-354d-9240-145dcc52ca0c": {
         "uuid": "4024fb88-658c-354d-9240-145dcc52ca0c",
         "title": "Actor Tray Chaney looks back on career, success of \u2018The Wire\u2019",
@@ -62,5 +54,13 @@
         "link": "https://finance.yahoo.com/video/streaming-dramatically-changed-landscape-film-200556474.html",
         "providerPublishTime": 1652904356,
         "type": "VIDEO"
+    },
+    "4dae7c04-6280-41c2-8ef5-356af1ffb39b": {
+        "uuid": "4dae7c04-6280-41c2-8ef5-356af1ffb39b",
+        "title": "Why one Netflix bear changed his outlook, now sees 40% upside: 'It's undervalued'",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/why-one-netflix-bear-changed-his-outlook-now-sees-40-upside-its-undervalued-184306116.html",
+        "providerPublishTime": 1652812986,
+        "type": "STORY"
     }
 }

@@ -1,66 +1,66 @@
 {
-    "63ec0e44-1b02-4483-8ec1-a26e0eb5c40a": {
-        "uuid": "63ec0e44-1b02-4483-8ec1-a26e0eb5c40a",
-        "title": "Stock market news live updates: Stocks extend losses as volatile trading continues, Snap drags down tech shares",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-may-24-2022-112212426.html",
-        "providerPublishTime": 1653404391,
+    "d316f1be-984e-3998-8e1e-a2b1ff1f908d": {
+        "uuid": "d316f1be-984e-3998-8e1e-a2b1ff1f908d",
+        "title": "U.S. refinery business 'can't catch up' with oil prices, analyst says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/u-refinery-business-cant-catch-133000713.html",
+        "providerPublishTime": 1653485400,
+        "type": "VIDEO"
+    },
+    "99760a86-5356-3ea5-85e4-f6ed6f9ab51c": {
+        "uuid": "99760a86-5356-3ea5-85e4-f6ed6f9ab51c",
+        "title": "Fuel delivery firm Booster raises $125 mln in late-stage funding",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/fuel-delivery-firm-booster-raises-130001820.html",
+        "providerPublishTime": 1653483601,
         "type": "STORY"
     },
-    "af1c4b06-2ee6-3237-a368-ba15a0e14d35": {
-        "uuid": "af1c4b06-2ee6-3237-a368-ba15a0e14d35",
-        "title": "Oil Wavers, Caught Between China Lockdowns and Saudi Inaction",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-eases-investors-focus-eu-001312263.html",
-        "providerPublishTime": 1653403606,
+    "96079e30-2d33-3c8b-aeda-a7a7bb72e1d4": {
+        "uuid": "96079e30-2d33-3c8b-aeda-a7a7bb72e1d4",
+        "title": "Saudi Arabia says it won't take any further action to curb soaring oil prices",
+        "publisher": "Business Insider",
+        "link": "https://finance.yahoo.com/m/96079e30-2d33-3c8b-aeda-a7a7bb72e1d4/saudi-arabia-says-it-won%27t.html",
+        "providerPublishTime": 1653481786,
         "type": "STORY"
     },
-    "61a7d01c-5225-3aac-8d3e-0f6f2e6723a7": {
-        "uuid": "61a7d01c-5225-3aac-8d3e-0f6f2e6723a7",
-        "title": "If You Invested $1000 in Marathon Petroleum a Decade Ago, This is How Much It'd Be Worth Now",
+    "ce4401b2-f8b9-3b81-a263-53521dce8cc4": {
+        "uuid": "ce4401b2-f8b9-3b81-a263-53521dce8cc4",
+        "title": "Whiting (WLL) Stock Rises Since Q1 Earnings: Here's Why",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/invested-1000-marathon-petroleum-decade-123012607.html",
-        "providerPublishTime": 1653395412,
+        "link": "https://finance.yahoo.com/news/whiting-wll-stock-rises-since-120212489.html",
+        "providerPublishTime": 1653480132,
         "type": "STORY"
     },
-    "d438968f-7847-3525-82ee-5f8c1adaf1c8": {
-        "uuid": "d438968f-7847-3525-82ee-5f8c1adaf1c8",
-        "title": "Germany to Bring Back Coal Power Plants If Russia Cuts Gas",
+    "56eb80e0-1e6c-3697-a006-6d3676a889f3": {
+        "uuid": "56eb80e0-1e6c-3697-a006-6d3676a889f3",
+        "title": "World\u2019s Oil-Growth Engine Is About to Slow Despite $100 Crude",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/germany-reactivate-coal-oil-plants-084708432.html",
-        "providerPublishTime": 1653395380,
+        "link": "https://finance.yahoo.com/news/world-oil-growth-engine-slow-120031020.html",
+        "providerPublishTime": 1653480031,
         "type": "STORY"
     },
-    "07eb1fa2-3c8c-38f9-b451-0aa0511c876f": {
-        "uuid": "07eb1fa2-3c8c-38f9-b451-0aa0511c876f",
-        "title": "Oil edges higher on fuel demand but Chinese demand still a concern",
+    "c82bd695-4f22-3c99-9ef5-1025d995edbc": {
+        "uuid": "c82bd695-4f22-3c99-9ef5-1025d995edbc",
+        "title": "Oil lifted on tight gasoline supplies",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/07eb1fa2-3c8c-38f9-b451-0aa0511c876f/oil-edges-higher-on-fuel.html",
-        "providerPublishTime": 1653394860,
+        "link": "https://finance.yahoo.com/m/c82bd695-4f22-3c99-9ef5-1025d995edbc/oil-lifted-on-tight-gasoline.html",
+        "providerPublishTime": 1653478260,
         "type": "STORY"
     },
-    "c05558ec-04c9-3895-b792-bb415f6b7dea": {
-        "uuid": "c05558ec-04c9-3895-b792-bb415f6b7dea",
-        "title": "China\u2019s energy transition will be powered by coal",
-        "publisher": "Quartz",
-        "link": "https://finance.yahoo.com/m/c05558ec-04c9-3895-b792-bb415f6b7dea/china%E2%80%99s-energy-transition.html",
-        "providerPublishTime": 1653393961,
+    "3c5e960c-83f9-3167-a6fb-071c5eeef7f1": {
+        "uuid": "3c5e960c-83f9-3167-a6fb-071c5eeef7f1",
+        "title": "UPDATE 1-G7 ministers may pledge to phase out coal, decarbonise power -draft",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-g7-ministers-may-pledge-112657669.html",
+        "providerPublishTime": 1653478017,
         "type": "STORY"
     },
-    "36371227-954f-34d8-888a-f934ed252ac7": {
-        "uuid": "36371227-954f-34d8-888a-f934ed252ac7",
-        "title": "Marathon Oil and Boeing have been highlighted as Zacks Bull and Bear of the Day",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/marathon-oil-boeing-highlighted-zacks-114011429.html",
-        "providerPublishTime": 1653392411,
-        "type": "STORY"
-    },
-    "6601611d-8bbd-34fb-a348-953800610b85": {
-        "uuid": "6601611d-8bbd-34fb-a348-953800610b85",
-        "title": "At Davos, climate debate over role of oil in \u2018going green\u2019",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/6601611d-8bbd-34fb-a348-953800610b85/at-davos%2C-climate-debate-over.html",
-        "providerPublishTime": 1653392280,
+    "b8c108d6-b649-3f53-aa38-33f1fab462de": {
+        "uuid": "b8c108d6-b649-3f53-aa38-33f1fab462de",
+        "title": "G7 ministers may pledge to phase out coal, decarbonise power -draft",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/g7-ministers-may-pledge-phase-105647964.html",
+        "providerPublishTime": 1653476207,
         "type": "STORY"
     }
 }

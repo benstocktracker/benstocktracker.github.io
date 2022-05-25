@@ -1,4 +1,52 @@
 {
+    "3b1e67ca-af0b-3cdf-9fd4-1112af52935b": {
+        "uuid": "3b1e67ca-af0b-3cdf-9fd4-1112af52935b",
+        "title": "AbbVie to Present at the Bernstein 38th Annual Strategic Decisions Conference",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-present-bernstein-38th-annual-120000601.html",
+        "providerPublishTime": 1653480000,
+        "type": "STORY"
+    },
+    "4ef5fd5e-4b89-3255-9aad-e99eb231d37a": {
+        "uuid": "4ef5fd5e-4b89-3255-9aad-e99eb231d37a",
+        "title": "Analyst Report: AbbVie Inc",
+        "publisher": "Argus Research",
+        "link": "https://finance.yahoo.com/m/4ef5fd5e-4b89-3255-9aad-e99eb231d37a/analyst-report%3A-abbvie-inc.html",
+        "providerPublishTime": 1653462353,
+        "type": "STORY"
+    },
+    "9404d6a9-da47-3aa1-9378-d594b41005c5": {
+        "uuid": "9404d6a9-da47-3aa1-9378-d594b41005c5",
+        "title": "Market Digest: RSG, ABBV",
+        "publisher": "Argus Research",
+        "link": "https://finance.yahoo.com/m/9404d6a9-da47-3aa1-9378-d594b41005c5/market-digest%3A-rsg%2C-abbv.html",
+        "providerPublishTime": 1653461453,
+        "type": "STORY"
+    },
+    "043ae2fe-5b7c-3523-8118-4f27a1820229": {
+        "uuid": "043ae2fe-5b7c-3523-8118-4f27a1820229",
+        "title": "Top Healthcare Stocks for June 2022",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/043ae2fe-5b7c-3523-8118-4f27a1820229/top-healthcare-stocks-for.html",
+        "providerPublishTime": 1653414533,
+        "type": "STORY"
+    },
+    "836ce7b2-3036-3738-9abc-25a65a808b64": {
+        "uuid": "836ce7b2-3036-3738-9abc-25a65a808b64",
+        "title": "Why High Dividend ETFs are Beating the Market",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-high-dividend-etfs-beating-170205526.html",
+        "providerPublishTime": 1653411725,
+        "type": "STORY"
+    },
+    "0dcee72e-7814-328d-be43-79ac6f0c4d38": {
+        "uuid": "0dcee72e-7814-328d-be43-79ac6f0c4d38",
+        "title": "3 Great Dividend Stocks to Buy Now and Hold",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/3-great-dividend-stocks-buy-160404281.html",
+        "providerPublishTime": 1653408244,
+        "type": "STORY"
+    },
     "4bbf7722-6837-3a25-92ac-5e11b248dcaf": {
         "uuid": "4bbf7722-6837-3a25-92ac-5e11b248dcaf",
         "title": "These 2 Numbers Could Spell Trouble for AbbVie Stock",
@@ -13,54 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/abbvie-showcases-leadership-rheumatology-research-120000352.html",
         "providerPublishTime": 1653393600,
-        "type": "STORY"
-    },
-    "8e314b7c-4dab-35ac-ab52-2c5af70a7b7d": {
-        "uuid": "8e314b7c-4dab-35ac-ab52-2c5af70a7b7d",
-        "title": "AbbVie (ABBV) Files NDA for Parkinson's Disease Candidate",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-files-nda-parkinsons-154603893.html",
-        "providerPublishTime": 1653320763,
-        "type": "STORY"
-    },
-    "d00a1c92-49ee-35ec-b174-f6d2942747ab": {
-        "uuid": "d00a1c92-49ee-35ec-b174-f6d2942747ab",
-        "title": "AbbVie Presents Positive Data from Phase 3 Study of Cariprazine (VRAYLAR\u00ae) for the Adjunctive Treatment of Major Depressive Disorder at 2022 APA Annual Meeting",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/abbvie-presents-positive-data-phase-120000832.html",
-        "providerPublishTime": 1653307200,
-        "type": "STORY"
-    },
-    "230e01ed-9efd-3704-a9c0-663a45293acc": {
-        "uuid": "230e01ed-9efd-3704-a9c0-663a45293acc",
-        "title": "EMA's CHMP Recommends AbbVie's Upadacitinib For Ulcerative Colitis",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/emas-chmp-recommends-abbvies-upadacitinib-110124823.html",
-        "providerPublishTime": 1653303684,
-        "type": "STORY"
-    },
-    "4ff7ae82-638d-394c-8f4a-2120b7307f76": {
-        "uuid": "4ff7ae82-638d-394c-8f4a-2120b7307f76",
-        "title": "CHMP Recommends European Commission Approval of Upadacitinib (RINVOQ\u00ae) for the Treatment of Adults with Moderate to Severe Ulcerative Colitis",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/chmp-recommends-european-commission-approval-060000276.html",
-        "providerPublishTime": 1653285600,
-        "type": "STORY"
-    },
-    "976dad3c-1510-3cfc-8c31-b752101767f2": {
-        "uuid": "976dad3c-1510-3cfc-8c31-b752101767f2",
-        "title": "7 Quality Dividend Stocks to Buy on the Dip",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-quality-dividend-stocks-buy-150044410.html",
-        "providerPublishTime": 1653145244,
-        "type": "STORY"
-    },
-    "4ae7afff-bf00-3983-b96a-1128a80c252a": {
-        "uuid": "4ae7afff-bf00-3983-b96a-1128a80c252a",
-        "title": "7 Retirement Stocks to Buy for Any Market Conditions",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-retirement-stocks-buy-market-113140782.html",
-        "providerPublishTime": 1653132700,
         "type": "STORY"
     }
 }

@@ -1,20 +1,4 @@
 {
-    "78f88b29-00fa-36b6-8145-3d5a1e5b1c7b": {
-        "uuid": "78f88b29-00fa-36b6-8145-3d5a1e5b1c7b",
-        "title": "Analyst Report: Enbridge Inc",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/78f88b29-00fa-36b6-8145-3d5a1e5b1c7b/analyst-report%3A-enbridge-inc.html",
-        "providerPublishTime": 1653288522,
-        "type": "STORY"
-    },
-    "478c2842-628a-3f53-82a0-06a1ef099b4d": {
-        "uuid": "478c2842-628a-3f53-82a0-06a1ef099b4d",
-        "title": "Market Digest: ENB, SNY, AIG, APA, APD, SYK, PANW, CTVA",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/478c2842-628a-3f53-82a0-06a1ef099b4d/market-digest%3A-enb%2C-sny%2C-aig%2C.html",
-        "providerPublishTime": 1653287622,
-        "type": "STORY"
-    },
     "2ee87d00-e76c-3aca-a518-c9c088aff31d": {
         "uuid": "2ee87d00-e76c-3aca-a518-c9c088aff31d",
         "title": "Enbridge Announces Conversion Results for Series B and Series C Preferred Shares",
@@ -61,6 +45,22 @@
         "publisher": "American City Business Journals",
         "link": "https://finance.yahoo.com/m/aa8bbb63-a97c-31b3-a7d0-8888de5f1169/behind-the-deal%3A-%E2%80%98everybody.html",
         "providerPublishTime": 1652902382,
+        "type": "STORY"
+    },
+    "5380ace2-6770-3f13-a6e2-4fb8ab1bf26d": {
+        "uuid": "5380ace2-6770-3f13-a6e2-4fb8ab1bf26d",
+        "title": "Living Off Dividends in Retirement: 10 Best Stocks To Consider",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/living-off-dividends-retirement-10-180651794.html",
+        "providerPublishTime": 1652810811,
+        "type": "STORY"
+    },
+    "e3d3a800-5ccf-3554-b040-060e6b907157": {
+        "uuid": "e3d3a800-5ccf-3554-b040-060e6b907157",
+        "title": "7 Oil Stocks to Buy With Safe Dividends",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-oil-stocks-buy-safe-104022177.html",
+        "providerPublishTime": 1652784022,
         "type": "STORY"
     }
 }

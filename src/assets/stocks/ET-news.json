@@ -1,4 +1,12 @@
 {
+    "478a1f1b-bba4-3617-bb83-57cabb5192ea": {
+        "uuid": "478a1f1b-bba4-3617-bb83-57cabb5192ea",
+        "title": "Energy Transfer Is Looking to Add a New Fuel Source",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/478a1f1b-bba4-3617-bb83-57cabb5192ea/energy-transfer-is-looking-to.html",
+        "providerPublishTime": 1653482700,
+        "type": "STORY"
+    },
     "e08d8a33-d3ec-3d79-8d5d-2cd973c30044": {
         "uuid": "e08d8a33-d3ec-3d79-8d5d-2cd973c30044",
         "title": "Can Energy Transfer LP (ET) Climb 33% to Reach the Level Wall Street Analysts Expect?",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/06bf97a7-4931-3682-9c2e-bb6fb0e71016/market-volatility-got-you.html",
         "providerPublishTime": 1652535900,
-        "type": "STORY"
-    },
-    "c6536ce3-6bc1-31f2-b109-84c2356a8c6b": {
-        "uuid": "c6536ce3-6bc1-31f2-b109-84c2356a8c6b",
-        "title": "3 Capital-Intensive Stocks to Consider",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/news/3-capital-intensive-stocks-consider-194511634.html",
-        "providerPublishTime": 1652384711,
         "type": "STORY"
     }
 }

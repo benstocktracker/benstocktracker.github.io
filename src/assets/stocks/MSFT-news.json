@@ -1,4 +1,44 @@
 {
+    "a8a1b3c4-912d-340b-82c1-a5e20ff04f7c": {
+        "uuid": "a8a1b3c4-912d-340b-82c1-a5e20ff04f7c",
+        "title": "Stocks edge higher as investors await Fed minutes",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-edge-higher-investors-await-140240922.html",
+        "providerPublishTime": 1653487360,
+        "type": "VIDEO"
+    },
+    "6d5df328-cd45-3535-a771-c983de20a455": {
+        "uuid": "6d5df328-cd45-3535-a771-c983de20a455",
+        "title": "3 Unstoppable Investments Everyone Needs in Their Portfolio",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6d5df328-cd45-3535-a771-c983de20a455/3-unstoppable-investments.html",
+        "providerPublishTime": 1653483600,
+        "type": "STORY"
+    },
+    "23141b52-ce08-3bed-aca8-6d2161f0de07": {
+        "uuid": "23141b52-ce08-3bed-aca8-6d2161f0de07",
+        "title": "Broadcom Might Pay About $60 Billion for VMware",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/23141b52-ce08-3bed-aca8-6d2161f0de07/broadcom-might-pay-about-%2460.html",
+        "providerPublishTime": 1653483600,
+        "type": "STORY"
+    },
+    "5a3a21db-8645-3fc0-859a-54dcf7d98744": {
+        "uuid": "5a3a21db-8645-3fc0-859a-54dcf7d98744",
+        "title": "Big Tech Lobbies EU to Send Ukraine Equipment Destroyed by War",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/big-tech-lobbies-eu-send-102130041.html",
+        "providerPublishTime": 1653474090,
+        "type": "STORY"
+    },
+    "3ffc93ac-dfe1-3023-b5de-fa793463a824": {
+        "uuid": "3ffc93ac-dfe1-3023-b5de-fa793463a824",
+        "title": "Broadcom (AVGO) Rumored to be in Talks to Acquire VMware",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/broadcom-avgo-rumored-talks-acquire-162804906.html",
+        "providerPublishTime": 1653409684,
+        "type": "STORY"
+    },
     "2207582c-bd64-3192-a575-c0ae50eea1b9": {
         "uuid": "2207582c-bd64-3192-a575-c0ae50eea1b9",
         "title": "10 Biggest Software Companies",
@@ -21,46 +61,6 @@
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/6-tech-stocks-buy-today-143217976.html",
         "providerPublishTime": 1653402737,
-        "type": "STORY"
-    },
-    "25f5cafc-07a7-3e47-85eb-2ae643235512": {
-        "uuid": "25f5cafc-07a7-3e47-85eb-2ae643235512",
-        "title": "Zoom earnings top estimates, stock rises premarket",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/zoom-earnings-top-estimates-stock-140013651.html",
-        "providerPublishTime": 1653400813,
-        "type": "VIDEO"
-    },
-    "e19bdb7f-b272-31c9-8d2d-bb43962a170c": {
-        "uuid": "e19bdb7f-b272-31c9-8d2d-bb43962a170c",
-        "title": "Dow Jones Falls As Snap Plunges 39% On Profit Warning",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e19bdb7f-b272-31c9-8d2d-bb43962a170c/dow-jones-falls-as-snap.html",
-        "providerPublishTime": 1653400295,
-        "type": "STORY"
-    },
-    "76613e7b-4e50-3c1c-ae62-7154afeeed4f": {
-        "uuid": "76613e7b-4e50-3c1c-ae62-7154afeeed4f",
-        "title": "Microsoft Corporation (MSFT) is Attracting Investor Attention: Here is What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/microsoft-corporation-msft-attracting-investor-130001268.html",
-        "providerPublishTime": 1653397201,
-        "type": "STORY"
-    },
-    "d243a4a4-66e8-3ba3-8492-eaaf801eb9d9": {
-        "uuid": "d243a4a4-66e8-3ba3-8492-eaaf801eb9d9",
-        "title": "Zoom Jumps on Sales Forecast, Signaling Success of New Products",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/zoom-jumps-sales-forecast-signaling-202255805.html",
-        "providerPublishTime": 1653396951,
-        "type": "STORY"
-    },
-    "80501576-00f0-33c4-8f20-120bd15f2c5d": {
-        "uuid": "80501576-00f0-33c4-8f20-120bd15f2c5d",
-        "title": "1 Green Growth Stock to Buy After Tesla's ESG-Index Exile",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/80501576-00f0-33c4-8f20-120bd15f2c5d/1-green-growth-stock-to-buy.html",
-        "providerPublishTime": 1653392700,
         "type": "STORY"
     }
 }

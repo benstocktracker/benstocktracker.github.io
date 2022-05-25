@@ -1,4 +1,20 @@
 {
+    "2d39790e-a34b-3c49-a148-af3a1666e1db": {
+        "uuid": "2d39790e-a34b-3c49-a148-af3a1666e1db",
+        "title": "EvoNexus, Royal Bank of Canada and Franklin Templeton Collaborate On Silicon Valley FinTech Incubator in Call for New Early-Stage Start-Up Applicants",
+        "publisher": "CNW Group",
+        "link": "https://finance.yahoo.com/news/evonexus-royal-bank-canada-franklin-114500502.html",
+        "providerPublishTime": 1653479100,
+        "type": "STORY"
+    },
+    "f4921479-fbc8-3c89-a630-48c098734e95": {
+        "uuid": "f4921479-fbc8-3c89-a630-48c098734e95",
+        "title": "EvoNexus, Royal Bank of Canada and Franklin Templeton Collaborate On Silicon Valley FinTech Incubator in Call for New Early-Stage Start-Up Applicants",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/evonexus-royal-bank-canada-franklin-114500213.html",
+        "providerPublishTime": 1653479100,
+        "type": "STORY"
+    },
     "b220ba3e-e689-38fb-a7f9-d24cd24e119a": {
         "uuid": "b220ba3e-e689-38fb-a7f9-d24cd24e119a",
         "title": "Independent Group Announces Successful Launch of iStructure, linked to the Franklin BofA World Index\u2122",
@@ -45,22 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/victory-capitals-vctr-april-aum-142402924.html",
         "providerPublishTime": 1652451842,
-        "type": "STORY"
-    },
-    "8a6874ca-ce72-3535-9899-07e3136c8365": {
-        "uuid": "8a6874ca-ce72-3535-9899-07e3136c8365",
-        "title": "T. Rowe (TROW) April AUM Down 8.5% on Unfavorable Markets",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/t-rowe-trow-april-aum-131701640.html",
-        "providerPublishTime": 1652361421,
-        "type": "STORY"
-    },
-    "95749501-12f8-3bed-ad04-7679e814609f": {
-        "uuid": "95749501-12f8-3bed-ad04-7679e814609f",
-        "title": "Lazard's (LAZ) April AUM Falls 6.4% on Market Depreciation",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/lazards-laz-april-aum-falls-130701838.html",
-        "providerPublishTime": 1652360821,
         "type": "STORY"
     }
 }

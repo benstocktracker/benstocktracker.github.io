@@ -1,4 +1,44 @@
 {
+    "b8cffd95-6748-342f-986c-893e7fc44a30": {
+        "uuid": "b8cffd95-6748-342f-986c-893e7fc44a30",
+        "title": "David Einhorn Having a Banner Year in 2022: 10 Favorite Stock Picks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/david-einhorn-having-banner-2022-140324606.html",
+        "providerPublishTime": 1653487404,
+        "type": "STORY"
+    },
+    "6c88d38e-fa14-39fd-be6c-c040ada1fdb5": {
+        "uuid": "6c88d38e-fa14-39fd-be6c-c040ada1fdb5",
+        "title": "Better Tech Dividend Stock: AT&T vs. Cisco",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6c88d38e-fa14-39fd-be6c-c040ada1fdb5/better-tech-dividend-stock%3A.html",
+        "providerPublishTime": 1653480900,
+        "type": "STORY"
+    },
+    "64534bec-2903-3cd3-bf1e-104d30fb68fa": {
+        "uuid": "64534bec-2903-3cd3-bf1e-104d30fb68fa",
+        "title": "4 Top Dividend Payers of the S&P 500",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/64534bec-2903-3cd3-bf1e-104d30fb68fa/4-top-dividend-payers-of-the.html",
+        "providerPublishTime": 1653473640,
+        "type": "STORY"
+    },
+    "9caaba64-e0bf-347b-bbd7-ffd1fd623d24": {
+        "uuid": "9caaba64-e0bf-347b-bbd7-ffd1fd623d24",
+        "title": "UPDATE 1-U.S. FAA wants some airplane altimeters retrofitted by end of 2022",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-u-faa-wants-airplane-232834609.html",
+        "providerPublishTime": 1653434914,
+        "type": "STORY"
+    },
+    "e712b3af-4fce-3222-9e75-cdd0904525a5": {
+        "uuid": "e712b3af-4fce-3222-9e75-cdd0904525a5",
+        "title": "Best Telecom Stocks To Buy In May",
+        "publisher": "FX Empire",
+        "link": "https://finance.yahoo.com/news/best-telecom-stocks-buy-may-151746746.html",
+        "providerPublishTime": 1653405466,
+        "type": "STORY"
+    },
     "7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d": {
         "uuid": "7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d",
         "title": "AT&T Should Dial It Up",
@@ -21,46 +61,6 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/t-ceo-updates-shareholders-j-004000826.html",
         "providerPublishTime": 1653352800,
-        "type": "STORY"
-    },
-    "314a17cb-f1cd-302d-98bd-a3e442b6b8ad": {
-        "uuid": "314a17cb-f1cd-302d-98bd-a3e442b6b8ad",
-        "title": "T-Mobile launches 5G products to compete with Verizon, AT&T for business clients",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/t-mobile-launches-5g-products-130118826.html",
-        "providerPublishTime": 1653310878,
-        "type": "STORY"
-    },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1653309315,
-        "type": "STORY"
-    },
-    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
-        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
-        "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
-        "providerPublishTime": 1653308713,
-        "type": "STORY"
-    },
-    "a3f5c1ba-bd94-3b85-b997-edab420eed60": {
-        "uuid": "a3f5c1ba-bd94-3b85-b997-edab420eed60",
-        "title": "AT&T Inc. Announces Expiration and Upsizing of Its Tender Offers for 63 Series of Notes",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/t-inc-announces-expiration-upsizing-113000480.html",
-        "providerPublishTime": 1653305400,
-        "type": "STORY"
-    },
-    "bc7c2025-0107-3d5b-8bc8-3aae17eeb2e1": {
-        "uuid": "bc7c2025-0107-3d5b-8bc8-3aae17eeb2e1",
-        "title": "3 Extremely Safe High-Yield Dividend Stocks to Buy if the U.S. Dips Into Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/bc7c2025-0107-3d5b-8bc8-3aae17eeb2e1/3-extremely-safe-high-yield.html",
-        "providerPublishTime": 1653211260,
         "type": "STORY"
     }
 }

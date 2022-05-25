@@ -60,7 +60,12 @@ th.mat-sort-header-sorted {
 }
 
 .table-col-0 > div {
-  margin-left: 30%;
+  margin-left: 20px;
+}
+
+.table-col-0 > img {
+  margin-left: 20px;
+  border-radius: 50%;;
 }
 
 .mat-row:not(.expanded-stock-row):hover .mat-cell {

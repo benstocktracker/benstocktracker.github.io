@@ -115,7 +115,11 @@ def calculate_row_data(portfolio: list):
 
 
 if __name__ == '__main__':
-    fetch_all_tickers_data()
+    # fetch_all_tickers_data()
+    fetch_one_ticker_data('UL')
+    fetch_one_ticker_data('VZ')
+    fetch_one_ticker_data('WBD')
+    fetch_one_ticker_data('XPEV')
     stock_data = combine_stock_data()
     stock_news = combine_stock_news()
     stock_rows = calculate_row_data(stock_data)

@@ -1,4 +1,28 @@
 {
+    "226aa37b-1a15-4880-bc2f-4ff816011fce": {
+        "uuid": "226aa37b-1a15-4880-bc2f-4ff816011fce",
+        "title": "What Didi\u2019s 'train wreck' delisting means for US-listed Chinese companies",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/what-didis-delisting-means-for-us-listed-chinese-companies-095506543.html",
+        "providerPublishTime": 1653472506,
+        "type": "STORY"
+    },
+    "102a7f27-853b-32a2-8e6a-50acbcefb1d1": {
+        "uuid": "102a7f27-853b-32a2-8e6a-50acbcefb1d1",
+        "title": "Why Nio Stock Fell Again Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/102a7f27-853b-32a2-8e6a-50acbcefb1d1/why-nio-stock-fell-again-today.html",
+        "providerPublishTime": 1653415140,
+        "type": "STORY"
+    },
+    "bb61d5db-9b5d-32f7-9b48-4344388d2424": {
+        "uuid": "bb61d5db-9b5d-32f7-9b48-4344388d2424",
+        "title": "Mobile EV charging can eliminate 'charging deserts,' SparkCharge CEO says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/mobile-ev-charging-eliminate-charging-154752936.html",
+        "providerPublishTime": 1653407272,
+        "type": "VIDEO"
+    },
     "5f466188-5772-3f31-9548-f3c7130439dd": {
         "uuid": "5f466188-5772-3f31-9548-f3c7130439dd",
         "title": "Time to Turn Bullish on NIO Stock? This 5-Star Analyst Thinks So",
@@ -37,30 +61,6 @@
         "publisher": "GlobeNewswire",
         "link": "https://finance.yahoo.com/news/nio-inc-report-first-quarter-000100513.html",
         "providerPublishTime": 1653264060,
-        "type": "STORY"
-    },
-    "2d4ae7e2-745d-3460-8f1c-64cb9eb8358f": {
-        "uuid": "2d4ae7e2-745d-3460-8f1c-64cb9eb8358f",
-        "title": "NIO to be Added to The Hang Seng TECH Index as a Constituent Stock",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/nio-added-hang-seng-tech-000000134.html",
-        "providerPublishTime": 1653264000,
-        "type": "STORY"
-    },
-    "895aa34e-7334-3a7e-994e-46ab8dddc8a7": {
-        "uuid": "895aa34e-7334-3a7e-994e-46ab8dddc8a7",
-        "title": "Nio\u2019s Product Diversity Makes It a Long-Term Buy",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/nio-product-diversity-makes-long-105137386.html",
-        "providerPublishTime": 1653216697,
-        "type": "STORY"
-    },
-    "4fb0955f-875b-35dc-821d-58611ffafa9b": {
-        "uuid": "4fb0955f-875b-35dc-821d-58611ffafa9b",
-        "title": "2 Top Electric Vehicle Stocks to Buy for the Long Haul",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/4fb0955f-875b-35dc-821d-58611ffafa9b/2-top-electric-vehicle-stocks.html",
-        "providerPublishTime": 1653215460,
         "type": "STORY"
     }
 }

@@ -1,4 +1,12 @@
 {
+    "64135845-362e-3b9e-bfd4-0e09c984e55c": {
+        "uuid": "64135845-362e-3b9e-bfd4-0e09c984e55c",
+        "title": "Buy and Hold: 4 Stocks That Are Down but Not Out",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/64135845-362e-3b9e-bfd4-0e09c984e55c/buy-and-hold%3A-4-stocks-that.html",
+        "providerPublishTime": 1653477300,
+        "type": "STORY"
+    },
     "bd7ea9f2-eea4-3a7c-9190-9612b8e8a5bf": {
         "uuid": "bd7ea9f2-eea4-3a7c-9190-9612b8e8a5bf",
         "title": "Samsung to Spend $360 Billion on Chips, Biotech Over 5 Years",
@@ -53,14 +61,6 @@
         "publisher": "Benzinga",
         "link": "https://finance.yahoo.com/news/tsmc-weighs-multi-billion-dollar-181145701.html",
         "providerPublishTime": 1652983905,
-        "type": "STORY"
-    },
-    "36b55379-8ac1-382b-8713-27afd75a865e": {
-        "uuid": "36b55379-8ac1-382b-8713-27afd75a865e",
-        "title": "TSMC Looks to Build Multibillion-Dollar Chip Plant in Singapore",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/36b55379-8ac1-382b-8713-27afd75a865e/tsmc-looks-to-build.html",
-        "providerPublishTime": 1652965500,
         "type": "STORY"
     }
 }

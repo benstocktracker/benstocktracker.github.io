@@ -101,6 +101,13 @@ export class StocksComponent implements OnInit, AfterViewInit {
     }
   }
 
+  getLogoURL(stock: any) { 
+    const website = stock.stats.summaryProfile?.website.split('www.')[1] || 'clearbit.com';
+    console.log(website);
+    console.log(`https://logo.clearbit.com/${website}`);
+    return `https://logo.clearbit.com/${website}?size=40&format=png`;
+  }
+
   ngOnInit() {
     this.activatedRoute.data.subscribe(response => {
       this.dataSource.data = Object.values(response['stocks'].default);

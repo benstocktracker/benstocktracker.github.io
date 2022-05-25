@@ -1,4 +1,44 @@
 {
+    "ab18680b-df66-34ea-ac13-2e7aa1834c35": {
+        "uuid": "ab18680b-df66-34ea-ac13-2e7aa1834c35",
+        "title": "10 Stocks Smart Investors Buy During Recessions",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-smart-investors-buy-135631446.html",
+        "providerPublishTime": 1653486991,
+        "type": "STORY"
+    },
+    "64534bec-2903-3cd3-bf1e-104d30fb68fa": {
+        "uuid": "64534bec-2903-3cd3-bf1e-104d30fb68fa",
+        "title": "4 Top Dividend Payers of the S&P 500",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/64534bec-2903-3cd3-bf1e-104d30fb68fa/4-top-dividend-payers-of-the.html",
+        "providerPublishTime": 1653473640,
+        "type": "STORY"
+    },
+    "9caaba64-e0bf-347b-bbd7-ffd1fd623d24": {
+        "uuid": "9caaba64-e0bf-347b-bbd7-ffd1fd623d24",
+        "title": "UPDATE 1-U.S. FAA wants some airplane altimeters retrofitted by end of 2022",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-u-faa-wants-airplane-232834609.html",
+        "providerPublishTime": 1653434914,
+        "type": "STORY"
+    },
+    "8ce77120-4400-3195-8b6b-d602a0a0446f": {
+        "uuid": "8ce77120-4400-3195-8b6b-d602a0a0446f",
+        "title": "Verizon announces new partners to join +play on the network more people rely on",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-announces-partners-join-play-180000851.html",
+        "providerPublishTime": 1653415200,
+        "type": "STORY"
+    },
+    "e712b3af-4fce-3222-9e75-cdd0904525a5": {
+        "uuid": "e712b3af-4fce-3222-9e75-cdd0904525a5",
+        "title": "Best Telecom Stocks To Buy In May",
+        "publisher": "FX Empire",
+        "link": "https://finance.yahoo.com/news/best-telecom-stocks-buy-may-151746746.html",
+        "providerPublishTime": 1653405466,
+        "type": "STORY"
+    },
     "920301fb-9cd0-3c88-8679-880dd68ebccb": {
         "uuid": "920301fb-9cd0-3c88-8679-880dd68ebccb",
         "title": "Verizon continues its crack down on spam calls and texts",
@@ -21,46 +61,6 @@
         "publisher": "GlobeNewswire",
         "link": "https://finance.yahoo.com/news/ransomware-threat-rises-verizon-2022-041300501.html",
         "providerPublishTime": 1653365580,
-        "type": "STORY"
-    },
-    "314a17cb-f1cd-302d-98bd-a3e442b6b8ad": {
-        "uuid": "314a17cb-f1cd-302d-98bd-a3e442b6b8ad",
-        "title": "T-Mobile launches 5G products to compete with Verizon, AT&T for business clients",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/t-mobile-launches-5g-products-130118826.html",
-        "providerPublishTime": 1653310878,
-        "type": "STORY"
-    },
-    "92f236cd-d3b5-37b9-a9a6-1baaee787879": {
-        "uuid": "92f236cd-d3b5-37b9-a9a6-1baaee787879",
-        "title": "5G Stocks To Buy And Watch As Wireless Firms Move Beyond Smartphones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/92f236cd-d3b5-37b9-a9a6-1baaee787879/5g-stocks-to-buy-and-watch-as.html",
-        "providerPublishTime": 1653310255,
-        "type": "STORY"
-    },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1653309315,
-        "type": "STORY"
-    },
-    "56d8e05a-ce5a-34a1-9454-4c5044bbe339": {
-        "uuid": "56d8e05a-ce5a-34a1-9454-4c5044bbe339",
-        "title": "Verizon to speak at J.P. Morgan conference May 24",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-speak-j-p-morgan-123000479.html",
-        "providerPublishTime": 1653309000,
-        "type": "STORY"
-    },
-    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
-        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
-        "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
-        "providerPublishTime": 1653308713,
         "type": "STORY"
     }
 }
