@@ -1,4 +1,44 @@
 {
+    "28a580b2-f93c-339e-8df9-42edf2f6467a": {
+        "uuid": "28a580b2-f93c-339e-8df9-42edf2f6467a",
+        "title": "Why Nio Stock Hit the Gas Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/28a580b2-f93c-339e-8df9-42edf2f6467a/why-nio-stock-hit-the-gas.html",
+        "providerPublishTime": 1653581563,
+        "type": "STORY"
+    },
+    "27c597fd-3a3c-3bc6-afa8-3a968c840a93": {
+        "uuid": "27c597fd-3a3c-3bc6-afa8-3a968c840a93",
+        "title": "NIO to Invest $32.8M in Shanghai Battery Labs & Cell Plant",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-invest-32-8m-shanghai-161804702.html",
+        "providerPublishTime": 1653495484,
+        "type": "STORY"
+    },
+    "65cae50f-6a85-3f34-9bbe-8db1d1a64f55": {
+        "uuid": "65cae50f-6a85-3f34-9bbe-8db1d1a64f55",
+        "title": "Why Nio Shares Bounced Back Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/65cae50f-6a85-3f34-9bbe-8db1d1a64f55/why-nio-shares-bounced-back.html",
+        "providerPublishTime": 1653495020,
+        "type": "STORY"
+    },
+    "af60d1d1-e834-3623-9dd9-91fec6cc28f0": {
+        "uuid": "af60d1d1-e834-3623-9dd9-91fec6cc28f0",
+        "title": "Nio Stock Has 77% Upside Potential",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/nio-stock-77-upside-potential-130023096.html",
+        "providerPublishTime": 1653483623,
+        "type": "STORY"
+    },
+    "3bbeba2b-98fa-3bc8-b6b8-0f1fefed3b5d": {
+        "uuid": "3bbeba2b-98fa-3bc8-b6b8-0f1fefed3b5d",
+        "title": "Buy Nio as It Debuts for Trading in Singapore",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/buy-nio-debuts-trading-singapore-104801276.html",
+        "providerPublishTime": 1653475681,
+        "type": "STORY"
+    },
     "226aa37b-1a15-4880-bc2f-4ff816011fce": {
         "uuid": "226aa37b-1a15-4880-bc2f-4ff816011fce",
         "title": "What Didi\u2019s 'train wreck' delisting means for US-listed Chinese companies",
@@ -22,45 +62,5 @@
         "link": "https://finance.yahoo.com/video/mobile-ev-charging-eliminate-charging-154752936.html",
         "providerPublishTime": 1653407272,
         "type": "VIDEO"
-    },
-    "5f466188-5772-3f31-9548-f3c7130439dd": {
-        "uuid": "5f466188-5772-3f31-9548-f3c7130439dd",
-        "title": "Time to Turn Bullish on NIO Stock? This 5-Star Analyst Thinks So",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/time-turn-bullish-nio-stock-202535160.html",
-        "providerPublishTime": 1653337535,
-        "type": "STORY"
-    },
-    "9bd0cce1-687a-3f86-bfa8-a3e33e8e5465": {
-        "uuid": "9bd0cce1-687a-3f86-bfa8-a3e33e8e5465",
-        "title": "Why Nio Stock Is Falling Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9bd0cce1-687a-3f86-bfa8-a3e33e8e5465/why-nio-stock-is-falling-today.html",
-        "providerPublishTime": 1653321932,
-        "type": "STORY"
-    },
-    "18f6d807-c6dc-3bbb-b207-ea73d05e460b": {
-        "uuid": "18f6d807-c6dc-3bbb-b207-ea73d05e460b",
-        "title": "Didi proceeds with NYSE delisting",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/didi-proceeds-nyse-delisting-153936602.html",
-        "providerPublishTime": 1653320376,
-        "type": "VIDEO"
-    },
-    "1b2dd86e-272a-3efb-9a90-93d8d30ed3b9": {
-        "uuid": "1b2dd86e-272a-3efb-9a90-93d8d30ed3b9",
-        "title": "Nio stock dives, Tesla slips toward 10-month low after XPeng's disappointing outlook",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/1b2dd86e-272a-3efb-9a90-93d8d30ed3b9/nio-stock-dives%2C-tesla-slips.html",
-        "providerPublishTime": 1653319590,
-        "type": "STORY"
-    },
-    "2a8c64f0-a419-31d5-b664-8dae5b79e6a2": {
-        "uuid": "2a8c64f0-a419-31d5-b664-8dae5b79e6a2",
-        "title": "NIO Inc. to Report First Quarter 2022 Financial Results on Thursday, June 9, 2022",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/nio-inc-report-first-quarter-000100513.html",
-        "providerPublishTime": 1653264060,
-        "type": "STORY"
     }
 }

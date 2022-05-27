@@ -1,4 +1,28 @@
 {
+    "bb501a0f-205d-3b71-bd74-b7fbd3372ef2": {
+        "uuid": "bb501a0f-205d-3b71-bd74-b7fbd3372ef2",
+        "title": "The FDA\u2019s decision on the Novavax COVID-19 vaccine could come in weeks",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/bb501a0f-205d-3b71-bd74-b7fbd3372ef2/the-fda%E2%80%99s-decision-on-the.html",
+        "providerPublishTime": 1653650460,
+        "type": "STORY"
+    },
+    "98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d": {
+        "uuid": "98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d",
+        "title": "Why Wall Street Thinks Novavax Is a No-Brainer Stock to Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d/why-wall-street-thinks.html",
+        "providerPublishTime": 1653645300,
+        "type": "STORY"
+    },
+    "25394926-0cc0-3662-a485-30cd429166cb": {
+        "uuid": "25394926-0cc0-3662-a485-30cd429166cb",
+        "title": "Why Novavax Was Tumbling by 12% This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/25394926-0cc0-3662-a485-30cd429166cb/why-novavax-was-tumbling-by.html",
+        "providerPublishTime": 1653606793,
+        "type": "STORY"
+    },
     "e0359674-6102-3d4e-ba33-c889615866c5": {
         "uuid": "e0359674-6102-3d4e-ba33-c889615866c5",
         "title": "Better Buy Ahead of FDA Meetings: Moderna vs. Novavax",
@@ -37,30 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/c59f3c53-3c9f-3192-86a9-fe4e7eaa7668/better-buy%3A-moderna-or.html",
         "providerPublishTime": 1653127680,
-        "type": "STORY"
-    },
-    "51437d3d-ec6d-34b9-9b6f-9ef658ec2a28": {
-        "uuid": "51437d3d-ec6d-34b9-9b6f-9ef658ec2a28",
-        "title": "Novavax stock drops after BofA's bearish call",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/51437d3d-ec6d-34b9-9b6f-9ef658ec2a28/novavax-stock-drops-after.html",
-        "providerPublishTime": 1653062888,
-        "type": "STORY"
-    },
-    "c24ca540-1ced-3ea2-9285-22705cb66cfa": {
-        "uuid": "c24ca540-1ced-3ea2-9285-22705cb66cfa",
-        "title": "Why Pfizer Stock Is Rising Today While Moderna and Novavax Are Sliding",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c24ca540-1ced-3ea2-9285-22705cb66cfa/why-pfizer-stock-is-rising.html",
-        "providerPublishTime": 1653062467,
-        "type": "STORY"
-    },
-    "17a886a4-c611-3711-801e-3967d77e7693": {
-        "uuid": "17a886a4-c611-3711-801e-3967d77e7693",
-        "title": "Novavax Gets First Sell Rating Since 2020. It\u2019s Got a Covid Vaccine Problem, Analyst Says.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/17a886a4-c611-3711-801e-3967d77e7693/novavax-gets-first-sell.html",
-        "providerPublishTime": 1653057780,
         "type": "STORY"
     }
 }

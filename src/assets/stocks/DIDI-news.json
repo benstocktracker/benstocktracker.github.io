@@ -1,4 +1,36 @@
 {
+    "06bcbd2b-4ff8-3a0f-9c68-0d383c7582f6": {
+        "uuid": "06bcbd2b-4ff8-3a0f-9c68-0d383c7582f6",
+        "title": "DiDi Stock Rises on Report Chinese Auto Giant Is Considering Buying Stake",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/06bcbd2b-4ff8-3a0f-9c68-0d383c7582f6/didi-stock-rises-on-report.html",
+        "providerPublishTime": 1653656100,
+        "type": "STORY"
+    },
+    "02cf34fe-e438-34eb-aa42-bcd0ea77459b": {
+        "uuid": "02cf34fe-e438-34eb-aa42-bcd0ea77459b",
+        "title": "Didi Is Said to Draw China FAW\u2019s Interest in Buying Stake",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/didi-said-draw-state-backed-070830568.html",
+        "providerPublishTime": 1653640460,
+        "type": "STORY"
+    },
+    "28a580b2-f93c-339e-8df9-42edf2f6467a": {
+        "uuid": "28a580b2-f93c-339e-8df9-42edf2f6467a",
+        "title": "Why Nio Stock Hit the Gas Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/28a580b2-f93c-339e-8df9-42edf2f6467a/why-nio-stock-hit-the-gas.html",
+        "providerPublishTime": 1653581563,
+        "type": "STORY"
+    },
+    "8b4ba26f-a106-31ef-870e-e311afda08c5": {
+        "uuid": "8b4ba26f-a106-31ef-870e-e311afda08c5",
+        "title": "Tycoon SPAC Deal to Create China\u2019s Biggest US Listing Since Didi",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/geely-backed-ecarx-public-via-090000645.html",
+        "providerPublishTime": 1653565338,
+        "type": "STORY"
+    },
     "740c83a9-35a6-391f-82ba-cc6bd0798bc7": {
         "uuid": "740c83a9-35a6-391f-82ba-cc6bd0798bc7",
         "title": "10 Stocks to Sell According to Chase Coleman\u2019s Tiger Global",
@@ -30,37 +62,5 @@
         "link": "https://finance.yahoo.com/m/58694336-a063-3a3c-b71b-05bb8e60bd26/didi-says-it-will-proceed.html",
         "providerPublishTime": 1653341220,
         "type": "STORY"
-    },
-    "7fb9a2a1-f102-3dda-88f7-30623904ed5b": {
-        "uuid": "7fb9a2a1-f102-3dda-88f7-30623904ed5b",
-        "title": "Didi Shareholders Vote to Delist From NYSE in Wake of\u00a0China's Tech Crackdown",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/didi-shareholders-vote-delist-nyse-125612490.html",
-        "providerPublishTime": 1653337311,
-        "type": "STORY"
-    },
-    "72a09b19-0e5f-32e9-996d-2231d7129255": {
-        "uuid": "72a09b19-0e5f-32e9-996d-2231d7129255",
-        "title": "Didi\u2019s Move From NYSE to Hong Kong \u2014 What to Know",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/didi-brief-u-foray-ending-175604209.html",
-        "providerPublishTime": 1653328564,
-        "type": "STORY"
-    },
-    "74927271-aa6c-3a5b-8143-02307c74de42": {
-        "uuid": "74927271-aa6c-3a5b-8143-02307c74de42",
-        "title": "DiDi Global Shareholders Vote to Delist From NYSE",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/74927271-aa6c-3a5b-8143-02307c74de42/didi-global-shareholders-vote.html",
-        "providerPublishTime": 1653324420,
-        "type": "STORY"
-    },
-    "18f6d807-c6dc-3bbb-b207-ea73d05e460b": {
-        "uuid": "18f6d807-c6dc-3bbb-b207-ea73d05e460b",
-        "title": "Didi proceeds with NYSE delisting",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/didi-proceeds-nyse-delisting-153936602.html",
-        "providerPublishTime": 1653320376,
-        "type": "VIDEO"
     }
 }

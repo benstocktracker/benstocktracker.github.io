@@ -1,4 +1,20 @@
 {
+    "15a4b691-507b-3fc8-b83f-96a0940e6cf3": {
+        "uuid": "15a4b691-507b-3fc8-b83f-96a0940e6cf3",
+        "title": "Taiwan Continues Its Crusade Against Chinese Companies For Alleged Poaching Of Chip Engineers",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/taiwan-continues-crusade-against-chinese-170859751.html",
+        "providerPublishTime": 1653584939,
+        "type": "STORY"
+    },
+    "3353d7a8-6fef-3af9-8f6e-099267bc3874": {
+        "uuid": "3353d7a8-6fef-3af9-8f6e-099267bc3874",
+        "title": "Tech war: China's semiconductor heartland woos foreign investors as US pushes for supply chain decoupling",
+        "publisher": "South China Morning Post",
+        "link": "https://finance.yahoo.com/news/tech-war-chinas-semiconductor-heartland-093000830.html",
+        "providerPublishTime": 1653557400,
+        "type": "STORY"
+    },
     "64135845-362e-3b9e-bfd4-0e09c984e55c": {
         "uuid": "64135845-362e-3b9e-bfd4-0e09c984e55c",
         "title": "Buy and Hold: 4 Stocks That Are Down but Not Out",
@@ -7,11 +23,11 @@
         "providerPublishTime": 1653477300,
         "type": "STORY"
     },
-    "bd7ea9f2-eea4-3a7c-9190-9612b8e8a5bf": {
-        "uuid": "bd7ea9f2-eea4-3a7c-9190-9612b8e8a5bf",
+    "43b8a1db-5dc4-35e3-827b-eca4750ebb94": {
+        "uuid": "43b8a1db-5dc4-35e3-827b-eca4750ebb94",
         "title": "Samsung to Spend $360 Billion on Chips, Biotech Over 5 Years",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/samsung-spend-360-billion-chips-050000038.html",
+        "link": "https://finance.yahoo.com/news/samsung-spend-360-billion-chips-064308493.html",
         "providerPublishTime": 1653374588,
         "type": "STORY"
     },
@@ -45,22 +61,6 @@
         "publisher": "Bloomberg",
         "link": "https://finance.yahoo.com/news/samsung-struggles-green-coal-addicted-220001416.html",
         "providerPublishTime": 1652997601,
-        "type": "STORY"
-    },
-    "5f61e1a4-5dfd-3d76-b462-c404a5bebe22": {
-        "uuid": "5f61e1a4-5dfd-3d76-b462-c404a5bebe22",
-        "title": "Applied Materials Gives Weak Forecast as Shortages Drag On",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/applied-materials-gives-weak-forecast-201640675.html",
-        "providerPublishTime": 1652994913,
-        "type": "STORY"
-    },
-    "363eabe6-556e-3170-9865-de6ce6d8af48": {
-        "uuid": "363eabe6-556e-3170-9865-de6ce6d8af48",
-        "title": "TSMC Weighs Multi-Billion Dollar Chip Plant Investment In Singapore",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/tsmc-weighs-multi-billion-dollar-181145701.html",
-        "providerPublishTime": 1652983905,
         "type": "STORY"
     }
 }

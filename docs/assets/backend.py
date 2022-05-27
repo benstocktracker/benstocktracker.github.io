@@ -43,7 +43,7 @@ def fetch_all_tickers_data():
     for symbol in tickers.symbols:
         print(f'fetching stock data for {symbol}...')
         save_stock_data(symbol, tickers.tickers[symbol])
-        print('tick tock!')
+        print('tick tock, tick tock, tick tock!')
         time.sleep(3)
 
 
@@ -109,17 +109,18 @@ def calculate_row_data(portfolio: list):
         stock_row['gainLoss'] = (stock_row['marketPrice'] - stock_row['costAverage']) * stock_row['sharesOwned']
         stock_row['glPercent'] = (stock_row['marketPrice'] - stock_row['costAverage']) / stock_row['costAverage'] * 100
         stock_row['yieldOnCost'] = stock_row['yield'] / stock_row['costAverage'] * 100 or 0
+        stock_row['income'] = stock_row['yield'] * stock_row['sharesOwned']
         stock_row['stats'] = stock
         stock_rows[stock['symbol']] = stock_row
     return stock_rows
 
 
 if __name__ == '__main__':
-    # fetch_all_tickers_data()
-    fetch_one_ticker_data('UL')
-    fetch_one_ticker_data('VZ')
-    fetch_one_ticker_data('WBD')
-    fetch_one_ticker_data('XPEV')
+    fetch_all_tickers_data()
+    # fetch_one_ticker_data('UL')
+    # fetch_one_ticker_data('VZ')
+    # fetch_one_ticker_data('WBD')
+    # fetch_one_ticker_data('XPEV')
     stock_data = combine_stock_data()
     stock_news = combine_stock_news()
     stock_rows = calculate_row_data(stock_data)

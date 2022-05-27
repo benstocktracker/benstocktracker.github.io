@@ -1,4 +1,12 @@
 {
+    "5fc39e70-0314-3377-9fc0-886ede0b6ce5": {
+        "uuid": "5fc39e70-0314-3377-9fc0-886ede0b6ce5",
+        "title": "STORE Capital Publishes Annual Corporate Responsibility Report",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-publishes-annual-corporate-125000369.html",
+        "providerPublishTime": 1653569400,
+        "type": "STORY"
+    },
     "ffa96ab3-9194-3c3b-b3c5-46ca3129609c": {
         "uuid": "ffa96ab3-9194-3c3b-b3c5-46ca3129609c",
         "title": "2 Dividend Warrior Stocks That Can Turn Sitting Cash into Growing Wealth",
@@ -53,14 +61,6 @@
         "publisher": "Simply Wall St.",
         "link": "https://finance.yahoo.com/news/total-return-store-capital-nyse-165914366.html",
         "providerPublishTime": 1652288354,
-        "type": "STORY"
-    },
-    "8181ce45-5928-33e6-8958-af02dc42a2cf": {
-        "uuid": "8181ce45-5928-33e6-8958-af02dc42a2cf",
-        "title": "Bargain Hunting? These REITs Are on Sale",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8181ce45-5928-33e6-8958-af02dc42a2cf/bargain-hunting%3F-these-reits.html",
-        "providerPublishTime": 1652274300,
         "type": "STORY"
     }
 }

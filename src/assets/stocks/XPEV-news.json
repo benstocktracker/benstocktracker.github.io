@@ -4,7 +4,31 @@
         "title": "5 Best Chinese Stocks To Buy And Watch",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks-to-buy.html",
-        "providerPublishTime": 1653486354,
+        "providerPublishTime": 1653642954,
+        "type": "STORY"
+    },
+    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
+        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla Shanghai Ramps Up As China Rival Flashes Buy Signal",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
+        "providerPublishTime": 1653609324,
+        "type": "STORY"
+    },
+    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
+        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
+        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
+        "providerPublishTime": 1653593399,
+        "type": "STORY"
+    },
+    "65cae50f-6a85-3f34-9bbe-8db1d1a64f55": {
+        "uuid": "65cae50f-6a85-3f34-9bbe-8db1d1a64f55",
+        "title": "Why Nio Shares Bounced Back Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/65cae50f-6a85-3f34-9bbe-8db1d1a64f55/why-nio-shares-bounced-back.html",
+        "providerPublishTime": 1653495020,
         "type": "STORY"
     },
     "df1c6d0a-b1de-3116-a125-46c9c3ebf31f": {
@@ -37,30 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/6620d7fd-f985-3086-b8f9-4f0f46974e2d/xpeng-inc.-%28xpev%29-q1-2022.html",
         "providerPublishTime": 1653348628,
-        "type": "STORY"
-    },
-    "df3bf6cc-4b04-361b-926a-9cda423de6da": {
-        "uuid": "df3bf6cc-4b04-361b-926a-9cda423de6da",
-        "title": "XPeng: Earnings Beat Fails to Distract From Weak Guidance",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/news/xpeng-earnings-beat-fails-distract-211141411.html",
-        "providerPublishTime": 1653340301,
-        "type": "STORY"
-    },
-    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
-        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla Shanghai To Ramp Up As BYD Seizes EV Crown, Targets Model 3",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1653337044,
-        "type": "STORY"
-    },
-    "4e07fb18-f9c7-3aec-bf01-1e9224c421a7": {
-        "uuid": "4e07fb18-f9c7-3aec-bf01-1e9224c421a7",
-        "title": "XPEV Stock Tumbles As Lingering Chip, China Covid Woes Hit EV Startup's Outlook",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4e07fb18-f9c7-3aec-bf01-1e9224c421a7/xpev-stock-tumbles-as.html",
-        "providerPublishTime": 1653336702,
         "type": "STORY"
     }
 }

@@ -1,4 +1,44 @@
 {
+    "da9486e6-4bed-38d5-a043-9f38c565378e": {
+        "uuid": "da9486e6-4bed-38d5-a043-9f38c565378e",
+        "title": "Venture Global green lights $13B Plaquemines LNG, other LNG projects ink deals",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/da9486e6-4bed-38d5-a043-9f38c565378e/venture-global-green-lights.html",
+        "providerPublishTime": 1653595701,
+        "type": "STORY"
+    },
+    "c15f95f5-8274-390d-924e-07a02ade766b": {
+        "uuid": "c15f95f5-8274-390d-924e-07a02ade766b",
+        "title": "UPDATE 2-Enbridge to deliver natural gas to Venture Global's LNG facility",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-enbridge-deliver-natural-gas-113355938.html",
+        "providerPublishTime": 1653564835,
+        "type": "STORY"
+    },
+    "4d1fe5c2-2a7e-32ba-b88c-a818a31bde1a": {
+        "uuid": "4d1fe5c2-2a7e-32ba-b88c-a818a31bde1a",
+        "title": "ENBRIDGE ADVANCING CONSTRUCTION OF NATURAL GAS PIPELINE TO VENTURE GLOBAL'S PLAQUEMINES LNG FACILITY",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/enbridge-advancing-construction-natural-gas-110000190.html",
+        "providerPublishTime": 1653562800,
+        "type": "STORY"
+    },
+    "c7f9bbd0-00eb-3861-9921-a5820775168f": {
+        "uuid": "c7f9bbd0-00eb-3861-9921-a5820775168f",
+        "title": "ENBRIDGE ADVANCING CONSTRUCTION OF NATURAL GAS PIPELINE TO VENTURE GLOBAL'S PLAQUEMINES LNG FACILITY",
+        "publisher": "CNW Group",
+        "link": "https://finance.yahoo.com/news/enbridge-advancing-construction-natural-gas-110000275.html",
+        "providerPublishTime": 1653562800,
+        "type": "STORY"
+    },
+    "023ae903-4520-3c64-a82e-b1ef7c0d6772": {
+        "uuid": "023ae903-4520-3c64-a82e-b1ef7c0d6772",
+        "title": "7 Hot Energy Stocks to Buy on the Dips",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-hot-energy-stocks-buy-233929642.html",
+        "providerPublishTime": 1653435569,
+        "type": "STORY"
+    },
     "2ee87d00-e76c-3aca-a518-c9c088aff31d": {
         "uuid": "2ee87d00-e76c-3aca-a518-c9c088aff31d",
         "title": "Enbridge Announces Conversion Results for Series B and Series C Preferred Shares",
@@ -21,46 +61,6 @@
         "publisher": "News Direct",
         "link": "https://finance.yahoo.com/news/varcoe-enbridge-ceo-sees-future-162213167.html",
         "providerPublishTime": 1652977333,
-        "type": "STORY"
-    },
-    "070772bb-73e8-3837-808f-ada067f162f5": {
-        "uuid": "070772bb-73e8-3837-808f-ada067f162f5",
-        "title": "2 High-Yielding Dividend Stocks to Power Up Your Passive Income",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/070772bb-73e8-3837-808f-ada067f162f5/2-high-yielding-dividend.html",
-        "providerPublishTime": 1652972400,
-        "type": "STORY"
-    },
-    "32b13c6e-cb56-3ebf-a754-326ad1dad74b": {
-        "uuid": "32b13c6e-cb56-3ebf-a754-326ad1dad74b",
-        "title": "Roll Up Your Sleeves, Canada: The World Needs Our Energy",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/roll-sleeves-canada-world-needs-223107400.html",
-        "providerPublishTime": 1652913067,
-        "type": "STORY"
-    },
-    "aa8bbb63-a97c-31b3-a7d0-8888de5f1169": {
-        "uuid": "aa8bbb63-a97c-31b3-a7d0-8888de5f1169",
-        "title": "Behind the deal: \u2018Everybody was shopping\u2019 for hydrogen JV partners, Enbridge exec says",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/aa8bbb63-a97c-31b3-a7d0-8888de5f1169/behind-the-deal%3A-%E2%80%98everybody.html",
-        "providerPublishTime": 1652902382,
-        "type": "STORY"
-    },
-    "5380ace2-6770-3f13-a6e2-4fb8ab1bf26d": {
-        "uuid": "5380ace2-6770-3f13-a6e2-4fb8ab1bf26d",
-        "title": "Living Off Dividends in Retirement: 10 Best Stocks To Consider",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/living-off-dividends-retirement-10-180651794.html",
-        "providerPublishTime": 1652810811,
-        "type": "STORY"
-    },
-    "e3d3a800-5ccf-3554-b040-060e6b907157": {
-        "uuid": "e3d3a800-5ccf-3554-b040-060e6b907157",
-        "title": "7 Oil Stocks to Buy With Safe Dividends",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-oil-stocks-buy-safe-104022177.html",
-        "providerPublishTime": 1652784022,
         "type": "STORY"
     }
 }

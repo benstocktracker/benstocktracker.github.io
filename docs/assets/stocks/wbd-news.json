@@ -1,12 +1,4 @@
 {
-    "5b8e246b-be7f-3784-ad27-b45ac4317f9b": {
-        "uuid": "5b8e246b-be7f-3784-ad27-b45ac4317f9b",
-        "title": "Daily \u2013 Vickers Top Insider Picks for 05/24/2022",
-        "publisher": "Argus Research",
-        "link": "https://finance.yahoo.com/m/5b8e246b-be7f-3784-ad27-b45ac4317f9b/daily-%E2%80%93-vickers-top-insider.html",
-        "providerPublishTime": 1653374450,
-        "type": "STORY"
-    },
     "54914fb5-e7dc-4c23-a266-8ba6f37aee87": {
         "uuid": "54914fb5-e7dc-4c23-a266-8ba6f37aee87",
         "title": "Streaming has turned film financing 'upside down': 'It's VOD or die,' says lawyer",
@@ -62,5 +54,13 @@
         "link": "https://finance.yahoo.com/news/why-one-netflix-bear-changed-his-outlook-now-sees-40-upside-its-undervalued-184306116.html",
         "providerPublishTime": 1652812986,
         "type": "STORY"
+    },
+    "05b1972c-13f6-35fa-b655-72fa2df3a43b": {
+        "uuid": "05b1972c-13f6-35fa-b655-72fa2df3a43b",
+        "title": "Netflix has \u2018a massive lead in product\u2019 despite stock woes: Expert",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/netflix-massive-lead-product-despite-195710780.html",
+        "providerPublishTime": 1652471830,
+        "type": "VIDEO"
     }
 }

@@ -1,4 +1,12 @@
 {
+    "4ab51b21-a04b-372d-b9b3-8cd91666be53": {
+        "uuid": "4ab51b21-a04b-372d-b9b3-8cd91666be53",
+        "title": "Legg Mason Low Volatility High Dividend ETF (LVHD) Pays Off",
+        "publisher": "Kiplinger",
+        "link": "https://finance.yahoo.com/news/legg-mason-low-volatility-high-210147529.html",
+        "providerPublishTime": 1653512507,
+        "type": "STORY"
+    },
     "2d39790e-a34b-3c49-a148-af3a1666e1db": {
         "uuid": "2d39790e-a34b-3c49-a148-af3a1666e1db",
         "title": "EvoNexus, Royal Bank of Canada and Franklin Templeton Collaborate On Silicon Valley FinTech Incubator in Call for New Early-Stage Start-Up Applicants",
@@ -53,14 +61,6 @@
         "publisher": "TheStreet.com",
         "link": "https://finance.yahoo.com/m/4cc6ef37-fa96-317a-9a39-67363a273ac9/franklin-templeton-funds-10.html",
         "providerPublishTime": 1652809200,
-        "type": "STORY"
-    },
-    "f212c6d9-6aa0-35c3-bb20-abe83554fc52": {
-        "uuid": "f212c6d9-6aa0-35c3-bb20-abe83554fc52",
-        "title": "Victory Capital's (VCTR) April AUM Falls Sequentially to $166B",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/victory-capitals-vctr-april-aum-142402924.html",
-        "providerPublishTime": 1652451842,
         "type": "STORY"
     }
 }

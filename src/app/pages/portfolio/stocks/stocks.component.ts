@@ -29,12 +29,12 @@ export class StocksComponent implements OnInit, AfterViewInit {
   dataSource = new MatTableDataSource<any>();
   columnDefs = [
     'symbol', 'Cost Average & 52 Week Price Range', 'marketValue',
-    'gainLoss', 'yield', 'yieldPercent', 'yieldOnCost',
+    'gainLoss', 'yieldPercent', 'income', 'yieldOnCost',
     'payoutRatio', 'exDivDate', 'sector', 'analysis', 'actions'
   ];
   headers = [
     'Symbol', 'Cost Average & 52 Week Price Range', 'Market Value',
-    'Gain / Lost', 'Yield', 'Yield %', 'Yield on Cost',
+    'Gain / Lost', 'Yield', 'Income', 'Yield on Cost',
     'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', ''
   ];
   cells: Function[] = [
@@ -42,8 +42,8 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.gainLoss.toFixed(2)}`,
-    (stock: any) => `$${stock.yield.toFixed(2)}`,
-    (stock: any) => `${stock.yieldPercent.toFixed(2)}%`,
+    (stock: any) => `${stock.yieldPercent.toFixed(2)}% | $${stock.yield}`,
+    (stock: any) => `$${stock.income.toFixed(2)}`,
     (stock: any) => `${stock.yieldOnCost.toFixed(2)}%`,
     (stock: any) => `${stock.payoutRatio.toFixed(2)}%`,
     (stock: any) => `${stock.exDivDate}`,
@@ -53,18 +53,18 @@ export class StocksComponent implements OnInit, AfterViewInit {
   ]
   footerRow: Function[] = [
     () => '',
-    () => `$${this.dataSource.data.map(t => t.sharesOwned * t.costAverage).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // cost basis
-    () => `$${this.dataSource.data.map(t => t.sharesOwned * t.marketPrice).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
-    () => `$${this.dataSource.data.map(t => (t.marketPrice-t.costAverage) * t.sharesOwned).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // gain / lost
-    () => '',  // gain / loss %
-    () => `$${this.dataSource.data.map(t => t.yield * t.sharesOwned).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // yield
-    () => ``,  // yield %
-    () => '',  // yield on cost
-    () => '',  // payout ratio
-    () => '',  // ex-div date
-    () => '',  // sector
-    () => '',  // analysis
-    () => '',  // actions
+    () => `$${this.dataSource.data.map(t => t.costBasis).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // cost basis
+    () => `$${this.dataSource.data.map(t => t.marketValue).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
+    () => `$${this.dataSource.data.map(t => t.gainLoss).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // unrealized gain / loss
+    () => '',
+    () => `$${this.dataSource.data.map(t => t.income).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // dividend income
+    () => ``,
+    () => '',
+    () => '',
+    () => '',
+    () => '',
+    () => '',
+    () => '',
   ]
   expandedRow!: any;
 
@@ -78,9 +78,8 @@ export class StocksComponent implements OnInit, AfterViewInit {
     switch (index) {
       case 3:
         return this.cells[index](stock)[1] === '-' ? 'tomato' : 'forestgreen';
-      case 5:
       case 6:
-        return this.cells[index](stock) !== '0.00%' ? 'steelblue' : '#191919';
+        return this.cells[index](stock).startsWith('0.00%') ? '#191919' : 'steelblue';
       case 7:
         return stock.payoutRatio >= 50 ? 'tomato' : '#191919';
       case 10:
@@ -103,8 +102,6 @@ export class StocksComponent implements OnInit, AfterViewInit {
 
   getLogoURL(stock: any) { 
     const website = stock.stats.summaryProfile?.website.split('www.')[1] || 'clearbit.com';
-    console.log(website);
-    console.log(`https://logo.clearbit.com/${website}`);
     return `https://logo.clearbit.com/${website}?size=40&format=png`;
   }
 

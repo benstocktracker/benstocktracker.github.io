@@ -1,10 +1,50 @@
 {
+    "c35a737e-65f6-346f-9060-bece491214a8": {
+        "uuid": "c35a737e-65f6-346f-9060-bece491214a8",
+        "title": "Verizon Customers Will Soon Pay More for Their Wireless Service",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c35a737e-65f6-346f-9060-bece491214a8/verizon-customers-will-soon.html",
+        "providerPublishTime": 1653580821,
+        "type": "STORY"
+    },
+    "dd14e867-8550-362e-b9b9-217ce30c9752": {
+        "uuid": "dd14e867-8550-362e-b9b9-217ce30c9752",
+        "title": "Verizon customers get home security with home internet",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-customers-home-security-home-143000581.html",
+        "providerPublishTime": 1653575400,
+        "type": "STORY"
+    },
+    "2bb008d4-ceeb-3f73-aedc-796fa0a49e12": {
+        "uuid": "2bb008d4-ceeb-3f73-aedc-796fa0a49e12",
+        "title": "Traveling for Memorial Day weekend? Get the best value with Verizon",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/traveling-memorial-day-weekend-best-140000623.html",
+        "providerPublishTime": 1653573600,
+        "type": "STORY"
+    },
+    "3dcb5d2b-feb2-3ac2-bb95-284efe123914": {
+        "uuid": "3dcb5d2b-feb2-3ac2-bb95-284efe123914",
+        "title": "Verizon and AWS Expand Edge Computing to 19 U.S. Metro Areas",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-aws-expand-edge-computing-160000732.html",
+        "providerPublishTime": 1653494400,
+        "type": "STORY"
+    },
     "ab18680b-df66-34ea-ac13-2e7aa1834c35": {
         "uuid": "ab18680b-df66-34ea-ac13-2e7aa1834c35",
         "title": "10 Stocks Smart Investors Buy During Recessions",
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/10-stocks-smart-investors-buy-135631446.html",
         "providerPublishTime": 1653486991,
+        "type": "STORY"
+    },
+    "f6b7e00c-b5d2-3484-bb9c-445e66cf312e": {
+        "uuid": "f6b7e00c-b5d2-3484-bb9c-445e66cf312e",
+        "title": "Verizon (VZ) Enriches +play Platform With Engaging Content",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/verizon-vz-enriches-play-platform-133101600.html",
+        "providerPublishTime": 1653485461,
         "type": "STORY"
     },
     "64534bec-2903-3cd3-bf1e-104d30fb68fa": {
@@ -21,46 +61,6 @@
         "publisher": "Reuters",
         "link": "https://finance.yahoo.com/news/1-u-faa-wants-airplane-232834609.html",
         "providerPublishTime": 1653434914,
-        "type": "STORY"
-    },
-    "8ce77120-4400-3195-8b6b-d602a0a0446f": {
-        "uuid": "8ce77120-4400-3195-8b6b-d602a0a0446f",
-        "title": "Verizon announces new partners to join +play on the network more people rely on",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-announces-partners-join-play-180000851.html",
-        "providerPublishTime": 1653415200,
-        "type": "STORY"
-    },
-    "e712b3af-4fce-3222-9e75-cdd0904525a5": {
-        "uuid": "e712b3af-4fce-3222-9e75-cdd0904525a5",
-        "title": "Best Telecom Stocks To Buy In May",
-        "publisher": "FX Empire",
-        "link": "https://finance.yahoo.com/news/best-telecom-stocks-buy-may-151746746.html",
-        "providerPublishTime": 1653405466,
-        "type": "STORY"
-    },
-    "920301fb-9cd0-3c88-8679-880dd68ebccb": {
-        "uuid": "920301fb-9cd0-3c88-8679-880dd68ebccb",
-        "title": "Verizon continues its crack down on spam calls and texts",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-continues-crack-down-spam-133000427.html",
-        "providerPublishTime": 1653399000,
-        "type": "STORY"
-    },
-    "00e29ac7-ac61-3882-87b7-b376ca8329cb": {
-        "uuid": "00e29ac7-ac61-3882-87b7-b376ca8329cb",
-        "title": "Indianapolis 500 Fans Get Closer Than Ever to the Action Thanks to Verizon 5G Ultra Wideband",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/indianapolis-500-fans-closer-ever-130000523.html",
-        "providerPublishTime": 1653397200,
-        "type": "STORY"
-    },
-    "76eba4e0-29d3-3f73-8cd0-d4b7f2d69666": {
-        "uuid": "76eba4e0-29d3-3f73-8cd0-d4b7f2d69666",
-        "title": "Ransomware threat rises:\u00a0Verizon 2022 Data Breach Investigations Report",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/ransomware-threat-rises-verizon-2022-041300501.html",
-        "providerPublishTime": 1653365580,
         "type": "STORY"
     }
 }

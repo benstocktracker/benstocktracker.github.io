@@ -1,4 +1,36 @@
 {
+    "a3abbe7b-6f9b-3e40-9cbb-1eee957b67c4": {
+        "uuid": "a3abbe7b-6f9b-3e40-9cbb-1eee957b67c4",
+        "title": "Portugal's Positive Approach to Teaching Teens about the Birds, Bees and STIs",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/portugals-positive-approach-teaching-teens-124608104.html",
+        "providerPublishTime": 1653655568,
+        "type": "STORY"
+    },
+    "c7a190f2-a003-3889-971c-cc17293af397": {
+        "uuid": "c7a190f2-a003-3889-971c-cc17293af397",
+        "title": "Analyst Report: Gilead Sciences, Inc.",
+        "publisher": "Morningstar Research",
+        "link": "https://finance.yahoo.com/m/c7a190f2-a003-3889-971c-cc17293af397/analyst-report%3A-gilead.html",
+        "providerPublishTime": 1653603335,
+        "type": "STORY"
+    },
+    "71d9dd8c-8557-3055-a844-891a59adcb36": {
+        "uuid": "71d9dd8c-8557-3055-a844-891a59adcb36",
+        "title": "Why NRX Pharmaceuticals Shares Are Trading Lower During Premarket On Thursday?",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/why-nrx-pharmaceuticals-shares-trading-114606785.html",
+        "providerPublishTime": 1653565566,
+        "type": "STORY"
+    },
+    "bb8009d0-7e4e-3a75-bb73-24829d2cb8a5": {
+        "uuid": "bb8009d0-7e4e-3a75-bb73-24829d2cb8a5",
+        "title": "Peninsula biotech breaks off hepatitis B deal after partner's drug falters",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/bb8009d0-7e4e-3a75-bb73-24829d2cb8a5/peninsula-biotech-breaks-off.html",
+        "providerPublishTime": 1653491162,
+        "type": "STORY"
+    },
     "a9fe34f6-8dce-31f3-ae61-a54a545fb61f": {
         "uuid": "a9fe34f6-8dce-31f3-ae61-a54a545fb61f",
         "title": "Gilead Reaches Number One Spot as Top Overall Philanthropic Funder of HIV-Related Programs, According to Funders Concerned About AIDS Report",
@@ -29,38 +61,6 @@
         "publisher": "News Direct",
         "link": "https://finance.yahoo.com/news/gilead-forefront-herculean-effort-combat-140107010.html",
         "providerPublishTime": 1653055267,
-        "type": "STORY"
-    },
-    "2014bc73-3b4b-350b-9b45-3b0830c0555b": {
-        "uuid": "2014bc73-3b4b-350b-9b45-3b0830c0555b",
-        "title": "Gilead Stock Earns Rating Upgrade After Quick Turnaround",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/2014bc73-3b4b-350b-9b45-3b0830c0555b/gilead-stock-earns-rating.html",
-        "providerPublishTime": 1652991420,
-        "type": "STORY"
-    },
-    "ba76c2a8-32c8-3846-9a51-e8445513730a": {
-        "uuid": "ba76c2a8-32c8-3846-9a51-e8445513730a",
-        "title": "Gilead Reaches Number One Spot as Top Overall Philanthropic Funder of HIV-Related Programs, According to Funders Concerned About AIDS Report",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-reaches-number-one-spot-173000162.html",
-        "providerPublishTime": 1652981400,
-        "type": "STORY"
-    },
-    "d091051b-ca24-3c47-bbb6-ed8fd013a848": {
-        "uuid": "d091051b-ca24-3c47-bbb6-ed8fd013a848",
-        "title": "Biotech Stock Roundup: BBIO Up on BMY Deal, GILD & CMRX Offer Updates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/biotech-stock-roundup-bbio-bmy-154103164.html",
-        "providerPublishTime": 1652888463,
-        "type": "STORY"
-    },
-    "af3fc398-891b-3455-8a7a-b7cc684039b1": {
-        "uuid": "af3fc398-891b-3455-8a7a-b7cc684039b1",
-        "title": "Living with Metastatic Bladder Cancer: Joey's Journey",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/living-metastatic-bladder-cancer-joeys-124608797.html",
-        "providerPublishTime": 1652877968,
         "type": "STORY"
     }
 }

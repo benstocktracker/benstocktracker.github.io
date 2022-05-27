@@ -1,4 +1,44 @@
 {
+    "21a4dcc7-38b1-3691-bac3-2acde4007756": {
+        "uuid": "21a4dcc7-38b1-3691-bac3-2acde4007756",
+        "title": "Is It Time To Consider Buying Tutor Perini Corporation (NYSE:TPC)?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/time-consider-buying-tutor-perini-184018367.html",
+        "providerPublishTime": 1653590418,
+        "type": "STORY"
+    },
+    "9a2b8d8e-0547-3ca0-9456-8bc0af3d70ae": {
+        "uuid": "9a2b8d8e-0547-3ca0-9456-8bc0af3d70ae",
+        "title": "How can I generate some steady income in this manic market? Here are 3 top-rated stocks yielding up to 7.7% (with fat upside to boot)",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/generate-steady-income-manic-market-175200883.html",
+        "providerPublishTime": 1653587520,
+        "type": "STORY"
+    },
+    "61b64d2c-aee8-3a67-8019-04418a65d0ef": {
+        "uuid": "61b64d2c-aee8-3a67-8019-04418a65d0ef",
+        "title": "It's Time to Look at AT&T Stock",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/61b64d2c-aee8-3a67-8019-04418a65d0ef/it%27s-time-to-look-at-at%26t.html",
+        "providerPublishTime": 1653579179,
+        "type": "STORY"
+    },
+    "458ac1c5-d15a-30b0-bbe1-d4ebcf721b20": {
+        "uuid": "458ac1c5-d15a-30b0-bbe1-d4ebcf721b20",
+        "title": "Undervalued Stocks: 3 Companies Selling for Less Than Book Value",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/458ac1c5-d15a-30b0-bbe1-d4ebcf721b20/undervalued-stocks%3A-3.html",
+        "providerPublishTime": 1653563400,
+        "type": "STORY"
+    },
+    "df32222a-1378-3b5f-81f4-87e3bc30bb7a": {
+        "uuid": "df32222a-1378-3b5f-81f4-87e3bc30bb7a",
+        "title": "Dividend stocks have trounced the market this year. Here are 15 high-yield stocks expected to raise payouts the most through 2024",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/df32222a-1378-3b5f-81f4-87e3bc30bb7a/dividend-stocks-have-trounced.html",
+        "providerPublishTime": 1653491280,
+        "type": "STORY"
+    },
     "b8cffd95-6748-342f-986c-893e7fc44a30": {
         "uuid": "b8cffd95-6748-342f-986c-893e7fc44a30",
         "title": "David Einhorn Having a Banner Year in 2022: 10 Favorite Stock Picks",
@@ -15,52 +55,12 @@
         "providerPublishTime": 1653480900,
         "type": "STORY"
     },
-    "64534bec-2903-3cd3-bf1e-104d30fb68fa": {
-        "uuid": "64534bec-2903-3cd3-bf1e-104d30fb68fa",
-        "title": "4 Top Dividend Payers of the S&P 500",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/64534bec-2903-3cd3-bf1e-104d30fb68fa/4-top-dividend-payers-of-the.html",
-        "providerPublishTime": 1653473640,
-        "type": "STORY"
-    },
-    "9caaba64-e0bf-347b-bbd7-ffd1fd623d24": {
-        "uuid": "9caaba64-e0bf-347b-bbd7-ffd1fd623d24",
-        "title": "UPDATE 1-U.S. FAA wants some airplane altimeters retrofitted by end of 2022",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-u-faa-wants-airplane-232834609.html",
-        "providerPublishTime": 1653434914,
-        "type": "STORY"
-    },
-    "e712b3af-4fce-3222-9e75-cdd0904525a5": {
-        "uuid": "e712b3af-4fce-3222-9e75-cdd0904525a5",
-        "title": "Best Telecom Stocks To Buy In May",
-        "publisher": "FX Empire",
-        "link": "https://finance.yahoo.com/news/best-telecom-stocks-buy-may-151746746.html",
-        "providerPublishTime": 1653405466,
-        "type": "STORY"
-    },
-    "7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d": {
-        "uuid": "7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d",
-        "title": "AT&T Should Dial It Up",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/7a15eb84-19b6-3dcc-b0f4-1b8a2f3cc65d/at%26t-should-dial-it-up.html",
-        "providerPublishTime": 1653402660,
-        "type": "STORY"
-    },
-    "44b923e7-4412-381f-bec9-f39b6da88ff7": {
-        "uuid": "44b923e7-4412-381f-bec9-f39b6da88ff7",
-        "title": "10 High-Yield Dividend Stocks Popular on Robinhood",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-123653327.html",
-        "providerPublishTime": 1653395813,
-        "type": "STORY"
-    },
-    "3f029711-120b-352c-8885-c187db44e683": {
-        "uuid": "3f029711-120b-352c-8885-c187db44e683",
-        "title": "AT&T CEO Updates Shareholders at J.P. Morgan Conference",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/t-ceo-updates-shareholders-j-004000826.html",
-        "providerPublishTime": 1653352800,
+    "3a5a3c64-3f92-3753-ba56-b69fbaa1b931": {
+        "uuid": "3a5a3c64-3f92-3753-ba56-b69fbaa1b931",
+        "title": "Warner Bros. Discovery Is Desperate to Find the Bottom",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/warner-bros-discovery-desperate-bottom-102119522.html",
+        "providerPublishTime": 1653474079,
         "type": "STORY"
     }
 }

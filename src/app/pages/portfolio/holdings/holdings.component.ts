@@ -13,7 +13,6 @@ export class HoldingsComponent implements OnInit {
   ngOnInit(): void {
     import(`../../../../assets/stock-rows.json`).then(data => {
       this.holdings = Object.keys(data).slice(0, -1);
-      console.log(this.holdings);
     });
   }
 }
