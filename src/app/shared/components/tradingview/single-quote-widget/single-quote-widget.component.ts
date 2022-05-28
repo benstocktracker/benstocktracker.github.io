@@ -13,6 +13,7 @@ export class SingleQuoteWidgetComponent implements OnInit, AfterViewInit {
   constructor(private tradingviewService: TradingviewService) { }
 
   ngOnInit(): void { }
+
   ngAfterViewInit(): void {
     const singleQuote = this.tradingviewService.singleQuoteWidget(this.symbol);
     this.tradingviewService.renderWidget(this.singleQuoteWidget, singleQuote);
