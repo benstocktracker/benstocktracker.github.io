@@ -10,6 +10,7 @@ import { StockStatsPanelComponent } from './stock-stats-panel/stock-stats-panel.
 import { SingleQuoteWidgetComponent } from './tradingview/single-quote-widget/single-quote-widget.component';
 import { SymbolProfileWidgetComponent } from './tradingview/symbol-profile-widget/symbol-profile-widget.component';
 import { SymbolFinancialsWidgetComponent } from './tradingview/symbol-financials-widget/symbol-financials-widget.component';
+import { MiniChartWidgetComponent } from './tradingview/mini-chart-widget/mini-chart-widget.component';
 import { PriceSliderComponent } from './price-slider/price-slider.component';
 
 
@@ -23,6 +24,7 @@ const components = [
   SingleQuoteWidgetComponent,
   SymbolProfileWidgetComponent,
   SymbolFinancialsWidgetComponent,
+  MiniChartWidgetComponent,
   PriceSliderComponent
 ]
 

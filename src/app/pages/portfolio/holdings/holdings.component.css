@@ -2,3 +2,7 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.mat-slide-toggle {
+    padding: 20px;
+}

@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HoldingsComponent implements OnInit {
   holdings: string[] = [];
+  showMiniChartWidget = false;
 
   constructor() { }
 
@@ -14,5 +15,9 @@ export class HoldingsComponent implements OnInit {
     import(`../../../../assets/stock-rows.json`).then(data => {
       this.holdings = Object.keys(data).slice(0, -1);
     });
+  }
+
+  handleToggle(event: any) {
+    this.showMiniChartWidget = event.checked;
   }
 }

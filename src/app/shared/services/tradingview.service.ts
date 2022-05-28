@@ -81,4 +81,24 @@ export class TradingviewService {
     `;
     return this.getScript(SourceScripts.Financials, params);
   }
+
+  miniChartWidget(symbol: string, width=280, height=200, dateRange='3M', theme='light') {
+    const params = `
+      {
+        "symbol": "${symbol}",
+        "colorTheme": "${theme}",
+        "width": "${width}",
+        "height": "${height}",
+        "autosize": false,
+        "dateRange": "${dateRange}",
+        "trendLineColor": "rgba(41, 98, 255, 1)",
+        "underLineColor": "rgba(41, 98, 255, 0.3)",
+        "underLineBottomColor": "rgba(41, 98, 255, 0)",
+        "largeChartUrl": "",
+        "isTransparent": false,
+        "locale": "en"
+      }
+    `;
+    return this.getScript(SourceScripts.MiniSymbolOverview, params);
+  }
 }
