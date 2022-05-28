@@ -1,4 +1,12 @@
 {
+    "dcc02821-962b-3276-84ad-318f9b4875e0": {
+        "uuid": "dcc02821-962b-3276-84ad-318f9b4875e0",
+        "title": "Analyst Report: Kinder Morgan, Inc.",
+        "publisher": "Morningstar Research",
+        "link": "https://finance.yahoo.com/m/dcc02821-962b-3276-84ad-318f9b4875e0/analyst-report%3A-kinder.html",
+        "providerPublishTime": 1653691101,
+        "type": "STORY"
+    },
     "0ce48a86-f593-3828-b50c-3a536c81ffdd": {
         "uuid": "0ce48a86-f593-3828-b50c-3a536c81ffdd",
         "title": "Kinder Morgan (KMI) Gains But Lags Market: What You Should Know",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/28c09ede-6538-3955-a664-2d790e4ad143/2-infrastructure-stocks-you.html",
         "providerPublishTime": 1652882700,
-        "type": "STORY"
-    },
-    "a14c61a2-3eb0-3910-9001-cb7d415ac6a0": {
-        "uuid": "a14c61a2-3eb0-3910-9001-cb7d415ac6a0",
-        "title": "Kinder Morgan takes another step to expand Permian gas pipes",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-takes-another-step-163301978.html",
-        "providerPublishTime": 1652805181,
         "type": "STORY"
     }
 }

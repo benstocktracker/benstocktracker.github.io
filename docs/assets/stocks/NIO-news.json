@@ -7,6 +7,14 @@
         "providerPublishTime": 1653581563,
         "type": "STORY"
     },
+    "744f881e-ddde-3370-8661-4c726b0827c3": {
+        "uuid": "744f881e-ddde-3370-8661-4c726b0827c3",
+        "title": "Don\u2019t Buy the Bounce in Nio Stock Just Yet",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/don-t-buy-bounce-nio-123029641.html",
+        "providerPublishTime": 1653568229,
+        "type": "STORY"
+    },
     "27c597fd-3a3c-3bc6-afa8-3a968c840a93": {
         "uuid": "27c597fd-3a3c-3bc6-afa8-3a968c840a93",
         "title": "NIO to Invest $32.8M in Shanghai Battery Labs & Cell Plant",
@@ -54,13 +62,5 @@
         "link": "https://finance.yahoo.com/m/102a7f27-853b-32a2-8e6a-50acbcefb1d1/why-nio-stock-fell-again-today.html",
         "providerPublishTime": 1653415140,
         "type": "STORY"
-    },
-    "bb61d5db-9b5d-32f7-9b48-4344388d2424": {
-        "uuid": "bb61d5db-9b5d-32f7-9b48-4344388d2424",
-        "title": "Mobile EV charging can eliminate 'charging deserts,' SparkCharge CEO says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/mobile-ev-charging-eliminate-charging-154752936.html",
-        "providerPublishTime": 1653407272,
-        "type": "VIDEO"
     }
 }

@@ -1,4 +1,20 @@
 {
+    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
+        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
+        "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
+        "providerPublishTime": 1653744613,
+        "type": "STORY"
+    },
+    "2b8e46f4-e908-3293-b57b-9529179bf401": {
+        "uuid": "2b8e46f4-e908-3293-b57b-9529179bf401",
+        "title": "T-Mobile (TMUS) Up 0.3% Since Last Earnings Report: Can It Continue?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/t-mobile-tmus-0-3-171905297.html",
+        "providerPublishTime": 1653671945,
+        "type": "STORY"
+    },
     "21a4dcc7-38b1-3691-bac3-2acde4007756": {
         "uuid": "21a4dcc7-38b1-3691-bac3-2acde4007756",
         "title": "Is It Time To Consider Buying Tutor Perini Corporation (NYSE:TPC)?",
@@ -39,28 +55,12 @@
         "providerPublishTime": 1653491280,
         "type": "STORY"
     },
-    "b8cffd95-6748-342f-986c-893e7fc44a30": {
-        "uuid": "b8cffd95-6748-342f-986c-893e7fc44a30",
-        "title": "David Einhorn Having a Banner Year in 2022: 10 Favorite Stock Picks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/david-einhorn-having-banner-2022-140324606.html",
-        "providerPublishTime": 1653487404,
-        "type": "STORY"
-    },
-    "6c88d38e-fa14-39fd-be6c-c040ada1fdb5": {
-        "uuid": "6c88d38e-fa14-39fd-be6c-c040ada1fdb5",
-        "title": "Better Tech Dividend Stock: AT&T vs. Cisco",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/6c88d38e-fa14-39fd-be6c-c040ada1fdb5/better-tech-dividend-stock%3A.html",
-        "providerPublishTime": 1653480900,
-        "type": "STORY"
-    },
-    "3a5a3c64-3f92-3753-ba56-b69fbaa1b931": {
-        "uuid": "3a5a3c64-3f92-3753-ba56-b69fbaa1b931",
-        "title": "Warner Bros. Discovery Is Desperate to Find the Bottom",
+    "b53339b0-e4ca-313c-bf5a-6e0fdce9e3cf": {
+        "uuid": "b53339b0-e4ca-313c-bf5a-6e0fdce9e3cf",
+        "title": "3 Media Stocks to Buy After Their 50%+ Drop",
         "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/warner-bros-discovery-desperate-bottom-102119522.html",
-        "providerPublishTime": 1653474079,
+        "link": "https://finance.yahoo.com/news/3-media-stocks-buy-50-140649790.html",
+        "providerPublishTime": 1653487609,
         "type": "STORY"
     }
 }

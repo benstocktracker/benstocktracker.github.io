@@ -34,7 +34,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
   ];
   headers = [
     'Symbol', 'Cost Average & 52 Week Price Range', 'Market Value',
-    'Gain / Lost', 'Yield', 'Income', 'Yield on Cost',
+    'Gain / Lost', 'Yield', 'Dividend Income', 'Yield on Cost',
     'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', ''
   ];
   cells: Function[] = [
@@ -42,10 +42,10 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.gainLoss.toFixed(2)}`,
-    (stock: any) => `${stock.yieldPercent.toFixed(2)}% ($${stock.yield})`,
-    (stock: any) => `$${stock.income.toFixed(2)}`,
-    (stock: any) => `${stock.yieldOnCost.toFixed(2)}%`,
-    (stock: any) => `${stock.payoutRatio.toFixed(2)}%`,
+    (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield})` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `$${stock.income.toFixed(2)}` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `${stock.yieldOnCost.toFixed(2)}%` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `${stock.payoutRatio.toFixed(2)}%` : 'N/A',
     (stock: any) => `${stock.exDivDate}`,
     (stock: any) => stock.sector,
     (stock: any) => stock.analysis.toUpperCase(),
@@ -79,7 +79,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
       case 3:
         return this.cells[index](stock)[1] === '-' ? 'tomato' : 'forestgreen';
       case 6:
-        return this.cells[index](stock).startsWith('0.00%') ? '#191919' : 'steelblue';
+        return stock.yield > 0 ? 'steelblue' : '#191919';
       case 7:
         return stock.payoutRatio >= 50 ? 'tomato' : '#191919';
       case 10:

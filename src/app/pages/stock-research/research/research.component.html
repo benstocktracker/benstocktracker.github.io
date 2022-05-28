@@ -5,9 +5,6 @@
       <input matInput type="text" formControlName="searchField" placeholder="ticker" />
     </mat-form-field>
   </form>
-  <button mat-button color="primary" (click)="fetchStockData()">
-    <mat-icon class="material-icons-round">cloud_download</mat-icon>
-  </button>
 </div>
 
 <div *ngIf="!stockStats">

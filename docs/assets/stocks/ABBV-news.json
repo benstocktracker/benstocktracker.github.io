@@ -1,4 +1,12 @@
 {
+    "3c45aa24-0be8-39cb-9fc4-ae91bc71a73b": {
+        "uuid": "3c45aa24-0be8-39cb-9fc4-ae91bc71a73b",
+        "title": "What Kind Of Shareholders Hold The Majority In AbbVie Inc.'s (NYSE:ABBV) Shares?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/kind-shareholders-hold-majority-abbvie-143608645.html",
+        "providerPublishTime": 1653662168,
+        "type": "STORY"
+    },
     "b1eedb1d-8551-3bc0-aba1-3b4e5cc28b6a": {
         "uuid": "b1eedb1d-8551-3bc0-aba1-3b4e5cc28b6a",
         "title": "The Lancet Publishes Results from Phase 3 Induction and Maintenance Programs Evaluating Upadacitinib (RINVOQ\u00ae) in Ulcerative Colitis",
@@ -23,6 +31,14 @@
         "providerPublishTime": 1653589140,
         "type": "STORY"
     },
+    "04fe5039-1487-3ef4-8b96-722a5b04f059": {
+        "uuid": "04fe5039-1487-3ef4-8b96-722a5b04f059",
+        "title": "7 Ideal Dividend Stocks to Buy for a Rich Retirement",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-ideal-dividend-stocks-buy-144113209.html",
+        "providerPublishTime": 1653576073,
+        "type": "STORY"
+    },
     "2ba77cb7-8b04-3d5a-b01c-065ea14eaacd": {
         "uuid": "2ba77cb7-8b04-3d5a-b01c-065ea14eaacd",
         "title": "Amgen (AMGN) Ahead of Industry This Year So Far: What's Next?",
@@ -45,22 +61,6 @@
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
         "providerPublishTime": 1653499875,
-        "type": "STORY"
-    },
-    "148c0a67-9152-3dc6-8dcd-6e0216574877": {
-        "uuid": "148c0a67-9152-3dc6-8dcd-6e0216574877",
-        "title": "SpringWorks (SWTX) Down Despite Desmoid Tumors Study Meeting Goal",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/springworks-swtx-down-despite-desmoid-160504171.html",
-        "providerPublishTime": 1653494704,
-        "type": "STORY"
-    },
-    "16b7a6f8-68d6-3c27-9b25-218bb2e67827": {
-        "uuid": "16b7a6f8-68d6-3c27-9b25-218bb2e67827",
-        "title": "2 Dividend Kings That Are Soundly Beating the Market in 2022",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/16b7a6f8-68d6-3c27-9b25-218bb2e67827/2-dividend-kings-that-are.html",
-        "providerPublishTime": 1653490800,
         "type": "STORY"
     }
 }

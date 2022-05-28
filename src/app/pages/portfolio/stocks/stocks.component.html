@@ -8,11 +8,18 @@
     </header>
 
     <div class="table-actions">
-      <mat-slide-toggle color="primary" checked="false" class="widget-toggle" labelPosition="before" (change)="handleToggle($event)">Ticker Widgets</mat-slide-toggle>
-      <mat-form-field appearance="standard">
-        <mat-label>Filter</mat-label>
-        <input matInput (keyup)="applyFilter($event)" #input>
-      </mat-form-field>
+      <DIV>
+        <mat-slide-toggle color="primary" checked="false" class="widget-toggle" labelPosition="before" (change)="handleToggle($event)">Ticker Widgets</mat-slide-toggle>
+        <mat-form-field appearance="standard">
+          <mat-label>Filter</mat-label>
+          <input matInput (keyup)="applyFilter($event)" #input>
+        </mat-form-field>
+      </DIV>
+      <mat-paginator [length]="dataSource.data.length" 
+        [pageSizeOptions]="[5, 10, 20, 50]" 
+        [pageSize]="50"
+        showFirstLastButtons>
+      </mat-paginator>
     </div>
   </div>
   
@@ -38,6 +45,7 @@
           </div>
           <div *ngIf="cidx === 3; else elseBlock" (click)="expandRow(stock)">
             <div [ngStyle]="{'color': getColColor(stock, cidx)}">{{ stock.glPercent.toFixed(2) }}%</div>
+            <div [ngStyle]="{'color': getColColor(stock, cidx)}">${{ stock.gainLoss.toFixed(2) }}</div>
           </div>
           <div *ngIf="cidx === 11">
             <button mat-button color="primary">
@@ -79,11 +87,5 @@
         </td>
       </tr>
     </table>
-  
-    <!-- <mat-paginator [length]="dataSource.data.length" 
-                  [pageSizeOptions]="[5, 10, 20, 50]" 
-                  [pageSize]="50"
-                  showFirstLastButtons>
-    </mat-paginator> -->
   </div>
 </ng-container>

@@ -61,16 +61,16 @@ def combine_stock_data():
 
 
 def combine_stock_news():
-    stock_news = {}
+    news = []
     for ticker in holdings:
         try:
-            stock_news.update(helper.load(os.path.join(STOCKS_DATA_PATH, f'{ticker}-news.json')))
+            news.extend(helper.load(os.path.join(STOCKS_DATA_PATH, f'{ticker}-news.json')).values())
         except Exception as e:
             print(e)
-    stock_news = list(stock_news.values())
-    stock_news.sort(key=lambda x: x['providerPublishTime'], reverse=True)
-    # helper.dump(stock_news, 'stocks-news.json')
-    return stock_news
+    news.sort(key=lambda x: x['providerPublishTime'], reverse=True)
+    portfolio_news = {item['uuid']: item for item in news}
+    helper.dump(portfolio_news, f'{BACKEND_DIR}/stock-news.json')
+    return portfolio_news
 
 
 def calculate_row_data(portfolio: list):
@@ -116,15 +116,16 @@ def calculate_row_data(portfolio: list):
 
 
 if __name__ == '__main__':
-    fetch_all_tickers_data()
+    # fetch_all_tickers_data()
     # fetch_one_ticker_data('UL')
     # fetch_one_ticker_data('VZ')
     # fetch_one_ticker_data('WBD')
     # fetch_one_ticker_data('XPEV')
-    stock_data = combine_stock_data()
+
+    # stock_data = combine_stock_data()
     stock_news = combine_stock_news()
-    stock_rows = calculate_row_data(stock_data)
-    helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
+    # stock_rows = calculate_row_data(stock_data)
+    # helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
 
     # columns, *rows = holdings_csv[:-1]
     # stock_row_data = dict.fromkeys(columns)

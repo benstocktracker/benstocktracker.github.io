@@ -1,4 +1,12 @@
 {
+    "117fcd69-5f78-3529-99ac-9ed3b10573ff": {
+        "uuid": "117fcd69-5f78-3529-99ac-9ed3b10573ff",
+        "title": "1 Top Semiconductor Stock to Buy and Hold",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/117fcd69-5f78-3529-99ac-9ed3b10573ff/1-top-semiconductor-stock-to.html",
+        "providerPublishTime": 1653732000,
+        "type": "STORY"
+    },
     "15a4b691-507b-3fc8-b83f-96a0940e6cf3": {
         "uuid": "15a4b691-507b-3fc8-b83f-96a0940e6cf3",
         "title": "Taiwan Continues Its Crusade Against Chinese Companies For Alleged Poaching Of Chip Engineers",
@@ -53,14 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/why-amd-investors-sleep-soundly-223510257.html",
         "providerPublishTime": 1652999710,
-        "type": "STORY"
-    },
-    "2e70080b-dbc9-3a9d-864e-e16f97e29ecb": {
-        "uuid": "2e70080b-dbc9-3a9d-864e-e16f97e29ecb",
-        "title": "Samsung Struggles to Go Green in Coal-Addicted South Korea",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/samsung-struggles-green-coal-addicted-220001416.html",
-        "providerPublishTime": 1652997601,
         "type": "STORY"
     }
 }

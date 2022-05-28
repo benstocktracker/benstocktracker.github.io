@@ -23,14 +23,6 @@
         "providerPublishTime": 1652466090,
         "type": "STORY"
     },
-    "4a4112c9-b7f1-37fd-83ef-8a568b0add3e": {
-        "uuid": "4a4112c9-b7f1-37fd-83ef-8a568b0add3e",
-        "title": "Private Credit Switches Up Sales Pitch to Win From Higher Rates",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/private-credit-switches-sales-pitch-140002876.html",
-        "providerPublishTime": 1651154402,
-        "type": "STORY"
-    },
     "2a8bf553-5798-3034-9cd9-bf1e3650987d": {
         "uuid": "2a8bf553-5798-3034-9cd9-bf1e3650987d",
         "title": "Ares Capital (ARCC) Stock Down on Q1 Earnings Miss, Costs Dip",
@@ -61,6 +53,14 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/ares-capital-arcc-q1-earnings-122512520.html",
         "providerPublishTime": 1650975912,
+        "type": "STORY"
+    },
+    "18e22ba0-c5a8-327a-9058-d18f05c000ef": {
+        "uuid": "18e22ba0-c5a8-327a-9058-d18f05c000ef",
+        "title": "Ares Capital Corporation Announces March 31, 2022 Financial Results and Declares Second Quarter 2022 Dividend of $0.42 Per Share",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/ares-capital-corporation-announces-march-110000167.html",
+        "providerPublishTime": 1650970800,
         "type": "STORY"
     }
 }

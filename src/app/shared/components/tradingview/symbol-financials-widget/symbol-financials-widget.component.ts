@@ -16,6 +16,5 @@ export class SymbolFinancialsWidgetComponent implements OnInit, AfterViewInit {
   ngAfterViewInit(): void {
     const financials = this.tradingviewService.symbolFinancialsWidget(this.symbol);
     this.tradingviewService.renderWidget(this.symbolFinancialsWidget, financials);
-    console.log(this.symbol)
   }
 }

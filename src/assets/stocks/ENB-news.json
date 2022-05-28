@@ -1,4 +1,12 @@
 {
+    "0b0b9bc1-dfd5-3735-bb80-ec49ee9c5337": {
+        "uuid": "0b0b9bc1-dfd5-3735-bb80-ec49ee9c5337",
+        "title": "Enbridge (ENB) to Supply Natural Gas to Plaquemines Facility",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/enbridge-enb-supply-natural-gas-122612159.html",
+        "providerPublishTime": 1653654372,
+        "type": "STORY"
+    },
     "da9486e6-4bed-38d5-a043-9f38c565378e": {
         "uuid": "da9486e6-4bed-38d5-a043-9f38c565378e",
         "title": "Venture Global green lights $13B Plaquemines LNG, other LNG projects ink deals",
@@ -53,14 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/enbridge-announces-conversion-results-series-220000626.html",
         "providerPublishTime": 1652997600,
-        "type": "STORY"
-    },
-    "50385c0e-567e-338c-aaaf-8b340dfe8a6f": {
-        "uuid": "50385c0e-567e-338c-aaaf-8b340dfe8a6f",
-        "title": "Varcoe: 'We Need to Get After It' \u2014 Enbridge CEO Sees Future Growth for Canadian Energy",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/varcoe-enbridge-ceo-sees-future-162213167.html",
-        "providerPublishTime": 1652977333,
         "type": "STORY"
     }
 }

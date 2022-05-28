@@ -1,4 +1,36 @@
 {
+    "6734fbb0-8094-3436-b22b-13d7f50d8cf1": {
+        "uuid": "6734fbb0-8094-3436-b22b-13d7f50d8cf1",
+        "title": "U.S. doctors reconsider Pfizer's Paxlovid for lower-risk COVID patients",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/u-doctors-reconsider-pfizers-paxlovid-110000893.html",
+        "providerPublishTime": 1653735600,
+        "type": "STORY"
+    },
+    "371ce38f-5085-3e76-ac6d-ee2c43b24d54": {
+        "uuid": "371ce38f-5085-3e76-ac6d-ee2c43b24d54",
+        "title": "Top 10 Value Stocks Hedge Funds are Buying in 2022",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/top-10-value-stocks-hedge-220234802.html",
+        "providerPublishTime": 1653688954,
+        "type": "STORY"
+    },
+    "5b28f8d7-b684-36dd-97ce-21a7ebd0f9e4": {
+        "uuid": "5b28f8d7-b684-36dd-97ce-21a7ebd0f9e4",
+        "title": "Pfizer (PFE) Gets Fast Track Designation for NASH Therapy",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pfizer-pfe-gets-fast-track-173405485.html",
+        "providerPublishTime": 1653672845,
+        "type": "STORY"
+    },
+    "c0100862-77c7-3ee2-99cd-8fde893b0a37": {
+        "uuid": "c0100862-77c7-3ee2-99cd-8fde893b0a37",
+        "title": "Pharma Stock Roundup: EU Nod for AZN, JNJ & Others, PFE COVID Jab Effective in Kids",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pharma-stock-roundup-eu-nod-132901059.html",
+        "providerPublishTime": 1653658141,
+        "type": "STORY"
+    },
     "6e65fb26-7ea0-39b4-8ae6-b4d5d00de731": {
         "uuid": "6e65fb26-7ea0-39b4-8ae6-b4d5d00de731",
         "title": "A new generation of ulcerative colitis drugs is in development. Will they be blockbusters for Lilly and Pfizer?",
@@ -29,38 +61,6 @@
         "publisher": "Quartz",
         "link": "https://finance.yahoo.com/m/b9e0c600-78c7-3962-8bbc-4f3fe25c7dc9/pfizer-to-offer-drugs-at.html",
         "providerPublishTime": 1653562201,
-        "type": "STORY"
-    },
-    "392aad07-3af1-3fe1-a78e-0411fc1ef317": {
-        "uuid": "392aad07-3af1-3fe1-a78e-0411fc1ef317",
-        "title": "Pfizer Granted FDA Fast Track Designation for Ervogastat/Clesacostat Combination for the Treatment of Non-Alcoholic Steatohepatitis (NASH)",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/pfizer-granted-fda-fast-track-104500046.html",
-        "providerPublishTime": 1653561900,
-        "type": "STORY"
-    },
-    "0d605870-0afa-3e8a-9849-dcfad3aa9b12": {
-        "uuid": "0d605870-0afa-3e8a-9849-dcfad3aa9b12",
-        "title": "Better Dividend Stock: Pfizer or Merck?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0d605870-0afa-3e8a-9849-dcfad3aa9b12/better-dividend-stock%3A-pfizer.html",
-        "providerPublishTime": 1653559440,
-        "type": "STORY"
-    },
-    "f0160400-550e-3ec7-97fc-5cbfe22e13e1": {
-        "uuid": "f0160400-550e-3ec7-97fc-5cbfe22e13e1",
-        "title": "Bill Gates and Pfizer\u2019s CEO Don\u2019t Want the World to Ignore Covid-19",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/f0160400-550e-3ec7-97fc-5cbfe22e13e1/bill-gates-and-pfizer%E2%80%99s-ceo.html",
-        "providerPublishTime": 1653500880,
-        "type": "STORY"
-    },
-    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
-        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
-        "providerPublishTime": 1653499875,
         "type": "STORY"
     }
 }

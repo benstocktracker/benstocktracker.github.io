@@ -1,8 +1,4 @@
-import { AfterViewInit, Component, OnInit } from '@angular/core';
-import { ApiResponse } from 'src/app/shared/interfaces/api-response.interface';
-import { CrudService } from 'src/app/shared/services/crud.service';
-import { StocksService } from 'src/app/shared/services/stocks.service';
-
+import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-news',
   templateUrl: './news.component.html',
@@ -11,13 +7,10 @@ import { StocksService } from 'src/app/shared/services/stocks.service';
 export class NewsComponent implements OnInit {
   news: any[] = [];
 
-  constructor(private crudService: CrudService, private stocksService: StocksService) {}
-
-  ngOnInit(): void {
-    this.stocksService.loadPortfolioNews().subscribe((response: ApiResponse) => {
-      if (response.status === 200) {
-        this.news = response.data;
-      }
+  constructor() {}
+  ngOnInit() {
+    import(`../../../../assets/stock-news.json`).then(data => {
+      this.news = Object.values(data.default).sort((a: any, b: any) => b.providerPublishTime - a.providerPublishTime);
     });
   }
 }

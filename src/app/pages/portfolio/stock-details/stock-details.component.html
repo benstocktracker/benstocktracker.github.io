@@ -3,13 +3,13 @@
 <mat-tab-group mat-align-tabs="center">
   <mat-tab label="Chart">
     <app-stock-chart-panel [symbol]="stockStats.symbol"></app-stock-chart-panel>
-  </mat-tab>å
+  </mat-tab>
 
   <mat-tab label="Stats">
     <app-stock-stats-panel [stockStats]="stockStats"></app-stock-stats-panel>
   </mat-tab>
 
-  <mat-tab label="financials">
+  <mat-tab label="Financials">
     <app-symbol-financials-widget [symbol]="stockStats.symbol"></app-symbol-financials-widget>
   </mat-tab>
 

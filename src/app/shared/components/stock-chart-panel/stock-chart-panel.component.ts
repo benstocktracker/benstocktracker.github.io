@@ -26,7 +26,6 @@ export class StockChartPanelComponent implements OnInit {
 
   getChartUrl(symbol: string) {
     this.callCount += 1;
-    console.log('Call Count:', this.callCount, symbol);
     const url = 'https://wallmine.com/widgets/chart/' + symbol;
     return this.sanitizer.bypassSecurityTrustResourceUrl(url); 
   }

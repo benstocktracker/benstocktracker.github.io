@@ -11,9 +11,8 @@
 
 .table-actions {
   display: flex;
+  flex-direction: column;
   justify-content: right;
-  align-items: center;
-  margin-right: 2%;
 }
 
 .table-container {
@@ -86,4 +85,8 @@ td.mat-cell:first-of-type {
 
 mat-slide-toggle {
   margin-right: 20px;
+}
+
+td {
+  cursor: pointer;
 }
