@@ -29,24 +29,24 @@ export class StocksComponent implements OnInit, AfterViewInit {
   dataSource = new MatTableDataSource<any>();
   columnDefs = [
     'symbol', 'Cost Average & 52 Week Price Range', 'marketValue',
-    'gainLoss', 'yieldPercent', 'income', 'yieldOnCost',
-    'payoutRatio', 'exDivDate', 'sector', 'analysis', 'actions'
+    'profit', 'yieldPercent', 'dividendIncome', 'yieldOnCost',
+    'payoutRatio', 'exDivDate', 'sector', 'analysis'
   ];
   headers = [
     'Symbol', 'Cost Average & 52 Week Price Range', 'Market Value',
-    'Gain / Lost', 'Yield', 'Dividend Income', 'Yield on Cost',
-    'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', ''
+    'Profit', 'Yield', 'Dividend Income', 'Yield on Cost',
+    'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis'
   ];
   cells: Function[] = [
     (stock: any) => '',
     (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
-    (stock: any) => `$${stock.gainLoss.toFixed(2)}`,
+    (stock: any) => `$${stock.profit.toFixed(2)}`,
     (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield})` : 'N/A',
-    (stock: any) => stock.yield > 0 ? `$${stock.income.toFixed(2)}` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `$${stock.dividendIncome.toFixed(2)}` : 'N/A',
     (stock: any) => stock.yield > 0 ? `${stock.yieldOnCost.toFixed(2)}%` : 'N/A',
     (stock: any) => stock.yield > 0 ? `${stock.payoutRatio.toFixed(2)}%` : 'N/A',
-    (stock: any) => `${stock.exDivDate}`,
+    (stock: any) => ``,
     (stock: any) => stock.sector,
     (stock: any) => stock.analysis.toUpperCase(),
     (stock: any) => ''
@@ -55,9 +55,9 @@ export class StocksComponent implements OnInit, AfterViewInit {
     () => '',
     () => `$${this.dataSource.data.map(t => t.costBasis).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // cost basis
     () => `$${this.dataSource.data.map(t => t.marketValue).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
-    () => `$${this.dataSource.data.map(t => t.gainLoss).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // unrealized gain / loss
+    () => `$${this.dataSource.data.map(t => t.profit).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // unrealized gain / loss
     () => '',
-    () => `$${this.dataSource.data.map(t => t.income).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // dividend income
+    () => `$${this.dataSource.data.map(t => t.dividendIncome).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // dividend dividendIncome
     () => ``,
     () => '',
     () => '',
@@ -108,15 +108,16 @@ export class StocksComponent implements OnInit, AfterViewInit {
   ngOnInit() {
     this.activatedRoute.data.subscribe(response => {
       this.dataSource.data = Object.values(response['stocks'].default);
+
+      // this.http.get('../../../../assets/holdings.csv', {responseType: 'text'}).subscribe((data: string) => { 
+      //   const stocklist_data = data.split(/\r\n|\n/).slice(0, -1);
+      //   const header = stocklist_data.shift()!.split(',');
+      //   const stocklist = stocklist_data.map(row => {
+      //     row = row.replace('\"', '"');
+      //     return row.split(',');
+      //   });
+      // })
     });
-    // this.http.get('../../../../assets/holdings.csv', {responseType: 'text'}).subscribe((data: string) => { 
-    //   const stocklist_data = data.split(/\r\n|\n/).slice(0, -1);
-    //   const header = stocklist_data.shift()!.split(',');
-    //   const stocklist = stocklist_data.map(row => {
-    //     row = row.replace('\"', '"');
-    //     return row.split(',');
-    //   });
-    // })
   }
 
   ngAfterViewInit(): void {

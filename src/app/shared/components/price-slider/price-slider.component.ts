@@ -10,7 +10,7 @@ export class PriceSliderComponent implements OnInit {
   @Input() max!: string;
   @Input() currentPrice!: string;
   @Input() costAverage!: number;
-  @Input() sharesOwned!: number;
+  @Input() shares!: number;
   color: string = '';
 
   constructor() { }

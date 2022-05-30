@@ -76,17 +76,17 @@ def combine_stock_news():
 def calculate_row_data(portfolio: list):
     stock_rows = {}
     for stock in portfolio.values():
-        shares_owned = map(lambda holding: holding['sharesOwned'], stock['holdings'])
+        shares_owned = map(lambda holding: holding['shares'], stock['holdings'])
         total_shares_owned = reduce(lambda a, b: a + b, shares_owned)
-        total_cost = map(lambda holding: holding['costAverage'] * holding['sharesOwned'], stock['holdings'])
+        total_cost = map(lambda holding: holding['costAverage'] * holding['shares'], stock['holdings'])
         total_cost = reduce(lambda a, b: a + b, total_cost)
         try:
-            ex_div_date = datetime.fromtimestamp(stock['summaryDetail']['exDividendDate']).strftime("%m/%d/%Y, %H:%M:%S")
+            ex_div_date = datetime.fromtimestamp(stock['summaryDetail']['exDividendDate']).strftime("%m/%d/%y, %H:%M:%S")
         except TypeError:
             ex_div_date = ''
         stock_row = {
             'symbol': stock['symbol'],
-            'sharesOwned': total_shares_owned,
+            'shares': total_shares_owned,
             'costAverage': total_cost / total_shares_owned,
             'marketPrice': stock['price']['regularMarketPrice'],
             'costBasis': total_cost,
@@ -106,10 +106,10 @@ def calculate_row_data(portfolio: list):
             stock_row['sector'] = 'N/A'
             stock_row['analysis'] = 'None'
         
-        stock_row['gainLoss'] = (stock_row['marketPrice'] - stock_row['costAverage']) * stock_row['sharesOwned']
-        stock_row['glPercent'] = (stock_row['marketPrice'] - stock_row['costAverage']) / stock_row['costAverage'] * 100
+        stock_row['profit'] = (stock_row['marketPrice'] - stock_row['costAverage']) * stock_row['shares']
+        stock_row['profitPercent'] = (stock_row['marketPrice'] - stock_row['costAverage']) / stock_row['costAverage'] * 100
         stock_row['yieldOnCost'] = stock_row['yield'] / stock_row['costAverage'] * 100 or 0
-        stock_row['income'] = stock_row['yield'] * stock_row['sharesOwned']
+        stock_row['dividendIncome'] = stock_row['yield'] * stock_row['shares']
         stock_row['stats'] = stock
         stock_rows[stock['symbol']] = stock_row
     return stock_rows
@@ -122,10 +122,10 @@ if __name__ == '__main__':
     # fetch_one_ticker_data('WBD')
     # fetch_one_ticker_data('XPEV')
 
-    # stock_data = combine_stock_data()
+    stock_data = combine_stock_data()
     stock_news = combine_stock_news()
-    # stock_rows = calculate_row_data(stock_data)
-    # helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
+    stock_rows = calculate_row_data(stock_data)
+    helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
 
     # columns, *rows = holdings_csv[:-1]
     # stock_row_data = dict.fromkeys(columns)

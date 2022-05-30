@@ -45,15 +45,6 @@
   align-items: center;
 }
 
-.table-header { 
-  font-size: 1rem;
-  font-weight: bold;
-}
-
-th.mat-sort-header-sorted {
-  color: #191919;
-}
-
 .mat-cell {
   padding-right: 20px;
 }
@@ -89,4 +80,9 @@ mat-slide-toggle {
 
 td {
   cursor: pointer;
+}
+
+.mat-button {
+  min-width: 20px;
+  padding: 0;
 }
