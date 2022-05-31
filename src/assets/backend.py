@@ -116,7 +116,7 @@ def calculate_row_data(portfolio: list):
 
 
 if __name__ == '__main__':
-    # fetch_all_tickers_data()
+    fetch_all_tickers_data()
     # fetch_one_ticker_data('UL')
     # fetch_one_ticker_data('VZ')
     # fetch_one_ticker_data('WBD')

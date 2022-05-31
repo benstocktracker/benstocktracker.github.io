@@ -1,4 +1,20 @@
 {
+    "ffe3030e-7aa1-342e-b912-402cbd40a32a": {
+        "uuid": "ffe3030e-7aa1-342e-b912-402cbd40a32a",
+        "title": "5/31/22: Verizon declares quarterly dividend",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/5-31-22-verizon-declares-125500555.html",
+        "providerPublishTime": 1654001700,
+        "type": "STORY"
+    },
+    "931f90c1-2393-3964-b62f-ebe1b22f23d1": {
+        "uuid": "931f90c1-2393-3964-b62f-ebe1b22f23d1",
+        "title": "When Not Just Any Dividend Stock Will Do",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/931f90c1-2393-3964-b62f-ebe1b22f23d1/when-not-just-any-dividend.html",
+        "providerPublishTime": 1653755400,
+        "type": "STORY"
+    },
     "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
         "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
         "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
@@ -15,11 +31,11 @@
         "providerPublishTime": 1653744295,
         "type": "STORY"
     },
-    "bcb32db9-8f8f-3a42-b3eb-7f99ef9bdfe8": {
-        "uuid": "bcb32db9-8f8f-3a42-b3eb-7f99ef9bdfe8",
+    "d939f59f-1e05-378f-9ed9-6222e3edb055": {
+        "uuid": "d939f59f-1e05-378f-9ed9-6222e3edb055",
         "title": "Apple Atlanta Workers Drop Bid for Union Vote Next Week, Claiming Intimidation",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/apple-atlanta-workers-drop-bid-202722932.html",
+        "link": "https://finance.yahoo.com/news/apple-atlanta-workers-drop-bid-202722424.html",
         "providerPublishTime": 1653691684,
         "type": "STORY"
     },
@@ -45,22 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/c35a737e-65f6-346f-9060-bece491214a8/verizon-customers-will-soon.html",
         "providerPublishTime": 1653580821,
-        "type": "STORY"
-    },
-    "dd14e867-8550-362e-b9b9-217ce30c9752": {
-        "uuid": "dd14e867-8550-362e-b9b9-217ce30c9752",
-        "title": "Verizon customers get home security with home internet",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-customers-home-security-home-143000581.html",
-        "providerPublishTime": 1653575400,
-        "type": "STORY"
-    },
-    "2bb008d4-ceeb-3f73-aedc-796fa0a49e12": {
-        "uuid": "2bb008d4-ceeb-3f73-aedc-796fa0a49e12",
-        "title": "Traveling for Memorial Day weekend? Get the best value with Verizon",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/traveling-memorial-day-weekend-best-140000623.html",
-        "providerPublishTime": 1653573600,
         "type": "STORY"
     }
 }

@@ -1,4 +1,20 @@
 {
+    "015fb8ac-b273-3841-9ae9-937c0045e43d": {
+        "uuid": "015fb8ac-b273-3841-9ae9-937c0045e43d",
+        "title": "10 Best Healthcare Stocks to Buy in 2022 According to Hedge Funds",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-healthcare-stocks-buy-132522047.html",
+        "providerPublishTime": 1653917122,
+        "type": "STORY"
+    },
+    "cc29c585-e3b0-361c-847f-2732f8bf57e1": {
+        "uuid": "cc29c585-e3b0-361c-847f-2732f8bf57e1",
+        "title": "3 Dividend Stocks You Can Buy and Hold Forever",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/cc29c585-e3b0-361c-847f-2732f8bf57e1/3-dividend-stocks-you-can-buy.html",
+        "providerPublishTime": 1653823860,
+        "type": "STORY"
+    },
     "3c45aa24-0be8-39cb-9fc4-ae91bc71a73b": {
         "uuid": "3c45aa24-0be8-39cb-9fc4-ae91bc71a73b",
         "title": "What Kind Of Shareholders Hold The Majority In AbbVie Inc.'s (NYSE:ABBV) Shares?",
@@ -23,6 +39,14 @@
         "providerPublishTime": 1653634800,
         "type": "STORY"
     },
+    "880a8385-0a01-3512-be41-8b614a8ab15f": {
+        "uuid": "880a8385-0a01-3512-be41-8b614a8ab15f",
+        "title": "7 High-Yield Retirement Stocks to Buy for Your Nest Egg",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-high-yield-retirement-stocks-220022572.html",
+        "providerPublishTime": 1653602422,
+        "type": "STORY"
+    },
     "077348f9-154c-30c0-827c-63f53b34702c": {
         "uuid": "077348f9-154c-30c0-827c-63f53b34702c",
         "title": "AbbVie's Correction Appears to Be Over: Here's Where the Stock Could Be Headed",
@@ -37,30 +61,6 @@
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/7-ideal-dividend-stocks-buy-144113209.html",
         "providerPublishTime": 1653576073,
-        "type": "STORY"
-    },
-    "2ba77cb7-8b04-3d5a-b01c-065ea14eaacd": {
-        "uuid": "2ba77cb7-8b04-3d5a-b01c-065ea14eaacd",
-        "title": "Amgen (AMGN) Ahead of Industry This Year So Far: What's Next?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/amgen-amgn-ahead-industry-far-115111980.html",
-        "providerPublishTime": 1653565871,
-        "type": "STORY"
-    },
-    "679f570f-a870-3ef1-a644-6eaeeb20231f": {
-        "uuid": "679f570f-a870-3ef1-a644-6eaeeb20231f",
-        "title": "3 Healthcare Stocks You Can Buy and Hold for the Next Decade",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/679f570f-a870-3ef1-a644-6eaeeb20231f/3-healthcare-stocks-you-can.html",
-        "providerPublishTime": 1653559200,
-        "type": "STORY"
-    },
-    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
-        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
-        "providerPublishTime": 1653499875,
         "type": "STORY"
     }
 }

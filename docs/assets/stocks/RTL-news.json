@@ -1,4 +1,12 @@
 {
+    "f40740f9-9bce-34c6-9868-cb825c3ceaec": {
+        "uuid": "f40740f9-9bce-34c6-9868-cb825c3ceaec",
+        "title": "THE NECESSITY RETAIL REIT CLOSES ON THE PLANT IN SAN JOSE, CA FOR $175 MILLION AS PART OF THE PREVIOUSLY ANNOUNCED $1.3 BILLION OPEN-AIR SHOPPING CENTER ACQUISITION",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-closes-plant-100000285.html",
+        "providerPublishTime": 1653991200,
+        "type": "STORY"
+    },
     "e8a2da58-c462-3d9a-b1f3-70344db5754c": {
         "uuid": "e8a2da58-c462-3d9a-b1f3-70344db5754c",
         "title": "The Necessity Retail REIT CEO Michael Weil Discusses the Retail Renaissance with GlobeSt",
@@ -53,14 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-common-100000284.html",
         "providerPublishTime": 1648807200,
-        "type": "STORY"
-    },
-    "99ee25c1-1275-3c92-988f-9fa3cd7e2017": {
-        "uuid": "99ee25c1-1275-3c92-988f-9fa3cd7e2017",
-        "title": "The Necessity Retail REIT CEO Michael Weil Presents during the March 22 - 24 MoneyShow Virtual Expo",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-100000498.html",
-        "providerPublishTime": 1648461600,
         "type": "STORY"
     }
 }

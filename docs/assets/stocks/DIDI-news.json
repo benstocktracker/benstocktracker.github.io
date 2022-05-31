@@ -15,6 +15,14 @@
         "providerPublishTime": 1653640460,
         "type": "STORY"
     },
+    "80aca9df-6207-395d-84d6-ce89a56ffd84": {
+        "uuid": "80aca9df-6207-395d-84d6-ce89a56ffd84",
+        "title": "Avoid DiDi Global as It Faces 3 Existential Problems",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/avoid-didi-global-faces-3-232311284.html",
+        "providerPublishTime": 1653607391,
+        "type": "STORY"
+    },
     "28a580b2-f93c-339e-8df9-42edf2f6467a": {
         "uuid": "28a580b2-f93c-339e-8df9-42edf2f6467a",
         "title": "Why Nio Stock Hit the Gas Today",
@@ -53,14 +61,6 @@
         "publisher": "Barrons.com",
         "link": "https://finance.yahoo.com/m/92a54006-7fe6-377c-a544-82af4674f5a7/what-snap-tells-us-about.html",
         "providerPublishTime": 1653389220,
-        "type": "STORY"
-    },
-    "58694336-a063-3a3c-b71b-05bb8e60bd26": {
-        "uuid": "58694336-a063-3a3c-b71b-05bb8e60bd26",
-        "title": "Didi Says It Will Proceed With Delisting From NYSE",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/58694336-a063-3a3c-b71b-05bb8e60bd26/didi-says-it-will-proceed.html",
-        "providerPublishTime": 1653341220,
         "type": "STORY"
     }
 }

@@ -1,66 +1,66 @@
 {
-    "850e192c-50b2-3018-b8df-19b3b3de5daf": {
-        "uuid": "850e192c-50b2-3018-b8df-19b3b3de5daf",
-        "title": "AMD Investors Should Be Excited About These 3 Things",
+    "19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b": {
+        "uuid": "19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b",
+        "title": "Down 23%, Should Investors Pounce on Microsoft Today?",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/850e192c-50b2-3018-b8df-19b3b3de5daf/amd-investors-should-be.html",
-        "providerPublishTime": 1653746400,
-        "type": "STORY"
-    },
-    "a57f1aed-dcc2-3986-b152-be40d743b529": {
-        "uuid": "a57f1aed-dcc2-3986-b152-be40d743b529",
-        "title": "10 Small-Cap Stocks to Sell Now Before Recession Begins",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-small-cap-stocks-sell-130203674.html",
-        "providerPublishTime": 1653742923,
-        "type": "STORY"
-    },
-    "5962d59d-fd09-36cb-afa4-1c9b22a80cb4": {
-        "uuid": "5962d59d-fd09-36cb-afa4-1c9b22a80cb4",
-        "title": "Software Growth Stocks To Buy, Watch Or Sell Amid Nasdaq Volatility",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/5962d59d-fd09-36cb-afa4-1c9b22a80cb4/software-growth-stocks-to.html",
-        "providerPublishTime": 1653742849,
-        "type": "STORY"
-    },
-    "865263b4-b1ef-3b0a-8bfc-4c3cda1089da": {
-        "uuid": "865263b4-b1ef-3b0a-8bfc-4c3cda1089da",
-        "title": "Is Snowflake Stock A Buy Or Sell Amid Software Sector Volatility?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/865263b4-b1ef-3b0a-8bfc-4c3cda1089da/is-snowflake-stock-a-buy-or.html",
-        "providerPublishTime": 1653741467,
+        "link": "https://finance.yahoo.com/m/19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b/down-23%25%2C-should-investors.html",
+        "providerPublishTime": 1654000200,
         "type": "STORY"
     },
     "241fda52-4e4e-3851-9fc8-04f1839c461b": {
         "uuid": "241fda52-4e4e-3851-9fc8-04f1839c461b",
-        "title": "Dow Jones Futures: As Market Extends Gains, Should You Be Aggressive?",
+        "title": "Dow Jones Futures Signal Losses For Market Rally; Should You Be Aggressive?",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/241fda52-4e4e-3851-9fc8-04f1839c461b/dow-jones-futures%3A-as-market.html",
-        "providerPublishTime": 1653736579,
+        "link": "https://finance.yahoo.com/m/241fda52-4e4e-3851-9fc8-04f1839c461b/dow-jones-futures-signal.html",
+        "providerPublishTime": 1653999619,
         "type": "STORY"
     },
-    "31087a3a-aa99-3402-91b8-8fa844db9562": {
-        "uuid": "31087a3a-aa99-3402-91b8-8fa844db9562",
-        "title": "The top 10 highest paid CEOs of the Fortune 500",
-        "publisher": "Fortune",
-        "link": "https://finance.yahoo.com/news/top-10-highest-paid-ceos-110400063.html",
-        "providerPublishTime": 1653735840,
+    "28f1c2d2-fce3-3a95-a407-1abebc67b0eb": {
+        "uuid": "28f1c2d2-fce3-3a95-a407-1abebc67b0eb",
+        "title": "These Investors Say Nasdaq\u2019s Bear Market Has Legs",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/investors-nasdaq-bear-market-legs-101440519.html",
+        "providerPublishTime": 1653992080,
         "type": "STORY"
     },
-    "afa3756b-7ddd-4a7f-9171-548646056379": {
-        "uuid": "afa3756b-7ddd-4a7f-9171-548646056379",
-        "title": "Epic Games VP: \u2018People have lost interest in the metaverse\u2019",
+    "69f4632f-d273-3974-95d2-18cff8f5ef21": {
+        "uuid": "69f4632f-d273-3974-95d2-18cff8f5ef21",
+        "title": "Microsoft Joins the Tech Sector Hiring Slowdown",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/69f4632f-d273-3974-95d2-18cff8f5ef21/microsoft-joins-the-tech.html",
+        "providerPublishTime": 1653936540,
+        "type": "STORY"
+    },
+    "0ff4aa24-24fe-320c-b9cc-4ea125b4f451": {
+        "uuid": "0ff4aa24-24fe-320c-b9cc-4ea125b4f451",
+        "title": "We Like Microsoft's (NASDAQ:MSFT) Returns And Here's How They're Trending",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/microsofts-nasdaq-msft-returns-heres-175702280.html",
+        "providerPublishTime": 1653933422,
+        "type": "STORY"
+    },
+    "ce8ec53a-8b68-39f6-9e36-847fa7dbd1be": {
+        "uuid": "ce8ec53a-8b68-39f6-9e36-847fa7dbd1be",
+        "title": "MongoDB (MDB) to Report Q1 Earnings: What's in the Offing?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/mongodb-mdb-report-q1-earnings-142602354.html",
+        "providerPublishTime": 1653920762,
+        "type": "STORY"
+    },
+    "e6530c2e-71a4-478f-88cf-6eee0c7234e6": {
+        "uuid": "e6530c2e-71a4-478f-88cf-6eee0c7234e6",
+        "title": "What Tesla CEO Elon Musk gets wrong about ESG, according to Dave Nadig",
         "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/epic-games-vp-people-have-lost-interest-in-the-metaverse-200725562.html",
-        "providerPublishTime": 1653682045,
+        "link": "https://finance.yahoo.com/news/tesla-ceo-elon-musk-wrong-about-esg-133447951.html",
+        "providerPublishTime": 1653917687,
         "type": "STORY"
     },
-    "60157714-3e1b-3a88-811b-5012b7e5ea66": {
-        "uuid": "60157714-3e1b-3a88-811b-5012b7e5ea66",
-        "title": "Sony\u2019s strategy stymied by shortages",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/60157714-3e1b-3a88-811b-5012b7e5ea66/sony%E2%80%99s-strategy-stymied-by.html",
-        "providerPublishTime": 1653674836,
+    "a0354da2-4b0b-3804-80e7-e1e1509a370d": {
+        "uuid": "a0354da2-4b0b-3804-80e7-e1e1509a370d",
+        "title": "Al Gore\u2019s Investment Firm Bought Alibaba and Salesforce. It Sold Cisco and Microsoft.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a0354da2-4b0b-3804-80e7-e1e1509a370d/al-gore%E2%80%99s-investment-firm.html",
+        "providerPublishTime": 1653915600,
         "type": "STORY"
     }
 }

@@ -1,4 +1,12 @@
 {
+    "d8be0c2b-f923-3a3f-98d2-f1f8f4565ce2": {
+        "uuid": "d8be0c2b-f923-3a3f-98d2-f1f8f4565ce2",
+        "title": "Novavax: All Eyes on Upcoming FDA Advisory Meeting",
+        "publisher": "TipRanks",
+        "link": "https://finance.yahoo.com/news/novavax-eyes-upcoming-fda-advisory-233658038.html",
+        "providerPublishTime": 1653781018,
+        "type": "STORY"
+    },
     "8df0abf0-3994-38c1-be5e-d4331499e06c": {
         "uuid": "8df0abf0-3994-38c1-be5e-d4331499e06c",
         "title": "Nasdaq Bear Market: 4 Exceptional Growth Stocks You'll Regret Not Buying on the Dip",
@@ -47,20 +55,12 @@
         "providerPublishTime": 1653606793,
         "type": "STORY"
     },
-    "e0359674-6102-3d4e-ba33-c889615866c5": {
-        "uuid": "e0359674-6102-3d4e-ba33-c889615866c5",
-        "title": "Better Buy Ahead of FDA Meetings: Moderna vs. Novavax",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e0359674-6102-3d4e-ba33-c889615866c5/better-buy-ahead-of-fda.html",
-        "providerPublishTime": 1653472800,
-        "type": "STORY"
-    },
-    "7c7600a5-1e38-331d-861e-2781c228bb34": {
-        "uuid": "7c7600a5-1e38-331d-861e-2781c228bb34",
-        "title": "Is Novavax Stock A Sell After Its First Covid Vaccine Quarter Misses Projections?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/7c7600a5-1e38-331d-861e-2781c228bb34/is-novavax-stock-a-sell-after.html",
-        "providerPublishTime": 1653408087,
+    "0d2f9365-0cd6-3472-ba8d-9abfe352ce3e": {
+        "uuid": "0d2f9365-0cd6-3472-ba8d-9abfe352ce3e",
+        "title": "Let the Market\u2019s Shakeout Finish Before Buying Novavax Stock",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/let-market-shakeout-finish-buying-222415218.html",
+        "providerPublishTime": 1653603855,
         "type": "STORY"
     }
 }

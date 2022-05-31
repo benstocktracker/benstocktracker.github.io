@@ -1,26 +1,10 @@
 {
-    "c150cca1-c723-3b99-9f3c-1e8f622a440b": {
-        "uuid": "c150cca1-c723-3b99-9f3c-1e8f622a440b",
-        "title": "Morningstar | A Weekly Summary of Stock Ideas and Developments in the Companies We Cover",
-        "publisher": "Morningstar Research",
-        "link": "https://finance.yahoo.com/m/c150cca1-c723-3b99-9f3c-1e8f622a440b/morningstar-%7C-a-weekly.html",
-        "providerPublishTime": 1653686107,
-        "type": "STORY"
-    },
     "a3abbe7b-6f9b-3e40-9cbb-1eee957b67c4": {
         "uuid": "a3abbe7b-6f9b-3e40-9cbb-1eee957b67c4",
         "title": "Portugal's Positive Approach to Teaching Teens about the Birds, Bees and STIs",
         "publisher": "News Direct",
         "link": "https://finance.yahoo.com/news/portugals-positive-approach-teaching-teens-124608104.html",
         "providerPublishTime": 1653655568,
-        "type": "STORY"
-    },
-    "c7a190f2-a003-3889-971c-cc17293af397": {
-        "uuid": "c7a190f2-a003-3889-971c-cc17293af397",
-        "title": "Analyst Report: Gilead Sciences, Inc.",
-        "publisher": "Morningstar Research",
-        "link": "https://finance.yahoo.com/m/c7a190f2-a003-3889-971c-cc17293af397/analyst-report%3A-gilead.html",
-        "providerPublishTime": 1653603335,
         "type": "STORY"
     },
     "71d9dd8c-8557-3055-a844-891a59adcb36": {
@@ -61,6 +45,22 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/top-research-reports-jpmorgan-gilead-170805049.html",
         "providerPublishTime": 1653066485,
+        "type": "STORY"
+    },
+    "d25e0d60-f2cd-3bab-a4fa-e35d8d8a1e1d": {
+        "uuid": "d25e0d60-f2cd-3bab-a4fa-e35d8d8a1e1d",
+        "title": "Gilead at Forefront of Herculean Effort to Combat COVID-19",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/gilead-forefront-herculean-effort-combat-140107010.html",
+        "providerPublishTime": 1653055267,
+        "type": "STORY"
+    },
+    "2014bc73-3b4b-350b-9b45-3b0830c0555b": {
+        "uuid": "2014bc73-3b4b-350b-9b45-3b0830c0555b",
+        "title": "Gilead Stock Earns Rating Upgrade After Quick Turnaround",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/2014bc73-3b4b-350b-9b45-3b0830c0555b/gilead-stock-earns-rating.html",
+        "providerPublishTime": 1652991420,
         "type": "STORY"
     }
 }

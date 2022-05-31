@@ -4,15 +4,23 @@
         "title": "Tesla Stock Vs. BYD Stock: Tesla Rebounds As China EV Rival Flashes Buy Signal",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1653742944,
+        "providerPublishTime": 1654002864,
         "type": "STORY"
     },
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks To Buy And Watch",
+        "title": "5 Best Chinese Stocks To Buy And Watch: Covid Lockdowns Ease",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks-to-buy.html",
-        "providerPublishTime": 1653690834,
+        "providerPublishTime": 1653994554,
+        "type": "STORY"
+    },
+    "5711db40-7c61-310f-a9e4-04916cf4deb3": {
+        "uuid": "5711db40-7c61-310f-a9e4-04916cf4deb3",
+        "title": "7 Electric Vehicle Stocks That Wall Street Analysts Love",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-electric-vehicle-stocks-wall-225302055.html",
+        "providerPublishTime": 1653605582,
         "type": "STORY"
     },
     "122449e8-b87b-33a5-ae22-63ae3842e91b": {
@@ -53,14 +61,6 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/xpeng-releases-2021-environmental-social-100900975.html",
         "providerPublishTime": 1653480960,
-        "type": "STORY"
-    },
-    "226aa37b-1a15-4880-bc2f-4ff816011fce": {
-        "uuid": "226aa37b-1a15-4880-bc2f-4ff816011fce",
-        "title": "What Didi\u2019s 'train wreck' delisting means for US-listed Chinese companies",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/what-didis-delisting-means-for-us-listed-chinese-companies-095506543.html",
-        "providerPublishTime": 1653472506,
         "type": "STORY"
     }
 }

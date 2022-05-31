@@ -1,4 +1,12 @@
 {
+    "b386aa67-26db-35e3-9141-dc996a648e65": {
+        "uuid": "b386aa67-26db-35e3-9141-dc996a648e65",
+        "title": "Semiconductor Supply Glut Coming? 3 Chip Stocks to Sell Now.",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/semiconductor-supply-glut-coming-3-113222741.html",
+        "providerPublishTime": 1653737542,
+        "type": "STORY"
+    },
     "117fcd69-5f78-3529-99ac-9ed3b10573ff": {
         "uuid": "117fcd69-5f78-3529-99ac-9ed3b10573ff",
         "title": "1 Top Semiconductor Stock to Buy and Hold",
@@ -53,14 +61,6 @@
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/10-best-buy-dip-tech-130517110.html",
         "providerPublishTime": 1653051917,
-        "type": "STORY"
-    },
-    "8e7b08e5-218a-329d-abdd-ec80527ab1b1": {
-        "uuid": "8e7b08e5-218a-329d-abdd-ec80527ab1b1",
-        "title": "Why AMD Investors Can Sleep Soundly",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-amd-investors-sleep-soundly-223510257.html",
-        "providerPublishTime": 1652999710,
         "type": "STORY"
     }
 }
