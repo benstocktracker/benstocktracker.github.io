@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormGroup, FormBuilder } from '@angular/forms';
+import { UntypedFormGroup, UntypedFormBuilder } from '@angular/forms';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { StocksService } from 'src/app/shared/services/stocks.service';
 
@@ -9,7 +9,7 @@ import { StocksService } from 'src/app/shared/services/stocks.service';
   styleUrls: ['./research.component.css']
 })
 export class ResearchComponent implements OnInit {
-  searchForm: FormGroup = new FormGroup({});
+  searchForm: UntypedFormGroup = new UntypedFormGroup({});
   get searchField() { return this.searchForm.controls['searchField']};
   stockStats: any;
   stockNews: any;
@@ -20,7 +20,7 @@ export class ResearchComponent implements OnInit {
 
   constructor (
     private stocksService: StocksService, 
-    private fb: FormBuilder,
+    private fb: UntypedFormBuilder,
     private snackBar: MatSnackBar,
   ) {}
 
