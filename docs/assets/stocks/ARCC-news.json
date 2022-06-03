@@ -1,4 +1,12 @@
 {
+    "2ded0e4e-e8d9-38c0-856d-6c6e4036e824": {
+        "uuid": "2ded0e4e-e8d9-38c0-856d-6c6e4036e824",
+        "title": "Ares Capital (ARCC) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ares-capital-arcc-gains-lags-220010868.html",
+        "providerPublishTime": 1654207210,
+        "type": "STORY"
+    },
     "6568a1a3-7dce-3d54-ab5f-495ebf9d235a": {
         "uuid": "6568a1a3-7dce-3d54-ab5f-495ebf9d235a",
         "title": "Why Is Ares Capital (ARCC) Down 8.1% Since Last Earnings Report?",
@@ -53,14 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/ares-capital-arcc-q1-earnings-122512520.html",
         "providerPublishTime": 1650975912,
-        "type": "STORY"
-    },
-    "18e22ba0-c5a8-327a-9058-d18f05c000ef": {
-        "uuid": "18e22ba0-c5a8-327a-9058-d18f05c000ef",
-        "title": "Ares Capital Corporation Announces March 31, 2022 Financial Results and Declares Second Quarter 2022 Dividend of $0.42 Per Share",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/ares-capital-corporation-announces-march-110000167.html",
-        "providerPublishTime": 1650970800,
         "type": "STORY"
     }
 }

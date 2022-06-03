@@ -1,218 +1,1050 @@
 {
-    "a84aff2c-1725-3aa3-abdf-5acadad760ed": {
-        "uuid": "a84aff2c-1725-3aa3-abdf-5acadad760ed",
-        "title": "UPDATE 1-Franklin Resources to buy European credit manager Alcentra from BNY Mellon",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-franklin-resources-buy-european-134041435.html",
-        "providerPublishTime": 1654004441,
+    "796d5660-3939-3f41-b51f-608860bce5d3": {
+        "uuid": "796d5660-3939-3f41-b51f-608860bce5d3",
+        "title": "Apple Was the Worst Stock in the Dow Friday",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/796d5660-3939-3f41-b51f-608860bce5d3/apple-was-the-worst-stock-in.html",
+        "providerPublishTime": 1654290960,
         "type": "STORY"
     },
-    "72095ce3-fc64-3c27-9fd8-f3af957ccb8b": {
-        "uuid": "72095ce3-fc64-3c27-9fd8-f3af957ccb8b",
-        "title": "Stock Market Today - 5/31: Stocks Slump As Inflation Concerns Resurface: Oil Surges On EU Russian Crude Ban",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/72095ce3-fc64-3c27-9fd8-f3af957ccb8b/stock-market-today-5%2F31%3A.html",
-        "providerPublishTime": 1654004280,
-        "type": "STORY"
-    },
-    "eea115aa-4c6e-3df5-9758-97e54598c060": {
-        "uuid": "eea115aa-4c6e-3df5-9758-97e54598c060",
-        "title": "EU leaders agree to ban most Russian oil imports",
+    "f578dd92-f8fa-3a08-8b65-e082ff938fbe": {
+        "uuid": "f578dd92-f8fa-3a08-8b65-e082ff938fbe",
+        "title": "Apple Worldwide Developers Conference set to kick off on Monday",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/eu-leaders-agree-ban-most-133348084.html",
-        "providerPublishTime": 1654004028,
+        "link": "https://finance.yahoo.com/video/apple-worldwide-developers-conference-set-210802396.html",
+        "providerPublishTime": 1654290482,
         "type": "VIDEO"
     },
-    "b4d9265a-b303-4659-8c28-d7200e763ce4": {
-        "uuid": "b4d9265a-b303-4659-8c28-d7200e763ce4",
-        "title": "Stock market news live updates: Stocks dip as Wall Street struggles to sustain last week's rally",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-may-31-2022-111708003.html",
-        "providerPublishTime": 1654004008,
-        "type": "STORY"
-    },
-    "2f02c788-22fe-3a4a-a7e9-eec2e506afc9": {
-        "uuid": "2f02c788-22fe-3a4a-a7e9-eec2e506afc9",
-        "title": "GlaxoSmithKline Announces $3.3 Billion Buyout To Square Off With Pfizer, Merck",
+    "277d9360-e7df-3369-ba49-3de3767dedd8": {
+        "uuid": "277d9360-e7df-3369-ba49-3de3767dedd8",
+        "title": "Dow Jones Futures: Is Market Rally Action Bullish? Tesla Has 'Super Bad' Sell-Off; Apple In Focus",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/2f02c788-22fe-3a4a-a7e9-eec2e506afc9/glaxosmithkline-announces.html",
-        "providerPublishTime": 1654003997,
-        "type": "STORY"
-    },
-    "6e1eee44-232a-3a81-9759-3588ae841c38": {
-        "uuid": "6e1eee44-232a-3a81-9759-3588ae841c38",
-        "title": "Unilever Stock Rises Sharply as Nelson Peltz Is Added to Board",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/6e1eee44-232a-3a81-9759-3588ae841c38/unilever-stock-rises-sharply.html",
-        "providerPublishTime": 1654003920,
-        "type": "STORY"
-    },
-    "6e1985d7-0df1-3edb-8404-02bb4af66043": {
-        "uuid": "6e1985d7-0df1-3edb-8404-02bb4af66043",
-        "title": "U.S. doctors reconsider Pfizer's Paxlovid for lower-risk COVID patients",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/u-doctors-reconsider-pfizers-paxlovid-132908370.html",
-        "providerPublishTime": 1654003748,
+        "link": "https://finance.yahoo.com/m/277d9360-e7df-3369-ba49-3de3767dedd8/dow-jones-futures%3A-is-market.html",
+        "providerPublishTime": 1654290334,
         "type": "STORY"
     },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
         "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla Rebounds As China EV Rival Flashes Buy Signal",
+        "title": "Tesla Stock Vs. BYD Stock: Musk 'Super Bad' Warning Hits Tesla; EV Rival Races As Sales Hit High",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1654002864,
-        "type": "STORY"
-    },
-    "77e5c1da-effc-3ad0-bef1-fce6ad752518": {
-        "uuid": "77e5c1da-effc-3ad0-bef1-fce6ad752518",
-        "title": "Franklin Templeton to Acquire Alcentra from BNY Mellon",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-acquire-alcentra-bny-130000071.html",
-        "providerPublishTime": 1654002000,
-        "type": "STORY"
-    },
-    "ffe3030e-7aa1-342e-b912-402cbd40a32a": {
-        "uuid": "ffe3030e-7aa1-342e-b912-402cbd40a32a",
-        "title": "5/31/22: Verizon declares quarterly dividend",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/5-31-22-verizon-declares-125500555.html",
-        "providerPublishTime": 1654001700,
-        "type": "STORY"
-    },
-    "a10ca0f6-fe2e-389d-911d-ee7795381c81": {
-        "uuid": "a10ca0f6-fe2e-389d-911d-ee7795381c81",
-        "title": "Oil Prices Rise As EU Leaders Agree On Partial Russian Crude Ban",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/oil-prices-rise-eu-leaders-125100415.html",
-        "providerPublishTime": 1654001460,
-        "type": "STORY"
-    },
-    "e1fb9f31-ea5b-3376-ace0-e2487edd235a": {
-        "uuid": "e1fb9f31-ea5b-3376-ace0-e2487edd235a",
-        "title": "Why It Makes Sense That Apple Is Warren Buffett's Largest Holding",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e1fb9f31-ea5b-3376-ace0-e2487edd235a/why-it-makes-sense-that-apple.html",
-        "providerPublishTime": 1654000260,
-        "type": "STORY"
-    },
-    "19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b": {
-        "uuid": "19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b",
-        "title": "Down 23%, Should Investors Pounce on Microsoft Today?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b/down-23%25%2C-should-investors.html",
-        "providerPublishTime": 1654000200,
-        "type": "STORY"
-    },
-    "279b21a1-a868-3d6f-b5a6-a087a8272b80": {
-        "uuid": "279b21a1-a868-3d6f-b5a6-a087a8272b80",
-        "title": "Oil Roars to Sixth Monthly Advance on EU Ban, China\u2019s Reopening",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-powers-sixth-monthly-gain-003051962.html",
-        "providerPublishTime": 1654000160,
-        "type": "STORY"
-    },
-    "5ebeb931-8a11-360f-b27e-8fba6828853e": {
-        "uuid": "5ebeb931-8a11-360f-b27e-8fba6828853e",
-        "title": "What now for Peltz-powered Unilever?",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/5ebeb931-8a11-360f-b27e-8fba6828853e/what-now-for-peltz-powered.html",
-        "providerPublishTime": 1653999975,
-        "type": "STORY"
-    },
-    "4ec76170-5a33-3620-b908-e7d6e6a956dd": {
-        "uuid": "4ec76170-5a33-3620-b908-e7d6e6a956dd",
-        "title": "India growth slows on inflation, higher oil prices",
-        "publisher": "AFP",
-        "link": "https://finance.yahoo.com/m/4ec76170-5a33-3620-b908-e7d6e6a956dd/india-growth-slows-on.html",
-        "providerPublishTime": 1653999732,
-        "type": "STORY"
-    },
-    "241fda52-4e4e-3851-9fc8-04f1839c461b": {
-        "uuid": "241fda52-4e4e-3851-9fc8-04f1839c461b",
-        "title": "Dow Jones Futures Signal Losses For Market Rally; Should You Be Aggressive?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/241fda52-4e4e-3851-9fc8-04f1839c461b/dow-jones-futures-signal.html",
-        "providerPublishTime": 1653999619,
-        "type": "STORY"
-    },
-    "d0c936ea-bf0f-3280-a023-78ca491b80dc": {
-        "uuid": "d0c936ea-bf0f-3280-a023-78ca491b80dc",
-        "title": "EU\u2019s Russian Oil Embargo Sends Prices Surging. Exxon Stock Is Rising.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d0c936ea-bf0f-3280-a023-78ca491b80dc/eu%E2%80%99s-russian-oil-embargo.html",
-        "providerPublishTime": 1653998880,
-        "type": "STORY"
-    },
-    "d2051bd0-4712-320a-9aa5-8ebd2166d227": {
-        "uuid": "d2051bd0-4712-320a-9aa5-8ebd2166d227",
-        "title": "Factbox-Who is buying Russian crude oil and who has stopped",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/factbox-buying-russian-crude-oil-120611274.html",
-        "providerPublishTime": 1653998771,
-        "type": "STORY"
-    },
-    "a807117d-dce9-31fd-bdd2-1f3225efd0f1": {
-        "uuid": "a807117d-dce9-31fd-bdd2-1f3225efd0f1",
-        "title": "Are The Walt Disney Company's (NYSE:DIS) Mixed Financials The Reason For Its Gloomy Performance on The Stock Market?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/walt-disney-companys-nyse-dis-115759740.html",
-        "providerPublishTime": 1653998279,
-        "type": "STORY"
-    },
-    "850c954b-df8a-3c27-bcc9-98b84fb8786e": {
-        "uuid": "850c954b-df8a-3c27-bcc9-98b84fb8786e",
-        "title": "Activist investor Nelson Peltz to join board of Unilever",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/850c954b-df8a-3c27-bcc9-98b84fb8786e/activist-investor-nelson.html",
-        "providerPublishTime": 1653996800,
-        "type": "STORY"
-    },
-    "65c9e6fc-0da4-3076-990d-efecbfef1c33": {
-        "uuid": "65c9e6fc-0da4-3076-990d-efecbfef1c33",
-        "title": "Better Buy: iShares MSCI EAFE Value ETF or Legg Mason International Low Volatility High Dividend ETF?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/65c9e6fc-0da4-3076-990d-efecbfef1c33/better-buy%3A-ishares-msci-eafe.html",
-        "providerPublishTime": 1653995160,
+        "providerPublishTime": 1654290264,
         "type": "STORY"
     },
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks To Buy And Watch: Covid Lockdowns Ease",
+        "title": "5 Best Chinese Stocks To Buy And Watch: China Covid Lockdowns End",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks-to-buy.html",
-        "providerPublishTime": 1653994554,
+        "providerPublishTime": 1654289394,
         "type": "STORY"
     },
-    "1dbe18d2-9f9d-3ed0-b448-74f240196dd0": {
-        "uuid": "1dbe18d2-9f9d-3ed0-b448-74f240196dd0",
-        "title": "Do Institutions Own Unilever PLC (LON:ULVR) Shares?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/institutions-own-unilever-plc-lon-105146502.html",
-        "providerPublishTime": 1653994306,
+    "69c71b16-df29-3ab9-a45e-39b9c0cf8aa0": {
+        "uuid": "69c71b16-df29-3ab9-a45e-39b9c0cf8aa0",
+        "title": "FDA flags risk of myocarditis in Novavax COVID vaccine",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/fda-flags-risk-myocarditis-novavax-204943001.html",
+        "providerPublishTime": 1654289383,
+        "type": "VIDEO"
+    },
+    "adf2d72b-8c04-3ee5-a636-084542f4b587": {
+        "uuid": "adf2d72b-8c04-3ee5-a636-084542f4b587",
+        "title": "Oil Stocks: Crude Jumps Back Above $120 As Drilling Activity Flattens",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/adf2d72b-8c04-3ee5-a636-084542f4b587/oil-stocks%3A-crude-jumps-back.html",
+        "providerPublishTime": 1654288621,
         "type": "STORY"
     },
-    "28f1c2d2-fce3-3a95-a407-1abebc67b0eb": {
-        "uuid": "28f1c2d2-fce3-3a95-a407-1abebc67b0eb",
-        "title": "These Investors Say Nasdaq\u2019s Bear Market Has Legs",
+    "8104cc34-e425-374c-ade5-5dedaf0bdd76": {
+        "uuid": "8104cc34-e425-374c-ade5-5dedaf0bdd76",
+        "title": "US STOCKS-Wall St ends down with strong jobs data keeping the pressure on for rate hikes",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/us-stocks-wall-st-ends-203612208.html",
+        "providerPublishTime": 1654288572,
+        "type": "STORY"
+    },
+    "fd738a4a-d724-32c9-b810-f9a67eb06bcc": {
+        "uuid": "fd738a4a-d724-32c9-b810-f9a67eb06bcc",
+        "title": "Activision Retaliated Against Workers, Union\u2019s Complaint Claims",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/investors-nasdaq-bear-market-legs-101440519.html",
-        "providerPublishTime": 1653992080,
+        "link": "https://finance.yahoo.com/news/activision-retaliated-against-workers-union-203534632.html",
+        "providerPublishTime": 1654288534,
         "type": "STORY"
     },
-    "81455ad5-12d3-392a-b381-ab2d6881d1c1": {
-        "uuid": "81455ad5-12d3-392a-b381-ab2d6881d1c1",
-        "title": "Templeton Global Income Fund Announces Leading Independent Proxy Advisory Firms ISS and Glass Lewis Both Fully Support Templeton Global Income Fund\u2019s Nominees",
+    "9bb2d65b-c027-32ad-86eb-0fefd9be8e25": {
+        "uuid": "9bb2d65b-c027-32ad-86eb-0fefd9be8e25",
+        "title": "The market sell-off \u2018could be coming towards an end\u2019: Strategist",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-sell-off-could-coming-203120197.html",
+        "providerPublishTime": 1654288280,
+        "type": "VIDEO"
+    },
+    "0baff486-e431-30ff-a963-76797309093c": {
+        "uuid": "0baff486-e431-30ff-a963-76797309093c",
+        "title": "Stocks end the week in the red, energy stocks among market leaders",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-end-week-red-energy-202506226.html",
+        "providerPublishTime": 1654287906,
+        "type": "VIDEO"
+    },
+    "3dad1e11-5120-4d6c-b103-8926b9921f74": {
+        "uuid": "3dad1e11-5120-4d6c-b103-8926b9921f74",
+        "title": "Tesla, Apple, Microsoft, Peloton: All of tech companies hitting the brakes on hiring",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/tesla-apple-microsoft-peloton-all-of-tech-companies-hitting-the-brakes-on-hiring-202428628.html",
+        "providerPublishTime": 1654287868,
+        "type": "STORY"
+    },
+    "40832cbe-7122-3071-bcc0-feb0c15ac215": {
+        "uuid": "40832cbe-7122-3071-bcc0-feb0c15ac215",
+        "title": "Microsoft\u2019s Dollar Alarm Raises New Worry for Software Stocks",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/microsoft-dollar-alarm-raises-worry-190005611.html",
+        "providerPublishTime": 1654287300,
+        "type": "STORY"
+    },
+    "a46c308c-4c71-3f0e-ac9f-168dd196f916": {
+        "uuid": "a46c308c-4c71-3f0e-ac9f-168dd196f916",
+        "title": "Novavax Plunges on \u2018Harsh\u2019 FDA Review Ahead of Tuesday Panel",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/novavax-plunges-harsh-fda-review-181223352.html",
+        "providerPublishTime": 1654287175,
+        "type": "STORY"
+    },
+    "b476952d-712d-30d4-9e0b-d889ed2229b1": {
+        "uuid": "b476952d-712d-30d4-9e0b-d889ed2229b1",
+        "title": "Novavax Crashes After FDA Suggests Its Covid Vaccine Causes Heart Inflammation",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/b476952d-712d-30d4-9e0b-d889ed2229b1/novavax-crashes-after-fda.html",
+        "providerPublishTime": 1654287156,
+        "type": "STORY"
+    },
+    "ef484900-a96c-3fd8-9696-2fc154fee99c": {
+        "uuid": "ef484900-a96c-3fd8-9696-2fc154fee99c",
+        "title": "Disney Has a New Star Wars Experience and It's Free (For Now)",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/ef484900-a96c-3fd8-9696-2fc154fee99c/disney-has-a-new-star-wars.html",
+        "providerPublishTime": 1654286940,
+        "type": "STORY"
+    },
+    "a8520e99-3a22-3ccb-b36e-f84bcdd066bf": {
+        "uuid": "a8520e99-3a22-3ccb-b36e-f84bcdd066bf",
+        "title": "Oil, Defense Hang Tough In Rough Stock Market Today; These Tech Stocks Soar",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a8520e99-3a22-3ccb-b36e-f84bcdd066bf/oil%2C-defense-hang-tough-in.html",
+        "providerPublishTime": 1654286607,
+        "type": "STORY"
+    },
+    "53a0ed77-0153-49cd-b691-6c3707ff9325": {
+        "uuid": "53a0ed77-0153-49cd-b691-6c3707ff9325",
+        "title": "Stock market news live updates: Stocks drop after strong jobs data renews rate worries",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-june-3-2022-111552199.html",
+        "providerPublishTime": 1654286600,
+        "type": "STORY"
+    },
+    "c8797689-9416-346e-be50-29d85bd45db9": {
+        "uuid": "c8797689-9416-346e-be50-29d85bd45db9",
+        "title": "Yescarta\u00ae CAR T-cell Therapy Demonstrates Consistent Survival Outcomes and Safety in Real-World Setting Regardless of Race and Ethnicity",
         "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-announces-100000777.html",
-        "providerPublishTime": 1653991200,
+        "link": "https://finance.yahoo.com/news/yescarta-car-t-cell-therapy-200000543.html",
+        "providerPublishTime": 1654286400,
         "type": "STORY"
     },
-    "d2afd44c-641b-3b0a-9a68-3152e29e8cd5": {
-        "uuid": "d2afd44c-641b-3b0a-9a68-3152e29e8cd5",
-        "title": "Better COVID Stock: Pfizer vs. Moderna",
+    "5b5035fa-6c6e-3bcd-b09b-a9969b8b0b9f": {
+        "uuid": "5b5035fa-6c6e-3bcd-b09b-a9969b8b0b9f",
+        "title": "Gas prices nationwide hit another record high",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/gas-prices-nationwide-hit-another-195305583.html",
+        "providerPublishTime": 1654285985,
+        "type": "VIDEO"
+    },
+    "b489fff5-4c7b-377d-a9f0-d02550d2e719": {
+        "uuid": "b489fff5-4c7b-377d-a9f0-d02550d2e719",
+        "title": "Block (SQ) to Attract Sellers Via Apple's Tap to Pay on iPhone",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/block-sq-attract-sellers-via-193507711.html",
+        "providerPublishTime": 1654284907,
+        "type": "STORY"
+    },
+    "fb2d7124-4eaf-32ac-b12a-0a79a9b0a9d0": {
+        "uuid": "fb2d7124-4eaf-32ac-b12a-0a79a9b0a9d0",
+        "title": "Novavax\u2019s stock plummets as FDA raises concern about Covid vaccine safety",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/fb2d7124-4eaf-32ac-b12a-0a79a9b0a9d0/novavax%E2%80%99s-stock-plummets-as.html",
+        "providerPublishTime": 1654284415,
+        "type": "STORY"
+    },
+    "840a0932-371c-3002-aa81-a01e40815d72": {
+        "uuid": "840a0932-371c-3002-aa81-a01e40815d72",
+        "title": "Oil Sets Sixth Weekly Gain as Tight Markets Concerns Continue",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/oil-rises-traders-weigh-modest-223833945.html",
+        "providerPublishTime": 1654284357,
+        "type": "STORY"
+    },
+    "b35d4229-4582-3895-8956-88795c362c91": {
+        "uuid": "b35d4229-4582-3895-8956-88795c362c91",
+        "title": "10 Value Stocks to Buy in 2022 According to Ken Fisher",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-value-stocks-buy-2022-192314323.html",
+        "providerPublishTime": 1654284194,
+        "type": "STORY"
+    },
+    "19d8132f-8160-38df-a8bd-c9982de6cac1": {
+        "uuid": "19d8132f-8160-38df-a8bd-c9982de6cac1",
+        "title": "A Beloved Disney Ride Is Getting an Overhaul",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/19d8132f-8160-38df-a8bd-c9982de6cac1/a-beloved-disney-ride-is.html",
+        "providerPublishTime": 1654284120,
+        "type": "STORY"
+    },
+    "2049b18e-e905-35ab-8961-b4738b9f8f71": {
+        "uuid": "2049b18e-e905-35ab-8961-b4738b9f8f71",
+        "title": "Why Nvidia, Amazon, and Apple Stocks Slumped Friday",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d2afd44c-641b-3b0a-9a68-3152e29e8cd5/better-covid-stock%3A-pfizer.html",
-        "providerPublishTime": 1653991200,
+        "link": "https://finance.yahoo.com/m/2049b18e-e905-35ab-8961-b4738b9f8f71/why-nvidia%2C-amazon%2C-and-apple.html",
+        "providerPublishTime": 1654283758,
+        "type": "STORY"
+    },
+    "9ad0d69c-cf20-3e12-8fda-9f9081a072e7": {
+        "uuid": "9ad0d69c-cf20-3e12-8fda-9f9081a072e7",
+        "title": "A Week Of Turmoil For Oil Markets",
+        "publisher": "Oilprice.com",
+        "link": "https://finance.yahoo.com/news/week-turmoil-oil-markets-190000980.html",
+        "providerPublishTime": 1654282800,
+        "type": "STORY"
+    },
+    "e900ad95-9c57-3005-950b-112ad7382cca": {
+        "uuid": "e900ad95-9c57-3005-950b-112ad7382cca",
+        "title": "DeSantis Defends Vetoing Funds for Tampa Bay Rays\u00a0After Team\u2019s Gun Safety Tweets",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/desantis-defends-veto-rays-training-184746135.html",
+        "providerPublishTime": 1654282066,
+        "type": "STORY"
+    },
+    "5f792fd6-9fbb-311b-a64d-997b6a26fa67": {
+        "uuid": "5f792fd6-9fbb-311b-a64d-997b6a26fa67",
+        "title": "Column: Florida's DeSantis launches new attack on his state's transgender citizens",
+        "publisher": "LA Times",
+        "link": "https://finance.yahoo.com/news/column-floridas-desantis-launches-attack-184340329.html",
+        "providerPublishTime": 1654281820,
+        "type": "STORY"
+    },
+    "c43fc82d-c083-364a-91ca-e3cb19dd2ae5": {
+        "uuid": "c43fc82d-c083-364a-91ca-e3cb19dd2ae5",
+        "title": "Read Needham's Take On Disney in Brief",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/read-needhams-disney-brief-182510014.html",
+        "providerPublishTime": 1654280710,
+        "type": "STORY"
+    },
+    "3ba53290-ecd7-379c-ad88-ff18dee5f207": {
+        "uuid": "3ba53290-ecd7-379c-ad88-ff18dee5f207",
+        "title": "Middle East Oil Producers Move Into Bitcoin Mining With Crusoe Energy Stakes",
+        "publisher": "CoinDesk",
+        "link": "https://finance.yahoo.com/news/middle-east-oil-producers-move-173111529.html",
+        "providerPublishTime": 1654278603,
+        "type": "STORY"
+    },
+    "b2fba87b-2936-365e-b9c3-9369dbbbc47b": {
+        "uuid": "b2fba87b-2936-365e-b9c3-9369dbbbc47b",
+        "title": "Microsoft breaks with Amazon and Starbucks on unions in vow to voluntarily recognize labor: \u2018We have a lot to learn\u2019",
+        "publisher": "Fortune",
+        "link": "https://finance.yahoo.com/news/microsoft-breaks-amazon-starbucks-unions-174614050.html",
+        "providerPublishTime": 1654278374,
+        "type": "STORY"
+    },
+    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
+        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
+        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
+        "providerPublishTime": 1654277955,
+        "type": "STORY"
+    },
+    "fc6e3c6a-5d56-3c92-83f7-81c004783be4": {
+        "uuid": "fc6e3c6a-5d56-3c92-83f7-81c004783be4",
+        "title": "Here's How Analysts Reacted To Microsoft's Outlook Revision",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/heres-analysts-reacted-microsofts-outlook-172550617.html",
+        "providerPublishTime": 1654277150,
+        "type": "STORY"
+    },
+    "bef1a863-d9a2-38ad-8f73-d51941419327": {
+        "uuid": "bef1a863-d9a2-38ad-8f73-d51941419327",
+        "title": "Verizon Business boosts product and marketing groups\u00a0with two new leadership appointments",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-business-boosts-product-marketing-170000448.html",
+        "providerPublishTime": 1654275600,
+        "type": "STORY"
+    },
+    "3483b764-2b44-37ad-bdef-66b9a54121c2": {
+        "uuid": "3483b764-2b44-37ad-bdef-66b9a54121c2",
+        "title": "Analyst Report: AbbVie Inc.",
+        "publisher": "Morningstar Research",
+        "link": "https://finance.yahoo.com/m/3483b764-2b44-37ad-bdef-66b9a54121c2/analyst-report%3A-abbvie-inc..html",
+        "providerPublishTime": 1654275254,
+        "type": "STORY"
+    },
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Stock Picks Shift To Energy Stocks; Top Pick Tesla Takes A Hit",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stock.html",
+        "providerPublishTime": 1654274607,
+        "type": "STORY"
+    },
+    "65b53896-faf4-3a06-9d0d-a63cf3c83192": {
+        "uuid": "65b53896-faf4-3a06-9d0d-a63cf3c83192",
+        "title": "5 Dow Jones Stocks To Buy And Watch In June: Apple Sells Off",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/65b53896-faf4-3a06-9d0d-a63cf3c83192/5-dow-jones-stocks-to-buy-and.html",
+        "providerPublishTime": 1654274553,
+        "type": "STORY"
+    },
+    "9eacb7a1-d62b-35e1-a064-f8184782e32c": {
+        "uuid": "9eacb7a1-d62b-35e1-a064-f8184782e32c",
+        "title": "Why AT&T Rose 11% Last Month",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/9eacb7a1-d62b-35e1-a064-f8184782e32c/why-at%26t-rose-11%25-last-month.html",
+        "providerPublishTime": 1654272628,
+        "type": "STORY"
+    },
+    "7b4bee55-8971-3e11-8f5c-603785a6d84e": {
+        "uuid": "7b4bee55-8971-3e11-8f5c-603785a6d84e",
+        "title": "UPDATE: Novavax's stock slides 23% after FDA details myocarditis cases for COVID-19 vaccine candidate",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/7b4bee55-8971-3e11-8f5c-603785a6d84e/update%3A-novavax%27s-stock.html",
+        "providerPublishTime": 1654271899,
+        "type": "STORY"
+    },
+    "3bb8909d-278f-307f-a51b-1c061771bdfa": {
+        "uuid": "3bb8909d-278f-307f-a51b-1c061771bdfa",
+        "title": "Why Nio Shares Are Sinking Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3bb8909d-278f-307f-a51b-1c061771bdfa/why-nio-shares-are-sinking.html",
+        "providerPublishTime": 1654271280,
+        "type": "STORY"
+    },
+    "fd7e2f8d-1006-373b-9f7c-ae2009be77cb": {
+        "uuid": "fd7e2f8d-1006-373b-9f7c-ae2009be77cb",
+        "title": "3 Reasons to Buy This Blue-Chip Stock",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/fd7e2f8d-1006-373b-9f7c-ae2009be77cb/3-reasons-to-buy-this.html",
+        "providerPublishTime": 1654271100,
+        "type": "STORY"
+    },
+    "d9ee6375-ebcb-3e16-a4b7-f269617af53d": {
+        "uuid": "d9ee6375-ebcb-3e16-a4b7-f269617af53d",
+        "title": "Natural Gas: Abundant, Versatile and Affordable",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/natural-gas-abundant-versatile-affordable-153108329.html",
+        "providerPublishTime": 1654270268,
+        "type": "STORY"
+    },
+    "09ed6e47-b342-3048-a34e-a96d07e8bdf1": {
+        "uuid": "09ed6e47-b342-3048-a34e-a96d07e8bdf1",
+        "title": "Why Is Sarepta Therapeutics (SRPT) Up 1.2% Since Last Earnings Report?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-sarepta-therapeutics-srpt-1-153103381.html",
+        "providerPublishTime": 1654270263,
+        "type": "STORY"
+    },
+    "128c0ee0-e3ef-37ce-8514-502a1f5c4098": {
+        "uuid": "128c0ee0-e3ef-37ce-8514-502a1f5c4098",
+        "title": "Why Is Cheniere Energy Partners, LP (CQP) Down 3% Since Last Earnings Report?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-cheniere-energy-partners-lp-153103347.html",
+        "providerPublishTime": 1654270263,
+        "type": "STORY"
+    },
+    "e8bae5be-fb10-38bf-aaed-c94937583cdb": {
+        "uuid": "e8bae5be-fb10-38bf-aaed-c94937583cdb",
+        "title": "Novavax Covid-19 Vaccine Linked to Heart Inflammation, FDA Says. The Stock Is Sliding.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/e8bae5be-fb10-38bf-aaed-c94937583cdb/novavax-covid-19-vaccine.html",
+        "providerPublishTime": 1654269960,
+        "type": "STORY"
+    },
+    "ffab910f-e72f-3603-8b19-a1850c87ffff": {
+        "uuid": "ffab910f-e72f-3603-8b19-a1850c87ffff",
+        "title": "4 Metrics Proving Roku's Ready for a Bull Run",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ffab910f-e72f-3603-8b19-a1850c87ffff/4-metrics-proving-roku%27s.html",
+        "providerPublishTime": 1654269780,
+        "type": "STORY"
+    },
+    "a6e314e4-3bf9-3948-9ba2-f4cab29af867": {
+        "uuid": "a6e314e4-3bf9-3948-9ba2-f4cab29af867",
+        "title": "Why Novavax Stock Is Plunging Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/a6e314e4-3bf9-3948-9ba2-f4cab29af867/why-novavax-stock-is-plunging.html",
+        "providerPublishTime": 1654269536,
+        "type": "STORY"
+    },
+    "029dce6f-3111-3290-98f4-5e53f3f4c2d4": {
+        "uuid": "029dce6f-3111-3290-98f4-5e53f3f4c2d4",
+        "title": "Loss-Making NIO Inc. (NYSE:NIO) Expected To Breakeven In The Medium-Term",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/loss-making-nio-inc-nyse-145208318.html",
+        "providerPublishTime": 1654267928,
+        "type": "STORY"
+    },
+    "35953609-19ac-3a8a-a81b-2db84423437d": {
+        "uuid": "35953609-19ac-3a8a-a81b-2db84423437d",
+        "title": "Best Momentum Stocks to Buy for June 3rd",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/best-momentum-stocks-buy-june-140002409.html",
+        "providerPublishTime": 1654264802,
+        "type": "STORY"
+    },
+    "7b4b4069-1caf-373a-9f26-c54cbebf26e2": {
+        "uuid": "7b4b4069-1caf-373a-9f26-c54cbebf26e2",
+        "title": "Pfizer (PFE) Leads as US Plans Kids' COVID Vaccination in June",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pfizer-pfe-leads-us-plans-135701280.html",
+        "providerPublishTime": 1654264621,
+        "type": "STORY"
+    },
+    "51fa2c15-5068-33bb-a777-7e5a28a76b7a": {
+        "uuid": "51fa2c15-5068-33bb-a777-7e5a28a76b7a",
+        "title": "Michael Elliott Named to 2022 Empower Advocate Executive Role Model List.",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/michael-elliott-named-2022-empower-135608947.html",
+        "providerPublishTime": 1654264568,
+        "type": "STORY"
+    },
+    "e4c6950e-53cf-3296-bee1-c91e80dc8e27": {
+        "uuid": "e4c6950e-53cf-3296-bee1-c91e80dc8e27",
+        "title": "Why Nio Shares Jumped Double Digits This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e4c6950e-53cf-3296-bee1-c91e80dc8e27/why-nio-shares-jumped-double.html",
+        "providerPublishTime": 1654263766,
+        "type": "STORY"
+    },
+    "c338e4bc-2984-3074-8c43-b0b2545d1ad2": {
+        "uuid": "c338e4bc-2984-3074-8c43-b0b2545d1ad2",
+        "title": "Inflation Won't Be a Problem for This Energy Giant",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c338e4bc-2984-3074-8c43-b0b2545d1ad2/inflation-won%27t-be-a-problem.html",
+        "providerPublishTime": 1654263480,
+        "type": "STORY"
+    },
+    "85ebdff4-76c2-3098-be46-cf413350e427": {
+        "uuid": "85ebdff4-76c2-3098-be46-cf413350e427",
+        "title": "Turning Point Stock Doubles After Bristol Myers Announces Takeover. What It Means for Biotech M&A.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/85ebdff4-76c2-3098-be46-cf413350e427/turning-point-stock-doubles.html",
+        "providerPublishTime": 1654263240,
+        "type": "STORY"
+    },
+    "7596fe7e-5467-390c-a108-079cb3b8b12c": {
+        "uuid": "7596fe7e-5467-390c-a108-079cb3b8b12c",
+        "title": "Separating Signal From Noise in the Metaverse",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7596fe7e-5467-390c-a108-079cb3b8b12c/separating-signal-from-noise.html",
+        "providerPublishTime": 1654263000,
+        "type": "STORY"
+    },
+    "391797fd-8c6f-3320-ac1d-04c858955234": {
+        "uuid": "391797fd-8c6f-3320-ac1d-04c858955234",
+        "title": "Disney Brings Apple Gaming Expert On Board To Shape Its Metaverse Dreams",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/disney-brings-apple-gaming-expert-132602232.html",
+        "providerPublishTime": 1654262762,
+        "type": "STORY"
+    },
+    "38ca36a9-4d2d-3d9c-b15a-043dc19b9d82": {
+        "uuid": "38ca36a9-4d2d-3d9c-b15a-043dc19b9d82",
+        "title": "10 Stocks to Buy According to John Rogers\u2019 Ariel Investments",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-buy-according-john-130255922.html",
+        "providerPublishTime": 1654261375,
+        "type": "STORY"
+    },
+    "58a7cb52-47a7-326e-8122-c750fc458ab4": {
+        "uuid": "58a7cb52-47a7-326e-8122-c750fc458ab4",
+        "title": "AbbVie Inc. (ABBV) Is a Trending Stock: Facts to Know Before Betting on It",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-inc-abbv-trending-stock-130001232.html",
+        "providerPublishTime": 1654261201,
+        "type": "STORY"
+    },
+    "75a6e0ca-4708-3c54-9f14-63ddda323f8d": {
+        "uuid": "75a6e0ca-4708-3c54-9f14-63ddda323f8d",
+        "title": "Verizon Frontline honored as EMS FDNY Help Fund\u2019s \u2018Partner of the Year\u2019",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-frontline-honored-ems-fdny-130000913.html",
+        "providerPublishTime": 1654261200,
+        "type": "STORY"
+    },
+    "de2512dd-fc33-3288-9296-64f1c20c6679": {
+        "uuid": "de2512dd-fc33-3288-9296-64f1c20c6679",
+        "title": "UPDATE 1-U.S. FDA staff says Novavax vaccine lowers COVID risk",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-u-fda-staff-says-125219179.html",
+        "providerPublishTime": 1654260739,
+        "type": "STORY"
+    },
+    "827a6015-5cc9-3214-83db-2af92fc440fd": {
+        "uuid": "827a6015-5cc9-3214-83db-2af92fc440fd",
+        "title": "Here's Why DigitalOcean Stock Was Up 24% in May",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/827a6015-5cc9-3214-83db-2af92fc440fd/here%27s-why-digitalocean-stock.html",
+        "providerPublishTime": 1654260542,
+        "type": "STORY"
+    },
+    "bf29b3fe-31ec-320e-84b6-81bb807b04ea": {
+        "uuid": "bf29b3fe-31ec-320e-84b6-81bb807b04ea",
+        "title": "Verizon is prepared for Florida hurricane threat \u2013 are you?",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-prepared-florida-hurricane-threat-123000202.html",
+        "providerPublishTime": 1654259400,
+        "type": "STORY"
+    },
+    "06af71b5-40cd-3ff5-8e5c-e5aa841c073c": {
+        "uuid": "06af71b5-40cd-3ff5-8e5c-e5aa841c073c",
+        "title": "Dow Jones Futures Fall: 'Super Bad' Elon Musk Warning Hits Tesla; Market Rally Awaits Jobs Report",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/06af71b5-40cd-3ff5-8e5c-e5aa841c073c/dow-jones-futures-fall%3A.html",
+        "providerPublishTime": 1654257980,
+        "type": "STORY"
+    },
+    "afe67693-c378-342f-83ed-48ea80078215": {
+        "uuid": "afe67693-c378-342f-83ed-48ea80078215",
+        "title": "J&J, AbbVie cancer drug significantly slows progression of rare lymphoma -study",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/j-j-abbvie-cancer-drug-120000043.html",
+        "providerPublishTime": 1654257600,
+        "type": "STORY"
+    },
+    "ca8d5817-2182-3313-a707-7f7798f5f64d": {
+        "uuid": "ca8d5817-2182-3313-a707-7f7798f5f64d",
+        "title": "Why Pfizer Needs a High-Growth Pipeline",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ca8d5817-2182-3313-a707-7f7798f5f64d/why-pfizer-needs-a.html",
+        "providerPublishTime": 1654257240,
+        "type": "STORY"
+    },
+    "556e1c3b-2a37-3b22-afb3-135f626d57c2": {
+        "uuid": "556e1c3b-2a37-3b22-afb3-135f626d57c2",
+        "title": "3 Growth Stocks to Buy In a Bear Market",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/556e1c3b-2a37-3b22-afb3-135f626d57c2/3-growth-stocks-to-buy-in-a.html",
+        "providerPublishTime": 1654255200,
+        "type": "STORY"
+    },
+    "224f71e1-eccf-3ab3-9e10-e51a2fff35d1": {
+        "uuid": "224f71e1-eccf-3ab3-9e10-e51a2fff35d1",
+        "title": "New Strong Buy Stocks for June 3rd",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/strong-buy-stocks-june-3rd-102510818.html",
+        "providerPublishTime": 1654251910,
+        "type": "STORY"
+    },
+    "aa1f93e5-855c-3008-8994-c296293b2bcc": {
+        "uuid": "aa1f93e5-855c-3008-8994-c296293b2bcc",
+        "title": "New Strong Sell Stocks for June 3rd",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/strong-sell-stocks-june-3rd-101210703.html",
+        "providerPublishTime": 1654251130,
+        "type": "STORY"
+    },
+    "5b7f5b3e-f13a-3d94-9484-48d1eb4326fe": {
+        "uuid": "5b7f5b3e-f13a-3d94-9484-48d1eb4326fe",
+        "title": "Best Income Stocks to Buy for June 3rd",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/best-income-stocks-buy-june-092009484.html",
+        "providerPublishTime": 1654248009,
+        "type": "STORY"
+    },
+    "757992f1-ea04-3bd8-baf7-27a346a90263": {
+        "uuid": "757992f1-ea04-3bd8-baf7-27a346a90263",
+        "title": "Why Moderna and Pfizer Lagged the Market Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/757992f1-ea04-3bd8-baf7-27a346a90263/why-moderna-and-pfizer-lagged.html",
+        "providerPublishTime": 1654207535,
+        "type": "STORY"
+    },
+    "2ded0e4e-e8d9-38c0-856d-6c6e4036e824": {
+        "uuid": "2ded0e4e-e8d9-38c0-856d-6c6e4036e824",
+        "title": "Ares Capital (ARCC) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ares-capital-arcc-gains-lags-220010868.html",
+        "providerPublishTime": 1654207210,
+        "type": "STORY"
+    },
+    "fd60fa85-2d6c-3e23-b259-09f36f948122": {
+        "uuid": "fd60fa85-2d6c-3e23-b259-09f36f948122",
+        "title": "Pfizer (PFE) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pfizer-pfe-gains-lags-market-214509265.html",
+        "providerPublishTime": 1654206309,
+        "type": "STORY"
+    },
+    "20802aa0-23df-3cae-aeb5-198ba390f0c5": {
+        "uuid": "20802aa0-23df-3cae-aeb5-198ba390f0c5",
+        "title": "China EV Sales: Nio Stock, Li Auto, Xpeng Rise; BYD Sales Again Top 100K Units",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/20802aa0-23df-3cae-aeb5-198ba390f0c5/china-ev-sales%3A-nio-stock%2C-li.html",
+        "providerPublishTime": 1654200325,
+        "type": "STORY"
+    },
+    "4c75096a-f679-319a-a080-8814a292f144": {
+        "uuid": "4c75096a-f679-319a-a080-8814a292f144",
+        "title": "George Talks Travel Tech: 5 Verizon accessories you need this summer vacation",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/george-talks-travel-tech-5-200000858.html",
+        "providerPublishTime": 1654200000,
+        "type": "STORY"
+    },
+    "5735ea3b-0fef-3671-a917-ed0f051025ad": {
+        "uuid": "5735ea3b-0fef-3671-a917-ed0f051025ad",
+        "title": "These Two Telecom Stocks are Buys, According to BofA",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/5735ea3b-0fef-3671-a917-ed0f051025ad/these-two-telecom-stocks-are.html",
+        "providerPublishTime": 1654199460,
+        "type": "STORY"
+    },
+    "37b16481-4c09-3c8e-9b39-34fd4a534c9f": {
+        "uuid": "37b16481-4c09-3c8e-9b39-34fd4a534c9f",
+        "title": "10 Oil Stocks to Watch on Thursday",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-oil-stocks-watch-thursday-194357677.html",
+        "providerPublishTime": 1654199037,
+        "type": "STORY"
+    },
+    "efce7f81-ae1f-3b98-a026-d7b364a33666": {
+        "uuid": "efce7f81-ae1f-3b98-a026-d7b364a33666",
+        "title": "Why Nio Stock Dropped Then Popped on Thursday",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/efce7f81-ae1f-3b98-a026-d7b364a33666/why-nio-stock-dropped-then.html",
+        "providerPublishTime": 1654189691,
+        "type": "STORY"
+    },
+    "5d388658-ad42-3458-ab13-7a8715fe839f": {
+        "uuid": "5d388658-ad42-3458-ab13-7a8715fe839f",
+        "title": "Fox (FOXA) Business Network Rated as Business News Leader",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/fox-foxa-business-network-rated-170205494.html",
+        "providerPublishTime": 1654189325,
+        "type": "STORY"
+    },
+    "66f72008-e29e-3997-b755-5bd3f2d6225c": {
+        "uuid": "66f72008-e29e-3997-b755-5bd3f2d6225c",
+        "title": "Why Is Franklin Resources (BEN) Down 0.9% Since Last Earnings Report?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-franklin-resources-ben-down-153103375.html",
+        "providerPublishTime": 1654183863,
+        "type": "STORY"
+    },
+    "31b02430-61b9-3edc-813a-9e6acc66b6fa": {
+        "uuid": "31b02430-61b9-3edc-813a-9e6acc66b6fa",
+        "title": "MPLX LP (MPLX) Down 2.6% Since Last Earnings Report: Can It Rebound?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/mplx-lp-mplx-down-2-153103545.html",
+        "providerPublishTime": 1654183863,
+        "type": "STORY"
+    },
+    "3654a081-ea47-33c3-bd9b-3e33f9afd3f2": {
+        "uuid": "3654a081-ea47-33c3-bd9b-3e33f9afd3f2",
+        "title": "One year after Responsible Marketing Action Plan, Verizon delivers meaningful DE&I results",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/one-responsible-marketing-action-plan-153000118.html",
+        "providerPublishTime": 1654183800,
+        "type": "STORY"
+    },
+    "182976cb-ac11-3777-9f92-2f495bb5ffcd": {
+        "uuid": "182976cb-ac11-3777-9f92-2f495bb5ffcd",
+        "title": "Zacks Investment Ideas feature highlights: Advanced Micro Devices, ON Semiconducto, and Taiwan Semiconductor Manufacturing",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-151603644.html",
+        "providerPublishTime": 1654182963,
+        "type": "STORY"
+    },
+    "eb74d14b-b684-3a23-ba53-6fc55a736171": {
+        "uuid": "eb74d14b-b684-3a23-ba53-6fc55a736171",
+        "title": "The Zacks Analyst Blog Highlights Stellantis, General Motors, NIO, GreenPower Motor, and Hyliion Holdings",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-stellantis-150303605.html",
+        "providerPublishTime": 1654182183,
+        "type": "STORY"
+    },
+    "544b6971-9bce-388b-b7fe-b1f074ce0908": {
+        "uuid": "544b6971-9bce-388b-b7fe-b1f074ce0908",
+        "title": "Hedge Funds are Buying These 10 Semiconductor Stocks in 2022",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/hedge-funds-buying-10-semiconductor-143904018.html",
+        "providerPublishTime": 1654180744,
+        "type": "STORY"
+    },
+    "fa772723-64c9-372e-a122-42b41d03627c": {
+        "uuid": "fa772723-64c9-372e-a122-42b41d03627c",
+        "title": "AT&T stock vs. the S&P 500: How the dividend-payer has performed year to date",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/t-stock-vs-p-500-141930670.html",
+        "providerPublishTime": 1654179570,
+        "type": "VIDEO"
+    },
+    "18f80fae-78b4-3571-874a-9de71de9c427": {
+        "uuid": "18f80fae-78b4-3571-874a-9de71de9c427",
+        "title": "GSK Receives Regulatory Nod for Consumer Healthcare Demerger",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/gsk-receives-regulatory-nod-consumer-131701575.html",
+        "providerPublishTime": 1654175821,
+        "type": "STORY"
+    },
+    "ee2a538c-4531-39c9-9027-9ff7a376c1dd": {
+        "uuid": "ee2a538c-4531-39c9-9027-9ff7a376c1dd",
+        "title": "Calculating The Fair Value Of Kinder Morgan, Inc. (NYSE:KMI)",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/calculating-fair-value-kinder-morgan-130659595.html",
+        "providerPublishTime": 1654175219,
+        "type": "STORY"
+    },
+    "c45ecd71-0595-3534-ba89-b13ccc05f5bc": {
+        "uuid": "c45ecd71-0595-3534-ba89-b13ccc05f5bc",
+        "title": "Gilead Sciences Appoints Stacey Ma, PhD as Executive Vice President, Pharmaceutical Development and Manufacturing",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/gilead-sciences-appoints-stacey-ma-130000325.html",
+        "providerPublishTime": 1654174800,
+        "type": "STORY"
+    },
+    "888c386f-ce86-3171-8745-8e6ba9266d07": {
+        "uuid": "888c386f-ce86-3171-8745-8e6ba9266d07",
+        "title": "Should You Scoop Up These 3 Stocks Yielding More Than 5% in Dividends?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/888c386f-ce86-3171-8745-8e6ba9266d07/should-you-scoop-up-these-3.html",
+        "providerPublishTime": 1654171800,
+        "type": "STORY"
+    },
+    "677ead65-52cc-3548-91ec-637721c3efee": {
+        "uuid": "677ead65-52cc-3548-91ec-637721c3efee",
+        "title": "3 Top Stocks You Can Still Buy for Under $20 a Share",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/677ead65-52cc-3548-91ec-637721c3efee/3-top-stocks-you-can-still.html",
+        "providerPublishTime": 1654171560,
+        "type": "STORY"
+    },
+    "a1b4e748-8afa-3fcb-ae5c-2e9202d87408": {
+        "uuid": "a1b4e748-8afa-3fcb-ae5c-2e9202d87408",
+        "title": "THE NECESSITY RETAIL REIT TO PRESENT AT NAREIT'S REITWEEK 2022",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-present-nareits-120000675.html",
+        "providerPublishTime": 1654171200,
+        "type": "STORY"
+    },
+    "8bbf07b0-6355-3cb4-bd17-9b5e8fb32d1c": {
+        "uuid": "8bbf07b0-6355-3cb4-bd17-9b5e8fb32d1c",
+        "title": "STORE Capital to Attend Nareit\u2019s REITweek 2022",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-attend-nareit-reitweek-104500267.html",
+        "providerPublishTime": 1654166700,
+        "type": "STORY"
+    },
+    "632b693c-a589-347b-9430-37ba4affddf0": {
+        "uuid": "632b693c-a589-347b-9430-37ba4affddf0",
+        "title": "UPDATE 2-Top-10 Unilever investor backs Peltz to bring urgency",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-top-10-unilever-investor-100801867.html",
+        "providerPublishTime": 1654164481,
+        "type": "STORY"
+    },
+    "a9ebd977-2df9-382f-9d14-7088acd132a7": {
+        "uuid": "a9ebd977-2df9-382f-9d14-7088acd132a7",
+        "title": "Nio, Li Auto and Xpeng deliveries rebound in May as Chinese smart EV makers recover from Covid lockdown setback",
+        "publisher": "South China Morning Post",
+        "link": "https://finance.yahoo.com/news/nio-li-auto-xpeng-deliveries-093000380.html",
+        "providerPublishTime": 1654162200,
+        "type": "STORY"
+    },
+    "9ddce4a0-ecbe-3e0b-bba9-2004e32a821e": {
+        "uuid": "9ddce4a0-ecbe-3e0b-bba9-2004e32a821e",
+        "title": "China EV startups say May sales up, post-lockdown output constrained",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/china-ev-startups-may-sales-022359664.html",
+        "providerPublishTime": 1654136639,
+        "type": "STORY"
+    },
+    "4af510e5-033d-3af8-98cd-0eacec9efda0": {
+        "uuid": "4af510e5-033d-3af8-98cd-0eacec9efda0",
+        "title": "Kinder Morgan (KMI) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-gains-market-214509171.html",
+        "providerPublishTime": 1654119909,
+        "type": "STORY"
+    },
+    "3cb26613-c858-331d-91ea-eaa3fad05a5b": {
+        "uuid": "3cb26613-c858-331d-91ea-eaa3fad05a5b",
+        "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214509949.html",
+        "providerPublishTime": 1654119909,
+        "type": "STORY"
+    },
+    "f3e2251a-7c26-3e9f-b74c-99f599b6c76a": {
+        "uuid": "f3e2251a-7c26-3e9f-b74c-99f599b6c76a",
+        "title": "Verizon Claps Back After T-Mobile's Callout",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/f3e2251a-7c26-3e9f-b74c-99f599b6c76a/verizon-claps-back-after.html",
+        "providerPublishTime": 1654116300,
+        "type": "STORY"
+    },
+    "c09da86f-86b5-3b8f-8bfa-c0878df0baf4": {
+        "uuid": "c09da86f-86b5-3b8f-8bfa-c0878df0baf4",
+        "title": "Federal Realty Releases 2021 Environmental, Social and Governance Report",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/federal-realty-releases-2021-environmental-203000526.html",
+        "providerPublishTime": 1654115400,
+        "type": "STORY"
+    },
+    "8118ca03-b588-3fb8-b990-fe5739b03a8e": {
+        "uuid": "8118ca03-b588-3fb8-b990-fe5739b03a8e",
+        "title": "3 Chip Stocks Perfect For Long-Term Investors",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/3-chip-stocks-perfect-long-193507472.html",
+        "providerPublishTime": 1654112107,
+        "type": "STORY"
+    },
+    "92eb46e1-09eb-3aee-8b1a-55ff4fc5f34e": {
+        "uuid": "92eb46e1-09eb-3aee-8b1a-55ff4fc5f34e",
+        "title": "Here's Why I Bought This Unloved High-Yield Stock",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/92eb46e1-09eb-3aee-8b1a-55ff4fc5f34e/here%27s-why-i-bought-this.html",
+        "providerPublishTime": 1654107099,
+        "type": "STORY"
+    },
+    "303bce63-0946-35e6-8a45-aeeb09dd6ad8": {
+        "uuid": "303bce63-0946-35e6-8a45-aeeb09dd6ad8",
+        "title": "AdvisorEngine\u00ae Unveils Upgraded Portfolio Management Suite",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/advisorengine-unveils-upgraded-portfolio-management-161500508.html",
+        "providerPublishTime": 1654100100,
+        "type": "STORY"
+    },
+    "86e42492-3d06-3e93-85f6-df2612bc8009": {
+        "uuid": "86e42492-3d06-3e93-85f6-df2612bc8009",
+        "title": "Things Are About to Get a Lot More Interesting at Unilever",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/86e42492-3d06-3e93-85f6-df2612bc8009/things-are-about-to-get-a-lot.html",
+        "providerPublishTime": 1654096980,
+        "type": "STORY"
+    },
+    "b03d7171-e8a4-3f43-a78f-268d397b2f8c": {
+        "uuid": "b03d7171-e8a4-3f43-a78f-268d397b2f8c",
+        "title": "1 Green Flag for AbbVie in 2022 and 1 Red Flag",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b03d7171-e8a4-3f43-a78f-268d397b2f8c/1-green-flag-for-abbvie-in.html",
+        "providerPublishTime": 1654096500,
+        "type": "STORY"
+    },
+    "1cd52835-eea4-3d84-a225-347c613130e8": {
+        "uuid": "1cd52835-eea4-3d84-a225-347c613130e8",
+        "title": "\u2018It is like watching a plane crash\u2019 \u2014 Michael Burry thinks the market has plenty of room to plunge. But he finally sees value in these 4 stocks",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/watching-plane-crash-michael-burry-144000460.html",
+        "providerPublishTime": 1654095360,
+        "type": "STORY"
+    },
+    "2ac74487-ad2a-3678-a415-7f5abf810b9a": {
+        "uuid": "2ac74487-ad2a-3678-a415-7f5abf810b9a",
+        "title": "AbbVie Presents Positive Results from Phase 3 SELECT-AXIS 2 Trials of Upadacitinib (RINVOQ\u00ae) in Patients with Axial Spondyloarthritis at EULAR 2022",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-presents-positive-results-phase-143500109.html",
+        "providerPublishTime": 1654094100,
+        "type": "STORY"
+    },
+    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
+        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
+        "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
+        "providerPublishTime": 1654093513,
+        "type": "STORY"
+    },
+    "a2bf095b-e969-37a4-b223-bb8f3503a2fb": {
+        "uuid": "a2bf095b-e969-37a4-b223-bb8f3503a2fb",
+        "title": "Franklin Resources (BEN) Agrees to Buy Alcentra From BNY Mellon",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/franklin-resources-ben-agrees-buy-132901914.html",
+        "providerPublishTime": 1654090141,
+        "type": "STORY"
+    },
+    "fc719b3d-117c-3550-a9ac-98d631ccd51f": {
+        "uuid": "fc719b3d-117c-3550-a9ac-98d631ccd51f",
+        "title": "10 Best Beauty Stocks To Buy Now",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-beauty-stocks-buy-132428025.html",
+        "providerPublishTime": 1654089868,
+        "type": "STORY"
+    },
+    "d159e91c-cbf9-3bf3-a6f5-f1670b9cb1a2": {
+        "uuid": "d159e91c-cbf9-3bf3-a6f5-f1670b9cb1a2",
+        "title": "10 Stocks to Buy According to GuardCap Asset Management",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-buy-according-guardcap-130258570.html",
+        "providerPublishTime": 1654088578,
+        "type": "STORY"
+    },
+    "fb4ecb11-71f8-312e-897d-640065664aa9": {
+        "uuid": "fb4ecb11-71f8-312e-897d-640065664aa9",
+        "title": "Franklin Templeton Partners with iCapital\u00ae to Offer Alternative Investments",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-partners-icapital-offer-130000244.html",
+        "providerPublishTime": 1654088400,
+        "type": "STORY"
+    },
+    "db58a5bd-1c3b-3fd4-9c17-eb00755dc6b3": {
+        "uuid": "db58a5bd-1c3b-3fd4-9c17-eb00755dc6b3",
+        "title": "4 Questions With Betty Chiang: Addressing Health Disparities in the Asian Community",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/4-questions-betty-chiang-addressing-124713789.html",
+        "providerPublishTime": 1654087633,
+        "type": "STORY"
+    },
+    "e396f80a-c8d2-3e46-80f2-b8503127e030": {
+        "uuid": "e396f80a-c8d2-3e46-80f2-b8503127e030",
+        "title": "2 Under-the-Radar Growth Opportunities Energy Transfer Investors Won't Want to Overlook",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e396f80a-c8d2-3e46-80f2-b8503127e030/2-under-the-radar-growth.html",
+        "providerPublishTime": 1654086600,
+        "type": "STORY"
+    },
+    "ef6f09b7-3df2-3d9e-8438-3f87759f2bb1": {
+        "uuid": "ef6f09b7-3df2-3d9e-8438-3f87759f2bb1",
+        "title": "Dow Jones Futures Rise After Market Rally Holds Key Levels, Salesforce Jumps; Don't Fall For This Trap",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/ef6f09b7-3df2-3d9e-8438-3f87759f2bb1/dow-jones-futures-rise-after.html",
+        "providerPublishTime": 1654085906,
+        "type": "STORY"
+    },
+    "f791e9f6-1b66-37e2-9951-c827dfa2940a": {
+        "uuid": "f791e9f6-1b66-37e2-9951-c827dfa2940a",
+        "title": "3 Stocks to Take Advantage of the Increased Spending in Data Centers",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f791e9f6-1b66-37e2-9951-c827dfa2940a/3-stocks-to-take-advantage-of.html",
+        "providerPublishTime": 1654081200,
+        "type": "STORY"
+    },
+    "b576fb4f-dacc-3e5b-bff9-8f005f183760": {
+        "uuid": "b576fb4f-dacc-3e5b-bff9-8f005f183760",
+        "title": "XPeng stock gains after May deliveries jump 78%",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/b576fb4f-dacc-3e5b-bff9-8f005f183760/xpeng-stock-gains-after-may.html",
+        "providerPublishTime": 1654079425,
+        "type": "STORY"
+    },
+    "4fe0d19e-43f6-3188-9caa-3d697d740d6c": {
+        "uuid": "4fe0d19e-43f6-3188-9caa-3d697d740d6c",
+        "title": "My 3 Favorite Dividend Stocks to Buy in June",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4fe0d19e-43f6-3188-9caa-3d697d740d6c/my-3-favorite-dividend-stocks.html",
+        "providerPublishTime": 1654077120,
+        "type": "STORY"
+    },
+    "d74ed59e-1eba-31c7-81d6-67e0711e985b": {
+        "uuid": "d74ed59e-1eba-31c7-81d6-67e0711e985b",
+        "title": "Animal-Testing Calls Threaten to Derail \u2018Cruelty-Free\u2019 Cosmetics",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/d74ed59e-1eba-31c7-81d6-67e0711e985b/animal-testing-calls-threaten.html",
+        "providerPublishTime": 1654075800,
+        "type": "STORY"
+    },
+    "2873df4d-d10f-359e-94b0-b2cf32cbc2af": {
+        "uuid": "2873df4d-d10f-359e-94b0-b2cf32cbc2af",
+        "title": "VF, Best Buy, Walgreen, and 3M Join S&P 500 Stocks Yielding 4% or More",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/2873df4d-d10f-359e-94b0-b2cf32cbc2af/vf%2C-best-buy%2C-walgreen%2C-and.html",
+        "providerPublishTime": 1654066800,
+        "type": "STORY"
+    },
+    "016d9678-d8e3-3f89-bb52-5c5d46ce377e": {
+        "uuid": "016d9678-d8e3-3f89-bb52-5c5d46ce377e",
+        "title": "No contest: Peltz to bring energy to Unilever board",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/no-contest-peltz-bring-energy-050803413.html",
+        "providerPublishTime": 1654060083,
+        "type": "STORY"
+    },
+    "94fe102e-cd07-37b5-8b74-ccccb550e586": {
+        "uuid": "94fe102e-cd07-37b5-8b74-ccccb550e586",
+        "title": "FOCUS-No contest: Peltz to bring energy to Unilever board",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/focus-no-contest-peltz-bring-050000577.html",
+        "providerPublishTime": 1654059600,
+        "type": "STORY"
+    },
+    "5fc2b3ec-1159-3d72-8afa-132a22c28495": {
+        "uuid": "5fc2b3ec-1159-3d72-8afa-132a22c28495",
+        "title": "TSMC (TSM) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/tsmc-tsm-gains-market-dips-214509556.html",
+        "providerPublishTime": 1654033509,
+        "type": "STORY"
+    },
+    "7372cb36-095d-3f9a-9313-2052a8fe27e5": {
+        "uuid": "7372cb36-095d-3f9a-9313-2052a8fe27e5",
+        "title": "STORE Capital Sponsors Team of LPGA Tour Professionals",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-sponsors-team-lpga-202000371.html",
+        "providerPublishTime": 1654028400,
+        "type": "STORY"
+    },
+    "3d11addb-6b06-356d-9f50-e298519b5497": {
+        "uuid": "3d11addb-6b06-356d-9f50-e298519b5497",
+        "title": "Market check: Stocks turn lower, Treasury yields rise in choppy session",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-stocks-turn-lower-192417944.html",
+        "providerPublishTime": 1654025057,
+        "type": "VIDEO"
+    },
+    "6c1de2e5-99d0-30be-8578-670adecee6ef": {
+        "uuid": "6c1de2e5-99d0-30be-8578-670adecee6ef",
+        "title": "All You Need to Know About Energy Transfer LP (ET) Rating Upgrade to Strong Buy",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/know-energy-transfer-lp-et-160004280.html",
+        "providerPublishTime": 1654012804,
+        "type": "STORY"
+    },
+    "1e82e230-69a2-3288-8e13-147b1e8d403b": {
+        "uuid": "1e82e230-69a2-3288-8e13-147b1e8d403b",
+        "title": "Franklin Templeton Will Acquire Private Debt Manager Alcentra From BNY Mellon",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/1e82e230-69a2-3288-8e13-147b1e8d403b/franklin-templeton-will.html",
+        "providerPublishTime": 1654012620,
+        "type": "STORY"
+    },
+    "1e80dd75-cee7-3b0b-98ab-6f494d422583": {
+        "uuid": "1e80dd75-cee7-3b0b-98ab-6f494d422583",
+        "title": "China stocks enjoy big, broad rally as Shanghai moves toward lifting COVID lockdown measures",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/1e80dd75-cee7-3b0b-98ab-6f494d422583/china-stocks-enjoy-big%2C-broad.html",
+        "providerPublishTime": 1654012020,
+        "type": "STORY"
+    },
+    "70f84dcc-addc-3d8d-8021-73958a1e949b": {
+        "uuid": "70f84dcc-addc-3d8d-8021-73958a1e949b",
+        "title": "Franklin Templeton's Continues  Support for Black Colleges and Universities Founders Initiative",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templetons-continues-support-black-150213538.html",
+        "providerPublishTime": 1654009333,
+        "type": "STORY"
+    },
+    "9aae2ef3-29c7-3dc4-89c9-6c916fd59694": {
+        "uuid": "9aae2ef3-29c7-3dc4-89c9-6c916fd59694",
+        "title": "Franklin Templeton agrees deal for alternative credit specialist Alcentra",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/9aae2ef3-29c7-3dc4-89c9-6c916fd59694/franklin-templeton-agrees.html",
+        "providerPublishTime": 1654008591,
+        "type": "STORY"
+    },
+    "5d10bef9-0bfa-3170-8000-8cb1d24e50c3": {
+        "uuid": "5d10bef9-0bfa-3170-8000-8cb1d24e50c3",
+        "title": "7 Safe Dividend Stocks With High Yields to Buy Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-safe-dividend-stocks-high-144912036.html",
+        "providerPublishTime": 1654008552,
         "type": "STORY"
     },
     "f40740f9-9bce-34c6-9868-cb825c3ceaec": {
@@ -223,228 +1055,12 @@
         "providerPublishTime": 1653991200,
         "type": "STORY"
     },
-    "9a8054a8-c01f-303c-b821-678546bd0be9": {
-        "uuid": "9a8054a8-c01f-303c-b821-678546bd0be9",
-        "title": "New Strong Buy Stocks for May 31st",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/strong-buy-stocks-may-31st-095109486.html",
-        "providerPublishTime": 1653990669,
-        "type": "STORY"
-    },
-    "20cfb0ef-5707-314f-9a14-c95ad3f538a9": {
-        "uuid": "20cfb0ef-5707-314f-9a14-c95ad3f538a9",
-        "title": "3 Dividend Stocks That Are Good Enough for Warren Buffett",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/20cfb0ef-5707-314f-9a14-c95ad3f538a9/3-dividend-stocks-that-are.html",
-        "providerPublishTime": 1653990180,
-        "type": "STORY"
-    },
-    "55abcc08-9f72-3ab6-bec8-e58595936367": {
-        "uuid": "55abcc08-9f72-3ab6-bec8-e58595936367",
-        "title": "New Strong Sell Stocks for May 31st",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/strong-sell-stocks-may-31st-094209595.html",
-        "providerPublishTime": 1653990129,
-        "type": "STORY"
-    },
-    "5b991a6b-0392-3522-b244-86123fc59ce9": {
-        "uuid": "5b991a6b-0392-3522-b244-86123fc59ce9",
-        "title": "3 Stocks That Could Be Worth More Than Apple by 2040",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/5b991a6b-0392-3522-b244-86123fc59ce9/3-stocks-that-could-be-worth.html",
-        "providerPublishTime": 1653987960,
-        "type": "STORY"
-    },
-    "1fe1f3f5-72dc-38d9-b8f3-85d654be61c4": {
-        "uuid": "1fe1f3f5-72dc-38d9-b8f3-85d654be61c4",
-        "title": "Best Income Stocks to Buy for May 31st",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/best-income-stocks-buy-may-090109068.html",
-        "providerPublishTime": 1653987669,
-        "type": "STORY"
-    },
-    "258448da-c318-3dc8-b51b-e92cc0b79eee": {
-        "uuid": "258448da-c318-3dc8-b51b-e92cc0b79eee",
-        "title": "Tesla, VW Keep Shanghai Workers Isolated Even as Lockdown Eases",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/tesla-vw-keep-shanghai-workers-084630314.html",
-        "providerPublishTime": 1653986790,
-        "type": "STORY"
-    },
-    "8192aec6-f217-3094-bdb5-504d30467aa0": {
-        "uuid": "8192aec6-f217-3094-bdb5-504d30467aa0",
-        "title": "Tech Giants Accuse India Agency of Ignorance in Xiaomi Spat",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/tech-giants-accuse-india-agency-083927741.html",
-        "providerPublishTime": 1653986367,
-        "type": "STORY"
-    },
-    "39f73717-716f-30fa-afab-c649893fb462": {
-        "uuid": "39f73717-716f-30fa-afab-c649893fb462",
-        "title": "AMC Entertainment, Zoom, Unilever Rise Premarket; American Eagle Outfitters Falls",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/news/amc-entertainment-zoom-unilever-rise-074630578.html",
-        "providerPublishTime": 1653983190,
-        "type": "STORY"
-    },
-    "5c99dc60-da47-321b-a84a-8206fabbc543": {
-        "uuid": "5c99dc60-da47-321b-a84a-8206fabbc543",
-        "title": "Activist Investor Nelson Peltz Takes a Seat on Unilever\u2019s Board",
-        "publisher": "WWD",
-        "link": "https://finance.yahoo.com/m/5c99dc60-da47-321b-a84a-8206fabbc543/activist-investor-nelson.html",
-        "providerPublishTime": 1653983101,
-        "type": "STORY"
-    },
-    "70a780a7-8532-390d-9b45-59b76caa4626": {
-        "uuid": "70a780a7-8532-390d-9b45-59b76caa4626",
-        "title": "Unilever Appoints Activist Investor Nelson Peltz as Nonexecutive Director",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/70a780a7-8532-390d-9b45-59b76caa4626/unilever-appoints-activist.html",
-        "providerPublishTime": 1653980580,
-        "type": "STORY"
-    },
-    "d95cc86c-24d5-3800-bcb7-06c751691df3": {
-        "uuid": "d95cc86c-24d5-3800-bcb7-06c751691df3",
-        "title": "Biden-Powell Meeting, EU Russian Oil Ban, Eurozone CPI - What's Moving Markets",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/news/biden-powell-meeting-eu-russian-062658079.html",
-        "providerPublishTime": 1653978418,
-        "type": "STORY"
-    },
-    "77bf033c-bbcd-35ba-a1f1-6e3cfaba108e": {
-        "uuid": "77bf033c-bbcd-35ba-a1f1-6e3cfaba108e",
-        "title": "Shanghai Takes Biggest Steps Toward Reopening in Two Months",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/shanghai-takes-biggest-steps-toward-000620040.html",
-        "providerPublishTime": 1653964697,
-        "type": "STORY"
-    },
-    "a2c3bf93-c5fc-3e1c-852e-6b08c12ad74a": {
-        "uuid": "a2c3bf93-c5fc-3e1c-852e-6b08c12ad74a",
-        "title": "China Is Leading the Global Decline in Venture Capital Deals",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/china-leading-global-decline-venture-230000428.html",
-        "providerPublishTime": 1653951600,
-        "type": "STORY"
-    },
-    "66bbd13f-b5ed-3a9a-92bd-255bb84c197b": {
-        "uuid": "66bbd13f-b5ed-3a9a-92bd-255bb84c197b",
-        "title": "10 Stocks Billionaire Dan Loeb is Selling in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-billionaire-dan-loeb-200119424.html",
-        "providerPublishTime": 1653940879,
-        "type": "STORY"
-    },
-    "69f4632f-d273-3974-95d2-18cff8f5ef21": {
-        "uuid": "69f4632f-d273-3974-95d2-18cff8f5ef21",
-        "title": "Microsoft Joins the Tech Sector Hiring Slowdown",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/69f4632f-d273-3974-95d2-18cff8f5ef21/microsoft-joins-the-tech.html",
-        "providerPublishTime": 1653936540,
-        "type": "STORY"
-    },
-    "0ff4aa24-24fe-320c-b9cc-4ea125b4f451": {
-        "uuid": "0ff4aa24-24fe-320c-b9cc-4ea125b4f451",
-        "title": "We Like Microsoft's (NASDAQ:MSFT) Returns And Here's How They're Trending",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/microsofts-nasdaq-msft-returns-heres-175702280.html",
-        "providerPublishTime": 1653933422,
-        "type": "STORY"
-    },
-    "ce8ec53a-8b68-39f6-9e36-847fa7dbd1be": {
-        "uuid": "ce8ec53a-8b68-39f6-9e36-847fa7dbd1be",
-        "title": "MongoDB (MDB) to Report Q1 Earnings: What's in the Offing?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/mongodb-mdb-report-q1-earnings-142602354.html",
-        "providerPublishTime": 1653920762,
-        "type": "STORY"
-    },
-    "9b530afd-4fbd-3d38-bf9d-5e458aac4a9f": {
-        "uuid": "9b530afd-4fbd-3d38-bf9d-5e458aac4a9f",
-        "title": "Hedge Funds Love These 10 Value Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/hedge-funds-love-10-value-142024881.html",
-        "providerPublishTime": 1653920424,
-        "type": "STORY"
-    },
-    "6796cf46-272a-3dc5-a752-f404205ac7bf": {
-        "uuid": "6796cf46-272a-3dc5-a752-f404205ac7bf",
-        "title": "10 Cheap Value Stocks Hedge Funds are Buying in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-cheap-value-stocks-hedge-134256040.html",
-        "providerPublishTime": 1653918176,
-        "type": "STORY"
-    },
-    "e6530c2e-71a4-478f-88cf-6eee0c7234e6": {
-        "uuid": "e6530c2e-71a4-478f-88cf-6eee0c7234e6",
-        "title": "What Tesla CEO Elon Musk gets wrong about ESG, according to Dave Nadig",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/tesla-ceo-elon-musk-wrong-about-esg-133447951.html",
-        "providerPublishTime": 1653917687,
-        "type": "STORY"
-    },
-    "015fb8ac-b273-3841-9ae9-937c0045e43d": {
-        "uuid": "015fb8ac-b273-3841-9ae9-937c0045e43d",
-        "title": "10 Best Healthcare Stocks to Buy in 2022 According to Hedge Funds",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-healthcare-stocks-buy-132522047.html",
-        "providerPublishTime": 1653917122,
-        "type": "STORY"
-    },
-    "31ce5836-b323-3c44-af28-f005e4748ed3": {
-        "uuid": "31ce5836-b323-3c44-af28-f005e4748ed3",
-        "title": "10 Stocks to Sell According to Jinghua Yan\u2019s TwinBeech Capital",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-sell-according-jinghua-132014902.html",
-        "providerPublishTime": 1653916814,
-        "type": "STORY"
-    },
-    "635a7a5a-b671-368d-a83c-9cba8ee92b90": {
-        "uuid": "635a7a5a-b671-368d-a83c-9cba8ee92b90",
-        "title": "The Walt Disney Company (DIS) Is a Trending Stock: Facts to Know Before Betting on It",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/walt-disney-company-dis-trending-130001963.html",
-        "providerPublishTime": 1653915601,
-        "type": "STORY"
-    },
-    "a0354da2-4b0b-3804-80e7-e1e1509a370d": {
-        "uuid": "a0354da2-4b0b-3804-80e7-e1e1509a370d",
-        "title": "Al Gore\u2019s Investment Firm Bought Alibaba and Salesforce. It Sold Cisco and Microsoft.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a0354da2-4b0b-3804-80e7-e1e1509a370d/al-gore%E2%80%99s-investment-firm.html",
-        "providerPublishTime": 1653915600,
-        "type": "STORY"
-    },
-    "6a9d8fda-72bd-3a67-bdf9-4467c7b6784c": {
-        "uuid": "6a9d8fda-72bd-3a67-bdf9-4467c7b6784c",
-        "title": "Pistol, Disney Plus review \u2014 Danny Boyle charts the explosive rise of the Sex Pistols",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/6a9d8fda-72bd-3a67-bdf9-4467c7b6784c/pistol%2C-disney-plus-review-%E2%80%94.html",
-        "providerPublishTime": 1653883210,
-        "type": "STORY"
-    },
-    "ae639198-a8d5-3845-96c9-059af0738bf7": {
-        "uuid": "ae639198-a8d5-3845-96c9-059af0738bf7",
-        "title": "\u2018Top Gun\u2019 Nostalgia Banks $124 Million in Holiday Debut",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/top-gun-nostalgia-banks-124-170832852.html",
-        "providerPublishTime": 1653844112,
-        "type": "STORY"
-    },
-    "6581b190-522a-3436-a273-8a62d1e5bc3e": {
-        "uuid": "6581b190-522a-3436-a273-8a62d1e5bc3e",
-        "title": "Analysis: Are Movie Trailers Too Loud And Bombastic For Their Own Good?",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/analysis-movie-trailers-too-loud-124228072.html",
-        "providerPublishTime": 1653828148,
-        "type": "STORY"
-    },
-    "9b1f74d5-935e-3c6f-a268-e7e809797a6d": {
-        "uuid": "9b1f74d5-935e-3c6f-a268-e7e809797a6d",
-        "title": "Here's Why You Should Approach Walt Disney Stock Like Peter Lynch",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9b1f74d5-935e-3c6f-a268-e7e809797a6d/here%27s-why-you-should.html",
-        "providerPublishTime": 1653827400,
+    "baa785a4-7f4d-35c3-a1cb-250e731886c1": {
+        "uuid": "baa785a4-7f4d-35c3-a1cb-250e731886c1",
+        "title": "The 7 Best Tech Stocks to Buy for June 2022",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-tech-stocks-buy-141601720.html",
+        "providerPublishTime": 1653920161,
         "type": "STORY"
     },
     "674798cc-0df3-3223-916c-73baca5a12bf": {
@@ -455,60 +1071,12 @@
         "providerPublishTime": 1653826500,
         "type": "STORY"
     },
-    "bdd0f300-22aa-3304-9390-f5859f7ec27a": {
-        "uuid": "bdd0f300-22aa-3304-9390-f5859f7ec27a",
-        "title": "How to watch the Indy 500 for free\u2014and without cable",
-        "publisher": "Fortune",
-        "link": "https://finance.yahoo.com/news/watch-indy-500-free-without-120000220.html",
-        "providerPublishTime": 1653825600,
-        "type": "STORY"
-    },
-    "cc29c585-e3b0-361c-847f-2732f8bf57e1": {
-        "uuid": "cc29c585-e3b0-361c-847f-2732f8bf57e1",
-        "title": "3 Dividend Stocks You Can Buy and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cc29c585-e3b0-361c-847f-2732f8bf57e1/3-dividend-stocks-you-can-buy.html",
-        "providerPublishTime": 1653823860,
-        "type": "STORY"
-    },
     "1663874a-3537-3bf9-a5ca-64c0dff908c5": {
         "uuid": "1663874a-3537-3bf9-a5ca-64c0dff908c5",
         "title": "7 Dividend Stocks to Buy for June With Yields Over 6%",
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/7-dividend-stocks-buy-june-104552219.html",
         "providerPublishTime": 1653821152,
-        "type": "STORY"
-    },
-    "e0cf9a63-dcf5-37e3-aae3-30a43dcd3fec": {
-        "uuid": "e0cf9a63-dcf5-37e3-aae3-30a43dcd3fec",
-        "title": "5 Growth Stocks That Can Deliver Transformational Wealth (With Patience)",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e0cf9a63-dcf5-37e3-aae3-30a43dcd3fec/5-growth-stocks-that-can.html",
-        "providerPublishTime": 1653815160,
-        "type": "STORY"
-    },
-    "d8be0c2b-f923-3a3f-98d2-f1f8f4565ce2": {
-        "uuid": "d8be0c2b-f923-3a3f-98d2-f1f8f4565ce2",
-        "title": "Novavax: All Eyes on Upcoming FDA Advisory Meeting",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/novavax-eyes-upcoming-fda-advisory-233658038.html",
-        "providerPublishTime": 1653781018,
-        "type": "STORY"
-    },
-    "f44af073-4291-3757-86af-d05f998eadb5": {
-        "uuid": "f44af073-4291-3757-86af-d05f998eadb5",
-        "title": "Disney Theme Park Ready to Open Much-Anticipated New Campus",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/f44af073-4291-3757-86af-d05f998eadb5/disney-theme-park-ready-to.html",
-        "providerPublishTime": 1653760560,
-        "type": "STORY"
-    },
-    "931f90c1-2393-3964-b62f-ebe1b22f23d1": {
-        "uuid": "931f90c1-2393-3964-b62f-ebe1b22f23d1",
-        "title": "When Not Just Any Dividend Stock Will Do",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/931f90c1-2393-3964-b62f-ebe1b22f23d1/when-not-just-any-dividend.html",
-        "providerPublishTime": 1653755400,
         "type": "STORY"
     },
     "d5db8673-ad16-3597-b9f7-f12415a7c888": {
@@ -519,156 +1087,12 @@
         "providerPublishTime": 1653750900,
         "type": "STORY"
     },
-    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
-        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
-        "title": "Is T-Mobile Stock A Buy Or Sell? 5G, Sprint Merger Synergies Kick In",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
-        "providerPublishTime": 1653744613,
-        "type": "STORY"
-    },
-    "92f236cd-d3b5-37b9-a9a6-1baaee787879": {
-        "uuid": "92f236cd-d3b5-37b9-a9a6-1baaee787879",
-        "title": "5G Stocks To Buy And Watch As Wireless Firms Move Beyond Smartphones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/92f236cd-d3b5-37b9-a9a6-1baaee787879/5g-stocks-to-buy-and-watch-as.html",
-        "providerPublishTime": 1653744295,
-        "type": "STORY"
-    },
-    "b386aa67-26db-35e3-9141-dc996a648e65": {
-        "uuid": "b386aa67-26db-35e3-9141-dc996a648e65",
-        "title": "Semiconductor Supply Glut Coming? 3 Chip Stocks to Sell Now.",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/semiconductor-supply-glut-coming-3-113222741.html",
-        "providerPublishTime": 1653737542,
-        "type": "STORY"
-    },
-    "117fcd69-5f78-3529-99ac-9ed3b10573ff": {
-        "uuid": "117fcd69-5f78-3529-99ac-9ed3b10573ff",
-        "title": "1 Top Semiconductor Stock to Buy and Hold",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/117fcd69-5f78-3529-99ac-9ed3b10573ff/1-top-semiconductor-stock-to.html",
-        "providerPublishTime": 1653732000,
-        "type": "STORY"
-    },
-    "8df0abf0-3994-38c1-be5e-d4331499e06c": {
-        "uuid": "8df0abf0-3994-38c1-be5e-d4331499e06c",
-        "title": "Nasdaq Bear Market: 4 Exceptional Growth Stocks You'll Regret Not Buying on the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8df0abf0-3994-38c1-be5e-d4331499e06c/nasdaq-bear-market%3A-4.html",
-        "providerPublishTime": 1653728760,
-        "type": "STORY"
-    },
-    "d939f59f-1e05-378f-9ed9-6222e3edb055": {
-        "uuid": "d939f59f-1e05-378f-9ed9-6222e3edb055",
-        "title": "Apple Atlanta Workers Drop Bid for Union Vote Next Week, Claiming Intimidation",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/apple-atlanta-workers-drop-bid-202722424.html",
-        "providerPublishTime": 1653691684,
-        "type": "STORY"
-    },
-    "37bd7062-5060-32f6-9f2f-9972ccb58b3d": {
-        "uuid": "37bd7062-5060-32f6-9f2f-9972ccb58b3d",
-        "title": "CORRECTING and REPLACING Franklin Templeton to Reposition Four ETFs in U.S.",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-reposition-four-etfs-205400971.html",
-        "providerPublishTime": 1653690780,
-        "type": "STORY"
-    },
-    "371ce38f-5085-3e76-ac6d-ee2c43b24d54": {
-        "uuid": "371ce38f-5085-3e76-ac6d-ee2c43b24d54",
-        "title": "Top 10 Value Stocks Hedge Funds are Buying in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/top-10-value-stocks-hedge-220234802.html",
-        "providerPublishTime": 1653688954,
-        "type": "STORY"
-    },
-    "25e77040-bb4c-3b53-a9fa-144f0e2995ab": {
-        "uuid": "25e77040-bb4c-3b53-a9fa-144f0e2995ab",
-        "title": "Why Novavax Is Up More Than 18% Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/25e77040-bb4c-3b53-a9fa-144f0e2995ab/why-novavax-is-up-more-than.html",
-        "providerPublishTime": 1653677460,
-        "type": "STORY"
-    },
-    "0e928096-1cdd-3a54-8b85-cf43c6c482af": {
-        "uuid": "0e928096-1cdd-3a54-8b85-cf43c6c482af",
-        "title": "Top Analyst Reports for Meta Platforms, Visa, & Verizon",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/top-analyst-reports-meta-platforms-174405986.html",
-        "providerPublishTime": 1653673445,
-        "type": "STORY"
-    },
-    "54d3cd19-259a-33df-9888-49881270b7b9": {
-        "uuid": "54d3cd19-259a-33df-9888-49881270b7b9",
-        "title": "Templeton Global Income Fund (\"GIM\" or the \"Fund\") Announces Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-gim-172000277.html",
-        "providerPublishTime": 1653672000,
-        "type": "STORY"
-    },
-    "2b8e46f4-e908-3293-b57b-9529179bf401": {
-        "uuid": "2b8e46f4-e908-3293-b57b-9529179bf401",
-        "title": "T-Mobile (TMUS) Up 0.3% Since Last Earnings Report: Can It Continue?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/t-mobile-tmus-0-3-171905297.html",
-        "providerPublishTime": 1653671945,
-        "type": "STORY"
-    },
-    "ec54941f-8349-306e-bf05-ce4419701ef8": {
-        "uuid": "ec54941f-8349-306e-bf05-ce4419701ef8",
-        "title": "Templeton Emerging Markets Income Fund (\"TEI\" or the \"Fund\") Announces Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-emerging-markets-income-fund-171900606.html",
-        "providerPublishTime": 1653671940,
-        "type": "STORY"
-    },
-    "df31c3a9-ccd9-3232-abc4-f3f1ffaf74b7": {
-        "uuid": "df31c3a9-ccd9-3232-abc4-f3f1ffaf74b7",
-        "title": "Franklin Limited Duration Income Trust (\"FTF\" or the \"Fund\") Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-limited-duration-income-trust-171900665.html",
-        "providerPublishTime": 1653671940,
-        "type": "STORY"
-    },
-    "1745467a-cb19-44f4-9068-3413347216fd": {
-        "uuid": "1745467a-cb19-44f4-9068-3413347216fd",
-        "title": "Qualcomm CEO: The market is making 'an absolute mistake' on our stock",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/qualcomm-ceo-market-mistake-stock-150321483.html",
-        "providerPublishTime": 1653663801,
-        "type": "STORY"
-    },
-    "3c45aa24-0be8-39cb-9fc4-ae91bc71a73b": {
-        "uuid": "3c45aa24-0be8-39cb-9fc4-ae91bc71a73b",
-        "title": "What Kind Of Shareholders Hold The Majority In AbbVie Inc.'s (NYSE:ABBV) Shares?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/kind-shareholders-hold-majority-abbvie-143608645.html",
-        "providerPublishTime": 1653662168,
-        "type": "STORY"
-    },
-    "019a1156-44e5-3518-b43c-696d2cb638b1": {
-        "uuid": "019a1156-44e5-3518-b43c-696d2cb638b1",
-        "title": "White House steps up effort to provide antiviral access to more Americans as cases start to stabilize in Northeast",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/019a1156-44e5-3518-b43c-696d2cb638b1/white-house-steps-up-effort.html",
-        "providerPublishTime": 1653661380,
-        "type": "STORY"
-    },
     "c6a66532-be3b-3254-be8d-7ab518d7c0e0": {
         "uuid": "c6a66532-be3b-3254-be8d-7ab518d7c0e0",
         "title": "Better Buy: Federal Realty vs. Regency Centers",
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/c6a66532-be3b-3254-be8d-7ab518d7c0e0/better-buy%3A-federal-realty.html",
         "providerPublishTime": 1653657720,
-        "type": "STORY"
-    },
-    "dccac396-6745-3c2c-94dc-52c7b7244f69": {
-        "uuid": "dccac396-6745-3c2c-94dc-52c7b7244f69",
-        "title": "Why Warner Bros. Discovery Stock Is Down and Why You Should Ignore It",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/why-warner-bros-discovery-stock-131552487.html",
-        "providerPublishTime": 1653657352,
         "type": "STORY"
     },
     "06bcbd2b-4ff8-3a0f-9c68-0d383c7582f6": {
@@ -695,44 +1119,12 @@
         "providerPublishTime": 1653654372,
         "type": "STORY"
     },
-    "bb501a0f-205d-3b71-bd74-b7fbd3372ef2": {
-        "uuid": "bb501a0f-205d-3b71-bd74-b7fbd3372ef2",
-        "title": "The FDA\u2019s decision on the Novavax COVID-19 vaccine could come in weeks",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/bb501a0f-205d-3b71-bd74-b7fbd3372ef2/the-fda%E2%80%99s-decision-on-the.html",
-        "providerPublishTime": 1653650460,
-        "type": "STORY"
-    },
-    "98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d": {
-        "uuid": "98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d",
-        "title": "Why Wall Street Thinks Novavax Is a No-Brainer Stock to Buy Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d/why-wall-street-thinks.html",
-        "providerPublishTime": 1653645300,
-        "type": "STORY"
-    },
     "02cf34fe-e438-34eb-aa42-bcd0ea77459b": {
         "uuid": "02cf34fe-e438-34eb-aa42-bcd0ea77459b",
         "title": "Didi Is Said to Draw China FAW\u2019s Interest in Buying Stake",
         "publisher": "Bloomberg",
         "link": "https://finance.yahoo.com/news/didi-said-draw-state-backed-070830568.html",
         "providerPublishTime": 1653640460,
-        "type": "STORY"
-    },
-    "b1eedb1d-8551-3bc0-aba1-3b4e5cc28b6a": {
-        "uuid": "b1eedb1d-8551-3bc0-aba1-3b4e5cc28b6a",
-        "title": "The Lancet Publishes Results from Phase 3 Induction and Maintenance Programs Evaluating Upadacitinib (RINVOQ\u00ae) in Ulcerative Colitis",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/lancet-publishes-results-phase-3-071500315.html",
-        "providerPublishTime": 1653635700,
-        "type": "STORY"
-    },
-    "9d2fda01-507a-3e35-9a14-0c01d2665d9a": {
-        "uuid": "9d2fda01-507a-3e35-9a14-0c01d2665d9a",
-        "title": "The Lancet Publishes Results from Phase 3 Induction and Maintenance Programs Evaluating Risankizumab (SKYRIZI\u00ae) in Crohn's Disease",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/lancet-publishes-results-phase-3-070000423.html",
-        "providerPublishTime": 1653634800,
         "type": "STORY"
     },
     "80aca9df-6207-395d-84d6-ce89a56ffd84": {
@@ -743,46 +1135,6 @@
         "providerPublishTime": 1653607391,
         "type": "STORY"
     },
-    "25394926-0cc0-3662-a485-30cd429166cb": {
-        "uuid": "25394926-0cc0-3662-a485-30cd429166cb",
-        "title": "Why Novavax Was Tumbling by 12% This Week",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/25394926-0cc0-3662-a485-30cd429166cb/why-novavax-was-tumbling-by.html",
-        "providerPublishTime": 1653606793,
-        "type": "STORY"
-    },
-    "5711db40-7c61-310f-a9e4-04916cf4deb3": {
-        "uuid": "5711db40-7c61-310f-a9e4-04916cf4deb3",
-        "title": "7 Electric Vehicle Stocks That Wall Street Analysts Love",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-electric-vehicle-stocks-wall-225302055.html",
-        "providerPublishTime": 1653605582,
-        "type": "STORY"
-    },
-    "0d2f9365-0cd6-3472-ba8d-9abfe352ce3e": {
-        "uuid": "0d2f9365-0cd6-3472-ba8d-9abfe352ce3e",
-        "title": "Let the Market\u2019s Shakeout Finish Before Buying Novavax Stock",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/let-market-shakeout-finish-buying-222415218.html",
-        "providerPublishTime": 1653603855,
-        "type": "STORY"
-    },
-    "880a8385-0a01-3512-be41-8b614a8ab15f": {
-        "uuid": "880a8385-0a01-3512-be41-8b614a8ab15f",
-        "title": "7 High-Yield Retirement Stocks to Buy for Your Nest Egg",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-high-yield-retirement-stocks-220022572.html",
-        "providerPublishTime": 1653602422,
-        "type": "STORY"
-    },
-    "0ce48a86-f593-3828-b50c-3a536c81ffdd": {
-        "uuid": "0ce48a86-f593-3828-b50c-3a536c81ffdd",
-        "title": "Kinder Morgan (KMI) Gains But Lags Market: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-gains-lags-214509590.html",
-        "providerPublishTime": 1653601509,
-        "type": "STORY"
-    },
     "da9486e6-4bed-38d5-a043-9f38c565378e": {
         "uuid": "da9486e6-4bed-38d5-a043-9f38c565378e",
         "title": "Venture Global green lights $13B Plaquemines LNG, other LNG projects ink deals",
@@ -791,44 +1143,12 @@
         "providerPublishTime": 1653595701,
         "type": "STORY"
     },
-    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
-        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
-        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
-        "providerPublishTime": 1653593399,
-        "type": "STORY"
-    },
-    "21a4dcc7-38b1-3691-bac3-2acde4007756": {
-        "uuid": "21a4dcc7-38b1-3691-bac3-2acde4007756",
-        "title": "Is It Time To Consider Buying Tutor Perini Corporation (NYSE:TPC)?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/time-consider-buying-tutor-perini-184018367.html",
-        "providerPublishTime": 1653590418,
-        "type": "STORY"
-    },
-    "077348f9-154c-30c0-827c-63f53b34702c": {
-        "uuid": "077348f9-154c-30c0-827c-63f53b34702c",
-        "title": "AbbVie's Correction Appears to Be Over: Here's Where the Stock Could Be Headed",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/077348f9-154c-30c0-827c-63f53b34702c/abbvie%27s-correction-appears.html",
-        "providerPublishTime": 1653589140,
-        "type": "STORY"
-    },
     "9a2b8d8e-0547-3ca0-9456-8bc0af3d70ae": {
         "uuid": "9a2b8d8e-0547-3ca0-9456-8bc0af3d70ae",
         "title": "How can I generate some steady income in this manic market? Here are 3 top-rated stocks yielding up to 7.7% (with fat upside to boot)",
         "publisher": "MoneyWise",
         "link": "https://finance.yahoo.com/news/generate-steady-income-manic-market-175200883.html",
         "providerPublishTime": 1653587520,
-        "type": "STORY"
-    },
-    "15a4b691-507b-3fc8-b83f-96a0940e6cf3": {
-        "uuid": "15a4b691-507b-3fc8-b83f-96a0940e6cf3",
-        "title": "Taiwan Continues Its Crusade Against Chinese Companies For Alleged Poaching Of Chip Engineers",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/taiwan-continues-crusade-against-chinese-170859751.html",
-        "providerPublishTime": 1653584939,
         "type": "STORY"
     },
     "6568a1a3-7dce-3d54-ab5f-495ebf9d235a": {
@@ -845,22 +1165,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/28a580b2-f93c-339e-8df9-42edf2f6467a/why-nio-stock-hit-the-gas.html",
         "providerPublishTime": 1653581563,
-        "type": "STORY"
-    },
-    "c35a737e-65f6-346f-9060-bece491214a8": {
-        "uuid": "c35a737e-65f6-346f-9060-bece491214a8",
-        "title": "Verizon Customers Will Soon Pay More for Their Wireless Service",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c35a737e-65f6-346f-9060-bece491214a8/verizon-customers-will-soon.html",
-        "providerPublishTime": 1653580821,
-        "type": "STORY"
-    },
-    "04fe5039-1487-3ef4-8b96-722a5b04f059": {
-        "uuid": "04fe5039-1487-3ef4-8b96-722a5b04f059",
-        "title": "7 Ideal Dividend Stocks to Buy for a Rich Retirement",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-ideal-dividend-stocks-buy-144113209.html",
-        "providerPublishTime": 1653576073,
         "type": "STORY"
     },
     "6fa86751-93ed-3537-b3a2-5c417042244b": {
@@ -911,14 +1215,6 @@
         "providerPublishTime": 1653569400,
         "type": "STORY"
     },
-    "744f881e-ddde-3370-8661-4c726b0827c3": {
-        "uuid": "744f881e-ddde-3370-8661-4c726b0827c3",
-        "title": "Don\u2019t Buy the Bounce in Nio Stock Just Yet",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/don-t-buy-bounce-nio-123029641.html",
-        "providerPublishTime": 1653568229,
-        "type": "STORY"
-    },
     "71d9dd8c-8557-3055-a844-891a59adcb36": {
         "uuid": "71d9dd8c-8557-3055-a844-891a59adcb36",
         "title": "Why NRX Pharmaceuticals Shares Are Trading Lower During Premarket On Thursday?",
@@ -943,76 +1239,12 @@
         "providerPublishTime": 1653564835,
         "type": "STORY"
     },
-    "587ff596-9f3f-3988-9e66-346cad533f1f": {
-        "uuid": "587ff596-9f3f-3988-9e66-346cad533f1f",
-        "title": "5 Electric Vehicle Stocks to Buy for 100% Returns",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/5-electric-vehicle-stocks-buy-111009477.html",
-        "providerPublishTime": 1653563409,
-        "type": "STORY"
-    },
     "4d1fe5c2-2a7e-32ba-b88c-a818a31bde1a": {
         "uuid": "4d1fe5c2-2a7e-32ba-b88c-a818a31bde1a",
         "title": "ENBRIDGE ADVANCING CONSTRUCTION OF NATURAL GAS PIPELINE TO VENTURE GLOBAL'S PLAQUEMINES LNG FACILITY",
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/enbridge-advancing-construction-natural-gas-110000190.html",
         "providerPublishTime": 1653562800,
-        "type": "STORY"
-    },
-    "c7f9bbd0-00eb-3861-9921-a5820775168f": {
-        "uuid": "c7f9bbd0-00eb-3861-9921-a5820775168f",
-        "title": "ENBRIDGE ADVANCING CONSTRUCTION OF NATURAL GAS PIPELINE TO VENTURE GLOBAL'S PLAQUEMINES LNG FACILITY",
-        "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/enbridge-advancing-construction-natural-gas-110000275.html",
-        "providerPublishTime": 1653562800,
-        "type": "STORY"
-    },
-    "3353d7a8-6fef-3af9-8f6e-099267bc3874": {
-        "uuid": "3353d7a8-6fef-3af9-8f6e-099267bc3874",
-        "title": "Tech war: China's semiconductor heartland woos foreign investors as US pushes for supply chain decoupling",
-        "publisher": "South China Morning Post",
-        "link": "https://finance.yahoo.com/news/tech-war-chinas-semiconductor-heartland-093000830.html",
-        "providerPublishTime": 1653557400,
-        "type": "STORY"
-    },
-    "c7ce748e-cd70-387a-b9af-90e9ff6a7a97": {
-        "uuid": "c7ce748e-cd70-387a-b9af-90e9ff6a7a97",
-        "title": "XPeng Stock is Worth a Look At Its Discounted Price",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/xpeng-stock-worth-look-discounted-234535527.html",
-        "providerPublishTime": 1653522335,
-        "type": "STORY"
-    },
-    "27c597fd-3a3c-3bc6-afa8-3a968c840a93": {
-        "uuid": "27c597fd-3a3c-3bc6-afa8-3a968c840a93",
-        "title": "NIO to Invest $32.8M in Shanghai Battery Labs & Cell Plant",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-invest-32-8m-shanghai-161804702.html",
-        "providerPublishTime": 1653495484,
-        "type": "STORY"
-    },
-    "65cae50f-6a85-3f34-9bbe-8db1d1a64f55": {
-        "uuid": "65cae50f-6a85-3f34-9bbe-8db1d1a64f55",
-        "title": "Why Nio Shares Bounced Back Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/65cae50f-6a85-3f34-9bbe-8db1d1a64f55/why-nio-shares-bounced-back.html",
-        "providerPublishTime": 1653495020,
-        "type": "STORY"
-    },
-    "bb8009d0-7e4e-3a75-bb73-24829d2cb8a5": {
-        "uuid": "bb8009d0-7e4e-3a75-bb73-24829d2cb8a5",
-        "title": "Peninsula biotech breaks off hepatitis B deal after partner's drug falters",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/bb8009d0-7e4e-3a75-bb73-24829d2cb8a5/peninsula-biotech-breaks-off.html",
-        "providerPublishTime": 1653491162,
-        "type": "STORY"
-    },
-    "d58d86e2-f996-3798-9164-b33fd955e696": {
-        "uuid": "d58d86e2-f996-3798-9164-b33fd955e696",
-        "title": "Equinor (EQNR) Uncovers Oil in Snofonn Nord Exploration Well",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/equinor-eqnr-uncovers-oil-snofonn-144002527.html",
-        "providerPublishTime": 1653489602,
         "type": "STORY"
     },
     "740c83a9-35a6-391f-82ba-cc6bd0798bc7": {
@@ -1023,28 +1255,12 @@
         "providerPublishTime": 1653485568,
         "type": "STORY"
     },
-    "a9fe34f6-8dce-31f3-ae61-a54a545fb61f": {
-        "uuid": "a9fe34f6-8dce-31f3-ae61-a54a545fb61f",
-        "title": "Gilead Reaches Number One Spot as Top Overall Philanthropic Funder of HIV-Related Programs, According to Funders Concerned About AIDS Report",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/gilead-reaches-number-one-spot-132606662.html",
-        "providerPublishTime": 1653485166,
-        "type": "STORY"
-    },
     "b7dfe78b-dc0e-3872-a438-ec34ad3f1f4b": {
         "uuid": "b7dfe78b-dc0e-3872-a438-ec34ad3f1f4b",
         "title": "Kohl's Stock Surges After Reuters Says it is Braced For Bidders",
         "publisher": "Investing.com",
         "link": "https://finance.yahoo.com/news/kohls-stock-surges-reuters-says-132518058.html",
         "providerPublishTime": 1653485118,
-        "type": "STORY"
-    },
-    "af60d1d1-e834-3623-9dd9-91fec6cc28f0": {
-        "uuid": "af60d1d1-e834-3623-9dd9-91fec6cc28f0",
-        "title": "Nio Stock Has 77% Upside Potential",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/nio-stock-77-upside-potential-130023096.html",
-        "providerPublishTime": 1653483623,
         "type": "STORY"
     },
     "c5d5f9ef-e7ba-3e96-bf95-309852f5a6bc": {
@@ -1063,22 +1279,6 @@
         "providerPublishTime": 1653482700,
         "type": "STORY"
     },
-    "df1c6d0a-b1de-3116-a125-46c9c3ebf31f": {
-        "uuid": "df1c6d0a-b1de-3116-a125-46c9c3ebf31f",
-        "title": "XPeng Releases 2021 Environmental, Social and Governance Report",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/xpeng-releases-2021-environmental-social-100900975.html",
-        "providerPublishTime": 1653480960,
-        "type": "STORY"
-    },
-    "64135845-362e-3b9e-bfd4-0e09c984e55c": {
-        "uuid": "64135845-362e-3b9e-bfd4-0e09c984e55c",
-        "title": "Buy and Hold: 4 Stocks That Are Down but Not Out",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/64135845-362e-3b9e-bfd4-0e09c984e55c/buy-and-hold%3A-4-stocks-that.html",
-        "providerPublishTime": 1653477300,
-        "type": "STORY"
-    },
     "5d19d9d6-05c7-3aa1-b5df-438533827097": {
         "uuid": "5d19d9d6-05c7-3aa1-b5df-438533827097",
         "title": "3 Unloved Tech Stocks to Buy Right Now",
@@ -1087,36 +1287,12 @@
         "providerPublishTime": 1653477000,
         "type": "STORY"
     },
-    "3bbeba2b-98fa-3bc8-b6b8-0f1fefed3b5d": {
-        "uuid": "3bbeba2b-98fa-3bc8-b6b8-0f1fefed3b5d",
-        "title": "Buy Nio as It Debuts for Trading in Singapore",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/buy-nio-debuts-trading-singapore-104801276.html",
-        "providerPublishTime": 1653475681,
-        "type": "STORY"
-    },
-    "226aa37b-1a15-4880-bc2f-4ff816011fce": {
-        "uuid": "226aa37b-1a15-4880-bc2f-4ff816011fce",
-        "title": "What Didi\u2019s 'train wreck' delisting means for US-listed Chinese companies",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/what-didis-delisting-means-for-us-listed-chinese-companies-095506543.html",
-        "providerPublishTime": 1653472506,
-        "type": "STORY"
-    },
     "9f353228-608c-35e3-becc-ccac57d1315c": {
         "uuid": "9f353228-608c-35e3-becc-ccac57d1315c",
         "title": "China's Didi faces rocky path to growth after winning U.S. delisting nod",
         "publisher": "Reuters",
         "link": "https://finance.yahoo.com/news/chinas-didi-faces-rocky-path-092707987.html",
         "providerPublishTime": 1653470827,
-        "type": "STORY"
-    },
-    "023ae903-4520-3c64-a82e-b1ef7c0d6772": {
-        "uuid": "023ae903-4520-3c64-a82e-b1ef7c0d6772",
-        "title": "7 Hot Energy Stocks to Buy on the Dips",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-hot-energy-stocks-buy-233929642.html",
-        "providerPublishTime": 1653435569,
         "type": "STORY"
     },
     "70b07660-85a0-310b-b94c-af96f73a8a80": {
@@ -1151,14 +1327,6 @@
         "providerPublishTime": 1653398875,
         "type": "STORY"
     },
-    "44b923e7-4412-381f-bec9-f39b6da88ff7": {
-        "uuid": "44b923e7-4412-381f-bec9-f39b6da88ff7",
-        "title": "10 High-Yield Dividend Stocks Popular on Robinhood",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-123653327.html",
-        "providerPublishTime": 1653395813,
-        "type": "STORY"
-    },
     "fed03dda-77a1-3b22-a195-739decc3f654": {
         "uuid": "fed03dda-77a1-3b22-a195-739decc3f654",
         "title": "DigitalOcean Announces New $300 Million Share Repurchase Program",
@@ -1175,30 +1343,6 @@
         "providerPublishTime": 1653393600,
         "type": "STORY"
     },
-    "92a54006-7fe6-377c-a544-82af4674f5a7": {
-        "uuid": "92a54006-7fe6-377c-a544-82af4674f5a7",
-        "title": "What Snap Tells Us About Consumers as Retailers Line Up More Earnings",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/92a54006-7fe6-377c-a544-82af4674f5a7/what-snap-tells-us-about.html",
-        "providerPublishTime": 1653389220,
-        "type": "STORY"
-    },
-    "43b8a1db-5dc4-35e3-827b-eca4750ebb94": {
-        "uuid": "43b8a1db-5dc4-35e3-827b-eca4750ebb94",
-        "title": "Samsung to Spend $360 Billion on Chips, Biotech Over 5 Years",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/samsung-spend-360-billion-chips-064308493.html",
-        "providerPublishTime": 1653374588,
-        "type": "STORY"
-    },
-    "67e8eced-5043-3ad0-93fe-8db6949e0774": {
-        "uuid": "67e8eced-5043-3ad0-93fe-8db6949e0774",
-        "title": "Markets: \u2018I am very concerned\u2019 rally won\u2019t persist long term, financial advisor says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/markets-am-very-concerned-rally-193848474.html",
-        "providerPublishTime": 1653334728,
-        "type": "VIDEO"
-    },
     "54914fb5-e7dc-4c23-a266-8ba6f37aee87": {
         "uuid": "54914fb5-e7dc-4c23-a266-8ba6f37aee87",
         "title": "Streaming has turned film financing 'upside down': 'It's VOD or die,' says lawyer",
@@ -1207,28 +1351,12 @@
         "providerPublishTime": 1653332454,
         "type": "STORY"
     },
-    "871b1096-f3eb-3a88-a0fb-534e06c76980": {
-        "uuid": "871b1096-f3eb-3a88-a0fb-534e06c76980",
-        "title": "The Zacks Analyst Blog Highlights JPMorgan Chase, Gilead Sciences, CSX, CVS Health and China Petroleum & Chemical",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-jpmorgan-102210060.html",
-        "providerPublishTime": 1653301330,
-        "type": "STORY"
-    },
     "d9eaaf8d-eaee-3744-9725-ee3f3b213e40": {
         "uuid": "d9eaaf8d-eaee-3744-9725-ee3f3b213e40",
         "title": "Is It Too Late To Consider Buying Warner Bros. Discovery, Inc. (NASDAQ:WBD)?",
         "publisher": "Simply Wall St.",
         "link": "https://finance.yahoo.com/news/too-consider-buying-warner-bros-101616452.html",
         "providerPublishTime": 1653300976,
-        "type": "STORY"
-    },
-    "6246a593-76e4-3349-96ee-65edebd1a0d4": {
-        "uuid": "6246a593-76e4-3349-96ee-65edebd1a0d4",
-        "title": "Houston private equity firm among backers of Permian-to-Katy gas pipeline",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/6246a593-76e4-3349-96ee-65edebd1a0d4/houston-private-equity-firm.html",
-        "providerPublishTime": 1653300000,
         "type": "STORY"
     },
     "ffa96ab3-9194-3c3b-b3c5-46ca3129609c": {
@@ -1247,14 +1375,6 @@
         "providerPublishTime": 1653222600,
         "type": "STORY"
     },
-    "19835d26-01ca-3da4-b6fd-eecbf488dc05": {
-        "uuid": "19835d26-01ca-3da4-b6fd-eecbf488dc05",
-        "title": "Top Research Reports for JPMorgan, Gilead Sciences & CSX",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/top-research-reports-jpmorgan-gilead-170805049.html",
-        "providerPublishTime": 1653066485,
-        "type": "STORY"
-    },
     "530736d7-a13f-3737-afe3-16c052914407": {
         "uuid": "530736d7-a13f-3737-afe3-16c052914407",
         "title": "Why Jumia Technologies Stock Popped 12.6% This Week",
@@ -1263,44 +1383,12 @@
         "providerPublishTime": 1653066478,
         "type": "STORY"
     },
-    "7fbc5de1-8dbf-3ae0-a432-5e7d6590ce87": {
-        "uuid": "7fbc5de1-8dbf-3ae0-a432-5e7d6590ce87",
-        "title": "Why Is Kinder Morgan (KMI) Down 3.9% Since Last Earnings Report?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-kinder-morgan-kmi-down-165504497.html",
-        "providerPublishTime": 1653065704,
-        "type": "STORY"
-    },
-    "d25e0d60-f2cd-3bab-a4fa-e35d8d8a1e1d": {
-        "uuid": "d25e0d60-f2cd-3bab-a4fa-e35d8d8a1e1d",
-        "title": "Gilead at Forefront of Herculean Effort to Combat COVID-19",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/gilead-forefront-herculean-effort-combat-140107010.html",
-        "providerPublishTime": 1653055267,
-        "type": "STORY"
-    },
-    "fedfdddb-3072-3ce1-89f4-35bfb0277d2a": {
-        "uuid": "fedfdddb-3072-3ce1-89f4-35bfb0277d2a",
-        "title": "10 Best Buy-the-Dip Tech Stocks According to Billionaire Ken Fisher",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-buy-dip-tech-130517110.html",
-        "providerPublishTime": 1653051917,
-        "type": "STORY"
-    },
     "865bf983-c4ee-3a62-b122-4f5f7ad6442d": {
         "uuid": "865bf983-c4ee-3a62-b122-4f5f7ad6442d",
         "title": "This REIT Sees a $3.9 Trillion Opportunity Open for the Taking",
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/865bf983-c4ee-3a62-b122-4f5f7ad6442d/this-reit-sees-a-%243.9.html",
         "providerPublishTime": 1653050100,
-        "type": "STORY"
-    },
-    "2ee87d00-e76c-3aca-a518-c9c088aff31d": {
-        "uuid": "2ee87d00-e76c-3aca-a518-c9c088aff31d",
-        "title": "Enbridge Announces Conversion Results for Series B and Series C Preferred Shares",
-        "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/enbridge-announces-conversion-results-series-220000438.html",
-        "providerPublishTime": 1652997600,
         "type": "STORY"
     },
     "05de8f54-77ec-3196-9a68-b9060b247b82": {
@@ -1318,14 +1406,6 @@
         "link": "https://finance.yahoo.com/video/actor-tray-chaney-looks-back-211606667.html",
         "providerPublishTime": 1652994966,
         "type": "VIDEO"
-    },
-    "2014bc73-3b4b-350b-9b45-3b0830c0555b": {
-        "uuid": "2014bc73-3b4b-350b-9b45-3b0830c0555b",
-        "title": "Gilead Stock Earns Rating Upgrade After Quick Turnaround",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/2014bc73-3b4b-350b-9b45-3b0830c0555b/gilead-stock-earns-rating.html",
-        "providerPublishTime": 1652991420,
-        "type": "STORY"
     },
     "6b076cfa-1456-44c8-a846-404790942e73": {
         "uuid": "6b076cfa-1456-44c8-a846-404790942e73",
@@ -1359,22 +1439,6 @@
         "providerPublishTime": 1652967727,
         "type": "STORY"
     },
-    "b870c8d5-3e78-3313-8934-d063be871605": {
-        "uuid": "b870c8d5-3e78-3313-8934-d063be871605",
-        "title": "Are Investors Undervaluing Energy Transfer (ET) Right Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/investors-undervaluing-energy-transfer-et-134001412.html",
-        "providerPublishTime": 1652967601,
-        "type": "STORY"
-    },
-    "9cd049f9-699e-34eb-9ec0-37ab159d3e5f": {
-        "uuid": "9cd049f9-699e-34eb-9ec0-37ab159d3e5f",
-        "title": "Hollywood braced for new age of austerity after streaming splurge",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/9cd049f9-699e-34eb-9ec0-37ab159d3e5f/hollywood-braced-for-new-age.html",
-        "providerPublishTime": 1652932830,
-        "type": "STORY"
-    },
     "4451a2ac-ee64-35f3-8587-4ac6e9db071a": {
         "uuid": "4451a2ac-ee64-35f3-8587-4ac6e9db071a",
         "title": "Streaming has dramatically changed the landscape for film financing",
@@ -1389,22 +1453,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/933a2473-16c5-3080-acca-ab45939f597e/could-jumia-technologies-be-a.html",
         "providerPublishTime": 1652883300,
-        "type": "STORY"
-    },
-    "80fb1244-2aa7-36b9-8a56-a781417575e2": {
-        "uuid": "80fb1244-2aa7-36b9-8a56-a781417575e2",
-        "title": "Cheniere Energy (CQP) Stock Dips 1.5% Despite Q1 Earnings Beat",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/cheniere-energy-cqp-stock-dips-140702198.html",
-        "providerPublishTime": 1652882822,
-        "type": "STORY"
-    },
-    "28c09ede-6538-3955-a664-2d790e4ad143": {
-        "uuid": "28c09ede-6538-3955-a664-2d790e4ad143",
-        "title": "2 Infrastructure Stocks You Can Buy and Hold for the Next Decade",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/28c09ede-6538-3955-a664-2d790e4ad143/2-infrastructure-stocks-you.html",
-        "providerPublishTime": 1652882700,
         "type": "STORY"
     },
     "e667cc4e-9d89-3335-9bd1-ddcdff8fa099": {
@@ -1471,14 +1519,6 @@
         "providerPublishTime": 1652712384,
         "type": "STORY"
     },
-    "18a69f80-d915-317f-979d-2cd10717816a": {
-        "uuid": "18a69f80-d915-317f-979d-2cd10717816a",
-        "title": "How to Invest in Real Estate During Inflation",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/18a69f80-d915-317f-979d-2cd10717816a/how-to-invest-in-real-estate.html",
-        "providerPublishTime": 1652536080,
-        "type": "STORY"
-    },
     "05b1972c-13f6-35fa-b655-72fa2df3a43b": {
         "uuid": "05b1972c-13f6-35fa-b655-72fa2df3a43b",
         "title": "Netflix has \u2018a massive lead in product\u2019 despite stock woes: Expert",
@@ -1503,28 +1543,12 @@
         "providerPublishTime": 1652441431,
         "type": "STORY"
     },
-    "fdf3cd4c-0dc2-372f-8b85-a2d62fb021e6": {
-        "uuid": "fdf3cd4c-0dc2-372f-8b85-a2d62fb021e6",
-        "title": "1 Tech Stock to Buy During This Market Sell-Off",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fdf3cd4c-0dc2-372f-8b85-a2d62fb021e6/1-tech-stock-to-buy-during.html",
-        "providerPublishTime": 1652439900,
-        "type": "STORY"
-    },
     "e8a2da58-c462-3d9a-b1f3-70344db5754c": {
         "uuid": "e8a2da58-c462-3d9a-b1f3-70344db5754c",
         "title": "The Necessity Retail REIT CEO Michael Weil Discusses the Retail Renaissance with GlobeSt",
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-201500561.html",
         "providerPublishTime": 1652386500,
-        "type": "STORY"
-    },
-    "b4e0d696-9257-3baa-b808-8b48a6f7a602": {
-        "uuid": "b4e0d696-9257-3baa-b808-8b48a6f7a602",
-        "title": "The total return for STORE Capital (NYSE:STOR) investors has risen faster than earnings growth over the last five years",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/total-return-store-capital-nyse-165914366.html",
-        "providerPublishTime": 1652288354,
         "type": "STORY"
     },
     "e35a54e5-61f0-395f-bdf9-3593f5821b8f": {
@@ -1557,14 +1581,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/simon-property-spg-q1-ffo-143902094.html",
         "providerPublishTime": 1652193542,
-        "type": "STORY"
-    },
-    "a2f491cc-78fc-3666-b69d-5d1709c5b8f5": {
-        "uuid": "a2f491cc-78fc-3666-b69d-5d1709c5b8f5",
-        "title": "Macerich's (MAC) Q1 FFO Beats, Revenues Lag, Stock Down",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/macerichs-mac-q1-ffo-beats-132601798.html",
-        "providerPublishTime": 1652189161,
         "type": "STORY"
     },
     "b1bdd06e-19b9-34ea-ba67-72ecd1bebdcd": {
@@ -1663,14 +1679,6 @@
         "providerPublishTime": 1650975912,
         "type": "STORY"
     },
-    "18e22ba0-c5a8-327a-9058-d18f05c000ef": {
-        "uuid": "18e22ba0-c5a8-327a-9058-d18f05c000ef",
-        "title": "Ares Capital Corporation Announces March 31, 2022 Financial Results and Declares Second Quarter 2022 Dividend of $0.42 Per Share",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/ares-capital-corporation-announces-march-110000167.html",
-        "providerPublishTime": 1650970800,
-        "type": "STORY"
-    },
     "f8f65fed-2edd-3c7f-a1f6-4fbe31342b41": {
         "uuid": "f8f65fed-2edd-3c7f-a1f6-4fbe31342b41",
         "title": "TriplePoint Venture Growth BDC Corp. to Announce 2022 First Quarter Financial Results on Wednesday, May 4, 2022",
@@ -1719,36 +1727,12 @@
         "providerPublishTime": 1649930400,
         "type": "STORY"
     },
-    "dec46f34-ef61-3fbc-9b7c-b1852fc5241b": {
-        "uuid": "dec46f34-ef61-3fbc-9b7c-b1852fc5241b",
-        "title": "The Necessity Retail REIT Announces Common Stock Dividend for Second Quarter 2022",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-common-100000284.html",
-        "providerPublishTime": 1648807200,
-        "type": "STORY"
-    },
     "be2f72da-f2ec-3929-8b41-f082f248ffde": {
         "uuid": "be2f72da-f2ec-3929-8b41-f082f248ffde",
         "title": "Orion Office REIT Inc.\u00ae Announces Fourth Quarter 2021 Operating Results",
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/orion-office-reit-inc-announces-201000630.html",
         "providerPublishTime": 1648152600,
-        "type": "STORY"
-    },
-    "b52971d2-b82e-32ab-ac29-d6c7c72e41f0": {
-        "uuid": "b52971d2-b82e-32ab-ac29-d6c7c72e41f0",
-        "title": "TriplePoint Venture Growth (TPVG) Tops Q4 Earnings and Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/triplepoint-venture-growth-tpvg-tops-000512511.html",
-        "providerPublishTime": 1646265912,
-        "type": "STORY"
-    },
-    "5078fc51-2724-307c-a85b-4308f1201371": {
-        "uuid": "5078fc51-2724-307c-a85b-4308f1201371",
-        "title": "TriplePoint Venture Growth BDC Corp. Announces Fourth Quarter and Fiscal Year 2021 Financial Results",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/triplepoint-venture-growth-bdc-corp-211500728.html",
-        "providerPublishTime": 1646255700,
         "type": "STORY"
     }
 }

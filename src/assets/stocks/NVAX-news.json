@@ -1,66 +1,66 @@
 {
-    "d8be0c2b-f923-3a3f-98d2-f1f8f4565ce2": {
-        "uuid": "d8be0c2b-f923-3a3f-98d2-f1f8f4565ce2",
-        "title": "Novavax: All Eyes on Upcoming FDA Advisory Meeting",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/novavax-eyes-upcoming-fda-advisory-233658038.html",
-        "providerPublishTime": 1653781018,
+    "69c71b16-df29-3ab9-a45e-39b9c0cf8aa0": {
+        "uuid": "69c71b16-df29-3ab9-a45e-39b9c0cf8aa0",
+        "title": "FDA flags risk of myocarditis in Novavax COVID vaccine",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/fda-flags-risk-myocarditis-novavax-204943001.html",
+        "providerPublishTime": 1654289383,
+        "type": "VIDEO"
+    },
+    "a46c308c-4c71-3f0e-ac9f-168dd196f916": {
+        "uuid": "a46c308c-4c71-3f0e-ac9f-168dd196f916",
+        "title": "Novavax Plunges on \u2018Harsh\u2019 FDA Review Ahead of Tuesday Panel",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/novavax-plunges-harsh-fda-review-181223352.html",
+        "providerPublishTime": 1654287175,
         "type": "STORY"
     },
-    "8df0abf0-3994-38c1-be5e-d4331499e06c": {
-        "uuid": "8df0abf0-3994-38c1-be5e-d4331499e06c",
-        "title": "Nasdaq Bear Market: 4 Exceptional Growth Stocks You'll Regret Not Buying on the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8df0abf0-3994-38c1-be5e-d4331499e06c/nasdaq-bear-market%3A-4.html",
-        "providerPublishTime": 1653728760,
+    "b476952d-712d-30d4-9e0b-d889ed2229b1": {
+        "uuid": "b476952d-712d-30d4-9e0b-d889ed2229b1",
+        "title": "Novavax Crashes After FDA Suggests Its Covid Vaccine Causes Heart Inflammation",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/b476952d-712d-30d4-9e0b-d889ed2229b1/novavax-crashes-after-fda.html",
+        "providerPublishTime": 1654287156,
         "type": "STORY"
     },
-    "25e77040-bb4c-3b53-a9fa-144f0e2995ab": {
-        "uuid": "25e77040-bb4c-3b53-a9fa-144f0e2995ab",
-        "title": "Why Novavax Is Up More Than 18% Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/25e77040-bb4c-3b53-a9fa-144f0e2995ab/why-novavax-is-up-more-than.html",
-        "providerPublishTime": 1653677460,
+    "fb2d7124-4eaf-32ac-b12a-0a79a9b0a9d0": {
+        "uuid": "fb2d7124-4eaf-32ac-b12a-0a79a9b0a9d0",
+        "title": "Novavax\u2019s stock plummets as FDA raises concern about Covid vaccine safety",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/fb2d7124-4eaf-32ac-b12a-0a79a9b0a9d0/novavax%E2%80%99s-stock-plummets-as.html",
+        "providerPublishTime": 1654284415,
         "type": "STORY"
     },
-    "019a1156-44e5-3518-b43c-696d2cb638b1": {
-        "uuid": "019a1156-44e5-3518-b43c-696d2cb638b1",
-        "title": "White House steps up effort to provide antiviral access to more Americans as cases start to stabilize in Northeast",
+    "7b4bee55-8971-3e11-8f5c-603785a6d84e": {
+        "uuid": "7b4bee55-8971-3e11-8f5c-603785a6d84e",
+        "title": "UPDATE: Novavax's stock slides 23% after FDA details myocarditis cases for COVID-19 vaccine candidate",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/019a1156-44e5-3518-b43c-696d2cb638b1/white-house-steps-up-effort.html",
-        "providerPublishTime": 1653661380,
+        "link": "https://finance.yahoo.com/m/7b4bee55-8971-3e11-8f5c-603785a6d84e/update%3A-novavax%27s-stock.html",
+        "providerPublishTime": 1654271899,
         "type": "STORY"
     },
-    "bb501a0f-205d-3b71-bd74-b7fbd3372ef2": {
-        "uuid": "bb501a0f-205d-3b71-bd74-b7fbd3372ef2",
-        "title": "The FDA\u2019s decision on the Novavax COVID-19 vaccine could come in weeks",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/bb501a0f-205d-3b71-bd74-b7fbd3372ef2/the-fda%E2%80%99s-decision-on-the.html",
-        "providerPublishTime": 1653650460,
+    "e8bae5be-fb10-38bf-aaed-c94937583cdb": {
+        "uuid": "e8bae5be-fb10-38bf-aaed-c94937583cdb",
+        "title": "Novavax Covid-19 Vaccine Linked to Heart Inflammation, FDA Says. The Stock Is Sliding.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/e8bae5be-fb10-38bf-aaed-c94937583cdb/novavax-covid-19-vaccine.html",
+        "providerPublishTime": 1654269960,
         "type": "STORY"
     },
-    "98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d": {
-        "uuid": "98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d",
-        "title": "Why Wall Street Thinks Novavax Is a No-Brainer Stock to Buy Right Now",
+    "a6e314e4-3bf9-3948-9ba2-f4cab29af867": {
+        "uuid": "a6e314e4-3bf9-3948-9ba2-f4cab29af867",
+        "title": "Why Novavax Stock Is Plunging Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/98b6ff3d-feb4-3cd8-aa14-c8b6c83b9c0d/why-wall-street-thinks.html",
-        "providerPublishTime": 1653645300,
+        "link": "https://finance.yahoo.com/m/a6e314e4-3bf9-3948-9ba2-f4cab29af867/why-novavax-stock-is-plunging.html",
+        "providerPublishTime": 1654269536,
         "type": "STORY"
     },
-    "25394926-0cc0-3662-a485-30cd429166cb": {
-        "uuid": "25394926-0cc0-3662-a485-30cd429166cb",
-        "title": "Why Novavax Was Tumbling by 12% This Week",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/25394926-0cc0-3662-a485-30cd429166cb/why-novavax-was-tumbling-by.html",
-        "providerPublishTime": 1653606793,
-        "type": "STORY"
-    },
-    "0d2f9365-0cd6-3472-ba8d-9abfe352ce3e": {
-        "uuid": "0d2f9365-0cd6-3472-ba8d-9abfe352ce3e",
-        "title": "Let the Market\u2019s Shakeout Finish Before Buying Novavax Stock",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/let-market-shakeout-finish-buying-222415218.html",
-        "providerPublishTime": 1653603855,
+    "de2512dd-fc33-3288-9296-64f1c20c6679": {
+        "uuid": "de2512dd-fc33-3288-9296-64f1c20c6679",
+        "title": "UPDATE 1-U.S. FDA staff says Novavax vaccine lowers COVID risk",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-u-fda-staff-says-125219179.html",
+        "providerPublishTime": 1654260739,
         "type": "STORY"
     }
 }

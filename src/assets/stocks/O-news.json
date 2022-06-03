@@ -1,66 +1,66 @@
 {
-    "72095ce3-fc64-3c27-9fd8-f3af957ccb8b": {
-        "uuid": "72095ce3-fc64-3c27-9fd8-f3af957ccb8b",
-        "title": "Stock Market Today - 5/31: Stocks Slump As Inflation Concerns Resurface: Oil Surges On EU Russian Crude Ban",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/72095ce3-fc64-3c27-9fd8-f3af957ccb8b/stock-market-today-5%2F31%3A.html",
-        "providerPublishTime": 1654004280,
+    "adf2d72b-8c04-3ee5-a636-084542f4b587": {
+        "uuid": "adf2d72b-8c04-3ee5-a636-084542f4b587",
+        "title": "Oil Stocks: Crude Jumps Back Above $120 As Drilling Activity Flattens",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/adf2d72b-8c04-3ee5-a636-084542f4b587/oil-stocks%3A-crude-jumps-back.html",
+        "providerPublishTime": 1654288621,
         "type": "STORY"
     },
-    "eea115aa-4c6e-3df5-9758-97e54598c060": {
-        "uuid": "eea115aa-4c6e-3df5-9758-97e54598c060",
-        "title": "EU leaders agree to ban most Russian oil imports",
+    "9bb2d65b-c027-32ad-86eb-0fefd9be8e25": {
+        "uuid": "9bb2d65b-c027-32ad-86eb-0fefd9be8e25",
+        "title": "The market sell-off \u2018could be coming towards an end\u2019: Strategist",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/eu-leaders-agree-ban-most-133348084.html",
-        "providerPublishTime": 1654004028,
+        "link": "https://finance.yahoo.com/video/market-sell-off-could-coming-203120197.html",
+        "providerPublishTime": 1654288280,
         "type": "VIDEO"
     },
-    "b4d9265a-b303-4659-8c28-d7200e763ce4": {
-        "uuid": "b4d9265a-b303-4659-8c28-d7200e763ce4",
-        "title": "Stock market news live updates: Stocks dip as Wall Street struggles to sustain last week's rally",
+    "a8520e99-3a22-3ccb-b36e-f84bcdd066bf": {
+        "uuid": "a8520e99-3a22-3ccb-b36e-f84bcdd066bf",
+        "title": "Oil, Defense Hang Tough In Rough Stock Market Today; These Tech Stocks Soar",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a8520e99-3a22-3ccb-b36e-f84bcdd066bf/oil%2C-defense-hang-tough-in.html",
+        "providerPublishTime": 1654286607,
+        "type": "STORY"
+    },
+    "53a0ed77-0153-49cd-b691-6c3707ff9325": {
+        "uuid": "53a0ed77-0153-49cd-b691-6c3707ff9325",
+        "title": "Stock market news live updates: Stocks drop after strong jobs data renews rate worries",
         "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-may-31-2022-111708003.html",
-        "providerPublishTime": 1654004008,
+        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-june-3-2022-111552199.html",
+        "providerPublishTime": 1654286600,
         "type": "STORY"
     },
-    "a10ca0f6-fe2e-389d-911d-ee7795381c81": {
-        "uuid": "a10ca0f6-fe2e-389d-911d-ee7795381c81",
-        "title": "Oil Prices Rise As EU Leaders Agree On Partial Russian Crude Ban",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/oil-prices-rise-eu-leaders-125100415.html",
-        "providerPublishTime": 1654001460,
-        "type": "STORY"
+    "5b5035fa-6c6e-3bcd-b09b-a9969b8b0b9f": {
+        "uuid": "5b5035fa-6c6e-3bcd-b09b-a9969b8b0b9f",
+        "title": "Gas prices nationwide hit another record high",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/gas-prices-nationwide-hit-another-195305583.html",
+        "providerPublishTime": 1654285985,
+        "type": "VIDEO"
     },
-    "279b21a1-a868-3d6f-b5a6-a087a8272b80": {
-        "uuid": "279b21a1-a868-3d6f-b5a6-a087a8272b80",
-        "title": "Oil Roars to Sixth Monthly Advance on EU Ban, China\u2019s Reopening",
+    "840a0932-371c-3002-aa81-a01e40815d72": {
+        "uuid": "840a0932-371c-3002-aa81-a01e40815d72",
+        "title": "Oil Sets Sixth Weekly Gain as Tight Markets Concerns Continue",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-powers-sixth-monthly-gain-003051962.html",
-        "providerPublishTime": 1654000160,
+        "link": "https://finance.yahoo.com/news/oil-rises-traders-weigh-modest-223833945.html",
+        "providerPublishTime": 1654284357,
         "type": "STORY"
     },
-    "4ec76170-5a33-3620-b908-e7d6e6a956dd": {
-        "uuid": "4ec76170-5a33-3620-b908-e7d6e6a956dd",
-        "title": "India growth slows on inflation, higher oil prices",
-        "publisher": "AFP",
-        "link": "https://finance.yahoo.com/m/4ec76170-5a33-3620-b908-e7d6e6a956dd/india-growth-slows-on.html",
-        "providerPublishTime": 1653999732,
+    "9ad0d69c-cf20-3e12-8fda-9f9081a072e7": {
+        "uuid": "9ad0d69c-cf20-3e12-8fda-9f9081a072e7",
+        "title": "A Week Of Turmoil For Oil Markets",
+        "publisher": "Oilprice.com",
+        "link": "https://finance.yahoo.com/news/week-turmoil-oil-markets-190000980.html",
+        "providerPublishTime": 1654282800,
         "type": "STORY"
     },
-    "d0c936ea-bf0f-3280-a023-78ca491b80dc": {
-        "uuid": "d0c936ea-bf0f-3280-a023-78ca491b80dc",
-        "title": "EU\u2019s Russian Oil Embargo Sends Prices Surging. Exxon Stock Is Rising.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d0c936ea-bf0f-3280-a023-78ca491b80dc/eu%E2%80%99s-russian-oil-embargo.html",
-        "providerPublishTime": 1653998880,
-        "type": "STORY"
-    },
-    "d2051bd0-4712-320a-9aa5-8ebd2166d227": {
-        "uuid": "d2051bd0-4712-320a-9aa5-8ebd2166d227",
-        "title": "Factbox-Who is buying Russian crude oil and who has stopped",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/factbox-buying-russian-crude-oil-120611274.html",
-        "providerPublishTime": 1653998771,
+    "3ba53290-ecd7-379c-ad88-ff18dee5f207": {
+        "uuid": "3ba53290-ecd7-379c-ad88-ff18dee5f207",
+        "title": "Middle East Oil Producers Move Into Bitcoin Mining With Crusoe Energy Stakes",
+        "publisher": "CoinDesk",
+        "link": "https://finance.yahoo.com/news/middle-east-oil-producers-move-173111529.html",
+        "providerPublishTime": 1654278603,
         "type": "STORY"
     }
 }

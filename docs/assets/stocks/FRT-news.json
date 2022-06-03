@@ -1,4 +1,12 @@
 {
+    "c09da86f-86b5-3b8f-8bfa-c0878df0baf4": {
+        "uuid": "c09da86f-86b5-3b8f-8bfa-c0878df0baf4",
+        "title": "Federal Realty Releases 2021 Environmental, Social and Governance Report",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/federal-realty-releases-2021-environmental-203000526.html",
+        "providerPublishTime": 1654115400,
+        "type": "STORY"
+    },
     "c6a66532-be3b-3254-be8d-7ab518d7c0e0": {
         "uuid": "c6a66532-be3b-3254-be8d-7ab518d7c0e0",
         "title": "Better Buy: Federal Realty vs. Regency Centers",
@@ -53,14 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/simon-property-spg-q1-ffo-143902094.html",
         "providerPublishTime": 1652193542,
-        "type": "STORY"
-    },
-    "a2f491cc-78fc-3666-b69d-5d1709c5b8f5": {
-        "uuid": "a2f491cc-78fc-3666-b69d-5d1709c5b8f5",
-        "title": "Macerich's (MAC) Q1 FFO Beats, Revenues Lag, Stock Down",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/macerichs-mac-q1-ffo-beats-132601798.html",
-        "providerPublishTime": 1652189161,
         "type": "STORY"
     }
 }

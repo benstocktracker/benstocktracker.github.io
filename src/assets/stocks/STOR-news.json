@@ -1,4 +1,20 @@
 {
+    "8bbf07b0-6355-3cb4-bd17-9b5e8fb32d1c": {
+        "uuid": "8bbf07b0-6355-3cb4-bd17-9b5e8fb32d1c",
+        "title": "STORE Capital to Attend Nareit\u2019s REITweek 2022",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-attend-nareit-reitweek-104500267.html",
+        "providerPublishTime": 1654166700,
+        "type": "STORY"
+    },
+    "7372cb36-095d-3f9a-9313-2052a8fe27e5": {
+        "uuid": "7372cb36-095d-3f9a-9313-2052a8fe27e5",
+        "title": "STORE Capital Sponsors Team of LPGA Tour Professionals",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-sponsors-team-lpga-202000371.html",
+        "providerPublishTime": 1654028400,
+        "type": "STORY"
+    },
     "5fc39e70-0314-3377-9fc0-886ede0b6ce5": {
         "uuid": "5fc39e70-0314-3377-9fc0-886ede0b6ce5",
         "title": "STORE Capital Publishes Annual Corporate Responsibility Report",
@@ -45,22 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/af7cec19-6615-3575-8d77-73299a96b68a/have-%241%2C000%3F-2-all-weather.html",
         "providerPublishTime": 1652968260,
-        "type": "STORY"
-    },
-    "18a69f80-d915-317f-979d-2cd10717816a": {
-        "uuid": "18a69f80-d915-317f-979d-2cd10717816a",
-        "title": "How to Invest in Real Estate During Inflation",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/18a69f80-d915-317f-979d-2cd10717816a/how-to-invest-in-real-estate.html",
-        "providerPublishTime": 1652536080,
-        "type": "STORY"
-    },
-    "b4e0d696-9257-3baa-b808-8b48a6f7a602": {
-        "uuid": "b4e0d696-9257-3baa-b808-8b48a6f7a602",
-        "title": "The total return for STORE Capital (NYSE:STOR) investors has risen faster than earnings growth over the last five years",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/total-return-store-capital-nyse-165914366.html",
-        "providerPublishTime": 1652288354,
         "type": "STORY"
     }
 }

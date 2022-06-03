@@ -1,0 +1,723 @@
+{
+    "defaultKeyStatistics": {
+        "annualHoldingsTurnover": null,
+        "enterpriseToRevenue": 22.85,
+        "beta3Year": null,
+        "profitMargins": 0.63435,
+        "enterpriseToEbitda": 25.356,
+        "52WeekChange": -0.01163888,
+        "morningStarRiskRating": null,
+        "forwardEps": 2.05,
+        "revenueQuarterlyGrowth": null,
+        "sharesOutstanding": 963001984,
+        "fundInceptionDate": null,
+        "annualReportExpenseRatio": null,
+        "totalAssets": null,
+        "bookValue": 20.583,
+        "sharesShort": 34487981,
+        "sharesPercentSharesOut": 0.0358,
+        "fundFamily": null,
+        "lastFiscalYearEnd": 1640908800,
+        "heldPercentInstitutions": 0.81242996,
+        "netIncomeToCommon": 984433024,
+        "trailingEps": 1.606,
+        "lastDividendValue": 0.36,
+        "SandP52WeekChange": -0.01254642,
+        "priceToBook": 1.5265025,
+        "heldPercentInsiders": 0.00215,
+        "nextFiscalYearEnd": 1703980800,
+        "yield": null,
+        "mostRecentQuarter": 1648684800,
+        "shortRatio": 2.24,
+        "sharesShortPreviousMonthDate": 1649894400,
+        "floatShares": 960979809,
+        "beta": 1.02091,
+        "enterpriseValue": 35460890624,
+        "priceHint": 2,
+        "threeYearAverageReturn": null,
+        "lastSplitDate": null,
+        "lastSplitFactor": null,
+        "legalType": null,
+        "lastDividendDate": 1647993600,
+        "morningStarOverallRating": null,
+        "earningsQuarterlyGrowth": -0.109,
+        "priceToSalesTrailing12Months": null,
+        "dateShortInterest": 1652400000,
+        "pegRatio": 2.33,
+        "ytdReturn": null,
+        "forwardPE": 15.32683,
+        "maxAge": 1,
+        "lastCapGain": null,
+        "shortPercentOfFloat": 0.0395,
+        "sharesShortPriorMonth": 36553824,
+        "impliedSharesOutstanding": 0,
+        "category": null,
+        "fiveYearAverageReturn": null
+    },
+    "details": null,
+    "summaryProfile": {
+        "zip": "10022",
+        "sector": "Real Estate",
+        "fullTimeEmployees": 105,
+        "longBusinessSummary": "VICI Properties is an experiential real estate investment trust that owns one of the largest portfolios of market-leading gaming, hospitality and entertainment destinations, including the world-renowned Caesars Palace. VICI Properties' national, geographically diverse portfolio consists of 29 gaming facilities comprising over 48 million square feet and features approximately 19,200 hotel rooms and more than 200 restaurants, bars and nightclubs. Its properties are leased to industry leading gaming and hospitality operators, including Caesars Entertainment, Inc., Century Casinos Inc., Hard Rock International, JACK Entertainment and Penn National Gaming, Inc. VICI Properties also owns four championship golf courses and 34 acres of undeveloped land adjacent to the Las Vegas Strip. VICI Properties' strategy is to create the nation's highest quality and most productive experiential real estate portfolio.",
+        "city": "New York",
+        "phone": "646-949-4631",
+        "state": "NY",
+        "country": "United States",
+        "companyOfficers": [],
+        "website": "https://www.viciproperties.com",
+        "maxAge": 86400,
+        "address1": "535 Madison Avenue",
+        "industry": "REIT\u2014Diversified",
+        "address2": "20th Floor"
+    },
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 1,
+                "buy": 0,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 8,
+                "buy": 11,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 8,
+                "buy": 11,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 8,
+                "buy": 10,
+                "hold": 3,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "actual": 0.54,
+                    "estimate": 0.49
+                },
+                {
+                    "date": "3Q2021",
+                    "actual": 0.28,
+                    "estimate": 0.47
+                },
+                {
+                    "date": "4Q2021",
+                    "actual": 0.44,
+                    "estimate": 0.45
+                },
+                {
+                    "date": "1Q2022",
+                    "actual": 0.35,
+                    "estimate": 0.42
+                }
+            ],
+            "currentQuarterEstimate": 0.52,
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2022,
+            "earningsDate": [
+                1658833140,
+                1659355200
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2018,
+                    "revenue": 897977000,
+                    "earnings": 523619000
+                },
+                {
+                    "date": 2019,
+                    "revenue": 894798000,
+                    "earnings": 545964000
+                },
+                {
+                    "date": 2020,
+                    "revenue": 1225574000,
+                    "earnings": 891674000
+                },
+                {
+                    "date": 2021,
+                    "revenue": 1509568000,
+                    "earnings": 1013851000
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "2Q2021",
+                    "revenue": 376400000,
+                    "earnings": 300709000
+                },
+                {
+                    "date": "3Q2021",
+                    "revenue": 375704000,
+                    "earnings": 161862000
+                },
+                {
+                    "date": "4Q2021",
+                    "revenue": 383154000,
+                    "earnings": 281479000
+                },
+                {
+                    "date": "1Q2022",
+                    "revenue": 416625000,
+                    "earnings": 240383000
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "price": {
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "regularMarketOpen": 30.85,
+        "averageDailyVolume3Month": 10949123,
+        "exchange": "NYQ",
+        "regularMarketTime": 1654200004,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 31.67,
+        "shortName": "VICI Properties Inc.",
+        "averageDailyVolume10Day": 10041850,
+        "longName": "VICI Properties Inc.",
+        "regularMarketChange": 0.610001,
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": 30.81,
+        "postMarketTime": 1654214175,
+        "preMarketPrice": 31.51,
+        "preMarketTime": 1654259858,
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": 0.0900002,
+        "postMarketPrice": 31.51,
+        "exchangeName": "NYSE",
+        "preMarketChange": 0.09000015,
+        "circulatingSupply": null,
+        "regularMarketDayLow": 30.83,
+        "priceHint": 2,
+        "currency": "USD",
+        "regularMarketPrice": 31.42,
+        "regularMarketVolume": 15305429,
+        "lastMarket": null,
+        "regularMarketSource": "FREE_REALTIME",
+        "openInterest": null,
+        "marketState": "PRE",
+        "underlyingSymbol": null,
+        "marketCap": 30257522688,
+        "quoteType": "EQUITY",
+        "preMarketChangePercent": 0.0028644225,
+        "volumeAllCurrencies": null,
+        "postMarketSource": "FREE_REALTIME",
+        "strikePrice": null,
+        "symbol": "VICI",
+        "postMarketChangePercent": 0.0028644202,
+        "preMarketSource": "FREE_REALTIME",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": 0.0197988
+    },
+    "financialData": {
+        "ebitdaMargins": 0.90119004,
+        "profitMargins": 0.63435,
+        "grossMargins": 0.98455,
+        "operatingCashflow": 1038796992,
+        "revenueGrowth": 0.113,
+        "operatingMargins": 0.89921,
+        "ebitda": 1398536960,
+        "targetLowPrice": 31,
+        "recommendationKey": "buy",
+        "grossProfits": 1478404000,
+        "freeCashflow": -3415924736,
+        "targetMedianPrice": 35,
+        "currentPrice": 31.42,
+        "earningsGrowth": -0.3,
+        "currentRatio": 51.74,
+        "returnOnAssets": 0.04493,
+        "numberOfAnalystOpinions": 20,
+        "targetMeanPrice": 35.42,
+        "debtToEquity": 37.474,
+        "returnOnEquity": 0.079229996,
+        "targetHighPrice": 46,
+        "totalCash": 678196992,
+        "totalDebt": 5802455040,
+        "totalRevenue": 1551883008,
+        "totalCashPerShare": 0.704,
+        "financialCurrency": "USD",
+        "maxAge": 86400,
+        "revenuePerShare": 2.58,
+        "quickRatio": 51.732,
+        "recommendationMean": 1.7
+    },
+    "quoteType": {
+        "exchange": "NYQ",
+        "shortName": "VICI Properties Inc.",
+        "longName": "VICI Properties Inc.",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-14400000",
+        "quoteType": "EQUITY",
+        "symbol": "VICI",
+        "messageBoardId": "finmb_430871960",
+        "market": "us_market"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                1658833140,
+                1659355200
+            ],
+            "earningsAverage": 0.52,
+            "earningsLow": 0.48,
+            "earningsHigh": 0.65,
+            "revenueAverage": 609090000,
+            "revenueLow": 563580000,
+            "revenueHigh": 664580000
+        },
+        "exDividendDate": 1647993600,
+        "dividendDate": 1649289600
+    },
+    "summaryDetail": {
+        "previousClose": 30.81,
+        "regularMarketOpen": 30.85,
+        "twoHundredDayAverage": 28.90505,
+        "trailingAnnualDividendYield": 0.04576436,
+        "payoutRatio": 0.8758,
+        "volume24Hr": null,
+        "regularMarketDayHigh": 31.67,
+        "navPrice": null,
+        "averageDailyVolume10Day": 10041850,
+        "totalAssets": null,
+        "regularMarketPreviousClose": 30.81,
+        "fiftyDayAverage": 29.058,
+        "trailingAnnualDividendRate": 1.41,
+        "open": 30.85,
+        "toCurrency": null,
+        "averageVolume10days": 10041850,
+        "expireDate": null,
+        "yield": null,
+        "algorithm": null,
+        "dividendRate": 1.44,
+        "exDividendDate": 1647993600,
+        "beta": 1.02091,
+        "circulatingSupply": null,
+        "startDate": null,
+        "regularMarketDayLow": 30.83,
+        "priceHint": 2,
+        "currency": "USD",
+        "trailingPE": 19.564135,
+        "regularMarketVolume": 15305429,
+        "lastMarket": null,
+        "maxSupply": null,
+        "openInterest": null,
+        "marketCap": 30257522688,
+        "volumeAllCurrencies": null,
+        "strikePrice": null,
+        "averageVolume": 10949123,
+        "priceToSalesTrailing12Months": 19.497295,
+        "dayLow": 30.83,
+        "ask": 31.51,
+        "ytdReturn": null,
+        "askSize": 3200,
+        "volume": 15305429,
+        "fiftyTwoWeekHigh": 33.35,
+        "forwardPE": 15.32683,
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": null,
+        "fiftyTwoWeekLow": 26.23,
+        "bid": 30,
+        "tradeable": false,
+        "dividendYield": 0.0467,
+        "bidSize": 1800,
+        "dayHigh": 31.67
+    },
+    "symbol": "VICI",
+    "esgScores": null,
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": 1652962181,
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1642681855,
+                "firm": "Berenberg",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1633509119,
+                "firm": "Keybanc",
+                "toGrade": "Overweight",
+                "fromGrade": "Sector Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1627043846,
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1623754656,
+                "firm": "Wolfe Research",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1622806624,
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1620211662,
+                "firm": "Evercore ISI Group",
+                "toGrade": "In-Line",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1620044222,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1620037435,
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1615805343,
+                "firm": "KeyBanc",
+                "toGrade": "Sector Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1614006108,
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1611160972,
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1608215582,
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1605615387,
+                "firm": "Loop Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1605185028,
+                "firm": "Raymond James",
+                "toGrade": "Strong Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1604326220,
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1596202729,
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1593092966,
+                "firm": "Nomura Instinet",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1592483197,
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1588600433,
+                "firm": "Wells Fargo",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1588592343,
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1587569428,
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1586290262,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1585858435,
+                "firm": "Stifel",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1582550074,
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1582550060,
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1582549055,
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1580392853,
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1576150897,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1572437123,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1566814708,
+                "firm": "Morgan Stanley",
+                "toGrade": "Overweight",
+                "fromGrade": "Equal-Weight",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1561979508,
+                "firm": "Wells Fargo",
+                "toGrade": "Outperform",
+                "fromGrade": "Market Perform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1556102303,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1554812231,
+                "firm": "Evercore ISI Group",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1547643365,
+                "firm": "Ladenburg Thalmann",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1542634475,
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1540387620,
+                "firm": "Baird",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1539610365,
+                "firm": "Bank of America",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1538048137,
+                "firm": "Nomura",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1534242879,
+                "firm": "Credit Suisse",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1533819490,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Neutral",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1533214321,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1532434509,
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1531318392,
+                "firm": "Wells Fargo",
+                "toGrade": "Market Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1527248085,
+                "firm": "Morgan Stanley",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "Equal-Weight",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1526556342,
+                "firm": "Deutsche Bank",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1519654152,
+                "firm": "Bank of America",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1519654038,
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1519647605,
+                "firm": "Barclays",
+                "toGrade": "Equal-Weight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1519646456,
+                "firm": "Stifel Nicolaus",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "pageViews": {
+        "shortTermTrend": "NEUTRAL",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}

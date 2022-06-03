@@ -9,6 +9,7 @@ import { StockDetailsComponent } from './stock-details/stock-details.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { NewsComponent } from './news/news.component';
 import { HoldingsComponent } from './holdings/holdings.component';
+import { WatchlistComponent } from './watchlist/watchlist.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { HoldingsComponent } from './holdings/holdings.component';
     PortfolioComponent,
     NewsComponent,
     HoldingsComponent,
+    WatchlistComponent
   ],
   imports: [
     CommonModule,

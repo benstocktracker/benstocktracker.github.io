@@ -108,6 +108,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
   ngOnInit() {
     this.activatedRoute.data.subscribe(response => {
       this.dataSource.data = Object.values(response['stocks'].default);
+      console.log(this.dataSource.data);
 
       // this.http.get('../../../../assets/holdings.csv', {responseType: 'text'}).subscribe((data: string) => { 
       //   const stocklist_data = data.split(/\r\n|\n/).slice(0, -1);

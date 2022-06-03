@@ -1,66 +1,66 @@
 {
-    "19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b": {
-        "uuid": "19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b",
-        "title": "Down 23%, Should Investors Pounce on Microsoft Today?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/19f3eb3b-228a-32e9-ac0c-a37a1c9a2a2b/down-23%25%2C-should-investors.html",
-        "providerPublishTime": 1654000200,
-        "type": "STORY"
-    },
-    "241fda52-4e4e-3851-9fc8-04f1839c461b": {
-        "uuid": "241fda52-4e4e-3851-9fc8-04f1839c461b",
-        "title": "Dow Jones Futures Signal Losses For Market Rally; Should You Be Aggressive?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/241fda52-4e4e-3851-9fc8-04f1839c461b/dow-jones-futures-signal.html",
-        "providerPublishTime": 1653999619,
-        "type": "STORY"
-    },
-    "28f1c2d2-fce3-3a95-a407-1abebc67b0eb": {
-        "uuid": "28f1c2d2-fce3-3a95-a407-1abebc67b0eb",
-        "title": "These Investors Say Nasdaq\u2019s Bear Market Has Legs",
+    "fd738a4a-d724-32c9-b810-f9a67eb06bcc": {
+        "uuid": "fd738a4a-d724-32c9-b810-f9a67eb06bcc",
+        "title": "Activision Retaliated Against Workers, Union\u2019s Complaint Claims",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/investors-nasdaq-bear-market-legs-101440519.html",
-        "providerPublishTime": 1653992080,
+        "link": "https://finance.yahoo.com/news/activision-retaliated-against-workers-union-203534632.html",
+        "providerPublishTime": 1654288534,
         "type": "STORY"
     },
-    "69f4632f-d273-3974-95d2-18cff8f5ef21": {
-        "uuid": "69f4632f-d273-3974-95d2-18cff8f5ef21",
-        "title": "Microsoft Joins the Tech Sector Hiring Slowdown",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/69f4632f-d273-3974-95d2-18cff8f5ef21/microsoft-joins-the-tech.html",
-        "providerPublishTime": 1653936540,
-        "type": "STORY"
-    },
-    "0ff4aa24-24fe-320c-b9cc-4ea125b4f451": {
-        "uuid": "0ff4aa24-24fe-320c-b9cc-4ea125b4f451",
-        "title": "We Like Microsoft's (NASDAQ:MSFT) Returns And Here's How They're Trending",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/microsofts-nasdaq-msft-returns-heres-175702280.html",
-        "providerPublishTime": 1653933422,
-        "type": "STORY"
-    },
-    "ce8ec53a-8b68-39f6-9e36-847fa7dbd1be": {
-        "uuid": "ce8ec53a-8b68-39f6-9e36-847fa7dbd1be",
-        "title": "MongoDB (MDB) to Report Q1 Earnings: What's in the Offing?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/mongodb-mdb-report-q1-earnings-142602354.html",
-        "providerPublishTime": 1653920762,
-        "type": "STORY"
-    },
-    "e6530c2e-71a4-478f-88cf-6eee0c7234e6": {
-        "uuid": "e6530c2e-71a4-478f-88cf-6eee0c7234e6",
-        "title": "What Tesla CEO Elon Musk gets wrong about ESG, according to Dave Nadig",
+    "3dad1e11-5120-4d6c-b103-8926b9921f74": {
+        "uuid": "3dad1e11-5120-4d6c-b103-8926b9921f74",
+        "title": "Tesla, Apple, Microsoft, Peloton: All of tech companies hitting the brakes on hiring",
         "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/tesla-ceo-elon-musk-wrong-about-esg-133447951.html",
-        "providerPublishTime": 1653917687,
+        "link": "https://finance.yahoo.com/news/tesla-apple-microsoft-peloton-all-of-tech-companies-hitting-the-brakes-on-hiring-202428628.html",
+        "providerPublishTime": 1654287868,
         "type": "STORY"
     },
-    "a0354da2-4b0b-3804-80e7-e1e1509a370d": {
-        "uuid": "a0354da2-4b0b-3804-80e7-e1e1509a370d",
-        "title": "Al Gore\u2019s Investment Firm Bought Alibaba and Salesforce. It Sold Cisco and Microsoft.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a0354da2-4b0b-3804-80e7-e1e1509a370d/al-gore%E2%80%99s-investment-firm.html",
-        "providerPublishTime": 1653915600,
+    "40832cbe-7122-3071-bcc0-feb0c15ac215": {
+        "uuid": "40832cbe-7122-3071-bcc0-feb0c15ac215",
+        "title": "Microsoft\u2019s Dollar Alarm Raises New Worry for Software Stocks",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/microsoft-dollar-alarm-raises-worry-190005611.html",
+        "providerPublishTime": 1654287300,
+        "type": "STORY"
+    },
+    "b35d4229-4582-3895-8956-88795c362c91": {
+        "uuid": "b35d4229-4582-3895-8956-88795c362c91",
+        "title": "10 Value Stocks to Buy in 2022 According to Ken Fisher",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-value-stocks-buy-2022-192314323.html",
+        "providerPublishTime": 1654284194,
+        "type": "STORY"
+    },
+    "b2fba87b-2936-365e-b9c3-9369dbbbc47b": {
+        "uuid": "b2fba87b-2936-365e-b9c3-9369dbbbc47b",
+        "title": "Microsoft breaks with Amazon and Starbucks on unions in vow to voluntarily recognize labor: \u2018We have a lot to learn\u2019",
+        "publisher": "Fortune",
+        "link": "https://finance.yahoo.com/news/microsoft-breaks-amazon-starbucks-unions-174614050.html",
+        "providerPublishTime": 1654278374,
+        "type": "STORY"
+    },
+    "fc6e3c6a-5d56-3c92-83f7-81c004783be4": {
+        "uuid": "fc6e3c6a-5d56-3c92-83f7-81c004783be4",
+        "title": "Here's How Analysts Reacted To Microsoft's Outlook Revision",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/heres-analysts-reacted-microsofts-outlook-172550617.html",
+        "providerPublishTime": 1654277150,
+        "type": "STORY"
+    },
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Stock Picks Shift To Energy Stocks; Top Pick Tesla Takes A Hit",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stock.html",
+        "providerPublishTime": 1654274607,
+        "type": "STORY"
+    },
+    "65b53896-faf4-3a06-9d0d-a63cf3c83192": {
+        "uuid": "65b53896-faf4-3a06-9d0d-a63cf3c83192",
+        "title": "5 Dow Jones Stocks To Buy And Watch In June: Apple Sells Off",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/65b53896-faf4-3a06-9d0d-a63cf3c83192/5-dow-jones-stocks-to-buy-and.html",
+        "providerPublishTime": 1654274553,
         "type": "STORY"
     }
 }

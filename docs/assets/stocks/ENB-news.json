@@ -1,4 +1,28 @@
 {
+    "d9ee6375-ebcb-3e16-a4b7-f269617af53d": {
+        "uuid": "d9ee6375-ebcb-3e16-a4b7-f269617af53d",
+        "title": "Natural Gas: Abundant, Versatile and Affordable",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/natural-gas-abundant-versatile-affordable-153108329.html",
+        "providerPublishTime": 1654270268,
+        "type": "STORY"
+    },
+    "c338e4bc-2984-3074-8c43-b0b2545d1ad2": {
+        "uuid": "c338e4bc-2984-3074-8c43-b0b2545d1ad2",
+        "title": "Inflation Won't Be a Problem for This Energy Giant",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c338e4bc-2984-3074-8c43-b0b2545d1ad2/inflation-won%27t-be-a-problem.html",
+        "providerPublishTime": 1654263480,
+        "type": "STORY"
+    },
+    "37b16481-4c09-3c8e-9b39-34fd4a534c9f": {
+        "uuid": "37b16481-4c09-3c8e-9b39-34fd4a534c9f",
+        "title": "10 Oil Stocks to Watch on Thursday",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-oil-stocks-watch-thursday-194357677.html",
+        "providerPublishTime": 1654199037,
+        "type": "STORY"
+    },
     "674798cc-0df3-3223-916c-73baca5a12bf": {
         "uuid": "674798cc-0df3-3223-916c-73baca5a12bf",
         "title": "These Stocks Could Pipe a Massive Amount of Passive Income Into Your Portfolio",
@@ -37,30 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/enbridge-advancing-construction-natural-gas-110000190.html",
         "providerPublishTime": 1653562800,
-        "type": "STORY"
-    },
-    "c7f9bbd0-00eb-3861-9921-a5820775168f": {
-        "uuid": "c7f9bbd0-00eb-3861-9921-a5820775168f",
-        "title": "ENBRIDGE ADVANCING CONSTRUCTION OF NATURAL GAS PIPELINE TO VENTURE GLOBAL'S PLAQUEMINES LNG FACILITY",
-        "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/enbridge-advancing-construction-natural-gas-110000275.html",
-        "providerPublishTime": 1653562800,
-        "type": "STORY"
-    },
-    "023ae903-4520-3c64-a82e-b1ef7c0d6772": {
-        "uuid": "023ae903-4520-3c64-a82e-b1ef7c0d6772",
-        "title": "7 Hot Energy Stocks to Buy on the Dips",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-hot-energy-stocks-buy-233929642.html",
-        "providerPublishTime": 1653435569,
-        "type": "STORY"
-    },
-    "2ee87d00-e76c-3aca-a518-c9c088aff31d": {
-        "uuid": "2ee87d00-e76c-3aca-a518-c9c088aff31d",
-        "title": "Enbridge Announces Conversion Results for Series B and Series C Preferred Shares",
-        "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/enbridge-announces-conversion-results-series-220000438.html",
-        "providerPublishTime": 1652997600,
         "type": "STORY"
     }
 }

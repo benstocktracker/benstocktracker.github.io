@@ -1,4 +1,12 @@
 {
+    "a1b4e748-8afa-3fcb-ae5c-2e9202d87408": {
+        "uuid": "a1b4e748-8afa-3fcb-ae5c-2e9202d87408",
+        "title": "THE NECESSITY RETAIL REIT TO PRESENT AT NAREIT'S REITWEEK 2022",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-present-nareits-120000675.html",
+        "providerPublishTime": 1654171200,
+        "type": "STORY"
+    },
     "f40740f9-9bce-34c6-9868-cb825c3ceaec": {
         "uuid": "f40740f9-9bce-34c6-9868-cb825c3ceaec",
         "title": "THE NECESSITY RETAIL REIT CLOSES ON THE PLANT IN SAN JOSE, CA FOR $175 MILLION AS PART OF THE PREVIOUSLY ANNOUNCED $1.3 BILLION OPEN-AIR SHOPPING CENTER ACQUISITION",
@@ -53,14 +61,6 @@
         "publisher": "PR Newswire",
         "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-release-100000053.html",
         "providerPublishTime": 1649930400,
-        "type": "STORY"
-    },
-    "dec46f34-ef61-3fbc-9b7c-b1852fc5241b": {
-        "uuid": "dec46f34-ef61-3fbc-9b7c-b1852fc5241b",
-        "title": "The Necessity Retail REIT Announces Common Stock Dividend for Second Quarter 2022",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-common-100000284.html",
-        "providerPublishTime": 1648807200,
         "type": "STORY"
     }
 }
