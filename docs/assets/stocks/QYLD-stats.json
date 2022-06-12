@@ -11,7 +11,7 @@
         "revenueQuarterlyGrowth": null,
         "fundInceptionDate": 1386720000,
         "annualReportExpenseRatio": null,
-        "totalAssets": 6895924224,
+        "totalAssets": 6849909760,
         "bookValue": null,
         "fundFamily": "Global X Funds",
         "lastFiscalYearEnd": null,
@@ -21,11 +21,11 @@
         "SandP52WeekChange": null,
         "priceToBook": null,
         "nextFiscalYearEnd": null,
-        "yield": 0.002,
+        "yield": 0.0032,
         "mostRecentQuarter": null,
         "enterpriseValue": null,
         "priceHint": 2,
-        "threeYearAverageReturn": 0.0586,
+        "threeYearAverageReturn": 0.0397,
         "lastSplitDate": null,
         "lastSplitFactor": null,
         "legalType": "Exchange Traded Fund",
@@ -34,12 +34,12 @@
         "earningsQuarterlyGrowth": null,
         "priceToSalesTrailing12Months": null,
         "pegRatio": null,
-        "ytdReturn": -0.1461,
+        "ytdReturn": -0.1537,
         "forwardPE": null,
         "maxAge": 1,
         "lastCapGain": null,
         "category": null,
-        "fiveYearAverageReturn": 0.0582
+        "fiveYearAverageReturn": 0.056799997
     },
     "fundProfile": {
         "initInvestment": null,
@@ -90,34 +90,34 @@
                 "realestate": 0
             },
             {
-                "consumer_cyclical": 0.1602
+                "consumer_cyclical": 0.16319999
             },
             {
                 "basic_materials": 0
             },
             {
-                "consumer_defensive": 0.063200004
+                "consumer_defensive": 0.0647
             },
             {
-                "technology": 0.48299998
+                "technology": 0.5208
             },
             {
-                "communication_services": 0.16370001
+                "communication_services": 0.1826
             },
             {
-                "financial_services": 0.0086
+                "financial_services": 0.0092
             },
             {
                 "utilities": 0.0087
             },
             {
-                "industrials": 0.0427
+                "industrials": 0.0461
             },
             {
                 "energy": 0
             },
             {
-                "healthcare": 0.063200004
+                "healthcare": 0.0689
             }
         ],
         "holdings": [
@@ -226,104 +226,102 @@
         "otherPosition": null,
         "maxAge": 1,
         "cashPosition": null,
-        "stockPosition": 0.9976
+        "stockPosition": 0.9895
     },
     "price": {
-        "quoteSourceName": "Nasdaq Real Time Price",
-        "regularMarketOpen": 18.06,
-        "averageDailyVolume3Month": 6152922,
+        "quoteSourceName": "Delayed Quote",
+        "regularMarketOpen": 17.96,
+        "averageDailyVolume3Month": 6024292,
         "exchange": "NGM",
-        "regularMarketTime": 1654286404,
+        "regularMarketTime": 1654891204,
         "volume24Hr": null,
-        "regularMarketDayHigh": 18.09,
+        "regularMarketDayHigh": 17.97,
         "shortName": "Global X NASDAQ-100 Covered Cal",
-        "averageDailyVolume10Day": 6781750,
+        "averageDailyVolume10Day": 4555480,
         "longName": "Global X NASDAQ 100 Covered Call ETF",
-        "regularMarketChange": -0.050001144,
+        "regularMarketChange": -0.1799984,
         "currencySymbol": "$",
-        "regularMarketPreviousClose": 18.11,
-        "postMarketTime": 1654291925,
-        "preMarketPrice": 18.01,
-        "preMarketTime": 1654262927,
+        "regularMarketPreviousClose": 18.05,
+        "postMarketTime": 1654905463,
+        "preMarketPrice": null,
         "exchangeDataDelayedBy": 0,
         "toCurrency": null,
-        "postMarketChange": -0.02999878,
-        "postMarketPrice": 18.03,
+        "postMarketChange": 0.059999466,
+        "postMarketPrice": 17.93,
         "exchangeName": "NasdaqGM",
-        "preMarketChange": -0.10000038,
+        "preMarketChange": null,
         "circulatingSupply": null,
-        "regularMarketDayLow": 18.03,
+        "regularMarketDayLow": 17.82,
         "priceHint": 2,
         "currency": "USD",
-        "regularMarketPrice": 18.06,
-        "regularMarketVolume": 3403573,
+        "regularMarketPrice": 17.87,
+        "regularMarketVolume": 7791543,
         "lastMarket": null,
         "regularMarketSource": "FREE_REALTIME",
         "openInterest": null,
-        "marketState": "POST",
+        "marketState": "CLOSED",
         "underlyingSymbol": null,
         "marketCap": null,
         "quoteType": "ETF",
-        "preMarketChangePercent": -0.005521832,
         "volumeAllCurrencies": null,
-        "postMarketSource": "FREE_REALTIME",
+        "postMarketSource": "DELAYED",
         "strikePrice": null,
         "symbol": "QYLD",
-        "postMarketChangePercent": -0.0016610621,
-        "preMarketSource": "DELAYED",
+        "postMarketChangePercent": 0.0033575527,
+        "preMarketSource": "FREE_REALTIME",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": -0.0027609684
+        "regularMarketChangePercent": -0.009972211
     },
     "fundPerformance": {
         "trailingReturns": {
-            "threeMonth": -0.0681524,
-            "oneYear": -0.0788209,
-            "ytd": -0.14567119,
+            "threeMonth": -0.0631223,
+            "oneYear": -0.0802143,
+            "ytd": -0.1423525,
             "lastBearMkt": 0,
             "lastBullMkt": 0,
-            "fiveYear": 0.077171504,
-            "asOfDate": 1654041600,
+            "fiveYear": 0.0776211,
+            "asOfDate": 1654473600,
             "tenYear": 0,
-            "oneMonth": -0.0559164,
-            "threeYear": 0.058807902
+            "oneMonth": -0.0438179,
+            "threeYear": 0.052918702
         },
         "performanceOverview": {
             "bestThreeYrTotalReturn": null,
             "morningStarReturnRating": null,
-            "ytdReturnPct": -0.1461,
+            "ytdReturnPct": -0.1537,
             "fiveYrAvgReturnPct": null,
             "numYearsUp": null,
             "worstOneYrTotalReturn": null,
-            "oneYearTotalReturn": -0.0789,
+            "oneYearTotalReturn": -0.096499994,
             "numYearsDown": null,
-            "asOfDate": 1654041600,
+            "asOfDate": 1654819200,
             "worstThreeYrTotalReturn": null,
             "bestOneYrTotalReturn": null,
-            "threeYearTotalReturn": 0.0586
+            "threeYearTotalReturn": 0.0397
         },
         "riskOverviewStatistics": {
             "riskRating": null,
             "riskStatistics": [
                 {
                     "year": "5y",
-                    "alpha": -2.4,
+                    "alpha": -3.77,
                     "beta": 0.71,
-                    "meanAnnualReturn": 0.67,
-                    "rSquared": 85.2,
-                    "stdDev": 12.62,
-                    "sharpeRatio": 1.18,
-                    "treynorRatio": 8.94
+                    "meanAnnualReturn": 0.54,
+                    "rSquared": 82.28,
+                    "stdDev": 12.92,
+                    "sharpeRatio": 0.84,
+                    "treynorRatio": 6.62
                 },
                 {
                     "year": "3y",
-                    "alpha": -3.67,
+                    "alpha": -5.7,
                     "beta": 0.72,
-                    "meanAnnualReturn": 0.59,
-                    "rSquared": 88.15,
-                    "stdDev": 14.24,
-                    "sharpeRatio": 0.55,
-                    "treynorRatio": 7.84
+                    "meanAnnualReturn": 0.56,
+                    "rSquared": 83.52,
+                    "stdDev": 14.38,
+                    "sharpeRatio": 0.48,
+                    "treynorRatio": 7.27
                 },
                 {
                     "year": "10y",
@@ -368,12 +366,12 @@
             "returns": []
         },
         "trailingReturnsNav": {
-            "ytd": -0.14567119,
-            "oneMonth": -0.0559164,
-            "threeMonth": -0.0681524,
-            "oneYear": -0.0788209,
-            "threeYear": 0.058807902,
-            "fiveYear": 0.077171504,
+            "ytd": -0.1423525,
+            "oneMonth": -0.0438179,
+            "threeMonth": -0.0631223,
+            "oneYear": -0.0802143,
+            "threeYear": 0.052918702,
+            "fiveYear": 0.0776211,
             "tenYear": 0
         },
         "annualTotalReturns": {
@@ -432,58 +430,58 @@
         "market": "us_market"
     },
     "summaryDetail": {
-        "previousClose": 18.11,
-        "regularMarketOpen": 18.06,
-        "twoHundredDayAverage": 21.320875,
+        "previousClose": 18.05,
+        "regularMarketOpen": 17.96,
+        "twoHundredDayAverage": 21.177574,
         "trailingAnnualDividendYield": null,
         "payoutRatio": null,
         "volume24Hr": null,
-        "regularMarketDayHigh": 18.09,
-        "navPrice": 18.02,
-        "averageDailyVolume10Day": 6781750,
-        "totalAssets": 6895924224,
-        "regularMarketPreviousClose": 18.11,
-        "fiftyDayAverage": 19.5824,
+        "regularMarketDayHigh": 17.97,
+        "navPrice": 17.85,
+        "averageDailyVolume10Day": 4555480,
+        "totalAssets": 6849909760,
+        "regularMarketPreviousClose": 18.05,
+        "fiftyDayAverage": 19.2398,
         "trailingAnnualDividendRate": null,
-        "open": 18.06,
+        "open": 17.96,
         "toCurrency": null,
-        "averageVolume10days": 6781750,
+        "averageVolume10days": 4555480,
         "expireDate": null,
-        "yield": 0.002,
+        "yield": 0.0032,
         "algorithm": null,
         "dividendRate": null,
         "exDividendDate": null,
         "beta": null,
         "circulatingSupply": null,
         "startDate": null,
-        "regularMarketDayLow": 18.03,
+        "regularMarketDayLow": 17.82,
         "priceHint": 2,
         "currency": "USD",
-        "regularMarketVolume": 3403573,
+        "regularMarketVolume": 7791543,
         "lastMarket": null,
         "maxSupply": null,
         "openInterest": null,
         "marketCap": null,
         "volumeAllCurrencies": null,
         "strikePrice": null,
-        "averageVolume": 6152922,
+        "averageVolume": 6024292,
         "priceToSalesTrailing12Months": null,
-        "dayLow": 18.03,
-        "ask": 18.07,
+        "dayLow": 17.82,
+        "ask": 17.93,
         "ytdReturn": null,
-        "askSize": 46000,
-        "volume": 3403573,
+        "askSize": 34100,
+        "volume": 7791543,
         "fiftyTwoWeekHigh": 23.15,
         "forwardPE": null,
         "maxAge": 1,
         "fromCurrency": null,
         "fiveYearAvgDividendYield": null,
         "fiftyTwoWeekLow": 17.31,
-        "bid": 18.03,
+        "bid": 17.9,
         "tradeable": false,
         "dividendYield": null,
-        "bidSize": 21500,
-        "dayHigh": 18.09
+        "bidSize": 27000,
+        "dayHigh": 17.97
     },
     "symbol": "QYLD",
     "assetProfile": {
@@ -494,7 +492,7 @@
     },
     "esgScores": null,
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

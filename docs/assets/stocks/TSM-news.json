@@ -1,66 +1,66 @@
 {
-    "182976cb-ac11-3777-9f92-2f495bb5ffcd": {
-        "uuid": "182976cb-ac11-3777-9f92-2f495bb5ffcd",
-        "title": "Zacks Investment Ideas feature highlights: Advanced Micro Devices, ON Semiconducto, and Taiwan Semiconductor Manufacturing",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-151603644.html",
-        "providerPublishTime": 1654182963,
+    "af4f898a-02c5-3b32-bb52-6435dfa731fe": {
+        "uuid": "af4f898a-02c5-3b32-bb52-6435dfa731fe",
+        "title": "Top Toyota Supplier Denso Mulls $3 Billion Chip Unit Spinoff",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/top-toyota-supplier-denso-mulls-054500693.html",
+        "providerPublishTime": 1654848211,
         "type": "STORY"
     },
-    "544b6971-9bce-388b-b7fe-b1f074ce0908": {
-        "uuid": "544b6971-9bce-388b-b7fe-b1f074ce0908",
-        "title": "Hedge Funds are Buying These 10 Semiconductor Stocks in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/hedge-funds-buying-10-semiconductor-143904018.html",
-        "providerPublishTime": 1654180744,
+    "2f997dbb-e749-3c0e-9b19-77499e838d3a": {
+        "uuid": "2f997dbb-e749-3c0e-9b19-77499e838d3a",
+        "title": "TSMC\u2019s $100 Billion Wipeout Fails to Faze Bullish Analysts",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/tsmc-100-billion-wipeout-fails-223000870.html",
+        "providerPublishTime": 1654840920,
         "type": "STORY"
     },
-    "8118ca03-b588-3fb8-b990-fe5739b03a8e": {
-        "uuid": "8118ca03-b588-3fb8-b990-fe5739b03a8e",
-        "title": "3 Chip Stocks Perfect For Long-Term Investors",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/3-chip-stocks-perfect-long-193507472.html",
-        "providerPublishTime": 1654112107,
+    "a6a2eeba-09d8-31eb-acc8-c1bced9b4d21": {
+        "uuid": "a6a2eeba-09d8-31eb-acc8-c1bced9b4d21",
+        "title": "NXP Semiconductors Stock Rises On Samsung Takeover Speculation",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a6a2eeba-09d8-31eb-acc8-c1bced9b4d21/nxp-semiconductors-stock.html",
+        "providerPublishTime": 1654805754,
         "type": "STORY"
     },
-    "d159e91c-cbf9-3bf3-a6f5-f1670b9cb1a2": {
-        "uuid": "d159e91c-cbf9-3bf3-a6f5-f1670b9cb1a2",
-        "title": "10 Stocks to Buy According to GuardCap Asset Management",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-buy-according-guardcap-130258570.html",
-        "providerPublishTime": 1654088578,
-        "type": "STORY"
-    },
-    "f791e9f6-1b66-37e2-9951-c827dfa2940a": {
-        "uuid": "f791e9f6-1b66-37e2-9951-c827dfa2940a",
-        "title": "3 Stocks to Take Advantage of the Increased Spending in Data Centers",
+    "4f074fab-3ffd-39cd-877c-251fe6d5f892": {
+        "uuid": "4f074fab-3ffd-39cd-877c-251fe6d5f892",
+        "title": "Why NXP Semiconductors Rocketed Higher Today, Defying the Chip Sector's Trend",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f791e9f6-1b66-37e2-9951-c827dfa2940a/3-stocks-to-take-advantage-of.html",
-        "providerPublishTime": 1654081200,
+        "link": "https://finance.yahoo.com/m/4f074fab-3ffd-39cd-877c-251fe6d5f892/why-nxp-semiconductors.html",
+        "providerPublishTime": 1654801475,
         "type": "STORY"
     },
-    "5fc2b3ec-1159-3d72-8afa-132a22c28495": {
-        "uuid": "5fc2b3ec-1159-3d72-8afa-132a22c28495",
-        "title": "TSMC (TSM) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/tsmc-tsm-gains-market-dips-214509556.html",
-        "providerPublishTime": 1654033509,
+    "f2a827c4-38a0-37a8-9430-826a761c3a98": {
+        "uuid": "f2a827c4-38a0-37a8-9430-826a761c3a98",
+        "title": "Biden\u2019s $52 Billion Chips Plan Stuck; Lawmakers Eye Election",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/biden-52-billion-chips-plan-175341217.html",
+        "providerPublishTime": 1654797221,
         "type": "STORY"
     },
-    "3d11addb-6b06-356d-9f50-e298519b5497": {
-        "uuid": "3d11addb-6b06-356d-9f50-e298519b5497",
-        "title": "Market check: Stocks turn lower, Treasury yields rise in choppy session",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-stocks-turn-lower-192417944.html",
-        "providerPublishTime": 1654025057,
-        "type": "VIDEO"
+    "a0340740-47aa-3de1-a2e6-80dd39cdff4f": {
+        "uuid": "a0340740-47aa-3de1-a2e6-80dd39cdff4f",
+        "title": "Chip Shortage Threatens Cutting-Edge Tech Needed for Next-Generation Smartphones",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/a0340740-47aa-3de1-a2e6-80dd39cdff4f/chip-shortage-threatens.html",
+        "providerPublishTime": 1654777800,
+        "type": "STORY"
     },
-    "baa785a4-7f4d-35c3-a1cb-250e731886c1": {
-        "uuid": "baa785a4-7f4d-35c3-a1cb-250e731886c1",
-        "title": "The 7 Best Tech Stocks to Buy for June 2022",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-best-tech-stocks-buy-141601720.html",
-        "providerPublishTime": 1653920161,
+    "41a9b7b9-fa1f-3d44-b0cd-4628f34de54a": {
+        "uuid": "41a9b7b9-fa1f-3d44-b0cd-4628f34de54a",
+        "title": "Supply chain stability and greener ride hailing",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/41a9b7b9-fa1f-3d44-b0cd-4628f34de54a/supply-chain-stability-and.html",
+        "providerPublishTime": 1654774791,
+        "type": "STORY"
+    },
+    "2f79fb90-c0a7-3850-afa1-898c52fa10e2": {
+        "uuid": "2f79fb90-c0a7-3850-afa1-898c52fa10e2",
+        "title": "1 Monster Opportunity in the Global Chip Shortage",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2f79fb90-c0a7-3850-afa1-898c52fa10e2/1-monster-opportunity-in-the.html",
+        "providerPublishTime": 1654773600,
         "type": "STORY"
     }
 }

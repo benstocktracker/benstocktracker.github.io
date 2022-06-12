@@ -1,4 +1,36 @@
 {
+    "da55876b-cefe-34ef-9b65-da6cede673be": {
+        "uuid": "da55876b-cefe-34ef-9b65-da6cede673be",
+        "title": "Got $1,000? Buying the Dip on These 2 E-Commerce Stocks Could Bring Monster Returns",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/da55876b-cefe-34ef-9b65-da6cede673be/got-%241%2C000%3F-buying-the-dip-on.html",
+        "providerPublishTime": 1654961400,
+        "type": "STORY"
+    },
+    "b3d60335-5408-3932-a0c1-ad62736e5bb3": {
+        "uuid": "b3d60335-5408-3932-a0c1-ad62736e5bb3",
+        "title": "Down 76% in 1 Year, This E-Commerce Stock Could Deliver Massive Gains Down the Road",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b3d60335-5408-3932-a0c1-ad62736e5bb3/down-76%25-in-1-year%2C-this.html",
+        "providerPublishTime": 1654958700,
+        "type": "STORY"
+    },
+    "99cadaf9-cbf5-3adf-97d7-b12d6d19b526": {
+        "uuid": "99cadaf9-cbf5-3adf-97d7-b12d6d19b526",
+        "title": "What Kind Of Shareholders Hold The Majority In Jumia Technologies AG's (NYSE:JMIA) Shares?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/kind-shareholders-hold-majority-jumia-145025502.html",
+        "providerPublishTime": 1654699825,
+        "type": "STORY"
+    },
+    "0c90a130-3f5c-3119-ac76-877e43dce2dd": {
+        "uuid": "0c90a130-3f5c-3119-ac76-877e43dce2dd",
+        "title": "What Is Going on With Jumia Stock?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0c90a130-3f5c-3119-ac76-877e43dce2dd/what-is-going-on-with-jumia.html",
+        "providerPublishTime": 1654698600,
+        "type": "STORY"
+    },
     "530736d7-a13f-3737-afe3-16c052914407": {
         "uuid": "530736d7-a13f-3737-afe3-16c052914407",
         "title": "Why Jumia Technologies Stock Popped 12.6% This Week",
@@ -29,38 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/916ff3c2-fcbd-3bf1-9b2c-b2103bb1a950/why-jumia-stock-jumped-today.html",
         "providerPublishTime": 1652807419,
-        "type": "STORY"
-    },
-    "f328f39d-3095-3eeb-a318-2208ca8e8791": {
-        "uuid": "f328f39d-3095-3eeb-a318-2208ca8e8791",
-        "title": "Jumia Registers 44% Revenue Growth In Q1 Backed By GMV, Order Growth",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/jumia-registers-44-revenue-growth-131628706.html",
-        "providerPublishTime": 1652793388,
-        "type": "STORY"
-    },
-    "c9e9dc79-5d93-3910-a13b-fd7eba6313fc": {
-        "uuid": "c9e9dc79-5d93-3910-a13b-fd7eba6313fc",
-        "title": "Jumia Reports First Quarter 2022 Results",
-        "publisher": "ACCESSWIRE",
-        "link": "https://finance.yahoo.com/news/jumia-reports-first-quarter-2022-104500656.html",
-        "providerPublishTime": 1652784300,
-        "type": "STORY"
-    },
-    "df7a66a5-7d58-3ee1-81d5-fffad6bbd03f": {
-        "uuid": "df7a66a5-7d58-3ee1-81d5-fffad6bbd03f",
-        "title": "Jumia Shares First Environmental Social Governance Report Highlighting Its Current Sustainability Practices",
-        "publisher": "ACCESSWIRE",
-        "link": "https://finance.yahoo.com/news/jumia-shares-first-environmental-social-103300464.html",
-        "providerPublishTime": 1652265180,
-        "type": "STORY"
-    },
-    "b1bdd06e-19b9-34ea-ba67-72ecd1bebdcd": {
-        "uuid": "b1bdd06e-19b9-34ea-ba67-72ecd1bebdcd",
-        "title": "Companies Like Jumia Technologies (NYSE:JMIA) Are In A Position To Invest In Growth",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/companies-jumia-technologies-nyse-jmia-141552481.html",
-        "providerPublishTime": 1652105752,
         "type": "STORY"
     }
 }

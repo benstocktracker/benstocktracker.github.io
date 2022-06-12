@@ -1,4 +1,28 @@
 {
+    "11dc5ee5-e39b-3356-b087-6a5001b74db6": {
+        "uuid": "11dc5ee5-e39b-3356-b087-6a5001b74db6",
+        "title": "Smarsh Names Kim Crawford Goodman Chief Executive Officer",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/smarsh-names-kim-crawford-goodman-110000834.html",
+        "providerPublishTime": 1654772400,
+        "type": "STORY"
+    },
+    "89bd9741-b40c-3928-b010-31a5fce1b9e0": {
+        "uuid": "89bd9741-b40c-3928-b010-31a5fce1b9e0",
+        "title": "Charter to Participate in Credit Suisse Communications Conference",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/charter-participate-credit-suisse-communications-160000460.html",
+        "providerPublishTime": 1654704000,
+        "type": "STORY"
+    },
+    "31485fcd-48b0-3d0c-8906-b2fca6a64f1c": {
+        "uuid": "31485fcd-48b0-3d0c-8906-b2fca6a64f1c",
+        "title": "Rosenblatt Slashes Price Targets On Charter Communication, Comcast - Read Why",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/rosenblatt-slashes-price-targets-charter-184239448.html",
+        "providerPublishTime": 1654540959,
+        "type": "STORY"
+    },
     "8e3e702c-2bda-386d-9768-f181c1349854": {
         "uuid": "8e3e702c-2bda-386d-9768-f181c1349854",
         "title": "Charter Extends Maturities and Increases Certain of Its Credit Facilities",
@@ -37,30 +61,6 @@
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/warren-buffett-holding-10-tech-210426691.html",
         "providerPublishTime": 1652907866,
-        "type": "STORY"
-    },
-    "16a6f19f-ed9b-3a72-a27e-7ed306b1e7e7": {
-        "uuid": "16a6f19f-ed9b-3a72-a27e-7ed306b1e7e7",
-        "title": "Charter to Participate in J.P. Morgan Global Technology, Media and Communications Conference",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/charter-participate-j-p-morgan-201500886.html",
-        "providerPublishTime": 1652904900,
-        "type": "STORY"
-    },
-    "9668487d-977a-34ff-8d34-7cbce3fc6b1c": {
-        "uuid": "9668487d-977a-34ff-8d34-7cbce3fc6b1c",
-        "title": "Kelly: Two Johnson County projects could deliver 8,800 new jobs in the next 16 years",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/9668487d-977a-34ff-8d34-7cbce3fc6b1c/kelly%3A-two-johnson-county.html",
-        "providerPublishTime": 1652859824,
-        "type": "STORY"
-    },
-    "14f14b1b-f561-351a-86de-f02d788918c2": {
-        "uuid": "14f14b1b-f561-351a-86de-f02d788918c2",
-        "title": "Zacks Industry Outlook Highlights Comcast, Charter Communications and Rogers Communication",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-comcast-151503897.html",
-        "providerPublishTime": 1652800503,
         "type": "STORY"
     }
 }

@@ -1,4 +1,12 @@
 {
+    "3fea6c50-9558-3f37-b7d8-065110b8628f": {
+        "uuid": "3fea6c50-9558-3f37-b7d8-065110b8628f",
+        "title": "10 Best Passive Income Stocks to Buy Now",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-passive-income-stocks-133108242.html",
+        "providerPublishTime": 1654522268,
+        "type": "STORY"
+    },
     "c09da86f-86b5-3b8f-8bfa-c0878df0baf4": {
         "uuid": "c09da86f-86b5-3b8f-8bfa-c0878df0baf4",
         "title": "Federal Realty Releases 2021 Environmental, Social and Governance Report",
@@ -53,14 +61,6 @@
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/3-dividend-stocks-buy-passive-113031826.html",
         "providerPublishTime": 1652441431,
-        "type": "STORY"
-    },
-    "b5602845-d91d-3202-be66-af8a0e476274": {
-        "uuid": "b5602845-d91d-3202-be66-af8a0e476274",
-        "title": "Simon Property (SPG) Q1 FFO Tops, '22 View Up, Dividend Hiked",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/simon-property-spg-q1-ffo-143902094.html",
-        "providerPublishTime": 1652193542,
         "type": "STORY"
     }
 }

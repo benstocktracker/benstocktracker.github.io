@@ -1,66 +1,66 @@
 {
-    "796d5660-3939-3f41-b51f-608860bce5d3": {
-        "uuid": "796d5660-3939-3f41-b51f-608860bce5d3",
-        "title": "Apple Was the Worst Stock in the Dow Friday",
+    "b783126e-c789-3e7f-a47c-f348ccf312d9": {
+        "uuid": "b783126e-c789-3e7f-a47c-f348ccf312d9",
+        "title": "Exxon May Be Making \u2018More Than God.\u2019 But Apple and Alphabet Are More Profitable.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/b783126e-c789-3e7f-a47c-f348ccf312d9/exxon-may-be-making-%E2%80%98more.html",
+        "providerPublishTime": 1655064480,
+        "type": "STORY"
+    },
+    "e365fdd3-0b45-34c4-8225-e0db94441109": {
+        "uuid": "e365fdd3-0b45-34c4-8225-e0db94441109",
+        "title": "Apple Needs \u2018One More Thing\u2019\u2014and It Will Have to Be Big",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/e365fdd3-0b45-34c4-8225-e0db94441109/apple-needs-%E2%80%98one-more.html",
+        "providerPublishTime": 1655064300,
+        "type": "STORY"
+    },
+    "0e0666f6-4cf4-3df0-94ba-51e248c566e4": {
+        "uuid": "0e0666f6-4cf4-3df0-94ba-51e248c566e4",
+        "title": "Apple Is Delving Into \u2018Buy Now Pay Later.\u2019 These Other Stocks Might Be the Best Ways to Play the Trend.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/0e0666f6-4cf4-3df0-94ba-51e248c566e4/apple-is-delving-into-%E2%80%98buy.html",
+        "providerPublishTime": 1655063760,
+        "type": "STORY"
+    },
+    "e81185ba-88b1-31d3-9cec-80d69eb14260": {
+        "uuid": "e81185ba-88b1-31d3-9cec-80d69eb14260",
+        "title": "Looking for Passive Income? Buy These 3 Top Tech Stocks",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/796d5660-3939-3f41-b51f-608860bce5d3/apple-was-the-worst-stock-in.html",
-        "providerPublishTime": 1654290960,
+        "link": "https://finance.yahoo.com/m/e81185ba-88b1-31d3-9cec-80d69eb14260/looking-for-passive-income%3F.html",
+        "providerPublishTime": 1655031600,
         "type": "STORY"
     },
-    "f578dd92-f8fa-3a08-8b65-e082ff938fbe": {
-        "uuid": "f578dd92-f8fa-3a08-8b65-e082ff938fbe",
-        "title": "Apple Worldwide Developers Conference set to kick off on Monday",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/apple-worldwide-developers-conference-set-210802396.html",
-        "providerPublishTime": 1654290482,
-        "type": "VIDEO"
-    },
-    "277d9360-e7df-3369-ba49-3de3767dedd8": {
-        "uuid": "277d9360-e7df-3369-ba49-3de3767dedd8",
-        "title": "Dow Jones Futures: Is Market Rally Action Bullish? Tesla Has 'Super Bad' Sell-Off; Apple In Focus",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/277d9360-e7df-3369-ba49-3de3767dedd8/dow-jones-futures%3A-is-market.html",
-        "providerPublishTime": 1654290334,
+    "b9112384-12d8-32bc-91bd-756899f0f8eb": {
+        "uuid": "b9112384-12d8-32bc-91bd-756899f0f8eb",
+        "title": "2 Warren Buffett Stocks to Buy Now and Hold Forever",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b9112384-12d8-32bc-91bd-756899f0f8eb/2-warren-buffett-stocks-to.html",
+        "providerPublishTime": 1655026980,
         "type": "STORY"
     },
-    "8104cc34-e425-374c-ade5-5dedaf0bdd76": {
-        "uuid": "8104cc34-e425-374c-ade5-5dedaf0bdd76",
-        "title": "US STOCKS-Wall St ends down with strong jobs data keeping the pressure on for rate hikes",
+    "45b74f93-5ada-3197-89e8-a795bb2643b1": {
+        "uuid": "45b74f93-5ada-3197-89e8-a795bb2643b1",
+        "title": "Zuckerberg and Facebook Parent Meta Suffer Another Setback",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/45b74f93-5ada-3197-89e8-a795bb2643b1/zuckerberg-and-facebook.html",
+        "providerPublishTime": 1654987680,
+        "type": "STORY"
+    },
+    "0c97ddd6-87a8-305d-a40c-63891e5be70c": {
+        "uuid": "0c97ddd6-87a8-305d-a40c-63891e5be70c",
+        "title": "3 Unstoppable Growth Stocks to Buy in the  Stock Market Sell-Off",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0c97ddd6-87a8-305d-a40c-63891e5be70c/3-unstoppable-growth-stocks.html",
+        "providerPublishTime": 1654962780,
+        "type": "STORY"
+    },
+    "38d28100-537d-35db-8727-1e7a5397a939": {
+        "uuid": "38d28100-537d-35db-8727-1e7a5397a939",
+        "title": "UPDATE 1-Dutch watchdog says Apple to offer other payment methods in dating apps",
         "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/us-stocks-wall-st-ends-203612208.html",
-        "providerPublishTime": 1654288572,
-        "type": "STORY"
-    },
-    "0baff486-e431-30ff-a963-76797309093c": {
-        "uuid": "0baff486-e431-30ff-a963-76797309093c",
-        "title": "Stocks end the week in the red, energy stocks among market leaders",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-end-week-red-energy-202506226.html",
-        "providerPublishTime": 1654287906,
-        "type": "VIDEO"
-    },
-    "3dad1e11-5120-4d6c-b103-8926b9921f74": {
-        "uuid": "3dad1e11-5120-4d6c-b103-8926b9921f74",
-        "title": "Tesla, Apple, Microsoft, Peloton: All of tech companies hitting the brakes on hiring",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/tesla-apple-microsoft-peloton-all-of-tech-companies-hitting-the-brakes-on-hiring-202428628.html",
-        "providerPublishTime": 1654287868,
-        "type": "STORY"
-    },
-    "b489fff5-4c7b-377d-a9f0-d02550d2e719": {
-        "uuid": "b489fff5-4c7b-377d-a9f0-d02550d2e719",
-        "title": "Block (SQ) to Attract Sellers Via Apple's Tap to Pay on iPhone",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/block-sq-attract-sellers-via-193507711.html",
-        "providerPublishTime": 1654284907,
-        "type": "STORY"
-    },
-    "2049b18e-e905-35ab-8961-b4738b9f8f71": {
-        "uuid": "2049b18e-e905-35ab-8961-b4738b9f8f71",
-        "title": "Why Nvidia, Amazon, and Apple Stocks Slumped Friday",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/2049b18e-e905-35ab-8961-b4738b9f8f71/why-nvidia%2C-amazon%2C-and-apple.html",
-        "providerPublishTime": 1654283758,
+        "link": "https://finance.yahoo.com/news/1-dutch-watchdog-says-apple-151416478.html",
+        "providerPublishTime": 1654960456,
         "type": "STORY"
     }
 }

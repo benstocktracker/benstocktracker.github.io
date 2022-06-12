@@ -1,4 +1,28 @@
 {
+    "85fcc8ea-25a7-3931-9796-d3fab89feb56": {
+        "uuid": "85fcc8ea-25a7-3931-9796-d3fab89feb56",
+        "title": "My 3 Favorite Stocks Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/85fcc8ea-25a7-3931-9796-d3fab89feb56/my-3-favorite-stocks-right-now.html",
+        "providerPublishTime": 1654699308,
+        "type": "STORY"
+    },
+    "8265c5a3-d951-368f-a76c-373a6dae5b86": {
+        "uuid": "8265c5a3-d951-368f-a76c-373a6dae5b86",
+        "title": "7 Blue-Chip Stocks to Buy Now if You Have $250 to Spend",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-blue-chip-stocks-buy-100829263.html",
+        "providerPublishTime": 1654682909,
+        "type": "STORY"
+    },
+    "80d73a71-18d5-3681-a6de-effea8eae0d3": {
+        "uuid": "80d73a71-18d5-3681-a6de-effea8eae0d3",
+        "title": "What the Success of \"Top Gun: Maverick\" Might Mean for the Movie Industry",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/80d73a71-18d5-3681-a6de-effea8eae0d3/what-the-success-of-%22top-gun%3A.html",
+        "providerPublishTime": 1654532100,
+        "type": "STORY"
+    },
     "18f80fae-78b4-3571-874a-9de71de9c427": {
         "uuid": "18f80fae-78b4-3571-874a-9de71de9c427",
         "title": "GSK Receives Regulatory Nod for Consumer Healthcare Demerger",
@@ -37,30 +61,6 @@
         "publisher": "Insider Monkey",
         "link": "https://finance.yahoo.com/news/10-best-beauty-stocks-buy-132428025.html",
         "providerPublishTime": 1654089868,
-        "type": "STORY"
-    },
-    "d74ed59e-1eba-31c7-81d6-67e0711e985b": {
-        "uuid": "d74ed59e-1eba-31c7-81d6-67e0711e985b",
-        "title": "Animal-Testing Calls Threaten to Derail \u2018Cruelty-Free\u2019 Cosmetics",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/d74ed59e-1eba-31c7-81d6-67e0711e985b/animal-testing-calls-threaten.html",
-        "providerPublishTime": 1654075800,
-        "type": "STORY"
-    },
-    "016d9678-d8e3-3f89-bb52-5c5d46ce377e": {
-        "uuid": "016d9678-d8e3-3f89-bb52-5c5d46ce377e",
-        "title": "No contest: Peltz to bring energy to Unilever board",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/no-contest-peltz-bring-energy-050803413.html",
-        "providerPublishTime": 1654060083,
-        "type": "STORY"
-    },
-    "94fe102e-cd07-37b5-8b74-ccccb550e586": {
-        "uuid": "94fe102e-cd07-37b5-8b74-ccccb550e586",
-        "title": "FOCUS-No contest: Peltz to bring energy to Unilever board",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/focus-no-contest-peltz-bring-050000577.html",
-        "providerPublishTime": 1654059600,
         "type": "STORY"
     }
 }

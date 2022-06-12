@@ -1,4 +1,44 @@
 {
+    "b0a8194f-2b64-3b48-abc2-dda6114998b0": {
+        "uuid": "b0a8194f-2b64-3b48-abc2-dda6114998b0",
+        "title": "3 Great Dividend Stocks You Can Buy for Less Than $50",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b0a8194f-2b64-3b48-abc2-dda6114998b0/3-great-dividend-stocks-you.html",
+        "providerPublishTime": 1655046900,
+        "type": "STORY"
+    },
+    "cd0b8234-39c1-3368-bc3e-5746895ca6f3": {
+        "uuid": "cd0b8234-39c1-3368-bc3e-5746895ca6f3",
+        "title": "Want $1,000 in Annual Dividend Income? Invest in These Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/cd0b8234-39c1-3368-bc3e-5746895ca6f3/want-%241%2C000-in-annual.html",
+        "providerPublishTime": 1655035200,
+        "type": "STORY"
+    },
+    "70398b8c-38f3-3e15-b3b7-9da6910d735c": {
+        "uuid": "70398b8c-38f3-3e15-b3b7-9da6910d735c",
+        "title": "Want $10,000 in Passive Income? Invest This Much in One of Warren Buffett's Highest-Yielding Dividend Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/70398b8c-38f3-3e15-b3b7-9da6910d735c/want-%2410%2C000-in-passive.html",
+        "providerPublishTime": 1654860300,
+        "type": "STORY"
+    },
+    "3c634f32-a88a-3607-89dd-53ee050b42f6": {
+        "uuid": "3c634f32-a88a-3607-89dd-53ee050b42f6",
+        "title": "Warren Buffett's 4 Highest-Yielding Dividend Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3c634f32-a88a-3607-89dd-53ee050b42f6/warren-buffett%27s-4.html",
+        "providerPublishTime": 1654852860,
+        "type": "STORY"
+    },
+    "1ab2328f-f157-318b-ae57-9c189169a955": {
+        "uuid": "1ab2328f-f157-318b-ae57-9c189169a955",
+        "title": "Billionaire Paul Tudor Jones Loads Up on These 3 High-Yield Dividend Stocks",
+        "publisher": "TipRanks",
+        "link": "https://finance.yahoo.com/news/billionaire-paul-tudor-jones-snaps-152909474.html",
+        "providerPublishTime": 1654702149,
+        "type": "STORY"
+    },
     "8bbf07b0-6355-3cb4-bd17-9b5e8fb32d1c": {
         "uuid": "8bbf07b0-6355-3cb4-bd17-9b5e8fb32d1c",
         "title": "STORE Capital to Attend Nareit\u2019s REITweek 2022",
@@ -21,46 +61,6 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/store-capital-publishes-annual-corporate-125000369.html",
         "providerPublishTime": 1653569400,
-        "type": "STORY"
-    },
-    "ffa96ab3-9194-3c3b-b3c5-46ca3129609c": {
-        "uuid": "ffa96ab3-9194-3c3b-b3c5-46ca3129609c",
-        "title": "2 Dividend Warrior Stocks That Can Turn Sitting Cash into Growing Wealth",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ffa96ab3-9194-3c3b-b3c5-46ca3129609c/2-dividend-warrior-stocks.html",
-        "providerPublishTime": 1653228120,
-        "type": "STORY"
-    },
-    "750ea8e5-53c4-3051-b533-eb2fba2ef42a": {
-        "uuid": "750ea8e5-53c4-3051-b533-eb2fba2ef42a",
-        "title": "The Stock Market Sell-Off Is Making These Dividend Stocks Even Better Buys",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/750ea8e5-53c4-3051-b533-eb2fba2ef42a/the-stock-market-sell-off-is.html",
-        "providerPublishTime": 1653222600,
-        "type": "STORY"
-    },
-    "865bf983-c4ee-3a62-b122-4f5f7ad6442d": {
-        "uuid": "865bf983-c4ee-3a62-b122-4f5f7ad6442d",
-        "title": "This REIT Sees a $3.9 Trillion Opportunity Open for the Taking",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/865bf983-c4ee-3a62-b122-4f5f7ad6442d/this-reit-sees-a-%243.9.html",
-        "providerPublishTime": 1653050100,
-        "type": "STORY"
-    },
-    "dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd": {
-        "uuid": "dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd",
-        "title": "Want to Make $500 in Dividend Income? These 3 REITs Could Help You Do It",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/dba8d4f0-0caf-3aa0-b6e8-93ce12daf8dd/want-to-make-%24500-in-dividend.html",
-        "providerPublishTime": 1652969220,
-        "type": "STORY"
-    },
-    "af7cec19-6615-3575-8d77-73299a96b68a": {
-        "uuid": "af7cec19-6615-3575-8d77-73299a96b68a",
-        "title": "Have $1,000? 2 All-Weather Dividend Stocks to Buy and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/af7cec19-6615-3575-8d77-73299a96b68a/have-%241%2C000%3F-2-all-weather.html",
-        "providerPublishTime": 1652968260,
         "type": "STORY"
     }
 }

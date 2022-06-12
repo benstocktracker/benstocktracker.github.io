@@ -1,4 +1,28 @@
 {
+    "c5338119-e180-42a0-b964-d03860585ff6": {
+        "uuid": "c5338119-e180-42a0-b964-d03860585ff6",
+        "title": "Why Jack Welch still matters to modern CEOs: Morning Brief",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/why-jack-welch-still-matters-to-modern-ceos-110035700.html",
+        "providerPublishTime": 1654945235,
+        "type": "STORY"
+    },
+    "62064bb9-3fd7-30e7-8243-f9a3fe49f815": {
+        "uuid": "62064bb9-3fd7-30e7-8243-f9a3fe49f815",
+        "title": "WARNER BROS. DISCOVERY CHIEF U.S. ADVERTISING SALES OFFICER JON STEINLAUF TO PRESENT AT CREDIT SUISSE'S 24TH ANNUAL COMMUNICATIONS CONFERENCE",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/warner-bros-discovery-chief-u-123000595.html",
+        "providerPublishTime": 1654864200,
+        "type": "STORY"
+    },
+    "76626461-8896-3964-bc7b-5b65e68b988f": {
+        "uuid": "76626461-8896-3964-bc7b-5b65e68b988f",
+        "title": "WBD Stock: Veteran Exec Departure Is a Short-Term Headache",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/wbd-stock-veteran-exec-departure-113053974.html",
+        "providerPublishTime": 1654428653,
+        "type": "STORY"
+    },
     "1cd52835-eea4-3d84-a225-347c613130e8": {
         "uuid": "1cd52835-eea4-3d84-a225-347c613130e8",
         "title": "\u2018It is like watching a plane crash\u2019 \u2014 Michael Burry thinks the market has plenty of room to plunge. But he finally sees value in these 4 stocks",
@@ -38,29 +62,5 @@
         "link": "https://finance.yahoo.com/news/netflix-layoffs-just-the-start-as-streamer-stages-rebound-its-time-to-be-a-real-company-141926095.html",
         "providerPublishTime": 1652969966,
         "type": "STORY"
-    },
-    "4451a2ac-ee64-35f3-8587-4ac6e9db071a": {
-        "uuid": "4451a2ac-ee64-35f3-8587-4ac6e9db071a",
-        "title": "Streaming has dramatically changed the landscape for film financing",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/streaming-dramatically-changed-landscape-film-200556474.html",
-        "providerPublishTime": 1652904356,
-        "type": "VIDEO"
-    },
-    "4dae7c04-6280-41c2-8ef5-356af1ffb39b": {
-        "uuid": "4dae7c04-6280-41c2-8ef5-356af1ffb39b",
-        "title": "Why one Netflix bear changed his outlook, now sees 40% upside: 'It's undervalued'",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/why-one-netflix-bear-changed-his-outlook-now-sees-40-upside-its-undervalued-184306116.html",
-        "providerPublishTime": 1652812986,
-        "type": "STORY"
-    },
-    "05b1972c-13f6-35fa-b655-72fa2df3a43b": {
-        "uuid": "05b1972c-13f6-35fa-b655-72fa2df3a43b",
-        "title": "Netflix has \u2018a massive lead in product\u2019 despite stock woes: Expert",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/netflix-massive-lead-product-despite-195710780.html",
-        "providerPublishTime": 1652471830,
-        "type": "VIDEO"
     }
 }
