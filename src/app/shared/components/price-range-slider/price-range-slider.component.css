@@ -1,8 +1,8 @@
-.price-slider-container {
+.price-range-slider-container {
     padding-top: 10px;
 }
 
-.price-slider {
+.price-range-slider {
     display: flex;
     align-items: center;
 }

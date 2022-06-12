@@ -1,11 +1,11 @@
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-price-slider',
-  templateUrl: './price-slider.component.html',
-  styleUrls: ['./price-slider.component.css']
+  selector: 'app-price-range-slider',
+  templateUrl: './price-range-slider.component.html',
+  styleUrls: ['./price-range-slider.component.css']
 })
-export class PriceSliderComponent implements OnInit {
+export class PriceRangeSliderComponent implements OnInit {
   @Input() min!: string;
   @Input() max!: string;
   @Input() currentPrice!: string;

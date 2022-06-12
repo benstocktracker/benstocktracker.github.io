@@ -42,7 +42,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.profit.toFixed(2)}`,
-    (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield})` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield.toFixed(2)})` : 'N/A',
     (stock: any) => stock.yield > 0 ? `$${stock.dividendIncome.toFixed(2)}` : 'N/A',
     (stock: any) => stock.yield > 0 ? `${stock.yieldOnCost.toFixed(2)}%` : 'N/A',
     (stock: any) => stock.yield > 0 ? `${stock.payoutRatio.toFixed(2)}%` : 'N/A',

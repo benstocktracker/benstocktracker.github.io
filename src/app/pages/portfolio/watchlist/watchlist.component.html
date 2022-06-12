@@ -28,13 +28,13 @@
               <div *ngIf="!showTickerWidget">{{ stock.symbol }}</div>
             </div>
             <div *ngIf="cidx === 1;" (click)="expandRow(stock)">
-              <app-price-slider
+              <app-price-range-slider
                 [min]="stock.stats.summaryDetail.fiftyTwoWeekLow.toFixed(2)"
                 [max]="stock.stats.summaryDetail.fiftyTwoWeekHigh.toFixed(2)"
                 [currentPrice]="stock.stats.price.regularMarketPreviousClose.toFixed(2)"
                 [costAverage]="0"
                 [shares]="0"
-              ></app-price-slider>
+              ></app-price-range-slider>
             </div>
             <div *ngIf="cidx === 4; else elseBlock" (click)="expandRow(stock)">
               <div>{{ stock.exDivDate }}</div>

@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PriceSliderComponent } from './price-slider.component';
+import { PriceRangeSliderComponent } from './price-range-slider.component';
 
-describe('PriceSliderComponent', () => {
-  let component: PriceSliderComponent;
-  let fixture: ComponentFixture<PriceSliderComponent>;
+describe('PriceRangeSliderComponent', () => {
+  let component: PriceRangeSliderComponent;
+  let fixture: ComponentFixture<PriceRangeSliderComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ PriceSliderComponent ]
+      declarations: [ PriceRangeSliderComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(PriceSliderComponent);
+    fixture = TestBed.createComponent(PriceRangeSliderComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

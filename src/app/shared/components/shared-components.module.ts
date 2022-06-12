@@ -11,7 +11,7 @@ import { SingleQuoteWidgetComponent } from './tradingview/single-quote-widget/si
 import { SymbolProfileWidgetComponent } from './tradingview/symbol-profile-widget/symbol-profile-widget.component';
 import { SymbolFinancialsWidgetComponent } from './tradingview/symbol-financials-widget/symbol-financials-widget.component';
 import { MiniChartWidgetComponent } from './tradingview/mini-chart-widget/mini-chart-widget.component';
-import { PriceSliderComponent } from './price-slider/price-slider.component';
+import { PriceRangeSliderComponent } from './price-range-slider/price-range-slider.component';
 
 
 const components = [
@@ -25,7 +25,7 @@ const components = [
   SymbolProfileWidgetComponent,
   SymbolFinancialsWidgetComponent,
   MiniChartWidgetComponent,
-  PriceSliderComponent
+  PriceRangeSliderComponent
 ]
 
 @NgModule({
