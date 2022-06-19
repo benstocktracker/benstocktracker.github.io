@@ -1,4 +1,12 @@
 {
+    "e424ff61-5ccd-3b68-bf38-b94c60d247e4": {
+        "uuid": "e424ff61-5ccd-3b68-bf38-b94c60d247e4",
+        "title": "Ares Capital (ARCC) Dips More Than Broader Markets: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ares-capital-arcc-dips-more-221510189.html",
+        "providerPublishTime": 1655244910,
+        "type": "STORY"
+    },
     "8817ad4d-9f2e-3628-8981-aef85e6cfa90": {
         "uuid": "8817ad4d-9f2e-3628-8981-aef85e6cfa90",
         "title": "Ares Capital (ARCC) Stock Moves -0.81%: What You Should Know",
@@ -53,14 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/bdbbb335-f950-3913-bf36-cd1d570703ff/ares-capital-%28arcc%29-q1-2022.html",
         "providerPublishTime": 1650996046,
-        "type": "STORY"
-    },
-    "61d86bd3-dfa4-3e33-ae99-65628331ded8": {
-        "uuid": "61d86bd3-dfa4-3e33-ae99-65628331ded8",
-        "title": "Ares Capital (ARCC) Q1 Earnings and Revenues Miss Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ares-capital-arcc-q1-earnings-122512520.html",
-        "providerPublishTime": 1650975912,
         "type": "STORY"
     }
 }

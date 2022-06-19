@@ -1,4 +1,52 @@
 {
+    "bc93caf7-1804-3cda-821d-cb45a0266514": {
+        "uuid": "bc93caf7-1804-3cda-821d-cb45a0266514",
+        "title": "Could This News From Moderna Mean Trouble for Novavax?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/bc93caf7-1804-3cda-821d-cb45a0266514/could-this-news-from-moderna.html",
+        "providerPublishTime": 1655289000,
+        "type": "STORY"
+    },
+    "62fc811a-6aa4-343a-970c-5a1d92d4ea38": {
+        "uuid": "62fc811a-6aa4-343a-970c-5a1d92d4ea38",
+        "title": "IBD/TIPP Poll: There's Bad News For Novavax's Covid Vaccine",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/62fc811a-6aa4-343a-970c-5a1d92d4ea38/ibd%2Ftipp-poll%3A-there%27s-bad.html",
+        "providerPublishTime": 1655237417,
+        "type": "STORY"
+    },
+    "7ac49bd3-3280-4492-bc96-8efeb4596cf1": {
+        "uuid": "7ac49bd3-3280-4492-bc96-8efeb4596cf1",
+        "title": "Health authorities push for a vaccine patent waiver to 'genuinely' prepare for the next pandemic",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/health-authorities-push-for-a-vaccine-patent-waiver-152542100.html",
+        "providerPublishTime": 1655220342,
+        "type": "STORY"
+    },
+    "ecb9ef65-2cb2-378d-b09a-2d564c2fa465": {
+        "uuid": "ecb9ef65-2cb2-378d-b09a-2d564c2fa465",
+        "title": "Novavax' Sees Conditional Approval Of COVID-19 Vaccine Booster In Australia As US FDA Delays Its Decision",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/novavax-sees-conditional-approval-covid-150614240.html",
+        "providerPublishTime": 1655132774,
+        "type": "STORY"
+    },
+    "2ca4871c-28d4-349d-948b-9f80c5148890": {
+        "uuid": "2ca4871c-28d4-349d-948b-9f80c5148890",
+        "title": "Novavax COVID-19 Vaccine Nuvaxovid\u2122 Provisionally Registered in Australia as a Booster in Individuals Aged 18 and Over",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/novavax-covid-19-vaccine-nuvaxovid-110000784.html",
+        "providerPublishTime": 1655118000,
+        "type": "STORY"
+    },
+    "be3258a2-feac-3641-8bcc-b1f20b1a2d87": {
+        "uuid": "be3258a2-feac-3641-8bcc-b1f20b1a2d87",
+        "title": "Should You Worry About Novavax's Latest Delay?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/be3258a2-feac-3641-8bcc-b1f20b1a2d87/should-you-worry-about.html",
+        "providerPublishTime": 1655114400,
+        "type": "STORY"
+    },
     "e9809838-7529-36d6-b238-618ca4cd9684": {
         "uuid": "e9809838-7529-36d6-b238-618ca4cd9684",
         "title": "Novavax Stock: Bull vs. Bear",
@@ -13,54 +61,6 @@
         "publisher": "Motley Fool",
         "link": "https://finance.yahoo.com/m/65ab04fc-c07f-3086-ae5c-d4918c2ed35a/5-cutting-edge-growth-stocks.html",
         "providerPublishTime": 1655024760,
-        "type": "STORY"
-    },
-    "b0efe996-7a81-34c1-abfd-92577358a034": {
-        "uuid": "b0efe996-7a81-34c1-abfd-92577358a034",
-        "title": "3 Stocks Down 50% or More That You Can Buy Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b0efe996-7a81-34c1-abfd-92577358a034/3-stocks-down-50%25-or-more.html",
-        "providerPublishTime": 1654941900,
-        "type": "STORY"
-    },
-    "dbb25ee5-9b8e-362b-b723-8528634fb19a": {
-        "uuid": "dbb25ee5-9b8e-362b-b723-8528634fb19a",
-        "title": "Novavax Dive Continues As FDA Reviews New Covid Shot Information",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/dbb25ee5-9b8e-362b-b723-8528634fb19a/novavax-dive-continues-as-fda.html",
-        "providerPublishTime": 1654891627,
-        "type": "STORY"
-    },
-    "3bebd086-2e86-4154-894a-0384dfd1bf8e": {
-        "uuid": "3bebd086-2e86-4154-894a-0384dfd1bf8e",
-        "title": "Changes to Novavax manufacturing data were minor and process related: Source",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/changes-to-novavax-manufacturing-data-were-minor-and-process-related-214254990.html",
-        "providerPublishTime": 1654810974,
-        "type": "STORY"
-    },
-    "f161f9f9-a75a-3c28-8d86-96b93025c44a": {
-        "uuid": "f161f9f9-a75a-3c28-8d86-96b93025c44a",
-        "title": "Why Novavax Stock Plummeted on Thursday",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f161f9f9-a75a-3c28-8d86-96b93025c44a/why-novavax-stock-plummeted.html",
-        "providerPublishTime": 1654806832,
-        "type": "STORY"
-    },
-    "50860945-aca3-31a8-901d-53a231e73ef9": {
-        "uuid": "50860945-aca3-31a8-901d-53a231e73ef9",
-        "title": "Novavax CEO Stanley Erck: 'Everything is on track' for Covid vaccine",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/50860945-aca3-31a8-901d-53a231e73ef9/novavax-ceo-stanley-erck%3A.html",
-        "providerPublishTime": 1654797242,
-        "type": "STORY"
-    },
-    "82a18f58-a97c-336b-a6bd-d6ab61d86963": {
-        "uuid": "82a18f58-a97c-336b-a6bd-d6ab61d86963",
-        "title": "The Zacks Analyst Blog Highlights Bristol Myers, Turning Point Therapeutics, Regeneron, Novavax, and Mirati Therapeutics",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-bristol-144302383.html",
-        "providerPublishTime": 1654785782,
         "type": "STORY"
     }
 }

@@ -1,4 +1,20 @@
 {
+    "ac74a205-488a-33fb-a495-988d5de15cf9": {
+        "uuid": "ac74a205-488a-33fb-a495-988d5de15cf9",
+        "title": "STORE Capital Declares Second Quarter 2022 Dividend",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-declares-second-quarter-104500589.html",
+        "providerPublishTime": 1655289900,
+        "type": "STORY"
+    },
+    "fd651bbd-11b3-3d4b-ac67-0f5a044ae481": {
+        "uuid": "fd651bbd-11b3-3d4b-ac67-0f5a044ae481",
+        "title": "Why This REIT Will Thrive During a Recession",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/fd651bbd-11b3-3d4b-ac67-0f5a044ae481/why-this-reit-will-thrive.html",
+        "providerPublishTime": 1655221391,
+        "type": "STORY"
+    },
     "b0a8194f-2b64-3b48-abc2-dda6114998b0": {
         "uuid": "b0a8194f-2b64-3b48-abc2-dda6114998b0",
         "title": "3 Great Dividend Stocks You Can Buy for Less Than $50",
@@ -45,22 +61,6 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/store-capital-attend-nareit-reitweek-104500267.html",
         "providerPublishTime": 1654166700,
-        "type": "STORY"
-    },
-    "7372cb36-095d-3f9a-9313-2052a8fe27e5": {
-        "uuid": "7372cb36-095d-3f9a-9313-2052a8fe27e5",
-        "title": "STORE Capital Sponsors Team of LPGA Tour Professionals",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/store-capital-sponsors-team-lpga-202000371.html",
-        "providerPublishTime": 1654028400,
-        "type": "STORY"
-    },
-    "5fc39e70-0314-3377-9fc0-886ede0b6ce5": {
-        "uuid": "5fc39e70-0314-3377-9fc0-886ede0b6ce5",
-        "title": "STORE Capital Publishes Annual Corporate Responsibility Report",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/store-capital-publishes-annual-corporate-125000369.html",
-        "providerPublishTime": 1653569400,
         "type": "STORY"
     }
 }

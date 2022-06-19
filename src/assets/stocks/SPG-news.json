@@ -1,4 +1,28 @@
 {
+    "a31ea527-897c-38a4-9b0c-197dfca92b1b": {
+        "uuid": "a31ea527-897c-38a4-9b0c-197dfca92b1b",
+        "title": "1 Reason Not to Give Up on Retail REITs Even if a Recession Hits",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/a31ea527-897c-38a4-9b0c-197dfca92b1b/1-reason-not-to-give-up-on.html",
+        "providerPublishTime": 1655293620,
+        "type": "STORY"
+    },
+    "c0adcfc7-0fc4-3649-9ca2-3671f9f5804e": {
+        "uuid": "c0adcfc7-0fc4-3649-9ca2-3671f9f5804e",
+        "title": "Insiders might want to re-evaluate their US$1.2m stock purchase as Simon Property Group, Inc. (NYSE:SPG) drops to US$36b",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/insiders-might-want-evaluate-us-103701252.html",
+        "providerPublishTime": 1655289421,
+        "type": "STORY"
+    },
+    "973cc9e2-e308-3e20-bd6c-87e087b4822b": {
+        "uuid": "973cc9e2-e308-3e20-bd6c-87e087b4822b",
+        "title": "Billionaire Mario Gabelli is Dumping These 10 Stocks in 2022",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-mario-gabelli-dumping-10-131018114.html",
+        "providerPublishTime": 1655212218,
+        "type": "STORY"
+    },
     "708888b5-8507-375e-a991-303f54edfc67": {
         "uuid": "708888b5-8507-375e-a991-303f54edfc67",
         "title": "3 REITs to Buy for June 2022",
@@ -37,30 +61,6 @@
         "publisher": "American City Business Journals",
         "link": "https://finance.yahoo.com/m/3d381f9e-08b5-3516-a2f0-a5a1aaa787a6/thousands-of-jobs-coming-to.html",
         "providerPublishTime": 1654666919,
-        "type": "STORY"
-    },
-    "83eeb1e3-15d4-331e-b627-01d825752b83": {
-        "uuid": "83eeb1e3-15d4-331e-b627-01d825752b83",
-        "title": "Is the Options Market Predicting a Spike in Simon Property (SPG) Stock?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/options-market-predicting-spike-simon-124012196.html",
-        "providerPublishTime": 1654605612,
-        "type": "STORY"
-    },
-    "6742e83d-ecb0-3293-a2c2-12a9f43e788f": {
-        "uuid": "6742e83d-ecb0-3293-a2c2-12a9f43e788f",
-        "title": "Wayfair to open flagship store with a rooftop bar at King of Prussia Mall",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/6742e83d-ecb0-3293-a2c2-12a9f43e788f/wayfair-to-open-flagship.html",
-        "providerPublishTime": 1654531323,
-        "type": "STORY"
-    },
-    "1663874a-3537-3bf9-a5ca-64c0dff908c5": {
-        "uuid": "1663874a-3537-3bf9-a5ca-64c0dff908c5",
-        "title": "7 Dividend Stocks to Buy for June With Yields Over 6%",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-dividend-stocks-buy-june-104552219.html",
-        "providerPublishTime": 1653821152,
         "type": "STORY"
     }
 }

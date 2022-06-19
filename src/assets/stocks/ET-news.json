@@ -1,4 +1,12 @@
 {
+    "acf235c4-57cb-3b18-a908-8aefbddbb640": {
+        "uuid": "acf235c4-57cb-3b18-a908-8aefbddbb640",
+        "title": "This Energy Stock Wants to Increase Its Already Massive Dividend by Another 50%",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/acf235c4-57cb-3b18-a908-8aefbddbb640/this-energy-stock-wants-to.html",
+        "providerPublishTime": 1655124300,
+        "type": "STORY"
+    },
     "c590e438-f640-3408-bc68-a506876b5c13": {
         "uuid": "c590e438-f640-3408-bc68-a506876b5c13",
         "title": "Energy Transfer LP (ET) Stock Moves -0.41%: What You Should Know",
@@ -53,14 +61,6 @@
         "publisher": "InvestorPlace",
         "link": "https://finance.yahoo.com/news/7-safe-dividend-stocks-high-144912036.html",
         "providerPublishTime": 1654008552,
-        "type": "STORY"
-    },
-    "2e1542da-38b6-32fc-9fb2-57ed467b2f81": {
-        "uuid": "2e1542da-38b6-32fc-9fb2-57ed467b2f81",
-        "title": "10 Undervalued Stocks to Buy According to Billionaire Leon Cooperman",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-undervalued-stocks-buy-according-133651329.html",
-        "providerPublishTime": 1653572211,
         "type": "STORY"
     }
 }
