@@ -5,7 +5,11 @@
         "publisher": "ACCESSWIRE",
         "link": "https://finance.yahoo.com/news/perk-labs-announces-departure-cfo-123000155.html",
         "providerPublishTime": 1651840200,
-        "type": "STORY"
+        "type": "STORY",
+        "relatedTickers": [
+            "ONL",
+            "PKLBF"
+        ]
     },
     "79a5c8de-112d-3039-ad21-89df8618eb8d": {
         "uuid": "79a5c8de-112d-3039-ad21-89df8618eb8d",
@@ -13,7 +17,27 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/orion-office-reit-inc-announces-201000438.html",
         "providerPublishTime": 1651695000,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QVzW148y4.aRWHRMCa_UjA--~B/aD0xNjY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/djmdiqNGkeGtrrioomptwA--~B/aD0xNjY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/a3382c414fd6de067c2415e0b984c458",
+                    "width": 480,
+                    "height": 166,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FczPt1P384teBe4kL278uA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/djmdiqNGkeGtrrioomptwA--~B/aD0xNjY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/a3382c414fd6de067c2415e0b984c458",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ONL",
+            "PKLBF"
+        ]
     },
     "0c095b22-868a-3052-8b0b-4d6564458264": {
         "uuid": "0c095b22-868a-3052-8b0b-4d6564458264",
@@ -21,7 +45,27 @@
         "publisher": "Simply Wall St.",
         "link": "https://finance.yahoo.com/news/ownership-structure-orion-office-reit-125731522.html",
         "providerPublishTime": 1651669051,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SSPSvDiwF.Ezj_FSN.g2OQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhC4RGdI8xnOkpiWJAtZHA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ea9a9eeeecb49307968d5202d20e6704",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qukOTY7szDVQunjsmWA1xw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhC4RGdI8xnOkpiWJAtZHA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ea9a9eeeecb49307968d5202d20e6704",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ONL",
+            "PKLBF"
+        ]
     },
     "45cd80e8-416c-35ec-8f89-0808fc9d4826": {
         "uuid": "45cd80e8-416c-35ec-8f89-0808fc9d4826",
@@ -29,7 +73,27 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/orion-office-reit-inc-announces-201000563.html",
         "providerPublishTime": 1649967000,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pKeK8f89EeGK3xsAevpsCg--~B/aD0xNjU7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/s7KpLZc1U.dBrrVaSK7.Tw--~B/aD0xNjU7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e5282f9472f1bc1c2cc27df5e2b3a27f",
+                    "width": 480,
+                    "height": 165,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2Z3hGlICpSwDWPsIkrAYkw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/s7KpLZc1U.dBrrVaSK7.Tw--~B/aD0xNjU7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e5282f9472f1bc1c2cc27df5e2b3a27f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ONL",
+            "PKLBF"
+        ]
     },
     "ca16d268-796e-3c8b-985a-919c9da86afa": {
         "uuid": "ca16d268-796e-3c8b-985a-919c9da86afa",
@@ -37,7 +101,30 @@
         "publisher": "ACCESSWIRE",
         "link": "https://finance.yahoo.com/news/power-play-market-herald-releases-185500210.html",
         "providerPublishTime": 1649962500,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DUaWiqsvNrcuU9Tn0Q4i7w--~B/aD00NDQ7dz04MDQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Tj7ybVae1Y9m9_zgfvb5hw--~B/aD00NDQ7dz04MDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/4e63ab1c57291734419ac5f3fbb9b597",
+                    "width": 804,
+                    "height": 444,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RH80CInCJDQs6XVSlKkfDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Tj7ybVae1Y9m9_zgfvb5hw--~B/aD00NDQ7dz04MDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/4e63ab1c57291734419ac5f3fbb9b597",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ONL",
+            "PKLBF",
+            "CLRMF",
+            "RMDFF",
+            "TCVNF"
+        ]
     },
     "c69d0eff-3035-3163-86a9-a407b174cbf7": {
         "uuid": "c69d0eff-3035-3163-86a9-a407b174cbf7",
@@ -45,14 +132,10 @@
         "publisher": "ACCESSWIRE",
         "link": "https://finance.yahoo.com/news/perk-labs-provides-corporate-123000104.html",
         "providerPublishTime": 1649939400,
-        "type": "STORY"
-    },
-    "be2f72da-f2ec-3929-8b41-f082f248ffde": {
-        "uuid": "be2f72da-f2ec-3929-8b41-f082f248ffde",
-        "title": "Orion Office REIT Inc.\u00ae Announces Fourth Quarter 2021 Operating Results",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/orion-office-reit-inc-announces-201000630.html",
-        "providerPublishTime": 1648152600,
-        "type": "STORY"
+        "type": "STORY",
+        "relatedTickers": [
+            "ONL",
+            "PKLBF"
+        ]
     }
 }

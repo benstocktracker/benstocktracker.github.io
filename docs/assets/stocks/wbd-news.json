@@ -1,66 +1,255 @@
 {
-    "c5338119-e180-42a0-b964-d03860585ff6": {
-        "uuid": "c5338119-e180-42a0-b964-d03860585ff6",
-        "title": "Why Jack Welch still matters to modern CEOs: Morning Brief",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/why-jack-welch-still-matters-to-modern-ceos-110035700.html",
-        "providerPublishTime": 1654945235,
-        "type": "STORY"
-    },
-    "62064bb9-3fd7-30e7-8243-f9a3fe49f815": {
-        "uuid": "62064bb9-3fd7-30e7-8243-f9a3fe49f815",
-        "title": "WARNER BROS. DISCOVERY CHIEF U.S. ADVERTISING SALES OFFICER JON STEINLAUF TO PRESENT AT CREDIT SUISSE'S 24TH ANNUAL COMMUNICATIONS CONFERENCE",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/warner-bros-discovery-chief-u-123000595.html",
-        "providerPublishTime": 1654864200,
-        "type": "STORY"
-    },
-    "76626461-8896-3964-bc7b-5b65e68b988f": {
-        "uuid": "76626461-8896-3964-bc7b-5b65e68b988f",
-        "title": "WBD Stock: Veteran Exec Departure Is a Short-Term Headache",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/wbd-stock-veteran-exec-departure-113053974.html",
-        "providerPublishTime": 1654428653,
-        "type": "STORY"
-    },
-    "1cd52835-eea4-3d84-a225-347c613130e8": {
-        "uuid": "1cd52835-eea4-3d84-a225-347c613130e8",
-        "title": "\u2018It is like watching a plane crash\u2019 \u2014 Michael Burry thinks the market has plenty of room to plunge. But he finally sees value in these 4 stocks",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/watching-plane-crash-michael-burry-144000460.html",
-        "providerPublishTime": 1654095360,
-        "type": "STORY"
-    },
-    "54914fb5-e7dc-4c23-a266-8ba6f37aee87": {
-        "uuid": "54914fb5-e7dc-4c23-a266-8ba6f37aee87",
-        "title": "Streaming has turned film financing 'upside down': 'It's VOD or die,' says lawyer",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/streaming-has-turned-film-financing-upside-down-its-vod-or-die-says-lawyer-185946333.html",
-        "providerPublishTime": 1653332454,
-        "type": "STORY"
-    },
-    "d9eaaf8d-eaee-3744-9725-ee3f3b213e40": {
-        "uuid": "d9eaaf8d-eaee-3744-9725-ee3f3b213e40",
-        "title": "Is It Too Late To Consider Buying Warner Bros. Discovery, Inc. (NASDAQ:WBD)?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/too-consider-buying-warner-bros-101616452.html",
-        "providerPublishTime": 1653300976,
-        "type": "STORY"
-    },
-    "4024fb88-658c-354d-9240-145dcc52ca0c": {
-        "uuid": "4024fb88-658c-354d-9240-145dcc52ca0c",
-        "title": "Actor Tray Chaney looks back on career, success of \u2018The Wire\u2019",
+    "29fc7387-90c3-3e6d-9fc3-71ef418e3e03": {
+        "uuid": "29fc7387-90c3-3e6d-9fc3-71ef418e3e03",
+        "title": "Kraft Macaroni and Cheese rebrands with new name, Burger King offers free onion rings for Onion Ring Day",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/actor-tray-chaney-looks-back-211606667.html",
-        "providerPublishTime": 1652994966,
-        "type": "VIDEO"
+        "link": "https://finance.yahoo.com/video/kraft-macaroni-cheese-rebrands-name-211245326.html",
+        "providerPublishTime": 1655932365,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gt9LwH3T6q5ff_Mgt0Kzlg--~B/aD0xNDk0O3c9MjY2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/0dced340-f270-11ec-bec7-a0af126da14d",
+                    "width": 2660,
+                    "height": 1494,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gNp0jh6YFRE6OHvTjbByhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/0dced340-f270-11ec-bec7-a0af126da14d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD",
+            "KHC",
+            "QSR"
+        ]
     },
-    "6b076cfa-1456-44c8-a846-404790942e73": {
-        "uuid": "6b076cfa-1456-44c8-a846-404790942e73",
-        "title": "Netflix layoffs just the start as streamer stages rebound: 'It's time to be a real company,' says media exec",
+    "3285b3fb-e69c-35b8-ac2f-4336f390aed8": {
+        "uuid": "3285b3fb-e69c-35b8-ac2f-4336f390aed8",
+        "title": "\u2018A cold dark place\u2019 \u2014 Michael Burry thinks the market has plenty of room to plunge. But he finally sees value in these 4 stocks",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/cold-dark-place-michael-burry-195500993.html",
+        "providerPublishTime": 1655927700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3jOQ3ULSG5rLngcO23ywQw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/O.RWssVzXwYpJDsjtcCi.A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2ccbac990eba7c9cd80099ce2be254f5",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JT8paTPfjx3yHIpIFR1E1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/O.RWssVzXwYpJDsjtcCi.A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2ccbac990eba7c9cd80099ce2be254f5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BKNG",
+            "WBD",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "AAPL",
+            "RMPL-P"
+        ]
+    },
+    "f5035ece-ecb5-3d92-8dae-0e915b771ee3": {
+        "uuid": "f5035ece-ecb5-3d92-8dae-0e915b771ee3",
+        "title": "Shonda Rhimes talks the future of streaming and 'Amish summer' parenting",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/shonda-rhimes-talks-future-streaming-211225032.html",
+        "providerPublishTime": 1655845945,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/33XRwbR8YLyRzw5OBDNUtQ--~B/aD0xNTA4O3c9MjY4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/d413df20-f1a6-11ec-b762-6ead4945442c",
+                    "width": 2685,
+                    "height": 1508,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oytFg_iOZiW9kyI3CU515w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/d413df20-f1a6-11ec-b762-6ead4945442c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "NFLX",
+            "AAPL",
+            "RMPL-P",
+            "WBD",
+            "AMZN",
+            "GOOG",
+            "GOOGL"
+        ]
+    },
+    "cff03bd2-4ae3-3603-87ab-38f3c06babd1": {
+        "uuid": "cff03bd2-4ae3-3603-87ab-38f3c06babd1",
+        "title": "HBO to develop Game of Thrones spinoff, diesel prices skyrocket, Instagram tests new layout",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/hbo-develop-game-thrones-spinoff-161128514.html",
+        "providerPublishTime": 1655482288,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.yfJ.gKP5sHWRSoPVLmZOA--~B/aD0zMTI4O3c9NTU2ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/22949ba0-ee58-11ec-be87-c1b8d308a8d5",
+                    "width": 5568,
+                    "height": 3128,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nPqcT8K9NaLGcUkzOp8r_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/22949ba0-ee58-11ec-be87-c1b8d308a8d5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "RYDAF",
+            "SHEL",
+            "WBD",
+            "CVX",
+            "RB=F",
+            "XOM"
+        ]
+    },
+    "e847bc5e-5847-3b3e-a4b9-181f2977f6e6": {
+        "uuid": "e847bc5e-5847-3b3e-a4b9-181f2977f6e6",
+        "title": "Pixar\u2019s \u2018Lightyear\u2019 promises strong box office weekend, 'Barbie' movie offers first look at Ken",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/pixar-lightyear-promises-strong-box-210628353.html",
+        "providerPublishTime": 1655413588,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/31wRJAd4FxRNk87jpJ6RhQ--~B/aD0yNzg7dz00OTM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2e74e1a0-edb8-11ec-b3ff-cdd63cc1b504",
+                    "width": 493,
+                    "height": 278,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oL_6KQYx5JuH3KZSz6UH_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2e74e1a0-edb8-11ec-b3ff-cdd63cc1b504",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMC",
+            "MAT",
+            "CNK",
+            "DIS",
+            "WBD",
+            "IMAX"
+        ]
+    },
+    "0d6bdd9c-2aab-307d-96b3-61d0a35432e8": {
+        "uuid": "0d6bdd9c-2aab-307d-96b3-61d0a35432e8",
+        "title": "Which Video-Streaming Stocks Are the Cheapest?",
+        "publisher": "TipRanks",
+        "link": "https://finance.yahoo.com/news/video-streaming-stocks-cheapest-085432976.html",
+        "providerPublishTime": 1655369672,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zjA2z.eNFsEBOoBJx9weVw--~B/aD0zMjE7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AvW51rLir5.74bfqb7AeHw--~B/aD0zMjE7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/a32f04f19dd928050cf60119ed85e474",
+                    "width": 1024,
+                    "height": 321,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aktx.MEx3Q5ZAvTFE3Kk.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AvW51rLir5.74bfqb7AeHw--~B/aD0zMjE7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/a32f04f19dd928050cf60119ed85e474",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "NFLX",
+            "WBD"
+        ]
+    },
+    "fdb09cbe-453b-440f-b1e5-e53a6efd24f0": {
+        "uuid": "fdb09cbe-453b-440f-b1e5-e53a6efd24f0",
+        "title": "Netflix stock: Buy, Sell, or Hold? Wall Street split on future of streaming giant",
         "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-layoffs-just-the-start-as-streamer-stages-rebound-its-time-to-be-a-real-company-141926095.html",
-        "providerPublishTime": 1652969966,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/news/netflix-buy-sell-hold-wall-street-split-streaming-190929390.html",
+        "providerPublishTime": 1655323608,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/61uII.dKQ5EERjHV.d0S6g--~B/aD01NDk7dz05NzY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/b0b7ff50-2778-11ec-a8fd-d2ed2a45a425",
+                    "width": 976,
+                    "height": 549,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Cj2RQ5iegPCWBh2xpPL7FQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-10/b0b7ff50-2778-11ec-a8fd-d2ed2a45a425",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD",
+            "DIS",
+            "AMZN",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "NFLX",
+            "AAPL"
+        ]
+    },
+    "25212cfa-b574-3139-8cb4-dcfaecb31daa": {
+        "uuid": "25212cfa-b574-3139-8cb4-dcfaecb31daa",
+        "title": "Did Warner Bros. Discovery, Inc. (NASDAQ:WBD) Use Debt To Deliver Its ROE Of 11%?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/did-warner-bros-discovery-inc-132153799.html",
+        "providerPublishTime": 1655299313,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/byt3nSesNDc44hkhnQEGIg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WpuHC90VC2N6rzSphG2Bug--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/abe6319362eec70b59e31eb3eb696286",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/62QD.H3JxZjRQL.ODUiZ9Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WpuHC90VC2N6rzSphG2Bug--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/abe6319362eec70b59e31eb3eb696286",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD"
+        ]
     }
 }

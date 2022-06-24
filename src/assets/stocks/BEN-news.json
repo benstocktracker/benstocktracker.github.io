@@ -1,66 +1,206 @@
 {
+    "d54f6a40-779d-3d5f-a509-5fa52033cd1b": {
+        "uuid": "d54f6a40-779d-3d5f-a509-5fa52033cd1b",
+        "title": "Franklin Templeton's Employee Volunteers Join in Person to Support Local Initiatives",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templetons-employee-volunteers-join-140020112.html",
+        "providerPublishTime": 1656079220,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sd2Mg4yEiz7NkUvxtQXB.A--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HfuzhtNEYsZOyGzpAZpU0w--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/2de8531e80607a374e2590a810c05c1c",
+                    "width": 650,
+                    "height": 488,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/k4H6cGqDMYtOWIK4XzTOtg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HfuzhtNEYsZOyGzpAZpU0w--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/2de8531e80607a374e2590a810c05c1c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "f80b200b-a954-33af-9faa-700cb19aba96": {
+        "uuid": "f80b200b-a954-33af-9faa-700cb19aba96",
+        "title": "Franklin Templeton Canada Awarded Fund Provider of the Year",
+        "publisher": "CNW Group",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-canada-awarded-fund-134500694.html",
+        "providerPublishTime": 1655819100,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PFuncgSRxuBwCtoSRmQolQ--~B/aD0yMTI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bK5ngjUo7rRbnBTM70z7PA--~B/aD0yMTI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/8986b9c21441eb3bee43c69e5d460989",
+                    "width": 400,
+                    "height": 212,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/M4zmAncICcI3uoEDivlaKg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bK5ngjUo7rRbnBTM70z7PA--~B/aD0yMTI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/8986b9c21441eb3bee43c69e5d460989",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "d57b7529-bcbf-367a-b86a-471b51fc788b": {
+        "uuid": "d57b7529-bcbf-367a-b86a-471b51fc788b",
+        "title": "Templeton Global Income Fund Announces Legal Action to Prevent Certification of the Results of the Fund\u2019s Annual Meeting of Shareholders",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-announces-130000905.html",
+        "providerPublishTime": 1655816400,
+        "type": "STORY",
+        "relatedTickers": [
+            "BEN",
+            "GIM"
+        ]
+    },
+    "210ec278-1a7f-3ac4-b120-f47fb5cf19b5": {
+        "uuid": "210ec278-1a7f-3ac4-b120-f47fb5cf19b5",
+        "title": "HSBC Unit to Discuss Merger Offer With Sohar International",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/hsbc-unit-discuss-merger-offer-135501710.html",
+        "providerPublishTime": 1655733301,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fsIjy1yyFMMrvjGNqJJ3ew--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yM2AAyXrqTaXtKtrw4bnvQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/59744b4fcca70e73cbe3b535b1bc283a",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SGAkkjnvTB0Q44_ts93CCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yM2AAyXrqTaXtKtrw4bnvQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/59744b4fcca70e73cbe3b535b1bc283a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HSBC",
+            "TFC-PR",
+            "BEN",
+            "BK"
+        ]
+    },
+    "5c203cce-5b23-33ab-925f-0bd5a4a20ccb": {
+        "uuid": "5c203cce-5b23-33ab-925f-0bd5a4a20ccb",
+        "title": "Is Franklin DynaTech Adviser (FDYZX) a Strong Mutual Fund Pick Right Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/franklin-dynatech-adviser-fdyzx-strong-110011541.html",
+        "providerPublishTime": 1655463611,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "width": 900,
+                    "height": 506,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "168a75f6-6c1b-3238-947d-4d62bc6bc1ad": {
+        "uuid": "168a75f6-6c1b-3238-947d-4d62bc6bc1ad",
+        "title": "Abby Axelrod-Wunderman CAP\u00ae Joins Fiduciary Trust International as Philanthropic Director for Family Office Services, Foundations & Endowments",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/abby-axelrod-wunderman-cap-joins-145000459.html",
+        "providerPublishTime": 1655304600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ndnKqv88KbrISpTX3lBttw--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dmJngTEMbRDR7YEOTOuFDg--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/6c44271d33b9569a843d657fb83951ee",
+                    "width": 480,
+                    "height": 116,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aUBRFTs3ZbkxmfqD1jHqxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dmJngTEMbRDR7YEOTOuFDg--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/6c44271d33b9569a843d657fb83951ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "6c70ff8f-66df-3241-b684-94102df80d97": {
+        "uuid": "6c70ff8f-66df-3241-b684-94102df80d97",
+        "title": "Franklin Templeton's LMP Closed End Fund Eileen Kamerick Recognized as NACD Directorship 100\u2122 Honoree",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templetons-lmp-closed-end-140021178.html",
+        "providerPublishTime": 1655301621,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m5V6W_0tzIY0LR1wGSptsA--~B/aD05MTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rw0.e91ngsfL7DVijNZcnA--~B/aD05MTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/8ae6f6a065d0810faadd84d7e5b22c2a",
+                    "width": 650,
+                    "height": 910,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ttey9pE5AWx7yK0HYjCgig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rw0.e91ngsfL7DVijNZcnA--~B/aD05MTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/8ae6f6a065d0810faadd84d7e5b22c2a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
     "4cc6ef37-fa96-317a-9a39-67363a273ac9": {
         "uuid": "4cc6ef37-fa96-317a-9a39-67363a273ac9",
         "title": "Franklin Templeton Funds - 10 Best Templeton Mutual Funds",
         "publisher": "TheStreet.com",
         "link": "https://finance.yahoo.com/m/4cc6ef37-fa96-317a-9a39-67363a273ac9/franklin-templeton-funds-10.html",
         "providerPublishTime": 1655238120,
-        "type": "STORY"
-    },
-    "569d0edb-84fb-35b1-a730-d0996b0682a9": {
-        "uuid": "569d0edb-84fb-35b1-a730-d0996b0682a9",
-        "title": "2 Top U.S. Stocks to Watch in June",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/569d0edb-84fb-35b1-a730-d0996b0682a9/2-top-u.s.-stocks-to-watch-in.html",
-        "providerPublishTime": 1655218380,
-        "type": "STORY"
-    },
-    "a7befda5-0bcd-3aa6-b5fb-af558d915c2b": {
-        "uuid": "a7befda5-0bcd-3aa6-b5fb-af558d915c2b",
-        "title": "Fiduciary Trust International Continues to Grow Radnor Office, Welcoming Peter Niedland, CFA as Managing Director and Portfolio Manager",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/fiduciary-trust-international-continues-grow-143200835.html",
-        "providerPublishTime": 1655217120,
-        "type": "STORY"
-    },
-    "549e8d6d-dad7-362a-9c66-8a5dd18f0db1": {
-        "uuid": "549e8d6d-dad7-362a-9c66-8a5dd18f0db1",
-        "title": "Franklin Templeton Institute Releases Latest Insights on Food Innovation and Related Investment Opportunities",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-institute-releases-latest-130014815.html",
-        "providerPublishTime": 1655211614,
-        "type": "STORY"
-    },
-    "162454e7-cb1b-32fd-b5e9-c44c8dfbdf93": {
-        "uuid": "162454e7-cb1b-32fd-b5e9-c44c8dfbdf93",
-        "title": "Lazard's (LAZ) May AUM Falls 0.3% on Market Depreciation",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/lazards-laz-may-aum-falls-135101389.html",
-        "providerPublishTime": 1655128261,
-        "type": "STORY"
-    },
-    "0d8c7ab0-7127-3577-b0ac-b061d84dd1ec": {
-        "uuid": "0d8c7ab0-7127-3577-b0ac-b061d84dd1ec",
-        "title": "Franklin Templeton Institute Releases Latest Insights on Food Innovation and Related Investment Opportunities",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-institute-releases-latest-134000231.html",
-        "providerPublishTime": 1655127600,
-        "type": "STORY"
-    },
-    "48e1d19d-1530-381c-bc76-73a8e976d473": {
-        "uuid": "48e1d19d-1530-381c-bc76-73a8e976d473",
-        "title": "T. Rowe Price's (TROW) May AUM Down 1.3% on Unfavorable Markets",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/t-rowe-prices-trow-may-132801490.html",
-        "providerPublishTime": 1655126881,
-        "type": "STORY"
-    },
-    "691eb17d-99be-3850-a4e1-c6506fedc537": {
-        "uuid": "691eb17d-99be-3850-a4e1-c6506fedc537",
-        "title": "Victory Capital (VCTR) May AUM Rises Sequentially to $166.9B",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/victory-capital-vctr-may-aum-120612990.html",
-        "providerPublishTime": 1655121972,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/slejn435RPvCEIpvONDYEg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VxrLaF2kgu8Do2yO9PwOnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
     }
 }

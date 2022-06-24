@@ -1,11 +1,112 @@
 {
+    "1a8b64f8-fec4-3e3a-aa02-d087d4449cee": {
+        "uuid": "1a8b64f8-fec4-3e3a-aa02-d087d4449cee",
+        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Finance Names",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001594.html",
+        "providerPublishTime": 1655902801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+                    "width": 900,
+                    "height": 633,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC",
+            "AXP"
+        ]
+    },
+    "387a91ec-3200-3f72-9648-0a4802ab4457": {
+        "uuid": "387a91ec-3200-3f72-9648-0a4802ab4457",
+        "title": "Ares Capital (ARCC) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ares-capital-arcc-outpaces-stock-220010165.html",
+        "providerPublishTime": 1655762410,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DJEfuqXF1olcEl3zbF.3Bw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7h8ntzJXcDOdVmDKQ08gRg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e8e4b0344809eaac6d73c9fd25fd180a",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uTiW2kiYux7pFB6nY3ZyvQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7h8ntzJXcDOdVmDKQ08gRg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e8e4b0344809eaac6d73c9fd25fd180a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC"
+        ]
+    },
+    "e424ff61-5ccd-3b68-bf38-b94c60d247e4": {
+        "uuid": "e424ff61-5ccd-3b68-bf38-b94c60d247e4",
+        "title": "Ares Capital (ARCC) Dips More Than Broader Markets: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ares-capital-arcc-dips-more-221510189.html",
+        "providerPublishTime": 1655244910,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yv0Cjkrp_j4iADVyQGnQWQ--~B/aD03NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kz0ozt3ejWMPXKci2JxOBw--~B/aD03NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
+                    "width": 1000,
+                    "height": 754,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/37S7aiiMvh4g_Mrqj8rDTg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kz0ozt3ejWMPXKci2JxOBw--~B/aD03NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC"
+        ]
+    },
     "8817ad4d-9f2e-3628-8981-aef85e6cfa90": {
         "uuid": "8817ad4d-9f2e-3628-8981-aef85e6cfa90",
         "title": "Ares Capital (ARCC) Stock Moves -0.81%: What You Should Know",
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/ares-capital-arcc-stock-moves-220010291.html",
         "providerPublishTime": 1654725610,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YsLi38.JNFUFos53LSrRtQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Tw87WEC1wh0JNb8.IBuFMA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ieOIdaDWPR.qUMOS7OCjig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Tw87WEC1wh0JNb8.IBuFMA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC"
+        ]
     },
     "2ded0e4e-e8d9-38c0-856d-6c6e4036e824": {
         "uuid": "2ded0e4e-e8d9-38c0-856d-6c6e4036e824",
@@ -13,7 +114,27 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/ares-capital-arcc-gains-lags-220010868.html",
         "providerPublishTime": 1654207210,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YckalHX3gMOQHFPn_O1YsQ--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/eeFsK50..hTdRBoBNDEyoA--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d2f7ed3d1940141716bfd200f5c94c6b",
+                    "width": 900,
+                    "height": 711,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Miz1pquU2BWN7p6jEgMnaQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eeFsK50..hTdRBoBNDEyoA--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d2f7ed3d1940141716bfd200f5c94c6b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC",
+            "^GSPC"
+        ]
     },
     "6568a1a3-7dce-3d54-ab5f-495ebf9d235a": {
         "uuid": "6568a1a3-7dce-3d54-ab5f-495ebf9d235a",
@@ -21,7 +142,26 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/why-ares-capital-arcc-down-165504657.html",
         "providerPublishTime": 1653584104,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KYo3DiyZdD4X0nl2I8k31A--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+                    "width": 900,
+                    "height": 469,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FlKSooiKsd3JFhF0XXj_PA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC"
+        ]
     },
     "4df9610b-cfb6-381e-af84-0fc615d8d3a9": {
         "uuid": "4df9610b-cfb6-381e-af84-0fc615d8d3a9",
@@ -29,7 +169,27 @@
         "publisher": "TipRanks",
         "link": "https://finance.yahoo.com/news/seeking-least-8-dividend-yield-144624100.html",
         "providerPublishTime": 1652712384,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ytKqOfbRdEwBEztw4uGTIg--~B/aD0zNzU7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lhtdSFUGEbovWw_Qzas8YQ--~B/aD0zNzU7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/2bb9fe2c2ed10696c6d2e165ab0d1b85",
+                    "width": 750,
+                    "height": 375,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_svudZOesRVtAStXt8wgeA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lhtdSFUGEbovWw_Qzas8YQ--~B/aD0zNzU7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/2bb9fe2c2ed10696c6d2e165ab0d1b85",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC",
+            "ORCC"
+        ]
     },
     "2a8bf553-5798-3034-9cd9-bf1e3650987d": {
         "uuid": "2a8bf553-5798-3034-9cd9-bf1e3650987d",
@@ -37,30 +197,27 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/ares-capital-arcc-stock-down-145502865.html",
         "providerPublishTime": 1651071302,
-        "type": "STORY"
-    },
-    "40ba8392-33f4-338a-af6a-87dc20a77dc0": {
-        "uuid": "40ba8392-33f4-338a-af6a-87dc20a77dc0",
-        "title": "Company News for Apr 27, 2022",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/company-news-apr-27-2022-133701086.html",
-        "providerPublishTime": 1651066621,
-        "type": "STORY"
-    },
-    "bdbbb335-f950-3913-bf36-cd1d570703ff": {
-        "uuid": "bdbbb335-f950-3913-bf36-cd1d570703ff",
-        "title": "Ares Capital (ARCC) Q1 2022 Earnings Call Transcript",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/bdbbb335-f950-3913-bf36-cd1d570703ff/ares-capital-%28arcc%29-q1-2022.html",
-        "providerPublishTime": 1650996046,
-        "type": "STORY"
-    },
-    "61d86bd3-dfa4-3e33-ae99-65628331ded8": {
-        "uuid": "61d86bd3-dfa4-3e33-ae99-65628331ded8",
-        "title": "Ares Capital (ARCC) Q1 Earnings and Revenues Miss Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ares-capital-arcc-q1-earnings-122512520.html",
-        "providerPublishTime": 1650975912,
-        "type": "STORY"
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4SdZokudQLrfx2Vyo6KT4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sw1LOX5YexydUdEjsla3IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC",
+            "FSK",
+            "HTGC"
+        ]
     }
 }

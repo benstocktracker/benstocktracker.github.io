@@ -1,66 +1,235 @@
 {
-    "dbe0ebad-7901-3f68-b893-bf4fdb418ffc": {
-        "uuid": "dbe0ebad-7901-3f68-b893-bf4fdb418ffc",
-        "title": "Want to Insulate Your Investments? Check Out These 3 REITs.",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/dbe0ebad-7901-3f68-b893-bf4fdb418ffc/want-to-insulate-your.html",
-        "providerPublishTime": 1655295300,
-        "type": "STORY"
-    },
-    "03b126ba-c67c-31df-a22e-e2d8cdeefae3": {
-        "uuid": "03b126ba-c67c-31df-a22e-e2d8cdeefae3",
-        "title": "Oil\u2019s Extends Choppy Trading Run With Fed Set to Hike Rates",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-fluctuates-ahead-fed-meet-041206591.html",
-        "providerPublishTime": 1655294279,
-        "type": "STORY"
-    },
-    "c04cf15c-affb-30cc-9815-317f3798f684": {
-        "uuid": "c04cf15c-affb-30cc-9815-317f3798f684",
-        "title": "Oil prices pull back as traders await Fed decision",
+    "e9d1024a-9501-3d52-8df9-cbb30ee21edf": {
+        "uuid": "e9d1024a-9501-3d52-8df9-cbb30ee21edf",
+        "title": "Don\u2019t expect any surprises from OPEC+, even as recession worries weigh on oil prices",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/c04cf15c-affb-30cc-9815-317f3798f684/oil-prices-pull-back-as.html",
-        "providerPublishTime": 1655293920,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/e9d1024a-9501-3d52-8df9-cbb30ee21edf/don%E2%80%99t-expect-any-surprises.html",
+        "providerPublishTime": 1656083700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/46rKBs1Rlf6RQzHidBz2NA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XoGw1s602DS_NQo9B4i_9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/ca19c8eb7e79ad328350e42e5340f078",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/09p4O95lKnEpsgpKLt6H8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XoGw1s602DS_NQo9B4i_9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/ca19c8eb7e79ad328350e42e5340f078",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F"
+        ]
     },
-    "8da10f48-352f-4230-bb4f-9d5eeef4a532": {
-        "uuid": "8da10f48-352f-4230-bb4f-9d5eeef4a532",
-        "title": "Stock market news lives updates: Stock futures rise as traders brace for Fed decision",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-june-15-2022-114947098.html",
-        "providerPublishTime": 1655293787,
-        "type": "STORY"
+    "6ce0da11-a684-3498-9945-b21c5f5a7d34": {
+        "uuid": "6ce0da11-a684-3498-9945-b21c5f5a7d34",
+        "title": "S&P 500 on track to snap 3-week losing streak, bitcoin price pops",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/p-500-track-snap-3-143002167.html",
+        "providerPublishTime": 1656081002,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OsY_MdQViHfUO0YlzNr5NQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/duqya71e8pjHlM5glUDnVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "BTC-USD",
+            "AMZN",
+            "XLY",
+            "AAPL",
+            "RMPL-P",
+            "^GSPC",
+            "0P0001CRXW.F",
+            "^TNX",
+            "CL=F",
+            "RF-PC",
+            "TSLA",
+            "GOOG",
+            "GOOGL",
+            "PKREF",
+            "XLC",
+            "FKINX",
+            "NVDA",
+            "META",
+            "XLK",
+            "^IXIC"
+        ]
     },
-    "6f22fd59-aca6-319c-bb29-bf76da27db3a": {
-        "uuid": "6f22fd59-aca6-319c-bb29-bf76da27db3a",
-        "title": "Oil supply will struggle to keep pace with demand in 2023, predicts IEA",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/6f22fd59-aca6-319c-bb29-bf76da27db3a/oil-supply-will-struggle-to.html",
-        "providerPublishTime": 1655290108,
-        "type": "STORY"
+    "a27e61f4-714e-3108-bf4e-3e2fc853d08a": {
+        "uuid": "a27e61f4-714e-3108-bf4e-3e2fc853d08a",
+        "title": "US STOCKS-Wall St rallies as traders dial back rate-hike bets",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/us-stocks-wall-st-rallies-141931384.html",
+        "providerPublishTime": 1656080371,
+        "type": "STORY",
+        "relatedTickers": [
+            "CL=F",
+            "HG=F",
+            "COMP",
+            "^GSPC",
+            "^DJI"
+        ]
     },
-    "74d1942c-87bd-38d2-ac0a-5017faa7a90d": {
-        "uuid": "74d1942c-87bd-38d2-ac0a-5017faa7a90d",
-        "title": "Oil Prices Drop as Biden Asks Refiners to Produce More Gasoline",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/74d1942c-87bd-38d2-ac0a-5017faa7a90d/oil-prices-drop-as-biden-asks.html",
-        "providerPublishTime": 1655289720,
-        "type": "STORY"
+    "9fabf548-7399-3566-8a06-bb75c47bd966": {
+        "uuid": "9fabf548-7399-3566-8a06-bb75c47bd966",
+        "title": "Recession calls are mounting among Wall Street\u2019s big banks",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/recession-calls-mounting-among-wall-141143535.html",
+        "providerPublishTime": 1656079903,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4zOkL9TJ87LfiY3_0VBH2Q--~B/aD0xNTUwO3c9Mjc2MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/833f2dc0-f3c7-11ec-a7fd-45d6da4cd5e0",
+                    "width": 2761,
+                    "height": 1550,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Gu.OvnAya2WCOO4zIzQgXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/833f2dc0-f3c7-11ec-a7fd-45d6da4cd5e0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DB",
+            "^DJI",
+            "CL=F",
+            "WFC",
+            "WFC-PD",
+            "^IXIC",
+            "^GSPC",
+            "0P0001CRXW.F",
+            "GS",
+            "JPM",
+            "ZION"
+        ]
     },
-    "24323e41-88fa-3cd6-8bf5-b3fba53683bb": {
-        "uuid": "24323e41-88fa-3cd6-8bf5-b3fba53683bb",
-        "title": "Harold Hamm: private investors will pay for oil exploration markets shun",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/24323e41-88fa-3cd6-8bf5-b3fba53683bb/harold-hamm%3A-private.html",
-        "providerPublishTime": 1655285056,
-        "type": "STORY"
+    "3728f802-e8a0-3f13-b211-df986710f74e": {
+        "uuid": "3728f802-e8a0-3f13-b211-df986710f74e",
+        "title": "10 Stocks to Profit from Inflation",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-profit-inflation-135403075.html",
+        "providerPublishTime": 1656078843,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EE8F.ysY.lRtAJ3_g3MaYQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tomUGnwyB7JhVGgK.9SUCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "O",
+            "GOLD",
+            "CVX",
+            "MPC",
+            "KO",
+            "PG",
+            "CL",
+            "XOM"
+        ]
     },
-    "910a4ded-8fa7-365c-9d4a-1d3657ef494c": {
-        "uuid": "910a4ded-8fa7-365c-9d4a-1d3657ef494c",
-        "title": "IEA Sees World Oil Supply Struggling to Meet Demand in 2023",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/iea-sees-world-oil-supply-084446572.html",
-        "providerPublishTime": 1655282686,
-        "type": "STORY"
+    "cdaab581-0053-3d4d-a4a9-a820d313a9ae": {
+        "uuid": "cdaab581-0053-3d4d-a4a9-a820d313a9ae",
+        "title": "US STOCKS-Wall St set for gains as traders scale back rate hike expectations",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/us-stocks-wall-st-set-131428550.html",
+        "providerPublishTime": 1656076468,
+        "type": "STORY",
+        "relatedTickers": [
+            "HG=F",
+            "CL=F",
+            "^GSPC"
+        ]
+    },
+    "008cd6bb-ef1f-3e48-8307-2498d07d5165": {
+        "uuid": "008cd6bb-ef1f-3e48-8307-2498d07d5165",
+        "title": "Is the Options Market Predicting a Spike in Laredo Petroleum (LPI) Stock?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/options-market-predicting-spike-laredo-125412234.html",
+        "providerPublishTime": 1656075252,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g_vqrpVlsAhRkA.ajo80qA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9InfUzAtiM9j21eIuxM3Yw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1ebb4d9acd53bae23e286c2bf787a03a",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6ugn3xAMhJIr_NBydGhc9g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9InfUzAtiM9j21eIuxM3Yw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1ebb4d9acd53bae23e286c2bf787a03a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F",
+            "LPI"
+        ]
+    },
+    "008dec98-743e-3eb1-8abb-b5db023c84c9": {
+        "uuid": "008dec98-743e-3eb1-8abb-b5db023c84c9",
+        "title": "Here's Why Kinder Morgan (KMI) is an Attractive Investment Bet",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/heres-why-kinder-morgan-kmi-124512783.html",
+        "providerPublishTime": 1656074712,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v2Kjo1kPNgnceC1nBu6e7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/47E4xwcM6BQZ6NmBdutnbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e0f9e79fa6f666b6ccbe8332dd78b5e5",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ntnHF4u3Ugn5x60R6nbAMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/47E4xwcM6BQZ6NmBdutnbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e0f9e79fa6f666b6ccbe8332dd78b5e5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F",
+            "KMI",
+            "LNG",
+            "WLL",
+            "AR"
+        ]
     }
 }

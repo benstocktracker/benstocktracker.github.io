@@ -1,66 +1,236 @@
 {
-    "b0a8194f-2b64-3b48-abc2-dda6114998b0": {
-        "uuid": "b0a8194f-2b64-3b48-abc2-dda6114998b0",
-        "title": "3 Great Dividend Stocks You Can Buy for Less Than $50",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b0a8194f-2b64-3b48-abc2-dda6114998b0/3-great-dividend-stocks-you.html",
-        "providerPublishTime": 1655046900,
-        "type": "STORY"
-    },
-    "da90a5a2-e98a-34de-83b5-2dc327ee62ad": {
-        "uuid": "da90a5a2-e98a-34de-83b5-2dc327ee62ad",
-        "title": "The World Is Going to Need More Natural Gas. This Stock Could Be a Key Beneficiary.",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/da90a5a2-e98a-34de-83b5-2dc327ee62ad/the-world-is-going-to-need.html",
-        "providerPublishTime": 1654957800,
-        "type": "STORY"
-    },
-    "df1e1011-8fd2-3b8b-bebb-acbb8512decc": {
-        "uuid": "df1e1011-8fd2-3b8b-bebb-acbb8512decc",
-        "title": "3 Dividend Stocks to Buy Now for 20 Years of Income Growth",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/3-dividend-stocks-buy-now-101109217.html",
-        "providerPublishTime": 1654855869,
-        "type": "STORY"
-    },
-    "cc171f46-1ddc-3566-a90e-aff868e6351f": {
-        "uuid": "cc171f46-1ddc-3566-a90e-aff868e6351f",
-        "title": "3 High-Yield Energy Stocks to Earn Passive Income for Years",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cc171f46-1ddc-3566-a90e-aff868e6351f/3-high-yield-energy-stocks-to.html",
-        "providerPublishTime": 1654702200,
-        "type": "STORY"
-    },
-    "568c06ae-be03-3b02-8eb5-6619b44740b8": {
-        "uuid": "568c06ae-be03-3b02-8eb5-6619b44740b8",
-        "title": "Kinder Morgan (KMI) Outpaces Stock Market Gains: What You Should Know",
+    "008dec98-743e-3eb1-8abb-b5db023c84c9": {
+        "uuid": "008dec98-743e-3eb1-8abb-b5db023c84c9",
+        "title": "Here's Why Kinder Morgan (KMI) is an Attractive Investment Bet",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-outpaces-stock-214509908.html",
-        "providerPublishTime": 1654638309,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/news/heres-why-kinder-morgan-kmi-124512783.html",
+        "providerPublishTime": 1656074712,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v2Kjo1kPNgnceC1nBu6e7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/47E4xwcM6BQZ6NmBdutnbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e0f9e79fa6f666b6ccbe8332dd78b5e5",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ntnHF4u3Ugn5x60R6nbAMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/47E4xwcM6BQZ6NmBdutnbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e0f9e79fa6f666b6ccbe8332dd78b5e5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F",
+            "KMI",
+            "LNG",
+            "WLL",
+            "AR"
+        ]
     },
-    "cc038abd-8db4-35e3-889b-6f15f0022e86": {
-        "uuid": "cc038abd-8db4-35e3-889b-6f15f0022e86",
-        "title": "7 High-Quality Dividend Stocks With High Yields",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-high-quality-dividend-stocks-132749123.html",
-        "providerPublishTime": 1654608469,
-        "type": "STORY"
+    "b20d9191-273f-3223-8d71-c7153f4bafa0": {
+        "uuid": "b20d9191-273f-3223-8d71-c7153f4bafa0",
+        "title": "Best Dividend Stocks to Buy Now According to the Zacks Rank",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/best-dividend-stocks-buy-now-115211161.html",
+        "providerPublishTime": 1656071531,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TWq4Wq7ecHvP9Z5EhvIlPg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/c2geauLi_DQLKShD7n7XQA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/24c76eed34fbfe9e7e6769aff76cc9be",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/096fqmPcWxQ41VJy3Vxf1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c2geauLi_DQLKShD7n7XQA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/24c76eed34fbfe9e7e6769aff76cc9be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EPD",
+            "AVT",
+            "ABR-PF",
+            "KMI"
+        ]
     },
-    "3b8970ee-b408-3795-ac9b-e8dcd50caa74": {
-        "uuid": "3b8970ee-b408-3795-ac9b-e8dcd50caa74",
-        "title": "Oil Tanker Stocks To Watch As Shipping Rates Soar",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/oil-tanker-stocks-watch-shipping-000000760.html",
-        "providerPublishTime": 1654560000,
-        "type": "STORY"
+    "e1d241a1-8e54-3ae6-9d7d-9e2555805703": {
+        "uuid": "e1d241a1-8e54-3ae6-9d7d-9e2555805703",
+        "title": "Equinor (EQNR) Submits Funding Bid for UK Hydrogen Project",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/equinor-eqnr-submits-funding-bid-145802700.html",
+        "providerPublishTime": 1655996282,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/a9OueUMyxUqa2hRnLv.K6w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1ZdURQsxl.vK4YDjconpBw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dc2d752ba464b69c6cd5fb8c8e0c0e92",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nPXs84bfO5EDRe5nsB2MZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1ZdURQsxl.vK4YDjconpBw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dc2d752ba464b69c6cd5fb8c8e0c0e92",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EQNR",
+            "SU",
+            "AR",
+            "KMI"
+        ]
     },
-    "eeb31af9-f778-361e-adc6-c665f03484c7": {
-        "uuid": "eeb31af9-f778-361e-adc6-c665f03484c7",
-        "title": "Kinder Morgan Stock: Bull vs. Bear",
+    "71917480-7548-3779-9a6c-851d47cd8d41": {
+        "uuid": "71917480-7548-3779-9a6c-851d47cd8d41",
+        "title": "Kinder Morgan (KMI) Dips More Than Broader Markets: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-dips-more-214509801.html",
+        "providerPublishTime": 1655934309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oMKb0aDck8IpQx0xUmmnpQ--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                    "width": 900,
+                    "height": 618,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/az2jqXhqyZRic77Cn4mQiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "73308d65-4c46-31b9-afd1-dac4e22a26c4": {
+        "uuid": "73308d65-4c46-31b9-afd1-dac4e22a26c4",
+        "title": "Trudeau\u2019s Oil Pipeline Is a \u2018Net Loss\u2019 for Taxpayers, Watchdog Says",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/trudeau-oil-pipeline-net-loss-165425743.html",
+        "providerPublishTime": 1655921206,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3_u78C_0jsbe57GHUA9Wuw--~B/aD0xMzEzO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/L5huwCP8Zv7bKUXYvAsrhw--~B/aD0xMzEzO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/ef7fa5290de8f3e9c0839098398cd3d9",
+                    "width": 1999,
+                    "height": 1313,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K2NwCyK2A4NBYg3C3QAZWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L5huwCP8Zv7bKUXYvAsrhw--~B/aD0xMzEzO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/ef7fa5290de8f3e9c0839098398cd3d9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "3e5e9c30-ff16-36cc-83b4-c3eee0f84fad": {
+        "uuid": "3e5e9c30-ff16-36cc-83b4-c3eee0f84fad",
+        "title": "9 Value Stocks to Buy in 2022 According to David Abrams",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/9-value-stocks-buy-2022-140117074.html",
+        "providerPublishTime": 1655906477,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pYfbviwjdt0vhxuC66GnfQ--~B/aD0zMDA7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Vd0UsOTRDHvIckvkYBigGA--~B/aD0zMDA7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4ca860c0acdc1e1007078ac2af94c28f",
+                    "width": 225,
+                    "height": 300,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T3Ot3fdkIP.f.dr_Senwqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Vd0UsOTRDHvIckvkYBigGA--~B/aD0zMDA7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4ca860c0acdc1e1007078ac2af94c28f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CWH",
+            "TPX",
+            "ET-PD",
+            "OI",
+            "GOOGL",
+            "KMI"
+        ]
+    },
+    "1c581b08-55d0-3d94-a243-db0b04578030": {
+        "uuid": "1c581b08-55d0-3d94-a243-db0b04578030",
+        "title": "Want $10,000 in Annual Dividend Income? Invest $134,200 in These Ultra-High-Yield Stocks",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/eeb31af9-f778-361e-adc6-c665f03484c7/kinder-morgan-stock%3A-bull-vs..html",
-        "providerPublishTime": 1654525800,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/1c581b08-55d0-3d94-a243-db0b04578030/want-%2410%2C000-in-annual.html",
+        "providerPublishTime": 1655821800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ey.XczdyUU8vac_2x.5yNA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lU0uuY3vb8hiLgKIi3ZhWw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b5e6d492dc3001afc25fbbee78086d35",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CIkCWQFyXzf2rQTGrg8sSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lU0uuY3vb8hiLgKIi3ZhWw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b5e6d492dc3001afc25fbbee78086d35",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO",
+            "KMI"
+        ]
+    },
+    "fa769454-68d2-3b17-975f-7568c0449765": {
+        "uuid": "fa769454-68d2-3b17-975f-7568c0449765",
+        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Oils-Energy Names",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001221.html",
+        "providerPublishTime": 1655730001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SAL_BV4Lqcz677Hwp3FpIw--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 1000,
+                    "height": 603,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UFSM7lesnJ4LZBk9Z57AzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FANG",
+            "KMI"
+        ]
     }
 }

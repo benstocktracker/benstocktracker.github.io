@@ -1,66 +1,181 @@
 {
-    "1775ffdd-adab-32b6-97c1-0742a8cb6652": {
-        "uuid": "1775ffdd-adab-32b6-97c1-0742a8cb6652",
-        "title": "Why Binging Has Become a Bad Bet for Netflix",
+    "d13d20b0-1247-3240-a1f1-16787324af65": {
+        "uuid": "d13d20b0-1247-3240-a1f1-16787324af65",
+        "title": "2 Beaten-Down Growth Stocks to Buy for the Long Haul",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/1775ffdd-adab-32b6-97c1-0742a8cb6652/why-binging-has-become-a-bad.html",
-        "providerPublishTime": 1655292060,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/d13d20b0-1247-3240-a1f1-16787324af65/2-beaten-down-growth-stocks.html",
+        "providerPublishTime": 1656069780,
+        "type": "STORY",
+        "relatedTickers": [
+            "DIS"
+        ]
     },
-    "77be16c1-ac9a-3e2c-bd43-efec270fb7e7": {
-        "uuid": "77be16c1-ac9a-3e2c-bd43-efec270fb7e7",
-        "title": "1 Green Flag for The Trade Desk in 2022",
+    "4da1bfab-eaf8-3410-85d5-f8ef81e029c5": {
+        "uuid": "4da1bfab-eaf8-3410-85d5-f8ef81e029c5",
+        "title": "Nasdaq Bear Market: 2 Growth Stocks You'll Regret Not Buying on the Dip",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/77be16c1-ac9a-3e2c-bd43-efec270fb7e7/1-green-flag-for-the-trade.html",
-        "providerPublishTime": 1655291400,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/4da1bfab-eaf8-3410-85d5-f8ef81e029c5/nasdaq-bear-market%3A-2-growth.html",
+        "providerPublishTime": 1656069000,
+        "type": "STORY",
+        "relatedTickers": [
+            "TTD",
+            "ROKU",
+            "DIS",
+            "COMP",
+            "NFLX"
+        ]
     },
-    "03292205-6dcf-30ed-9a60-82cd34c1bf24": {
-        "uuid": "03292205-6dcf-30ed-9a60-82cd34c1bf24",
-        "title": "Apple\u2019s $2 Trillion Market Valuation on Shaky Ground",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/apple-2-trillion-market-valuation-101748555.html",
-        "providerPublishTime": 1655288268,
-        "type": "STORY"
-    },
-    "39dc9e17-c4dd-3130-b029-e8cda2494b8c": {
-        "uuid": "39dc9e17-c4dd-3130-b029-e8cda2494b8c",
-        "title": "Netflix Is Talking to Roku for All the Wrong Reasons",
+    "7d092c3c-dc34-38b5-a73c-565967853f7d": {
+        "uuid": "7d092c3c-dc34-38b5-a73c-565967853f7d",
+        "title": "Top 10 Bargain Stocks to Buy Right Now",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/39dc9e17-c4dd-3130-b029-e8cda2494b8c/netflix-is-talking-to-roku.html",
-        "providerPublishTime": 1655287260,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/7d092c3c-dc34-38b5-a73c-565967853f7d/top-10-bargain-stocks-to-buy.html",
+        "providerPublishTime": 1656065580,
+        "type": "STORY",
+        "relatedTickers": [
+            "HHC",
+            "DIS",
+            "SHOP",
+            "MELI",
+            "SOFI"
+        ]
     },
-    "b3b19aa5-e46c-38e0-943c-9eab5a5e8f2f": {
-        "uuid": "b3b19aa5-e46c-38e0-943c-9eab5a5e8f2f",
-        "title": "Disney\u2019s India cricket play baffles Wall Street",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/b3b19aa5-e46c-38e0-943c-9eab5a5e8f2f/disney%E2%80%99s-india-cricket-play.html",
-        "providerPublishTime": 1655286253,
-        "type": "STORY"
+    "d349c21e-fc4a-3667-8bce-c68056729f49": {
+        "uuid": "d349c21e-fc4a-3667-8bce-c68056729f49",
+        "title": "Walt Disney (DIS) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/walt-disney-dis-gains-lags-214509806.html",
+        "providerPublishTime": 1656020709,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LJB1iOVQTaGHshft0O3BLw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_7H_qQvZHeP2nKi1EbaHrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
     },
-    "91d6a1b3-02f5-34f1-b278-3178691816bc": {
-        "uuid": "91d6a1b3-02f5-34f1-b278-3178691816bc",
-        "title": "How Serving Up Activism Helps Ben & Jerry\u2019s Scoop Up Customers",
-        "publisher": "WSJ",
-        "link": "https://finance.yahoo.com/video/serving-activism-helps-ben-jerry-093000220.html",
-        "providerPublishTime": 1655285400,
-        "type": "VIDEO"
+    "19673890-fd6c-3763-bb7c-cff662e6d214": {
+        "uuid": "19673890-fd6c-3763-bb7c-cff662e6d214",
+        "title": "How to interpret the new round of Netflix layoffs",
+        "publisher": "Quartz",
+        "link": "https://finance.yahoo.com/m/19673890-fd6c-3763-bb7c-cff662e6d214/how-to-interpret-the-new.html",
+        "providerPublishTime": 1656018901,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kiusKMpAvpvrWmIBzVezFw--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dZIRq8U7pcY93IUxwQh6gw--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/9e399cb17e3e9a5265cb8f34add2fd7b",
+                    "width": 620,
+                    "height": 348,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pr23ngzYhj7jx2XOI8ZsRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dZIRq8U7pcY93IUxwQh6gw--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/9e399cb17e3e9a5265cb8f34add2fd7b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "NFLX"
+        ]
     },
-    "b532dc95-784c-3ae6-ab7e-ed423c82a90c": {
-        "uuid": "b532dc95-784c-3ae6-ab7e-ed423c82a90c",
-        "title": "Streamers and Broadcasters Square Off for Rights to Soccer, Cricket Leagues",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b532dc95-784c-3ae6-ab7e-ed423c82a90c/streamers-and-broadcasters.html",
-        "providerPublishTime": 1655244018,
-        "type": "STORY"
+    "2f4fa82e-78c6-375c-bab0-86a5ce19de04": {
+        "uuid": "2f4fa82e-78c6-375c-bab0-86a5ce19de04",
+        "title": "Is the Show Over for Netflix?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/show-over-netflix-192507876.html",
+        "providerPublishTime": 1656012307,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aJhfYcbUmGF9cJIeR7HXKQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/essBVWoGMtX8_PvCWccE.w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/91192444552751deef02401ac71ddf3a",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XlHQdqv1GF8Ne_gMKuwT2w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/essBVWoGMtX8_PvCWccE.w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/91192444552751deef02401ac71ddf3a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "DIS"
+        ]
     },
-    "94c2ce32-b92f-3cd9-bb8b-6342f11ffe86": {
-        "uuid": "94c2ce32-b92f-3cd9-bb8b-6342f11ffe86",
-        "title": "'Lightyear' star Chris Evans calls critics of on-screen representation 'idiots'",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/lightyear-star-chris-evans-calls-213549034.html",
-        "providerPublishTime": 1655242549,
-        "type": "STORY"
+    "9249a147-b1fa-339f-af0e-3a01552e3ffc": {
+        "uuid": "9249a147-b1fa-339f-af0e-3a01552e3ffc",
+        "title": "More Bad News for Infamous Disney World Site",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/9249a147-b1fa-339f-af0e-3a01552e3ffc/more-bad-news-for-infamous.html",
+        "providerPublishTime": 1656007860,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/viikAi8uTi_DU073pwU0pQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/oP7PZrRVvxSZ09NIrj1obQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/61fc749c90fdb7166869220934fe754e",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DN2mGlQDPSk4QKxbt4VFSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oP7PZrRVvxSZ09NIrj1obQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/61fc749c90fdb7166869220934fe754e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "4c997c20-c0a6-353e-b397-b7edf12f488e": {
+        "uuid": "4c997c20-c0a6-353e-b397-b7edf12f488e",
+        "title": "The Crisis At Disney: Part 3, Does Disney Still Have A Competitive Edge?",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/crisis-disney-part-3-does-160345121.html",
+        "providerPublishTime": 1656000225,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vAu0cHfXmyMgjTvc__A0.w--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/u5E5Pu2nGNl.ZRBeAqcjKA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f4cb8a6b3822837fd91e5ae2d776eca",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BIcMcUrIRlljJj3oRVZ70g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u5E5Pu2nGNl.ZRBeAqcjKA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f4cb8a6b3822837fd91e5ae2d776eca",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "NFLX"
+        ]
     }
 }

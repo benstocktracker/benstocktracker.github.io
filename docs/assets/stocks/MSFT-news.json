@@ -1,66 +1,264 @@
 {
-    "514b9527-765e-32eb-b8f3-0f15cfa5a3f4": {
-        "uuid": "514b9527-765e-32eb-b8f3-0f15cfa5a3f4",
-        "title": "3 Beaten Down Stocks to Buy Now",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/514b9527-765e-32eb-b8f3-0f15cfa5a3f4/3-beaten-down-stocks-to-buy.html",
-        "providerPublishTime": 1655039880,
-        "type": "STORY"
+    "84d6a517-54d2-34d5-b934-d5188f17e2ef": {
+        "uuid": "84d6a517-54d2-34d5-b934-d5188f17e2ef",
+        "title": "Missouri becomes 1st state to end abortion access after Supreme Court ruling",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/missouri-becomes-1st-state-end-150138126.html",
+        "providerPublishTime": 1656082898,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ieuIdoAelLc9g2pERVr.rQ--~B/aD0zODg7dz02ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "width": 689,
+                    "height": 388,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K7KH3W6QW41JxhJEj5EUgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "AMZN",
+            "MTCH",
+            "AAPL",
+            "RMPL-P",
+            "MSFT",
+            "LEVI",
+            "BMBL",
+            "C"
+        ]
     },
-    "3c10fc14-f8a3-31f9-bf51-217731867d97": {
-        "uuid": "3c10fc14-f8a3-31f9-bf51-217731867d97",
-        "title": "How to Find Compelling Tech Stocks in the Current Market",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3c10fc14-f8a3-31f9-bf51-217731867d97/how-to-find-compelling-tech.html",
-        "providerPublishTime": 1655031600,
-        "type": "STORY"
+    "6ce0da11-a684-3498-9945-b21c5f5a7d34": {
+        "uuid": "6ce0da11-a684-3498-9945-b21c5f5a7d34",
+        "title": "S&P 500 on track to snap 3-week losing streak, bitcoin price pops",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/p-500-track-snap-3-143002167.html",
+        "providerPublishTime": 1656081002,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OsY_MdQViHfUO0YlzNr5NQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/duqya71e8pjHlM5glUDnVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "BTC-USD",
+            "AMZN",
+            "XLY",
+            "AAPL",
+            "RMPL-P",
+            "^GSPC",
+            "0P0001CRXW.F",
+            "^TNX",
+            "CL=F",
+            "RF-PC",
+            "TSLA",
+            "GOOG",
+            "GOOGL",
+            "PKREF",
+            "XLC",
+            "FKINX",
+            "NVDA",
+            "META",
+            "XLK",
+            "^IXIC"
+        ]
     },
-    "fabd4138-4bf8-31eb-8792-e5f4f4b4821e": {
-        "uuid": "fabd4138-4bf8-31eb-8792-e5f4f4b4821e",
-        "title": "How Microsoft is Bringing the Metaverse to Factory Floors",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fabd4138-4bf8-31eb-8792-e5f4f4b4821e/how-microsoft-is-bringing-the.html",
-        "providerPublishTime": 1654951500,
-        "type": "STORY"
-    },
-    "054ac0c1-fb4a-3133-8643-55020612afb0": {
-        "uuid": "054ac0c1-fb4a-3133-8643-55020612afb0",
-        "title": "Oracle Women Stumble in Pay Bias Suit While Google Cuts a Deal",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oracle-women-suing-over-pay-002056949.html",
-        "providerPublishTime": 1654917307,
-        "type": "STORY"
-    },
-    "8ee26002-0e2c-336d-8c61-0cd7d909ee38": {
-        "uuid": "8ee26002-0e2c-336d-8c61-0cd7d909ee38",
-        "title": "Google Agrees to Pay $118 Million to Settle Pay Equity Suit",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/google-agrees-pay-118-million-014458165.html",
-        "providerPublishTime": 1654911898,
-        "type": "STORY"
-    },
-    "33a3939d-451b-3c7e-bd73-f61722cad725": {
-        "uuid": "33a3939d-451b-3c7e-bd73-f61722cad725",
-        "title": "Twitter, Target, Kohl\u2019s: Stocks That Defined the Week",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/33a3939d-451b-3c7e-bd73-f61722cad725/twitter%2C-target%2C-kohl%E2%80%99s%3A.html",
-        "providerPublishTime": 1654900380,
-        "type": "STORY"
-    },
-    "4be3e4e9-dbd8-3b53-b5ee-3da342ee0cd3": {
-        "uuid": "4be3e4e9-dbd8-3b53-b5ee-3da342ee0cd3",
-        "title": "These 3 Tech Giants Have Made Big Acquisitions in 2022",
+    "c75b50a0-473e-3421-91dc-929977fc91fa": {
+        "uuid": "c75b50a0-473e-3421-91dc-929977fc91fa",
+        "title": "Netflix (NFLX) Continues to Fire Employees to Cut Costs",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/3-tech-giants-made-big-223010928.html",
-        "providerPublishTime": 1654900210,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/news/netflix-nflx-continues-fire-employees-135501377.html",
+        "providerPublishTime": 1656078901,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yRVJsfyAsm6z5iBQ0IRkGg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JmsYcpOvWJnJ6EliXhpuxg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/708fee7d68630432800f626cc3c5170e",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eHm3W.jtrzFi4my.HvDBPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JmsYcpOvWJnJ6EliXhpuxg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/708fee7d68630432800f626cc3c5170e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "SPOT",
+            "MSFT"
+        ]
     },
-    "be1dddaa-958a-4e89-94ca-e253abde4cea": {
-        "uuid": "be1dddaa-958a-4e89-94ca-e253abde4cea",
-        "title": "Microsoft is planting the seeds for cloud gaming supremacy",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/microsoft-is-planting-the-seeds-for-cloud-gaming-supremacy-215311169.html",
-        "providerPublishTime": 1654897991,
-        "type": "STORY"
+    "301973d6-d762-32fb-baf6-48db4970d321": {
+        "uuid": "301973d6-d762-32fb-baf6-48db4970d321",
+        "title": "Market check: Stocks open higher, ARKK extends gains, Russell to rebalance indices",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-stocks-open-higher-135355722.html",
+        "providerPublishTime": 1656078835,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AWqcatdvhQlaDWf7kscCXg--~B/aD0xNTUwO3c9Mjc2MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/176b5620-f3c5-11ec-a7ff-0db26033c2e1",
+                    "width": 2761,
+                    "height": 1550,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YyW2lBxtaMXebhA2yiUPtQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/176b5620-f3c5-11ec-a7ff-0db26033c2e1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VLUE",
+            "IBB",
+            "XLC",
+            "FKINX",
+            "NVDA",
+            "^GSPC",
+            "0P0001CRXW.F",
+            "META",
+            "XLI",
+            "EWY",
+            "PEP",
+            "IPO",
+            "AMZN",
+            "XLP",
+            "XLB",
+            "MSFT",
+            "VRM",
+            "XLY",
+            "XLK",
+            "RF-PC",
+            "TSLA",
+            "TAN",
+            "GOOG",
+            "GOOGL",
+            "PKREF",
+            "EEM",
+            "XLE",
+            "LQD",
+            "ARKK",
+            "XLRE"
+        ]
+    },
+    "fbb3e414-278e-3593-902b-d3976b2fe7b6": {
+        "uuid": "fbb3e414-278e-3593-902b-d3976b2fe7b6",
+        "title": "Microsoft Stock Today: How The RSI Momentum Tool Helped Confirm Its Top",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/fbb3e414-278e-3593-902b-d3976b2fe7b6/microsoft-stock-today%3A-how.html",
+        "providerPublishTime": 1656072029,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y1v56DO5sP5BcCgKZQkg6w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/792sbdMWhXjIQsR.0tEERQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e8d83b39600b78314760e8d409dc8095",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aLGlt4fNJPqRlbEn3otzlw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/792sbdMWhXjIQsR.0tEERQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e8d83b39600b78314760e8d409dc8095",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "FDX"
+        ]
+    },
+    "c47794f9-b280-3e0c-ae83-235a0c12a771": {
+        "uuid": "c47794f9-b280-3e0c-ae83-235a0c12a771",
+        "title": "Got $2,500? 2 Top Stocks That You Can Buy and Hold for a Lifetime",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c47794f9-b280-3e0c-ae83-235a0c12a771/got-%242%2C500%3F-2-top-stocks-that.html",
+        "providerPublishTime": 1656070500,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ",
+            "MSFT"
+        ]
+    },
+    "c34b2b8f-889b-36c6-adc0-5e610dc28150": {
+        "uuid": "c34b2b8f-889b-36c6-adc0-5e610dc28150",
+        "title": "FedEx, Netflix, Microsoft Rise Premarket; Smith & Wesson Falls",
+        "publisher": "Investing.com",
+        "link": "https://finance.yahoo.com/news/fedex-netflix-microsoft-rise-premarket-072631173.html",
+        "providerPublishTime": 1656055591,
+        "type": "STORY",
+        "relatedTickers": [
+            "FDX",
+            "NFLX",
+            "SWBI",
+            "MSFT"
+        ]
+    },
+    "f9775a79-c5ba-3549-a812-10be9f3f6302": {
+        "uuid": "f9775a79-c5ba-3549-a812-10be9f3f6302",
+        "title": "Stocks cling to gains into the close, ARKK components surge, travel stocks in the red",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-cling-gains-close-arkk-191414124.html",
+        "providerPublishTime": 1656011654,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wenQ7bw6zIvYUw..eb2Nhg--~B/aD0xMzM5O3c9MjM4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/a774bdd0-f328-11ec-af3b-decde91d086c",
+                    "width": 2385,
+                    "height": 1339,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bZP2dSM5b9LKvl9pZMvyLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/a774bdd0-f328-11ec-af3b-decde91d086c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "0P0001CRXW.F",
+            "^IXIC",
+            "^DJI",
+            "^TNX",
+            "MSFT",
+            "ZM",
+            "^TYX",
+            "BKNG",
+            "NNGPF",
+            "PATH",
+            "CRSP",
+            "UAL",
+            "ARKK",
+            "TSLA"
+        ]
     }
 }

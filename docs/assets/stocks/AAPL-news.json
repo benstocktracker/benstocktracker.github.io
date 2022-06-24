@@ -1,66 +1,266 @@
 {
-    "b783126e-c789-3e7f-a47c-f348ccf312d9": {
-        "uuid": "b783126e-c789-3e7f-a47c-f348ccf312d9",
-        "title": "Exxon May Be Making \u2018More Than God.\u2019 But Apple and Alphabet Are More Profitable.",
+    "adad8418-a68a-3595-a416-0e493566d52c": {
+        "uuid": "adad8418-a68a-3595-a416-0e493566d52c",
+        "title": "Lawmakers Want FTC to Investigate Apple, Google Over Mobile Tracking",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/adad8418-a68a-3595-a416-0e493566d52c/lawmakers-want-ftc-to.html",
+        "providerPublishTime": 1656083040,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/n6xeKA5j7uqjTSvznLeUzg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e0XnSVnLKp_awvy8J9sfEw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ce277fe65cc253a1427448247d35380a",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QMBzgG.agSHmfkQUoET5xw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e0XnSVnLKp_awvy8J9sfEw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ce277fe65cc253a1427448247d35380a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GOOG",
+            "GOOGL",
+            "AAPL",
+            "RMPL-P"
+        ]
+    },
+    "84d6a517-54d2-34d5-b934-d5188f17e2ef": {
+        "uuid": "84d6a517-54d2-34d5-b934-d5188f17e2ef",
+        "title": "Missouri becomes 1st state to end abortion access after Supreme Court ruling",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/missouri-becomes-1st-state-end-150138126.html",
+        "providerPublishTime": 1656082898,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ieuIdoAelLc9g2pERVr.rQ--~B/aD0zODg7dz02ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "width": 689,
+                    "height": 388,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K7KH3W6QW41JxhJEj5EUgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "AMZN",
+            "MTCH",
+            "AAPL",
+            "RMPL-P",
+            "MSFT",
+            "LEVI",
+            "BMBL",
+            "C"
+        ]
+    },
+    "5cf8c761-242e-3f86-bb21-8d20b7b90af9": {
+        "uuid": "5cf8c761-242e-3f86-bb21-8d20b7b90af9",
+        "title": "What\u2019s Wrong, Warren? Berkshire Hathaway Stock Has Been Hit Hard in June.",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/b783126e-c789-3e7f-a47c-f348ccf312d9/exxon-may-be-making-%E2%80%98more.html",
-        "providerPublishTime": 1655064480,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/5cf8c761-242e-3f86-bb21-8d20b7b90af9/what%E2%80%99s-wrong%2C-warren%3F.html",
+        "providerPublishTime": 1656082200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_bNBykq.rkTQzzbU.OZWjw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Qj2SIkUzHfPPgGIIuJWckA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bef51b511a1d25cf90106226ef558011",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YAr_GaNljDRemxP_hEEgyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Qj2SIkUzHfPPgGIIuJWckA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bef51b511a1d25cf90106226ef558011",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BRK-A",
+            "BRK-B",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "AAPL",
+            "RMPL-P"
+        ]
     },
-    "e365fdd3-0b45-34c4-8225-e0db94441109": {
-        "uuid": "e365fdd3-0b45-34c4-8225-e0db94441109",
-        "title": "Apple Needs \u2018One More Thing\u2019\u2014and It Will Have to Be Big",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/e365fdd3-0b45-34c4-8225-e0db94441109/apple-needs-%E2%80%98one-more.html",
-        "providerPublishTime": 1655064300,
-        "type": "STORY"
+    "501346b0-c5e3-42b0-9972-3c0db3b42ea3": {
+        "uuid": "501346b0-c5e3-42b0-9972-3c0db3b42ea3",
+        "title": "Stock market news live updates: Stocks rise as indexes head for weekly gains",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/stock-market-news-lives-updates-june-24-2022-113334665.html",
+        "providerPublishTime": 1656081836,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4KC_lux78W7M.e_RwgqRVw--~B/aD00MTYwO3c9NjI0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/387d04f0-f3aa-11ec-b7ef-a22a5a14bdee",
+                    "width": 6240,
+                    "height": 4160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tnCgK.uKheSNwwNbb7luvg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/387d04f0-f3aa-11ec-b7ef-a22a5a14bdee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "RMPL-P",
+            "^GSPC",
+            "0P0001CRXW.F",
+            "SPY",
+            "QQQ",
+            "^DJI",
+            "^IXIC"
+        ]
     },
-    "0e0666f6-4cf4-3df0-94ba-51e248c566e4": {
-        "uuid": "0e0666f6-4cf4-3df0-94ba-51e248c566e4",
-        "title": "Apple Is Delving Into \u2018Buy Now Pay Later.\u2019 These Other Stocks Might Be the Best Ways to Play the Trend.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/0e0666f6-4cf4-3df0-94ba-51e248c566e4/apple-is-delving-into-%E2%80%98buy.html",
-        "providerPublishTime": 1655063760,
-        "type": "STORY"
+    "6ce0da11-a684-3498-9945-b21c5f5a7d34": {
+        "uuid": "6ce0da11-a684-3498-9945-b21c5f5a7d34",
+        "title": "S&P 500 on track to snap 3-week losing streak, bitcoin price pops",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/p-500-track-snap-3-143002167.html",
+        "providerPublishTime": 1656081002,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OsY_MdQViHfUO0YlzNr5NQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/duqya71e8pjHlM5glUDnVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "BTC-USD",
+            "AMZN",
+            "XLY",
+            "AAPL",
+            "RMPL-P",
+            "^GSPC",
+            "0P0001CRXW.F",
+            "^TNX",
+            "CL=F",
+            "RF-PC",
+            "TSLA",
+            "GOOG",
+            "GOOGL",
+            "PKREF",
+            "XLC",
+            "FKINX",
+            "NVDA",
+            "META",
+            "XLK",
+            "^IXIC"
+        ]
     },
-    "e81185ba-88b1-31d3-9cec-80d69eb14260": {
-        "uuid": "e81185ba-88b1-31d3-9cec-80d69eb14260",
-        "title": "Looking for Passive Income? Buy These 3 Top Tech Stocks",
+    "e1a9b6d9-1548-32a0-a808-f3fed74b6aef": {
+        "uuid": "e1a9b6d9-1548-32a0-a808-f3fed74b6aef",
+        "title": "Is it Still Wise to Invest in Apple Inc. (AAPL)?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/still-wise-invest-apple-inc-140427442.html",
+        "providerPublishTime": 1656079467,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mzTdbX.BUL8gVO9Opfwu5g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/upK3xq9ys9V.giIaUvFOow--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/028e3a6767f8a3fa1de90f373ab6c0c2",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4ZVbZQiVYBqMF1CEooiQBA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/upK3xq9ys9V.giIaUvFOow--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/028e3a6767f8a3fa1de90f373ab6c0c2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "^GSPC"
+        ]
+    },
+    "30ecd826-d7e9-33fb-91b7-9ee538c00cdf": {
+        "uuid": "30ecd826-d7e9-33fb-91b7-9ee538c00cdf",
+        "title": "Better Buy: Amazon or All 19,941 Cryptocurrencies?",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e81185ba-88b1-31d3-9cec-80d69eb14260/looking-for-passive-income%3F.html",
-        "providerPublishTime": 1655031600,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/30ecd826-d7e9-33fb-91b7-9ee538c00cdf/better-buy%3A-amazon-or-all.html",
+        "providerPublishTime": 1656072600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YI3bTaacEt2g5Ib83v2IAA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d6bqxGlej6eW27UGIrj8VA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc8e69f7f57d8c41ab762506ce9f9e88",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5DEdQgOwDZmAojFB3oDTrw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d6bqxGlej6eW27UGIrj8VA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc8e69f7f57d8c41ab762506ce9f9e88",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "AAPL"
+        ]
     },
-    "b9112384-12d8-32bc-91bd-756899f0f8eb": {
-        "uuid": "b9112384-12d8-32bc-91bd-756899f0f8eb",
-        "title": "2 Warren Buffett Stocks to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b9112384-12d8-32bc-91bd-756899f0f8eb/2-warren-buffett-stocks-to.html",
-        "providerPublishTime": 1655026980,
-        "type": "STORY"
-    },
-    "45b74f93-5ada-3197-89e8-a795bb2643b1": {
-        "uuid": "45b74f93-5ada-3197-89e8-a795bb2643b1",
-        "title": "Zuckerberg and Facebook Parent Meta Suffer Another Setback",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/45b74f93-5ada-3197-89e8-a795bb2643b1/zuckerberg-and-facebook.html",
-        "providerPublishTime": 1654987680,
-        "type": "STORY"
-    },
-    "0c97ddd6-87a8-305d-a40c-63891e5be70c": {
-        "uuid": "0c97ddd6-87a8-305d-a40c-63891e5be70c",
-        "title": "3 Unstoppable Growth Stocks to Buy in the  Stock Market Sell-Off",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0c97ddd6-87a8-305d-a40c-63891e5be70c/3-unstoppable-growth-stocks.html",
-        "providerPublishTime": 1654962780,
-        "type": "STORY"
-    },
-    "38d28100-537d-35db-8727-1e7a5397a939": {
-        "uuid": "38d28100-537d-35db-8727-1e7a5397a939",
-        "title": "UPDATE 1-Dutch watchdog says Apple to offer other payment methods in dating apps",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-dutch-watchdog-says-apple-151416478.html",
-        "providerPublishTime": 1654960456,
-        "type": "STORY"
+    "0a12e1b3-ed09-36ee-b619-fd42314351b5": {
+        "uuid": "0a12e1b3-ed09-36ee-b619-fd42314351b5",
+        "title": "Europe Steps Up Big Tech Crackdown With Digital Markets Act",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/0a12e1b3-ed09-36ee-b619-fd42314351b5/europe-steps-up-big-tech.html",
+        "providerPublishTime": 1656072044,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/goo1lb72BLgSEOG4LSo5ow--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fDpU5XWeYLdrhrzl9PIdtA--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6afae1ab447105680b0eaf731106a146",
+                    "width": 1000,
+                    "height": 562,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iMVftsHYxwiVYT_4ON0sdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fDpU5XWeYLdrhrzl9PIdtA--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6afae1ab447105680b0eaf731106a146",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "GOOGL",
+            "AAPL"
+        ]
     }
 }

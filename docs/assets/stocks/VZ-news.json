@@ -1,66 +1,210 @@
 {
-    "6ca95013-cb7c-323a-8085-1e6034f57a24": {
-        "uuid": "6ca95013-cb7c-323a-8085-1e6034f57a24",
-        "title": "Verizon Bridging NYC Digital Divide: $3M Pledge, Free Internet Offer",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/verizon-bridging-nyc-digital-divide-144513422.html",
-        "providerPublishTime": 1654872313,
-        "type": "STORY"
-    },
-    "8a2454cc-7db5-323d-978e-ff94da24fcc8": {
-        "uuid": "8a2454cc-7db5-323d-978e-ff94da24fcc8",
-        "title": "3 Stocks to Buy During a Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8a2454cc-7db5-323d-978e-ff94da24fcc8/3-stocks-to-buy-during-a.html",
-        "providerPublishTime": 1654869953,
-        "type": "STORY"
-    },
-    "7ae4a638-1898-3fe7-af64-2d5039c53c32": {
-        "uuid": "7ae4a638-1898-3fe7-af64-2d5039c53c32",
-        "title": "10 Safest Stocks To Invest In",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-safest-stocks-invest-133535361.html",
-        "providerPublishTime": 1654868135,
-        "type": "STORY"
-    },
-    "a2e4d668-f86e-3c06-bf9f-1e9b73b1374f": {
-        "uuid": "a2e4d668-f86e-3c06-bf9f-1e9b73b1374f",
-        "title": "Verizon transforms the sky with 5G at 2022 Governors Ball Music Festival",
+    "6c5626e2-a149-374c-8cf9-55412ec32346": {
+        "uuid": "6c5626e2-a149-374c-8cf9-55412ec32346",
+        "title": "Verizon Frontline to introduce newest first responder advisory council member",
         "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-transforms-sky-5g-2022-130000119.html",
-        "providerPublishTime": 1654866000,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/news/verizon-frontline-introduce-newest-first-180000981.html",
+        "providerPublishTime": 1656007200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
     },
-    "3c634f32-a88a-3607-89dd-53ee050b42f6": {
-        "uuid": "3c634f32-a88a-3607-89dd-53ee050b42f6",
-        "title": "Warren Buffett's 4 Highest-Yielding Dividend Stocks",
+    "94f54c73-436f-3b25-875b-e6f3fe493882": {
+        "uuid": "94f54c73-436f-3b25-875b-e6f3fe493882",
+        "title": "Madison gets new affordable home and business Internet options from Verizon",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/madison-gets-affordable-home-business-140000534.html",
+        "providerPublishTime": 1655992800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "b723de3e-43aa-3526-9dd1-c932d740b210": {
+        "uuid": "b723de3e-43aa-3526-9dd1-c932d740b210",
+        "title": "Shreveport gets new affordable home and business Internet options from Verizon",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/shreveport-gets-affordable-home-business-133000029.html",
+        "providerPublishTime": 1655991000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "28b56065-167b-3dfd-ac2e-e8c97ed397ab": {
+        "uuid": "28b56065-167b-3dfd-ac2e-e8c97ed397ab",
+        "title": "Manchester gets new affordable home and business Internet options from Verizon",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/manchester-gets-affordable-home-business-130000084.html",
+        "providerPublishTime": 1655989200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "04beba05-07f7-318b-a78b-716fe5845f47": {
+        "uuid": "04beba05-07f7-318b-a78b-716fe5845f47",
+        "title": "Verizon Customers Can Now Get Home Internet for as Little as $25 per Month",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3c634f32-a88a-3607-89dd-53ee050b42f6/warren-buffett%27s-4.html",
-        "providerPublishTime": 1654852860,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/04beba05-07f7-318b-a78b-716fe5845f47/verizon-customers-can-now-get.html",
+        "providerPublishTime": 1655916437,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/raazCC.ep79mb1w3wiAO7A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/p.GSErHOlaAEEdcJY2jU.A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4ac5b1f5b0ee2f514f77a154c10711a2",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/samKl.bxwiYcXJ_UMAS84A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/p.GSErHOlaAEEdcJY2jU.A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4ac5b1f5b0ee2f514f77a154c10711a2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
     },
-    "02caf6d7-173a-3e15-bf9d-9ae2d94d9e67": {
-        "uuid": "02caf6d7-173a-3e15-bf9d-9ae2d94d9e67",
-        "title": "Verizon Innovative Learning Celebrates 10 Years and $1B in Contributions to Education",
+    "df9b61fb-ac2a-38a2-a0a3-8679a58b5abe": {
+        "uuid": "df9b61fb-ac2a-38a2-a0a3-8679a58b5abe",
+        "title": "3 Extremely Safe Dividend Stocks to Buy Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/df9b61fb-ac2a-38a2-a0a3-8679a58b5abe/3-extremely-safe-dividend.html",
+        "providerPublishTime": 1655910900,
+        "type": "STORY",
+        "relatedTickers": [
+            "NEE",
+            "VZ"
+        ]
+    },
+    "be31f6d9-204d-33a1-8d16-52c15072d7b7": {
+        "uuid": "be31f6d9-204d-33a1-8d16-52c15072d7b7",
+        "title": "Verizon Supports Our Customers and Communities in North Carolina",
         "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/verizon-innovative-learning-celebrates-10-185007879.html",
-        "providerPublishTime": 1654800607,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/news/verizon-supports-customers-communities-north-140507112.html",
+        "providerPublishTime": 1655906707,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/etWwExDXcHdBWQf456SkNg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RDyIwLqv567vfLs1qHTfYg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/3f172ff0bc9deddeda8a89c86fd3f02f",
+                    "width": 650,
+                    "height": 365,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lsJ.INjSVIBE7xIy8JHDlg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RDyIwLqv567vfLs1qHTfYg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/3f172ff0bc9deddeda8a89c86fd3f02f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
     },
-    "c60e4e73-2035-307c-b4fc-60b82b07c0cf": {
-        "uuid": "c60e4e73-2035-307c-b4fc-60b82b07c0cf",
-        "title": "3 attractive dividend stocks for fat income and inflation protection \u2014 one even yields a mouth-watering 11.5%",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/3-top-dividend-stocks-yielding-215000407.html",
-        "providerPublishTime": 1654798860,
-        "type": "STORY"
-    },
-    "92f236cd-d3b5-37b9-a9a6-1baaee787879": {
-        "uuid": "92f236cd-d3b5-37b9-a9a6-1baaee787879",
-        "title": "5G Stocks To Buy And Watch As Wireless Firms Move Beyond Smartphones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/92f236cd-d3b5-37b9-a9a6-1baaee787879/5g-stocks-to-buy-and-watch-as.html",
-        "providerPublishTime": 1654787695,
-        "type": "STORY"
+    "bef70e5f-567f-37f9-af0e-8d0af677b024": {
+        "uuid": "bef70e5f-567f-37f9-af0e-8d0af677b024",
+        "title": "10 Best Recession Stocks to Buy According to Wells Fargo",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-recession-stocks-buy-133707992.html",
+        "providerPublishTime": 1655905027,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yO8fOqNgHnFVbVNgd1sNtQ--~B/aD0zMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/A67jvoAyIAbGmLGHIHe.Aw--~B/aD0zMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ad0affc5d3212bfa14a49fa84730e27",
+                    "width": 400,
+                    "height": 300,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/i8KJAvHuVKKjE8DYUA8rXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/A67jvoAyIAbGmLGHIHe.Aw--~B/aD0zMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ad0affc5d3212bfa14a49fa84730e27",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CVX",
+            "O",
+            "MPC",
+            "DTE",
+            "CL",
+            "PEP",
+            "IBM",
+            "VZ"
+        ]
     }
 }

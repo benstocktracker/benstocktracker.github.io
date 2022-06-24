@@ -1,4 +1,28 @@
 {
+    "fa8f5f5e-d77c-35c7-af07-9ceb57024732": {
+        "uuid": "fa8f5f5e-d77c-35c7-af07-9ceb57024732",
+        "title": "3M Receives Energy Efficiency Award at U.S. Department of Energy's Better Buildings, Better Plants Summit",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/3m-receives-energy-efficiency-award-130030340.html",
+        "providerPublishTime": 1655211630,
+        "type": "STORY"
+    },
+    "5f2ac235-445a-3973-b6fb-081425e3eec7": {
+        "uuid": "5f2ac235-445a-3973-b6fb-081425e3eec7",
+        "title": "An Intrinsic Calculation For 3M Company (NYSE:MMM) Suggests It's 46% Undervalued",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/intrinsic-calculation-3m-company-nyse-170327001.html",
+        "providerPublishTime": 1655139807,
+        "type": "STORY"
+    },
+    "df4d9bdb-b825-3f7c-90c9-e67dc9c3aa6c": {
+        "uuid": "df4d9bdb-b825-3f7c-90c9-e67dc9c3aa6c",
+        "title": "7 Top Retirement Stocks to Buy in June",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-top-retirement-stocks-buy-110050002.html",
+        "providerPublishTime": 1655031650,
+        "type": "STORY"
+    },
     "b59b4770-8e23-3daf-9fdb-a01764406967": {
         "uuid": "b59b4770-8e23-3daf-9fdb-a01764406967",
         "title": "3M's 4% Dividend Yield Isn't a Reason to Buy the Stock",
@@ -37,30 +61,6 @@
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/news/3m-mmm-stock-moves-0-214509856.html",
         "providerPublishTime": 1654724709,
-        "type": "STORY"
-    },
-    "ff439f4e-8dfa-3ce5-8c4b-0dcccd10f3dc": {
-        "uuid": "ff439f4e-8dfa-3ce5-8c4b-0dcccd10f3dc",
-        "title": "Why 3M (MMM) is a Great Dividend Stock Right Now",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-3m-mmm-great-dividend-154503040.html",
-        "providerPublishTime": 1654616703,
-        "type": "STORY"
-    },
-    "4f1c0812-1ea9-30ce-a5c6-22e6c788961a": {
-        "uuid": "4f1c0812-1ea9-30ce-a5c6-22e6c788961a",
-        "title": "10 Best Recession Stocks to Buy According to Jim Cramer",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-recession-stocks-buy-130547600.html",
-        "providerPublishTime": 1654607147,
-        "type": "STORY"
-    },
-    "6527a6b0-fe31-3bfb-b542-e66086169182": {
-        "uuid": "6527a6b0-fe31-3bfb-b542-e66086169182",
-        "title": "One Million Trees' Worth of Smog-Fighting Capacity Has Been Installed on Roofs Using Malarkey Roofing Products Shingles With 3M Smog-Reducing Granules",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/one-million-trees-worth-smog-160107841.html",
-        "providerPublishTime": 1654531267,
         "type": "STORY"
     }
 }
