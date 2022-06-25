@@ -1,4 +1,35 @@
 {
+    "e1df4c2d-76c9-3a7d-bafa-71e142c71ab4": {
+        "uuid": "e1df4c2d-76c9-3a7d-bafa-71e142c71ab4",
+        "title": "Why Lucid Group Stock Looks More Vulnerable Than Tesla and Its Other Peers",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/e1df4c2d-76c9-3a7d-bafa-71e142c71ab4/why-lucid-group-stock-looks.html",
+        "providerPublishTime": 1656117780,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G_8OWFFr_.7iifTQGFyzCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dJwrbymoLRrebPpjGOHHCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/45ceb41dfcabef5a52c470a92e082fa6",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JZtzOyyAZvMKRs.nlMnckA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dJwrbymoLRrebPpjGOHHCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/45ceb41dfcabef5a52c470a92e082fa6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "LCID",
+            "RIVN",
+            "NIO",
+            "TSLA",
+            "LI"
+        ]
+    },
     "1ab86572-b3b9-3467-a353-5fc8e9c5c9b3": {
         "uuid": "1ab86572-b3b9-3467-a353-5fc8e9c5c9b3",
         "title": "China\u2019s Nio Says 2 Killed When Test Car Crashed From Third Floor",
@@ -191,20 +222,6 @@
         "relatedTickers": [
             "NIO",
             "TSLA"
-        ]
-    },
-    "6a9c9e0d-f586-38f8-9b28-1301cb71dc62": {
-        "uuid": "6a9c9e0d-f586-38f8-9b28-1301cb71dc62",
-        "title": "CEO\u2019s of NIO, NEXCF, MREO, and AIMLF Advancing Next Wave of Multi-Billion Dollar Growth Opportunities in Web 3.0, Wearables, Pharma, and Electric Vehicles.",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/ceo-nio-nexcf-mreo-aimlf-123000773.html",
-        "providerPublishTime": 1655814600,
-        "type": "STORY",
-        "relatedTickers": [
-            "MREO",
-            "AIMLF",
-            "NEXCF",
-            "NIO"
         ]
     }
 }

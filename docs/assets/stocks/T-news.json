@@ -28,6 +28,34 @@
             "T-PC"
         ]
     },
+    "62cf7973-4931-3fba-883f-6eeb138f37f6": {
+        "uuid": "62cf7973-4931-3fba-883f-6eeb138f37f6",
+        "title": "The One Stock I\u2019m Buying Instead of Bitcoin",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/one-stock-m-buying-instead-203856280.html",
+        "providerPublishTime": 1655930336,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.mQMIEBKtQQLcvx9q5XtCA--~B/aD0yNjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/tuRk7D5wMfj0_fpRr5700Q--~B/aD0yNjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d3e0c6282ff27a7ae345706b0f24d13a",
+                    "width": 640,
+                    "height": 267,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UKQanyqCbvTT5IN5EdGd7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tuRk7D5wMfj0_fpRr5700Q--~B/aD0yNjc7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d3e0c6282ff27a7ae345706b0f24d13a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC",
+            "TMUS"
+        ]
+    },
     "fcd1c18c-7ed2-35e8-b495-4e8ffd4ef060": {
         "uuid": "fcd1c18c-7ed2-35e8-b495-4e8ffd4ef060",
         "title": "Better Dividend Stock: IBM vs. AT&T",
@@ -202,35 +230,6 @@
             "TMUS",
             "VZ",
             "T"
-        ]
-    },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp-Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1655813955,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9fI_WqOXfdKTrl_95ea.MA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iX6mLMShJPY6GbxjBKybEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T",
-            "^GSPC"
         ]
     }
 }

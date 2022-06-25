@@ -1,21 +1,21 @@
 {
-    "84d6a517-54d2-34d5-b934-d5188f17e2ef": {
-        "uuid": "84d6a517-54d2-34d5-b934-d5188f17e2ef",
-        "title": "Missouri becomes 1st state to end abortion access after Supreme Court ruling",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/missouri-becomes-1st-state-end-150138126.html",
-        "providerPublishTime": 1656082898,
-        "type": "VIDEO",
+    "a3ffbfa6-e262-34a8-92cd-970d2196e59e": {
+        "uuid": "a3ffbfa6-e262-34a8-92cd-970d2196e59e",
+        "title": "AI-Powered Coding Assistant Aims to Help, Not Replace Developers",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/a3ffbfa6-e262-34a8-92cd-970d2196e59e/ai-powered-coding-assistant.html",
+        "providerPublishTime": 1656113700,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ieuIdoAelLc9g2pERVr.rQ--~B/aD0zODg7dz02ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
-                    "width": 689,
-                    "height": 388,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GNfZUbA1YT5Y073KiqWoSA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k2hlYbHCG8K46aLjSiVZpg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/43f224db177bbda57e7b612830d493b2",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K7KH3W6QW41JxhJEj5EUgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iVyqQAZu_gm.tksl8qLKBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k2hlYbHCG8K46aLjSiVZpg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/43f224db177bbda57e7b612830d493b2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,81 +23,37 @@
             ]
         },
         "relatedTickers": [
-            "SBUX",
-            "AMZN",
-            "MTCH",
-            "AAPL",
-            "RMPL-P",
-            "MSFT",
-            "LEVI",
-            "BMBL",
-            "C"
+            "MSFT"
         ]
     },
-    "6ce0da11-a684-3498-9945-b21c5f5a7d34": {
-        "uuid": "6ce0da11-a684-3498-9945-b21c5f5a7d34",
-        "title": "S&P 500 on track to snap 3-week losing streak, bitcoin price pops",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/p-500-track-snap-3-143002167.html",
-        "providerPublishTime": 1656081002,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OsY_MdQViHfUO0YlzNr5NQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/duqya71e8pjHlM5glUDnVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
+    "c72e4ff2-4dad-39c4-8c76-873738134c1e": {
+        "uuid": "c72e4ff2-4dad-39c4-8c76-873738134c1e",
+        "title": "Internet Explorer shutdown to cause Japan problems \u2018for months\u2019",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/c72e4ff2-4dad-39c4-8c76-873738134c1e/internet-explorer-shutdown-to.html",
+        "providerPublishTime": 1656108033,
+        "type": "STORY",
         "relatedTickers": [
-            "MSFT",
-            "BTC-USD",
-            "AMZN",
-            "XLY",
-            "AAPL",
-            "RMPL-P",
-            "^GSPC",
-            "0P0001CRXW.F",
-            "^TNX",
-            "CL=F",
-            "RF-PC",
-            "TSLA",
-            "GOOG",
-            "GOOGL",
-            "PKREF",
-            "XLC",
-            "FKINX",
-            "NVDA",
-            "META",
-            "XLK",
-            "^IXIC"
+            "MSFT"
         ]
     },
-    "c75b50a0-473e-3421-91dc-929977fc91fa": {
-        "uuid": "c75b50a0-473e-3421-91dc-929977fc91fa",
-        "title": "Netflix (NFLX) Continues to Fire Employees to Cut Costs",
+    "6f64a59b-14d5-3009-85ef-876b546beb36": {
+        "uuid": "6f64a59b-14d5-3009-85ef-876b546beb36",
+        "title": "Time to Buy These Blue Chip Tech Stocks at Big Discounts and Hold?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/netflix-nflx-continues-fire-employees-135501377.html",
-        "providerPublishTime": 1656078901,
+        "link": "https://finance.yahoo.com/news/time-buy-blue-chip-tech-212909119.html",
+        "providerPublishTime": 1656106149,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yRVJsfyAsm6z5iBQ0IRkGg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JmsYcpOvWJnJ6EliXhpuxg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/708fee7d68630432800f626cc3c5170e",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ce9KCvdXZckr8T2WoS_Dbg--~B/aD00MjE7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/4iRXdbv_m7hJGByRmA9njw--~B/aD00MjE7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4b90c684438f64f63da23ffddae840ac",
+                    "width": 620,
+                    "height": 421,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eHm3W.jtrzFi4my.HvDBPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JmsYcpOvWJnJ6EliXhpuxg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/708fee7d68630432800f626cc3c5170e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jWKvqo0D72k9abPEIjB8sQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4iRXdbv_m7hJGByRmA9njw--~B/aD00MjE7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4b90c684438f64f63da23ffddae840ac",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -105,28 +61,28 @@
             ]
         },
         "relatedTickers": [
-            "NFLX",
-            "SPOT",
+            "^GSPC",
+            "ADBE",
             "MSFT"
         ]
     },
-    "301973d6-d762-32fb-baf6-48db4970d321": {
-        "uuid": "301973d6-d762-32fb-baf6-48db4970d321",
-        "title": "Market check: Stocks open higher, ARKK extends gains, Russell to rebalance indices",
+    "1ddfdfdb-6b3a-3891-892b-7619016ddd68": {
+        "uuid": "1ddfdfdb-6b3a-3891-892b-7619016ddd68",
+        "title": "Markets close week with gains, tech stocks rally to the upside",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-stocks-open-higher-135355722.html",
-        "providerPublishTime": 1656078835,
+        "link": "https://finance.yahoo.com/video/markets-close-week-gains-tech-200939369.html",
+        "providerPublishTime": 1656101379,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AWqcatdvhQlaDWf7kscCXg--~B/aD0xNTUwO3c9Mjc2MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/176b5620-f3c5-11ec-a7ff-0db26033c2e1",
-                    "width": 2761,
-                    "height": 1550,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HAQAJQLisZMf_PAHqWHX9Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YyW2lBxtaMXebhA2yiUPtQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/176b5620-f3c5-11ec-a7ff-0db26033c2e1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dKjM1lMiG.oM.5nABUIZzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -134,55 +90,47 @@
             ]
         },
         "relatedTickers": [
-            "VLUE",
-            "IBB",
             "XLC",
-            "FKINX",
-            "NVDA",
-            "^GSPC",
-            "0P0001CRXW.F",
+            "OKTA",
             "META",
-            "XLI",
-            "EWY",
-            "PEP",
-            "IPO",
-            "AMZN",
-            "XLP",
-            "XLB",
-            "MSFT",
-            "VRM",
-            "XLY",
-            "XLK",
-            "RF-PC",
+            "VZ",
+            "GS",
+            "AAPL",
+            "UNH",
             "TSLA",
-            "TAN",
+            "NVDA",
+            "^DJI",
             "GOOG",
             "GOOGL",
-            "PKREF",
-            "EEM",
-            "XLE",
-            "LQD",
-            "ARKK",
-            "XLRE"
+            "PEP",
+            "MSFT",
+            "^IXIC",
+            "^GSPC",
+            "BA",
+            "CRM",
+            "XLB",
+            "AMZN",
+            "CL=F",
+            "^TNX"
         ]
     },
-    "fbb3e414-278e-3593-902b-d3976b2fe7b6": {
-        "uuid": "fbb3e414-278e-3593-902b-d3976b2fe7b6",
-        "title": "Microsoft Stock Today: How The RSI Momentum Tool Helped Confirm Its Top",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/fbb3e414-278e-3593-902b-d3976b2fe7b6/microsoft-stock-today%3A-how.html",
-        "providerPublishTime": 1656072029,
+    "17045237-ce14-4530-851f-045b53e1bb1a": {
+        "uuid": "17045237-ce14-4530-851f-045b53e1bb1a",
+        "title": "How tech giants will help workers obtain 'critical health care' post-Roe",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/roe-v-wade-overturned-heres-what-tech-giants-are-saying-194839036.html",
+        "providerPublishTime": 1656100119,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Y1v56DO5sP5BcCgKZQkg6w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/792sbdMWhXjIQsR.0tEERQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e8d83b39600b78314760e8d409dc8095",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DwssfNwl7cKIowJaNfIckw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/518f72f0-f3f7-11ec-b5ff-deb3d6d345d2",
+                    "width": 3000,
+                    "height": 2000,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aLGlt4fNJPqRlbEn3otzlw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/792sbdMWhXjIQsR.0tEERQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e8d83b39600b78314760e8d409dc8095",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TfZn3ReEL9KsM_yr8ShE5A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/518f72f0-f3f7-11ec-b5ff-deb3d6d345d2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -190,53 +138,30 @@
             ]
         },
         "relatedTickers": [
+            "AMZN",
             "MSFT",
-            "FDX"
+            "LYFT",
+            "AAPL",
+            "TSLA"
         ]
     },
-    "c47794f9-b280-3e0c-ae83-235a0c12a771": {
-        "uuid": "c47794f9-b280-3e0c-ae83-235a0c12a771",
-        "title": "Got $2,500? 2 Top Stocks That You Can Buy and Hold for a Lifetime",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c47794f9-b280-3e0c-ae83-235a0c12a771/got-%242%2C500%3F-2-top-stocks-that.html",
-        "providerPublishTime": 1656070500,
-        "type": "STORY",
-        "relatedTickers": [
-            "JNJ",
-            "MSFT"
-        ]
-    },
-    "c34b2b8f-889b-36c6-adc0-5e610dc28150": {
-        "uuid": "c34b2b8f-889b-36c6-adc0-5e610dc28150",
-        "title": "FedEx, Netflix, Microsoft Rise Premarket; Smith & Wesson Falls",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/news/fedex-netflix-microsoft-rise-premarket-072631173.html",
-        "providerPublishTime": 1656055591,
-        "type": "STORY",
-        "relatedTickers": [
-            "FDX",
-            "NFLX",
-            "SWBI",
-            "MSFT"
-        ]
-    },
-    "f9775a79-c5ba-3549-a812-10be9f3f6302": {
-        "uuid": "f9775a79-c5ba-3549-a812-10be9f3f6302",
-        "title": "Stocks cling to gains into the close, ARKK components surge, travel stocks in the red",
+    "f8303219-6485-379b-97c4-1ac8e3e174ed": {
+        "uuid": "f8303219-6485-379b-97c4-1ac8e3e174ed",
+        "title": "Markets see third-best week of 2022, software stocks among biggest gainers",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-cling-gains-close-arkk-191414124.html",
-        "providerPublishTime": 1656011654,
+        "link": "https://finance.yahoo.com/video/markets-see-third-best-week-193146175.html",
+        "providerPublishTime": 1656099106,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wenQ7bw6zIvYUw..eb2Nhg--~B/aD0xMzM5O3c9MjM4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/a774bdd0-f328-11ec-af3b-decde91d086c",
-                    "width": 2385,
-                    "height": 1339,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fJFpAKIt_CdzrU1EARxiNw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/f2bbd000-f3f3-11ec-af1b-39bc7cb92d19",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bZP2dSM5b9LKvl9pZMvyLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/a774bdd0-f328-11ec-af3b-decde91d086c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_0F1wMzdH..9zsfLYP_JLw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/f2bbd000-f3f3-11ec-af1b-39bc7cb92d19",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -244,21 +169,107 @@
             ]
         },
         "relatedTickers": [
-            "^GSPC",
-            "0P0001CRXW.F",
-            "^IXIC",
-            "^DJI",
-            "^TNX",
-            "MSFT",
-            "ZM",
-            "^TYX",
-            "BKNG",
-            "NNGPF",
-            "PATH",
-            "CRSP",
-            "UAL",
+            "IPO",
             "ARKK",
-            "TSLA"
+            "XLK",
+            "FDN",
+            "^DJI",
+            "IBM",
+            "ATVI",
+            "MSFT",
+            "^IXIC",
+            "IBB",
+            "ADBE",
+            "ORCL",
+            "CSCO",
+            "IGV",
+            "XLV",
+            "XLRE",
+            "XLY",
+            "^GSPC",
+            "CRM"
+        ]
+    },
+    "6edbea37-90bd-32ef-914e-852026c1d560": {
+        "uuid": "6edbea37-90bd-32ef-914e-852026c1d560",
+        "title": "Abortion: How corporate America is responding to the Supreme Court ruling",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/abortion-corporate-america-responding-supreme-192700946.html",
+        "providerPublishTime": 1656098820,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NP08cGt9pRmENkHUkBALNA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/9cb78c80-f3f3-11ec-beef-fb80fec053a0",
+                    "width": 2654,
+                    "height": 1490,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rr3htYnKlV7RZ69TQIuukQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/9cb78c80-f3f3-11ec-beef-fb80fec053a0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CRM",
+            "C",
+            "CMCSA",
+            "MSFT",
+            "MTCH",
+            "DKS",
+            "AMZN",
+            "SBUX",
+            "TSLA",
+            "META",
+            "WBD",
+            "YELP",
+            "LEVI",
+            "AAPL",
+            "MA",
+            "BMBL",
+            "DIS",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "XLV",
+            "BKTPF",
+            "NFLX"
+        ]
+    },
+    "f9769bdb-44fa-4b91-a0fe-a96c32b54cb7": {
+        "uuid": "f9769bdb-44fa-4b91-a0fe-a96c32b54cb7",
+        "title": "Supreme Court overturns Roe v. Wade: How some of America's biggest companies are responding",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/corporate-america-responding-roe-v-wade-being-overturned-162515288.html",
+        "providerPublishTime": 1656095910,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/X.MjczUHuZGSIvbbniuzqg--~B/aD00ODQwO3c9NzI2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/815d66c0-f309-11ec-afbf-7a52782e8414",
+                    "width": 7260,
+                    "height": 4840,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yJMoALr.eQnBKSK7zcqNug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/815d66c0-f309-11ec-afbf-7a52782e8414",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BKTPF",
+            "JPM",
+            "AMZN",
+            "MA",
+            "DIS",
+            "MSFT",
+            "NFLX"
         ]
     }
 }

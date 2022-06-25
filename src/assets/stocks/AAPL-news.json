@@ -1,10 +1,151 @@
 {
+    "6ea38e79-54e3-351e-a0df-cce49ca7d867": {
+        "uuid": "6ea38e79-54e3-351e-a0df-cce49ca7d867",
+        "title": "Here's how Silicon Valley's companies are responding to the Supreme Court decision on Roe",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/6ea38e79-54e3-351e-a0df-cce49ca7d867/here%27s-how-silicon-valley%27s.html",
+        "providerPublishTime": 1656109452,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hlIotOVUSt_uP5C_OpM1Mg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dT1BawZS9lsBfkrpMkHICA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3c29713ce99f6c6a6807361894f00ec9",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/isesEgnBNkm9RnQleno.IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dT1BawZS9lsBfkrpMkHICA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3c29713ce99f6c6a6807361894f00ec9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "GOOG",
+            "GOOGL",
+            "LYFT",
+            "YELP",
+            "LEVI",
+            "META",
+            "AAPL"
+        ]
+    },
+    "1241d559-7bdd-3a10-bde7-10cf31394827": {
+        "uuid": "1241d559-7bdd-3a10-bde7-10cf31394827",
+        "title": "Why Apple and Alphabet Stocks Popped on Friday",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/1241d559-7bdd-3a10-bde7-10cf31394827/why-apple-and-alphabet-stocks.html",
+        "providerPublishTime": 1656108394,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL",
+            "GOOGL"
+        ]
+    },
+    "3cbb338e-7238-3c14-815f-abd06853bbac": {
+        "uuid": "3cbb338e-7238-3c14-815f-abd06853bbac",
+        "title": "NFL Courts Apple, Amazon to Give New Life to \u2018Sunday Ticket\u2019 Football",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/3cbb338e-7238-3c14-815f-abd06853bbac/nfl-courts-apple%2C-amazon-to.html",
+        "providerPublishTime": 1656105720,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ArFAtOsZBEN0k5RiK49RjA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pHFw7ZsnQYvdwbnJuvfzFw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/bab2c8de9f4f81622f08d49c421498d5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nuSeeqTY4rsTu6dA8IBwcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pHFw7ZsnQYvdwbnJuvfzFw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/bab2c8de9f4f81622f08d49c421498d5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "AAPL"
+        ]
+    },
+    "634c3ed0-f271-3884-96f9-572ad21cb3a2": {
+        "uuid": "634c3ed0-f271-3884-96f9-572ad21cb3a2",
+        "title": "Apple ready to bargain with its first U.S. store to unionize: source",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/apple-not-challenge-maryland-store-204152959.html",
+        "providerPublishTime": 1656103312,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9IzT7TlxvE0noUtazT_UfQ--~B/aD01NDI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/d9JkUd9MSIFErKiP7JohYg--~B/aD01NDI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/36e469b3e4f0c1afbe54b0291d0cc73a",
+                    "width": 800,
+                    "height": 542,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OOL1kuc7F4IXweOUm7PoUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d9JkUd9MSIFErKiP7JohYg--~B/aD01NDI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/36e469b3e4f0c1afbe54b0291d0cc73a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL"
+        ]
+    },
+    "7cbb068a-8e7f-3ebe-b4ad-54d4a8515545": {
+        "uuid": "7cbb068a-8e7f-3ebe-b4ad-54d4a8515545",
+        "title": "UPDATE 2-Apple ready to bargain with its first U.S. store to unionize: source",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-apple-not-challenge-maryland-203850620.html",
+        "providerPublishTime": 1656103130,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL"
+        ]
+    },
+    "8621ce6d-3e0d-47b3-b3af-9d12e99bd48b": {
+        "uuid": "8621ce6d-3e0d-47b3-b3af-9d12e99bd48b",
+        "title": "Supreme Court\u2019s abortion ruling has a \u2018huge impact on businesses': Expert",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/supreme-courts-abortion-ruling-impact-on-businesses-203243374.html",
+        "providerPublishTime": 1656102820,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EiowUsLfQRyM9t6TR3kNbw--~B/aD0xODU1O3c9Mjc4MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/04f7a910-dc1b-11ec-afbd-946ad0a06818",
+                    "width": 2782,
+                    "height": 1855,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jouZKwPUu8ULn7kkNmCflw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/04f7a910-dc1b-11ec-afbd-946ad0a06818",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "AAPL",
+            "AMZN"
+        ]
+    },
     "adad8418-a68a-3595-a416-0e493566d52c": {
         "uuid": "adad8418-a68a-3595-a416-0e493566d52c",
         "title": "Lawmakers Want FTC to Investigate Apple, Google Over Mobile Tracking",
         "publisher": "The Wall Street Journal",
         "link": "https://finance.yahoo.com/m/adad8418-a68a-3595-a416-0e493566d52c/lawmakers-want-ftc-to.html",
-        "providerPublishTime": 1656083040,
+        "providerPublishTime": 1656102360,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -25,84 +166,15 @@
         "relatedTickers": [
             "GOOG",
             "GOOGL",
-            "AAPL",
-            "RMPL-P"
-        ]
-    },
-    "84d6a517-54d2-34d5-b934-d5188f17e2ef": {
-        "uuid": "84d6a517-54d2-34d5-b934-d5188f17e2ef",
-        "title": "Missouri becomes 1st state to end abortion access after Supreme Court ruling",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/missouri-becomes-1st-state-end-150138126.html",
-        "providerPublishTime": 1656082898,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ieuIdoAelLc9g2pERVr.rQ--~B/aD0zODg7dz02ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
-                    "width": 689,
-                    "height": 388,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K7KH3W6QW41JxhJEj5EUgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX",
-            "AMZN",
-            "MTCH",
-            "AAPL",
-            "RMPL-P",
-            "MSFT",
-            "LEVI",
-            "BMBL",
-            "C"
-        ]
-    },
-    "5cf8c761-242e-3f86-bb21-8d20b7b90af9": {
-        "uuid": "5cf8c761-242e-3f86-bb21-8d20b7b90af9",
-        "title": "What\u2019s Wrong, Warren? Berkshire Hathaway Stock Has Been Hit Hard in June.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/5cf8c761-242e-3f86-bb21-8d20b7b90af9/what%E2%80%99s-wrong%2C-warren%3F.html",
-        "providerPublishTime": 1656082200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_bNBykq.rkTQzzbU.OZWjw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Qj2SIkUzHfPPgGIIuJWckA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bef51b511a1d25cf90106226ef558011",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YAr_GaNljDRemxP_hEEgyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Qj2SIkUzHfPPgGIIuJWckA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bef51b511a1d25cf90106226ef558011",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BRK-A",
-            "BRK-B",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "AAPL",
-            "RMPL-P"
+            "AAPL"
         ]
     },
     "501346b0-c5e3-42b0-9972-3c0db3b42ea3": {
         "uuid": "501346b0-c5e3-42b0-9972-3c0db3b42ea3",
-        "title": "Stock market news live updates: Stocks rise as indexes head for weekly gains",
+        "title": "Stocks jump to close out second best week of 2022: S&P 500 gains 3.1%, Dow adds 800+ points",
         "publisher": "Yahoo Finance",
         "link": "https://finance.yahoo.com/news/stock-market-news-lives-updates-june-24-2022-113334665.html",
-        "providerPublishTime": 1656081836,
+        "providerPublishTime": 1656101447,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -122,145 +194,11 @@
         },
         "relatedTickers": [
             "AAPL",
-            "RMPL-P",
-            "^GSPC",
-            "0P0001CRXW.F",
-            "SPY",
+            "^IXIC",
             "QQQ",
+            "SPY",
             "^DJI",
-            "^IXIC"
-        ]
-    },
-    "6ce0da11-a684-3498-9945-b21c5f5a7d34": {
-        "uuid": "6ce0da11-a684-3498-9945-b21c5f5a7d34",
-        "title": "S&P 500 on track to snap 3-week losing streak, bitcoin price pops",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/p-500-track-snap-3-143002167.html",
-        "providerPublishTime": 1656081002,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OsY_MdQViHfUO0YlzNr5NQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/duqya71e8pjHlM5glUDnVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/dd06a8e0-f3c9-11ec-bff2-68b881b2c354",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "BTC-USD",
-            "AMZN",
-            "XLY",
-            "AAPL",
-            "RMPL-P",
-            "^GSPC",
-            "0P0001CRXW.F",
-            "^TNX",
-            "CL=F",
-            "RF-PC",
-            "TSLA",
-            "GOOG",
-            "GOOGL",
-            "PKREF",
-            "XLC",
-            "FKINX",
-            "NVDA",
-            "META",
-            "XLK",
-            "^IXIC"
-        ]
-    },
-    "e1a9b6d9-1548-32a0-a808-f3fed74b6aef": {
-        "uuid": "e1a9b6d9-1548-32a0-a808-f3fed74b6aef",
-        "title": "Is it Still Wise to Invest in Apple Inc. (AAPL)?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/still-wise-invest-apple-inc-140427442.html",
-        "providerPublishTime": 1656079467,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mzTdbX.BUL8gVO9Opfwu5g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/upK3xq9ys9V.giIaUvFOow--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/028e3a6767f8a3fa1de90f373ab6c0c2",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4ZVbZQiVYBqMF1CEooiQBA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/upK3xq9ys9V.giIaUvFOow--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/028e3a6767f8a3fa1de90f373ab6c0c2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
             "^GSPC"
-        ]
-    },
-    "30ecd826-d7e9-33fb-91b7-9ee538c00cdf": {
-        "uuid": "30ecd826-d7e9-33fb-91b7-9ee538c00cdf",
-        "title": "Better Buy: Amazon or All 19,941 Cryptocurrencies?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/30ecd826-d7e9-33fb-91b7-9ee538c00cdf/better-buy%3A-amazon-or-all.html",
-        "providerPublishTime": 1656072600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YI3bTaacEt2g5Ib83v2IAA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d6bqxGlej6eW27UGIrj8VA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc8e69f7f57d8c41ab762506ce9f9e88",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5DEdQgOwDZmAojFB3oDTrw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d6bqxGlej6eW27UGIrj8VA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc8e69f7f57d8c41ab762506ce9f9e88",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN",
-            "AAPL"
-        ]
-    },
-    "0a12e1b3-ed09-36ee-b619-fd42314351b5": {
-        "uuid": "0a12e1b3-ed09-36ee-b619-fd42314351b5",
-        "title": "Europe Steps Up Big Tech Crackdown With Digital Markets Act",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/0a12e1b3-ed09-36ee-b619-fd42314351b5/europe-steps-up-big-tech.html",
-        "providerPublishTime": 1656072044,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/goo1lb72BLgSEOG4LSo5ow--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fDpU5XWeYLdrhrzl9PIdtA--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6afae1ab447105680b0eaf731106a146",
-                    "width": 1000,
-                    "height": 562,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iMVftsHYxwiVYT_4ON0sdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fDpU5XWeYLdrhrzl9PIdtA--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6afae1ab447105680b0eaf731106a146",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "GOOGL",
-            "AAPL"
         ]
     }
 }

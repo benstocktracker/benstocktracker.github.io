@@ -1,4 +1,53 @@
 {
+    "6edbea37-90bd-32ef-914e-852026c1d560": {
+        "uuid": "6edbea37-90bd-32ef-914e-852026c1d560",
+        "title": "Abortion: How corporate America is responding to the Supreme Court ruling",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/abortion-corporate-america-responding-supreme-192700946.html",
+        "providerPublishTime": 1656098820,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NP08cGt9pRmENkHUkBALNA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/9cb78c80-f3f3-11ec-beef-fb80fec053a0",
+                    "width": 2654,
+                    "height": 1490,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rr3htYnKlV7RZ69TQIuukQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/9cb78c80-f3f3-11ec-beef-fb80fec053a0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CRM",
+            "C",
+            "CMCSA",
+            "MSFT",
+            "MTCH",
+            "DKS",
+            "AMZN",
+            "SBUX",
+            "TSLA",
+            "META",
+            "WBD",
+            "YELP",
+            "LEVI",
+            "AAPL",
+            "MA",
+            "BMBL",
+            "DIS",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "XLV",
+            "BKTPF",
+            "NFLX"
+        ]
+    },
     "29fc7387-90c3-3e6d-9fc3-71ef418e3e03": {
         "uuid": "29fc7387-90c3-3e6d-9fc3-71ef418e3e03",
         "title": "Kraft Macaroni and Cheese rebrands with new name, Burger King offers free onion rings for Onion Ring Day",
@@ -223,33 +272,6 @@
             "PARAP",
             "NFLX",
             "AAPL"
-        ]
-    },
-    "25212cfa-b574-3139-8cb4-dcfaecb31daa": {
-        "uuid": "25212cfa-b574-3139-8cb4-dcfaecb31daa",
-        "title": "Did Warner Bros. Discovery, Inc. (NASDAQ:WBD) Use Debt To Deliver Its ROE Of 11%?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/did-warner-bros-discovery-inc-132153799.html",
-        "providerPublishTime": 1655299313,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/byt3nSesNDc44hkhnQEGIg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WpuHC90VC2N6rzSphG2Bug--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/abe6319362eec70b59e31eb3eb696286",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/62QD.H3JxZjRQL.ODUiZ9Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WpuHC90VC2N6rzSphG2Bug--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/abe6319362eec70b59e31eb3eb696286",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBD"
         ]
     }
 }

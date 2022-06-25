@@ -4,7 +4,7 @@
         "title": "5 Best Chinese Stocks: EV Maker Breaks Out, Tesla Rival On Cusp",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-ev.html",
-        "providerPublishTime": 1656019434,
+        "providerPublishTime": 1656106434,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -30,6 +30,67 @@
             "^HSI",
             "BABA",
             "JD"
+        ]
+    },
+    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
+        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
+        "title": "Tesla Stock Vs. BYD Stock: TSLA Rebounds With EV Rival Just Below Buy Point",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
+        "providerPublishTime": 1656106284,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dIgsof0jlPJ6zpcB1ck0ZA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mhzlLjP54BQQBuAIlh7BTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8d97ad48f63682c471bf01be97dc0fc2",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hhaXScgiDJ9cdxp1ka_4IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mhzlLjP54BQQBuAIlh7BTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8d97ad48f63682c471bf01be97dc0fc2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "BYDDY",
+            "F",
+            "XPEV",
+            "LI",
+            "RIVN"
+        ]
+    },
+    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
+        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
+        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
+        "providerPublishTime": 1656102839,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BYDDY",
+            "TSLA",
+            "XPEV"
         ]
     },
     "ba9289a8-206e-3567-873f-ae30b1798433": {
@@ -84,19 +145,18 @@
             ]
         },
         "relatedTickers": [
-            "XPEV",
-            "XPNGF",
             "MS",
             "MS-PO",
-            "JD",
-            "JDCMF",
-            "8301.T",
-            "DB",
             "JPM",
-            "ZION",
+            "DB",
             "BABA",
             "BABAF",
-            "LI"
+            "LI",
+            "XPEV",
+            "XPNGF",
+            "JD",
+            "JDCMF",
+            "8301.T"
         ]
     },
     "0d002f38-6bae-3d7f-93f6-422f68476127": {
@@ -188,50 +248,6 @@
             "COMP",
             "LEN-B",
             "FANG"
-        ]
-    },
-    "c66dde01-8b8b-3584-b159-150151737a25": {
-        "uuid": "c66dde01-8b8b-3584-b159-150151737a25",
-        "title": "Musk Says Recession \"More Likely Than Not\" in Near Term; Coy About Trump Support",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/news/musk-says-recession-more-likely-043447350.html",
-        "providerPublishTime": 1655786087,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSLA",
-            "XPEV"
-        ]
-    },
-    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
-        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: TSLA Struggles As Hottest EV Stock Races Toward Buy Point",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1655774964,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dIgsof0jlPJ6zpcB1ck0ZA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mhzlLjP54BQQBuAIlh7BTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8d97ad48f63682c471bf01be97dc0fc2",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hhaXScgiDJ9cdxp1ka_4IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mhzlLjP54BQQBuAIlh7BTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8d97ad48f63682c471bf01be97dc0fc2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "BYDDY",
-            "F",
-            "XPEV",
-            "LI",
-            "RIVN"
         ]
     }
 }

@@ -1,4 +1,81 @@
 {
+    "1ddfdfdb-6b3a-3891-892b-7619016ddd68": {
+        "uuid": "1ddfdfdb-6b3a-3891-892b-7619016ddd68",
+        "title": "Markets close week with gains, tech stocks rally to the upside",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/markets-close-week-gains-tech-200939369.html",
+        "providerPublishTime": 1656101379,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HAQAJQLisZMf_PAHqWHX9Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dKjM1lMiG.oM.5nABUIZzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLC",
+            "OKTA",
+            "META",
+            "VZ",
+            "GS",
+            "AAPL",
+            "UNH",
+            "TSLA",
+            "NVDA",
+            "^DJI",
+            "GOOG",
+            "GOOGL",
+            "PEP",
+            "MSFT",
+            "^IXIC",
+            "^GSPC",
+            "BA",
+            "CRM",
+            "XLB",
+            "AMZN",
+            "CL=F",
+            "^TNX"
+        ]
+    },
+    "af0554ce-6893-32b4-a4a1-c63759134e3e": {
+        "uuid": "af0554ce-6893-32b4-a4a1-c63759134e3e",
+        "title": "When Times Are Tough, These 3 Mega-Caps Should Deliver the Dividends",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/af0554ce-6893-32b4-a4a1-c63759134e3e/when-times-are-tough%2C-these-3.html",
+        "providerPublishTime": 1656090000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6Ybk7.9gCtHqyvWcYrooAA--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nEsK_tK5ESXtS.RZbuIkfg--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/a9732c2607e377ff5dc94a49d7f180a8",
+                    "width": 1152,
+                    "height": 768,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kda23WWxaXuRiwJYx2RhhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nEsK_tK5ESXtS.RZbuIkfg--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/a9732c2607e377ff5dc94a49d7f180a8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "VZ",
+            "AVGO"
+        ]
+    },
     "6c5626e2-a149-374c-8cf9-55412ec32346": {
         "uuid": "6c5626e2-a149-374c-8cf9-55412ec32346",
         "title": "Verizon Frontline to introduce newest first responder advisory council member",
@@ -143,67 +220,6 @@
         "type": "STORY",
         "relatedTickers": [
             "NEE",
-            "VZ"
-        ]
-    },
-    "be31f6d9-204d-33a1-8d16-52c15072d7b7": {
-        "uuid": "be31f6d9-204d-33a1-8d16-52c15072d7b7",
-        "title": "Verizon Supports Our Customers and Communities in North Carolina",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/verizon-supports-customers-communities-north-140507112.html",
-        "providerPublishTime": 1655906707,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/etWwExDXcHdBWQf456SkNg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RDyIwLqv567vfLs1qHTfYg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/3f172ff0bc9deddeda8a89c86fd3f02f",
-                    "width": 650,
-                    "height": 365,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lsJ.INjSVIBE7xIy8JHDlg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RDyIwLqv567vfLs1qHTfYg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/3f172ff0bc9deddeda8a89c86fd3f02f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "bef70e5f-567f-37f9-af0e-8d0af677b024": {
-        "uuid": "bef70e5f-567f-37f9-af0e-8d0af677b024",
-        "title": "10 Best Recession Stocks to Buy According to Wells Fargo",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-recession-stocks-buy-133707992.html",
-        "providerPublishTime": 1655905027,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yO8fOqNgHnFVbVNgd1sNtQ--~B/aD0zMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/A67jvoAyIAbGmLGHIHe.Aw--~B/aD0zMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ad0affc5d3212bfa14a49fa84730e27",
-                    "width": 400,
-                    "height": 300,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/i8KJAvHuVKKjE8DYUA8rXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/A67jvoAyIAbGmLGHIHe.Aw--~B/aD0zMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ad0affc5d3212bfa14a49fa84730e27",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "O",
-            "MPC",
-            "DTE",
-            "CL",
-            "PEP",
-            "IBM",
             "VZ"
         ]
     }

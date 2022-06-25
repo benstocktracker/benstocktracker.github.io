@@ -1,4 +1,33 @@
 {
+    "49e55430-cd83-3404-af13-60ca2e0b21cf": {
+        "uuid": "49e55430-cd83-3404-af13-60ca2e0b21cf",
+        "title": "Life Time, Simon Property Group plan luxury apartment tower at Edina's Southdale Center",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/49e55430-cd83-3404-af13-60ca2e0b21cf/life-time%2C-simon-property.html",
+        "providerPublishTime": 1656089277,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wWCOzLgdkoQ4R9FgxQN04A--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/srvDGQFHgfs0vgQTCVKu6w--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/da3f00ab44c77ab2394f7e42656db539",
+                    "width": 1287,
+                    "height": 858,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ybrEko6g0c06RlwDf7OExg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/srvDGQFHgfs0vgQTCVKu6w--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/da3f00ab44c77ab2394f7e42656db539",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPG",
+            "SPG-PJ",
+            "LTH"
+        ]
+    },
     "5746fdc4-0113-3278-a117-c4351b9c9d13": {
         "uuid": "5746fdc4-0113-3278-a117-c4351b9c9d13",
         "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Finance Names",
@@ -195,17 +224,6 @@
             "PBR-A",
             "AGNCP",
             "NLY-PG",
-            "SPG"
-        ]
-    },
-    "a31ea527-897c-38a4-9b0c-197dfca92b1b": {
-        "uuid": "a31ea527-897c-38a4-9b0c-197dfca92b1b",
-        "title": "1 Reason Not to Give Up on Retail REITs Even if a Recession Hits",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a31ea527-897c-38a4-9b0c-197dfca92b1b/1-reason-not-to-give-up-on.html",
-        "providerPublishTime": 1655293620,
-        "type": "STORY",
-        "relatedTickers": [
             "SPG"
         ]
     }

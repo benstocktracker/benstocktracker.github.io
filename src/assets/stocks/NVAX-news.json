@@ -1,4 +1,60 @@
 {
+    "5b442e45-dd16-39c7-bbc7-887c79ce26f1": {
+        "uuid": "5b442e45-dd16-39c7-bbc7-887c79ce26f1",
+        "title": "Novavax (NVAX) Stock Sinks As Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-sinks-market-215009031.html",
+        "providerPublishTime": 1656107409,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7yAwziJOls4Agwdjd4WwXw--~B/aD00Njc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/64vRzkiY9LXGPrpW4r2GRQ--~B/aD00Njc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b95cfdd8768bc3c4620e666dbcb0b248",
+                    "width": 900,
+                    "height": 467,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/e5DMEuNMd_M9vVOkQUSisA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/64vRzkiY9LXGPrpW4r2GRQ--~B/aD00Njc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b95cfdd8768bc3c4620e666dbcb0b248",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "6385632d-9852-3c41-bddb-fb74bf6ef4fe": {
+        "uuid": "6385632d-9852-3c41-bddb-fb74bf6ef4fe",
+        "title": "Novavax (NVAX) Up as EMA Recommends COVID Jab for Adolescents",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-ema-recommends-covid-133201836.html",
+        "providerPublishTime": 1656077521,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "BNTX",
+            "PFE"
+        ]
+    },
     "9abb21be-ee46-35fb-a0de-9b1212ad7415": {
         "uuid": "9abb21be-ee46-35fb-a0de-9b1212ad7415",
         "title": "Novavax' Nuvaxovid\u2122 COVID-19 Vaccine Receives Emergency Use Authorization in Taiwan for Use in Individuals Aged 18 and Over",
@@ -133,45 +189,6 @@
         "link": "https://finance.yahoo.com/m/5df01148-26ac-3c82-a8a5-e51cc6582962/why-novavax-stock-jumped-today.html",
         "providerPublishTime": 1655914887,
         "type": "STORY",
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "d2622b33-26dc-33c7-aa91-2b0849256b92": {
-        "uuid": "d2622b33-26dc-33c7-aa91-2b0849256b92",
-        "title": "This Warren Buffett Advice Could Save Your Portfolio in a Bear Market",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d2622b33-26dc-33c7-aa91-2b0849256b92/this-warren-buffett-advice.html",
-        "providerPublishTime": 1655912700,
-        "type": "STORY",
-        "relatedTickers": [
-            "MRNA",
-            "NVAX"
-        ]
-    },
-    "7c7600a5-1e38-331d-861e-2781c228bb34": {
-        "uuid": "7c7600a5-1e38-331d-861e-2781c228bb34",
-        "title": "Is Novavax Stock A Buy Or Sell With Its Covid Shot Now In FDA Limbo?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/7c7600a5-1e38-331d-861e-2781c228bb34/is-novavax-stock-a-buy-or.html",
-        "providerPublishTime": 1655910747,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/35fIc1PgU1BD8pqxpwoZFA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6NnYktEv6dC2RmrKixYPGA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/61e5657839440f7b91989c347d24a175",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lMW2XIJb9Y4phkfTKlwv9w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6NnYktEv6dC2RmrKixYPGA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/61e5657839440f7b91989c347d24a175",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "NVAX"
         ]

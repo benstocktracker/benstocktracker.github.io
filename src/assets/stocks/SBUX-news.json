@@ -1,66 +1,285 @@
 {
-    "d33c5249-16c7-3221-b40d-252c5b393801": {
-        "uuid": "d33c5249-16c7-3221-b40d-252c5b393801",
-        "title": "Second Milwaukee-area Starbucks enters unionization process",
+    "6edbea37-90bd-32ef-914e-852026c1d560": {
+        "uuid": "6edbea37-90bd-32ef-914e-852026c1d560",
+        "title": "Abortion: How corporate America is responding to the Supreme Court ruling",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/abortion-corporate-america-responding-supreme-192700946.html",
+        "providerPublishTime": 1656098820,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NP08cGt9pRmENkHUkBALNA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/9cb78c80-f3f3-11ec-beef-fb80fec053a0",
+                    "width": 2654,
+                    "height": 1490,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rr3htYnKlV7RZ69TQIuukQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/9cb78c80-f3f3-11ec-beef-fb80fec053a0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CRM",
+            "C",
+            "CMCSA",
+            "MSFT",
+            "MTCH",
+            "DKS",
+            "AMZN",
+            "SBUX",
+            "TSLA",
+            "META",
+            "WBD",
+            "YELP",
+            "LEVI",
+            "AAPL",
+            "MA",
+            "BMBL",
+            "DIS",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "XLV",
+            "BKTPF",
+            "NFLX"
+        ]
+    },
+    "731e2520-9433-3ba2-9170-9659f151c147": {
+        "uuid": "731e2520-9433-3ba2-9170-9659f151c147",
+        "title": "Austin businesses react to Supreme Court decision to overturn Roe v. Wade",
         "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/d33c5249-16c7-3221-b40d-252c5b393801/second-milwaukee-area.html",
-        "providerPublishTime": 1655244478,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/731e2520-9433-3ba2-9170-9659f151c147/austin-businesses-react-to.html",
+        "providerPublishTime": 1656098668,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eA2DOiPlk2k2082Q5FRaqQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8mY5Wt2aOGI__w1AEBk76g--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/46db03d4b39d4e6133a4cdb87c357055",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z0xQmzY_aKRlsrfnMRTCnA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8mY5Wt2aOGI__w1AEBk76g--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/46db03d4b39d4e6133a4cdb87c357055",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "TSLA",
+            "META"
+        ]
     },
-    "2c7f8eb1-0c1c-3038-9727-1f08f5e710f1": {
-        "uuid": "2c7f8eb1-0c1c-3038-9727-1f08f5e710f1",
-        "title": "Biden\u2019s \u2018Never Been More Optimistic\u2019 Despite Troubled US Economy",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/biden-never-more-optimistic-despite-164016780.html",
-        "providerPublishTime": 1655224816,
-        "type": "STORY"
+    "7665a5d4-7de1-3318-82a8-7addeac7aae0": {
+        "uuid": "7665a5d4-7de1-3318-82a8-7addeac7aae0",
+        "title": "Disney, Amazon, Netflix among companies offering travel benefits to obtain abortions",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/disney-amazon-netflix-among-companies-160456166.html",
+        "providerPublishTime": 1656086696,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0XGWCDdRcVo26V6qGzTpzg--~B/aD0zOTE7dz02OTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/5b21e930-f3d7-11ec-8fbe-651d2c187abf",
+                    "width": 696,
+                    "height": 391,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.16Fomuwnu4N0cJWLSd6Vw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/5b21e930-f3d7-11ec-8fbe-651d2c187abf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BMBL",
+            "BKTPF",
+            "NFLX",
+            "C",
+            "RF-PC",
+            "TSLA",
+            "JPM",
+            "ZION",
+            "PHYRF",
+            "YELP",
+            "SBUX",
+            "AAPL",
+            "RMPL-P",
+            "CRM",
+            "DIS",
+            "PNIXX",
+            "AMZN",
+            "MTCH",
+            "MSFT",
+            "LEVI"
+        ]
     },
-    "2cb57b0e-0803-3926-9e0d-be0603563c48": {
-        "uuid": "2cb57b0e-0803-3926-9e0d-be0603563c48",
-        "title": "Starbucks Threatens Trans Benefits in Anti-Union Push, Staff Say",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/starbucks-threatens-trans-benefits-anti-135439724.html",
-        "providerPublishTime": 1655214879,
-        "type": "STORY"
+    "47109af1-b7eb-3aaf-a989-54714b588413": {
+        "uuid": "47109af1-b7eb-3aaf-a989-54714b588413",
+        "title": "How the Supreme Court Roe v. Wade decision impacts women in the workforce",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/supreme-court-roe-v-wade-152246355.html",
+        "providerPublishTime": 1656084166,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cjUpX9HFdfas2LTZYXY.9A--~B/aD0zOTA7dz02OTQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/7e4a8490-f3d1-11ec-b652-8ae8082f21f8",
+                    "width": 694,
+                    "height": 390,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9oR2hgV8C.PfLPBIZ4xp_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/7e4a8490-f3d1-11ec-b652-8ae8082f21f8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "AAPL",
+            "RMPL-P",
+            "MSFT",
+            "CRM",
+            "PHYRF",
+            "YELP",
+            "LEVI"
+        ]
     },
-    "fe13e06f-b1a8-3811-a918-d6475794e11c": {
-        "uuid": "fe13e06f-b1a8-3811-a918-d6475794e11c",
-        "title": "1 Green Flag and 1 Red Flag for Dutch Bros Stock",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fe13e06f-b1a8-3811-a918-d6475794e11c/1-green-flag-and-1-red-flag.html",
-        "providerPublishTime": 1655213580,
-        "type": "STORY"
+    "ee45d169-984e-3346-9c38-0d80f97eb036": {
+        "uuid": "ee45d169-984e-3346-9c38-0d80f97eb036",
+        "title": "Supreme Court\u2019s abortion ruling has a \u2018huge impact on businesses,\u2019 expert says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/supreme-court-abortion-ruling-huge-151930830.html",
+        "providerPublishTime": 1656083970,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qU28T.s8en_Jp1qtSXZXfw--~B/aD0xNTc1O3c9MjgwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/87a7e570-f3cf-11ec-9fff-f57f1de075be",
+                    "width": 2804,
+                    "height": 1575,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7L6ps.ID_stYQl5d.OaTHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/87a7e570-f3cf-11ec-9fff-f57f1de075be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "C",
+            "LEVI",
+            "AAPL",
+            "RMPL-P",
+            "SBUX",
+            "MSFT",
+            "MTCH",
+            "AMZN",
+            "BMBL",
+            "CRM"
+        ]
     },
-    "897fdab4-b754-3127-b8e0-386dc519b018": {
-        "uuid": "897fdab4-b754-3127-b8e0-386dc519b018",
-        "title": "Howard Schultz wants Starbucks workers back in the office",
+    "84d6a517-54d2-34d5-b934-d5188f17e2ef": {
+        "uuid": "84d6a517-54d2-34d5-b934-d5188f17e2ef",
+        "title": "Missouri becomes 1st state to end abortion access after Supreme Court ruling",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/missouri-becomes-1st-state-end-150138126.html",
+        "providerPublishTime": 1656082898,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ieuIdoAelLc9g2pERVr.rQ--~B/aD0zODg7dz02ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "width": 689,
+                    "height": 388,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K7KH3W6QW41JxhJEj5EUgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/89e26190-f3ce-11ec-bfff-cbda2df4a4c1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "AMZN",
+            "MTCH",
+            "AAPL",
+            "RMPL-P",
+            "MSFT",
+            "LEVI",
+            "BMBL",
+            "C"
+        ]
+    },
+    "fdbb03a2-fb95-3d7f-bbcf-ac7cdf2a3ba0": {
+        "uuid": "fdbb03a2-fb95-3d7f-bbcf-ac7cdf2a3ba0",
+        "title": "New state law may open door for rush of new Apopka eateries",
         "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/897fdab4-b754-3127-b8e0-386dc519b018/howard-schultz-wants.html",
-        "providerPublishTime": 1655156466,
-        "type": "STORY"
+        "link": "https://finance.yahoo.com/m/fdbb03a2-fb95-3d7f-bbcf-ac7cdf2a3ba0/new-state-law-may-open-door.html",
+        "providerPublishTime": 1656073800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VC1_S_Mg_TFfW9dSJ3N_7Q--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3hmZvCFnRpv9zCwxPWbYQw--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/f7162e00a5bcecdd5fbca5142e682cea",
+                    "width": 1440,
+                    "height": 959,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g_Tw4xDr0Vqs8OEr57tjGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3hmZvCFnRpv9zCwxPWbYQw--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/f7162e00a5bcecdd5fbca5142e682cea",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
     },
-    "e61f3b3b-60f8-3810-95f5-95dfadff9390": {
-        "uuid": "e61f3b3b-60f8-3810-95f5-95dfadff9390",
-        "title": "Starbucks to Host 2022 Investor Day",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/starbucks-host-2022-investor-day-203000566.html",
-        "providerPublishTime": 1655152200,
-        "type": "STORY"
-    },
-    "26bb70cc-d46b-3241-bc74-25dfc600f45b": {
-        "uuid": "26bb70cc-d46b-3241-bc74-25dfc600f45b",
-        "title": "Is Starbucks Corporation (NASDAQ:SBUX) Popular Amongst Institutions?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/starbucks-corporation-nasdaq-sbux-popular-174346470.html",
-        "providerPublishTime": 1655142226,
-        "type": "STORY"
-    },
-    "8b273069-2b71-3022-b9c8-3f64690dafed": {
-        "uuid": "8b273069-2b71-3022-b9c8-3f64690dafed",
-        "title": "Enterprise Products Partners and Target have been highlighted as Zacks Bull and Bear of the Day",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enterprise-products-partners-target-highlighted-122812305.html",
-        "providerPublishTime": 1655123292,
-        "type": "STORY"
+    "f92db3d8-d417-34d0-a369-0e7b61c9e8f4": {
+        "uuid": "f92db3d8-d417-34d0-a369-0e7b61c9e8f4",
+        "title": "Buy Starbucks Stock. The Coffee Giant\u2019s Worst Problems Are Behind It.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/f92db3d8-d417-34d0-a369-0e7b61c9e8f4/buy-starbucks-stock.-the.html",
+        "providerPublishTime": 1656072840,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9cJi47kDEatctUlwphF8fw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qNPnxvbvg2Z6iT2YH6817A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dab892091865fbd6b34f252cb95887c0",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fDKxoYMgCyGm2qagOhcmBQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qNPnxvbvg2Z6iT2YH6817A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dab892091865fbd6b34f252cb95887c0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
     }
 }

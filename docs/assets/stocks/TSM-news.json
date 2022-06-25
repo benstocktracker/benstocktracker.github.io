@@ -1,4 +1,32 @@
 {
+    "855ba424-285b-36ef-8fd3-2c5f5734ce76": {
+        "uuid": "855ba424-285b-36ef-8fd3-2c5f5734ce76",
+        "title": "Intel and TSMC's US Plant Ambitions Remain Undecided As US Chip Act Gets Delayed",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/intel-tsmcs-us-plant-ambitions-185201024.html",
+        "providerPublishTime": 1656096721,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2Wu8JDXpIVoFddEECFxfag--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UxoI74OtrsHjo1N.77JmXA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/5895b6eb24749334057e05dcfa4d1704",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bteEi62aVmkZMTXDALl1Kw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UxoI74OtrsHjo1N.77JmXA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/5895b6eb24749334057e05dcfa4d1704",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "INTC",
+            "TSM"
+        ]
+    },
     "57738992-01da-39c2-8983-2c66c8da588c": {
         "uuid": "57738992-01da-39c2-8983-2c66c8da588c",
         "title": "TSMC (TSM) Stock Sinks As Market Gains: What You Should Know",
@@ -119,19 +147,17 @@
             ]
         },
         "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "PKREF",
-            "AAPL",
-            "RMPL-P",
-            "SSNLF",
-            "TSM",
             "ASML",
             "ASMLF",
-            "HHUSF",
             "0981.HK",
+            "GOOG",
+            "GOOGL",
             "688256.SS",
-            "002415.SZ"
+            "002415.SZ",
+            "AAPL",
+            "TSM",
+            "HHUSF",
+            "SSNLF"
         ]
     },
     "5d5fa651-8957-39e3-9c05-97473888b238": {
@@ -164,39 +190,6 @@
             "PKREF",
             "TSM",
             "SSNLF"
-        ]
-    },
-    "59749f0c-faf7-3999-a38c-3613e36972e1": {
-        "uuid": "59749f0c-faf7-3999-a38c-3613e36972e1",
-        "title": "10 Best Falling Stocks to Buy Right Now",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-falling-stocks-buy-222955714.html",
-        "providerPublishTime": 1655677795,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/70hqB8foZpvpJ0wuBxzHUg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/4D26rV3_qT.qeyIVVts0lA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/371f5be91eb9db12bee001f07135a8bf",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E3FxbbcLlOZOVp4Y5ywbLQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4D26rV3_qT.qeyIVVts0lA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/371f5be91eb9db12bee001f07135a8bf",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LNG",
-            "T-PC",
-            "ASML",
-            "NVDA",
-            "QCOM",
-            "BRK-B",
-            "TSM"
         ]
     }
 }
