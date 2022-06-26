@@ -1,5 +1,4 @@
-import { AfterViewInit, Component, ElementRef, Input, OnInit, ViewChild } from '@angular/core';
-import { TradingviewService } from '../../services/tradingview.service';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-stock-stats-panel',

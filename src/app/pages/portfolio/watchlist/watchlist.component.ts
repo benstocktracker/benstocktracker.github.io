@@ -85,7 +85,6 @@ export class WatchlistComponent implements OnInit, AfterViewInit {
   ngOnInit() {
     this.http.get('../../../../assets/watchlist-rows.json').subscribe((data: any) => {
       this.dataSource.data = Object.values(data);
-      console.table(Object.values(data));
     });
   }
 
