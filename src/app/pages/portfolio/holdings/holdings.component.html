@@ -1,4 +1,4 @@
-<mat-slide-toggle color="primary" checked="false" class="widget-toggle" labelPosition="before" (change)="handleToggle($event)">Show mini charts</mat-slide-toggle>
+<mat-slide-toggle color="primary" checked="true" class="widget-toggle" labelPosition="before" (change)="handleToggle($event)">Show mini charts</mat-slide-toggle>
 <div class="widget-container">
     <div *ngIf="showMiniChartWidget; else showSingleQuoteWidget" class="widget-container">
         <app-mini-chart-widget *ngFor="let ticker of holdings" symbol="{{ ticker }}" class="mini-chart-widget"></app-mini-chart-widget>

@@ -1,4 +1,102 @@
 {
+    "64591ff8-1cea-3e81-8f8c-28f9df1f69b0": {
+        "uuid": "64591ff8-1cea-3e81-8f8c-28f9df1f69b0",
+        "title": "4 Stocks Warren Buffett Has Owned for at Least 21 Years",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/64591ff8-1cea-3e81-8f8c-28f9df1f69b0/4-stocks-warren-buffett-has.html",
+        "providerPublishTime": 1656320760,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NIINJmMOaGkryIi5M9yKiQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L645mcDZXjXK2e31MntbFQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eb81cb2673c063c1fa11fc0416478b5a",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MnWUaxLB7PwzrKPwtT.h9g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L645mcDZXjXK2e31MntbFQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eb81cb2673c063c1fa11fc0416478b5a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO",
+            "AXP",
+            "GL",
+            "BRK-B"
+        ]
+    },
+    "93ddd2d6-8214-423e-872e-2aa198c67829": {
+        "uuid": "93ddd2d6-8214-423e-872e-2aa198c67829",
+        "title": "What happens to the 116-year-old Kellogg name when the company breaks up?",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/kellogg-company-name-break-up-132331660.html",
+        "providerPublishTime": 1656249811,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FqnbQcBUczErFzHygZvNFw--~B/aD00OTMxO3c9NzM5NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-04/6e9cf8d0-b9ab-11ec-ba7d-1b0f88614c10",
+                    "width": 7397,
+                    "height": 4931,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qeJN9kZJ2NOxWh3KZXY8jA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-04/6e9cf8d0-b9ab-11ec-ba7d-1b0f88614c10",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PEP",
+            "HRL",
+            "KO",
+            "CPB",
+            "ACI",
+            "KR",
+            "GIS",
+            "K"
+        ]
+    },
+    "480681a3-383a-3e64-accf-7026e7c28167": {
+        "uuid": "480681a3-383a-3e64-accf-7026e7c28167",
+        "title": "How to invest and manage risk amid rising economic uncertainty and elevated market volatility",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/invest-manage-risk-amid-rising-110008598.html",
+        "providerPublishTime": 1656154808,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/a9HQKAwrBIjnxF_Zq7_9pQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/hd/cp-video-transcode/production/480681a3-383a-3e64-accf-7026e7c28167/2022-06-22/20-30-58/f1efff19-743f-587f-a52b-fc053889ba93/stream_1920x1080x0_v2_3_0.jpg",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jjQBjbmbvwZuR8CLEr2gOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/480681a3-383a-3e64-accf-7026e7c28167/2022-06-22/20-30-58/f1efff19-743f-587f-a52b-fc053889ba93/stream_1920x1080x0_v2_3_0.jpg",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO",
+            "TWE=F",
+            "ZN=F",
+            "^TYX",
+            "0P00019KA3.T",
+            "0P0001AGQO.L",
+            "0P0001AGQQ.L",
+            "HOOD"
+        ]
+    },
     "55db07e1-0f02-309b-9f83-807961cb1b0d": {
         "uuid": "55db07e1-0f02-309b-9f83-807961cb1b0d",
         "title": "Kellogg Is Splitting Into 3 Companies. The Move Isn\u2019t as Flaky as It Looks.",
@@ -122,23 +220,23 @@
             "LPX"
         ]
     },
-    "0cbb6af5-13b9-38da-8817-804cc1b62d55": {
-        "uuid": "0cbb6af5-13b9-38da-8817-804cc1b62d55",
-        "title": "These 9 Warren Buffett Stocks Are Higher During the Nasdaq Bear Market",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0cbb6af5-13b9-38da-8817-804cc1b62d55/these-9-warren-buffett-stocks.html",
-        "providerPublishTime": 1656061560,
+    "592d43fc-d6a1-32ed-a11e-1228c8b2cc80": {
+        "uuid": "592d43fc-d6a1-32ed-a11e-1228c8b2cc80",
+        "title": "7 Large-Cap Stocks to Buy After the Next Big Correction",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-large-cap-stocks-buy-104613831.html",
+        "providerPublishTime": 1656067573,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NC8z_Lcyzh3n8haxZegjMQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oFZGMWy17L3zRPi4tWMHeg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6cb42c7a07227c0282c8739eb1a5155b",
-                    "width": 1400,
-                    "height": 933,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UHSux2GRF.LFxIdqC02l3Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1oRD4qbnVbbNPfEEuvlk5A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/478ba6744f7feca73db2d0238bde6c66",
+                    "width": 728,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iwJNvkE.ZsZvMU04rXyMfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oFZGMWy17L3zRPi4tWMHeg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6cb42c7a07227c0282c8739eb1a5155b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6wpa53QclWhdbyk5qUKTbA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1oRD4qbnVbbNPfEEuvlk5A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/478ba6744f7feca73db2d0238bde6c66",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -146,80 +244,11 @@
             ]
         },
         "relatedTickers": [
-            "COMP",
-            "MKL",
-            "OXY",
-            "KO",
-            "TMUS",
-            "BRK-B",
+            "TSLA",
             "CVX",
-            "ATVI"
-        ]
-    },
-    "309979d3-7d27-3204-94a4-1616fbbc226a": {
-        "uuid": "309979d3-7d27-3204-94a4-1616fbbc226a",
-        "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now for Lasting Wealth",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/309979d3-7d27-3204-94a4-1616fbbc226a/3-no-brainer-warren-buffett.html",
-        "providerPublishTime": 1655981820,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Qrr.JBKG25Qq5JGZK0o63g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bApGKyI54mOiJ1rOzA_m5g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/83414d89d204d2fc20f0267fb0623375",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cK9att2Ly5UWqAZtO9jllA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bApGKyI54mOiJ1rOzA_m5g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/83414d89d204d2fc20f0267fb0623375",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "KO",
-            "AXP"
-        ]
-    },
-    "10b4e80b-9e0a-31ce-afb9-807f49e2e80c": {
-        "uuid": "10b4e80b-9e0a-31ce-afb9-807f49e2e80c",
-        "title": "Mars Makes More Revenue Than Coca-Cola",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/10b4e80b-9e0a-31ce-afb9-807f49e2e80c/mars-makes-more-revenue-than.html",
-        "providerPublishTime": 1655931644,
-        "type": "STORY",
-        "relatedTickers": [
-            "KO"
-        ]
-    },
-    "6f857894-d393-3ce0-8e91-8cf695eea8fa": {
-        "uuid": "6f857894-d393-3ce0-8e91-8cf695eea8fa",
-        "title": "Mars has secretly become bigger than Coca-Cola, and the reason might not have much to do with candy bars",
-        "publisher": "Fortune",
-        "link": "https://finance.yahoo.com/news/mars-secretly-become-bigger-coca-185610283.html",
-        "providerPublishTime": 1655924170,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r4MasR7D6UrLPOYfCUdWqQ--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/oVY7Nz6jqVdrZIANRfeP6A--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/104dac7cf816eadf67d5433c8de4ad58",
-                    "width": 2880,
-                    "height": 1920,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ay6mqqckVswoK7zilhqbmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oVY7Nz6jqVdrZIANRfeP6A--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/104dac7cf816eadf67d5433c8de4ad58",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "JNJ",
+            "INTC",
+            "COST",
             "KO"
         ]
     }

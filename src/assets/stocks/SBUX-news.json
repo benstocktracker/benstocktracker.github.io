@@ -1,4 +1,66 @@
 {
+    "44468ff9-f377-4de5-84c0-ef6beb9ad144": {
+        "uuid": "44468ff9-f377-4de5-84c0-ef6beb9ad144",
+        "title": "Amazon, Target suggest Wall Street remains 'overly optimistic' on consumers",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/amazon-target-suggest-wall-street-remains-overly-optimistic-on-consumers-110223130.html",
+        "providerPublishTime": 1656327743,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uPJvQX8WHALXRp0eECcbaA--~B/aD0xNzU1O3c9MjYyOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2afd3110-f5fd-11ec-bbe3-d9cf2c23a581",
+                    "width": 2629,
+                    "height": 1755,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7vpDukpWSWp6McLzc.bhRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2afd3110-f5fd-11ec-bbe3-d9cf2c23a581",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLY",
+            "SBUX",
+            "BBBY",
+            "BBY",
+            "NKE",
+            "AMZN",
+            "W",
+            "TGT"
+        ]
+    },
+    "4bf97aa1-3328-3c6d-8c88-d4f429d98e98": {
+        "uuid": "4bf97aa1-3328-3c6d-8c88-d4f429d98e98",
+        "title": "3 Growth Stocks That Are Screaming Summer Buys",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4bf97aa1-3328-3c6d-8c88-d4f429d98e98/3-growth-stocks-that-are.html",
+        "providerPublishTime": 1656321660,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JIVvkkQPVLZPkL54ZZ6tQw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XlsWhvps.oIBbkJ5YRq5uw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8dff7273698d5822afab00260245284a",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Nnb2rivV4YeykkGbb1kLJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XlsWhvps.oIBbkJ5YRq5uw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8dff7273698d5822afab00260245284a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "SBUX"
+        ]
+    },
     "6edbea37-90bd-32ef-914e-852026c1d560": {
         "uuid": "6edbea37-90bd-32ef-914e-852026c1d560",
         "title": "Abortion: How corporate America is responding to the Supreme Court ruling",
@@ -226,60 +288,6 @@
             "LEVI",
             "BMBL",
             "C"
-        ]
-    },
-    "fdbb03a2-fb95-3d7f-bbcf-ac7cdf2a3ba0": {
-        "uuid": "fdbb03a2-fb95-3d7f-bbcf-ac7cdf2a3ba0",
-        "title": "New state law may open door for rush of new Apopka eateries",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/fdbb03a2-fb95-3d7f-bbcf-ac7cdf2a3ba0/new-state-law-may-open-door.html",
-        "providerPublishTime": 1656073800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VC1_S_Mg_TFfW9dSJ3N_7Q--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3hmZvCFnRpv9zCwxPWbYQw--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/f7162e00a5bcecdd5fbca5142e682cea",
-                    "width": 1440,
-                    "height": 959,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/g_Tw4xDr0Vqs8OEr57tjGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3hmZvCFnRpv9zCwxPWbYQw--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/f7162e00a5bcecdd5fbca5142e682cea",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "f92db3d8-d417-34d0-a369-0e7b61c9e8f4": {
-        "uuid": "f92db3d8-d417-34d0-a369-0e7b61c9e8f4",
-        "title": "Buy Starbucks Stock. The Coffee Giant\u2019s Worst Problems Are Behind It.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/f92db3d8-d417-34d0-a369-0e7b61c9e8f4/buy-starbucks-stock.-the.html",
-        "providerPublishTime": 1656072840,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9cJi47kDEatctUlwphF8fw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qNPnxvbvg2Z6iT2YH6817A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dab892091865fbd6b34f252cb95887c0",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fDKxoYMgCyGm2qagOhcmBQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qNPnxvbvg2Z6iT2YH6817A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dab892091865fbd6b34f252cb95887c0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
         ]
     }
 }

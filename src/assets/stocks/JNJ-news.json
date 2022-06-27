@@ -1,4 +1,98 @@
 {
+    "4769a53f-9ab5-39c9-9bd6-89ad11741927": {
+        "uuid": "4769a53f-9ab5-39c9-9bd6-89ad11741927",
+        "title": "Dow Jones Futures Rise As Stock Market Rally Continues; 6 Top Stocks To Buy And Watch",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4769a53f-9ab5-39c9-9bd6-89ad11741927/dow-jones-futures-rise-as.html",
+        "providerPublishTime": 1656332338,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T9JL4lZKEuAtjKfPXmCBCA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HDjemjYlp7Z5vRwiz3dW9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WNfZoPN2FmUgehFq_0NXVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HDjemjYlp7Z5vRwiz3dW9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "TSLA",
+            "JNJ",
+            "AZO",
+            "LLY",
+            "PWR"
+        ]
+    },
+    "f434a935-2be3-3130-8328-c501bfef8d74": {
+        "uuid": "f434a935-2be3-3130-8328-c501bfef8d74",
+        "title": "2 Dividend Stocks for a Lifetime of Passive Income",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f434a935-2be3-3130-8328-c501bfef8d74/2-dividend-stocks-for-a.html",
+        "providerPublishTime": 1656322380,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ",
+            "ABT",
+            "^GSPC"
+        ]
+    },
+    "cd4adceb-c123-3680-96e9-0842e419414c": {
+        "uuid": "cd4adceb-c123-3680-96e9-0842e419414c",
+        "title": "Could Johnson & Johnson Stock Help You Retire A Millionaire?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/cd4adceb-c123-3680-96e9-0842e419414c/could-johnson-%26-johnson-stock.html",
+        "providerPublishTime": 1656240900,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ"
+        ]
+    },
+    "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c": {
+        "uuid": "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c",
+        "title": "How can I stop the pain and make money in this nightmarish market? BofA says this is the \u2018best hope\u2019 for bulls in 2022",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/stop-pain-money-nightmarish-market-184500964.html",
+        "providerPublishTime": 1656162000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ODKhZIXKw.TaQFRcHjRzRg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EnLtkWYHGPas8LO.vFFgHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "JNJ",
+            "PG",
+            "DIVB",
+            "COWZ",
+            "AAPL",
+            "OXY",
+            "SWCH",
+            "VHYAX",
+            "VYM",
+            "DOW",
+            "VLO"
+        ]
+    },
     "dace7072-4887-31d8-9d81-9b2a1c5f4ebb": {
         "uuid": "dace7072-4887-31d8-9d81-9b2a1c5f4ebb",
         "title": "Dow Jones Surges 650 Points, Led By Salesforce Stock; Johnson & Johnson, Astrazeneca Form Bullish Patterns",
@@ -115,126 +209,6 @@
         "relatedTickers": [
             "JNJ",
             "MSFT"
-        ]
-    },
-    "0f2cd14e-fea5-3594-b460-5520d5d9ba31": {
-        "uuid": "0f2cd14e-fea5-3594-b460-5520d5d9ba31",
-        "title": "Latest Report of Baby\u2019s Death After Consuming Formula Mentions Cronobacter Bacteria",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/0f2cd14e-fea5-3594-b460-5520d5d9ba31/latest-report-of-baby%E2%80%99s-death.html",
-        "providerPublishTime": 1656024300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/avBKtae_1aPSXLXqyjwbAA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DYChrGYzrOxkOQWZ3zHZUw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c57682d4bf5c021b1c493e5c00783d0b",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.CEimwswN2xx5z0VCaPu1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DYChrGYzrOxkOQWZ3zHZUw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c57682d4bf5c021b1c493e5c00783d0b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "1e4e0115-1d04-3452-be54-b2f3ad128b96": {
-        "uuid": "1e4e0115-1d04-3452-be54-b2f3ad128b96",
-        "title": "Dow Jones Gains; Tesla Falls After Elon Musk Reveals These Fears; This Stock Up As Warren Buffett Raises Stake",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1e4e0115-1d04-3452-be54-b2f3ad128b96/dow-jones-gains%3B-tesla-falls.html",
-        "providerPublishTime": 1656016301,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LMy.8YDwO.auxdvl8QddUg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QxKxx3wyEVtSBnTo1tl59A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/684f385ad61aefe8aae4973a061ad5be",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Fdp.bZ6s4C7DPzJFNK93ZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QxKxx3wyEVtSBnTo1tl59A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/684f385ad61aefe8aae4973a061ad5be",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "^DJI",
-            "^GSPC",
-            "MRNA",
-            "JNJ",
-            "^RUT"
-        ]
-    },
-    "e828eb1a-281a-3905-9935-443a37388748": {
-        "uuid": "e828eb1a-281a-3905-9935-443a37388748",
-        "title": "CDC endorses Moderna's COVID vaccine for kids 6 to 17 years old",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/cdc-endorses-modernas-covid-vaccine-195751319.html",
-        "providerPublishTime": 1656014271,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lXdvFL8FzlRCXDasb3T6Bw--~B/aD0yOTAwO3c9NTE2MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b9039e30-f32e-11ec-9b37-595ad5996f3e",
-                    "width": 5162,
-                    "height": 2900,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YVTT7Jrb_HH8WEGo7VB.Zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b9039e30-f32e-11ec-9b37-595ad5996f3e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "BNTX",
-            "JNJ",
-            "ASTR",
-            "NVAX",
-            "MRK",
-            "MRNA",
-            "RGVAX"
-        ]
-    },
-    "0a9bd541-c763-33ac-abcf-82c1c4500701": {
-        "uuid": "0a9bd541-c763-33ac-abcf-82c1c4500701",
-        "title": "Why Did HC Wainwright Downgrade Addex Therapeutics",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/why-did-hc-wainwright-downgrade-190330440.html",
-        "providerPublishTime": 1656011010,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cKM.LzGwO0K6DuN9GaRxjQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OvW_844f.ZO_irvxqQZpdw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/e105c7cf8844e9652a10ed6685677b49",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1f.mzYOog1FN8phdZVjHEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OvW_844f.ZO_irvxqQZpdw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/e105c7cf8844e9652a10ed6685677b49",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
         ]
     }
 }

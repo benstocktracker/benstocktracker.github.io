@@ -1,4 +1,89 @@
 {
+    "123cb85e-7925-3074-a41c-6fbeb6edc13e": {
+        "uuid": "123cb85e-7925-3074-a41c-6fbeb6edc13e",
+        "title": "3M earplug cases pile up; court orders settlement talks",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/123cb85e-7925-3074-a41c-6fbeb6edc13e/3m-earplug-cases-pile-up%3B.html",
+        "providerPublishTime": 1656330243,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eYWix1dcb9YKXaGOvv99dg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FQYnYIVepYri_etPLsT9NQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/b0a925c32f6e716a58e86dda62961c3c",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VWTS_rh4Jygdp83JIr5Tmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FQYnYIVepYri_etPLsT9NQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/b0a925c32f6e716a58e86dda62961c3c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BTA",
+            "MMM"
+        ]
+    },
+    "cb13878d-c78b-308f-8300-b8c60738c23c": {
+        "uuid": "cb13878d-c78b-308f-8300-b8c60738c23c",
+        "title": "3M Faces Potentially Billions in Liabilities Over $7.63 Earplugs",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/cb13878d-c78b-308f-8300-b8c60738c23c/3m-faces-potentially-billions.html",
+        "providerPublishTime": 1656250200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ET.nA4vxxJJ23QBO42yxYQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Gs.66TW_E2Fn4_cJvCev1w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/640d281e45e25971ca78260e996587fe",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5Cqm9qpUhnz4qRIZXgB.CA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Gs.66TW_E2Fn4_cJvCev1w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/640d281e45e25971ca78260e996587fe",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BTA",
+            "MMM"
+        ]
+    },
+    "81ccba2e-0378-38bc-990a-ceaea2714e9a": {
+        "uuid": "81ccba2e-0378-38bc-990a-ceaea2714e9a",
+        "title": "3 High-Yield Dividend Stocks You Won't Want to Overlook",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/81ccba2e-0378-38bc-990a-ceaea2714e9a/3-high-yield-dividend-stocks.html",
+        "providerPublishTime": 1656246600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U3RsKht6.A0Rai17_AZuZQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j8Xu5VfQJNJTXMqoEaVh9Q--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/aed3577d62a7e416fbe686c1faedf59b",
+                    "width": 1400,
+                    "height": 841,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vMTvxJQuW91CriVrMDNYAA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j8Xu5VfQJNJTXMqoEaVh9Q--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/aed3577d62a7e416fbe686c1faedf59b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NEE",
+            "DKL",
+            "MMM"
+        ]
+    },
     "f8ea2ba2-156f-382d-bc73-5accacd60dfc": {
         "uuid": "f8ea2ba2-156f-382d-bc73-5accacd60dfc",
         "title": "1 Industrial Stock With a Valuation Too Cheap to Ignore",
@@ -85,6 +170,39 @@
             "AWR"
         ]
     },
+    "66899f4a-5f18-30d0-91e0-5b01a4ae8695": {
+        "uuid": "66899f4a-5f18-30d0-91e0-5b01a4ae8695",
+        "title": "7 Retirement Stocks to Buy After Age 30",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-retirement-stocks-buy-age-104658476.html",
+        "providerPublishTime": 1655981218,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mlBCG4mYAIbzwDwIZoPfdQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/NcDXIkkNms5VvmAnI6cwRw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/0061adde1d91d4b7536a44fb0fc7ebcf",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JZNa2f0ruO.aHb8XmhxgJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NcDXIkkNms5VvmAnI6cwRw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/0061adde1d91d4b7536a44fb0fc7ebcf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMT",
+            "ECL",
+            "V",
+            "JNJ",
+            "NKE",
+            "MMM",
+            "DEO"
+        ]
+    },
     "d136f6ac-570d-3414-b907-3c57d8d57148": {
         "uuid": "d136f6ac-570d-3414-b907-3c57d8d57148",
         "title": "Target, U.S. Bank, Allina Health among best performing companies in Center for Economic Inclusion report",
@@ -117,135 +235,6 @@
             "USB-PQ",
             "USB-PR",
             "TGT"
-        ]
-    },
-    "0a27a6cc-b548-30c0-9e6b-92b434641cde": {
-        "uuid": "0a27a6cc-b548-30c0-9e6b-92b434641cde",
-        "title": "Want $1,000 in Passive Income? Invest $10,000 in These 3 Reliable Dividend Stocks and Wait 3 Years",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0a27a6cc-b548-30c0-9e6b-92b434641cde/want-%241%2C000-in-passive.html",
-        "providerPublishTime": 1655805600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cx5o7sIHqMcwr0O9D2rSWA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jEQHBBs9.JDITbVdCRjdZg--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/838968f50356cfc91fd201d9ad912e1f",
-                    "width": 1400,
-                    "height": 934,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/g_vNdXQMr5Aoti592ycDSQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jEQHBBs9.JDITbVdCRjdZg--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/838968f50356cfc91fd201d9ad912e1f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MMM",
-            "CWEN-A",
-            "RTX"
-        ]
-    },
-    "d9514089-20ac-30c7-bc8c-aead20e27d9b": {
-        "uuid": "d9514089-20ac-30c7-bc8c-aead20e27d9b",
-        "title": "7 High-Yield Dividend Stocks for All the Income Lovers",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-high-yield-dividend-stocks-113047072.html",
-        "providerPublishTime": 1655724647,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p3sP55UU4C.R4e32AQPauw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wH9E0Y0n.Tcu.fCqsScJRQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5afdb221f16e328be485d68f97279055",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vmQEr9v7MdQp5QE0TLrovg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wH9E0Y0n.Tcu.fCqsScJRQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5afdb221f16e328be485d68f97279055",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "OKE",
-            "LYB",
-            "EPR",
-            "MMM",
-            "NWE",
-            "PSX",
-            "PM"
-        ]
-    },
-    "ef37374e-fb5a-31bb-941f-2760eff7a47a": {
-        "uuid": "ef37374e-fb5a-31bb-941f-2760eff7a47a",
-        "title": "Raising the Pride Flag High",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/raising-pride-flag-high-130021054.html",
-        "providerPublishTime": 1655470821,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zLpsmlvEmLKRmqjPnrSmWg--~B/aD00MzQ7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DClSPRTIQibxDxkTcu9sPQ--~B/aD00MzQ7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/976aeb32200747a79329f3323d52b146",
-                    "width": 650,
-                    "height": 434,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6A8n_RgBPfE3o7XYkiUxrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DClSPRTIQibxDxkTcu9sPQ--~B/aD00MzQ7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/976aeb32200747a79329f3323d52b146",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BTA",
-            "MMM"
-        ]
-    },
-    "b6c1d63d-7620-3f33-ae86-a213e13fa742": {
-        "uuid": "b6c1d63d-7620-3f33-ae86-a213e13fa742",
-        "title": "These 15 Important Stocks are Losing Value in 2022",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/15-important-stocks-losing-value-140002532.html",
-        "providerPublishTime": 1655388002,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Cc1zdNWNJ7dVqsMxfQCTqA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xPpJiGPXu0WonEypKMQZZg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f499169297c1051103a9f50d4b3da1f4",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GcxNhcxQL2pDxBAMVpFdzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xPpJiGPXu0WonEypKMQZZg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f499169297c1051103a9f50d4b3da1f4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TGT",
-            "SWK",
-            "GPC",
-            "JNJ",
-            "PG",
-            "ITW",
-            "PEP",
-            "LOW",
-            "CHD",
-            "EMR",
-            "MMM",
-            "WMT",
-            "CL"
         ]
     }
 }

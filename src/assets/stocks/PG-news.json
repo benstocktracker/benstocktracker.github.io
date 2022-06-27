@@ -1,4 +1,87 @@
 {
+    "98ba356d-7170-39da-b0ef-c00a088833e1": {
+        "uuid": "98ba356d-7170-39da-b0ef-c00a088833e1",
+        "title": "Don't Buy Philip Morris Stock. Here Are 2 Better Dividend Payers To Buy Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/98ba356d-7170-39da-b0ef-c00a088833e1/don%27t-buy-philip-morris.html",
+        "providerPublishTime": 1656330900,
+        "type": "STORY",
+        "relatedTickers": [
+            "PM",
+            "PG",
+            "TJX"
+        ]
+    },
+    "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c": {
+        "uuid": "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c",
+        "title": "How can I stop the pain and make money in this nightmarish market? BofA says this is the \u2018best hope\u2019 for bulls in 2022",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/stop-pain-money-nightmarish-market-184500964.html",
+        "providerPublishTime": 1656162000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ODKhZIXKw.TaQFRcHjRzRg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EnLtkWYHGPas8LO.vFFgHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "JNJ",
+            "PG",
+            "DIVB",
+            "COWZ",
+            "AAPL",
+            "OXY",
+            "SWCH",
+            "VHYAX",
+            "VYM",
+            "DOW",
+            "VLO"
+        ]
+    },
+    "3b7cc343-34a1-3283-a2cc-39ee27ddfc5d": {
+        "uuid": "3b7cc343-34a1-3283-a2cc-39ee27ddfc5d",
+        "title": "ESG Investing: 7 Profitable Stock Picks for the Socially Responsible",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/esg-investing-7-profitable-stock-141636879.html",
+        "providerPublishTime": 1656080196,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FGl2uwCJ_PNFGm6ol4.nxg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BYRpy8hbwhziY07UU1UJiA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/6d65a6031a4d5ecd01752351ea932dd1",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/A5wgJmNhc9gCwIwQuBBrEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BYRpy8hbwhziY07UU1UJiA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/6d65a6031a4d5ecd01752351ea932dd1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "NVO",
+            "MSCI",
+            "PG",
+            "BBY",
+            "DE"
+        ]
+    },
     "3728f802-e8a0-3f13-b211-df986710f74e": {
         "uuid": "3728f802-e8a0-3f13-b211-df986710f74e",
         "title": "10 Stocks to Profit from Inflation",
@@ -31,6 +114,37 @@
             "PG",
             "CL",
             "XOM"
+        ]
+    },
+    "4e94334c-d47c-3f12-bd97-805daa0418b3": {
+        "uuid": "4e94334c-d47c-3f12-bd97-805daa0418b3",
+        "title": "7 Safe Stocks to Add to Your Q2 Buy List",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-safe-stocks-add-q2-112938295.html",
+        "providerPublishTime": 1656070178,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IcevwPe0cB1bDGkQDLaTHQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FtSzbBMwp1PcKlnaavZbmg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/82b32829d54d38d74b588444ec7fc879",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zL92qBMqCcTPUdLbppOu6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FtSzbBMwp1PcKlnaavZbmg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/82b32829d54d38d74b588444ec7fc879",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ADBE",
+            "BRK-B",
+            "CVS",
+            "BLK",
+            "PG"
         ]
     },
     "890c69e0-f095-396a-8a8a-0d887b6fb578": {
@@ -111,101 +225,6 @@
             "MMM",
             "GPC",
             "AWR"
-        ]
-    },
-    "04ea91b3-428e-3d33-a51e-ad740d1e93c4": {
-        "uuid": "04ea91b3-428e-3d33-a51e-ad740d1e93c4",
-        "title": "5 Unstoppable Stocks on Sale to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/04ea91b3-428e-3d33-a51e-ad740d1e93c4/5-unstoppable-stocks-on-sale.html",
-        "providerPublishTime": 1655982600,
-        "type": "STORY",
-        "relatedTickers": [
-            "GNRC",
-            "GOOGL",
-            "TSLA",
-            "PG"
-        ]
-    },
-    "fe0666e3-946c-30f6-af31-e3bd934b9bae": {
-        "uuid": "fe0666e3-946c-30f6-af31-e3bd934b9bae",
-        "title": "Procter & Gamble (PG) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/procter-gamble-pg-gains-market-214509565.html",
-        "providerPublishTime": 1655934309,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PzKU7lPyf_PcRy_ydffzWA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
-                    "width": 900,
-                    "height": 602,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ncjTO6t7Ni7a1WCfWhqk6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
-        ]
-    },
-    "fa316c1c-de44-3f22-9cb6-f2bb6af5f7c8": {
-        "uuid": "fa316c1c-de44-3f22-9cb6-f2bb6af5f7c8",
-        "title": "P&G expands program to boost Black creators; what to know",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/fa316c1c-de44-3f22-9cb6-f2bb6af5f7c8/p%26g-expands-program-to-boost.html",
-        "providerPublishTime": 1655911781,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AvGJX.ZlggQKzdGoSF3ItA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pj_bEuuJ0lKr7ve1fpZPbg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/18957192fb045e521a347cfecae8501b",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2QzMSWcpZleHV6CU55tqmg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pj_bEuuJ0lKr7ve1fpZPbg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/18957192fb045e521a347cfecae8501b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
-        ]
-    },
-    "312d8907-7062-322d-83bb-1562d3933d5e": {
-        "uuid": "312d8907-7062-322d-83bb-1562d3933d5e",
-        "title": "Former P&G CEO David Taylor joins New York private equity firm as an adviser",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/312d8907-7062-322d-83bb-1562d3933d5e/former-p%26g-ceo-david-taylor.html",
-        "providerPublishTime": 1655837119,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LmmmkIQ8At5U6QzLKFHvHw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dBD_pJstZWMJQDmZzNVW4w--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/a78c36f7b449af615832ef15541934d1",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1Nx1odsE6NkiBXVUC5GBfg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dBD_pJstZWMJQDmZzNVW4w--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/a78c36f7b449af615832ef15541934d1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
         ]
     }
 }
