@@ -1,5 +1,5 @@
 <div class="price-range-slider-container">
-  <div class="cost-average">${{ costAverage }} x {{ shares }} = ${{ (costAverage * shares).toFixed(2) }}</div>
+  <div *ngIf="showHolding" class="cost-average">${{ costAverage }} x {{ shares }} = ${{ (costAverage * shares).toFixed(2) }}</div>
   <div class="price-range-slider">
     <span>${{ min }}</span>
     <mat-slider

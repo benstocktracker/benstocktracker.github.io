@@ -1,4 +1,33 @@
 {
+    "c4fcde64-ca1a-3dff-a2ec-fc7cc26bf4ca": {
+        "uuid": "c4fcde64-ca1a-3dff-a2ec-fc7cc26bf4ca",
+        "title": "The Necessity Retail REIT Announces Common Stock Dividend for Third Quarter 2022",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-common-100000863.html",
+        "providerPublishTime": 1656669600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Drt.MO0gH49toUI6_Gbt9A--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
+                    "width": 174,
+                    "height": 174,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/i9nqZsUXo7zHgf9pW2dyNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RTL",
+            "RTLPO",
+            "RTLPP"
+        ]
+    },
     "9ec720a4-f79d-3e6f-912d-044008420199": {
         "uuid": "9ec720a4-f79d-3e6f-912d-044008420199",
         "title": "The Necessity Retail REIT Announces Preferred Stock Dividends",
@@ -192,35 +221,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/tL4M3yw_V5i4_szPQDRxKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eKkCS8VWHk6O4PJwdyi64w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a80aaf717de743747a2a1f1349fd1f6e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "RTL",
-            "RTLPO",
-            "RTLPP"
-        ]
-    },
-    "1ecf46d6-5699-3852-aab3-a7808281edaf": {
-        "uuid": "1ecf46d6-5699-3852-aab3-a7808281edaf",
-        "title": "The Necessity Retail REIT CEO Michael Weil Discusses with Shopping Center Business how RTL's Retail Portfolio Meets the Needs of Today's Consumer",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/necessity-retail-reit-ceo-michael-201500508.html",
-        "providerPublishTime": 1652213700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Drt.MO0gH49toUI6_Gbt9A--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
-                    "width": 174,
-                    "height": 174,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/i9nqZsUXo7zHgf9pW2dyNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

@@ -1,165 +1,194 @@
 {
-    "5b442e45-dd16-39c7-bbc7-887c79ce26f1": {
-        "uuid": "5b442e45-dd16-39c7-bbc7-887c79ce26f1",
-        "title": "Novavax (NVAX) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-sinks-market-215009031.html",
-        "providerPublishTime": 1656107409,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7yAwziJOls4Agwdjd4WwXw--~B/aD00Njc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/64vRzkiY9LXGPrpW4r2GRQ--~B/aD00Njc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b95cfdd8768bc3c4620e666dbcb0b248",
-                    "width": 900,
-                    "height": 467,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/e5DMEuNMd_M9vVOkQUSisA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/64vRzkiY9LXGPrpW4r2GRQ--~B/aD00Njc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b95cfdd8768bc3c4620e666dbcb0b248",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "6385632d-9852-3c41-bddb-fb74bf6ef4fe": {
-        "uuid": "6385632d-9852-3c41-bddb-fb74bf6ef4fe",
-        "title": "Novavax (NVAX) Up as EMA Recommends COVID Jab for Adolescents",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/novavax-nvax-ema-recommends-covid-133201836.html",
-        "providerPublishTime": 1656077521,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX",
-            "BNTX",
-            "PFE"
-        ]
-    },
-    "9abb21be-ee46-35fb-a0de-9b1212ad7415": {
-        "uuid": "9abb21be-ee46-35fb-a0de-9b1212ad7415",
-        "title": "Novavax' Nuvaxovid\u2122 COVID-19 Vaccine Receives Emergency Use Authorization in Taiwan for Use in Individuals Aged 18 and Over",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/novavax-nuvaxovid-covid-19-vaccine-205600735.html",
-        "providerPublishTime": 1656017760,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5LCY4P48cpLS9HvOTdAatQ--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 400,
-                    "height": 176,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EN0UiQl8i4B0tHITKGkZmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "cfc8a463-8bb7-3a39-b7f1-097ce01ee5e5": {
-        "uuid": "cfc8a463-8bb7-3a39-b7f1-097ce01ee5e5",
-        "title": "Why Novavax Stock Is Soaring This Week",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cfc8a463-8bb7-3a39-b7f1-097ce01ee5e5/why-novavax-stock-is-soaring.html",
-        "providerPublishTime": 1656016179,
-        "type": "STORY",
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "e828eb1a-281a-3905-9935-443a37388748": {
-        "uuid": "e828eb1a-281a-3905-9935-443a37388748",
-        "title": "CDC endorses Moderna's COVID vaccine for kids 6 to 17 years old",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/cdc-endorses-modernas-covid-vaccine-195751319.html",
-        "providerPublishTime": 1656014271,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lXdvFL8FzlRCXDasb3T6Bw--~B/aD0yOTAwO3c9NTE2MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b9039e30-f32e-11ec-9b37-595ad5996f3e",
-                    "width": 5162,
-                    "height": 2900,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YVTT7Jrb_HH8WEGo7VB.Zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b9039e30-f32e-11ec-9b37-595ad5996f3e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "BNTX",
-            "JNJ",
-            "ASTR",
-            "NVAX",
-            "MRK",
-            "MRNA",
-            "RGVAX"
-        ]
-    },
-    "bffa7fe7-6088-3902-9aa3-2db1d99d8ca3": {
-        "uuid": "bffa7fe7-6088-3902-9aa3-2db1d99d8ca3",
-        "title": "Novavax COVID-19 Vaccine Nuvaxovid\u2122 Recommended for Expanded Conditional Marketing Authorization in the European Union by CHMP for Adolescents Aged 12 Through 17",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/novavax-covid-19-vaccine-nuvaxovid-192400076.html",
-        "providerPublishTime": 1656012240,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5LCY4P48cpLS9HvOTdAatQ--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 400,
-                    "height": 176,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EN0UiQl8i4B0tHITKGkZmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "39e39931-4f87-3c4c-8063-3ba3201ec32c": {
-        "uuid": "39e39931-4f87-3c4c-8063-3ba3201ec32c",
-        "title": "Novavax stock surges after COVID-19 vaccine recommended for expanded CMA in the EU for 12-17 year olds",
+    "b9ca6ba7-89e4-3187-aeaa-b00444f32dac": {
+        "uuid": "b9ca6ba7-89e4-3187-aeaa-b00444f32dac",
+        "title": "The U.S. bets billions of dollars on better COVID-19 boosters as it prepares for a spike in COVID-19 cases in the coming months",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/39e39931-4f87-3c4c-8063-3ba3201ec32c/novavax-stock-surges-after.html",
-        "providerPublishTime": 1656011082,
+        "link": "https://finance.yahoo.com/m/b9ca6ba7-89e4-3187-aeaa-b00444f32dac/the-u.s.-bets-billions-of.html",
+        "providerPublishTime": 1656702840,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JLa4G0Hh0noT_2WfNX3bUg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nY4sKVqE4h7zrZj2gbML0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d3c92f9817fc9c9b560ab6f5a2163a0e",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SwtJiQcLKDjpN9qzd_30rw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nY4sKVqE4h7zrZj2gbML0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d3c92f9817fc9c9b560ab6f5a2163a0e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "LLY",
+            "MRNA",
+            "BNTX",
+            "NVAX"
+        ]
+    },
+    "41e3e6a9-1c81-3e57-b3e7-b918bf64fa4b": {
+        "uuid": "41e3e6a9-1c81-3e57-b3e7-b918bf64fa4b",
+        "title": "Novavax expects COVID vaccine targeting Omicron in fourth quarter",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/novavax-expects-covid-vaccine-targeting-183223757.html",
+        "providerPublishTime": 1656700343,
+        "type": "STORY",
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "2145a4b4-0147-356f-aac5-e401b4aa6c40": {
+        "uuid": "2145a4b4-0147-356f-aac5-e401b4aa6c40",
+        "title": "It's a Bear Market, but Is This Stock in Even More Trouble?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2145a4b4-0147-356f-aac5-e401b4aa6c40/it%27s-a-bear-market%2C-but-is.html",
+        "providerPublishTime": 1656685800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1JZ7v2IEfM9HzixRGuaglg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZYUvsDjPqRHdGqFuA0pz3w--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/71c930abfd950bd45a58eb3d9b3e5dba",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xl4MjieEdHdKPRHBIXDm2w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZYUvsDjPqRHdGqFuA0pz3w--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/71c930abfd950bd45a58eb3d9b3e5dba",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "105e835c-4880-3653-a642-d0bf5cec699f": {
+        "uuid": "105e835c-4880-3653-a642-d0bf5cec699f",
+        "title": "Novavax (NVAX) Stock Moves -0.81%: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-moves-0-215009351.html",
+        "providerPublishTime": 1656625809,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u19gg6mEg1FXckW.slC1_Q--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.PGZxRPX3TwPJmyoXlVvdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "5be9390a-7e7d-326d-b89a-a40eab0127fd": {
+        "uuid": "5be9390a-7e7d-326d-b89a-a40eab0127fd",
+        "title": "The FDA Just Handed BioNTech And Moderna A Gift \u2014 But Only One Jumped",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/5be9390a-7e7d-326d-b89a-a40eab0127fd/the-fda-just-handed-biontech.html",
+        "providerPublishTime": 1656619817,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ah1YTTj8KAr1jidGE8UthA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yDNpGRLTHdwYyeEVQtPj9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6911192bbf5259454895e47b2d8f14fd",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kIX8BFjPeLQsIH52LQeXUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yDNpGRLTHdwYyeEVQtPj9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6911192bbf5259454895e47b2d8f14fd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BNTX",
+            "MRNA",
+            "PFE",
+            "NVAX"
+        ]
+    },
+    "28541bbb-1925-4a44-a326-2ed50ffcd7d1": {
+        "uuid": "28541bbb-1925-4a44-a326-2ed50ffcd7d1",
+        "title": "Omicron: Experts want more data to guide US targeting of fall boosters",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/experts-want-more-data-to-guide-us-targeting-omicron-for-fall-boosters-192417511.html",
+        "providerPublishTime": 1656617057,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mTD79T8yYtU0inN0.t.sMQ--~B/aD0zMzEyO3c9NTM4NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-01/3a7f6320-738e-11ec-bffe-129fd8e1c461",
+                    "width": 5384,
+                    "height": 3312,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4Wj3ynCsyWDZsstsOz.bgg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-01/3a7f6320-738e-11ec-bffe-129fd8e1c461",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BNTX",
+            "MRNA",
+            "PFE",
+            "NVAX"
+        ]
+    },
+    "a0698c91-7450-3ece-975b-b4a691c52c8a": {
+        "uuid": "a0698c91-7450-3ece-975b-b4a691c52c8a",
+        "title": "2 Risky Stocks That Could Continue Falling This Year",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/a0698c91-7450-3ece-975b-b4a691c52c8a/2-risky-stocks-that-could.html",
+        "providerPublishTime": 1656601200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DBBK8aoMTG2i63aX4B4LqQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TaW27jjktZRQdcGhRqMLyQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ca973c0fe2761e26ae28b0965b4ceea8",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qzMjjRrOddASBagYNSVsRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TaW27jjktZRQdcGhRqMLyQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ca973c0fe2761e26ae28b0965b4ceea8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "RIVN"
+        ]
+    },
+    "f6343efe-73bf-36b0-ac26-d80368b7125e": {
+        "uuid": "f6343efe-73bf-36b0-ac26-d80368b7125e",
+        "title": "FDA says COVID-19 boosters should be updated to combat two omicron subvariants",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/f6343efe-73bf-36b0-ac26-d80368b7125e/fda-says-covid-19-boosters.html",
+        "providerPublishTime": 1656600592,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -178,19 +207,11 @@
             ]
         },
         "relatedTickers": [
+            "BNTX",
             "NVAX",
-            "^GSPC"
-        ]
-    },
-    "5df01148-26ac-3c82-a8a5-e51cc6582962": {
-        "uuid": "5df01148-26ac-3c82-a8a5-e51cc6582962",
-        "title": "Why Novavax Stock Jumped Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/5df01148-26ac-3c82-a8a5-e51cc6582962/why-novavax-stock-jumped-today.html",
-        "providerPublishTime": 1655914887,
-        "type": "STORY",
-        "relatedTickers": [
-            "NVAX"
+            "MRNA",
+            "JNJ",
+            "PFE"
         ]
     }
 }

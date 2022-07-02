@@ -1,48 +1,109 @@
 {
-    "d54f6a40-779d-3d5f-a509-5fa52033cd1b": {
-        "uuid": "d54f6a40-779d-3d5f-a509-5fa52033cd1b",
-        "title": "Franklin Templeton's Employee Volunteers Join in Person to Support Local Initiatives",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templetons-employee-volunteers-join-140020112.html",
-        "providerPublishTime": 1656079220,
+    "4bb2b3e6-b108-3454-9a0c-efb8c9f9a590": {
+        "uuid": "4bb2b3e6-b108-3454-9a0c-efb8c9f9a590",
+        "title": "Franklin Templeton Launches Responsibly Sourced Gold ETF (FGLD)",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-launches-responsibly-sourced-133000614.html",
+        "providerPublishTime": 1656595800,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sd2Mg4yEiz7NkUvxtQXB.A--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HfuzhtNEYsZOyGzpAZpU0w--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/2de8531e80607a374e2590a810c05c1c",
-                    "width": 650,
-                    "height": 488,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k4H6cGqDMYtOWIK4XzTOtg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HfuzhtNEYsZOyGzpAZpU0w--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/2de8531e80607a374e2590a810c05c1c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "BEN"
         ]
     },
-    "f80b200b-a954-33af-9faa-700cb19aba96": {
-        "uuid": "f80b200b-a954-33af-9faa-700cb19aba96",
-        "title": "Franklin Templeton Canada Awarded Fund Provider of the Year",
+    "8a66e54d-f09c-3474-8f67-4b8584a9ff0f": {
+        "uuid": "8a66e54d-f09c-3474-8f67-4b8584a9ff0f",
+        "title": "Franklin Templeton Canada Announces Final Valuation for Emerging Markets and Global Equity ETFs",
         "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-canada-awarded-fund-134500694.html",
-        "providerPublishTime": 1655819100,
+        "link": "https://finance.yahoo.com/news/franklin-templeton-canada-announces-final-190000758.html",
+        "providerPublishTime": 1656529200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PFuncgSRxuBwCtoSRmQolQ--~B/aD0yMTI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bK5ngjUo7rRbnBTM70z7PA--~B/aD0yMTI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/8986b9c21441eb3bee43c69e5d460989",
-                    "width": 400,
-                    "height": 212,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xxjOGnw.qQFD3yc99JZoug--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WQkTWKbeSNuo0HtLxhhATQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cnwgroup.com/d415484f6484e52413f260d9e3eeabbd",
+                    "width": 16,
+                    "height": 16,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/M4zmAncICcI3uoEDivlaKg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bK5ngjUo7rRbnBTM70z7PA--~B/aD0yMTI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/8986b9c21441eb3bee43c69e5d460989",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z_CLdo9.RWtyp5Eh9ppqfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WQkTWKbeSNuo0HtLxhhATQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cnwgroup.com/d415484f6484e52413f260d9e3eeabbd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FSEM.TO",
+            "FGSG.TO",
+            "BEN"
+        ]
+    },
+    "8f78a29b-fb3c-39df-98ce-00ddd99fb4d8": {
+        "uuid": "8f78a29b-fb3c-39df-98ce-00ddd99fb4d8",
+        "title": "Franklin Limited Duration Income Trust (\"FTF\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-limited-duration-income-trust-170200537.html",
+        "providerPublishTime": 1656522120,
+        "type": "STORY",
+        "relatedTickers": [
+            "FTF",
+            "BEN"
+        ]
+    },
+    "5e44567c-2adf-3cbf-a4f7-0e1dff7f2af2": {
+        "uuid": "5e44567c-2adf-3cbf-a4f7-0e1dff7f2af2",
+        "title": "Templeton Global Income Fund (\"GIM\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-gim-153200106.html",
+        "providerPublishTime": 1656516720,
+        "type": "STORY",
+        "relatedTickers": [
+            "GIM",
+            "BEN"
+        ]
+    },
+    "6ac8ed71-65ee-3cc8-87ec-811e45e5d797": {
+        "uuid": "6ac8ed71-65ee-3cc8-87ec-811e45e5d797",
+        "title": "Templeton Emerging Markets Income Fund (\"TEI\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-emerging-markets-income-fund-153100695.html",
+        "providerPublishTime": 1656516660,
+        "type": "STORY",
+        "relatedTickers": [
+            "BEN",
+            "TEI"
+        ]
+    },
+    "0ef49a28-88e3-30c0-a533-de880e801756": {
+        "uuid": "0ef49a28-88e3-30c0-a533-de880e801756",
+        "title": "Franklin Universal Trust (\"FT\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-universal-trust-ft-fund-153100456.html",
+        "providerPublishTime": 1656516660,
+        "type": "STORY",
+        "relatedTickers": [
+            "FT",
+            "BEN"
+        ]
+    },
+    "b31392af-fdf5-3f51-bb1e-de2a38f760f1": {
+        "uuid": "b31392af-fdf5-3f51-bb1e-de2a38f760f1",
+        "title": "John Ivanac Joins Franklin Templeton as Consultant Adviser for US Institutional Services Focused on Alternative Investments",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/john-ivanac-joins-franklin-templeton-135000365.html",
+        "providerPublishTime": 1656424200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6qfBMnb1wR5g0tBC99YH5g--~B/aD0xNzc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ymBt4BL_7PgaGLqskTl6zQ--~B/aD0xNzc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/ae2c84ad931987588cc7c458e8bc6ffd",
+                    "width": 480,
+                    "height": 177,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XM0HH65d2s1kb9nKenVo2w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ymBt4BL_7PgaGLqskTl6zQ--~B/aD0xNzc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/ae2c84ad931987588cc7c458e8bc6ffd",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -53,146 +114,23 @@
             "BEN"
         ]
     },
-    "d57b7529-bcbf-367a-b86a-471b51fc788b": {
-        "uuid": "d57b7529-bcbf-367a-b86a-471b51fc788b",
-        "title": "Templeton Global Income Fund Announces Legal Action to Prevent Certification of the Results of the Fund\u2019s Annual Meeting of Shareholders",
+    "4153c87f-cc7a-30cb-a22a-eda336d18b7b": {
+        "uuid": "4153c87f-cc7a-30cb-a22a-eda336d18b7b",
+        "title": "Amy Ko Elevated to Fiduciary Trust International\u2019s Regional Managing Director for Northern California",
         "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-announces-130000905.html",
-        "providerPublishTime": 1655816400,
-        "type": "STORY",
-        "relatedTickers": [
-            "BEN",
-            "GIM"
-        ]
-    },
-    "210ec278-1a7f-3ac4-b120-f47fb5cf19b5": {
-        "uuid": "210ec278-1a7f-3ac4-b120-f47fb5cf19b5",
-        "title": "HSBC Unit to Discuss Merger Offer With Sohar International",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/hsbc-unit-discuss-merger-offer-135501710.html",
-        "providerPublishTime": 1655733301,
+        "link": "https://finance.yahoo.com/news/amy-ko-elevated-fiduciary-trust-150000501.html",
+        "providerPublishTime": 1656342000,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fsIjy1yyFMMrvjGNqJJ3ew--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yM2AAyXrqTaXtKtrw4bnvQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/59744b4fcca70e73cbe3b535b1bc283a",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SGAkkjnvTB0Q44_ts93CCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yM2AAyXrqTaXtKtrw4bnvQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/59744b4fcca70e73cbe3b535b1bc283a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HSBC",
-            "TFC-PR",
-            "BEN",
-            "BK"
-        ]
-    },
-    "5c203cce-5b23-33ab-925f-0bd5a4a20ccb": {
-        "uuid": "5c203cce-5b23-33ab-925f-0bd5a4a20ccb",
-        "title": "Is Franklin DynaTech Adviser (FDYZX) a Strong Mutual Fund Pick Right Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/franklin-dynatech-adviser-fdyzx-strong-110011541.html",
-        "providerPublishTime": 1655463611,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-                    "width": 900,
-                    "height": 506,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "168a75f6-6c1b-3238-947d-4d62bc6bc1ad": {
-        "uuid": "168a75f6-6c1b-3238-947d-4d62bc6bc1ad",
-        "title": "Abby Axelrod-Wunderman CAP\u00ae Joins Fiduciary Trust International as Philanthropic Director for Family Office Services, Foundations & Endowments",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/abby-axelrod-wunderman-cap-joins-145000459.html",
-        "providerPublishTime": 1655304600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ndnKqv88KbrISpTX3lBttw--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dmJngTEMbRDR7YEOTOuFDg--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/6c44271d33b9569a843d657fb83951ee",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J0DsB.4i1HNJBrouI5mGnw--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RKFts2MjTNtm5.uaDTC5FA--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/9caa3bed8e2c2d0155d6fba67c9a7b1d",
                     "width": 480,
                     "height": 116,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aUBRFTs3ZbkxmfqD1jHqxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dmJngTEMbRDR7YEOTOuFDg--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/6c44271d33b9569a843d657fb83951ee",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "6c70ff8f-66df-3241-b684-94102df80d97": {
-        "uuid": "6c70ff8f-66df-3241-b684-94102df80d97",
-        "title": "Franklin Templeton's LMP Closed End Fund Eileen Kamerick Recognized as NACD Directorship 100\u2122 Honoree",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templetons-lmp-closed-end-140021178.html",
-        "providerPublishTime": 1655301621,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/m5V6W_0tzIY0LR1wGSptsA--~B/aD05MTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rw0.e91ngsfL7DVijNZcnA--~B/aD05MTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/8ae6f6a065d0810faadd84d7e5b22c2a",
-                    "width": 650,
-                    "height": 910,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ttey9pE5AWx7yK0HYjCgig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rw0.e91ngsfL7DVijNZcnA--~B/aD05MTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/8ae6f6a065d0810faadd84d7e5b22c2a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "4cc6ef37-fa96-317a-9a39-67363a273ac9": {
-        "uuid": "4cc6ef37-fa96-317a-9a39-67363a273ac9",
-        "title": "Franklin Templeton Funds - 10 Best Templeton Mutual Funds",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/4cc6ef37-fa96-317a-9a39-67363a273ac9/franklin-templeton-funds-10.html",
-        "providerPublishTime": 1655238120,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/slejn435RPvCEIpvONDYEg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VxrLaF2kgu8Do2yO9PwOnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mu.dCmyWP_0.hgglQgIQWw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RKFts2MjTNtm5.uaDTC5FA--~B/aD0xMTY7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/9caa3bed8e2c2d0155d6fba67c9a7b1d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

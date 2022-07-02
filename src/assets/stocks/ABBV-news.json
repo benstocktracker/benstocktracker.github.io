@@ -1,51 +1,34 @@
 {
-    "ca1e4e3a-7fc6-3fd4-be6c-f1ac00d086b7": {
-        "uuid": "ca1e4e3a-7fc6-3fd4-be6c-f1ac00d086b7",
-        "title": "Pharma Stock Roundup: FDA OK's Expanded Use of ABBV, MRK, NVS Drugs, Other Updates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pharma-stock-roundup-fda-oks-131901852.html",
-        "providerPublishTime": 1656076741,
+    "fc6763df-e395-39ad-9097-2091af7f2259": {
+        "uuid": "fc6763df-e395-39ad-9097-2091af7f2259",
+        "title": "3 Stocks You Can Buy and Hold for Decades",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/fc6763df-e395-39ad-9097-2091af7f2259/3-stocks-you-can-buy-and-hold.html",
+        "providerPublishTime": 1656755820,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EejTULwUAYWc9k32qkXu0Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/obPyvmV.XkzkKLrDxW_bcA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5bd570f285e4b6d4e9b1a8c6dc8600e6",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fPhGuVbDKu5w3I69zHQheA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/obPyvmV.XkzkKLrDxW_bcA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5bd570f285e4b6d4e9b1a8c6dc8600e6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "PFE",
             "ABBV",
-            "MRNA",
-            "NVS"
+            "VRTX",
+            "BMY"
         ]
     },
-    "fe9ec68a-313c-3eb5-8334-ed131f98417a": {
-        "uuid": "fe9ec68a-313c-3eb5-8334-ed131f98417a",
-        "title": "New Survey Offers Perspective on Mental and Emotional Journey for Patients Diagnosed with Slow-Growing Blood Cancer",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/survey-offers-perspective-mental-emotional-120000676.html",
-        "providerPublishTime": 1656072000,
+    "c91b9937-b4d4-31a2-b8b5-6c408522c083": {
+        "uuid": "c91b9937-b4d4-31a2-b8b5-6c408522c083",
+        "title": "5 NYSE Stocks To Watch And Buy: Here Are Fundamental And Technical Reasons Why",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/c91b9937-b4d4-31a2-b8b5-6c408522c083/5-nyse-stocks-to-watch-and.html",
+        "providerPublishTime": 1656702327,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pNTMjTDchM60gpbCUcjq7A--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PkQKjEZl6QCz1fVkIyG7Lg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/f3c2daadb77f8ed4a480a0498e5c93ef",
-                    "width": 16,
-                    "height": 16,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NxvQTXhPSK_hcJwNv.92mw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WvNNHym7w4OyVWRMn_b_0A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8",
+                    "width": 1012,
+                    "height": 572,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PvL9fKRt.GwIqUkJz7ZgDg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PkQKjEZl6QCz1fVkIyG7Lg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/f3c2daadb77f8ed4a480a0498e5c93ef",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P5lkV7MPOsQPkyiEwAjxHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WvNNHym7w4OyVWRMn_b_0A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -53,34 +36,36 @@
             ]
         },
         "relatedTickers": [
+            "^NYA",
+            "ABBV",
+            "BMY",
+            "COMP"
+        ]
+    },
+    "0804711b-4494-37d6-864e-816f48a418af": {
+        "uuid": "0804711b-4494-37d6-864e-816f48a418af",
+        "title": "Amgen's Beating the Market -- Here's Why It's a Buy Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0804711b-4494-37d6-864e-816f48a418af/amgen%27s-beating-the-market-.html",
+        "providerPublishTime": 1656684000,
+        "type": "STORY",
+        "relatedTickers": [
+            "AMGN",
             "ABBV"
         ]
     },
-    "ea6cfc39-397f-3411-954a-3215c9ea413c": {
-        "uuid": "ea6cfc39-397f-3411-954a-3215c9ea413c",
-        "title": "AbbVie Declares Quarterly Dividend",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/abbvie-declares-quarterly-dividend-194300277.html",
-        "providerPublishTime": 1656013380,
+    "a8735ace-7c5d-35f9-b56c-aa9e3ed105b1": {
+        "uuid": "a8735ace-7c5d-35f9-b56c-aa9e3ed105b1",
+        "title": "The 3 Best Dividend Aristocrat Stocks in the First Half of 2022: Are They Buys Now?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/a8735ace-7c5d-35f9-b56c-aa9e3ed105b1/the-3-best-dividend.html",
+        "providerPublishTime": 1656669120,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.lrWPsx8qjpnQefJuyK.8g--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WOUp_Amc98.MW12blzvGTg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/abe1d28a9dc25678eaa8d588f84d8620",
-                    "width": 16,
-                    "height": 16,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HLWTrguDdPz8eWmCqpaWFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WOUp_Amc98.MW12blzvGTg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/abe1d28a9dc25678eaa8d588f84d8620",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "ABBV"
+            "XOM",
+            "ABBV",
+            "CVX",
+            "^GSPC"
         ]
     },
     "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
@@ -88,7 +73,7 @@
         "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
-        "providerPublishTime": 1656004695,
+        "providerPublishTime": 1656607035,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -112,100 +97,81 @@
             "PFE"
         ]
     },
-    "c5d60529-0bed-31f3-8057-1eb5372c11f6": {
-        "uuid": "c5d60529-0bed-31f3-8057-1eb5372c11f6",
-        "title": "Got $1,000? Buy These 2 Ultra-High-Yield Dividend Stocks on the Dip",
+    "2bbae5f3-b2dc-3d9c-9fcd-67fb4d3e5772": {
+        "uuid": "2bbae5f3-b2dc-3d9c-9fcd-67fb4d3e5772",
+        "title": "Moody\u2019s reduces outlook for pharma industry, Pfizer to provide additional COVID vaccine doses",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/moody-reduces-outlook-pharma-industry-150018181.html",
+        "providerPublishTime": 1656601218,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gn6wObR3gYCK3.0aGtrLgw--~B/aD0xNTY0O3c9Mjc4NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/52d89ff0-f885-11ec-be7b-8f26ac15cccf",
+                    "width": 2786,
+                    "height": 1564,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_maRk2c45zEoRIYKp3phuQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/52d89ff0-f885-11ec-be7b-8f26ac15cccf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "AZN",
+            "AZNCF",
+            "MCO",
+            "MRK",
+            "JNJ"
+        ]
+    },
+    "1a28e480-a4fb-3322-aa63-c381edb87930": {
+        "uuid": "1a28e480-a4fb-3322-aa63-c381edb87930",
+        "title": "10 Best Dividend Stocks to Buy According to Bernard Horn\u2019s Polaris Capital Management",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-buy-131538505.html",
+        "providerPublishTime": 1656594938,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mK0CnPUWj5QFcbmOYBoqcw--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qfibJO19HIKm5PQARqGhkA--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f48112a5590965a0cc7cd81793318eb",
+                    "width": 473,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1UhQiMbE.MRVaPkaTyK70A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qfibJO19HIKm5PQARqGhkA--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f48112a5590965a0cc7cd81793318eb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FDX",
+            "JPM",
+            "UNH",
+            "ALSN",
+            "COF-PJ",
+            "ABBV",
+            "INTC"
+        ]
+    },
+    "06286248-8eb7-3905-8284-cf71f9f247b8": {
+        "uuid": "06286248-8eb7-3905-8284-cf71f9f247b8",
+        "title": "2 of the Safest Stocks to Buy in a Recession",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c5d60529-0bed-31f3-8057-1eb5372c11f6/got-%241%2C000%3F-buy-these-2.html",
-        "providerPublishTime": 1655996820,
+        "link": "https://finance.yahoo.com/m/06286248-8eb7-3905-8284-cf71f9f247b8/2-of-the-safest-stocks-to-buy.html",
+        "providerPublishTime": 1656582060,
         "type": "STORY",
         "relatedTickers": [
             "ABBV",
-            "TGT"
-        ]
-    },
-    "76a41ff3-4351-3edb-941f-d8f8f8d2ede2": {
-        "uuid": "76a41ff3-4351-3edb-941f-d8f8f8d2ede2",
-        "title": "AbbVie (ABBV) Files Qulipta sNDA for Chronic Migraine Prevention",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-files-qulipta-snda-143202292.html",
-        "providerPublishTime": 1655908322,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5X8hMZQnm54NShg7Nk9fZw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/VTpWEp9iphTX3xsYcMogbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ca9d72216d7bb42fc496430c3df29b41",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FMUInNpgs15mbYXEOfVu1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VTpWEp9iphTX3xsYcMogbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ca9d72216d7bb42fc496430c3df29b41",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "AMGN",
-            "BHVN"
-        ]
-    },
-    "e64aafac-a25f-3d31-86f8-b0fe9fcda578": {
-        "uuid": "e64aafac-a25f-3d31-86f8-b0fe9fcda578",
-        "title": "MAVIRET\u00ae (glecaprevir/pibrentasvir) Approved by Health Canada for Paediatric Patients with Chronic Hepatitis C",
-        "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/maviret-glecaprevir-pibrentasvir-approved-health-120000965.html",
-        "providerPublishTime": 1655899200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XjGkIyxzd06_T8Uu27Uw0w--~B/aD0yMDA7dz0zODc7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/o51qc3LAnIth9iJ6Nt.nyQ--~B/aD0yMDA7dz0zODc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/56339b493b7a180d23c6d0deacd01d82",
-                    "width": 387,
-                    "height": 200,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K_ERkYcy8pOH8pfrhSPyHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o51qc3LAnIth9iJ6Nt.nyQ--~B/aD0yMDA7dz0zODc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/56339b493b7a180d23c6d0deacd01d82",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "7356d9a5-3c8e-3882-9ef5-d8020f318eaf": {
-        "uuid": "7356d9a5-3c8e-3882-9ef5-d8020f318eaf",
-        "title": "Should Franklin LibertyQ U.S. Equity ETF (FLQL) Be on Your Investing Radar?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/franklin-libertyq-u-equity-etf-102010157.html",
-        "providerPublishTime": 1655893210,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 900,
-                    "height": 633,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "ABBV"
+            "ABT"
         ]
     }
 }

@@ -1,10 +1,10 @@
 {
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: EV Maker Breaks Out, Tesla Rival On Cusp",
+        "title": "5 Best Chinese Stocks: Two EV Stocks In Buy Zones",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-ev.html",
-        "providerPublishTime": 1656106434,
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-two-ev.html",
+        "providerPublishTime": 1656710814,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -34,10 +34,10 @@
     },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
         "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: TSLA Rebounds With EV Rival Just Below Buy Point",
+        "title": "Tesla Stock Vs. BYD Stock: EV Giant Breaks Out As It Seizes Tesla's Crown",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1656106284,
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A-ev.html",
+        "providerPublishTime": 1656709164,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -64,23 +64,23 @@
             "RIVN"
         ]
     },
-    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
-        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
-        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
+    "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0": {
+        "uuid": "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0",
+        "title": "China EV Sales Boom: Xpeng Outsells Nio And Li Auto, Nearly Doubling Q2 Sales",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
-        "providerPublishTime": 1656102839,
+        "link": "https://finance.yahoo.com/m/9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0/china-ev-sales-boom%3A-xpeng.html",
+        "providerPublishTime": 1656708940,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bCEKMrEyaX8KL5EJZiGc6A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
                     "width": 1000,
                     "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mfwAI2ZW41zeud1QgzUHDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -88,94 +88,170 @@
             ]
         },
         "relatedTickers": [
-            "BYDDY",
-            "TSLA",
-            "XPEV"
-        ]
-    },
-    "ba9289a8-206e-3567-873f-ae30b1798433": {
-        "uuid": "ba9289a8-206e-3567-873f-ae30b1798433",
-        "title": "Li Auto Stock Breaks Out As China Mulls Extending EV Subsidies, BYD Nears Buy Point",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/ba9289a8-206e-3567-873f-ae30b1798433/li-auto-stock-breaks-out-as.html",
-        "providerPublishTime": 1656015223,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4HEBslGxYmaGD4To.O6gSA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/veZj83yOQkvB_pBd2xXGEQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6f1069b8a138bf7a47627cc57fba948f",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YSsLyIIAd71yhN2jXJ97_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/veZj83yOQkvB_pBd2xXGEQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6f1069b8a138bf7a47627cc57fba948f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LI",
-            "XPEV"
-        ]
-    },
-    "aa0fd6b5-0565-3a21-9070-fbc18d78b924": {
-        "uuid": "aa0fd6b5-0565-3a21-9070-fbc18d78b924",
-        "title": "JPMorgan China Fund Ramps Up Bets on Tech as Bullish Calls Grow",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/jpmorgan-china-fund-ramps-bets-020437461.html",
-        "providerPublishTime": 1655984996,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/S.DpUxIm4uYhDtZzfposfg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/8_FXvYYUIXz8JI9xBV.LFQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/05a9504f608fb3fdb103b439c2ebeb89",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QQhJ2tPEW5TTV5MHJzT6QA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8_FXvYYUIXz8JI9xBV.LFQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/05a9504f608fb3fdb103b439c2ebeb89",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MS",
-            "MS-PO",
-            "JPM",
-            "DB",
-            "BABA",
-            "BABAF",
             "LI",
             "XPEV",
-            "XPNGF",
-            "JD",
-            "JDCMF",
-            "8301.T"
+            "TSLA"
         ]
     },
-    "0d002f38-6bae-3d7f-93f6-422f68476127": {
-        "uuid": "0d002f38-6bae-3d7f-93f6-422f68476127",
-        "title": "Why Nio Shares Were Moving Lower Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0d002f38-6bae-3d7f-93f6-422f68476127/why-nio-shares-were-moving.html",
-        "providerPublishTime": 1655922900,
+    "a062b15f-13ba-3020-bc8f-296dcd1a61e6": {
+        "uuid": "a062b15f-13ba-3020-bc8f-296dcd1a61e6",
+        "title": "NIO, XPeng and Li Auto Deliveries Set a Record. That Can Help Tesla Stock, Too.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a062b15f-13ba-3020-bc8f-296dcd1a61e6/nio%2C-xpeng-and-li-auto.html",
+        "providerPublishTime": 1656707760,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MqLgcAE9.BEcxmAM.UmB5Q--~B/aD03MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RU_QyL6hR.J63UqtHepDnA--~B/aD03MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2d9f348f0ff4bce157904287a3c918de",
-                    "width": 1400,
-                    "height": 704,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HyD0D_YD7wQqKRGu0VU_lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k21Oyaf0aloBDBcNJYIlNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RU_QyL6hR.J63UqtHepDnA--~B/aD03MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2d9f348f0ff4bce157904287a3c918de",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZlF4.mW_TgXp4M4x5HMU5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "^IXIC",
+            "LI",
+            "NIO",
+            "XPEV",
+            "XPNGF"
+        ]
+    },
+    "97304d22-e42d-336e-bb56-b38472611ba5": {
+        "uuid": "97304d22-e42d-336e-bb56-b38472611ba5",
+        "title": "\u2018EV market is on fire\u2019 amid high gas prices: CoPilot CEO",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/ev-market-fire-amid-high-195456216.html",
+        "providerPublishTime": 1656705296,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H98VrPTkYwQ2Xbtd0zQD1g--~B/aD0xNDM3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
+                    "width": 2560,
+                    "height": 1437,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xFB0P4MV_yq0W2zUuaQJMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VLTA",
+            "RB=F",
+            "LCID",
+            "GM",
+            "000270.KS",
+            "RIVN",
+            "LAZR",
+            "HMC",
+            "HNDAF",
+            "F",
+            "XPEV",
+            "XPNGF",
+            "BZ=F",
+            "CL=F",
+            "TSLA",
+            "NIO",
+            "HYMTF",
+            "HO=F",
+            "WTI",
+            "NG=F"
+        ]
+    },
+    "c6d2f83f-71c3-3cad-8fc5-5e45588823ba": {
+        "uuid": "c6d2f83f-71c3-3cad-8fc5-5e45588823ba",
+        "title": "Stock Market Rally Under Pressure; Micron, GM, Nike, RH Warn: Weekly Review",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/c6d2f83f-71c3-3cad-8fc5-5e45588823ba/stock-market-rally-under.html",
+        "providerPublishTime": 1656696999,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IyCcIqhN8wDbY4pHkGg86w--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J36j4iMXElfuNpO2A516xw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9df4b16f0ec065776a942630e7f313b5",
+                    "width": 1065,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_oH1cf4s2MvChqXj16NLMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J36j4iMXElfuNpO2A516xw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9df4b16f0ec065776a942630e7f313b5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MU",
+            "^GSPC",
+            "NKE",
+            "GIS",
+            "XPEV",
+            "LI"
+        ]
+    },
+    "1356faba-cc75-33d0-abee-17a98f38f807": {
+        "uuid": "1356faba-cc75-33d0-abee-17a98f38f807",
+        "title": "Indexes Turn Lower After Briefly Moving Higher; China EV Stocks Fall Despite Record Deliveries",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1356faba-cc75-33d0-abee-17a98f38f807/indexes-turn-lower-after.html",
+        "providerPublishTime": 1656691606,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZWbKbeyVeM8RJzqG_Ci1KQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MAfEN0zb_22.kFNZLqzp4g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PQ2WYpSQC1CTYN6kEHaJ1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MAfEN0zb_22.kFNZLqzp4g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COMP",
+            "^GSPC",
+            "^DJI",
+            "LI",
+            "UNH",
+            "XPEV"
+        ]
+    },
+    "b013ba0a-64f9-3506-be33-4485dd7e6e1e": {
+        "uuid": "b013ba0a-64f9-3506-be33-4485dd7e6e1e",
+        "title": "Chinese automakers Nio, Xpeng, and Li Auto record major year-over-year delivery surges",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/chinese-automakers-nio-xpeng-li-135201969.html",
+        "providerPublishTime": 1656683521,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ni.2QHpddlzNqKTC5DTyFQ--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
+                    "width": 2736,
+                    "height": 1536,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/798e3aWs5YIJIm3H.bIg.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -184,70 +260,10 @@
         },
         "relatedTickers": [
             "NIO",
-            "XPEV"
-        ]
-    },
-    "eef8f959-e4c7-38b2-9a72-bc3cd5ecf220": {
-        "uuid": "eef8f959-e4c7-38b2-9a72-bc3cd5ecf220",
-        "title": "XPENG Reaches 200,000th Delivery Milestone",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/xpeng-reaches-200-000th-delivery-144600825.html",
-        "providerPublishTime": 1655822760,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZDQSMScDgsLUN17wzPOHBQ--~B/aD00ODA7dz0zODQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AZS1uLWYo8IG_tcWuxKJug--~B/aD00ODA7dz0zODQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/2d1e0e285bf820251e368ad862d4bf25",
-                    "width": 384,
-                    "height": 480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WFQC6LdK9OOmvsal1myMlg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AZS1uLWYo8IG_tcWuxKJug--~B/aD00ODA7dz0zODQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/2d1e0e285bf820251e368ad862d4bf25",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV",
-            "XPNGF"
-        ]
-    },
-    "fcd13623-7c81-3592-85af-f0a30c0dfbcb": {
-        "uuid": "fcd13623-7c81-3592-85af-f0a30c0dfbcb",
-        "title": "Dow Jones Jumps: Tesla Soars Despite Job Cuts; Kellogg Pops On Breakup Plan",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/fcd13623-7c81-3592-85af-f0a30c0dfbcb/dow-jones-jumps%3A-tesla-soars.html",
-        "providerPublishTime": 1655822354,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oyeY.pQXPEHKygEE2yTkaw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/WEWlUEOMFjofb0FAIWwZhA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/44ca37b5552c3c4f7e0fb53aa0f25219",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RZ_ZboGBjRVV0x7oRAAjag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WEWlUEOMFjofb0FAIWwZhA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/44ca37b5552c3c4f7e0fb53aa0f25219",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "TSLA",
             "LI",
-            "^DJI",
             "XPEV",
-            "K",
-            "^GSPC",
-            "COMP",
-            "LEN-B",
-            "FANG"
+            "XPNGF"
         ]
     }
 }

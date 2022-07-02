@@ -1,34 +1,21 @@
 {
-    "98ba356d-7170-39da-b0ef-c00a088833e1": {
-        "uuid": "98ba356d-7170-39da-b0ef-c00a088833e1",
-        "title": "Don't Buy Philip Morris Stock. Here Are 2 Better Dividend Payers To Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/98ba356d-7170-39da-b0ef-c00a088833e1/don%27t-buy-philip-morris.html",
-        "providerPublishTime": 1656330900,
-        "type": "STORY",
-        "relatedTickers": [
-            "PM",
-            "PG",
-            "TJX"
-        ]
-    },
-    "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c": {
-        "uuid": "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c",
-        "title": "How can I stop the pain and make money in this nightmarish market? BofA says this is the \u2018best hope\u2019 for bulls in 2022",
+    "3f8a7f74-af86-32e1-84a9-96ce5c1e54a0": {
+        "uuid": "3f8a7f74-af86-32e1-84a9-96ce5c1e54a0",
+        "title": "\u2018Recession is inevitable\u2019: Elon Musk now thinks there\u2019s a greater than 50-50 chance that the economy will decline. Here are 3 simple ways to protect your money",
         "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/stop-pain-money-nightmarish-market-184500964.html",
-        "providerPublishTime": 1656162000,
+        "link": "https://finance.yahoo.com/news/recession-inevitable-elon-musk-now-120000885.html",
+        "providerPublishTime": 1656763200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ODKhZIXKw.TaQFRcHjRzRg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_Lg2lBOVBVEOEJ3tybMqmA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lJgHJ80ikM.YK5efHL5bAQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/59d0d254e83b701fe424847c87669098",
                     "width": 728,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EnLtkWYHGPas8LO.vFFgHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J9VqqAQIW9rcLekzyzpEjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lJgHJ80ikM.YK5efHL5bAQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/59d0d254e83b701fe424847c87669098",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -36,69 +23,184 @@
             ]
         },
         "relatedTickers": [
-            "MSFT",
-            "JNJ",
             "PG",
-            "DIVB",
-            "COWZ",
-            "AAPL",
-            "OXY",
-            "SWCH",
-            "VHYAX",
-            "VYM",
-            "DOW",
-            "VLO"
+            "TSLA",
+            "PEP"
         ]
     },
-    "3b7cc343-34a1-3283-a2cc-39ee27ddfc5d": {
-        "uuid": "3b7cc343-34a1-3283-a2cc-39ee27ddfc5d",
-        "title": "ESG Investing: 7 Profitable Stock Picks for the Socially Responsible",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/esg-investing-7-profitable-stock-141636879.html",
-        "providerPublishTime": 1656080196,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FGl2uwCJ_PNFGm6ol4.nxg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BYRpy8hbwhziY07UU1UJiA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/6d65a6031a4d5ecd01752351ea932dd1",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/A5wgJmNhc9gCwIwQuBBrEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BYRpy8hbwhziY07UU1UJiA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/6d65a6031a4d5ecd01752351ea932dd1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "NVO",
-            "MSCI",
-            "PG",
-            "BBY",
-            "DE"
-        ]
-    },
-    "3728f802-e8a0-3f13-b211-df986710f74e": {
-        "uuid": "3728f802-e8a0-3f13-b211-df986710f74e",
-        "title": "10 Stocks to Profit from Inflation",
+    "244e9e7c-a5a1-35a7-bff3-9597dbd2c461": {
+        "uuid": "244e9e7c-a5a1-35a7-bff3-9597dbd2c461",
+        "title": "Ken Fisher Loves These 10 Defensive Stocks",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-profit-inflation-135403075.html",
-        "providerPublishTime": 1656078843,
+        "link": "https://finance.yahoo.com/news/ken-fisher-loves-10-defensive-140046187.html",
+        "providerPublishTime": 1656684046,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EE8F.ysY.lRtAJ3_g3MaYQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_ENxrG9LflVY25KBcxSAlg--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zATf743IwLtcmxT7mQfeLw--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ccc3f97973fd105548bca9ede345512",
+                    "width": 438,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8Wg.kwD1H8HZambPgxBvOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zATf743IwLtcmxT7mQfeLw--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ccc3f97973fd105548bca9ede345512",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CAT",
+            "JNJ",
+            "UL",
+            "NVO",
+            "PG"
+        ]
+    },
+    "3ee41372-9cd6-3ad1-9034-7a9cd72fc2fe": {
+        "uuid": "3ee41372-9cd6-3ad1-9034-7a9cd72fc2fe",
+        "title": "Billionaire Ray Dalio is Shorting These 10 European Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-ray-dalio-shorting-10-132513209.html",
+        "providerPublishTime": 1656595513,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sEsokCKhedn1IwYjki2pZw--~B/aD02MDA7dz00NDE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/sV4YmwelnKhb08m2Fa0oPw--~B/aD02MDA7dz00NDE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55fbd57ae685a28c6925ef372c3d0d69",
+                    "width": 441,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/19HvKz.0Is7ngTNEtaeTTw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sV4YmwelnKhb08m2Fa0oPw--~B/aD02MDA7dz00NDE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55fbd57ae685a28c6925ef372c3d0d69",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNY",
+            "SAP",
+            "SIEGY",
+            "PG",
+            "PFE"
+        ]
+    },
+    "6a232af4-c3a0-3598-b507-cf460bf16795": {
+        "uuid": "6a232af4-c3a0-3598-b507-cf460bf16795",
+        "title": "10 Best Electric Utility Stocks To Invest In",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-electric-utility-stocks-132319096.html",
+        "providerPublishTime": 1656595399,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TAGueIEi_blgA8kwn.VyrQ--~B/aD05NjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/j3XaJ18jOIEaBqKLxY5OkA--~B/aD05NjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0fbca7d8b12ec2e06509b362aaeee1eb",
+                    "width": 640,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PNqf5RQct4kmaxkvphhe1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j3XaJ18jOIEaBqKLxY5OkA--~B/aD05NjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0fbca7d8b12ec2e06509b362aaeee1eb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SRE",
+            "LNT",
+            "CNP",
+            "CMS",
+            "ED",
+            "PG",
+            "JNJ"
+        ]
+    },
+    "179498be-62ef-3f80-9417-71576a3b7e11": {
+        "uuid": "179498be-62ef-3f80-9417-71576a3b7e11",
+        "title": "5 Dow Stocks Billionaire Money Managers Can't Stop Buying",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/179498be-62ef-3f80-9417-71576a3b7e11/5-dow-stocks-billionaire.html",
+        "providerPublishTime": 1656580860,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m4jR9vZ.iULwNUT6B2NQAQ--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k0HQyX8gw0jtrz70QKrYfg--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7057dc6e83f12c27bcf221ab63d1fe68",
+                    "width": 1400,
+                    "height": 931,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/M5gLf0BlrnU.7XZp2W.l2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k0HQyX8gw0jtrz70QKrYfg--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7057dc6e83f12c27bcf221ab63d1fe68",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "CVX",
+            "CRM",
+            "PG",
+            "MSFT"
+        ]
+    },
+    "bb5dc858-e1f9-3414-a818-4606bc16bf6d": {
+        "uuid": "bb5dc858-e1f9-3414-a818-4606bc16bf6d",
+        "title": "BP to assist with travel expenses for U.S. employees following abortion ruling",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/bb5dc858-e1f9-3414-a818-4606bc16bf6d/bp-to-assist-with-travel.html",
+        "providerPublishTime": 1656543720,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BP",
+            "BPAQF",
+            "TGT",
+            "PG"
+        ]
+    },
+    "05ba0e43-cc7c-319b-a9fc-9587a3fcca47": {
+        "uuid": "05ba0e43-cc7c-319b-a9fc-9587a3fcca47",
+        "title": "Top 10 Dividend Stocks to Buy According to James Katz\u2019s Humankind Investments",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/top-10-dividend-stocks-buy-175047028.html",
+        "providerPublishTime": 1656525047,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2sCuYcSGxQWuqxDpo2NFUA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
                     "width": 750,
                     "height": 500,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tomUGnwyB7JhVGgK.9SUCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/83F9qQtTmpvQdlDulHEdVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -106,33 +208,32 @@
             ]
         },
         "relatedTickers": [
-            "O",
-            "GOLD",
-            "CVX",
-            "MPC",
-            "KO",
+            "PFE",
+            "DE",
+            "AWK",
+            "HCA",
             "PG",
-            "CL",
-            "XOM"
+            "JNJ",
+            "GOOGL"
         ]
     },
-    "4e94334c-d47c-3f12-bd97-805daa0418b3": {
-        "uuid": "4e94334c-d47c-3f12-bd97-805daa0418b3",
-        "title": "7 Safe Stocks to Add to Your Q2 Buy List",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-safe-stocks-add-q2-112938295.html",
-        "providerPublishTime": 1656070178,
+    "8f3304ef-da5a-3fce-a16e-0c35826acfb0": {
+        "uuid": "8f3304ef-da5a-3fce-a16e-0c35826acfb0",
+        "title": "Old Spice and Arby\u2019s Team up for High \"Steaks\" Collaboration to Conquer the Meat Sweats With a Limited-Edition Meat Sweat Defense Kit Drop",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/old-spice-arby-team-high-130000255.html",
+        "providerPublishTime": 1656507600,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IcevwPe0cB1bDGkQDLaTHQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FtSzbBMwp1PcKlnaavZbmg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/82b32829d54d38d74b588444ec7fc879",
-                    "width": 728,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4CKjAPbCAt9y.q4iJhaUtA--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/63LdK_qpLhTiZik5gFRYaA--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/7620aff49d2f2a3e172a7abb11afce51",
+                    "width": 480,
+                    "height": 270,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zL92qBMqCcTPUdLbppOu6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FtSzbBMwp1PcKlnaavZbmg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/82b32829d54d38d74b588444ec7fc879",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xY8tfbzinqSpc3m53.sg6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/63LdK_qpLhTiZik5gFRYaA--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/7620aff49d2f2a3e172a7abb11afce51",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -140,91 +241,7 @@
             ]
         },
         "relatedTickers": [
-            "ADBE",
-            "BRK-B",
-            "CVS",
-            "BLK",
             "PG"
-        ]
-    },
-    "890c69e0-f095-396a-8a8a-0d887b6fb578": {
-        "uuid": "890c69e0-f095-396a-8a8a-0d887b6fb578",
-        "title": "Pringles has a secret recipe for making the irresistible snack",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/890c69e0-f095-396a-8a8a-0d887b6fb578/pringles-has-a-secret-recipe.html",
-        "providerPublishTime": 1656043215,
-        "type": "STORY",
-        "relatedTickers": [
-            "K",
-            "PG"
-        ]
-    },
-    "cd6347f2-2250-3cdd-a63d-c561d738fd43": {
-        "uuid": "cd6347f2-2250-3cdd-a63d-c561d738fd43",
-        "title": "\u2018Recession is inevitable\u2019: Elon Musk now thinks there\u2019s a greater than 50-50 chance that the economy will decline. Here are 3 simple ways to protect your money",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/recession-inevitable-elon-musk-now-192000076.html",
-        "providerPublishTime": 1656012000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VmA9SucIGYX5WBfF14z6TQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hJckr1XEpPi6hbrE5V3QIA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/a56d0fe8e79a354b59ca7124ff442acf",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FhnctV5BqGmTUwsaNiB0hw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hJckr1XEpPi6hbrE5V3QIA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/a56d0fe8e79a354b59ca7124ff442acf",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG",
-            "VCSAX",
-            "VDC",
-            "XLU",
-            "VHCIX",
-            "VHT",
-            "XLP",
-            "TSLA",
-            "IBB",
-            "IHI",
-            "PEP"
-        ]
-    },
-    "65258ee7-0771-3a94-af17-739fc3c49aa7": {
-        "uuid": "65258ee7-0771-3a94-af17-739fc3c49aa7",
-        "title": "5 Dividend Kings to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/65258ee7-0771-3a94-af17-739fc3c49aa7/5-dividend-kings-to-buy-now.html",
-        "providerPublishTime": 1655992662,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IrK_MHox6zmT9DZ7qjgE9Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wMCEEXTOUCtn6KZvRxDS8g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e6c4e653ffa6537b28dcbce11cf6da3f",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/D7wUf6Qzosu1pGUPH4q_bA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wMCEEXTOUCtn6KZvRxDS8g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e6c4e653ffa6537b28dcbce11cf6da3f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABT",
-            "PG",
-            "MMM",
-            "GPC",
-            "AWR"
         ]
     }
 }

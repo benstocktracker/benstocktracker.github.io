@@ -1,4 +1,32 @@
 {
+    "15ea12c4-ea82-3acf-b0ac-36e4fbe975b6": {
+        "uuid": "15ea12c4-ea82-3acf-b0ac-36e4fbe975b6",
+        "title": "1 Green Flag and 1 Red Flag for Jumia Stock",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/15ea12c4-ea82-3acf-b0ac-36e4fbe975b6/1-green-flag-and-1-red-flag.html",
+        "providerPublishTime": 1656417000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/htalDA7a82Z2P_LWiqAEFA--~B/aD05Mjc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/luNoW9oDBI635QdttceCgA--~B/aD05Mjc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c8eacaa64ad7fecc49d52f26495105bf",
+                    "width": 1400,
+                    "height": 927,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/e9P4N6ye61rtX.zmi4hDgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/luNoW9oDBI635QdttceCgA--~B/aD05Mjc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c8eacaa64ad7fecc49d52f26495105bf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JMIA",
+            "AMZN"
+        ]
+    },
     "ebd5f8d6-f679-3bdd-8257-3d456985ad44": {
         "uuid": "ebd5f8d6-f679-3bdd-8257-3d456985ad44",
         "title": "Buy the Dip on These 2 Emerging-Market E-Commerce Stocks",
@@ -181,33 +209,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/Lhl8RyWwu.cZLzuGQsfheA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pbUC.Ym1eY5UVg5fjmo6fw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/72b0ffe027e08158f784177488cd7592",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JMIA"
-        ]
-    },
-    "e667cc4e-9d89-3335-9bd1-ddcdff8fa099": {
-        "uuid": "e667cc4e-9d89-3335-9bd1-ddcdff8fa099",
-        "title": "Jumia Technologies AG-ADR (JMIA) Q1 2022 Earnings Call Transcript",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e667cc4e-9d89-3335-9bd1-ddcdff8fa099/jumia-technologies-ag-adr.html",
-        "providerPublishTime": 1652824851,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-                    "width": 1400,
-                    "height": 1494,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

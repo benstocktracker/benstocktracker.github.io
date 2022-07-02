@@ -1,4 +1,104 @@
 {
+    "09dd68a9-7ca7-3a4a-9fc1-4d2e602900a9": {
+        "uuid": "09dd68a9-7ca7-3a4a-9fc1-4d2e602900a9",
+        "title": "3 Passive Income Opportunities the Bear Market Has Churned Up",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/09dd68a9-7ca7-3a4a-9fc1-4d2e602900a9/3-passive-income.html",
+        "providerPublishTime": 1656768600,
+        "type": "STORY",
+        "relatedTickers": [
+            "PSX",
+            "ET-PD"
+        ]
+    },
+    "bbacd2b8-df8b-3a33-a986-3e8c87f57b83": {
+        "uuid": "bbacd2b8-df8b-3a33-a986-3e8c87f57b83",
+        "title": "Energy Transfer LP (ET) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509564.html",
+        "providerPublishTime": 1656366309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SAL_BV4Lqcz677Hwp3FpIw--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 1000,
+                    "height": 603,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UFSM7lesnJ4LZBk9Z57AzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD",
+            "^GSPC"
+        ]
+    },
+    "438fdef3-25bb-35cd-a2d4-d7af60ada061": {
+        "uuid": "438fdef3-25bb-35cd-a2d4-d7af60ada061",
+        "title": "PBF Logistics LP (PBFX) Stock Jumps 10.5%: Will It Continue to Soar?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pbf-logistics-lp-pbfx-stock-124712917.html",
+        "providerPublishTime": 1656334032,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hbGi6DNvr5JP4FnpdaDqOw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rKKQU6icFw_cY7r5zs2jVg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6c6532143bb000630dd2c034345ca622",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NSC_4BKFAcuSKO3qqS2hzQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rKKQU6icFw_cY7r5zs2jVg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6c6532143bb000630dd2c034345ca622",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PBFX",
+            "ET-PD"
+        ]
+    },
+    "c4e8639a-ed62-3e57-9163-3edced909d01": {
+        "uuid": "c4e8639a-ed62-3e57-9163-3edced909d01",
+        "title": "6 High-Yield Stocks With Good Upside Potential",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/6-high-yield-stocks-good-102153802.html",
+        "providerPublishTime": 1656325313,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kn2lJSpr6xTJavsCydzYqA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2ulRQQ_vXAlvdBG98on8lA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4bf27f13cc4d00f608f26c61f89fa923",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kZRW9xMWphUw2v.g0MsdTw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2ulRQQ_vXAlvdBG98on8lA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4bf27f13cc4d00f608f26c61f89fa923",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STOR",
+            "KT",
+            "DVN",
+            "ET-PD",
+            "LYB",
+            "SRC"
+        ]
+    },
     "34ad2a72-8cf1-386b-90c7-4a071e5dc6c1": {
         "uuid": "34ad2a72-8cf1-386b-90c7-4a071e5dc6c1",
         "title": "3 High-Yield Dividend Stocks That Could Soar",
@@ -111,98 +211,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/Miz1pquU2BWN7p6jEgMnaQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eeFsK50..hTdRBoBNDEyoA--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d2f7ed3d1940141716bfd200f5c94c6b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "4b63c18c-7e90-38ad-abad-5a546d2b02c8": {
-        "uuid": "4b63c18c-7e90-38ad-abad-5a546d2b02c8",
-        "title": "Energy Transfer LP (ET) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-stock-214509166.html",
-        "providerPublishTime": 1655329509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oMKb0aDck8IpQx0xUmmnpQ--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 900,
-                    "height": 618,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/az2jqXhqyZRic77Cn4mQiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "acf235c4-57cb-3b18-a908-8aefbddbb640": {
-        "uuid": "acf235c4-57cb-3b18-a908-8aefbddbb640",
-        "title": "This Energy Stock Wants to Increase Its Already Massive Dividend by Another 50%",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/acf235c4-57cb-3b18-a908-8aefbddbb640/this-energy-stock-wants-to.html",
-        "providerPublishTime": 1655124300,
-        "type": "STORY",
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "c590e438-f640-3408-bc68-a506876b5c13": {
-        "uuid": "c590e438-f640-3408-bc68-a506876b5c13",
-        "title": "Energy Transfer LP (ET) Stock Moves -0.41%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-stock-214509788.html",
-        "providerPublishTime": 1654724709,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NLrcU6JTDovfmseBh3I.Wg--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-                    "width": 900,
-                    "height": 588,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J7VKaGzOB6XGza6KEHjdMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "21477964-bfdf-320c-963c-ade3f1a1547e": {
-        "uuid": "21477964-bfdf-320c-963c-ade3f1a1547e",
-        "title": "Here is What to Know Beyond Why Energy Transfer LP (ET) is a Trending Stock",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/know-beyond-why-energy-transfer-130001263.html",
-        "providerPublishTime": 1654606801,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r3XbmSiK8NsZqGuIQaOcPA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/e0VWXB5.wUFiKGuJPPpLzg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r89o9RH2ZURWvAA6JRf1tA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e0VWXB5.wUFiKGuJPPpLzg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

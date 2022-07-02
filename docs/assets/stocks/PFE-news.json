@@ -1,211 +1,21 @@
 {
-    "9a6f7dfd-febf-37fb-912a-e0504d778fbc": {
-        "uuid": "9a6f7dfd-febf-37fb-912a-e0504d778fbc",
-        "title": "Is Pfizer Stock A Buy After FDA Signs Off On Its Pediatric Covid Vaccine?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9a6f7dfd-febf-37fb-912a-e0504d778fbc/is-pfizer-stock-a-buy-after.html",
-        "providerPublishTime": 1656104359,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aL0JwQMm.inZ1aCmR2jyfg--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VXlE44YwXg8AwqPI_gImww--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f30299e3b2fb410e4254157268387d26",
-                    "width": 1065,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UGNMzQYKLnvtV4azlBFt5Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VXlE44YwXg8AwqPI_gImww--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f30299e3b2fb410e4254157268387d26",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "af0554ce-6893-32b4-a4a1-c63759134e3e": {
-        "uuid": "af0554ce-6893-32b4-a4a1-c63759134e3e",
-        "title": "When Times Are Tough, These 3 Mega-Caps Should Deliver the Dividends",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/af0554ce-6893-32b4-a4a1-c63759134e3e/when-times-are-tough%2C-these-3.html",
-        "providerPublishTime": 1656090000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6Ybk7.9gCtHqyvWcYrooAA--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nEsK_tK5ESXtS.RZbuIkfg--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/a9732c2607e377ff5dc94a49d7f180a8",
-                    "width": 1152,
-                    "height": 768,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Kda23WWxaXuRiwJYx2RhhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nEsK_tK5ESXtS.RZbuIkfg--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/a9732c2607e377ff5dc94a49d7f180a8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "VZ",
-            "AVGO"
-        ]
-    },
-    "0b8ff1e5-3899-3a61-b7cf-703c203bad4a": {
-        "uuid": "0b8ff1e5-3899-3a61-b7cf-703c203bad4a",
-        "title": "U.S. CDC backs Moderna's COVID vaccine for teens, older children",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/u-cdc-backs-modernas-covid-145432438.html",
-        "providerPublishTime": 1656082472,
-        "type": "STORY",
-        "relatedTickers": [
-            "MRNA",
-            "PFE"
-        ]
-    },
-    "ea4a6a8b-5b19-349f-80a8-3c9389f70c15": {
-        "uuid": "ea4a6a8b-5b19-349f-80a8-3c9389f70c15",
-        "title": "CDC Recommends Moderna\u2019s Covid-19 Vaccine for Kids 6 to 17 Years",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/ea4a6a8b-5b19-349f-80a8-3c9389f70c15/cdc-recommends-moderna%E2%80%99s.html",
-        "providerPublishTime": 1656079800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/olIVC3rWzqVjIcit.CXBcA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_zT4VhCYXFuovTIJxzvQgA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f8f2ca1b15625e6b7027dbb1bc94461a",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fUzL4LmhVWx.zlMohEo43A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_zT4VhCYXFuovTIJxzvQgA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f8f2ca1b15625e6b7027dbb1bc94461a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "BNTX",
-            "MRNA",
-            "RGVAX"
-        ]
-    },
-    "3a5938d6-457a-3483-b0d4-c8e2057c83e2": {
-        "uuid": "3a5938d6-457a-3483-b0d4-c8e2057c83e2",
-        "title": "CDC panel backs Moderna vaccine for children aged 6 to 17, and study finds vaccines saved about 20 million lives in their first year",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/3a5938d6-457a-3483-b0d4-c8e2057c83e2/cdc-panel-backs-moderna.html",
-        "providerPublishTime": 1656079380,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/R1lwg1L7R7kmpe.qJ1tFFg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wuVip6DtpDz800U_PKCiag--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/237a6ac7ff716f6d0585b84a49a1a5f4",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2a8SXosAjmJAAJ_lkbywcA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wuVip6DtpDz800U_PKCiag--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/237a6ac7ff716f6d0585b84a49a1a5f4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MRNA",
-            "RGVAX",
-            "PFE",
-            "PHYRF",
-            "YELP",
-            "BNTX"
-        ]
-    },
-    "af17a789-f97c-34d0-acc1-0004aa1598f5": {
-        "uuid": "af17a789-f97c-34d0-acc1-0004aa1598f5",
-        "title": "Pfizer Invites Public to View and Listen to Webcast of July 28 Conference Call with Analysts",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/pfizer-invites-public-view-listen-140000324.html",
-        "providerPublishTime": 1656079200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6WXxDyLgIZ3d4nrJkAsCvg--~B/aD0yMTI7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gCbHVPIpzuLnxWyH30yrMQ--~B/aD0yMTI7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e0308265be6bd3ca311f567ea199a05a",
-                    "width": 480,
-                    "height": 212,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/f.v9kmSNQUXk_Ay7j8ZHYA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gCbHVPIpzuLnxWyH30yrMQ--~B/aD0yMTI7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e0308265be6bd3ca311f567ea199a05a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "330e2243-ecfd-31da-b72f-cae53a01d232": {
-        "uuid": "330e2243-ecfd-31da-b72f-cae53a01d232",
-        "title": "New Data Suggest GSK and Sanofi\u2019s Covid Vaccine Could Pose a Challenge to Pfizer and Moderna",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/330e2243-ecfd-31da-b72f-cae53a01d232/new-data-suggest-gsk-and.html",
-        "providerPublishTime": 1656078600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OEdJ8Uuz4MIt82wKez8GbQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NfiDBdk2nuJD.QH4hjYc0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a9cca133d0b6d8e39b1dcdc77e525574",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o0VJL6J.r2gMJKFabaB3Lg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NfiDBdk2nuJD.QH4hjYc0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a9cca133d0b6d8e39b1dcdc77e525574",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MRNA",
-            "RGVAX",
-            "PFE",
-            "GLAXF",
-            "GSK",
-            "SNY",
-            "SNYNF"
-        ]
-    },
-    "6385632d-9852-3c41-bddb-fb74bf6ef4fe": {
-        "uuid": "6385632d-9852-3c41-bddb-fb74bf6ef4fe",
-        "title": "Novavax (NVAX) Up as EMA Recommends COVID Jab for Adolescents",
+    "c18a1027-558e-3528-b891-487e3534bd4e": {
+        "uuid": "c18a1027-558e-3528-b891-487e3534bd4e",
+        "title": "Pfizer (PFE) Seeks FDA Nod for Its Oral Antiviral COVID Pill",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/novavax-nvax-ema-recommends-covid-133201836.html",
-        "providerPublishTime": 1656077521,
+        "link": "https://finance.yahoo.com/news/pfizer-pfe-seeks-fda-nod-145602424.html",
+        "providerPublishTime": 1656687362,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YPM_9uqp_xjGkriAddfdPw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/IW5EhxEFuSd4V4nUFOhT_A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1e2f63f10f05b0390ba8b63bd4ef031c",
                     "width": 635,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yGqUkvjPGggIqxTHSifQKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IW5EhxEFuSd4V4nUFOhT_A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1e2f63f10f05b0390ba8b63bd4ef031c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -213,9 +23,175 @@
             ]
         },
         "relatedTickers": [
-            "NVAX",
-            "BNTX",
+            "PFE",
+            "ARDS",
+            "MRK"
+        ]
+    },
+    "b539f94b-502d-3018-a5d0-d9fc608c45b4": {
+        "uuid": "b539f94b-502d-3018-a5d0-d9fc608c45b4",
+        "title": "FDA Recommends Adding New Omicron Subvariants to COVID Boosters",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/fda-recommends-adding-omicron-subvariants-134501173.html",
+        "providerPublishTime": 1656683101,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vx1BotKZKdGvCUJ4phKNhQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qkfvcD5UVKxFwlSjFlzRnQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cef97d1211666d37f76815b1793fed92",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wbH8KjE_HSaFPcPuN_tldg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qkfvcD5UVKxFwlSjFlzRnQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cef97d1211666d37f76815b1793fed92",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MRNA",
+            "PFE",
+            "BNTX"
+        ]
+    },
+    "b2c94001-a5b8-394d-838e-094f3fe01e21": {
+        "uuid": "b2c94001-a5b8-394d-838e-094f3fe01e21",
+        "title": "Is Trending Stock Pfizer Inc. (PFE) a Buy Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/trending-stock-pfizer-inc-pfe-130001110.html",
+        "providerPublishTime": 1656680401,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SAL_BV4Lqcz677Hwp3FpIw--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 1000,
+                    "height": 603,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UFSM7lesnJ4LZBk9Z57AzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "PFE"
+        ]
+    },
+    "6e9223f5-c831-3155-9589-8200804cc636": {
+        "uuid": "6e9223f5-c831-3155-9589-8200804cc636",
+        "title": "FDA Expert Panel Favors COVID-19 Boosters Targeting Omicron BA.4, BA.5 Subvariants",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/fda-expert-panel-favors-covid-122431468.html",
+        "providerPublishTime": 1656678271,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z7SuWggtpRlM8x.KAvVW_g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nVErdUgqrhjQJn9QsM4.Wg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/59eac81b38efea26e6a2723cd22a9ecf",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mjte.yMaQ3xuG27pfVMD5w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nVErdUgqrhjQJn9QsM4.Wg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/59eac81b38efea26e6a2723cd22a9ecf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "BNTX"
+        ]
+    },
+    "1d209722-cdde-3d96-823c-48f7245e5786": {
+        "uuid": "1d209722-cdde-3d96-823c-48f7245e5786",
+        "title": "The Zacks Analyst Blog Highlights Sanofi, Merck, Novartis, Pfizer and J&J",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-sanofi-105710693.html",
+        "providerPublishTime": 1656673030,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pf.CrxmGxoiX1XZr_9.OAg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/MPLv._QOfr9ekgf5qyZbUA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4c89fa4c828d913dc49739912177a966",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5h7Db5nwj_QY3XqrjLuLuQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MPLv._QOfr9ekgf5qyZbUA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4c89fa4c828d913dc49739912177a966",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "MRK",
+            "SNY",
+            "NVS"
+        ]
+    },
+    "74d9081a-60b8-3f8f-bf70-b19796f9e543": {
+        "uuid": "74d9081a-60b8-3f8f-bf70-b19796f9e543",
+        "title": "Why Pfizer Popped While the Market Flopped Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/74d9081a-60b8-3f8f-bf70-b19796f9e543/why-pfizer-popped-while-the.html",
+        "providerPublishTime": 1656629899,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "23e182e3-0fd8-3be6-bfee-c3ef6c195758": {
+        "uuid": "23e182e3-0fd8-3be6-bfee-c3ef6c195758",
+        "title": "RPT-UPDATE 4-US FDA wants COVID boosters targeting Omicron BA.4, BA.5 subvariants",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/rpt-4-us-fda-wants-213411700.html",
+        "providerPublishTime": 1656624851,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "5be9390a-7e7d-326d-b89a-a40eab0127fd": {
+        "uuid": "5be9390a-7e7d-326d-b89a-a40eab0127fd",
+        "title": "The FDA Just Handed BioNTech And Moderna A Gift \u2014 But Only One Jumped",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/5be9390a-7e7d-326d-b89a-a40eab0127fd/the-fda-just-handed-biontech.html",
+        "providerPublishTime": 1656619817,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ah1YTTj8KAr1jidGE8UthA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yDNpGRLTHdwYyeEVQtPj9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6911192bbf5259454895e47b2d8f14fd",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kIX8BFjPeLQsIH52LQeXUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yDNpGRLTHdwYyeEVQtPj9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6911192bbf5259454895e47b2d8f14fd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BNTX",
+            "MRNA",
+            "PFE",
+            "NVAX"
         ]
     }
 }

@@ -1,21 +1,21 @@
 {
-    "8aa775cd-16ee-3c21-9e4b-f3195c085a65": {
-        "uuid": "8aa775cd-16ee-3c21-9e4b-f3195c085a65",
-        "title": "JPMorgan, Citi, Goldman and Bank of America will cover out-of-state abortion costs for employees",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/8aa775cd-16ee-3c21-9e4b-f3195c085a65/jpmorgan%2C-citi%2C-goldman-and.html",
-        "providerPublishTime": 1656332160,
+    "b0c92b4c-5131-352a-a4fa-df2c8983d948": {
+        "uuid": "b0c92b4c-5131-352a-a4fa-df2c8983d948",
+        "title": "General Mills and Micron Raised Their Dividends. Banks Should Be Lifting Theirs Soon, Too.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/b0c92b4c-5131-352a-a4fa-df2c8983d948/general-mills-and-micron.html",
+        "providerPublishTime": 1656763200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6.8802dWg75q5bX7EYZdHw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QEWJapMneavXO6q0aTMWpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/90b75e3b17fa98acd610a01e984d41ef",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/W4SbGlnBqht0JbhMldRSvg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DXOx0MkJmFE3ktbvn.Gghg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/30996e4bc20baa094ba301a8a8c15324",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6cio70NM_4bcO7ulyycYLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QEWJapMneavXO6q0aTMWpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/90b75e3b17fa98acd610a01e984d41ef",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q2udWoVwLXHWJ.WXRlXxaQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DXOx0MkJmFE3ktbvn.Gghg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/30996e4bc20baa094ba301a8a8c15324",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,83 +23,33 @@
             ]
         },
         "relatedTickers": [
+            "^GSPC",
             "BAC",
             "BAC-PQ",
             "BAC-PS",
-            "C",
-            "GS",
-            "JPM"
+            "WFC",
+            "WFC-PD",
+            "GIS",
+            "MU"
         ]
     },
-    "e1b5257e-dad4-3577-aea8-c31dffb554a0": {
-        "uuid": "e1b5257e-dad4-3577-aea8-c31dffb554a0",
-        "title": "2 Bank Stocks That Could Be Huge Winners for Patient Investors",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e1b5257e-dad4-3577-aea8-c31dffb554a0/2-bank-stocks-that-could-be.html",
-        "providerPublishTime": 1656325320,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC",
-            "ALLY"
-        ]
-    },
-    "6906ce80-2f7c-3eda-a5c4-77a0292febab": {
-        "uuid": "6906ce80-2f7c-3eda-a5c4-77a0292febab",
-        "title": "These Warren Buffett Dividend Stocks Can Make You $10,000 in Passive Income",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/6906ce80-2f7c-3eda-a5c4-77a0292febab/these-warren-buffett-dividend.html",
-        "providerPublishTime": 1656242520,
-        "type": "STORY",
-        "relatedTickers": [
-            "CVX",
-            "BAC"
-        ]
-    },
-    "3091cea9-88a8-3f72-8b31-044d050f0331": {
-        "uuid": "3091cea9-88a8-3f72-8b31-044d050f0331",
-        "title": "Warren Buffett's 10 Top Dividend Stocks to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3091cea9-88a8-3f72-8b31-044d050f0331/warren-buffett%27s-10-top.html",
-        "providerPublishTime": 1656238920,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC",
-            "MA",
-            "^GSPC",
-            "AAPL",
-            "STOR"
-        ]
-    },
-    "0b1ca213-c593-39c8-8167-7d542a339fab": {
-        "uuid": "0b1ca213-c593-39c8-8167-7d542a339fab",
-        "title": "Here's How 5 Warren Buffett Stocks Would Perform in a Severe Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0b1ca213-c593-39c8-8167-7d542a339fab/here%27s-how-5-warren-buffett.html",
-        "providerPublishTime": 1656238500,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC",
-            "C",
-            "AXP"
-        ]
-    },
-    "0f3c534a-7e0f-3346-a6e7-6b92915433a7": {
-        "uuid": "0f3c534a-7e0f-3346-a6e7-6b92915433a7",
-        "title": "Got $5,000? Buy and Hold These 3 Value Stocks for Years",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0f3c534a-7e0f-3346-a6e7-6b92915433a7/got-%245%2C000%3F-buy-and-hold.html",
-        "providerPublishTime": 1656238200,
+    "15d22ddf-6206-3c07-af6a-692724b56810": {
+        "uuid": "15d22ddf-6206-3c07-af6a-692724b56810",
+        "title": "Wall Street profit expectations for megabanks cooled only slightly despite deep freeze in stocks",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/15d22ddf-6206-3c07-af6a-692724b56810/wall-street-profit.html",
+        "providerPublishTime": 1656694440,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/huV215dhZYjUv.iw0u_LFg--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cjL7f1z1_4JNOZcGV9MyTQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/51f3676e5d388e3a57a495b06a18236d",
-                    "width": 1400,
-                    "height": 841,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uxOs00UvwvJTsUkBRzLXzw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kHwwqq9N1uEGti.HFw4iog--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0dd119bbb4b8461fd047e121afaf41e3",
+                    "width": 1279,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WYKsdY1caqTA5vqQwSy2kA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cjL7f1z1_4JNOZcGV9MyTQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/51f3676e5d388e3a57a495b06a18236d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WJq0nvadorPPeJZaEzxUfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kHwwqq9N1uEGti.HFw4iog--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0dd119bbb4b8461fd047e121afaf41e3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -107,28 +57,91 @@
             ]
         },
         "relatedTickers": [
-            "META",
-            "MU",
-            "BAC"
+            "GS",
+            "WFC",
+            "WFC-PD",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "MS",
+            "MS-PO",
+            "C"
         ]
     },
-    "1aabc1be-3a7f-3ac6-87a3-646d39fe21b7": {
-        "uuid": "1aabc1be-3a7f-3ac6-87a3-646d39fe21b7",
-        "title": "Merrill Edge vs. Vanguard",
-        "publisher": "Investopedia",
-        "link": "https://finance.yahoo.com/m/1aabc1be-3a7f-3ac6-87a3-646d39fe21b7/merrill-edge-vs.-vanguard.html",
-        "providerPublishTime": 1656175794,
+    "3d3cf7a5-2ea8-3137-a5ba-457a9bdc92f6": {
+        "uuid": "3d3cf7a5-2ea8-3137-a5ba-457a9bdc92f6",
+        "title": "Bank of America (BAC) Loses 30% in 1H: Is It Worth a Look?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/bank-america-bac-loses-30-143502992.html",
+        "providerPublishTime": 1656686102,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OKwMcOPfNN3HslW4YFiVRw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/_Hc_.xcOcgK3FrQ47vhbfA--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investopedia.com/1f25a5df0ebfe4e649dcbf8d16bc9ad2",
-                    "width": 1500,
-                    "height": 1000,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sTRU0JMDedstRLT48I2zXg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/45SmzOsQ7DFtz.c.NJ.lPQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/eaae393aa5b2d4c0b3afb35ffb7dc1e0",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ppz8JFP2SGw4RrndnnSmAA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_Hc_.xcOcgK3FrQ47vhbfA--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investopedia.com/1f25a5df0ebfe4e649dcbf8d16bc9ad2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dHO1Xm5hdKpkCRtfPGZDqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/45SmzOsQ7DFtz.c.NJ.lPQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/eaae393aa5b2d4c0b3afb35ffb7dc1e0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC"
+        ]
+    },
+    "09be2760-ffe9-358e-bc43-9db33a727d92": {
+        "uuid": "09be2760-ffe9-358e-bc43-9db33a727d92",
+        "title": "3 Warren Buffett Stocks to Buy Hand Over Fist in July",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/09be2760-ffe9-358e-bc43-9db33a727d92/3-warren-buffett-stocks-to.html",
+        "providerPublishTime": 1656666360,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2emdtaUTcxbr6gVTUSvpjg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EU5a6pIZJV6.O93QfyaBjQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5dd9f1d5dc62b96cacd196e81efd632b",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JU26OMFNOiSprxag7hmV1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EU5a6pIZJV6.O93QfyaBjQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5dd9f1d5dc62b96cacd196e81efd632b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC",
+            "ATVI",
+            "GM",
+            "MSFT"
+        ]
+    },
+    "fae1e773-14dc-3f1d-8337-503a87034d5c": {
+        "uuid": "fae1e773-14dc-3f1d-8337-503a87034d5c",
+        "title": "Bank of America: Small business owners in Orlando confident in their revenue \u2014 but not the local economy",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/fae1e773-14dc-3f1d-8337-503a87034d5c/bank-of-america%3A-small.html",
+        "providerPublishTime": 1656615720,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XkdAEdhIZmXf1RRI5LIUxQ--~B/aD0zMzg7dz01MDc7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/musFkXvnOJuwXhP078DRcQ--~B/aD0zMzg7dz01MDc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bizjournals.com/7f01273ddb4b21f3a51721fa36b4681e",
+                    "width": 507,
+                    "height": 338,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/30F0o5ZdCQC0IGSt71oRfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/musFkXvnOJuwXhP078DRcQ--~B/aD0zMzg7dz01MDc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bizjournals.com/7f01273ddb4b21f3a51721fa36b4681e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -141,23 +154,52 @@
             "BAC-PS"
         ]
     },
-    "6a5cc745-606c-332b-967e-e0f3145390b3": {
-        "uuid": "6a5cc745-606c-332b-967e-e0f3145390b3",
-        "title": "Bank of America will cover employee travel costs for abortions",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/bank-america-cover-employee-travel-202622515.html",
-        "providerPublishTime": 1656102382,
+    "94a0f8c3-f5d0-33b0-9226-25326353a536": {
+        "uuid": "94a0f8c3-f5d0-33b0-9226-25326353a536",
+        "title": "Fulton Financial (FULT) to Scrap NSF Fees for Consumer Accounts",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/fulton-financial-fult-scrap-nsf-155303243.html",
+        "providerPublishTime": 1656604383,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rEj.5.Er_yd14Mawpg2ITw--~B/aD01MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HZRLzABuOh9KrcAhhfFSxQ--~B/aD01MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/288eb5baeddbdd6203ae058e9b6c91d5",
-                    "width": 800,
-                    "height": 514,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ClhNyTIcf3OSbiU6tYO6iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9n5J.UptRJqJb47tOThHZg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8ad39932508a62efeea9352d9940cae1",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/79OHglDtER.XJ0pILUpEpA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HZRLzABuOh9KrcAhhfFSxQ--~B/aD01MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/288eb5baeddbdd6203ae058e9b6c91d5",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/D8V1Ig7eMALIgolAMSVmkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9n5J.UptRJqJb47tOThHZg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8ad39932508a62efeea9352d9940cae1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FULTP",
+            "C",
+            "BAC"
+        ]
+    },
+    "79c73dbb-c358-3dcd-a727-b0a317469ae7": {
+        "uuid": "79c73dbb-c358-3dcd-a727-b0a317469ae7",
+        "title": "Is Most-Watched Stock Bank of America Corporation (BAC) Worth Betting on Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/most-watched-stock-bank-america-130001988.html",
+        "providerPublishTime": 1656594001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/98.a1RXLLn1auNXiH78frA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+                    "width": 900,
+                    "height": 602,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TtLwuPCMf6GMxPk1IqJQsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -166,6 +208,43 @@
         },
         "relatedTickers": [
             "BAC"
+        ]
+    },
+    "94bd555c-7703-364f-a164-87c15b070285": {
+        "uuid": "94bd555c-7703-364f-a164-87c15b070285",
+        "title": "Fidelity Investments expands employee coverage in wake of Roe ruling",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/94bd555c-7703-364f-a164-87c15b070285/fidelity-investments-expands.html",
+        "providerPublishTime": 1656526912,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Orq1CSIUm7IzIZ8UR7shTQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fdP9JI9U.nTrhmRni3izkw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/43ad186c66374e57711b703eda448bb4",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/X1Rls6u2amM2kezP31EB.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fdP9JI9U.nTrhmRni3izkw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/43ad186c66374e57711b703eda448bb4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CFG",
+            "CFG-PD",
+            "CFG-PE",
+            "STT",
+            "STT-PD",
+            "STT-PG",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "WFC",
+            "WFC-PD"
         ]
     }
 }

@@ -1,4 +1,104 @@
 {
+    "f53d9182-ea5d-3453-9f5a-f5c319e83abc": {
+        "uuid": "f53d9182-ea5d-3453-9f5a-f5c319e83abc",
+        "title": "New Investor? These Real Estate Stocks Should Be on Your Shopping List",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f53d9182-ea5d-3453-9f5a-f5c319e83abc/new-investor%3F-these-real.html",
+        "providerPublishTime": 1656603900,
+        "type": "STORY",
+        "relatedTickers": [
+            "FRT",
+            "WPC",
+            "UDR"
+        ]
+    },
+    "4998364a-bc07-38e2-ac8e-8507b46a61f9": {
+        "uuid": "4998364a-bc07-38e2-ac8e-8507b46a61f9",
+        "title": "Want to Get Richer? 2 REITs to Add to Your Portfolio",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4998364a-bc07-38e2-ac8e-8507b46a61f9/want-to-get-richer%3F-2-reits.html",
+        "providerPublishTime": 1656589680,
+        "type": "STORY",
+        "relatedTickers": [
+            "NNN",
+            "FRT"
+        ]
+    },
+    "7d74f278-d9de-36f8-997d-e4319ae03865": {
+        "uuid": "7d74f278-d9de-36f8-997d-e4319ae03865",
+        "title": "3 High-Yield REITs That Have Made Me a Ton of Money",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7d74f278-d9de-36f8-997d-e4319ae03865/3-high-yield-reits-that-have.html",
+        "providerPublishTime": 1656418500,
+        "type": "STORY",
+        "relatedTickers": [
+            "IIPR",
+            "FRT"
+        ]
+    },
+    "f3ae9cdb-15d9-315f-addb-7c39082394c1": {
+        "uuid": "f3ae9cdb-15d9-315f-addb-7c39082394c1",
+        "title": "7 REITs to Buy for a Bear Market",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-reits-buy-bear-market-100128574.html",
+        "providerPublishTime": 1656410488,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DgcQAwgsTEInZ2lQJpEnTw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lwPv4ef4G0lDy6HYkt6J6Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/995c83850fed037244008514fb895569",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uiolv7fIZGgXQCqG8ZR.nw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lwPv4ef4G0lDy6HYkt6J6Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/995c83850fed037244008514fb895569",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DLR-PK",
+            "FRT",
+            "WELL",
+            "PSA-PM",
+            "PEAK"
+        ]
+    },
+    "3e939ea2-0e2e-376c-907b-df6bd8f6a975": {
+        "uuid": "3e939ea2-0e2e-376c-907b-df6bd8f6a975",
+        "title": "Q&A: How longtime REIT executive plans to deploy $500M-plus in US real estate development",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/3e939ea2-0e2e-376c-907b-df6bd8f6a975/q%26a%3A-how-longtime-reit.html",
+        "providerPublishTime": 1656338167,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rzwc.4bk5bam4XtAek3K9Q--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/eLq6X.SdnkAOh0tlgF8Bnw--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/a93bd2eec6a4e3e22c8d546e5ce00845",
+                    "width": 1440,
+                    "height": 2160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YiJz1xrcLoxxs_GYE0zzog--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eLq6X.SdnkAOh0tlgF8Bnw--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/a93bd2eec6a4e3e22c8d546e5ce00845",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT",
+            "FRT-PC",
+            "SAND",
+            "CDR",
+            "CDR-PB",
+            "CDR-PC"
+        ]
+    },
     "48828afe-62e9-3326-bbb3-c3f18adfe162": {
         "uuid": "48828afe-62e9-3326-bbb3-c3f18adfe162",
         "title": "Trade Alert: The Independent Non-Executive Chairman of the Board Of Federal Realty Investment Trust (NYSE:FRT), David Faeder, Has Just Spent US$1.0m Buying 79% More Shares",
@@ -81,156 +181,6 @@
         "relatedTickers": [
             "FRT",
             "FRT-PC"
-        ]
-    },
-    "73e315df-339f-31e7-a175-84c790913319": {
-        "uuid": "73e315df-339f-31e7-a175-84c790913319",
-        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Finance Names",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001567.html",
-        "providerPublishTime": 1655816401,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QTwafwrkeqiRFbIZ5ZBXFg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/apbC75v0joJeGGZArvqIvw--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/105b2acef7bf0873f24b78932b1fdc3c",
-                    "width": 900,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9PhM3ZlBopegGosMLV3W7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/apbC75v0joJeGGZArvqIvw--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/105b2acef7bf0873f24b78932b1fdc3c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT"
-        ]
-    },
-    "bd3d90de-9dea-3805-bfa9-e7e6c75991c2": {
-        "uuid": "bd3d90de-9dea-3805-bfa9-e7e6c75991c2",
-        "title": "In Tough Times, Move in on These 3 High-Yield REITs",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/bd3d90de-9dea-3805-bfa9-e7e6c75991c2/in-tough-times%2C-move-in-on.html",
-        "providerPublishTime": 1655492100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2EVmYe85AWWFUYtbxikUrA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5qWqZqlF1IMdobZuE3P1jg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/1328e770306694fd16ef0a171aa6ab91",
-                    "width": 1200,
-                    "height": 800,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_7lsiLEwHwYtRwFzbAx0EA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5qWqZqlF1IMdobZuE3P1jg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/1328e770306694fd16ef0a171aa6ab91",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ESS",
-            "O",
-            "FRT"
-        ]
-    },
-    "8b99d95a-5949-3255-a170-3838fce2af09": {
-        "uuid": "8b99d95a-5949-3255-a170-3838fce2af09",
-        "title": "Trader Joe's hunting for bigger space in Springfield as nearby Whole Foods makes a move",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/8b99d95a-5949-3255-a170-3838fce2af09/trader-joe%27s-hunting-for.html",
-        "providerPublishTime": 1655484281,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PoOMosKzj9bSl0sew4wvAA--~B/aD03NTc7dz0xMTM2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6V1Z8IaCVYtr4WEbbsGh2w--~B/aD03NTc7dz0xMTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/7815bd1593bd85ad5f22c543b13749db",
-                    "width": 1136,
-                    "height": 757,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZMypLCpLKPN6EJ_sCJB48Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6V1Z8IaCVYtr4WEbbsGh2w--~B/aD03NTc7dz0xMTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/7815bd1593bd85ad5f22c543b13749db",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC",
-            "AMZN"
-        ]
-    },
-    "b2fcf4b4-3e8d-359d-b951-f925dba353b4": {
-        "uuid": "b2fcf4b4-3e8d-359d-b951-f925dba353b4",
-        "title": "7 Dividend Stocks to Watch for Stable Income",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-dividend-stocks-watch-stable-135236804.html",
-        "providerPublishTime": 1655128356,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Sok9FnxLZLSRIg.0nFfhiA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/j2M.cF_Qef2xWbyhTOPF5g--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/16ac6196ad045030af847fa8edceffe6",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JuPb2KxS0kkinX_u01b2kg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j2M.cF_Qef2xWbyhTOPF5g--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/16ac6196ad045030af847fa8edceffe6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XOM",
-            "CLX",
-            "KO",
-            "FRT",
-            "EMR",
-            "ED",
-            "CL"
-        ]
-    },
-    "3fea6c50-9558-3f37-b7d8-065110b8628f": {
-        "uuid": "3fea6c50-9558-3f37-b7d8-065110b8628f",
-        "title": "10 Best Passive Income Stocks to Buy Now",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-passive-income-stocks-133108242.html",
-        "providerPublishTime": 1654522268,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yLaxRc1bttbgV3m00GJ94A--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Y9F4heeJARtF8QICknDrsg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3e2998b6f10afcbdeff233440f80e8eb",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7G7gd3QxeUm6RQ9LX0buEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Y9F4heeJARtF8QICknDrsg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3e2998b6f10afcbdeff233440f80e8eb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "O",
-            "BEP",
-            "HD",
-            "MPW",
-            "FRT",
-            "VZ"
         ]
     }
 }

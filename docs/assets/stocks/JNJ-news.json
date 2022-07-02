@@ -1,21 +1,153 @@
 {
-    "4769a53f-9ab5-39c9-9bd6-89ad11741927": {
-        "uuid": "4769a53f-9ab5-39c9-9bd6-89ad11741927",
-        "title": "Dow Jones Futures Rise As Stock Market Rally Continues; 6 Top Stocks To Buy And Watch",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4769a53f-9ab5-39c9-9bd6-89ad11741927/dow-jones-futures-rise-as.html",
-        "providerPublishTime": 1656332338,
+    "c3335301-5545-392c-ad90-ee38c94c9461": {
+        "uuid": "c3335301-5545-392c-ad90-ee38c94c9461",
+        "title": "3 High-Growth Stocks That Could Be Worth $1 Trillion in 10 Years -- or Sooner",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c3335301-5545-392c-ad90-ee38c94c9461/3-high-growth-stocks-that.html",
+        "providerPublishTime": 1656765180,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/T9JL4lZKEuAtjKfPXmCBCA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HDjemjYlp7Z5vRwiz3dW9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XbIDj6MeYaCihFul6Rmzuw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HFQaEmlola1IxWov2kb2VA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/07b7fabc4e5dd7fd4275baf3ba68c0dc",
+                    "width": 1400,
+                    "height": 752,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WNfZoPN2FmUgehFq_0NXVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HDjemjYlp7Z5vRwiz3dW9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.lFui6AC8juErt6GPL7AiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HFQaEmlola1IxWov2kb2VA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/07b7fabc4e5dd7fd4275baf3ba68c0dc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "V"
+        ]
+    },
+    "5c5018ce-9469-3c76-a94d-2675ea9cf9a0": {
+        "uuid": "5c5018ce-9469-3c76-a94d-2675ea9cf9a0",
+        "title": "Stock Market Plunge: 2 Buffett Stocks to Buy Now and Hold Forever",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/5c5018ce-9469-3c76-a94d-2675ea9cf9a0/stock-market-plunge%3A-2.html",
+        "providerPublishTime": 1656759180,
+        "type": "STORY",
+        "relatedTickers": [
+            "AMZN",
+            "JNJ"
+        ]
+    },
+    "65bd968c-f4e6-3b05-810d-46e0abb5f3bf": {
+        "uuid": "65bd968c-f4e6-3b05-810d-46e0abb5f3bf",
+        "title": "4 of the Safest Dividend Stocks Retirees Can Confidently Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/65bd968c-f4e6-3b05-810d-46e0abb5f3bf/4-of-the-safest-dividend.html",
+        "providerPublishTime": 1656753660,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QB6tjstXzM7ooCnBus0q8g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KOmaqm4J_4rlYMzdeXW2SA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/010f1aad0a01e579193f89db77b8fa8d",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6SdZXjJww6bWxyQHr3.lyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KOmaqm4J_4rlYMzdeXW2SA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/010f1aad0a01e579193f89db77b8fa8d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "EPD",
+            "T-PC",
+            "SPGI"
+        ]
+    },
+    "b9ca6ba7-89e4-3187-aeaa-b00444f32dac": {
+        "uuid": "b9ca6ba7-89e4-3187-aeaa-b00444f32dac",
+        "title": "The U.S. bets billions of dollars on better COVID-19 boosters as it prepares for a spike in COVID-19 cases in the coming months",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/b9ca6ba7-89e4-3187-aeaa-b00444f32dac/the-u.s.-bets-billions-of.html",
+        "providerPublishTime": 1656702840,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JLa4G0Hh0noT_2WfNX3bUg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nY4sKVqE4h7zrZj2gbML0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d3c92f9817fc9c9b560ab6f5a2163a0e",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SwtJiQcLKDjpN9qzd_30rw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nY4sKVqE4h7zrZj2gbML0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d3c92f9817fc9c9b560ab6f5a2163a0e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "LLY",
+            "MRNA",
+            "BNTX",
+            "NVAX"
+        ]
+    },
+    "244e9e7c-a5a1-35a7-bff3-9597dbd2c461": {
+        "uuid": "244e9e7c-a5a1-35a7-bff3-9597dbd2c461",
+        "title": "Ken Fisher Loves These 10 Defensive Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/ken-fisher-loves-10-defensive-140046187.html",
+        "providerPublishTime": 1656684046,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_ENxrG9LflVY25KBcxSAlg--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zATf743IwLtcmxT7mQfeLw--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ccc3f97973fd105548bca9ede345512",
+                    "width": 438,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8Wg.kwD1H8HZambPgxBvOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zATf743IwLtcmxT7mQfeLw--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ccc3f97973fd105548bca9ede345512",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CAT",
+            "JNJ",
+            "UL",
+            "NVO",
+            "PG"
+        ]
+    },
+    "be5a723e-0d31-3283-a0a0-f022e51f6dbe": {
+        "uuid": "be5a723e-0d31-3283-a0a0-f022e51f6dbe",
+        "title": "Dow Jones Climbs After Worst First Half Since 1962; Chinese EV Makers Report Strong Sales",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/be5a723e-0d31-3283-a0a0-f022e51f6dbe/dow-jones-climbs-after-worst.html",
+        "providerPublishTime": 1656683287,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XG1Cilm4m9sqDQuXAXHS8A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HME7bjDNxCfTwCdf5AlSAA--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1638b50f48ccb578a21f2d2029b5ce1e",
+                    "width": 1012,
+                    "height": 572,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Izz7GkqhHU4ApE3riaP8XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HME7bjDNxCfTwCdf5AlSAA--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1638b50f48ccb578a21f2d2029b5ce1e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -26,189 +158,47 @@
             "^DJI",
             "TSLA",
             "JNJ",
-            "AZO",
             "LLY",
-            "PWR"
+            "MU"
         ]
     },
-    "f434a935-2be3-3130-8328-c501bfef8d74": {
-        "uuid": "f434a935-2be3-3130-8328-c501bfef8d74",
-        "title": "2 Dividend Stocks for a Lifetime of Passive Income",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f434a935-2be3-3130-8328-c501bfef8d74/2-dividend-stocks-for-a.html",
-        "providerPublishTime": 1656322380,
+    "08e78aa8-b76c-3c96-b32f-1ed97c459768": {
+        "uuid": "08e78aa8-b76c-3c96-b32f-1ed97c459768",
+        "title": "Should Vanguard High Dividend Yield ETF (VYM) Be on Your Investing Radar?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/vanguard-high-dividend-yield-etf-102010212.html",
+        "providerPublishTime": 1656670810,
         "type": "STORY",
-        "relatedTickers": [
-            "JNJ",
-            "ABT",
-            "^GSPC"
-        ]
-    },
-    "cd4adceb-c123-3680-96e9-0842e419414c": {
-        "uuid": "cd4adceb-c123-3680-96e9-0842e419414c",
-        "title": "Could Johnson & Johnson Stock Help You Retire A Millionaire?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cd4adceb-c123-3680-96e9-0842e419414c/could-johnson-%26-johnson-stock.html",
-        "providerPublishTime": 1656240900,
-        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P9MYT7bkg6gW.LAUks5bQg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+                    "width": 900,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G6Kfmbo.AIHKSvpKRICHXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
             "JNJ"
         ]
     },
-    "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c": {
-        "uuid": "a8fc50ae-b9bb-34bd-a88a-752e7c28e32c",
-        "title": "How can I stop the pain and make money in this nightmarish market? BofA says this is the \u2018best hope\u2019 for bulls in 2022",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/stop-pain-money-nightmarish-market-184500964.html",
-        "providerPublishTime": 1656162000,
+    "a68b28de-e772-31ba-b679-221fbd7588d1": {
+        "uuid": "a68b28de-e772-31ba-b679-221fbd7588d1",
+        "title": "COVID SCIENCE-Pausing methotrexate improves booster response; first-trimester of pregnancy vaccination most beneficial",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/covid-science-pausing-methotrexate-improves-182247818.html",
+        "providerPublishTime": 1656613367,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ODKhZIXKw.TaQFRcHjRzRg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EnLtkWYHGPas8LO.vFFgHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ua9FWWV_fN_fKe9y8HFe7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5453911ba84458d205aaf167b4e6b9be",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "MSFT",
-            "JNJ",
-            "PG",
-            "DIVB",
-            "COWZ",
-            "AAPL",
-            "OXY",
-            "SWCH",
-            "VHYAX",
-            "VYM",
-            "DOW",
-            "VLO"
-        ]
-    },
-    "dace7072-4887-31d8-9d81-9b2a1c5f4ebb": {
-        "uuid": "dace7072-4887-31d8-9d81-9b2a1c5f4ebb",
-        "title": "Dow Jones Surges 650 Points, Led By Salesforce Stock; Johnson & Johnson, Astrazeneca Form Bullish Patterns",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/dace7072-4887-31d8-9d81-9b2a1c5f4ebb/dow-jones-surges-650-points%2C.html",
-        "providerPublishTime": 1656097656,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HGhm3umtNI3RKXpA3Fingw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7nFpjqzigU.ywjro4dR96A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5416aa7a94d65e59911458f2084c2c00",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xXszlxdCQBD63qaJiauuMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7nFpjqzigU.ywjro4dR96A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5416aa7a94d65e59911458f2084c2c00",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^DJI",
-            "COMP",
-            "^GSPC",
-            "JNJ",
-            "AZN",
-            "CRM"
-        ]
-    },
-    "df473857-2daa-34f1-ae08-051165b1db0b": {
-        "uuid": "df473857-2daa-34f1-ae08-051165b1db0b",
-        "title": "Not \u2018Putin\u2019s price hike\u2019: Fed chair contradicts Biden, says inflation was 'certainly' high before Russia\u2019s Ukraine invasion. Protect yourself",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/not-putin-price-hike-fed-171400799.html",
-        "providerPublishTime": 1656092580,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Kz7fYCstHdSF1aGcT6gU.A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5EODu3fmq8YSIBfpOjDdmg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/a0283e49cfdf07f85e67f2152845f607",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/S0amBdHAf3GLoNofwPjy1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5EODu3fmq8YSIBfpOjDdmg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/a0283e49cfdf07f85e67f2152845f607",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "O",
-            "VGSIX",
-            "VGSLX",
-            "VGSNX",
-            "VNQ",
-            "USO",
-            "JNJ",
-            "CAH",
-            "OXY",
-            "SWCH",
-            "XLV",
-            "XOM",
-            "VHCIX",
-            "VHT",
-            "CVX",
-            "ABT",
-            "UNG"
-        ]
-    },
-    "88b58dd1-a56e-31fe-bbc7-524ad5d3c9ca": {
-        "uuid": "88b58dd1-a56e-31fe-bbc7-524ad5d3c9ca",
-        "title": "Dow Up Over 650 Points; Health Care, Biotechs The Winners This Week",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/88b58dd1-a56e-31fe-bbc7-524ad5d3c9ca/dow-up-over-650-points%3B.html",
-        "providerPublishTime": 1656091986,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.wq6WtsXcHfObVhf3PXmcA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/S2TMBdc8mH_s.4H2Yq8tRQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f30603dbc23ed1fa401a6ca6848933f4",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hXQNEWq4B2wp_0hDIH2_ng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S2TMBdc8mH_s.4H2Yq8tRQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f30603dbc23ed1fa401a6ca6848933f4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COMP",
-            "^DJI",
-            "^RUT",
-            "FNKO",
+            "PFE",
             "JNJ"
-        ]
-    },
-    "c47794f9-b280-3e0c-ae83-235a0c12a771": {
-        "uuid": "c47794f9-b280-3e0c-ae83-235a0c12a771",
-        "title": "Got $2,500? 2 Top Stocks That You Can Buy and Hold for a Lifetime",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c47794f9-b280-3e0c-ae83-235a0c12a771/got-%242%2C500%3F-2-top-stocks-that.html",
-        "providerPublishTime": 1656070500,
-        "type": "STORY",
-        "relatedTickers": [
-            "JNJ",
-            "MSFT"
         ]
     }
 }

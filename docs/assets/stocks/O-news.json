@@ -1,103 +1,69 @@
 {
-    "dcd47cfe-ad97-389d-90e7-ce8f9ace15ed": {
-        "uuid": "dcd47cfe-ad97-389d-90e7-ce8f9ace15ed",
-        "title": "Oasis Petroleum Inc. (OAS) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/oasis-petroleum-inc-oas-stock-220010228.html",
-        "providerPublishTime": 1656108010,
+    "4e837133-e33b-3a01-9a28-f5beb718c465": {
+        "uuid": "4e837133-e33b-3a01-9a28-f5beb718c465",
+        "title": "Ready to Get Rich With Stocks? You Can't Go Wrong With These 3 Investments",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4e837133-e33b-3a01-9a28-f5beb718c465/ready-to-get-rich-with.html",
+        "providerPublishTime": 1656757980,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PzKU7lPyf_PcRy_ydffzWA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
-                    "width": 900,
-                    "height": 602,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ncjTO6t7Ni7a1WCfWhqk6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "CL=F",
-            "OAS"
+            "PYPL",
+            "O",
+            "DIS"
         ]
     },
-    "ae44b364-3186-3aaf-9334-98eba927e2a2": {
-        "uuid": "ae44b364-3186-3aaf-9334-98eba927e2a2",
-        "title": "Sky-high gas prices have been a crude awakening for drivers \u2014 these tips could cut your costs by 20%",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/sky-high-gas-prices-crude-220000123.html",
-        "providerPublishTime": 1656108000,
+    "b92e87e1-1484-3aee-9468-d72376f5d2f8": {
+        "uuid": "b92e87e1-1484-3aee-9468-d72376f5d2f8",
+        "title": "Climate graphic of the week: Asia-Pacific remains stuck on coal for half its power needs",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/b92e87e1-1484-3aee-9468-d72376f5d2f8/climate-graphic-of-the-week%3A.html",
+        "providerPublishTime": 1656748842,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KUQEMvVfx0OlHkhwyPjd7Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/k7milIUF00NEgEDlXacrWQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/d78c1786abc26d2c52b6349b6294d7d2",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.kM8DaxCYjOZENuwz805Dg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k7milIUF00NEgEDlXacrWQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/d78c1786abc26d2c52b6349b6294d7d2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "CL=F"
         ]
     },
-    "4fb611dd-d65a-3dae-9428-3825d5a777bc": {
-        "uuid": "4fb611dd-d65a-3dae-9428-3825d5a777bc",
-        "title": "Realty Income Corp. (O) Gains But Lags Market: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/realty-income-corp-o-gains-214509806.html",
-        "providerPublishTime": 1656107109,
+    "d19594ce-2478-3a90-844d-885fcbadec09": {
+        "uuid": "d19594ce-2478-3a90-844d-885fcbadec09",
+        "title": "Petroperu requests emergency declaration after pipeline attack",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/petroperu-requests-emergency-declaration-pipeline-043019713.html",
+        "providerPublishTime": 1656736219,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u19gg6mEg1FXckW.slC1_Q--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.PGZxRPX3TwPJmyoXlVvdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "O"
+            "FC=F",
+            "LC=F",
+            "CL=F"
         ]
     },
-    "7aec32bc-5fc4-3b2c-9734-185cb720c774": {
-        "uuid": "7aec32bc-5fc4-3b2c-9734-185cb720c774",
-        "title": "Ethanol Keeps Climbing as Gasoline Prices Stay High",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/7aec32bc-5fc4-3b2c-9734-185cb720c774/ethanol-keeps-climbing-as.html",
-        "providerPublishTime": 1656103860,
+    "162c6477-03dd-3fba-9edd-7ecb2198b2ad": {
+        "uuid": "162c6477-03dd-3fba-9edd-7ecb2198b2ad",
+        "title": "Biden administration floats new oil leasing plan in Gulf of Mexico",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/162c6477-03dd-3fba-9edd-7ecb2198b2ad/biden-administration-floats.html",
+        "providerPublishTime": 1656717074,
         "type": "STORY",
+        "relatedTickers": [
+            "CL=F"
+        ]
+    },
+    "15fbe3f5-9acc-34fe-b4de-51c00bf961ad": {
+        "uuid": "15fbe3f5-9acc-34fe-b4de-51c00bf961ad",
+        "title": "Inflation: How food prices could impact Fourth of July barbecues",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/inflation-food-prices-could-impact-205554588.html",
+        "providerPublishTime": 1656708954,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6Vgkl8Oc5sbT87eJPT__Zg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LX7oIkh7ij2FQ1cJvBPNQA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/697aa12be43e4090ce280be88a8f19b1",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T.R8jZoMp0pgC4oy77exzg--~B/aD0xNDczO3c9MjYyMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2d41cd60-f980-11ec-b4af-9319cde44114",
+                    "width": 2623,
+                    "height": 1473,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u20NQlkIyfd93DLD37546w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LX7oIkh7ij2FQ1cJvBPNQA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/697aa12be43e4090ce280be88a8f19b1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0t889HuoroeVRLdAZVaOSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2d41cd60-f980-11ec-b4af-9319cde44114",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -106,74 +72,33 @@
         },
         "relatedTickers": [
             "RB=F",
-            "CL=F"
+            "HO=F",
+            "ZW=F",
+            "WTI",
+            "ZC=F",
+            "NG=F",
+            "BZ=F",
+            "CL",
+            "EWU"
         ]
     },
-    "1ddfdfdb-6b3a-3891-892b-7619016ddd68": {
-        "uuid": "1ddfdfdb-6b3a-3891-892b-7619016ddd68",
-        "title": "Markets close week with gains, tech stocks rally to the upside",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/markets-close-week-gains-tech-200939369.html",
-        "providerPublishTime": 1656101379,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HAQAJQLisZMf_PAHqWHX9Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dKjM1lMiG.oM.5nABUIZzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XLC",
-            "OKTA",
-            "META",
-            "VZ",
-            "GS",
-            "AAPL",
-            "UNH",
-            "TSLA",
-            "NVDA",
-            "^DJI",
-            "GOOG",
-            "GOOGL",
-            "PEP",
-            "MSFT",
-            "^IXIC",
-            "^GSPC",
-            "BA",
-            "CRM",
-            "XLB",
-            "AMZN",
-            "CL=F",
-            "^TNX"
-        ]
-    },
-    "d00aeb81-f04b-3de1-8d52-50b0ebc35abf": {
-        "uuid": "d00aeb81-f04b-3de1-8d52-50b0ebc35abf",
-        "title": "Oil Posts Weekly Loss as Recession Jitters Dent Commodity Prices",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/crude-oil-wilts-global-recession-040717395.html",
-        "providerPublishTime": 1656100814,
+    "05073f66-7f2a-3c93-af84-094610776b35": {
+        "uuid": "05073f66-7f2a-3c93-af84-094610776b35",
+        "title": "Whiting, Oasis rename merged oil company, predict harmony for $6B operation",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/05073f66-7f2a-3c93-af84-094610776b35/whiting%2C-oasis-rename-merged.html",
+        "providerPublishTime": 1656707641,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/C.CK2g2vyMpjv97j7gaMGA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/vigT9vTxtbpEkjdw2rY2OA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/5e4c0d777e14621a0db0d3ac2f66d3eb",
-                    "width": 2000,
-                    "height": 1333,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9uQZkoXnhVXZyrhIK9x.vg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S6Na5B4WVYpVBmnlHE24CA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/219890b90aa44898dc46a8f85a4fa287",
+                    "width": 1440,
+                    "height": 960,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p.YQ7MhEl5BqybV1y99cNg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vigT9vTxtbpEkjdw2rY2OA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/5e4c0d777e14621a0db0d3ac2f66d3eb",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9IKoAyJQJo68SpFJj6UdPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S6Na5B4WVYpVBmnlHE24CA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/219890b90aa44898dc46a8f85a4fa287",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -181,26 +106,78 @@
             ]
         },
         "relatedTickers": [
+            "WLL",
+            "OAS",
+            "NG=F",
             "CL=F"
         ]
     },
-    "cc1e6368-1159-32f0-ba43-42ef2172554b": {
-        "uuid": "cc1e6368-1159-32f0-ba43-42ef2172554b",
-        "title": "Gas prices \u2018will continue declining\u2019 for another 1-2 weeks, analyst says",
+    "dab0e9d2-6e34-30d1-8e75-95a892ab90ef": {
+        "uuid": "dab0e9d2-6e34-30d1-8e75-95a892ab90ef",
+        "title": "Stocks close higher, 10-year Treasury yield drops, crude oil rises",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/gas-prices-continue-declining-another-195210140.html",
-        "providerPublishTime": 1656100330,
+        "link": "https://finance.yahoo.com/video/stocks-close-higher-10-treasury-202040607.html",
+        "providerPublishTime": 1656706840,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YgZsj97nuLbrmRf4DUHwIA--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/1ff69c50-f3f7-11ec-b5ff-e6350d80f8d7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XaBflHctnYVkyMaCpUMLmw--~B/aD0xNDU1O3c9MjU5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4477fa90-f97b-11ec-bada-33f83d1db8b1",
+                    "width": 2592,
+                    "height": 1455,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wJC6U.sXum4di1Gs_M3kQQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4477fa90-f97b-11ec-bada-33f83d1db8b1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RB=F",
+            "COST",
+            "QCOM",
+            "^TYX",
+            "HO=F",
+            "BZ=F",
+            "TXN",
+            "^DJI",
+            "MU",
+            "INTC",
+            "XLY",
+            "^IXIC",
+            "WTI",
+            "^TNX",
+            "^GSPC",
+            "CL=F",
+            "AMD",
+            "KSS",
+            "AMZN",
+            "WMT",
+            "^FVX",
+            "TGT",
+            "NG=F"
+        ]
+    },
+    "c4d032ca-8fec-3429-9471-f070c618debf": {
+        "uuid": "c4d032ca-8fec-3429-9471-f070c618debf",
+        "title": "These summer travel destinations are on sale right now",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/summer-travel-destinations-sale-now-200448823.html",
+        "providerPublishTime": 1656705888,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9bb2X7uNOuNXmfDupAysKw--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/0dc7a6f0-f979-11ec-af7f-a83653546789",
                     "width": 2673,
                     "height": 1501,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.wns66q0PwMaOgbe2N9nyQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/1ff69c50-f3f7-11ec-b5ff-e6350d80f8d7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1DqUA6MF2I9Czwq5wNt3cQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/0dc7a6f0-f979-11ec-af7f-a83653546789",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -208,41 +185,16 @@
             ]
         },
         "relatedTickers": [
-            "RB=F",
-            "WTI",
-            "NG=F",
+            "MAR",
+            "RDFN",
+            "CL=F",
+            "RMAX",
+            "ABNB",
+            "VRPX",
             "HO=F",
             "BZ=F",
-            "CL=F"
-        ]
-    },
-    "7b33515c-c8aa-3dec-8f9d-74bcb075dda8": {
-        "uuid": "7b33515c-c8aa-3dec-8f9d-74bcb075dda8",
-        "title": "Oil ends higher on tight supplies, but U.S. prices hold on to a weekly loss on recession worries",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/7b33515c-c8aa-3dec-8f9d-74bcb075dda8/oil-ends-higher-on-tight.html",
-        "providerPublishTime": 1656098760,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.h2saLeY.aUU1n9JLZ2fKg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bBryzravi1sjG6W_jGXjgw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1db24433b70c667eafbbaf48fa818e06",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ctxwiL5jA_VeEl7TXJ4Kxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bBryzravi1sjG6W_jGXjgw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1db24433b70c667eafbbaf48fa818e06",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
             "RB=F",
-            "HO=F",
+            "WTI",
             "NG=F"
         ]
     }

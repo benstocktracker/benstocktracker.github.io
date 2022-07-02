@@ -1,21 +1,21 @@
 {
-    "e3e193b9-8488-3460-9fcf-7322007aaa6b": {
-        "uuid": "e3e193b9-8488-3460-9fcf-7322007aaa6b",
-        "title": "3 Dividend Stocks You'll Wish You'd Bought on the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e3e193b9-8488-3460-9fcf-7322007aaa6b/3-dividend-stocks-you%27ll-wish.html",
-        "providerPublishTime": 1656158400,
-        "type": "STORY",
+    "eec96314-b6d9-3b3e-84c5-9e9035176191": {
+        "uuid": "eec96314-b6d9-3b3e-84c5-9e9035176191",
+        "title": "Fourth of July deals: Where to save on patio furniture, appliances, and mattresses",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/fourth-july-deals-where-save-204401026.html",
+        "providerPublishTime": 1656708241,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iurZC1YzmlOZEQK72Oa5HQ--~B/aD05NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UiqDy783NK1ijdXMHDvp1g--~B/aD05NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/81654de1325d0642fbf7f907ee9e3b5d",
-                    "width": 1400,
-                    "height": 972,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.DMAPdNN9qKqVEuv2Cao8g--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/8658e110-f97e-11ec-b8ae-10028f22c090",
+                    "width": 2654,
+                    "height": 1490,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LzJAiCo1haKuhRhh3xPX3Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UiqDy783NK1ijdXMHDvp1g--~B/aD05NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/81654de1325d0642fbf7f907ee9e3b5d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fL2RgF09nG9YHTFCUGlS9Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/8658e110-f97e-11ec-b8ae-10028f22c090",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,28 +23,31 @@
             ]
         },
         "relatedTickers": [
-            "EBAY",
+            "LULU",
+            "WMT",
+            "W",
             "HD",
-            "MCD"
+            "OSK",
+            "AMZN"
         ]
     },
-    "8b789cf9-11ae-38c9-803e-828464edfa51": {
-        "uuid": "8b789cf9-11ae-38c9-803e-828464edfa51",
-        "title": "7 Blue-Chip Stocks to Avoid in a Bear Market",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-blue-chip-stocks-avoid-234539264.html",
-        "providerPublishTime": 1656114339,
+    "00f6bada-6115-396d-876d-777502ca9665": {
+        "uuid": "00f6bada-6115-396d-876d-777502ca9665",
+        "title": "3 Stocks That Turned $1,000 Into Half a Million Dollars",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/00f6bada-6115-396d-876d-777502ca9665/3-stocks-that-turned-%241%2C000.html",
+        "providerPublishTime": 1656596100,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/haUJ_dt_B1lwpOkCl6.Iqw--~B/aD0xOTE7dz0yOTM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/f58ZvK.YRzyPKNYc1WXNuw--~B/aD0xOTE7dz0yOTM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/83625b98a8503c25c52f2ec4709fe2d3",
-                    "width": 293,
-                    "height": 191,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9biSmIobFAjSrQvP35DLHg--~B/aD03OTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RgqKbzZE9WfnWDgsvYy_uQ--~B/aD03OTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d76783a5d734249c3a5c0cdffdcdf34c",
+                    "width": 1400,
+                    "height": 797,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GqLAgEETjvXNueWVHlDZYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/f58ZvK.YRzyPKNYc1WXNuw--~B/aD0xOTE7dz0yOTM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/83625b98a8503c25c52f2ec4709fe2d3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WjUjW7nn7y9M75IuHXPcBw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RgqKbzZE9WfnWDgsvYy_uQ--~B/aD03OTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d76783a5d734249c3a5c0cdffdcdf34c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -52,32 +55,60 @@
             ]
         },
         "relatedTickers": [
-            "DIS",
-            "GM",
-            "WMT",
+            "AAPL",
             "AMZN",
-            "JPM-PL",
-            "F",
             "HD"
         ]
     },
-    "47460457-239f-3efc-ac2e-b398739473de": {
-        "uuid": "47460457-239f-3efc-ac2e-b398739473de",
-        "title": "Is it a Smart Choice to Invest in Home Depot (HD)?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/smart-choice-invest-home-depot-140746816.html",
-        "providerPublishTime": 1656079666,
+    "371717b4-cb4a-3ffa-82a9-a85f42ea5eda": {
+        "uuid": "371717b4-cb4a-3ffa-82a9-a85f42ea5eda",
+        "title": "The Zacks Analyst Blog Highlights Meta Platforms, Eli Lilly, The Home Depot, The Boeing Company, Vale",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-meta-103510547.html",
+        "providerPublishTime": 1656585310,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OOSJ8N01Uj1R1MjeKR7Qyw--~B/aD02MDA7dz03NDQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/c_1VCen3_gkVy146ybJoxg--~B/aD02MDA7dz03NDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9482b256bc7d838524a00ff299685288",
-                    "width": 744,
-                    "height": 600,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XC4UAwjLELT3vGoUINhHww--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qi8AmKRuXk4zL7mGsiR5yg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/60c096e1e24bb285c41a58d325d8d707",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E5zPv6EL6x5OYF7a.jMBZw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c_1VCen3_gkVy146ybJoxg--~B/aD02MDA7dz03NDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9482b256bc7d838524a00ff299685288",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.S6yPTWOQjFq2jWt8vMfiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qi8AmKRuXk4zL7mGsiR5yg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/60c096e1e24bb285c41a58d325d8d707",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "LLY",
+            "HD",
+            "^GSPC",
+            "BA",
+            "VALE"
+        ]
+    },
+    "840fd9ef-eff7-38fa-a065-64719add95f0": {
+        "uuid": "840fd9ef-eff7-38fa-a065-64719add95f0",
+        "title": "Home Depot (HD) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/home-depot-hd-gains-market-214509377.html",
+        "providerPublishTime": 1656539109,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 900,
+                    "height": 745,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -89,78 +120,23 @@
             "^GSPC"
         ]
     },
-    "b85b9288-d8dc-36d8-83e7-046dce4eaeaf": {
-        "uuid": "b85b9288-d8dc-36d8-83e7-046dce4eaeaf",
-        "title": "Proptech lender Kiavi\u2019s CEO talks growth amid latest financing in difficult market",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/b85b9288-d8dc-36d8-83e7-046dce4eaeaf/proptech-lender-kiavi%E2%80%99s-ceo.html",
-        "providerPublishTime": 1656021414,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bm7S7_MCZYosLumNbk0Bbg--~B/aD02Njc7dz0xMDAxO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qCn5Ke1.PByM0XeY6j5B9A--~B/aD02Njc7dz0xMDAxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/f79fb4f461422c2a4545576c4c17bdf4",
-                    "width": 1001,
-                    "height": 667,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dbLF5NX5wMNPpqHC6EkBoA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qCn5Ke1.PByM0XeY6j5B9A--~B/aD02Njc7dz0xMDAxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/f79fb4f461422c2a4545576c4c17bdf4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HD",
-            "RYFXX"
-        ]
-    },
-    "f6b06c45-4dac-373f-901c-6a3cdcc3d145": {
-        "uuid": "f6b06c45-4dac-373f-901c-6a3cdcc3d145",
-        "title": "Home Improvement Retailers Are Still Winning With Analysts, to an Extent",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/f6b06c45-4dac-373f-901c-6a3cdcc3d145/home-improvement-retailers.html",
-        "providerPublishTime": 1655997600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LC8qb1lyJuSlYObhL4Yk2A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/P7Ve2GykPq.o.JfNPLzlqA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/379a812a8d760dd124358cba13e030ab",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ptjy1cvi7fPB2clBNUrcJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/P7Ve2GykPq.o.JfNPLzlqA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/379a812a8d760dd124358cba13e030ab",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HD"
-        ]
-    },
-    "55b30485-60e4-3379-8045-3215462f210a": {
-        "uuid": "55b30485-60e4-3379-8045-3215462f210a",
-        "title": "Things to Note Ahead of Bed Bath & Beyond's (BBBY) Q1 Earnings",
+    "559cec00-6c98-39c7-bc7d-8165ae211893": {
+        "uuid": "559cec00-6c98-39c7-bc7d-8165ae211893",
+        "title": "Top Analyst Reports for Meta Platforms, Eli Lilly &  Home Depot",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/things-note-ahead-bed-bath-145402069.html",
-        "providerPublishTime": 1655996042,
+        "link": "https://finance.yahoo.com/news/top-analyst-reports-meta-platforms-184406057.html",
+        "providerPublishTime": 1656528246,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JXAopYtdf8fY4q.8WeOwCQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/mClPKoK996aYTfnS5OAu6w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3712b8efaf62bf4a91d001304d6de6db",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Vi34EENB_hESg_FIvJzKkA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/sd929BCLr6s_pyJDIvJk8A--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/18cc4f01dd239cbc2af0a8b429aac855",
+                    "width": 900,
+                    "height": 600,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/op_VFUaE3am2VGOhxXhY.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mClPKoK996aYTfnS5OAu6w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3712b8efaf62bf4a91d001304d6de6db",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FnRqq8W1YlaoxTek18XbtQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sd929BCLr6s_pyJDIvJk8A--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/18cc4f01dd239cbc2af0a8b429aac855",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -168,27 +144,57 @@
             ]
         },
         "relatedTickers": [
-            "BBBY",
-            "HD"
+            "LLY",
+            "META",
+            "HD",
+            "BA",
+            "VALE"
         ]
     },
-    "6848ae4b-e611-33ef-b520-cd43e87d033a": {
-        "uuid": "6848ae4b-e611-33ef-b520-cd43e87d033a",
-        "title": "3 No-Brainer Stocks to Buy in the Correction",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/6848ae4b-e611-33ef-b520-cd43e87d033a/3-no-brainer-stocks-to-buy-in.html",
-        "providerPublishTime": 1655992800,
+    "b8c0955f-0d40-3980-9c12-e1030782ed41": {
+        "uuid": "b8c0955f-0d40-3980-9c12-e1030782ed41",
+        "title": "Home Depot (HD) is a Top-Ranked Growth Stock: Should You Buy?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/home-depot-hd-top-ranked-134501948.html",
+        "providerPublishTime": 1656510301,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/V5JtkxZy5QXXw7K.AWoBSw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rmNVR1Ig8YWnQmH9_ZkiCA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6fa52b0b35def272cd36eb892a44d29b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mZXMp07WOOiebWcVY1HEqQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                    "width": 900,
+                    "height": 636,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v8ztWJ5rx7tiE3Uu7OAW_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HD"
+        ]
+    },
+    "e440f1b5-5066-3444-a33e-996714dab022": {
+        "uuid": "e440f1b5-5066-3444-a33e-996714dab022",
+        "title": "3 Top Stocks to Buy During the Sell-Off",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e440f1b5-5066-3444-a33e-996714dab022/3-top-stocks-to-buy-during.html",
+        "providerPublishTime": 1656507060,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/c6oIqiqyMVdwiiClOguieg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XQZDrKB75UDEZfdWJBo5Dw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f6889974d9b0900f9476c613db10b2b2",
                     "width": 1400,
                     "height": 752,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/erLJ8D7NpI0XPNAn8CxEJA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rmNVR1Ig8YWnQmH9_ZkiCA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6fa52b0b35def272cd36eb892a44d29b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_H3NH_CGdUATejYxGq45ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XQZDrKB75UDEZfdWJBo5Dw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f6889974d9b0900f9476c613db10b2b2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -196,37 +202,22 @@
             ]
         },
         "relatedTickers": [
-            "TGT",
-            "HD",
-            "TSLA"
+            "BIP",
+            "HD"
         ]
     },
-    "682461a2-e139-34fb-a268-f61d14b6c28f": {
-        "uuid": "682461a2-e139-34fb-a268-f61d14b6c28f",
-        "title": "The Home Depot Foundation and Osceola Council on Aging Complete Home Renovations for Air Force Veteran in Florida",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/home-depot-foundation-osceola-council-134508782.html",
-        "providerPublishTime": 1655991908,
+    "2f0539b0-067d-38bf-98d7-3718cbf69855": {
+        "uuid": "2f0539b0-067d-38bf-98d7-3718cbf69855",
+        "title": "Should You Buy the Dow Jones' 3 Worst Performing 2022 Stocks?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2f0539b0-067d-38bf-98d7-3718cbf69855/should-you-buy-the-dow-jones%27.html",
+        "providerPublishTime": 1656498840,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LQCWB_cFJraDuo4kjBZy4A--~B/aD0yMDI7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AhHeg22vn3B6wGK4C41teQ--~B/aD0yMDI7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/7671803a1204df6af41ee60963227ed9",
-                    "width": 650,
-                    "height": 202,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gwuMytiSVqnHUulz.XK6Tg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AhHeg22vn3B6wGK4C41teQ--~B/aD0yMDI7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/7671803a1204df6af41ee60963227ed9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "HD",
-            "RYFXX"
+            "^DJI",
+            "NKE",
+            "DIS"
         ]
     }
 }

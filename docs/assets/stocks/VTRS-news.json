@@ -1,4 +1,31 @@
 {
+    "09179222-74f5-30a1-bf0a-7f798e0e7422": {
+        "uuid": "09179222-74f5-30a1-bf0a-7f798e0e7422",
+        "title": "Viatris Inc. to Release Second Quarter 2022 Financial Results on August 8, 2022",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/viatris-inc-release-second-quarter-105900823.html",
+        "providerPublishTime": 1656673140,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fbFnNfIsLPsYqVRaoEGNEA--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/82D0x5d4_imP5bEpy9lKAQ--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/6e437cf84423e5c719897074059084e2",
+                    "width": 400,
+                    "height": 171,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/d3TATzk1SmZsMrQ52Lukeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/82D0x5d4_imP5bEpy9lKAQ--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/6e437cf84423e5c719897074059084e2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VTRS"
+        ]
+    },
     "d6587621-ec40-310f-a746-9a0e671d72a7": {
         "uuid": "d6587621-ec40-310f-a746-9a0e671d72a7",
         "title": "Viatris (VTRS) Up 13.7% Since Last Earnings Report: Can It Continue?",
@@ -215,33 +242,6 @@
             "AA",
             "EQT",
             "AEO"
-        ]
-    },
-    "f16cdd2d-56d0-38bf-91eb-d292c8cc233d": {
-        "uuid": "f16cdd2d-56d0-38bf-91eb-d292c8cc233d",
-        "title": "Viatris to Participate in Goldman Sachs 43rd Annual Global Healthcare Conference",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/viatris-participate-goldman-sachs-43rd-213000471.html",
-        "providerPublishTime": 1653082200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fbFnNfIsLPsYqVRaoEGNEA--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/82D0x5d4_imP5bEpy9lKAQ--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/6e437cf84423e5c719897074059084e2",
-                    "width": 400,
-                    "height": 171,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/d3TATzk1SmZsMrQ52Lukeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/82D0x5d4_imP5bEpy9lKAQ--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/6e437cf84423e5c719897074059084e2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VTRS"
         ]
     }
 }

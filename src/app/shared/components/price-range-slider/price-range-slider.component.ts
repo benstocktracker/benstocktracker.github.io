@@ -11,6 +11,7 @@ export class PriceRangeSliderComponent implements OnInit {
   @Input() currentPrice!: string;
   @Input() costAverage!: number;
   @Input() shares!: number;
+  @Input() showHolding: boolean = true;
   color: string = '';
 
   constructor() { }

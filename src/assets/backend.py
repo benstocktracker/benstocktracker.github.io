@@ -13,7 +13,7 @@ HOLDINGS = os.path.join(BACKEND_DIR, 'holdings.json')
 HOLDINGS_CSV = os.path.join(BACKEND_DIR, 'holdings.csv')
 STOCKS_DATA_PATH = os.path.join(BACKEND_DIR, 'stocks')
 
-watchlist = ['PG', 'KO', 'VTRS', 'VICI', 'SBUX', 'CHTR', 'BAC', 'MMM', 'HD', 'JNJ', 'MO']
+watchlist = ['PG', 'KO', 'VTRS', 'VICI', 'SBUX', 'CHTR', 'BAC', 'MMM', 'HD', 'JNJ', 'MO', 'AMZN']
 
 pp = pprint.PrettyPrinter(indent=4)
 helper = CJS()
@@ -149,8 +149,8 @@ def calculate_row_data(portfolio):
 
 
 if __name__ == '__main__':
-    # fetch_all_tickers_data()
-    # fetch_watchlist_tickers_data()
+    fetch_all_tickers_data()
+    fetch_watchlist_tickers_data()
 
     stock_data = combine_stock_data()
     stock_news = combine_stock_news()

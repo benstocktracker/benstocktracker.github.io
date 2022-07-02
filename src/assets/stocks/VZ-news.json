@@ -1,21 +1,21 @@
 {
-    "1ddfdfdb-6b3a-3891-892b-7619016ddd68": {
-        "uuid": "1ddfdfdb-6b3a-3891-892b-7619016ddd68",
-        "title": "Markets close week with gains, tech stocks rally to the upside",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/markets-close-week-gains-tech-200939369.html",
-        "providerPublishTime": 1656101379,
-        "type": "VIDEO",
+    "b3adc6bb-a9f9-324f-9a24-17e7b532611d": {
+        "uuid": "b3adc6bb-a9f9-324f-9a24-17e7b532611d",
+        "title": "Verizon Communications Inc. (NYSE:VZ) Pays A US$0.64 Dividend In Just Four Days",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/verizon-communications-inc-nyse-vz-123249268.html",
+        "providerPublishTime": 1656765169,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HAQAJQLisZMf_PAHqWHX9Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
-                    "width": 1280,
-                    "height": 720,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4TlgC92SaJzjGFv99JuqIA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/50ja20p.Rehp7jBJE3jhRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/028f47b440f2107bca7802fce704e9a8",
+                    "width": 1194,
+                    "height": 432,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dKjM1lMiG.oM.5nABUIZzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/4b666210-f3f9-11ec-b79d-2efcd9e3e604",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HTZmh6KL3xy3p1nigKUpPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/50ja20p.Rehp7jBJE3jhRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/028f47b440f2107bca7802fce704e9a8",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,47 +23,103 @@
             ]
         },
         "relatedTickers": [
-            "XLC",
-            "OKTA",
-            "META",
+            "VZ"
+        ]
+    },
+    "08dedda2-d2f8-3621-ab81-0141c77b7c71": {
+        "uuid": "08dedda2-d2f8-3621-ab81-0141c77b7c71",
+        "title": "How One VTeamer Leads the Way in Saving America's Rivers",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/one-vteamer-leads-way-saving-130007274.html",
+        "providerPublishTime": 1656594007,
+        "type": "STORY",
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "e16d8898-0f5b-33a5-a516-e399d2503d6e": {
+        "uuid": "e16d8898-0f5b-33a5-a516-e399d2503d6e",
+        "title": "With New Tech, Cleveland Students Leave the Digital Desert Behind",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/tech-cleveland-students-leave-digital-191007608.html",
+        "providerPublishTime": 1656529807,
+        "type": "STORY",
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "c8513ecc-ceba-3f27-b4bf-2221100f3e91": {
+        "uuid": "c8513ecc-ceba-3f27-b4bf-2221100f3e91",
+        "title": "Verizon Frontline debuts connected police cruiser prototype",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-frontline-debuts-connected-police-180000986.html",
+        "providerPublishTime": 1656525600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "51d670af-ff14-3ea3-805d-8d2caee4ffc1": {
+        "uuid": "51d670af-ff14-3ea3-805d-8d2caee4ffc1",
+        "title": "The Zacks Analyst Blog Highlights Visa, JPMorgan Chase, Verizon Communications, Wells Fargo, and Seagen",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-visa-103210565.html",
+        "providerPublishTime": 1656498730,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bJv_P_pt3a_DYfyanDOaIw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Qk2TnJKnO7rjP6i0LSQ_ig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d6f20a00b84c969c6a59aa3e4de742dd",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qjHq9Mb75V32mu0Qr3ANMw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Qk2TnJKnO7rjP6i0LSQ_ig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d6f20a00b84c969c6a59aa3e4de742dd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "VZ",
-            "GS",
-            "AAPL",
-            "UNH",
-            "TSLA",
-            "NVDA",
-            "^DJI",
-            "GOOG",
-            "GOOGL",
-            "PEP",
-            "MSFT",
-            "^IXIC",
-            "^GSPC",
-            "BA",
-            "CRM",
-            "XLB",
-            "AMZN",
-            "CL=F",
-            "^TNX"
+            "V"
         ]
     },
-    "af0554ce-6893-32b4-a4a1-c63759134e3e": {
-        "uuid": "af0554ce-6893-32b4-a4a1-c63759134e3e",
-        "title": "When Times Are Tough, These 3 Mega-Caps Should Deliver the Dividends",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/af0554ce-6893-32b4-a4a1-c63759134e3e/when-times-are-tough%2C-these-3.html",
-        "providerPublishTime": 1656090000,
+    "119ee8a4-e565-37b4-8791-e5f95ff79f02": {
+        "uuid": "119ee8a4-e565-37b4-8791-e5f95ff79f02",
+        "title": "Trump Adviser Eastman Drops Jan. 6 Panel Suit Over Phone Records",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/trump-adviser-eastman-drops-jan-025533404.html",
+        "providerPublishTime": 1656471333,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6Ybk7.9gCtHqyvWcYrooAA--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nEsK_tK5ESXtS.RZbuIkfg--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/a9732c2607e377ff5dc94a49d7f180a8",
-                    "width": 1152,
-                    "height": 768,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1HZGENQMBPHIkQK0knzMbA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/e0pNxAdHqD1SSi65RkJZkg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/f686bfb3ff3883b06aa02560c8fca730",
+                    "width": 2000,
+                    "height": 1333,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Kda23WWxaXuRiwJYx2RhhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nEsK_tK5ESXtS.RZbuIkfg--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/a9732c2607e377ff5dc94a49d7f180a8",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AE3K6gcR8V6JYk3V4lH3Yw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e0pNxAdHqD1SSi65RkJZkg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/f686bfb3ff3883b06aa02560c8fca730",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -71,17 +127,15 @@
             ]
         },
         "relatedTickers": [
-            "PFE",
-            "VZ",
-            "AVGO"
+            "VZ"
         ]
     },
-    "6c5626e2-a149-374c-8cf9-55412ec32346": {
-        "uuid": "6c5626e2-a149-374c-8cf9-55412ec32346",
-        "title": "Verizon Frontline to introduce newest first responder advisory council member",
+    "bbda0da6-d164-30ea-b755-f6229626a9a8": {
+        "uuid": "bbda0da6-d164-30ea-b755-f6229626a9a8",
+        "title": "UPDATE - Verizon delivers faster connections to 64 Native American reservations in 13 states",
         "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-frontline-introduce-newest-first-180000981.html",
-        "providerPublishTime": 1656007200,
+        "link": "https://finance.yahoo.com/news/verizon-delivers-faster-connections-64-203300364.html",
+        "providerPublishTime": 1656448380,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -103,12 +157,12 @@
             "VZ"
         ]
     },
-    "94f54c73-436f-3b25-875b-e6f3fe493882": {
-        "uuid": "94f54c73-436f-3b25-875b-e6f3fe493882",
-        "title": "Madison gets new affordable home and business Internet options from Verizon",
+    "53426ce7-cd64-3cb4-a9ad-19637ea33c41": {
+        "uuid": "53426ce7-cd64-3cb4-a9ad-19637ea33c41",
+        "title": "Verizon, Verizon Frontline honored for wildfire response efforts in Colorado",
         "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/madison-gets-affordable-home-business-140000534.html",
-        "providerPublishTime": 1655992800,
+        "link": "https://finance.yahoo.com/news/verizon-verizon-frontline-honored-wildfire-180000245.html",
+        "providerPublishTime": 1656439200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -127,99 +181,6 @@
             ]
         },
         "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "b723de3e-43aa-3526-9dd1-c932d740b210": {
-        "uuid": "b723de3e-43aa-3526-9dd1-c932d740b210",
-        "title": "Shreveport gets new affordable home and business Internet options from Verizon",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/shreveport-gets-affordable-home-business-133000029.html",
-        "providerPublishTime": 1655991000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "28b56065-167b-3dfd-ac2e-e8c97ed397ab": {
-        "uuid": "28b56065-167b-3dfd-ac2e-e8c97ed397ab",
-        "title": "Manchester gets new affordable home and business Internet options from Verizon",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/manchester-gets-affordable-home-business-130000084.html",
-        "providerPublishTime": 1655989200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "04beba05-07f7-318b-a78b-716fe5845f47": {
-        "uuid": "04beba05-07f7-318b-a78b-716fe5845f47",
-        "title": "Verizon Customers Can Now Get Home Internet for as Little as $25 per Month",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/04beba05-07f7-318b-a78b-716fe5845f47/verizon-customers-can-now-get.html",
-        "providerPublishTime": 1655916437,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/raazCC.ep79mb1w3wiAO7A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/p.GSErHOlaAEEdcJY2jU.A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4ac5b1f5b0ee2f514f77a154c10711a2",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/samKl.bxwiYcXJ_UMAS84A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/p.GSErHOlaAEEdcJY2jU.A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4ac5b1f5b0ee2f514f77a154c10711a2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "df9b61fb-ac2a-38a2-a0a3-8679a58b5abe": {
-        "uuid": "df9b61fb-ac2a-38a2-a0a3-8679a58b5abe",
-        "title": "3 Extremely Safe Dividend Stocks to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/df9b61fb-ac2a-38a2-a0a3-8679a58b5abe/3-extremely-safe-dividend.html",
-        "providerPublishTime": 1655910900,
-        "type": "STORY",
-        "relatedTickers": [
-            "NEE",
             "VZ"
         ]
     }

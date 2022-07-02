@@ -1,21 +1,21 @@
 {
-    "e1df4c2d-76c9-3a7d-bafa-71e142c71ab4": {
-        "uuid": "e1df4c2d-76c9-3a7d-bafa-71e142c71ab4",
-        "title": "Why Lucid Group Stock Looks More Vulnerable Than Tesla and Its Other Peers",
+    "a062b15f-13ba-3020-bc8f-296dcd1a61e6": {
+        "uuid": "a062b15f-13ba-3020-bc8f-296dcd1a61e6",
+        "title": "NIO, XPeng and Li Auto Deliveries Set a Record. That Can Help Tesla Stock, Too.",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/e1df4c2d-76c9-3a7d-bafa-71e142c71ab4/why-lucid-group-stock-looks.html",
-        "providerPublishTime": 1656117780,
+        "link": "https://finance.yahoo.com/m/a062b15f-13ba-3020-bc8f-296dcd1a61e6/nio%2C-xpeng-and-li-auto.html",
+        "providerPublishTime": 1656707760,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/G_8OWFFr_.7iifTQGFyzCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dJwrbymoLRrebPpjGOHHCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/45ceb41dfcabef5a52c470a92e082fa6",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HyD0D_YD7wQqKRGu0VU_lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JZtzOyyAZvMKRs.nlMnckA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dJwrbymoLRrebPpjGOHHCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/45ceb41dfcabef5a52c470a92e082fa6",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZlF4.mW_TgXp4M4x5HMU5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,30 +23,208 @@
             ]
         },
         "relatedTickers": [
+            "TSLA",
+            "^IXIC",
+            "LI",
+            "NIO",
+            "XPEV",
+            "XPNGF"
+        ]
+    },
+    "cdd10e47-19e4-4b69-9dbe-d91d2222273d": {
+        "uuid": "cdd10e47-19e4-4b69-9dbe-d91d2222273d",
+        "title": "Stock market news lives updates: Stocks kicks of July with gains after the S&P 500's worst first half since 1970",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-july-1-22-113913834.html",
+        "providerPublishTime": 1656705890,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XuzVpEy8ZXg_t.EJtu1a3g--~B/aD0zNTMyO3c9NTI5ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/40fc76c0-f92b-11ec-bffb-ae3e5189c36f",
+                    "width": 5298,
+                    "height": 3532,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2hqIYuMCsC220yg.wfrefA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/40fc76c0-f92b-11ec-bffb-ae3e5189c36f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPY",
+            "^GSPC",
+            "AAPL",
+            "RMPL-P",
+            "^DJI",
+            "MU",
+            "^IXIC",
+            "NIO"
+        ]
+    },
+    "97304d22-e42d-336e-bb56-b38472611ba5": {
+        "uuid": "97304d22-e42d-336e-bb56-b38472611ba5",
+        "title": "\u2018EV market is on fire\u2019 amid high gas prices: CoPilot CEO",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/ev-market-fire-amid-high-195456216.html",
+        "providerPublishTime": 1656705296,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H98VrPTkYwQ2Xbtd0zQD1g--~B/aD0xNDM3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
+                    "width": 2560,
+                    "height": 1437,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xFB0P4MV_yq0W2zUuaQJMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VLTA",
+            "RB=F",
             "LCID",
+            "GM",
+            "000270.KS",
             "RIVN",
+            "LAZR",
+            "HMC",
+            "HNDAF",
+            "F",
+            "XPEV",
+            "XPNGF",
+            "BZ=F",
+            "CL=F",
+            "TSLA",
+            "NIO",
+            "HYMTF",
+            "HO=F",
+            "WTI",
+            "NG=F"
+        ]
+    },
+    "d7d8589a-8406-3fdd-9f65-58fac3766e41": {
+        "uuid": "d7d8589a-8406-3fdd-9f65-58fac3766e41",
+        "title": "Nio reports a record 13,000 EV sales in June",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/nio-reports-record-13-000-194442952.html",
+        "providerPublishTime": 1656704682,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HjGBNy8SYhoSvhyEcWrGag--~B/aD0xNTMxO3c9MjcyNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3e6709c0-f976-11ec-ab57-74aad392b99f",
+                    "width": 2726,
+                    "height": 1531,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bDB46llUvCO4_1jseyYiOQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3e6709c0-f976-11ec-ab57-74aad392b99f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "295ca429-0b7b-3fc9-b16b-68a12639ae9f": {
+        "uuid": "295ca429-0b7b-3fc9-b16b-68a12639ae9f",
+        "title": "Why Nio Stock Jumped Initially, Then Fell Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/295ca429-0b7b-3fc9-b16b-68a12639ae9f/why-nio-stock-jumped.html",
+        "providerPublishTime": 1656700729,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cTjeCm1tG8f9_.snZxzoUw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oh3mwxt9eguNRa64kSlAZw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/986426d507126b7938a13eb7bfd7b587",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eeWLyjUAwzcsIoI4rU4I7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oh3mwxt9eguNRa64kSlAZw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/986426d507126b7938a13eb7bfd7b587",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "84100b81-45d9-39a3-ba01-046886b02c3f": {
+        "uuid": "84100b81-45d9-39a3-ba01-046886b02c3f",
+        "title": "Why Tesla Shares Moved Higher Friday",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/84100b81-45d9-39a3-ba01-046886b02c3f/why-tesla-shares-moved-higher.html",
+        "providerPublishTime": 1656694067,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSLA",
+            "NIO"
+        ]
+    },
+    "b013ba0a-64f9-3506-be33-4485dd7e6e1e": {
+        "uuid": "b013ba0a-64f9-3506-be33-4485dd7e6e1e",
+        "title": "Chinese automakers Nio, Xpeng, and Li Auto record major year-over-year delivery surges",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/chinese-automakers-nio-xpeng-li-135201969.html",
+        "providerPublishTime": 1656683521,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ni.2QHpddlzNqKTC5DTyFQ--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
+                    "width": 2736,
+                    "height": 1536,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/798e3aWs5YIJIm3H.bIg.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "NIO",
             "TSLA",
-            "LI"
+            "LI",
+            "XPEV",
+            "XPNGF"
         ]
     },
-    "1ab86572-b3b9-3467-a353-5fc8e9c5c9b3": {
-        "uuid": "1ab86572-b3b9-3467-a353-5fc8e9c5c9b3",
-        "title": "China\u2019s Nio Says 2 Killed When Test Car Crashed From Third Floor",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/china-nio-says-2-killed-141601960.html",
-        "providerPublishTime": 1655993761,
+    "5a30e361-4016-36ea-9fef-32ea8b9463a1": {
+        "uuid": "5a30e361-4016-36ea-9fef-32ea8b9463a1",
+        "title": "Kohl\u2019s, Micron, NIO and More Friday Morning Stock Movers",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/5a30e361-4016-36ea-9fef-32ea8b9463a1/kohl%E2%80%99s%2C-micron%2C-nio-and-more.html",
+        "providerPublishTime": 1656677040,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RQdtQzPYcvmcE0JIaICU3w--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/aC1zKX.3RoibCbcIWZJxOQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/5b0075c869c50ae7840b9f5be4a0785e",
-                    "width": 4000,
-                    "height": 2667,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IlnUPH4QHtaARsMoK0dajw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/i_B5JnS.FhuC2ylxFgA73g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2961adba4cc395a06302c6d48fbe7f26",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tAsbnajlObb3NVNPtIx1.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aC1zKX.3RoibCbcIWZJxOQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/5b0075c869c50ae7840b9f5be4a0785e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/a5lJZ6gsYCCdFJ5OvHEMGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/i_B5JnS.FhuC2ylxFgA73g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2961adba4cc395a06302c6d48fbe7f26",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -54,174 +232,12 @@
             ]
         },
         "relatedTickers": [
+            "LI",
+            "KSS",
+            "XPEV",
+            "XPNGF",
+            "MU",
             "NIO"
-        ]
-    },
-    "738c8220-248b-30f6-9d12-fba35cc90811": {
-        "uuid": "738c8220-248b-30f6-9d12-fba35cc90811",
-        "title": "NIO Inc. (NIO) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-inc-nio-dips-more-214509785.html",
-        "providerPublishTime": 1655934309,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 900,
-                    "height": 633,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "115c637d-ec15-333e-9944-0af5fc8dfd75": {
-        "uuid": "115c637d-ec15-333e-9944-0af5fc8dfd75",
-        "title": "NIO Stock Is Up 30% This Month. Morgan Stanley Sees More Gains Ahead",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/nio-stock-30-month-morgan-190404242.html",
-        "providerPublishTime": 1655924644,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/z4aJGhGKRLSugQ3Kddw2Zg--~B/aD00ODc7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rX73cFIAdMZ_QZiKCL69IA--~B/aD00ODc7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/50f3fa118b7b595bdc8330ece9abdb73",
-                    "width": 960,
-                    "height": 487,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1shHDCZeCWQMyBDOeXynfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rX73cFIAdMZ_QZiKCL69IA--~B/aD00ODc7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/50f3fa118b7b595bdc8330ece9abdb73",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "0d002f38-6bae-3d7f-93f6-422f68476127": {
-        "uuid": "0d002f38-6bae-3d7f-93f6-422f68476127",
-        "title": "Why Nio Shares Were Moving Lower Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0d002f38-6bae-3d7f-93f6-422f68476127/why-nio-shares-were-moving.html",
-        "providerPublishTime": 1655922900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MqLgcAE9.BEcxmAM.UmB5Q--~B/aD03MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RU_QyL6hR.J63UqtHepDnA--~B/aD03MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2d9f348f0ff4bce157904287a3c918de",
-                    "width": 1400,
-                    "height": 704,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k21Oyaf0aloBDBcNJYIlNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RU_QyL6hR.J63UqtHepDnA--~B/aD03MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2d9f348f0ff4bce157904287a3c918de",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "XPEV"
-        ]
-    },
-    "2ed8abb9-55b0-3c92-840b-df95b3dc2495": {
-        "uuid": "2ed8abb9-55b0-3c92-840b-df95b3dc2495",
-        "title": "Market Sell-Off: 3 Growth Stocks Down 70% (or More) to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/2ed8abb9-55b0-3c92-840b-df95b3dc2495/market-sell-off%3A-3-growth.html",
-        "providerPublishTime": 1655893560,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gU.FYHmcv8zM_V73nFrX7Q--~B/aD04Nzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/y1mdIrN.8emG91qT4EWCAA--~B/aD04Nzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/da8a56ac7e126c7d8519548df4189e05",
-                    "width": 1400,
-                    "height": 877,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8naIUZb2cTlRqtyhKlHNeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/y1mdIrN.8emG91qT4EWCAA--~B/aD04Nzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/da8a56ac7e126c7d8519548df4189e05",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SHOP",
-            "ZM",
-            "NIO"
-        ]
-    },
-    "9e5db776-5eb8-3886-983b-960928ca9fe6": {
-        "uuid": "9e5db776-5eb8-3886-983b-960928ca9fe6",
-        "title": "Why Nio Stock Surged 10% Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9e5db776-5eb8-3886-983b-960928ca9fe6/why-nio-stock-surged-10%25-today.html",
-        "providerPublishTime": 1655831493,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jn5PgJtLz5Gb5oee7NGF2Q--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Sq.EzoEv.GbC5XFib4M6Fw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8afbe90ac48177531d31290e474930ce",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J4MMO.th6lGI9DHG7YKzkA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Sq.EzoEv.GbC5XFib4M6Fw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8afbe90ac48177531d31290e474930ce",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "CNICF"
-        ]
-    },
-    "12530594-e527-3c97-9a69-42961aded3fb": {
-        "uuid": "12530594-e527-3c97-9a69-42961aded3fb",
-        "title": "EV Roundup: NIO's ES7 Launch, ELMS Bankruptcy Filing & More",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ev-roundup-nios-es7-launch-130101390.html",
-        "providerPublishTime": 1655816461,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iAlb6yzFwMUyp5ofu5rCaQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qhvg52zagTklUN.vSTYiuQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c83129facc4e7ddc5b1335297518b7f0",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.qtSAO69dGukxrlvtdqVBQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qhvg52zagTklUN.vSTYiuQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c83129facc4e7ddc5b1335297518b7f0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "TSLA"
         ]
     }
 }
