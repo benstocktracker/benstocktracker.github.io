@@ -27,16 +27,23 @@ export class StocksComponent implements OnInit, AfterViewInit {
   holdings: { [key: string]: any } = {};
   stocksData: any[] = [];
   dataSource = new MatTableDataSource<any>();
+
   columnDefs = [
-    'symbol', 'Cost Average & 52 Week Price Range', 'marketValue',
+    'symbol', 'holding & 52 Week Price Range', 'marketValue',
     'profit', 'yieldPercent', 'dividendIncome', 'yieldOnCost',
-    'payoutRatio', 'exDivDate', 'sector', 'analysis'
+    'payoutRatio', 'exDivDate', 'sector', 'analysis', 'portfolio %'
   ];
   headers = [
-    'Symbol', 'Cost Average & 52 Week Price Range', 'Market Value',
+    'Symbol', 'Holding & 52 Week Price Range', 'Market Value',
     'Profit', 'Yield', 'Dividend Income', 'Yield on Cost',
-    'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis'
+    'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', 'Portfolio %'
   ];
+
+  costBasis = 0;
+  marketValue = 0;
+  unrealizedGain = 0;
+  dividendIncome = 0;
+
   cells: Function[] = [
     (stock: any) => '',
     (stock: any) => '',
@@ -49,15 +56,15 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => ``,
     (stock: any) => stock.sector,
     (stock: any) => stock.analysis.toUpperCase(),
-    (stock: any) => ''
+    (stock: any) => `${(stock.marketValue / this.marketValue * 100).toFixed(2)}%`
   ]
   footerRow: Function[] = [
     () => '',
-    () => `$${this.dataSource.data.map(t => t.costBasis).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // cost basis
-    () => `$${this.dataSource.data.map(t => t.marketValue).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
-    () => `$${this.dataSource.data.map(t => t.profit).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // unrealized gain / loss
+    () => `$${this.costBasis.toFixed(2)}`,  // cost basis
+    () => `$${this.marketValue.toFixed(2)}`,  // market value
+    () => `$${this.unrealizedGain.toFixed(2)}`,  // unrealized gain / loss
     () => '',
-    () => `$${this.dataSource.data.map(t => t.dividendIncome).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // dividend Income
+    () => `$${this.dividendIncome.toFixed(2)}`,  // dividend Income
     () => ``,
     () => '',
     () => '',
@@ -66,9 +73,9 @@ export class StocksComponent implements OnInit, AfterViewInit {
     () => '',
     () => '',
   ]
-  expandedRow!: any;
 
-  showTickerWidget = false;
+  expandedRow!: any;
+  // showTickerWidget = false;
 
   constructor(
     private activatedRoute: ActivatedRoute,
@@ -100,10 +107,10 @@ export class StocksComponent implements OnInit, AfterViewInit {
     }
   }
 
-  getLogoURL(stock: any) { 
-    const website = stock.stats.summaryProfile?.website.split('www.')[1] || 'clearbit.com';
-    return `https://logo.clearbit.com/${website}?size=40&format=png`;
-  }
+  // getLogoURL(stock: any) { 
+  //   const website = stock.stats.summaryProfile?.website.split('www.')[1] || 'clearbit.com';
+  //   return `https://logo.clearbit.com/${website}?size=40&format=png`;
+  // }
 
   ngOnInit() {
     this.activatedRoute.data.subscribe(response => {
@@ -118,6 +125,11 @@ export class StocksComponent implements OnInit, AfterViewInit {
       //   });
       // })
     });
+
+    this.costBasis = this.dataSource.data.map(t => t.costBasis).reduce((acc, value) => acc + value, 0);
+    this.marketValue = this.dataSource.data.map(t => t.marketValue).reduce((acc, value) => acc + value, 0);
+    this.unrealizedGain = this.dataSource.data.map(t => t.profit).reduce((acc, value) => acc + value, 0);
+    this.dividendIncome = this.dataSource.data.map(t => t.dividendIncome).reduce((acc, value) => acc + value, 0);
   }
 
   ngAfterViewInit(): void {
@@ -133,7 +145,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
     this.expandedRow = this.expandedRow === row ? null : row;
   }
 
-  handleToggle(event: any) {
-    this.showTickerWidget = event.checked;
-  }
+  // handleToggle(event: any) {
+  //   this.showTickerWidget = event.checked;
+  // }
 }
