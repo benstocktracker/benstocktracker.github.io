@@ -61,12 +61,11 @@
               class="single-quote-widget"
             ></app-single-quote-widget>
             <!-- <img
-              *ngIf="!showTickerWidget"
               [src]="getLogoURL(stock)"
               alt="Logo"
               onerror="this.src='https://logo.clearbit.com/clearbit.com?size=40&format=png'"
-            /> -->
-            <div *ngIf="!showTickerWidget">{{ stock.symbol }}</div>
+              <div *ngIf="!showTickerWidget">{{ stock.symbol }}</div> 
+            -->
           </div>
           <div *ngIf="cidx === 1" (click)="expandRow(stock)">
             <app-price-range-slider
