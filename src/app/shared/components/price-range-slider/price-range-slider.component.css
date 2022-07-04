@@ -1,16 +1,14 @@
-.price-range-slider-container {
-    padding-top: 10px;
-}
-
 .price-range-slider {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
 }
 
 mat-slider {
-    height: 30px;
-    top: -10px;
+  height: 30px;
+  top: -10px;
 }
+
 div {
-    font-size: 1rem;
+  font-size: 1rem;
 }

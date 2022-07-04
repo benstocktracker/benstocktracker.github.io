@@ -29,12 +29,12 @@ export class StocksComponent implements OnInit, AfterViewInit {
   dataSource = new MatTableDataSource<any>();
 
   columnDefs = [
-    'symbol', 'holding & 52 Week Price Range', 'marketValue',
+    'symbol', '52 Week Range & holding', 'marketValue',
     'profit', 'yieldPercent', 'dividendIncome', 'yieldOnCost',
     'payoutRatio', 'exDivDate', 'sector', 'analysis', 'portfolio %'
   ];
   headers = [
-    'Symbol', 'Holding & 52 Week Price Range', 'Market Value',
+    'Symbol', '52 Week Range & Holding', 'Market Value',
     'Profit', 'Yield', 'Dividend Income', 'Yield on Cost',
     'Payout Ratio', 'Ex-Div Date', 'Sector', 'Analysis', 'Portfolio %'
   ];
@@ -50,7 +50,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.profit.toFixed(2)}`,
     (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield.toFixed(2)})` : 'N/A',
-    (stock: any) => stock.yield > 0 ? `$${stock.dividendIncome.toFixed(2)}` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `$${stock.dividendIncome.toFixed(2)} (${(stock.dividendIncome / this.dividendIncome * 100).toFixed(2)}%)` : 'N/A',
     (stock: any) => stock.yield > 0 ? `${stock.yieldOnCost.toFixed(2)}%` : 'N/A',
     (stock: any) => stock.yield > 0 ? `${stock.payoutRatio.toFixed(2)}%` : 'N/A',
     (stock: any) => ``,
