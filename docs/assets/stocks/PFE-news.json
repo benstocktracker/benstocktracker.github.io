@@ -1,4 +1,45 @@
 {
+    "c31a7dd1-296f-3949-8703-9dc1d4ba8e92": {
+        "uuid": "c31a7dd1-296f-3949-8703-9dc1d4ba8e92",
+        "title": "German health minister in move to boost use of COVID treatment Paxlovid",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/german-health-minister-move-boost-145027012.html",
+        "providerPublishTime": 1656859827,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "6d157b50-5cc1-4595-ad63-247d0eac3948": {
+        "uuid": "6d157b50-5cc1-4595-ad63-247d0eac3948",
+        "title": "How mRNA tech blew open the door of UPS's cold chain logistics business",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/how-m-rna-tech-blew-open-the-door-of-up-ss-cold-chain-logistics-business-150904999.html",
+        "providerPublishTime": 1656774544,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hWCflEiGLam9fogSof967A--~B/aD04MzI7dz0xMzEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/82d897e0-fa16-11ec-9fb7-276251fc5eed",
+                    "width": 1312,
+                    "height": 832,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/L5qZcE3rzLtaVXn_ymEZyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/82d897e0-fa16-11ec-9fb7-276251fc5eed",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "MRNA",
+            "BNTX",
+            "UPS"
+        ]
+    },
     "c18a1027-558e-3528-b891-487e3534bd4e": {
         "uuid": "c18a1027-558e-3528-b891-487e3534bd4e",
         "title": "Pfizer (PFE) Seeks FDA Nod for Its Oral Antiviral COVID Pill",
@@ -151,47 +192,6 @@
         "type": "STORY",
         "relatedTickers": [
             "PFE"
-        ]
-    },
-    "23e182e3-0fd8-3be6-bfee-c3ef6c195758": {
-        "uuid": "23e182e3-0fd8-3be6-bfee-c3ef6c195758",
-        "title": "RPT-UPDATE 4-US FDA wants COVID boosters targeting Omicron BA.4, BA.5 subvariants",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/rpt-4-us-fda-wants-213411700.html",
-        "providerPublishTime": 1656624851,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "5be9390a-7e7d-326d-b89a-a40eab0127fd": {
-        "uuid": "5be9390a-7e7d-326d-b89a-a40eab0127fd",
-        "title": "The FDA Just Handed BioNTech And Moderna A Gift \u2014 But Only One Jumped",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/5be9390a-7e7d-326d-b89a-a40eab0127fd/the-fda-just-handed-biontech.html",
-        "providerPublishTime": 1656619817,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ah1YTTj8KAr1jidGE8UthA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yDNpGRLTHdwYyeEVQtPj9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6911192bbf5259454895e47b2d8f14fd",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kIX8BFjPeLQsIH52LQeXUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yDNpGRLTHdwYyeEVQtPj9Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6911192bbf5259454895e47b2d8f14fd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BNTX",
-            "MRNA",
-            "PFE",
-            "NVAX"
         ]
     }
 }

@@ -1,88 +1,140 @@
 <ng-container>
   <div class="container-header">
     <header class="summary">
-      <app-stat-card icon="paid" [value]="footerRow[2]()" subtitle="Market Value"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[1]()" subtitle="Investment"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[3]()" subtitle="Unrealized Profit" [color]="footerRow[3]()[1] === '-' ? 'tomato': 'forestgreen'"></app-stat-card>
-      <app-stat-card icon="paid" [value]="footerRow[5]()" subtitle="Dividend dividendIncome" color="steelblue"></app-stat-card>
+      <app-stat-card
+        icon="paid"
+        [value]="footerRow[2]()"
+        subtitle="Market Value"
+      ></app-stat-card>
+      <app-stat-card
+        icon="paid"
+        [value]="footerRow[1]()"
+        subtitle="Investment"
+      ></app-stat-card>
+      <app-stat-card
+        icon="paid"
+        [value]="footerRow[3]()"
+        subtitle="Unrealized Profit"
+        [color]="footerRow[3]()[1] === '-' ? 'tomato' : 'forestgreen'"
+      ></app-stat-card>
+      <app-stat-card
+        icon="paid"
+        [value]="footerRow[5]()"
+        subtitle="Dividend dividendIncome"
+        color="steelblue"
+      ></app-stat-card>
     </header>
 
     <div class="table-actions">
-      <DIV>
-        <mat-slide-toggle color="primary" checked="false" class="widget-toggle" labelPosition="before" (change)="handleToggle($event)">Ticker Widgets</mat-slide-toggle>
-        <mat-form-field appearance="standard">
-          <mat-label>Filter</mat-label>
-          <input matInput (keyup)="applyFilter($event)" #input>
-        </mat-form-field>
-      </DIV>
-      <mat-paginator [length]="dataSource.data.length" 
-        [pageSizeOptions]="[5, 10, 20, 50]" 
-        [pageSize]="50"
-        showFirstLastButtons>
-      </mat-paginator>
+      <mat-form-field appearance="standard">
+        <mat-label>Filter</mat-label>
+        <input matInput (keyup)="applyFilter($event)" #input />
+      </mat-form-field>
     </div>
   </div>
-  
+
   <div class="table-container">
     <!-- matSortActive="yieldOnCost" matSortDirection="desc" -->
-    <table mat-table matSort multiTemplateDataRows [dataSource]="dataSource" class="mat-elevation-z8">
-      <ng-container *ngFor="let column of columnDefs; index as cidx" [matColumnDef]="column" [sticky]="cidx === 0">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header>{{ headers[cidx] }}</th>
+    <table
+      mat-table
+      matSort
+      multiTemplateDataRows
+      [dataSource]="dataSource"
+      class="mat-elevation-z8"
+    >
+      <ng-container
+        *ngFor="let column of columnDefs; index as cidx"
+        [matColumnDef]="column"
+        [sticky]="cidx === 0"
+      >
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          {{ headers[cidx] }}
+        </th>
         <td mat-cell *matCellDef="let stock">
-          <div *ngIf="cidx === 0;" class="table-col-0" (click)="expandRow(stock)">
-            <app-single-quote-widget *ngIf="showTickerWidget" symbol="{{stock.symbol}}" class="single-quote-widget"></app-single-quote-widget>
-            <img *ngIf="!showTickerWidget" [src]="getLogoURL(stock)" alt="Logo" onerror="this.src='https://logo.clearbit.com/clearbit.com?size=40&format=png'">
+          <div
+            *ngIf="cidx === 0"
+            class="table-col-0"
+            (click)="expandRow(stock)"
+          >
+            <app-single-quote-widget
+              symbol="{{ stock.symbol }}"
+              class="single-quote-widget"
+            ></app-single-quote-widget>
+            <!-- <img
+              *ngIf="!showTickerWidget"
+              [src]="getLogoURL(stock)"
+              alt="Logo"
+              onerror="this.src='https://logo.clearbit.com/clearbit.com?size=40&format=png'"
+            /> -->
             <div *ngIf="!showTickerWidget">{{ stock.symbol }}</div>
           </div>
-          <div *ngIf="cidx === 1;" (click)="expandRow(stock)">
+          <div *ngIf="cidx === 1" (click)="expandRow(stock)">
             <app-price-range-slider
               [min]="stock.stats.summaryDetail.fiftyTwoWeekLow.toFixed(2)"
               [max]="stock.stats.summaryDetail.fiftyTwoWeekHigh.toFixed(2)"
-              [currentPrice]="stock.stats.price.regularMarketPreviousClose.toFixed(2)"
+              [currentPrice]="
+                stock.stats.price.regularMarketPreviousClose.toFixed(2)
+              "
               [costAverage]="stock.costAverage.toFixed(2)"
               [shares]="stock.shares"
             ></app-price-range-slider>
           </div>
-          <div *ngIf="cidx === 3;" (click)="expandRow(stock)">
-            <div [ngStyle]="{'color': getColColor(stock, cidx)}">{{ stock.profitPercent.toFixed(2) }}%</div>
-            <!-- <div [ngStyle]="{'color': getColColor(stock, cidx)}">${{ stock.profit.toFixed(2) }}</div> -->
+          <div *ngIf="cidx === 3" (click)="expandRow(stock)">
+            <div [ngStyle]="{ color: getColColor(stock, cidx) }">
+              {{ stock.profitPercent.toFixed(2) }}%
+            </div>
           </div>
           <div *ngIf="cidx === 8; else elseBlock" (click)="expandRow(stock)">
             <div>{{ stock.exDivDate }}</div>
           </div>
-          <!-- <div *ngIf="cidx === 11">
-            <button mat-button color="primary">
-              <mat-icon class="material-icons-round" (click)="expandRow(stock)">{{ expandedRow ? 'expand_less' : 'expand_more' }}</mat-icon>
-            </button>
-          </div> -->
           <ng-template #elseBlock>
-            <span [ngStyle]="{'color': getColColor(stock, cidx)}" (click)="expandRow(stock)">
+            <span
+              [ngStyle]="{ color: getColColor(stock, cidx) }"
+              (click)="expandRow(stock)"
+            >
               {{ cells[cidx](stock) }}
             </span>
           </ng-template>
         </td>
-        <td mat-footer-cell *matFooterCellDef [ngStyle]="{'color': (footerRow[cidx]()[1] === '-') ? 'tomato' : 'forestgreen'}">
+        <td
+          mat-footer-cell
+          *matFooterCellDef
+          [ngStyle]="{
+            color: footerRow[cidx]()[1] === '-' ? 'tomato' : 'forestgreen'
+          }"
+        >
           {{ footerRow[cidx]() }}
         </td>
       </ng-container>
-  
+
       <ng-container matColumnDef="expandedRow">
         <td mat-cell *matCellDef="let stock" [attr.colspan]="columnDefs.length">
-          <div class="expanded-stock-detail" [@detailExpand]="stock === expandedRow ? 'expanded' : 'collapsed'">
-            <app-stocks-details *ngIf="expandedRow && expandedRow.symbol === stock.symbol" [stockStats]="stock.stats"></app-stocks-details>
+          <div
+            class="expanded-stock-detail"
+            [@detailExpand]="stock === expandedRow ? 'expanded' : 'collapsed'"
+          >
+            <app-stocks-details
+              *ngIf="expandedRow && expandedRow.symbol === stock.symbol"
+              [stockStats]="stock.stats"
+            ></app-stocks-details>
           </div>
         </td>
       </ng-container>
-  
+
       <tr mat-header-row *matHeaderRowDef="columnDefs; sticky: true"></tr>
-      <tr mat-row *matRowDef="let row; columns: columnDefs"
-          class="stock-row" 
-          [class.example-expanded-row]="expandedRow === row"
-      >
-      </tr>
-      <tr mat-row *matRowDef="let row; columns: ['expandedRow']" class="expanded-stock-row"></tr>
+      <tr
+        mat-row
+        *matRowDef="let row; columns: columnDefs"
+        class="stock-row"
+        [class.example-expanded-row]="expandedRow === row"
+      ></tr>
+      <tr
+        mat-row
+        *matRowDef="let row; columns: ['expandedRow']"
+        class="expanded-stock-row"
+      ></tr>
       <tr mat-footer-row *matFooterRowDef="columnDefs; sticky: true"></tr>
-  
+
       <!-- Row shown when there is no matching data. -->
       <tr *matNoDataRow class="mat-row">
         <td class="mat-cell" colspan="4">

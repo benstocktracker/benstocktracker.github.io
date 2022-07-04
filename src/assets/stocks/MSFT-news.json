@@ -1,4 +1,92 @@
 {
+    "b328d77a-61c3-3868-8c3a-4b3e16a54b77": {
+        "uuid": "b328d77a-61c3-3868-8c3a-4b3e16a54b77",
+        "title": "Have $1,000? 2 Warren Buffett Stocks to Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b328d77a-61c3-3868-8c3a-4b3e16a54b77/have-%241%2C000%3F-2-warren-buffett.html",
+        "providerPublishTime": 1656847800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/prdK2iQpYyhLtJNcl758tA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cADXHDDJWTwlkQjg8FUUCA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0ff7c5137647984f8cc27e2ee48ac2b6",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hFMp84HZyxigBoR4bPEF4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cADXHDDJWTwlkQjg8FUUCA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0ff7c5137647984f8cc27e2ee48ac2b6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNOW",
+            "ATVI",
+            "MSFT"
+        ]
+    },
+    "de55f9c6-c057-3fd2-a4ee-949af33bf50d": {
+        "uuid": "de55f9c6-c057-3fd2-a4ee-949af33bf50d",
+        "title": "Nasdaq Sell-Off: 3 Growth Stocks You May Regret Not Buying on the Dip",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/de55f9c6-c057-3fd2-a4ee-949af33bf50d/nasdaq-sell-off%3A-3-growth.html",
+        "providerPublishTime": 1656778500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J5Y7mV3vqpaqzkrsEZPMuQ--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lHBw0NDPsmKFHKF6rf2hrw--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e4998ca99aed82837dbef28d0b12adb",
+                    "width": 1400,
+                    "height": 906,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yuwVg2Ix5b1In1lMqZZP.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lHBw0NDPsmKFHKF6rf2hrw--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e4998ca99aed82837dbef28d0b12adb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "CRWD",
+            "COMP",
+            "LULU"
+        ]
+    },
+    "50ef826e-1ba6-32a9-944a-6cac889d2328": {
+        "uuid": "50ef826e-1ba6-32a9-944a-6cac889d2328",
+        "title": "1 Semiconductor Growth Stock You'll Wish You'd Bought on the Dip",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/50ef826e-1ba6-32a9-944a-6cac889d2328/1-semiconductor-growth-stock.html",
+        "providerPublishTime": 1656768720,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jLUxXNn8k5AxoGtQ9JmKTQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gW9kpakjNT_SefgoQZHO_w--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf2dc0998695ca602f6bc959ffb56472",
+                    "width": 1400,
+                    "height": 841,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mV1Gt9Z_Qtc0ff6ZZOaYMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gW9kpakjNT_SefgoQZHO_w--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf2dc0998695ca602f6bc959ffb56472",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMD",
+            "TSLA",
+            "MSFT"
+        ]
+    },
     "78238cf2-7186-332b-88a9-9a4909904188": {
         "uuid": "78238cf2-7186-332b-88a9-9a4909904188",
         "title": "Bear Markets and Recessions Are No Match for These 3 Top Stocks",
@@ -142,126 +230,6 @@
             "SPOT",
             "FKINX",
             "NVDA"
-        ]
-    },
-    "ea597139-f191-3c69-8f13-8e4697facff8": {
-        "uuid": "ea597139-f191-3c69-8f13-8e4697facff8",
-        "title": "Bond markets move to the downside, mega cap tech stocks hold on to gains",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/bond-markets-move-downside-mega-142337378.html",
-        "providerPublishTime": 1656685417,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/326LzTVCeoF_NnhbG3aqUQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2d1a7440-f949-11ec-bddf-69483273b961",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/h4dK59SAeTAwrX2VynmXzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2d1a7440-f949-11ec-bddf-69483273b961",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^TNX",
-            "AMZN",
-            "MU",
-            "MSFT",
-            "XLB",
-            "XLY",
-            "META",
-            "AAPL",
-            "RMPL-P",
-            "^DJI",
-            "^GSPC",
-            "GOOG",
-            "GOOGL",
-            "^FVX",
-            "^IXIC",
-            "TSLA",
-            "^TYX",
-            "CL=F"
-        ]
-    },
-    "dc800df2-01c8-39e9-a1e5-7dc979907369": {
-        "uuid": "dc800df2-01c8-39e9-a1e5-7dc979907369",
-        "title": "GM earnings: \u2018It\u2019s a boy that cried wolf,\u2019 analyst says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/gm-earnings-boy-cried-wolf-135718165.html",
-        "providerPublishTime": 1656683838,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dLEIv82EnrKYf2pg4mnOyQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/6fa16a50-f942-11ec-b77e-5c7059740efa",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/t9EbIuWQ45wXMjCWbz2xlw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/6fa16a50-f942-11ec-b77e-5c7059740efa",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "AMD",
-            "AMZN",
-            "FKINX",
-            "NVDA",
-            "TSLA",
-            "INTC",
-            "MU",
-            "NFLX",
-            "GM",
-            "DIS",
-            "AAPL",
-            "RMPL-P",
-            "QCOM",
-            "META",
-            "MSFT"
-        ]
-    },
-    "ce1f1cc3-f928-34d3-b63b-c838086bbc1f": {
-        "uuid": "ce1f1cc3-f928-34d3-b63b-c838086bbc1f",
-        "title": "Activision Stock Is a Bet on Microsoft\u2019s Takeover. It\u2019s One Worth Making.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/ce1f1cc3-f928-34d3-b63b-c838086bbc1f/activision-stock-is-a-bet-on.html",
-        "providerPublishTime": 1656683700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_okzv5X9LT1efD6CS3xYpQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/l.c3Bg3tY.5UEYAnGKUHUQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f10b9ad35915eddd6a9677f5c0666a4d",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DqMFGbsqOboe2BRYjvILZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/l.c3Bg3tY.5UEYAnGKUHUQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f10b9ad35915eddd6a9677f5c0666a4d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EA",
-            "SNEJF",
-            "SONY",
-            "MERFX",
-            "MERIX",
-            "MSFT",
-            "ATVI"
         ]
     }
 }

@@ -198,7 +198,7 @@
         "regularMarketOpen": 95.83,
         "averageDailyVolume3Month": 515701,
         "exchange": "NYQ",
-        "regularMarketTime": 1656705602,
+        "regularMarketTime": 1656705604,
         "volume24Hr": null,
         "regularMarketDayHigh": 97.85,
         "shortName": "Federal Realty Investment Trust",
@@ -1424,7 +1424,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "NEUTRAL",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

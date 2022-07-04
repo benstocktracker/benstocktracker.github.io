@@ -1,7 +1,7 @@
 {
     "defaultKeyStatistics": {
         "annualHoldingsTurnover": null,
-        "enterpriseToRevenue": 8.083,
+        "enterpriseToRevenue": 8.189,
         "beta3Year": null,
         "profitMargins": 0.74834996,
         "enterpriseToEbitda": null,
@@ -32,7 +32,7 @@
         "sharesShortPreviousMonthDate": 1652400000,
         "floatShares": null,
         "beta": 1.726406,
-        "enterpriseValue": 760471296,
+        "enterpriseValue": 770403008,
         "priceHint": 2,
         "threeYearAverageReturn": null,
         "lastSplitDate": null,
@@ -204,7 +204,7 @@
         "shortName": "TriplePoint Venture Growth BDC ",
         "averageDailyVolume10Day": 242090,
         "longName": "TriplePoint Venture Growth BDC Corp.",
-        "regularMarketChange": 0.320001,
+        "regularMarketChange": 0.32000065,
         "currencySymbol": "$",
         "regularMarketPreviousClose": 12.74,
         "postMarketTime": 1656712192,
@@ -216,13 +216,13 @@
         "exchangeName": "NYSE",
         "preMarketChange": null,
         "circulatingSupply": null,
-        "regularMarketDayLow": 12.74,
+        "regularMarketDayLow": 12.63,
         "priceHint": 2,
         "currency": "USD",
         "regularMarketPrice": 13.06,
         "regularMarketVolume": 155772,
         "lastMarket": null,
-        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketSource": "DELAYED",
         "openInterest": null,
         "marketState": "CLOSED",
         "underlyingSymbol": null,
@@ -236,7 +236,7 @@
         "preMarketSource": "DELAYED",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": 0.0251178
+        "regularMarketChangePercent": 0.02511779
     },
     "financialData": {
         "ebitdaMargins": 0,
@@ -325,7 +325,7 @@
         "beta": 1.726406,
         "circulatingSupply": null,
         "startDate": null,
-        "regularMarketDayLow": 12.74,
+        "regularMarketDayLow": 12.63,
         "priceHint": 2,
         "currency": "USD",
         "trailingPE": 5.753304,
@@ -338,8 +338,8 @@
         "strikePrice": null,
         "averageVolume": 199020,
         "priceToSalesTrailing12Months": 4.3084717,
-        "dayLow": 12.74,
-        "ask": 13.05,
+        "dayLow": 12.63,
+        "ask": 13.75,
         "ytdReturn": null,
         "askSize": 900,
         "volume": 155772,
@@ -349,9 +349,9 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": 11,
         "fiftyTwoWeekLow": 11.86,
-        "bid": 13.04,
+        "bid": 12.5,
         "tradeable": false,
-        "dividendYield": 0.113000005,
+        "dividendYield": 0.1103,
         "bidSize": 1100,
         "dayHigh": 13.12,
         "coinMarketCapLink": null
@@ -574,7 +574,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

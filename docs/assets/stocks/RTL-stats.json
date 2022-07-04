@@ -1,10 +1,10 @@
 {
     "defaultKeyStatistics": {
         "annualHoldingsTurnover": null,
-        "enterpriseToRevenue": 9.304,
+        "enterpriseToRevenue": 9.36,
         "beta3Year": null,
         "profitMargins": 0.026619999,
-        "enterpriseToEbitda": 15.76,
+        "enterpriseToEbitda": 15.856,
         "52WeekChange": -0.121462286,
         "morningStarRiskRating": null,
         "forwardEps": null,
@@ -18,7 +18,7 @@
         "sharesPercentSharesOut": 0.020399999,
         "fundFamily": null,
         "lastFiscalYearEnd": 1640908800,
-        "heldPercentInstitutions": 0.56734,
+        "heldPercentInstitutions": 0.56476,
         "netIncomeToCommon": -15123000,
         "trailingEps": -0.126,
         "lastDividendValue": 0.213,
@@ -32,7 +32,7 @@
         "sharesShortPreviousMonthDate": 1652400000,
         "floatShares": 131859422,
         "beta": 1.368498,
-        "enterpriseValue": 3264815360,
+        "enterpriseValue": 3284708096,
         "priceHint": 2,
         "threeYearAverageReturn": null,
         "lastSplitDate": null,
@@ -296,7 +296,7 @@
             "revenueHigh": 83770000
         },
         "exDividendDate": 1649376000,
-        "dividendDate": 1650240000
+        "dividendDate": 1657843200
     },
     "summaryDetail": {
         "previousClose": 7.28,
@@ -346,9 +346,9 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": null,
         "fiftyTwoWeekLow": 6.66,
-        "bid": 7.44,
+        "bid": 7.45,
         "tradeable": false,
-        "dividendYield": 0.1161,
+        "dividendYield": 0.1164,
         "bidSize": 4000,
         "dayHigh": 7.46,
         "coinMarketCapLink": null
@@ -382,7 +382,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

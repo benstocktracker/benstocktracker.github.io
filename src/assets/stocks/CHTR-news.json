@@ -54,6 +54,39 @@
             "CHTR"
         ]
     },
+    "d4045699-3450-3c76-92b6-fb18f96bf7b4": {
+        "uuid": "d4045699-3450-3c76-92b6-fb18f96bf7b4",
+        "title": "7 Warren Buffett Stocks to Buy and Hold for the Next Decade",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-warren-buffett-stocks-buy-143849687.html",
+        "providerPublishTime": 1656513529,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Tu4HhBzS.GM0DBFRRcanoQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2jJRWBfDYFDVzL.q6cB59w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5314b134984a5aa9416d8a20ab5b5cb4",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0OPumnUJE_J.cZDMGZoqpg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2jJRWBfDYFDVzL.q6cB59w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5314b134984a5aa9416d8a20ab5b5cb4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR",
+            "VZ",
+            "KO",
+            "ITOCY",
+            "AAPL",
+            "LSXMK",
+            "RH"
+        ]
+    },
     "660d50d4-d425-308b-8e59-3369c1ad7518": {
         "uuid": "660d50d4-d425-308b-8e59-3369c1ad7518",
         "title": "Top 10 Stock Picks of Roberto Mignone\u2019s Bridger Management",
@@ -204,39 +237,6 @@
             "CHTR",
             "WMT",
             "AMZN"
-        ]
-    },
-    "cc24ad52-30e8-39c0-845b-95ed37ec262a": {
-        "uuid": "cc24ad52-30e8-39c0-845b-95ed37ec262a",
-        "title": "7 Companies That Should Announce Stock Splits After Amazon",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-companies-announce-stock-splits-105357937.html",
-        "providerPublishTime": 1655290437,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qeKY.A42g3uVEcXKwR0fow--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/damw5CH.i0hoAXgAObogIg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/f95f8f077727b0ed4b838de194d11134",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HtXnIx4zF0gpPzVTJNzxjg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/damw5CH.i0hoAXgAObogIg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/f95f8f077727b0ed4b838de194d11134",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "CMG",
-            "COST",
-            "BKNG",
-            "AMZN",
-            "CHTR",
-            "EQIX"
         ]
     }
 }

@@ -57,7 +57,7 @@ export class StocksComponent implements OnInit, AfterViewInit {
     () => `$${this.dataSource.data.map(t => t.marketValue).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // market value
     () => `$${this.dataSource.data.map(t => t.profit).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // unrealized gain / loss
     () => '',
-    () => `$${this.dataSource.data.map(t => t.dividendIncome).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // dividend dividendIncome
+    () => `$${this.dataSource.data.map(t => t.dividendIncome).reduce((acc, value) => acc + value, 0).toFixed(2)}`,  // dividend Income
     () => ``,
     () => '',
     () => '',

@@ -1,4 +1,31 @@
 {
+    "7eb21ae1-1109-36dd-8a86-72cf791b413a": {
+        "uuid": "7eb21ae1-1109-36dd-8a86-72cf791b413a",
+        "title": "Altria\u2019s Dividend Yield Spiked After Juul Ban. The Payout Looks Secure.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/7eb21ae1-1109-36dd-8a86-72cf791b413a/altria%E2%80%99s-dividend-yield.html",
+        "providerPublishTime": 1656847800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QS5Eiwi_yPn6NjiNXNLhyQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xc5jfxvOdGmdxpbGGnKP0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/114be92f3acc5b6931d6a8badd1e4a4e",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QCetWuV1I0gTwwLMzV30aw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xc5jfxvOdGmdxpbGGnKP0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/114be92f3acc5b6931d6a8badd1e4a4e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO"
+        ]
+    },
     "824939d0-c9d7-351b-a7f1-502c98ce73ad": {
         "uuid": "824939d0-c9d7-351b-a7f1-502c98ce73ad",
         "title": "10 Extreme Dividend Stocks With Upside Potential",
@@ -195,33 +222,6 @@
             "MSTR",
             "MO",
             "ADBE"
-        ]
-    },
-    "7b4e6cfa-4edf-34cd-823f-89cd590f64ea": {
-        "uuid": "7b4e6cfa-4edf-34cd-823f-89cd590f64ea",
-        "title": "Juul Ban: Here's What Altria Investors Need to Know",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7b4e6cfa-4edf-34cd-823f-89cd590f64ea/juul-ban%3A-here%27s-what-altria.html",
-        "providerPublishTime": 1656343500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.20tw1yYposfnsm3nOvT9A--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QtTnsDI.dlUiLJ2cGe7Jtw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1ea9d9a37c37d88597d53fc5afa28594",
-                    "width": 1400,
-                    "height": 841,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QfDXTuDRhrB_QhT..Znv_Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QtTnsDI.dlUiLJ2cGe7Jtw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1ea9d9a37c37d88597d53fc5afa28594",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MO"
         ]
     }
 }

@@ -1,4 +1,67 @@
 {
+    "c4def8ef-b9fa-3c12-a9ff-18ccd2f8a577": {
+        "uuid": "c4def8ef-b9fa-3c12-a9ff-18ccd2f8a577",
+        "title": "Banks Get Burned by Risky Debt, Imperiling Buyout Activity",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/c4def8ef-b9fa-3c12-a9ff-18ccd2f8a577/banks-get-burned-by-risky.html",
+        "providerPublishTime": 1656853380,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xqMSFY3xGN_L9gBOO_9_BQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9HvNg0FyzEr3P_pVI8zBA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/128b8e46befad5524dc03d390ff982a5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/feV4zlqIUiU0ri0_MRL2Cw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9HvNg0FyzEr3P_pVI8zBA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/128b8e46befad5524dc03d390ff982a5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GS",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "CS",
+            "CTXS"
+        ]
+    },
+    "ee3d2eef-1936-4cdb-a9ad-442c6e9d2ab1": {
+        "uuid": "ee3d2eef-1936-4cdb-a9ad-442c6e9d2ab1",
+        "title": "Micron: \u2018It could take a few quarters for growth to re-emerge\u2019 in semiconductors, analyst says",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/semiconductor-chip-tech-earnings-covid-consumer-demand-price-target-141737884.html",
+        "providerPublishTime": 1656771457,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/k4beMc83oeBfUOUbU_ecHw--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/913bdc10-f972-11ec-a5bd-f36f7b9fba36",
+                    "width": 6720,
+                    "height": 4480,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0.M68aZKKiJ3wdGW5PrJ3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/913bdc10-f972-11ec-a5bd-f36f7b9fba36",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "MU",
+            "^SOX"
+        ]
+    },
     "b0c92b4c-5131-352a-a4fa-df2c8983d948": {
         "uuid": "b0c92b4c-5131-352a-a4fa-df2c8983d948",
         "title": "General Mills and Micron Raised Their Dividends. Banks Should Be Lifting Theirs Soon, Too.",
@@ -181,70 +244,6 @@
             "FULTP",
             "C",
             "BAC"
-        ]
-    },
-    "79c73dbb-c358-3dcd-a727-b0a317469ae7": {
-        "uuid": "79c73dbb-c358-3dcd-a727-b0a317469ae7",
-        "title": "Is Most-Watched Stock Bank of America Corporation (BAC) Worth Betting on Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/most-watched-stock-bank-america-130001988.html",
-        "providerPublishTime": 1656594001,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/98.a1RXLLn1auNXiH78frA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
-                    "width": 900,
-                    "height": 602,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TtLwuPCMf6GMxPk1IqJQsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BAC"
-        ]
-    },
-    "94bd555c-7703-364f-a164-87c15b070285": {
-        "uuid": "94bd555c-7703-364f-a164-87c15b070285",
-        "title": "Fidelity Investments expands employee coverage in wake of Roe ruling",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/94bd555c-7703-364f-a164-87c15b070285/fidelity-investments-expands.html",
-        "providerPublishTime": 1656526912,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Orq1CSIUm7IzIZ8UR7shTQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fdP9JI9U.nTrhmRni3izkw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/43ad186c66374e57711b703eda448bb4",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/X1Rls6u2amM2kezP31EB.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fdP9JI9U.nTrhmRni3izkw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/43ad186c66374e57711b703eda448bb4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CFG",
-            "CFG-PD",
-            "CFG-PE",
-            "STT",
-            "STT-PD",
-            "STT-PG",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "WFC",
-            "WFC-PD"
         ]
     }
 }

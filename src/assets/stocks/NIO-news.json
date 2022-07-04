@@ -1,4 +1,32 @@
 {
+    "ef13620d-0c46-3c97-89a7-87f05abed719": {
+        "uuid": "ef13620d-0c46-3c97-89a7-87f05abed719",
+        "title": "3 Monster Growth Stocks That Can Turn $200,000 Into $1 Million by 2030",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ef13620d-0c46-3c97-89a7-87f05abed719/3-monster-growth-stocks-that.html",
+        "providerPublishTime": 1656840060,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DO5Cq1iH97uxqCFbqy3Pkg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1mUp3yKqvb6rAsO8LpCSHQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/32f207a783056ffa8b3eefe32e25c36a",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wbWqx0Y4ocS3xauFMj7urg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1mUp3yKqvb6rAsO8LpCSHQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/32f207a783056ffa8b3eefe32e25c36a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO",
+            "TRUP"
+        ]
+    },
     "a062b15f-13ba-3020-bc8f-296dcd1a61e6": {
         "uuid": "a062b15f-13ba-3020-bc8f-296dcd1a61e6",
         "title": "NIO, XPeng and Li Auto Deliveries Set a Record. That Can Help Tesla Stock, Too.",
@@ -206,38 +234,6 @@
             "LI",
             "XPEV",
             "XPNGF"
-        ]
-    },
-    "5a30e361-4016-36ea-9fef-32ea8b9463a1": {
-        "uuid": "5a30e361-4016-36ea-9fef-32ea8b9463a1",
-        "title": "Kohl\u2019s, Micron, NIO and More Friday Morning Stock Movers",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/5a30e361-4016-36ea-9fef-32ea8b9463a1/kohl%E2%80%99s%2C-micron%2C-nio-and-more.html",
-        "providerPublishTime": 1656677040,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IlnUPH4QHtaARsMoK0dajw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/i_B5JnS.FhuC2ylxFgA73g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2961adba4cc395a06302c6d48fbe7f26",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/a5lJZ6gsYCCdFJ5OvHEMGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/i_B5JnS.FhuC2ylxFgA73g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2961adba4cc395a06302c6d48fbe7f26",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LI",
-            "KSS",
-            "XPEV",
-            "XPNGF",
-            "MU",
-            "NIO"
         ]
     }
 }

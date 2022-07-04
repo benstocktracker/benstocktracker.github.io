@@ -218,7 +218,7 @@
         "priceHint": 2,
         "currency": "USD",
         "regularMarketPrice": 79.26,
-        "regularMarketVolume": 7534222,
+        "regularMarketVolume": 7539232,
         "lastMarket": null,
         "regularMarketSource": "FREE_REALTIME",
         "openInterest": null,
@@ -295,7 +295,7 @@
             "revenueHigh": 8651900000
         },
         "exDividendDate": 1660176000,
-        "dividendDate": 1653609600
+        "dividendDate": 1661472000
     },
     "summaryDetail": {
         "previousClose": 76.39,
@@ -326,7 +326,7 @@
         "priceHint": 2,
         "currency": "USD",
         "trailingPE": 21.192514,
-        "regularMarketVolume": 7534222,
+        "regularMarketVolume": 7539232,
         "lastMarket": null,
         "maxSupply": null,
         "openInterest": null,
@@ -339,14 +339,14 @@
         "ask": 79.25,
         "ytdReturn": null,
         "askSize": 900,
-        "volume": 7534222,
+        "volume": 7539232,
         "fiftyTwoWeekHigh": 126.32,
         "forwardPE": 22.973913,
         "maxAge": 1,
         "fromCurrency": null,
         "fiveYearAvgDividendYield": 1.88,
         "fiftyTwoWeekLow": 68.39,
-        "bid": 79.1,
+        "bid": 79.15,
         "tradeable": false,
         "dividendYield": 0.0247,
         "bidSize": 1800,

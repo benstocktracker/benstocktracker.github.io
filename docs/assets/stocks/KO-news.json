@@ -1,4 +1,34 @@
 {
+    "32c6b06d-e98f-3798-8e60-2a24341bd17f": {
+        "uuid": "32c6b06d-e98f-3798-8e60-2a24341bd17f",
+        "title": "3 Investments That Can Help You Reach Financial Independence",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/32c6b06d-e98f-3798-8e60-2a24341bd17f/3-investments-that-can-help.html",
+        "providerPublishTime": 1656839700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hOVguj1kTUCR9YpLHil5AQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u8ImgddUZYF9joFJkQmJYA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5ad905e2b3362c47de5d0248e8487153",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pRehVgTAjzVgJdxY_G9hkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u8ImgddUZYF9joFJkQmJYA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5ad905e2b3362c47de5d0248e8487153",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "KO",
+            "^GSPC",
+            "IVZ"
+        ]
+    },
     "dd7f84d5-9b27-4eaa-a9b3-5fe91e5ba671": {
         "uuid": "dd7f84d5-9b27-4eaa-a9b3-5fe91e5ba671",
         "title": "Coca-Cola teams with DJ Marshmello to unveil new, unexpected flavor",
@@ -203,33 +233,6 @@
             "FMX",
             "KO",
             "ADM"
-        ]
-    },
-    "7b77562a-aa3c-356b-8cc9-d2168ff96495": {
-        "uuid": "7b77562a-aa3c-356b-8cc9-d2168ff96495",
-        "title": "Seth Goldman\u2019s new tea line just got a name. It\u2019s \u2018moving fast\u2019 for an October launch.",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/7b77562a-aa3c-356b-8cc9-d2168ff96495/seth-goldman%E2%80%99s-new-tea-line.html",
-        "providerPublishTime": 1656526006,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bvd2r7HAcbTWAz_t2GOT5A--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/enpDZTQHbOSqlkgpLkE85w--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/e49ee89d70f19270ca8408cd948fdaf7",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SH7xFLcZe5_8JI6VdCeMeQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/enpDZTQHbOSqlkgpLkE85w--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/e49ee89d70f19270ca8408cd948fdaf7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO"
         ]
     }
 }

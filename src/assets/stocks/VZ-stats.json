@@ -202,7 +202,7 @@
         "shortName": "Verizon Communications Inc.",
         "averageDailyVolume10Day": 22513710,
         "longName": "Verizon Communications Inc.",
-        "regularMarketChange": 0.889999,
+        "regularMarketChange": 0.8899994,
         "currencySymbol": "$",
         "regularMarketPreviousClose": 50.75,
         "postMarketTime": 1656719971,
@@ -220,7 +220,7 @@
         "regularMarketPrice": 51.64,
         "regularMarketVolume": 14189318,
         "lastMarket": null,
-        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketSource": "DELAYED",
         "openInterest": null,
         "marketState": "CLOSED",
         "underlyingSymbol": null,
@@ -234,7 +234,7 @@
         "preMarketSource": "FREE_REALTIME",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": 0.017536901
+        "regularMarketChangePercent": 0.017536934
     },
     "financialData": {
         "ebitdaMargins": 0.33588,
@@ -336,7 +336,7 @@
         "averageVolume": 22978104,
         "priceToSalesTrailing12Months": 1.6148131,
         "dayLow": 50.58,
-        "ask": 51.75,
+        "ask": 51.58,
         "ytdReturn": null,
         "askSize": 3100,
         "volume": 14189318,

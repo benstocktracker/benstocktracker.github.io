@@ -338,7 +338,7 @@
         "averageVolume": 3284896,
         "priceToSalesTrailing12Months": 1.3613979,
         "dayLow": 23.12,
-        "ask": 23.56,
+        "ask": 23.76,
         "ytdReturn": null,
         "askSize": 1300,
         "volume": 2866048,
@@ -348,7 +348,7 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": 3.57,
         "fiftyTwoWeekLow": 22.61,
-        "bid": 23.56,
+        "bid": 22.5,
         "tradeable": false,
         "dividendYield": 0.049200002,
         "bidSize": 800,
@@ -1859,7 +1859,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

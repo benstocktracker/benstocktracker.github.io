@@ -178,7 +178,7 @@
         "shortName": "Jumia Technologies AG",
         "averageDailyVolume10Day": 3230090,
         "longName": "Jumia Technologies AG",
-        "regularMarketChange": 0.14,
+        "regularMarketChange": 0.13999987,
         "currencySymbol": "$",
         "regularMarketPreviousClose": 6.06,
         "postMarketTime": 1656717984,
@@ -190,13 +190,13 @@
         "exchangeName": "NYSE",
         "preMarketChange": null,
         "circulatingSupply": null,
-        "regularMarketDayLow": 6.02,
+        "regularMarketDayLow": 6.017,
         "priceHint": 2,
         "currency": "USD",
         "regularMarketPrice": 6.2,
         "regularMarketVolume": 2332257,
         "lastMarket": null,
-        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketSource": "DELAYED",
         "openInterest": null,
         "marketState": "CLOSED",
         "underlyingSymbol": null,
@@ -210,7 +210,7 @@
         "preMarketSource": "FREE_REALTIME",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": 0.0231023
+        "regularMarketChangePercent": 0.023102289
     },
     "financialData": {
         "ebitdaMargins": -1.36127,
@@ -299,7 +299,7 @@
         "beta": 3.233965,
         "circulatingSupply": null,
         "startDate": null,
-        "regularMarketDayLow": 6.02,
+        "regularMarketDayLow": 6.017,
         "priceHint": 2,
         "currency": "USD",
         "regularMarketVolume": 2332257,
@@ -311,8 +311,8 @@
         "strikePrice": null,
         "averageVolume": 5392408,
         "priceToSalesTrailing12Months": 3.2161527,
-        "dayLow": 6.02,
-        "ask": 6.21,
+        "dayLow": 6.017,
+        "ask": 6.46,
         "ytdReturn": null,
         "askSize": 3000,
         "volume": 2332257,
@@ -322,7 +322,7 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": null,
         "fiftyTwoWeekLow": 4.475,
-        "bid": 6.11,
+        "bid": 5.8,
         "tradeable": false,
         "dividendYield": null,
         "bidSize": 2200,
@@ -484,8 +484,8 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "DOWN",
-        "midTermTrend": "UP",
+        "shortTermTrend": "UP",
+        "midTermTrend": "DOWN",
         "longTermTrend": "UP",
         "maxAge": 1
     }

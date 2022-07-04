@@ -202,7 +202,7 @@
         "shortName": "AT&T Inc.",
         "averageDailyVolume10Day": 44896680,
         "longName": "AT&T Inc.",
-        "regularMarketChange": 0.35,
+        "regularMarketChange": 0.35000038,
         "currencySymbol": "$",
         "regularMarketPreviousClose": 20.96,
         "postMarketTime": 1656719985,
@@ -218,9 +218,9 @@
         "priceHint": 2,
         "currency": "USD",
         "regularMarketPrice": 21.31,
-        "regularMarketVolume": 32737798,
+        "regularMarketVolume": 32762530,
         "lastMarket": null,
-        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketSource": "DELAYED",
         "openInterest": null,
         "marketState": "CLOSED",
         "underlyingSymbol": null,
@@ -234,7 +234,7 @@
         "preMarketSource": "FREE_REALTIME",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": 0.0166985
+        "regularMarketChangePercent": 0.016698493
     },
     "financialData": {
         "ebitdaMargins": 0.32212,
@@ -326,7 +326,7 @@
         "priceHint": 2,
         "currency": "USD",
         "trailingPE": 8.916317,
-        "regularMarketVolume": 32737798,
+        "regularMarketVolume": 32762530,
         "lastMarket": null,
         "maxSupply": null,
         "openInterest": null,
@@ -336,10 +336,10 @@
         "averageVolume": 51134265,
         "priceToSalesTrailing12Months": 0.9357681,
         "dayLow": 20.87,
-        "ask": 21.31,
+        "ask": 21.33,
         "ytdReturn": null,
         "askSize": 34100,
-        "volume": 32737798,
+        "volume": 32762530,
         "fiftyTwoWeekHigh": 22.152569,
         "forwardPE": 8.422925,
         "maxAge": 1,
@@ -1744,7 +1744,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

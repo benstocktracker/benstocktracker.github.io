@@ -75,6 +75,39 @@
             "VZ"
         ]
     },
+    "d4045699-3450-3c76-92b6-fb18f96bf7b4": {
+        "uuid": "d4045699-3450-3c76-92b6-fb18f96bf7b4",
+        "title": "7 Warren Buffett Stocks to Buy and Hold for the Next Decade",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-warren-buffett-stocks-buy-143849687.html",
+        "providerPublishTime": 1656513529,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Tu4HhBzS.GM0DBFRRcanoQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2jJRWBfDYFDVzL.q6cB59w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5314b134984a5aa9416d8a20ab5b5cb4",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0OPumnUJE_J.cZDMGZoqpg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2jJRWBfDYFDVzL.q6cB59w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5314b134984a5aa9416d8a20ab5b5cb4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR",
+            "VZ",
+            "KO",
+            "ITOCY",
+            "AAPL",
+            "LSXMK",
+            "RH"
+        ]
+    },
     "51d670af-ff14-3ea3-805d-8d2caee4ffc1": {
         "uuid": "51d670af-ff14-3ea3-805d-8d2caee4ffc1",
         "title": "The Zacks Analyst Blog Highlights Visa, JPMorgan Chase, Verizon Communications, Wells Fargo, and Seagen",
@@ -136,33 +169,6 @@
         "publisher": "GlobeNewswire",
         "link": "https://finance.yahoo.com/news/verizon-delivers-faster-connections-64-203300364.html",
         "providerPublishTime": 1656448380,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "53426ce7-cd64-3cb4-a9ad-19637ea33c41": {
-        "uuid": "53426ce7-cd64-3cb4-a9ad-19637ea33c41",
-        "title": "Verizon, Verizon Frontline honored for wildfire response efforts in Colorado",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-verizon-frontline-honored-wildfire-180000245.html",
-        "providerPublishTime": 1656439200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [

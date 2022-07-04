@@ -1,4 +1,85 @@
 {
+    "88e08c0c-c8eb-33c6-893f-8694d530af69": {
+        "uuid": "88e08c0c-c8eb-33c6-893f-8694d530af69",
+        "title": "\u2018They\u2019ll chicken out\u2019: Fund legend Rick Rule says the Fed won\u2019t keep hiking rates aggressively, even to prevent \u2018amazing damage.\u2019 Here are 3 spots he likes for your money",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/ll-chicken-fund-legend-rick-154500463.html",
+        "providerPublishTime": 1656880500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SSymtolum_ZtKSVyNB4E5A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hwsXuZr2EkBF5wvS_rznag--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0f72cd4fd4105f4fea439a6b097fda3c",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T50yu3xOqxbC.YxlEFdP7g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hwsXuZr2EkBF5wvS_rznag--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0f72cd4fd4105f4fea439a6b097fda3c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GOLD",
+            "NOBL",
+            "AAPL",
+            "RMPL-P"
+        ]
+    },
+    "d0de2e2f-e435-3c24-b36a-8fcf08b7ec63": {
+        "uuid": "d0de2e2f-e435-3c24-b36a-8fcf08b7ec63",
+        "title": "Worried About Personal Data Leaks? Here\u2019s How to Lock Down Your Phone",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/d0de2e2f-e435-3c24-b36a-8fcf08b7ec63/worried-about-personal-data.html",
+        "providerPublishTime": 1656856800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PeoO6U0c5ZDMof.5vZnrcw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oCLm4z7nGDTHaXMps2Lnrg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f3b2d791b1478863da46a2864d834407",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/trLAYec1QeVq4x2rl.Vj_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oCLm4z7nGDTHaXMps2Lnrg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f3b2d791b1478863da46a2864d834407",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "RMPL-P"
+        ]
+    },
+    "3dd40602-347f-3287-b365-6c6f2c7f6598": {
+        "uuid": "3dd40602-347f-3287-b365-6c6f2c7f6598",
+        "title": "Learn This Investing Lesson, And You'll Have the Key to Success",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3dd40602-347f-3287-b365-6c6f2c7f6598/learn-this-investing-lesson%2C.html",
+        "providerPublishTime": 1656841500,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL"
+        ]
+    },
+    "20c0c6a2-d308-3e2d-8cff-b6a327ae8ccb": {
+        "uuid": "20c0c6a2-d308-3e2d-8cff-b6a327ae8ccb",
+        "title": "Here Are 2 of the Best Stocks to Buy if the U.S. Avoids a Recession",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/20c0c6a2-d308-3e2d-8cff-b6a327ae8ccb/here-are-2-of-the-best-stocks.html",
+        "providerPublishTime": 1656784800,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL",
+            "UPST"
+        ]
+    },
     "34559c08-331e-3527-82e9-cb72179a5eab": {
         "uuid": "34559c08-331e-3527-82e9-cb72179a5eab",
         "title": "Will the Apple and MLS Deal Attract a New Generation?",
@@ -78,124 +159,6 @@
             "AAPL",
             "GOOGL",
             "PYPL"
-        ]
-    },
-    "649638dc-e269-356c-9375-857f3b64a03d": {
-        "uuid": "649638dc-e269-356c-9375-857f3b64a03d",
-        "title": "How Many of Your Stocks Are Based in California? (And Is That a Bad Thing?)",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/649638dc-e269-356c-9375-857f3b64a03d/how-many-of-your-stocks-are.html",
-        "providerPublishTime": 1656757800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6ICvHuFu9.GHqFxU9kpWvw--~B/aD05Nzg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rScFziiD4BEkZwPyb2l8Cg--~B/aD05Nzg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2300e9f440fa7aacb4aa975695396e10",
-                    "width": 1400,
-                    "height": 978,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sToOst1Fh1w1QyJt0TQMRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rScFziiD4BEkZwPyb2l8Cg--~B/aD05Nzg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2300e9f440fa7aacb4aa975695396e10",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "AAPL",
-            "GOOGL"
-        ]
-    },
-    "63128f1e-aeb0-38c2-8b0f-791c6a7bc0b2": {
-        "uuid": "63128f1e-aeb0-38c2-8b0f-791c6a7bc0b2",
-        "title": "Texas Instruments Stock Is Trading at a Discount",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/63128f1e-aeb0-38c2-8b0f-791c6a7bc0b2/texas-instruments-stock-is.html",
-        "providerPublishTime": 1656715500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jxs0FD.6Rats7LDx5CVVlA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qeV4F3bt4pG2TNhOZ6PuIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ab41cf7e4a03fc29a0071773260ea136",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uV4IVtxitpnzWeLiibA3pw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qeV4F3bt4pG2TNhOZ6PuIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ab41cf7e4a03fc29a0071773260ea136",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "RMPL-P",
-            "TXN",
-            "FDX",
-            "CHWY",
-            "HOOD"
-        ]
-    },
-    "4bdbe344-fe85-352c-8638-c9528fcbdf23": {
-        "uuid": "4bdbe344-fe85-352c-8638-c9528fcbdf23",
-        "title": "President Biden will posthumously award Steve Jobs the Presidential Medal of Freedom",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/4bdbe344-fe85-352c-8638-c9528fcbdf23/president-biden-will.html",
-        "providerPublishTime": 1656711473,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/56vG.VOB7CybNkL6LiSZKA--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yCdHvaSu6vbbxOcQqWOsww--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/fb21d0a9520352eca043ddb6feeb4a13",
-                    "width": 1440,
-                    "height": 961,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2YznHt8ocIYCxyAR4E0ydg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yCdHvaSu6vbbxOcQqWOsww--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/fb21d0a9520352eca043ddb6feeb4a13",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "RMPL-P"
-        ]
-    },
-    "219d4f85-0d3e-300c-90f0-6265ee2c43f6": {
-        "uuid": "219d4f85-0d3e-300c-90f0-6265ee2c43f6",
-        "title": "Alphabet's (GOOGL) Google Docs to Bring eSignature Feature",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/alphabets-googl-google-docs-bring-205508754.html",
-        "providerPublishTime": 1656708908,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/O_4lSEDuDgAtKQdy7ItB4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w1okjv1S8SlieeDPM2vyNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL",
-            "AAPL",
-            "MSFT"
         ]
     }
 }

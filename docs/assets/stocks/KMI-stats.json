@@ -204,7 +204,7 @@
         "shortName": "Kinder Morgan, Inc.",
         "averageDailyVolume10Day": 19560130,
         "longName": "Kinder Morgan, Inc.",
-        "regularMarketChange": 0.219999,
+        "regularMarketChange": 0.21999931,
         "currencySymbol": "$",
         "regularMarketPreviousClose": 16.76,
         "postMarketTime": 1656719801,
@@ -222,7 +222,7 @@
         "regularMarketPrice": 16.98,
         "regularMarketVolume": 15468408,
         "lastMarket": null,
-        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketSource": "DELAYED",
         "openInterest": null,
         "marketState": "CLOSED",
         "underlyingSymbol": null,
@@ -236,7 +236,7 @@
         "preMarketSource": "FREE_REALTIME",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": 0.0131265
+        "regularMarketChangePercent": 0.013126451
     },
     "financialData": {
         "ebitdaMargins": 0.36687002,
@@ -339,7 +339,7 @@
         "averageVolume": 17084379,
         "priceToSalesTrailing12Months": 2.4535842,
         "dayLow": 16.49,
-        "ask": 17.05,
+        "ask": 17.93,
         "ytdReturn": null,
         "askSize": 2200,
         "volume": 15468408,
@@ -1425,7 +1425,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "NEUTRAL",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

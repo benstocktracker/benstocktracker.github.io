@@ -18,7 +18,7 @@
         "sharesPercentSharesOut": 0.0069999998,
         "fundFamily": null,
         "lastFiscalYearEnd": 1640908800,
-        "heldPercentInstitutions": 0.70725995,
+        "heldPercentInstitutions": 0.70723,
         "netIncomeToCommon": 10307000320,
         "trailingEps": 2.37,
         "lastDividendValue": 0.44,
@@ -196,7 +196,7 @@
         "regularMarketOpen": 63.12,
         "averageDailyVolume3Month": 18307551,
         "exchange": "NYQ",
-        "regularMarketTime": 1656705604,
+        "regularMarketTime": 1656705601,
         "volume24Hr": null,
         "regularMarketDayHigh": 64.45,
         "shortName": "Coca-Cola Company (The)",
@@ -346,7 +346,7 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": 3.15,
         "fiftyTwoWeekLow": 52.28,
-        "bid": 64.2,
+        "bid": 64.4,
         "tradeable": false,
         "dividendYield": 0.0273,
         "bidSize": 3200,
@@ -1571,7 +1571,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "DOWN",
+        "shortTermTrend": "UP",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1

@@ -1,0 +1,31 @@
+{
+    "aafd3dc2-7e17-39f8-9420-2b149b69407a": {
+        "uuid": "aafd3dc2-7e17-39f8-9420-2b149b69407a",
+        "title": "China Eases Regulatory Restraints on Two Tech Platforms",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/aafd3dc2-7e17-39f8-9420-2b149b69407a/china-eases-regulatory.html",
+        "providerPublishTime": 1656510660,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5ezE3OZPd7.OOc2BkoGUaw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Dyh_3ptN2rDGQ9owYdQfzA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c8be5ec79bd9fea526d0c90b323f472b",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g5xXsMHGt7ip.NDaReEnMw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Dyh_3ptN2rDGQ9owYdQfzA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c8be5ec79bd9fea526d0c90b323f472b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BZ",
+            "YMM",
+            "DIDIY"
+        ]
+    }
+}

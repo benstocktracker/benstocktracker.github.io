@@ -203,7 +203,7 @@
         "shortName": "NIO Inc.",
         "averageDailyVolume10Day": 71721160,
         "longName": "NIO Inc.",
-        "regularMarketChange": -0.359999,
+        "regularMarketChange": -0.3599987,
         "currencySymbol": "$",
         "regularMarketPreviousClose": 21.72,
         "postMarketTime": 1656719991,
@@ -221,7 +221,7 @@
         "regularMarketPrice": 21.36,
         "regularMarketVolume": 56855466,
         "lastMarket": null,
-        "regularMarketSource": "FREE_REALTIME",
+        "regularMarketSource": "DELAYED",
         "openInterest": null,
         "marketState": "CLOSED",
         "underlyingSymbol": null,
@@ -235,7 +235,7 @@
         "preMarketSource": "FREE_REALTIME",
         "maxAge": 1,
         "fromCurrency": null,
-        "regularMarketChangePercent": -0.0165745
+        "regularMarketChangePercent": -0.016574526
     },
     "financialData": {
         "ebitdaMargins": -0.11863,
@@ -337,7 +337,7 @@
         "averageVolume": 68521277,
         "priceToSalesTrailing12Months": 0.9374182,
         "dayLow": 20.95,
-        "ask": 21.41,
+        "ask": 21.4,
         "ytdReturn": null,
         "askSize": 1400,
         "volume": 56855466,
@@ -347,7 +347,7 @@
         "fromCurrency": null,
         "fiveYearAvgDividendYield": null,
         "fiftyTwoWeekLow": 11.67,
-        "bid": 21.4,
+        "bid": 21.39,
         "tradeable": false,
         "dividendYield": null,
         "bidSize": 1400,
@@ -705,7 +705,7 @@
         "maxAge": 86400
     },
     "pageViews": {
-        "shortTermTrend": "UP",
+        "shortTermTrend": "DOWN",
         "midTermTrend": "UP",
         "longTermTrend": "UP",
         "maxAge": 1
