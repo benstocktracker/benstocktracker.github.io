@@ -1,20 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { HoldingsComponent } from './holdings.component';
+import { TickersWidgetComponent } from './tickers-widget.component';
 
-describe('HoldingsComponent', () => {
-  let component: HoldingsComponent;
-  let fixture: ComponentFixture<HoldingsComponent>;
+describe('TickersWidgetComponent', () => {
+  let component: TickersWidgetComponent;
+  let fixture: ComponentFixture<TickersWidgetComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ HoldingsComponent ]
+      declarations: [ TickersWidgetComponent ]
     })
     .compileComponents();
-  });
 
-  beforeEach(() => {
-    fixture = TestBed.createComponent(HoldingsComponent);
+    fixture = TestBed.createComponent(TickersWidgetComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

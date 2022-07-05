@@ -1,9 +1,2 @@
-<mat-drawer-container class="drawer-container">
-  <mat-drawer mode="side" opened #drawer>
-    <app-navbar></app-navbar>
-  </mat-drawer>
-  <mat-drawer-content>
-    <router-outlet></router-outlet>
-  </mat-drawer-content>
-</mat-drawer-container>
-<app-footer (click)="drawer.toggle()"></app-footer>
+<router-outlet></router-outlet>
+<app-footer></app-footer>

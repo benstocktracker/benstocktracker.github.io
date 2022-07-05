@@ -12,6 +12,8 @@ export enum SourceScripts {
   Financials = 'https://s3.tradingview.com/external-embedding/embed-widget-financials.js',
   Timeline = 'https://s3.tradingview.com/external-embedding/embed-widget-timeline.js',
   Screener = 'https://s3.tradingview.com/external-embedding/embed-widget-screener.js',
+  Tickers = 'https://s3.tradingview.com/external-embedding/embed-widget-tickers.js',
+  TickerTape = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js',
 }
 
 @Injectable({
@@ -66,23 +68,24 @@ export class TradingviewService {
     return this.getScript(SourceScripts.SymbolProfile, params);
   }
 
-  symbolFinancialsWidget(symbol: string, width='100%', height='490', theme='light') {      
+  symbolFinancialsWidget(symbol: string, width='100%', height='490', theme='light', displayMode='compact') {      
     const params = `
       {
         "symbol": "${symbol}",
         "width": "${width}",
         "height": "${height}",
         "colorTheme": "${theme}",
-        "displayMode": "compact",
+        "displayMode": "${displayMode}",
         "largeChartUrl": "",
         "isTransparent": false,
         "locale": "en"
       }
     `;
+    console.log(params);
     return this.getScript(SourceScripts.Financials, params);
   }
 
-  miniChartWidget(symbol: string, width=280, height=200, dateRange='3M', theme='light') {
+  miniChartWidget(symbol: string, width="100%", height=200, dateRange='6M', theme='light') {
     const params = `
       {
         "symbol": "${symbol}",
@@ -100,5 +103,20 @@ export class TradingviewService {
       }
     `;
     return this.getScript(SourceScripts.MiniSymbolOverview, params);
+  }
+
+  tickersWidget(symbols?: string, theme = 'light', tape = true, displayMode = "regular") {
+    const params = `
+      {
+        "symbols": ${symbols},
+        "colorTheme": "${theme}",
+        "isTransparent": false,
+        "showSymbolLogo": true,
+        "locale": "en",
+        "displayMode": "${displayMode}"
+      }
+    `;
+    const script = tape ? SourceScripts.TickerTape : SourceScripts.Tickers;
+    return this.getScript(script, params);
   }
 }

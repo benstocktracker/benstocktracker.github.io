@@ -13,6 +13,7 @@ import { MiniChartWidgetComponent } from './tradingview/mini-chart-widget/mini-c
 import { SingleQuoteWidgetComponent } from './tradingview/single-quote-widget/single-quote-widget.component';
 import { SymbolFinancialsWidgetComponent } from './tradingview/symbol-financials-widget/symbol-financials-widget.component';
 import { SymbolProfileWidgetComponent } from './tradingview/symbol-profile-widget/symbol-profile-widget.component';
+import { TickersWidgetComponent } from './tradingview/tickers-widget/tickers-widget.component';
 
 const components = [
   StatCardComponent,
@@ -26,6 +27,7 @@ const components = [
   SymbolFinancialsWidgetComponent,
   MiniChartWidgetComponent,
   PriceRangeSliderComponent,
+  TickersWidgetComponent
 ];
 
 @NgModule({

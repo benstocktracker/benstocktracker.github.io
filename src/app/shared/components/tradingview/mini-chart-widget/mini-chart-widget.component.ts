@@ -8,6 +8,7 @@ import { TradingviewService } from 'src/app/shared/services/tradingview.service'
 })
 export class MiniChartWidgetComponent implements OnInit, AfterViewInit {
   @Input() symbol!: string;
+  @Input() width?: string;
   @ViewChild('miniChartWidget') miniChartWidget!: ElementRef;
 
   constructor(private tradingviewService: TradingviewService) { }
@@ -15,7 +16,7 @@ export class MiniChartWidgetComponent implements OnInit, AfterViewInit {
   ngOnInit(): void {}
 
   ngAfterViewInit(): void {
-    const miniChart = this.tradingviewService.miniChartWidget(this.symbol);
+    const miniChart = this.tradingviewService.miniChartWidget(this.symbol, this.width);
     this.tradingviewService.renderWidget(this.miniChartWidget, miniChart);
   }
 }

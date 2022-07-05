@@ -8,13 +8,16 @@ import { TradingviewService } from 'src/app/shared/services/tradingview.service'
 })
 export class SymbolFinancialsWidgetComponent implements OnInit, AfterViewInit {
   @Input() symbol!: string;
+  @Input() width?: string;
+  @Input() height?: string;
+  @Input() displayMode? = 'compact';
   @ViewChild('symbolFinancialsWidget') symbolFinancialsWidget!: ElementRef;
 
   constructor(private tradingviewService: TradingviewService) { }
 
   ngOnInit(): void { }
   ngAfterViewInit(): void {
-    const financials = this.tradingviewService.symbolFinancialsWidget(this.symbol);
+    const financials = this.tradingviewService.symbolFinancialsWidget(this.symbol, this.width, this.height, 'light', this.displayMode);
     this.tradingviewService.renderWidget(this.symbolFinancialsWidget, financials);
   }
 }

@@ -1,20 +1,12 @@
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
-import { StocksDataResolver } from './pages/portfolio/data.resolver';
+import { StocksDataResolver } from './pages/stockTracker/data.resolver';
 
 const routes: Routes = [
   {
     path: '', 
-    loadChildren: () => import('./pages/portfolio/portfolio.module').then(m => m.PortfolioModule),
+    loadChildren: () => import('./pages/stockTracker/stockTracker.module').then(m => m.PortfolioModule),
     resolve: {stocks: StocksDataResolver}
-  },
-  {
-    path: 'research', 
-    loadChildren: () => import('./pages/stock-research/stock-research.module').then(m => m.StockResearchModule),
-  },
-  {
-    path: 'updates',
-    loadChildren: () => import('./pages/main/main.module').then(m => m.MainModule)
   },
   {
     path: '**', 

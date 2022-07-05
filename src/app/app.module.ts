@@ -6,13 +6,13 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms'
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NgMaterialModule } from './shared/ng-material/ng-material.module';
-import { NavbarComponent } from './shared/components/navbar/navbar.component';
+import { SharedComponentsModule } from 'src/app/shared/components/shared-components.module';
 import { FooterComponent } from './shared/components/footer/footer.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent,
     FooterComponent,
   ],
   imports: [
@@ -23,6 +23,7 @@ import { FooterComponent } from './shared/components/footer/footer.component';
     FormsModule,
     ReactiveFormsModule,
     NgMaterialModule,
+    SharedComponentsModule,
   ],
   bootstrap: [AppComponent]
 })
