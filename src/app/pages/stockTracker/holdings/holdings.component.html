@@ -1,0 +1,7 @@
+<div class="widget-container">
+  <app-mini-chart-widget
+    *ngFor="let ticker of holdings"
+    symbol="{{ ticker }}"
+    class="mini-chart-widget"
+  ></app-mini-chart-widget>
+</div>

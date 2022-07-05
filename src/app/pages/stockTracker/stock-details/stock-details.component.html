@@ -1,0 +1,19 @@
+<mat-divider></mat-divider>
+
+<mat-tab-group mat-align-tabs="center">
+  <mat-tab label="Chart">
+    <app-stock-chart-panel [symbol]="stockStats.symbol"></app-stock-chart-panel>
+  </mat-tab>
+
+  <mat-tab label="Financials">
+    <app-symbol-financials-widget [symbol]="stockStats.symbol" width="100%"></app-symbol-financials-widget>
+  </mat-tab>
+
+  <mat-tab label="News">
+    <app-stock-news-panel [news]="stockNews"></app-stock-news-panel>
+  </mat-tab>
+
+  <mat-tab label="Company">
+    <app-stock-profile-panel [symbol]="stockStats.symbol" [profile]="stockStats.summaryProfile"></app-stock-profile-panel>
+  </mat-tab>
+</mat-tab-group>

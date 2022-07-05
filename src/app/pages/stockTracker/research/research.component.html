@@ -1,0 +1,18 @@
+<div class="research-header">
+  <form class="search-form" [formGroup]="searchForm">
+    <mat-form-field class="search-field" (keyup.enter)="searchTicker()">
+      <mat-label>Search Stock</mat-label>
+      <input matInput type="text" formControlName="searchField" placeholder="ticker" />
+    </mat-form-field>
+  </form>
+</div>
+
+<div>
+  <app-tickers-widget [symbols]="symbols"></app-tickers-widget>
+  <app-stock-chart-panel [symbol]="'INDEX:GSPC'" [width]="'33.33%'"></app-stock-chart-panel>
+  <app-stock-chart-panel [symbol]="'INDEX:DJI'" [width]="'33.33%'"></app-stock-chart-panel>
+  <app-stock-chart-panel [symbol]="'INDEX:IXIC'" [width]="'33.33%'"></app-stock-chart-panel>
+  <app-stock-chart-panel [symbol]="'CRYPTO:BTC'" [width]="'33.33%'"></app-stock-chart-panel>
+  <app-stock-chart-panel [symbol]="'CRYPTO:ETH'" [width]="'33.33%'"></app-stock-chart-panel>
+  <app-stock-chart-panel [symbol]="'CRYPTO:DOGE'" [width]="'33.33%'"></app-stock-chart-panel>
+</div>

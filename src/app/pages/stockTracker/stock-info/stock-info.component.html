@@ -1,0 +1,11 @@
+<app-single-quote-widget [symbol]="symbol"></app-single-quote-widget>
+<app-stock-chart-panel [symbol]="symbol"></app-stock-chart-panel>
+<div>
+  <app-symbol-financials-widget
+    [symbol]="symbol"
+    width="600"
+    height="780"
+    displayMode="regular"
+  ></app-symbol-financials-widget>
+  <app-symbol-profile-widget [symbol]="symbol"></app-symbol-profile-widget>
+</div>

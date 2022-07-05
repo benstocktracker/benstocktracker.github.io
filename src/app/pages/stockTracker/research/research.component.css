@@ -1,0 +1,23 @@
+.research-header {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.search-field {
+  width: 25vw;
+}
+
+mat-divider {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+
+.bottom {
+  margin-bottom: 20px;
+}
