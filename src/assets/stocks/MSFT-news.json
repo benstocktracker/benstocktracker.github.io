@@ -1,21 +1,21 @@
 {
-    "b328d77a-61c3-3868-8c3a-4b3e16a54b77": {
-        "uuid": "b328d77a-61c3-3868-8c3a-4b3e16a54b77",
-        "title": "Have $1,000? 2 Warren Buffett Stocks to Buy Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b328d77a-61c3-3868-8c3a-4b3e16a54b77/have-%241%2C000%3F-2-warren-buffett.html",
-        "providerPublishTime": 1656847800,
+    "61444fc7-5c3f-3490-a415-208a75396cb5": {
+        "uuid": "61444fc7-5c3f-3490-a415-208a75396cb5",
+        "title": "Dow Jones Futures Rise As Key Economic Signal Rebounds; Tesla Rivals In Buy Zones",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/61444fc7-5c3f-3490-a415-208a75396cb5/dow-jones-futures-rise-as-key.html",
+        "providerPublishTime": 1657196583,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/prdK2iQpYyhLtJNcl758tA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cADXHDDJWTwlkQjg8FUUCA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0ff7c5137647984f8cc27e2ee48ac2b6",
-                    "width": 1400,
-                    "height": 933,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ohq71CoV0y0IB07KSSKhIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hFMp84HZyxigBoR4bPEF4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cADXHDDJWTwlkQjg8FUUCA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0ff7c5137647984f8cc27e2ee48ac2b6",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E3bZz6JkZegShfPcuwD_AQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,213 +23,232 @@
             ]
         },
         "relatedTickers": [
-            "SNOW",
-            "ATVI",
-            "MSFT"
-        ]
-    },
-    "de55f9c6-c057-3fd2-a4ee-949af33bf50d": {
-        "uuid": "de55f9c6-c057-3fd2-a4ee-949af33bf50d",
-        "title": "Nasdaq Sell-Off: 3 Growth Stocks You May Regret Not Buying on the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/de55f9c6-c057-3fd2-a4ee-949af33bf50d/nasdaq-sell-off%3A-3-growth.html",
-        "providerPublishTime": 1656778500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J5Y7mV3vqpaqzkrsEZPMuQ--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lHBw0NDPsmKFHKF6rf2hrw--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e4998ca99aed82837dbef28d0b12adb",
-                    "width": 1400,
-                    "height": 906,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yuwVg2Ix5b1In1lMqZZP.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lHBw0NDPsmKFHKF6rf2hrw--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e4998ca99aed82837dbef28d0b12adb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "CRWD",
+            "^DJI",
             "COMP",
-            "LULU"
-        ]
-    },
-    "50ef826e-1ba6-32a9-944a-6cac889d2328": {
-        "uuid": "50ef826e-1ba6-32a9-944a-6cac889d2328",
-        "title": "1 Semiconductor Growth Stock You'll Wish You'd Bought on the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/50ef826e-1ba6-32a9-944a-6cac889d2328/1-semiconductor-growth-stock.html",
-        "providerPublishTime": 1656768720,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jLUxXNn8k5AxoGtQ9JmKTQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gW9kpakjNT_SefgoQZHO_w--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf2dc0998695ca602f6bc959ffb56472",
-                    "width": 1400,
-                    "height": 841,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mV1Gt9Z_Qtc0ff6ZZOaYMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gW9kpakjNT_SefgoQZHO_w--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bf2dc0998695ca602f6bc959ffb56472",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMD",
-            "TSLA",
-            "MSFT"
-        ]
-    },
-    "78238cf2-7186-332b-88a9-9a4909904188": {
-        "uuid": "78238cf2-7186-332b-88a9-9a4909904188",
-        "title": "Bear Markets and Recessions Are No Match for These 3 Top Stocks",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/78238cf2-7186-332b-88a9-9a4909904188/bear-markets-and-recessions.html",
-        "providerPublishTime": 1656759600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VbxriC3sFK_JiHwd4MPGDQ--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zluFqsS0AAIXHgSJyN.fdg--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9119ace56b5e843c64cfd79b735d0738",
-                    "width": 1400,
-                    "height": 906,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.REb717_OIX8rzKhlEXRgA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zluFqsS0AAIXHgSJyN.fdg--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9119ace56b5e843c64cfd79b735d0738",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ATVI",
-            "LMT",
             "^GSPC",
-            "MSFT",
-            "DIS"
-        ]
-    },
-    "48ebe3e8-cbf4-386d-9c7d-33678ae5fdc9": {
-        "uuid": "48ebe3e8-cbf4-386d-9c7d-33678ae5fdc9",
-        "title": "The 3 Best Warren Buffett Stocks in the First Half of 2022: Are They Buys Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/48ebe3e8-cbf4-386d-9c7d-33678ae5fdc9/the-3-best-warren-buffett.html",
-        "providerPublishTime": 1656755520,
-        "type": "STORY",
-        "relatedTickers": [
-            "CVX",
-            "ATVI",
-            "TMUS",
-            "MSFT"
-        ]
-    },
-    "219d4f85-0d3e-300c-90f0-6265ee2c43f6": {
-        "uuid": "219d4f85-0d3e-300c-90f0-6265ee2c43f6",
-        "title": "Alphabet's (GOOGL) Google Docs to Bring eSignature Feature",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/alphabets-googl-google-docs-bring-205508754.html",
-        "providerPublishTime": 1656708908,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/O_4lSEDuDgAtKQdy7ItB4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w1okjv1S8SlieeDPM2vyNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL",
-            "AAPL",
-            "MSFT"
-        ]
-    },
-    "2f2444cb-c508-3506-8820-da27d5b90ac0": {
-        "uuid": "2f2444cb-c508-3506-8820-da27d5b90ac0",
-        "title": "Big-name investors are back putting more \u2018junk\u2019 in their funds, despite the carnage in bonds",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/2f2444cb-c508-3506-8820-da27d5b90ac0/big-name-investors-are-back.html",
-        "providerPublishTime": 1656708780,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bAcKHEYyU3Qf9zCJQyRL4g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ITiKNPK17lNsJ6fjy39HSA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/9322f49e173f8d0931ef81e821f1538c",
-                    "width": 1279,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ztD50KFIql8a4OBE.eLT0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ITiKNPK17lNsJ6fjy39HSA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/9322f49e173f8d0931ef81e821f1538c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ARES",
-            "MSFT",
-            "CG",
-            "AAPL",
-            "RMPL-P"
-        ]
-    },
-    "3dad1e11-5120-4d6c-b103-8926b9921f74": {
-        "uuid": "3dad1e11-5120-4d6c-b103-8926b9921f74",
-        "title": "Meta, Coinbase, Tesla: All of the tech companies hitting the brakes on hiring",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/tesla-apple-microsoft-peloton-all-of-tech-companies-hitting-the-brakes-on-hiring-202428628.html",
-        "providerPublishTime": 1656688306,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MWDyNiaxDH.LxVW7rMsRUQ--~B/aD0zODM5O3c9NTU4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/a9ce0c40-e373-11ec-a766-a40e1e781c8c",
-                    "width": 5580,
-                    "height": 3839,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/W76yDtEDxhfLOeHS84tKkA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/a9ce0c40-e373-11ec-a766-a40e1e781c8c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
             "TSLA",
-            "META",
-            "INTC",
-            "HOOD",
-            "AMZN",
-            "BRDS",
-            "BRDS-WS",
+            "^RUT",
+            "LI",
+            "MSFT",
+            "GOOGL",
+            "GME",
+            "AMZN"
+        ]
+    },
+    "e5c8dbdc-066b-3c20-a51b-45f960b292f3": {
+        "uuid": "e5c8dbdc-066b-3c20-a51b-45f960b292f3",
+        "title": "Microsoft Takes a Big Hit",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/e5c8dbdc-066b-3c20-a51b-45f960b292f3/microsoft-takes-a-big-hit.html",
+        "providerPublishTime": 1657192680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Tm8qhxnC7eFsqZbxAGVmAg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JaQEWSHiV8uN6Sn3GOkAdw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3b2359b0ef4bc70771d82b6538d62383",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HCAq7osuY.I_BzY5cPg4PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JaQEWSHiV8uN6Sn3GOkAdw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3b2359b0ef4bc70771d82b6538d62383",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT"
+        ]
+    },
+    "29e1b5f3-4752-33d3-96f9-87cd36876bb8": {
+        "uuid": "29e1b5f3-4752-33d3-96f9-87cd36876bb8",
+        "title": "Aging politicians 'don't understand technology': Andrew Yang",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/aging-politicians-dont-understand-technology-100000826.html",
+        "providerPublishTime": 1657188000,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MRJ7pjI7TFs09T3uszNoMg--~B/aD0yNzAyO3c9NDgwMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
+                    "width": 4803,
+                    "height": 2702,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6fcwcahIUWS4C0p14XGUKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "IBM",
+            "TWTR",
             "AAPL",
-            "RMPL-P",
-            "COIN",
-            "SPOT",
-            "FKINX",
-            "NVDA"
+            "SNA",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "META",
+            "AMZN"
+        ]
+    },
+    "77a4a5ce-2761-34e1-a08d-56dc17e7df08": {
+        "uuid": "77a4a5ce-2761-34e1-a08d-56dc17e7df08",
+        "title": "China Is Trying to \u2018Ransack\u2019 Western Companies, FBI Head Warns",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/china-trying-ransack-western-companies-032348989.html",
+        "providerPublishTime": 1657164228,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kexU0lvYBxPmfo4s19fXfA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/10kEo4J2XqWBbJXetZhF6Q--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/edcf111aa54a6c6b413411c32135bdc1",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WLzwYopYnMAxLJvJlf1gZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/10kEo4J2XqWBbJXetZhF6Q--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/edcf111aa54a6c6b413411c32135bdc1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT"
+        ]
+    },
+    "1ca406cf-56e1-39cd-bfd1-8285f3ebc800": {
+        "uuid": "1ca406cf-56e1-39cd-bfd1-8285f3ebc800",
+        "title": "Microsoft Supports Abortion Access But Is Silent on Data Privacy",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/1ca406cf-56e1-39cd-bfd1-8285f3ebc800/microsoft-supports-abortion.html",
+        "providerPublishTime": 1657146240,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cGTDMdviYF1qRmfRoHEuoQ--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ze4taZGJPtlad3UzgahC3A--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/ca0d814b7542baa3d67e446a856542dc",
+                    "width": 750,
+                    "height": 470,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2RIqrbzN4aeeKq4NnfBRQg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ze4taZGJPtlad3UzgahC3A--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/ca0d814b7542baa3d67e446a856542dc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "GOOGL"
+        ]
+    },
+    "f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878": {
+        "uuid": "f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878",
+        "title": "Stock Market Closes Higher On Fed Minutes; Microsoft And Cisco Lead Tech Stocks Higher",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878/stock-market-closes-higher-on.html",
+        "providerPublishTime": 1657140586,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmgPQEa9ldIzYYhJZ6sYLQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.bZtsgnchEamZO3REAT9sQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/l0_iYhiYqz8hPXqRUYT.fQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.bZtsgnchEamZO3REAT9sQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "^RUT",
+            "^GSPC",
+            "^DJI",
+            "UNH",
+            "AAPL"
+        ]
+    },
+    "d8fe16de-dd8b-357a-bd18-4f46639010b6": {
+        "uuid": "d8fe16de-dd8b-357a-bd18-4f46639010b6",
+        "title": "Is Microsoft Stock A Buy Before Software Giant's June-Quarter Report?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/d8fe16de-dd8b-357a-bd18-4f46639010b6/is-microsoft-stock-a-buy.html",
+        "providerPublishTime": 1657140350,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VdKep61TG6X11YO8hE4g5w--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yoO0rK1D6RPP90Ynrf8QvQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8469f11073b63c8ab319b817ba819a50",
+                    "width": 945,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rqhqiQZFkjrBFSesnK6b1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yoO0rK1D6RPP90Ynrf8QvQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8469f11073b63c8ab319b817ba819a50",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT"
+        ]
+    },
+    "4444bba7-96f9-3e61-96e9-ab3c21001b48": {
+        "uuid": "4444bba7-96f9-3e61-96e9-ab3c21001b48",
+        "title": "Stocks and U.S. dollar accelerate gains into the close, energy stocks slump",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-u-dollar-accelerate-gains-201308451.html",
+        "providerPublishTime": 1657138388,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VrH0xrO1SHVyHkZ1u4_wkA--~B/aD0xNTE4O3c9MjcwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/09f01d80-fd68-11ec-adbb-c2153e66361e",
+                    "width": 2704,
+                    "height": 1518,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lkrKYhfiQyzr6yZhFmamNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/09f01d80-fd68-11ec-adbb-c2153e66361e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "XLE",
+            "^FVX",
+            "AAPL",
+            "META",
+            "TSLA",
+            "^DJI",
+            "^TYX",
+            "XLU",
+            "WTI",
+            "MSFT",
+            "^IXIC",
+            "^TNX"
         ]
     }
 }

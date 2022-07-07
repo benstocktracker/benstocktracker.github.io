@@ -1,4 +1,73 @@
 {
+    "8efe4817-334f-350a-a953-2852fd89c175": {
+        "uuid": "8efe4817-334f-350a-a953-2852fd89c175",
+        "title": "Buy These 5 High-Yield Dividend Stocks to Create an Inflation-Crushing Portfolio",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8efe4817-334f-350a-a953-2852fd89c175/buy-these-5-high-yield.html",
+        "providerPublishTime": 1657189320,
+        "type": "STORY",
+        "relatedTickers": [
+            "BAC",
+            "EPR",
+            "SPG",
+            "ALLY"
+        ]
+    },
+    "2ab2c9ca-b684-332a-958f-9fed17ee9f6d": {
+        "uuid": "2ab2c9ca-b684-332a-958f-9fed17ee9f6d",
+        "title": "Independent Director J. Smith Just Bought 1.3% More Shares In Simon Property Group, Inc. (NYSE:SPG)",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/independent-director-j-smith-just-100159752.html",
+        "providerPublishTime": 1657188119,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wygj_JpmWCy0g01.Di_sfw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1R7ph5rvk2KLIk2HV4jd3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPG",
+            "SPG-PJ"
+        ]
+    },
+    "d189a9f8-d3a7-356d-a6ca-ece3ed65d2a2": {
+        "uuid": "d189a9f8-d3a7-356d-a6ca-ece3ed65d2a2",
+        "title": "Simon Property (SPG) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/simon-property-spg-outpaces-stock-221510921.html",
+        "providerPublishTime": 1657059310,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PzKU7lPyf_PcRy_ydffzWA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
+                    "width": 900,
+                    "height": 602,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ncjTO6t7Ni7a1WCfWhqk6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPG"
+        ]
+    },
     "391a498c-7b34-30c8-a862-9a6a766c6265": {
         "uuid": "391a498c-7b34-30c8-a862-9a6a766c6265",
         "title": "Love Dividends? These 3 Top Stocks Are Trading at a Discount Now",
@@ -121,95 +190,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/X6HH5WHRBVE_mPuR0o1BVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG"
-        ]
-    },
-    "2397350b-97f7-3128-b7f1-846a7df9c8ee": {
-        "uuid": "2397350b-97f7-3128-b7f1-846a7df9c8ee",
-        "title": "Slowing of home price growth \u2018is certainly a welcome change,\u2019 economist says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/slowing-home-price-growth-certainly-195156490.html",
-        "providerPublishTime": 1656445916,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LGTDK_Jn2a0muYFrGgWcRQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/0127ee80-f719-11ec-b77f-8458bfaef93c",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wskieoWvpRjJghVEAAmO7g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/0127ee80-f719-11ec-b77f-8458bfaef93c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XLRE",
-            "CBRE",
-            "WFHY",
-            "SPG",
-            "SPG-PJ",
-            "PLD",
-            "PLDGP"
-        ]
-    },
-    "49e55430-cd83-3404-af13-60ca2e0b21cf": {
-        "uuid": "49e55430-cd83-3404-af13-60ca2e0b21cf",
-        "title": "Life Time, Simon Property Group plan luxury apartment tower at Edina's Southdale Center",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/49e55430-cd83-3404-af13-60ca2e0b21cf/life-time%2C-simon-property.html",
-        "providerPublishTime": 1656089277,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wWCOzLgdkoQ4R9FgxQN04A--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/srvDGQFHgfs0vgQTCVKu6w--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/da3f00ab44c77ab2394f7e42656db539",
-                    "width": 1287,
-                    "height": 858,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ybrEko6g0c06RlwDf7OExg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/srvDGQFHgfs0vgQTCVKu6w--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/da3f00ab44c77ab2394f7e42656db539",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG",
-            "SPG-PJ",
-            "LTH"
-        ]
-    },
-    "5746fdc4-0113-3278-a117-c4351b9c9d13": {
-        "uuid": "5746fdc4-0113-3278-a117-c4351b9c9d13",
-        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Finance Names",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001561.html",
-        "providerPublishTime": 1655989201,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-                    "width": 900,
-                    "height": 506,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

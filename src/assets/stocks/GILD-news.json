@@ -1,4 +1,105 @@
 {
+    "d2642810-9026-354b-9f0e-0069695c59ba": {
+        "uuid": "d2642810-9026-354b-9f0e-0069695c59ba",
+        "title": "Q2 Earnings: Energy and What Else?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/q2-earnings-energy-else-193307631.html",
+        "providerPublishTime": 1657135987,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/we.4VQlXeGBoqipIj_IAbQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aaCKmsXlYwN1shq6iiR5nQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/124ead7a510a1678196474951516a920",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4pIMmsKlMPWe88oFoJ2HiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aaCKmsXlYwN1shq6iiR5nQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/124ead7a510a1678196474951516a920",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GIS",
+            "XOM",
+            "PM",
+            "GILD",
+            "CVX"
+        ]
+    },
+    "7d66ef13-875d-31b9-89dd-ab86a05f51c5": {
+        "uuid": "7d66ef13-875d-31b9-89dd-ab86a05f51c5",
+        "title": "Gilead Sciences (GILD) Stock Sinks As Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/gilead-sciences-gild-stock-sinks-215009937.html",
+        "providerPublishTime": 1657057809,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P9MYT7bkg6gW.LAUks5bQg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+                    "width": 900,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G6Kfmbo.AIHKSvpKRICHXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "51d3a1b1-bead-3fa8-b89a-3911415e6756": {
+        "uuid": "51d3a1b1-bead-3fa8-b89a-3911415e6756",
+        "title": "Is Gilead Sciences' Dividend Safe?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/51d3a1b1-bead-3fa8-b89a-3911415e6756/is-gilead-sciences%27-dividend.html",
+        "providerPublishTime": 1656932400,
+        "type": "STORY",
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "a5cc54c5-3651-376a-8cc5-494ad9e0f8ae": {
+        "uuid": "a5cc54c5-3651-376a-8cc5-494ad9e0f8ae",
+        "title": "The Few Mutual-Fund Managers Who Avoided the Debacle",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/a5cc54c5-3651-376a-8cc5-494ad9e0f8ae/the-few-mutual-fund-managers.html",
+        "providerPublishTime": 1656927000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Eav0j800Eg0WwWEQujriRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WLlgH6yRktYqQRyPHzR2WQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/210de98e4a4b688015ff766e2655b7bb",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5ZIjGoOGm8cKe8vMJCDzHg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WLlgH6yRktYqQRyPHzR2WQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/210de98e4a4b688015ff766e2655b7bb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GIS",
+            "MORN",
+            "GE",
+            "AVGO",
+            "AVGOP",
+            "GILD"
+        ]
+    },
     "379a5117-44ff-3dd2-a2d2-f8e1385a8eef": {
         "uuid": "379a5117-44ff-3dd2-a2d2-f8e1385a8eef",
         "title": "Gilead Statement on U.S. Supreme Court Overturning Roe v. Wade",
@@ -86,116 +187,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "418fbcf9-80ec-32ab-89f0-543ff3cff9d7": {
-        "uuid": "418fbcf9-80ec-32ab-89f0-543ff3cff9d7",
-        "title": "Gilead (GILD) Resubmits NDA for HIV Inhibitor to the FDA",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/gilead-gild-resubmits-nda-hiv-124912620.html",
-        "providerPublishTime": 1656420552,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rSifIemjGs.ArOt6hbnGLA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RTGo4pt.TK_E0ckeUDNmXA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f5ec5179112ff02b207f8fd4685c071",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IJCPk1k_kHOXYeWqzifXfg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RTGo4pt.TK_E0ckeUDNmXA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f5ec5179112ff02b207f8fd4685c071",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "002722.SZ",
-            "GILD",
-            "GSK"
-        ]
-    },
-    "8554141a-ab64-3131-b26c-9c9dfdcc97f9": {
-        "uuid": "8554141a-ab64-3131-b26c-9c9dfdcc97f9",
-        "title": "Gilead Leadership Organization of Black Employees (GLOBE) Raised the Juneteenth Flag",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/gilead-leadership-organization-black-employees-124513911.html",
-        "providerPublishTime": 1656420313,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NEDCBUxWr47wvrVeCuIWvw--~B/aD00MzM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/fsSAxga1AidOKArQZYlrFg--~B/aD00MzM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/eed83f94a3dfb8c82c635f5dcfecb1fe",
-                    "width": 650,
-                    "height": 433,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JvZCXkrUaOLH4GOzU2xEzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fsSAxga1AidOKArQZYlrFg--~B/aD00MzM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/eed83f94a3dfb8c82c635f5dcfecb1fe",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "7535eddc-70fb-3af1-96ee-b7f5f01d5e67": {
-        "uuid": "7535eddc-70fb-3af1-96ee-b7f5f01d5e67",
-        "title": "Kite\u2019s CAR T-cell Therapy Yescarta\u00ae Granted European Marketing Authorization for the Treatment of Relapsed or Refractory Follicular Lymphoma",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/kite-car-t-cell-therapy-100000100.html",
-        "providerPublishTime": 1656410400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cpy9t8wv0tRVT.dgy7ZtkA--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/NUKsoe6cZfiGBd30iod2sw--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/fd5170afddef06b741551b25b0cdf66c",
-                    "width": 480,
-                    "height": 210,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VRFzuE5mqbflBmaRQf_Qtw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NUKsoe6cZfiGBd30iod2sw--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/fd5170afddef06b741551b25b0cdf66c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "9b63072b-57b1-3857-8041-981a017a7d9b": {
-        "uuid": "9b63072b-57b1-3857-8041-981a017a7d9b",
-        "title": "Gilead Resubmits New Drug Application to U.S. Food and Drug Administration for Lenacapavir, an Investigational, Long-Acting HIV-1 Capsid Inhibitor",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-resubmits-drug-application-u-203000139.html",
-        "providerPublishTime": 1656361800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3ZyG_k5FQiIwpcaaLIPwug--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hEWZH0ox.AU2Wk3Tk063QA--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/2c2d1f20f53da6697dde23c71248bd93",
-                    "width": 480,
-                    "height": 160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qoxH4IfsaevcCJRFoFy1RA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hEWZH0ox.AU2Wk3Tk063QA--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/2c2d1f20f53da6697dde23c71248bd93",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

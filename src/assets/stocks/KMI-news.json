@@ -1,4 +1,31 @@
 {
+    "ae54f769-444a-3d4d-8ed6-7e686b0bc9af": {
+        "uuid": "ae54f769-444a-3d4d-8ed6-7e686b0bc9af",
+        "title": "Can Kinder Morgan (KMI) Keep the Earnings Surprise Streak Alive?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-keep-earnings-161004766.html",
+        "providerPublishTime": 1656951004,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 900,
+                    "height": 745,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
     "0a4d3372-0cb7-38ca-83be-654fa1954689": {
         "uuid": "0a4d3372-0cb7-38ca-83be-654fa1954689",
         "title": "Kinder Morgan (KMI) to Proceed With PHP Expansion Project",
@@ -185,37 +212,6 @@
             "IPO",
             "XLF",
             "MPC"
-        ]
-    },
-    "58707318-7acb-3cfa-b833-4c804b1f469b": {
-        "uuid": "58707318-7acb-3cfa-b833-4c804b1f469b",
-        "title": "The Zacks Analyst Blog Highlights Enterprise Products, Arbor Realty, Kinder Morgan, The Buckle, Avnet",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-enterprise-145102043.html",
-        "providerPublishTime": 1656341462,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/a8iw.Y8i9LA4M1C3NFYt2w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/m1T1YCtyHP7vVcuGeKc7oA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9792182dd331d7c4372d7f2f2da5d94e",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cFaFUiA9n1ddapqf0GIcdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/m1T1YCtyHP7vVcuGeKc7oA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9792182dd331d7c4372d7f2f2da5d94e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AVT",
-            "KMI",
-            "EPD",
-            "ABR-PF",
-            "^GSPC"
         ]
     }
 }

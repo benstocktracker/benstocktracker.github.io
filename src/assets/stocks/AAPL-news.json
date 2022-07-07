@@ -1,21 +1,21 @@
 {
-    "88e08c0c-c8eb-33c6-893f-8694d530af69": {
-        "uuid": "88e08c0c-c8eb-33c6-893f-8694d530af69",
-        "title": "\u2018They\u2019ll chicken out\u2019: Fund legend Rick Rule says the Fed won\u2019t keep hiking rates aggressively, even to prevent \u2018amazing damage.\u2019 Here are 3 spots he likes for your money",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/ll-chicken-fund-legend-rick-154500463.html",
-        "providerPublishTime": 1656880500,
+    "1c992fd8-00f9-3944-9954-813818c5c909": {
+        "uuid": "1c992fd8-00f9-3944-9954-813818c5c909",
+        "title": "SoftBank\u2019s Rajeev Misra to Step\u00a0Back to Launch New Fund",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/softbank-rajeev-misra-step-back-112326229.html",
+        "providerPublishTime": 1657193006,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SSymtolum_ZtKSVyNB4E5A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hwsXuZr2EkBF5wvS_rznag--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0f72cd4fd4105f4fea439a6b097fda3c",
-                    "width": 728,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K5uSuhWJM19HMrIhvFGhew--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/W6O0Eb1vQEemljdIkgY_pQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/83f1aa163cf2ab9e7776aa7f41d3f2e4",
+                    "width": 4000,
+                    "height": 2667,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/T50yu3xOqxbC.YxlEFdP7g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hwsXuZr2EkBF5wvS_rznag--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/0f72cd4fd4105f4fea439a6b097fda3c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NSzljdomg22dRKjsUo0DDg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/W6O0Eb1vQEemljdIkgY_pQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/83f1aa163cf2ab9e7776aa7f41d3f2e4",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,29 +23,31 @@
             ]
         },
         "relatedTickers": [
-            "GOLD",
-            "NOBL",
+            "SFTBF",
+            "SFTBY",
+            "WE",
             "AAPL",
-            "RMPL-P"
+            "UBER",
+            "DB"
         ]
     },
-    "d0de2e2f-e435-3c24-b36a-8fcf08b7ec63": {
-        "uuid": "d0de2e2f-e435-3c24-b36a-8fcf08b7ec63",
-        "title": "Worried About Personal Data Leaks? Here\u2019s How to Lock Down Your Phone",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/d0de2e2f-e435-3c24-b36a-8fcf08b7ec63/worried-about-personal-data.html",
-        "providerPublishTime": 1656856800,
+    "a1788d19-e42a-3068-bdb3-5a0979a881d7": {
+        "uuid": "a1788d19-e42a-3068-bdb3-5a0979a881d7",
+        "title": "A Stock Trader's Guide to Navigating the Chip Industry",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/stock-traders-guide-navigating-chip-103433259.html",
+        "providerPublishTime": 1657190073,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PeoO6U0c5ZDMof.5vZnrcw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oCLm4z7nGDTHaXMps2Lnrg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f3b2d791b1478863da46a2864d834407",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JV3Z.UTKmUYRWSsGv522Zw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D.iCXGvrLT.WeW0ynw_VLw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/dda1b378623fa463757459dd0f7b4b87",
+                    "width": 1200,
+                    "height": 675,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/trLAYec1QeVq4x2rl.Vj_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oCLm4z7nGDTHaXMps2Lnrg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f3b2d791b1478863da46a2864d834407",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4bs4gDnmLWfLodQ3BQH9ug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D.iCXGvrLT.WeW0ynw_VLw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/dda1b378623fa463757459dd0f7b4b87",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -53,61 +55,55 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
-            "RMPL-P"
+            "ASML",
+            "SSNLF",
+            "AAPL"
         ]
     },
-    "3dd40602-347f-3287-b365-6c6f2c7f6598": {
-        "uuid": "3dd40602-347f-3287-b365-6c6f2c7f6598",
-        "title": "Learn This Investing Lesson, And You'll Have the Key to Success",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3dd40602-347f-3287-b365-6c6f2c7f6598/learn-this-investing-lesson%2C.html",
-        "providerPublishTime": 1656841500,
+    "6f0ec5dd-32e8-310c-a65d-f946f2564218": {
+        "uuid": "6f0ec5dd-32e8-310c-a65d-f946f2564218",
+        "title": "Apple planning rugged version of its smartwatch with bigger screen: report",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/6f0ec5dd-32e8-310c-a65d-f946f2564218/apple-planning-rugged-version.html",
+        "providerPublishTime": 1657188408,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
             "AAPL"
         ]
     },
-    "20c0c6a2-d308-3e2d-8cff-b6a327ae8ccb": {
-        "uuid": "20c0c6a2-d308-3e2d-8cff-b6a327ae8ccb",
-        "title": "Here Are 2 of the Best Stocks to Buy if the U.S. Avoids a Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/20c0c6a2-d308-3e2d-8cff-b6a327ae8ccb/here-are-2-of-the-best-stocks.html",
-        "providerPublishTime": 1656784800,
-        "type": "STORY",
-        "relatedTickers": [
-            "AAPL",
-            "UPST"
-        ]
-    },
-    "34559c08-331e-3527-82e9-cb72179a5eab": {
-        "uuid": "34559c08-331e-3527-82e9-cb72179a5eab",
-        "title": "Will the Apple and MLS Deal Attract a New Generation?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/34559c08-331e-3527-82e9-cb72179a5eab/will-the-apple-and-mls-deal.html",
-        "providerPublishTime": 1656766800,
-        "type": "STORY",
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "e7be99b9-9d89-3bfd-90c6-f2fd338dbf4a": {
-        "uuid": "e7be99b9-9d89-3bfd-90c6-f2fd338dbf4a",
-        "title": "\u2018It\u2019s so horrible that I want to buy it\u2019 \u2014 Jim Cramer likes these 2 crushed tech stocks that are still posting white-hot revenue growth",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/horrible-want-buy-jim-cramer-110000696.html",
-        "providerPublishTime": 1656759600,
-        "type": "STORY",
+    "17917743-3bbb-39b2-b282-a4ce65bb1ab9": {
+        "uuid": "17917743-3bbb-39b2-b282-a4ce65bb1ab9",
+        "title": "Influencers with Andy Serwer: Andrew Yang",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/influencers-andy-serwer-andrew-yang-100000203.html",
+        "providerPublishTime": 1657188000,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J159TPvdI23KNq9To1BFyQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7t7srwdAHat99C4NN9or.Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/bdfdbf4329a0b08a22b8e79a7670779f",
-                    "width": 728,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Tdg6b0EfXFzXAk6WNd8CKg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f00c5c0-fd7b-11ec-af6f-8d2d68557093",
+                    "width": 1920,
+                    "height": 1080,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cceaHdY2RmjwT4hYargSSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7t7srwdAHat99C4NN9or.Q--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/bdfdbf4329a0b08a22b8e79a7670779f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4avk6sD2_K75RueSGm6VCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f00c5c0-fd7b-11ec-af6f-8d2d68557093",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -115,40 +111,37 @@
             ]
         },
         "relatedTickers": [
-            "FKINX",
-            "NVDA",
+            "TSLA",
             "AAPL",
-            "RMPL-P"
+            "AMZN",
+            "XLE",
+            "ORCL",
+            "XOM",
+            "CVX",
+            "META",
+            "SNAP",
+            "TWTR",
+            "GOOG",
+            "GOOGL"
         ]
     },
-    "d167c0c7-3307-3716-a93a-01ef84dee74b": {
-        "uuid": "d167c0c7-3307-3716-a93a-01ef84dee74b",
-        "title": "Is Apple Dictating the Future of Sports Streaming?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d167c0c7-3307-3716-a93a-01ef84dee74b/is-apple-dictating-the-future.html",
-        "providerPublishTime": 1656759600,
-        "type": "STORY",
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "62ba889b-c624-3bf2-a62f-c93817e59976": {
-        "uuid": "62ba889b-c624-3bf2-a62f-c93817e59976",
-        "title": "More Americans Are Using Digital Wallets Than Ever. Which One Should You Choose Right Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/62ba889b-c624-3bf2-a62f-c93817e59976/more-americans-are-using.html",
-        "providerPublishTime": 1656757943,
-        "type": "STORY",
+    "29e1b5f3-4752-33d3-96f9-87cd36876bb8": {
+        "uuid": "29e1b5f3-4752-33d3-96f9-87cd36876bb8",
+        "title": "Aging politicians 'don't understand technology': Andrew Yang",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/aging-politicians-dont-understand-technology-100000826.html",
+        "providerPublishTime": 1657188000,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Qwx7735rEL30MCZBL5vXbQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Gb.Cf11.w1iY7aOAblulsA--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fd5b59248a5c8cd31df81fa65985c0cf",
-                    "width": 1400,
-                    "height": 932,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MRJ7pjI7TFs09T3uszNoMg--~B/aD0yNzAyO3c9NDgwMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
+                    "width": 4803,
+                    "height": 2702,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FIMi8k6_Ybfdb9lt.6vUfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Gb.Cf11.w1iY7aOAblulsA--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fd5b59248a5c8cd31df81fa65985c0cf",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6fcwcahIUWS4C0p14XGUKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -156,9 +149,118 @@
             ]
         },
         "relatedTickers": [
+            "NFLX",
+            "IBM",
+            "TWTR",
             "AAPL",
+            "SNA",
+            "GOOG",
             "GOOGL",
-            "PYPL"
+            "MSFT",
+            "META",
+            "AMZN"
+        ]
+    },
+    "448d2fcc-d32d-3ee7-94fc-9c6c27fd91ae": {
+        "uuid": "448d2fcc-d32d-3ee7-94fc-9c6c27fd91ae",
+        "title": "GameStop Announces Four-For-One Stock Split; Shares Rise",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/gamestop-announces-four-one-stock-204139167.html",
+        "providerPublishTime": 1657183164,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Bvppg7W8DgyIaNxkYEn3_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JugfUgTaS1kyGbFh5jz3bg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f33c09072e2b6e48c5c49d8050249d4c",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fdoFoSrWhzWbgrJqLB6aPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JugfUgTaS1kyGbFh5jz3bg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f33c09072e2b6e48c5c49d8050249d4c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "AAPL",
+            "GME",
+            "TSLA"
+        ]
+    },
+    "102d2fe9-a7e6-35ce-b0c8-d34ad2f22a77": {
+        "uuid": "102d2fe9-a7e6-35ce-b0c8-d34ad2f22a77",
+        "title": "Meta Plans to Call New Virtual Reality Headset the \u2018Quest Pro\u2019",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/meta-plans-call-virtual-reality-235748881.html",
+        "providerPublishTime": 1657151868,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KiDbgjNI8gCAR3zuIfhUjw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/HMQ_WiZRivH5xfwHpFJP9g--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/885fbf50a4493c3a9f44170643607f3b",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KlZcKh06Fmr7eLEqTLoOGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HMQ_WiZRivH5xfwHpFJP9g--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/885fbf50a4493c3a9f44170643607f3b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "AAPL"
+        ]
+    },
+    "aad3f771-6dd1-35e1-ad96-bc0f274c885d": {
+        "uuid": "aad3f771-6dd1-35e1-ad96-bc0f274c885d",
+        "title": "California is the top tech employer across multiple industries",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/aad3f771-6dd1-35e1-ad96-bc0f274c885d/california-is-the-top-tech.html",
+        "providerPublishTime": 1657146427,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uEGKzdgyGTdiPkUUsIL1pg--~B/aD0yMTAwO3c9MTQwNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/vjQz1aFhlsfWiLp0mrD7BA--~B/aD0yMTAwO3c9MTQwNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/8707666d92cf40e59eeaaede08f2cd7e",
+                    "width": 1406,
+                    "height": 2100,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OiK8fIyZUSnAPWsFdgxdUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vjQz1aFhlsfWiLp0mrD7BA--~B/aD0yMTAwO3c9MTQwNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/8707666d92cf40e59eeaaede08f2cd7e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HCA",
+            "BA",
+            "WFC",
+            "WFC-PD",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "DELL",
+            "AAPL",
+            "INTC",
+            "GM",
+            "AMAT",
+            "COF",
+            "COF-PI",
+            "COF-PJ",
+            "COF-PK",
+            "COF-PL",
+            "COF-PN"
         ]
     }
 }

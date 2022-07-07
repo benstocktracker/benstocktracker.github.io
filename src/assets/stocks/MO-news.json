@@ -1,21 +1,21 @@
 {
-    "7eb21ae1-1109-36dd-8a86-72cf791b413a": {
-        "uuid": "7eb21ae1-1109-36dd-8a86-72cf791b413a",
-        "title": "Altria\u2019s Dividend Yield Spiked After Juul Ban. The Payout Looks Secure.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/7eb21ae1-1109-36dd-8a86-72cf791b413a/altria%E2%80%99s-dividend-yield.html",
-        "providerPublishTime": 1656847800,
+    "827dd47e-f5a6-34c4-8887-b473af442081": {
+        "uuid": "827dd47e-f5a6-34c4-8887-b473af442081",
+        "title": "Eyenovia Announces Appointments of Dr. Ellen Strahlman and Dr. Ram Palanki as New and Independent Members of its Board of Directors",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/eyenovia-announces-appointments-dr-ellen-120000725.html",
+        "providerPublishTime": 1657195200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QS5Eiwi_yPn6NjiNXNLhyQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xc5jfxvOdGmdxpbGGnKP0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/114be92f3acc5b6931d6a8badd1e4a4e",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m6jtxP792hLmhvtBO0ScwQ--~B/aD0xMDk7dz0zMTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/PN_R.X3I.LsMAa9LAJsblA--~B/aD0xMDk7dz0zMTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/86e49900b58c180df0a67b423170d206",
+                    "width": 311,
+                    "height": 109,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QCetWuV1I0gTwwLMzV30aw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xc5jfxvOdGmdxpbGGnKP0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/114be92f3acc5b6931d6a8badd1e4a4e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bwiuDi9s90BqF3FqzYvm8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PN_R.X3I.LsMAa9LAJsblA--~B/aD0xMDk7dz0zMTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/86e49900b58c180df0a67b423170d206",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,88 +23,44 @@
             ]
         },
         "relatedTickers": [
-            "MO"
-        ]
-    },
-    "824939d0-c9d7-351b-a7f1-502c98ce73ad": {
-        "uuid": "824939d0-c9d7-351b-a7f1-502c98ce73ad",
-        "title": "10 Extreme Dividend Stocks With Upside Potential",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-extreme-dividend-stocks-upside-141705376.html",
-        "providerPublishTime": 1656512225,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cuEmNhsOd6AiIMmc_AmTvQ--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F7ASUGWniPpFVKP8YGYmmw--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8c2969fac5d580e07ac49fce7b77f8f8",
-                    "width": 768,
-                    "height": 510,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bWjekJ1j0u2xNu5coUqFGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F7ASUGWniPpFVKP8YGYmmw--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8c2969fac5d580e07ac49fce7b77f8f8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "KO",
-            "O",
-            "WBA",
-            "PRU",
-            "PEP",
+            "RGNX",
+            "BDX",
+            "BDXB",
             "MO",
-            "LEG"
+            "SYNC.L",
+            "EYEN",
+            "TBGNF"
         ]
     },
-    "6e039a75-2e4e-3266-bf31-292fe6e6d40a": {
-        "uuid": "6e039a75-2e4e-3266-bf31-292fe6e6d40a",
-        "title": "MO Stock: Is Marlboro Maker Altria A Buy As Juul Gets A Temporary Break?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/6e039a75-2e4e-3266-bf31-292fe6e6d40a/mo-stock%3A-is-marlboro-maker.html",
-        "providerPublishTime": 1656455829,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b.ICBJlbnIYuHVpHn83MfQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3Yn9cL8_BcYZxa5JEgRWtg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6bce5c689f76f5bedc14af1a43e0342e",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QsxxpG0BO5uRzycBrfaKJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3Yn9cL8_BcYZxa5JEgRWtg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6bce5c689f76f5bedc14af1a43e0342e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MO",
-            "PM"
-        ]
-    },
-    "5e867c50-3fda-3f03-8093-1fe0826ffe47": {
-        "uuid": "5e867c50-3fda-3f03-8093-1fe0826ffe47",
-        "title": "New to Dividend Stocks? Start by Buying These 3 Ultra-Safe Picks",
+    "09ea001f-4d79-348d-bfc5-f4cef0b2ab5f": {
+        "uuid": "09ea001f-4d79-348d-bfc5-f4cef0b2ab5f",
+        "title": "Could Juul's Problems Make This an Inevitable Move for Altria?",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/5e867c50-3fda-3f03-8093-1fe0826ffe47/new-to-dividend-stocks%3F-start.html",
-        "providerPublishTime": 1656430200,
+        "link": "https://finance.yahoo.com/m/09ea001f-4d79-348d-bfc5-f4cef0b2ab5f/could-juul%27s-problems-make.html",
+        "providerPublishTime": 1657188960,
         "type": "STORY",
+        "relatedTickers": [
+            "MO",
+            "CRON"
+        ]
+    },
+    "c5989697-c0fa-344e-a221-bb56d8b65fab": {
+        "uuid": "c5989697-c0fa-344e-a221-bb56d8b65fab",
+        "title": "The timeline of the FDA's ban on Juul vaping products",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/timeline-fdas-ban-juul-vaping-203505968.html",
+        "providerPublishTime": 1657139705,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IVBxh1lUF6jQ5eSrXgiiCw--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JegLlRaeJOrIcd_RkuBxAA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d896286a126a24540d1fa28bbdccc3ad",
-                    "width": 1400,
-                    "height": 934,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4d5MDQFapIXJe5FAd8AGJQ--~B/aD0xNDY2O3c9MjYxMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/19623fc0-fd6b-11ec-92fb-648d80152aaa",
+                    "width": 2610,
+                    "height": 1466,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5XxJ.JhL5z048Z1AouTblw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JegLlRaeJOrIcd_RkuBxAA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d896286a126a24540d1fa28bbdccc3ad",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tUWhdwTRw7F4i_D5x1Sk7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/19623fc0-fd6b-11ec-92fb-648d80152aaa",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -113,27 +69,33 @@
         },
         "relatedTickers": [
             "JNJ",
+            "MRK",
+            "AZN",
+            "AZNCF",
+            "MRNA",
             "MO",
-            "KO"
+            "PFE",
+            "NVAX",
+            "BNTX"
         ]
     },
-    "44e9433f-5e72-30a6-a57f-7353cc2823e5": {
-        "uuid": "44e9433f-5e72-30a6-a57f-7353cc2823e5",
-        "title": "10 Best Dividend Stocks For Inflation",
+    "59fa83b7-5813-3de9-894b-59e7ece7b187": {
+        "uuid": "59fa83b7-5813-3de9-894b-59e7ece7b187",
+        "title": "Analysts are Bearish on These 10 Consumer Stocks as Recession Begins",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-inflation-140921164.html",
-        "providerPublishTime": 1656425361,
+        "link": "https://finance.yahoo.com/news/analysts-bearish-10-consumer-stocks-142043241.html",
+        "providerPublishTime": 1657117243,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/25Nxh0MkGtgSDfHrOFS7qw--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/eIQztSn1JclI11nsnXIc.g--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/32475f5201d0535f7a115a7eb970df1d",
-                    "width": 400,
-                    "height": 267,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WoiJTn1E_kWYPA_16jUH_Q--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/l6IZmwDOcJJsGCbc9AZlBw--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b245c9b5b828e65e8e780dc8f14d1004",
+                    "width": 750,
+                    "height": 498,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CRDyjTJjLIM2JGOE3.IFxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eIQztSn1JclI11nsnXIc.g--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/32475f5201d0535f7a115a7eb970df1d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1bJtIpORZ2kZUU2mBNJPoA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/l6IZmwDOcJJsGCbc9AZlBw--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b245c9b5b828e65e8e780dc8f14d1004",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -141,66 +103,32 @@
             ]
         },
         "relatedTickers": [
-            "O",
-            "IBM",
-            "PM",
-            "VZ",
-            "XOM",
-            "T-PC",
+            "WBA",
+            "DEO",
+            "SAM",
+            "UL",
+            "BBBY",
             "MO",
-            "DVN"
+            "TSLA"
         ]
     },
-    "be49cf96-a72f-39fe-8adf-2d0cda21fba7": {
-        "uuid": "be49cf96-a72f-39fe-8adf-2d0cda21fba7",
-        "title": "7 Growth Stocks to Buy After the Market Crash",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-growth-stocks-buy-market-103207173.html",
-        "providerPublishTime": 1656412327,
+    "c2d0eb07-0d2e-33de-bbed-7c216a9e7463": {
+        "uuid": "c2d0eb07-0d2e-33de-bbed-7c216a9e7463",
+        "title": "Altria Stock Jumps After FDA Temporarily Suspends Ban on Juul",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/c2d0eb07-0d2e-33de-bbed-7c216a9e7463/altria-stock-jumps-after-fda.html",
+        "providerPublishTime": 1657116360,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZMp_VxCR9pUss3xAdSBHrA--~B/aD0xOTI7dz0yMTQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/c7flS9RehwMPJCRwgQf48A--~B/aD0xOTI7dz0yMTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/8cf58181ab9f9467998216a41f77614a",
-                    "width": 214,
-                    "height": 192,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.Ob7N6owHKi7dkyEBHb2GQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/r1DJa6qXMtZhY9KOJd3wPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3012450ce9c3510f64f84c837dde6905",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nYjtNDYbzSDnePp3mGpYWQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c7flS9RehwMPJCRwgQf48A--~B/aD0xOTI7dz0yMTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/8cf58181ab9f9467998216a41f77614a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "INTC",
-            "MSFT",
-            "SHOP",
-            "AAPL",
-            "NEE",
-            "MO",
-            "MA"
-        ]
-    },
-    "0eafdeb0-ffd6-355d-9a6b-556605be4a9b": {
-        "uuid": "0eafdeb0-ffd6-355d-9a6b-556605be4a9b",
-        "title": "Altria (MO) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/altria-mo-dips-more-broader-215009278.html",
-        "providerPublishTime": 1656366609,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/I6NEfdIfVQnuBOcsyd4sPg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
-                    "width": 900,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OuKZPaloUxgcmtaUQs.1EA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/X.Ihbr9f42zYSuemBXjNww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/r1DJa6qXMtZhY9KOJd3wPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3012450ce9c3510f64f84c837dde6905",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -211,17 +139,61 @@
             "MO"
         ]
     },
-    "ac8d7113-3745-3e5c-99c5-d632cf3e3f1e": {
-        "uuid": "ac8d7113-3745-3e5c-99c5-d632cf3e3f1e",
-        "title": "How to Think About \"Sin Stocks\"",
+    "2b35fc40-9d1e-380e-9570-b2acd832a0f5": {
+        "uuid": "2b35fc40-9d1e-380e-9570-b2acd832a0f5",
+        "title": "FDA temporarily suspends Juul e-cigarette ban",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/fda-temporarily-suspends-juul-e-134228887.html",
+        "providerPublishTime": 1657114948,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/60NmQx09Vta8dvgXw2yqqQ--~B/aD0xNTY0O3c9Mjc4NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/6135e6b0-fd31-11ec-bbd7-279e04bcc9ee",
+                    "width": 2786,
+                    "height": 1564,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5AWXsoAznJMgPA7pXFYc_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/6135e6b0-fd31-11ec-bbd7-279e04bcc9ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO"
+        ]
+    },
+    "d8cd06c0-4daf-3f7d-b0bd-25390d5ac53c": {
+        "uuid": "d8cd06c0-4daf-3f7d-b0bd-25390d5ac53c",
+        "title": "Altria Gets a Reprieve, but This Stock's the Real Wednesday Winner",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ac8d7113-3745-3e5c-99c5-d632cf3e3f1e/how-to-think-about-%22sin.html",
-        "providerPublishTime": 1656366360,
+        "link": "https://finance.yahoo.com/m/d8cd06c0-4daf-3f7d-b0bd-25390d5ac53c/altria-gets-a-reprieve%2C-but.html",
+        "providerPublishTime": 1657113391,
         "type": "STORY",
         "relatedTickers": [
-            "MSTR",
             "MO",
-            "ADBE"
+            "RFP"
+        ]
+    },
+    "007d4f4e-335a-3c9c-8bc8-b5926bf4ec3d": {
+        "uuid": "007d4f4e-335a-3c9c-8bc8-b5926bf4ec3d",
+        "title": "DoorDash, Uber, VMware Fall Premarket; Altria, Rocket Companies Rise",
+        "publisher": "Investing.com",
+        "link": "https://finance.yahoo.com/news/doordash-uber-vmware-fall-premarket-080023855.html",
+        "providerPublishTime": 1657094423,
+        "type": "STORY",
+        "relatedTickers": [
+            "MO",
+            "DASH",
+            "UBER",
+            "RKT",
+            "VMW",
+            "ATVI",
+            "MSFT",
+            "AMZN"
         ]
     }
 }

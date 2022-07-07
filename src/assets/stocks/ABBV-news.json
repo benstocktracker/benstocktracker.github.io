@@ -1,4 +1,199 @@
 {
+    "71002e2a-1c9b-3556-87cc-347ab20de03e": {
+        "uuid": "71002e2a-1c9b-3556-87cc-347ab20de03e",
+        "title": "4 High-Dividend Stocks Rise In Face Of Recession Freak-Out",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/71002e2a-1c9b-3556-87cc-347ab20de03e/4-high-dividend-stocks-rise.html",
+        "providerPublishTime": 1657195207,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kpl2m98wy.Xky_gMCVle0A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qvHAAdyB2KQtamXmL0e.EA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4944147fe1cad5dfa843e09e738d8cb0",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xbq190HgdVkberqfxvgRnA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qvHAAdyB2KQtamXmL0e.EA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4944147fe1cad5dfa843e09e738d8cb0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPGI",
+            "ABBV",
+            "CAG"
+        ]
+    },
+    "b3321fef-f056-3610-b073-961b446285e6": {
+        "uuid": "b3321fef-f056-3610-b073-961b446285e6",
+        "title": "Senate Report Hits AbbVie\u2019s Bermuda Tax Structure for U.S. Humira Sales",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/b3321fef-f056-3610-b073-961b446285e6/senate-report-hits-abbvie%E2%80%99s.html",
+        "providerPublishTime": 1657184400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/a2mEeDeNQi4ZP48DATVCdw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z_lHiioJ0IoIjvFLELQjhA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/5231df6e92ba627ffab7c7898d571ee6",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/61gDhsTwWkJZWKeW7nsrxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z_lHiioJ0IoIjvFLELQjhA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/5231df6e92ba627ffab7c7898d571ee6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "a0a7f061-b4c2-3b33-93ff-4ee5a7df0939": {
+        "uuid": "a0a7f061-b4c2-3b33-93ff-4ee5a7df0939",
+        "title": "Applied Molecular Shares Tumble After Disappointing Data From Mid-Stage Ulcerative Colitis Study",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/applied-molecular-shares-tumble-disappointing-125609288.html",
+        "providerPublishTime": 1657112169,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uw_9ZhQ2zx_uiNDOPNpajQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OActccoEOL10.PqGwnUXrA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0aeb32b2528c9c9d82a0ebfc0bd46bad",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VMWIna_HdGN8HAjFBldfpw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OActccoEOL10.PqGwnUXrA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0aeb32b2528c9c9d82a0ebfc0bd46bad",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "8d9434e3-b6b7-3a04-87e4-51e5e69f436c": {
+        "uuid": "8d9434e3-b6b7-3a04-87e4-51e5e69f436c",
+        "title": "These 5 Top Stocks Are Set to Outperform in a Recession",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8d9434e3-b6b7-3a04-87e4-51e5e69f436c/these-5-top-stocks-are-set-to.html",
+        "providerPublishTime": 1657106520,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q9qLx_5iX7sWLMqCobHnUg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WiVjEgcV7HW9kXqEobj7uA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8ee70757418fad5c69de0bd4e217ca69",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Gx.U.1GLNfut4fG.UNY7_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WiVjEgcV7HW9kXqEobj7uA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8ee70757418fad5c69de0bd4e217ca69",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMT",
+            "ABBV",
+            "PANW",
+            "ISRG"
+        ]
+    },
+    "c69dcafb-9967-3ee8-842f-74a1b95a5807": {
+        "uuid": "c69dcafb-9967-3ee8-842f-74a1b95a5807",
+        "title": "AbbVie (ABBV) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-abbv-gains-lags-market-214509647.html",
+        "providerPublishTime": 1657057509,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gS0nw.47qgAgvrgADz_fWQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ybt7Kr93VFMGfaWqBsqsmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "^GSPC"
+        ]
+    },
+    "58c7dbc0-e42f-3cf9-a05f-ada610b730f4": {
+        "uuid": "58c7dbc0-e42f-3cf9-a05f-ada610b730f4",
+        "title": "This Blockbuster Drug from AbbVie Is Closer to Another Major Indication",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/58c7dbc0-e42f-3cf9-a05f-ada610b730f4/this-blockbuster-drug-from.html",
+        "providerPublishTime": 1657020600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jPtg44baL2B4uShCEfNXaA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fkj_ahv78sweZPKU87JYwg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/21836605811fec94d2719c98c30f5487",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BvVGf63TOAYA2bUR7deU4w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fkj_ahv78sweZPKU87JYwg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/21836605811fec94d2719c98c30f5487",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "48bf32b7-324b-3a65-bb8b-8f6b9baf2090": {
+        "uuid": "48bf32b7-324b-3a65-bb8b-8f6b9baf2090",
+        "title": "Should You Consider Acquiring AbbVie (ABBV) Shares?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/consider-acquiring-abbvie-abbv-shares-053125021.html",
+        "providerPublishTime": 1656912685,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RPdDuxHiXUJF8eAcQaJwAA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RqAKkC.S5mdZgyAUtzNS4g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/20f5140b0d6593c9f87e143fb6bf21b3",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Nli7ogZuQa7Cgi.l4g3Bpg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RqAKkC.S5mdZgyAUtzNS4g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/20f5140b0d6593c9f87e143fb6bf21b3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
     "fc6763df-e395-39ad-9097-2091af7f2259": {
         "uuid": "fc6763df-e395-39ad-9097-2091af7f2259",
         "title": "3 Stocks You Can Buy and Hold for Decades",
@@ -10,168 +205,6 @@
             "ABBV",
             "VRTX",
             "BMY"
-        ]
-    },
-    "c91b9937-b4d4-31a2-b8b5-6c408522c083": {
-        "uuid": "c91b9937-b4d4-31a2-b8b5-6c408522c083",
-        "title": "5 NYSE Stocks To Watch And Buy: Here Are Fundamental And Technical Reasons Why",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/c91b9937-b4d4-31a2-b8b5-6c408522c083/5-nyse-stocks-to-watch-and.html",
-        "providerPublishTime": 1656702327,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NxvQTXhPSK_hcJwNv.92mw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WvNNHym7w4OyVWRMn_b_0A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8",
-                    "width": 1012,
-                    "height": 572,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P5lkV7MPOsQPkyiEwAjxHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WvNNHym7w4OyVWRMn_b_0A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^NYA",
-            "ABBV",
-            "BMY",
-            "COMP"
-        ]
-    },
-    "0804711b-4494-37d6-864e-816f48a418af": {
-        "uuid": "0804711b-4494-37d6-864e-816f48a418af",
-        "title": "Amgen's Beating the Market -- Here's Why It's a Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0804711b-4494-37d6-864e-816f48a418af/amgen%27s-beating-the-market-.html",
-        "providerPublishTime": 1656684000,
-        "type": "STORY",
-        "relatedTickers": [
-            "AMGN",
-            "ABBV"
-        ]
-    },
-    "a8735ace-7c5d-35f9-b56c-aa9e3ed105b1": {
-        "uuid": "a8735ace-7c5d-35f9-b56c-aa9e3ed105b1",
-        "title": "The 3 Best Dividend Aristocrat Stocks in the First Half of 2022: Are They Buys Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a8735ace-7c5d-35f9-b56c-aa9e3ed105b1/the-3-best-dividend.html",
-        "providerPublishTime": 1656669120,
-        "type": "STORY",
-        "relatedTickers": [
-            "XOM",
-            "ABBV",
-            "CVX",
-            "^GSPC"
-        ]
-    },
-    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
-        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
-        "providerPublishTime": 1656607035,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/m5d.Smd693RMHHIXgMp5Pw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o_.HlPSfHXegjFg37AN7ZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "AGN",
-            "PFE"
-        ]
-    },
-    "2bbae5f3-b2dc-3d9c-9fcd-67fb4d3e5772": {
-        "uuid": "2bbae5f3-b2dc-3d9c-9fcd-67fb4d3e5772",
-        "title": "Moody\u2019s reduces outlook for pharma industry, Pfizer to provide additional COVID vaccine doses",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/moody-reduces-outlook-pharma-industry-150018181.html",
-        "providerPublishTime": 1656601218,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gn6wObR3gYCK3.0aGtrLgw--~B/aD0xNTY0O3c9Mjc4NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/52d89ff0-f885-11ec-be7b-8f26ac15cccf",
-                    "width": 2786,
-                    "height": 1564,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_maRk2c45zEoRIYKp3phuQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/52d89ff0-f885-11ec-be7b-8f26ac15cccf",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "AZN",
-            "AZNCF",
-            "MCO",
-            "MRK",
-            "JNJ"
-        ]
-    },
-    "1a28e480-a4fb-3322-aa63-c381edb87930": {
-        "uuid": "1a28e480-a4fb-3322-aa63-c381edb87930",
-        "title": "10 Best Dividend Stocks to Buy According to Bernard Horn\u2019s Polaris Capital Management",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-buy-131538505.html",
-        "providerPublishTime": 1656594938,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mK0CnPUWj5QFcbmOYBoqcw--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qfibJO19HIKm5PQARqGhkA--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f48112a5590965a0cc7cd81793318eb",
-                    "width": 473,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1UhQiMbE.MRVaPkaTyK70A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qfibJO19HIKm5PQARqGhkA--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f48112a5590965a0cc7cd81793318eb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FDX",
-            "JPM",
-            "UNH",
-            "ALSN",
-            "COF-PJ",
-            "ABBV",
-            "INTC"
-        ]
-    },
-    "06286248-8eb7-3905-8284-cf71f9f247b8": {
-        "uuid": "06286248-8eb7-3905-8284-cf71f9f247b8",
-        "title": "2 of the Safest Stocks to Buy in a Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/06286248-8eb7-3905-8284-cf71f9f247b8/2-of-the-safest-stocks-to-buy.html",
-        "providerPublishTime": 1656582060,
-        "type": "STORY",
-        "relatedTickers": [
-            "ABBV",
-            "ABT"
         ]
     }
 }

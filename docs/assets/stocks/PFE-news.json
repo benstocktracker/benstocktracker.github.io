@@ -1,32 +1,83 @@
 {
-    "c31a7dd1-296f-3949-8703-9dc1d4ba8e92": {
-        "uuid": "c31a7dd1-296f-3949-8703-9dc1d4ba8e92",
-        "title": "German health minister in move to boost use of COVID treatment Paxlovid",
+    "00e32205-b1ae-30cc-a833-322028899f61": {
+        "uuid": "00e32205-b1ae-30cc-a833-322028899f61",
+        "title": "This Exciting Growth Sector Is Predicted to Keep Doubling Until 2028",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/00e32205-b1ae-30cc-a833-322028899f61/this-exciting-growth-sector.html",
+        "providerPublishTime": 1657192980,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE",
+            "JAZZ"
+        ]
+    },
+    "6151e7db-adaa-3eb2-9aaa-fbb460acd6de": {
+        "uuid": "6151e7db-adaa-3eb2-9aaa-fbb460acd6de",
+        "title": "Coronavirus tally: Hospitalizations jump to 4-month high, 2-week trend of new cases rise 11%",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/6151e7db-adaa-3eb2-9aaa-fbb460acd6de/coronavirus-tally%3A.html",
+        "providerPublishTime": 1657190892,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "e01cbcec-ef53-31d3-b6a4-55fbee55eb31": {
+        "uuid": "e01cbcec-ef53-31d3-b6a4-55fbee55eb31",
+        "title": "Is Moderna Stock a No-Brainer Buy With Omicron Boosters on the Way?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e01cbcec-ef53-31d3-b6a4-55fbee55eb31/is-moderna-stock-a-no-brainer.html",
+        "providerPublishTime": 1657187520,
+        "type": "STORY",
+        "relatedTickers": [
+            "MRNA",
+            "PFE"
+        ]
+    },
+    "580e7bd6-3a5f-3313-ab73-3cf2ebb897d3": {
+        "uuid": "580e7bd6-3a5f-3313-ab73-3cf2ebb897d3",
+        "title": "UPDATE 1-Africa CDC says it has signed MOU with Pfizer for COVID pill",
         "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/german-health-minister-move-boost-145027012.html",
-        "providerPublishTime": 1656859827,
+        "link": "https://finance.yahoo.com/news/1-africa-cdc-says-signed-094928232.html",
+        "providerPublishTime": 1657187368,
         "type": "STORY",
         "relatedTickers": [
             "PFE"
         ]
     },
-    "6d157b50-5cc1-4595-ad63-247d0eac3948": {
-        "uuid": "6d157b50-5cc1-4595-ad63-247d0eac3948",
-        "title": "How mRNA tech blew open the door of UPS's cold chain logistics business",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/how-m-rna-tech-blew-open-the-door-of-up-ss-cold-chain-logistics-business-150904999.html",
-        "providerPublishTime": 1656774544,
+    "25854ad2-3471-3528-9568-3492f065f17a": {
+        "uuid": "25854ad2-3471-3528-9568-3492f065f17a",
+        "title": "Covid-19 Vaccine Doses, Once in High Demand, Now Thrown Away",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/25854ad2-3471-3528-9568-3492f065f17a/covid-19-vaccine-doses%2C-once.html",
+        "providerPublishTime": 1657142820,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hWCflEiGLam9fogSof967A--~B/aD04MzI7dz0xMzEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/82d897e0-fa16-11ec-9fb7-276251fc5eed",
-                    "width": 1312,
-                    "height": 832,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ie5Qu3Dm3saMiqw3t471Xw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ro1s3NvXTSLVgv2qwrX0Zg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/93d81d9aada9a87f80a274adff67fb38",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/L5qZcE3rzLtaVXn_ymEZyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/82d897e0-fa16-11ec-9fb7-276251fc5eed",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iAn500XI6jpBjRzrNXx0fg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ro1s3NvXTSLVgv2qwrX0Zg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/93d81d9aada9a87f80a274adff67fb38",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -34,29 +85,30 @@
             ]
         },
         "relatedTickers": [
+            "AZN",
+            "AZNCF",
             "PFE",
-            "MRNA",
             "BNTX",
-            "UPS"
+            "MRNA"
         ]
     },
-    "c18a1027-558e-3528-b891-487e3534bd4e": {
-        "uuid": "c18a1027-558e-3528-b891-487e3534bd4e",
-        "title": "Pfizer (PFE) Seeks FDA Nod for Its Oral Antiviral COVID Pill",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pfizer-pfe-seeks-fda-nod-145602424.html",
-        "providerPublishTime": 1656687362,
-        "type": "STORY",
+    "c5989697-c0fa-344e-a221-bb56d8b65fab": {
+        "uuid": "c5989697-c0fa-344e-a221-bb56d8b65fab",
+        "title": "The timeline of the FDA's ban on Juul vaping products",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/timeline-fdas-ban-juul-vaping-203505968.html",
+        "providerPublishTime": 1657139705,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YPM_9uqp_xjGkriAddfdPw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/IW5EhxEFuSd4V4nUFOhT_A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1e2f63f10f05b0390ba8b63bd4ef031c",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4d5MDQFapIXJe5FAd8AGJQ--~B/aD0xNDY2O3c9MjYxMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/19623fc0-fd6b-11ec-92fb-648d80152aaa",
+                    "width": 2610,
+                    "height": 1466,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yGqUkvjPGggIqxTHSifQKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IW5EhxEFuSd4V4nUFOhT_A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1e2f63f10f05b0390ba8b63bd4ef031c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tUWhdwTRw7F4i_D5x1Sk7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/19623fc0-fd6b-11ec-92fb-648d80152aaa",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -64,57 +116,34 @@
             ]
         },
         "relatedTickers": [
-            "PFE",
-            "ARDS",
-            "MRK"
-        ]
-    },
-    "b539f94b-502d-3018-a5d0-d9fc608c45b4": {
-        "uuid": "b539f94b-502d-3018-a5d0-d9fc608c45b4",
-        "title": "FDA Recommends Adding New Omicron Subvariants to COVID Boosters",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/fda-recommends-adding-omicron-subvariants-134501173.html",
-        "providerPublishTime": 1656683101,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vx1BotKZKdGvCUJ4phKNhQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qkfvcD5UVKxFwlSjFlzRnQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cef97d1211666d37f76815b1793fed92",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wbH8KjE_HSaFPcPuN_tldg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qkfvcD5UVKxFwlSjFlzRnQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cef97d1211666d37f76815b1793fed92",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "JNJ",
+            "MRK",
+            "AZN",
+            "AZNCF",
             "MRNA",
+            "MO",
             "PFE",
+            "NVAX",
             "BNTX"
         ]
     },
-    "b2c94001-a5b8-394d-838e-094f3fe01e21": {
-        "uuid": "b2c94001-a5b8-394d-838e-094f3fe01e21",
-        "title": "Is Trending Stock Pfizer Inc. (PFE) a Buy Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/trending-stock-pfizer-inc-pfe-130001110.html",
-        "providerPublishTime": 1656680401,
+    "d7b9ebc2-d61f-3625-931d-523b0c1d3d4f": {
+        "uuid": "d7b9ebc2-d61f-3625-931d-523b0c1d3d4f",
+        "title": "FDA allows pharmacists to prescribe Pfizer\u2019s COVID-19 pill Paxlovid",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/d7b9ebc2-d61f-3625-931d-523b0c1d3d4f/fda-allows-pharmacists-to.html",
+        "providerPublishTime": 1657137840,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SAL_BV4Lqcz677Hwp3FpIw--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
-                    "width": 1000,
-                    "height": 603,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GkhUKOwBaIdmcJyXyVk8nA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pcpqQR584VxwrewuA3Xf7A--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/51a32671f4f3540a8f275d6261e1d708",
+                    "width": 1279,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UFSM7lesnJ4LZBk9Z57AzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dihoR_LWJ8d5iLBtXBBA4A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pcpqQR584VxwrewuA3Xf7A--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/51a32671f4f3540a8f275d6261e1d708",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -122,74 +151,34 @@
             ]
         },
         "relatedTickers": [
-            "PFE"
+            "CVS",
+            "PFE",
+            "WBA"
         ]
     },
-    "6e9223f5-c831-3155-9589-8200804cc636": {
-        "uuid": "6e9223f5-c831-3155-9589-8200804cc636",
-        "title": "FDA Expert Panel Favors COVID-19 Boosters Targeting Omicron BA.4, BA.5 Subvariants",
+    "b64fba3e-2510-306f-a3eb-2b4a05061fe9": {
+        "uuid": "b64fba3e-2510-306f-a3eb-2b4a05061fe9",
+        "title": "Touchlight Inks Patent License Agreement With Pfizer",
         "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/fda-expert-panel-favors-covid-122431468.html",
-        "providerPublishTime": 1656678271,
+        "link": "https://finance.yahoo.com/news/touchlight-inks-patent-license-agreement-190807831.html",
+        "providerPublishTime": 1657134487,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Z7SuWggtpRlM8x.KAvVW_g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nVErdUgqrhjQJn9QsM4.Wg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/59eac81b38efea26e6a2723cd22a9ecf",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WrOhHDNxOC2bV.MnRmMvqg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kRm7fBIHIbV04d1JUoNsOA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/00a3c09d289cd77faf8e4d5c8f7aa85d",
                     "width": 600,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Mjte.yMaQ3xuG27pfVMD5w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nVErdUgqrhjQJn9QsM4.Wg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/59eac81b38efea26e6a2723cd22a9ecf",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YDyJeGcoE63.eOeXdqTClQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kRm7fBIHIbV04d1JUoNsOA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/00a3c09d289cd77faf8e4d5c8f7aa85d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
                 }
             ]
         },
-        "relatedTickers": [
-            "PFE",
-            "BNTX"
-        ]
-    },
-    "1d209722-cdde-3d96-823c-48f7245e5786": {
-        "uuid": "1d209722-cdde-3d96-823c-48f7245e5786",
-        "title": "The Zacks Analyst Blog Highlights Sanofi, Merck, Novartis, Pfizer and J&J",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-sanofi-105710693.html",
-        "providerPublishTime": 1656673030,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pf.CrxmGxoiX1XZr_9.OAg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/MPLv._QOfr9ekgf5qyZbUA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4c89fa4c828d913dc49739912177a966",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5h7Db5nwj_QY3XqrjLuLuQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MPLv._QOfr9ekgf5qyZbUA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4c89fa4c828d913dc49739912177a966",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "MRK",
-            "SNY",
-            "NVS"
-        ]
-    },
-    "74d9081a-60b8-3f8f-bf70-b19796f9e543": {
-        "uuid": "74d9081a-60b8-3f8f-bf70-b19796f9e543",
-        "title": "Why Pfizer Popped While the Market Flopped Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/74d9081a-60b8-3f8f-bf70-b19796f9e543/why-pfizer-popped-while-the.html",
-        "providerPublishTime": 1656629899,
-        "type": "STORY",
         "relatedTickers": [
             "PFE"
         ]

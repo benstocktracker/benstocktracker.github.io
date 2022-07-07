@@ -1,4 +1,71 @@
 {
+    "a08f5540-a9cc-31eb-9af3-787963c2532d": {
+        "uuid": "a08f5540-a9cc-31eb-9af3-787963c2532d",
+        "title": "Federal Realty Investment Trust Announces Second Quarter 2022 Earnings Release Date and Conference Call Information",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-announces-203000387.html",
+        "providerPublishTime": 1657139400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uOmJzE0V7NnxtV2vYfvFjw--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/tFCnVYpwS2W2vaIz36LtSg--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4856615d128d21fbe0a3735f8286a8f2",
+                    "width": 400,
+                    "height": 156,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kNSVxs7zdsnOTlj77qLfng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tFCnVYpwS2W2vaIz36LtSg--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4856615d128d21fbe0a3735f8286a8f2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT",
+            "FRT-PC"
+        ]
+    },
+    "62a99deb-78be-3dbd-9f19-df8a56630868": {
+        "uuid": "62a99deb-78be-3dbd-9f19-df8a56630868",
+        "title": "Federal Realty Trust makes inroads on redevelopment of 3 suburban Philadelphia shopping centers",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/62a99deb-78be-3dbd-9f19-df8a56630868/federal-realty-trust-makes.html",
+        "providerPublishTime": 1657033037,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fLtWZqkGpK81LiqXczaTrQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bt5Z1SbaY9sMBVaEyCn5SQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/bb9c3c3afa5a4ec2c44c10291aac46d1",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ai_3CKhlpgA4w3976rbHrw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bt5Z1SbaY9sMBVaEyCn5SQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/bb9c3c3afa5a4ec2c44c10291aac46d1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT",
+            "FRT-PC"
+        ]
+    },
+    "272b7fb7-269b-3b7f-b724-63646d3e62a5": {
+        "uuid": "272b7fb7-269b-3b7f-b724-63646d3e62a5",
+        "title": "Why Federal Realty Investment Trust Stock Slumped Almost 17% in June",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/272b7fb7-269b-3b7f-b724-63646d3e62a5/why-federal-realty-investment.html",
+        "providerPublishTime": 1657032307,
+        "type": "STORY",
+        "relatedTickers": [
+            "FRT"
+        ]
+    },
     "f53d9182-ea5d-3453-9f5a-f5c319e83abc": {
         "uuid": "f53d9182-ea5d-3453-9f5a-f5c319e83abc",
         "title": "New Investor? These Real Estate Stocks Should Be on Your Shopping List",
@@ -97,90 +164,6 @@
             "CDR",
             "CDR-PB",
             "CDR-PC"
-        ]
-    },
-    "48828afe-62e9-3326-bbb3-c3f18adfe162": {
-        "uuid": "48828afe-62e9-3326-bbb3-c3f18adfe162",
-        "title": "Trade Alert: The Independent Non-Executive Chairman of the Board Of Federal Realty Investment Trust (NYSE:FRT), David Faeder, Has Just Spent US$1.0m Buying 79% More Shares",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/trade-alert-independent-non-executive-102511092.html",
-        "providerPublishTime": 1656066311,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wygj_JpmWCy0g01.Di_sfw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1R7ph5rvk2KLIk2HV4jd3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC"
-        ]
-    },
-    "73a0fa20-fcfd-31b7-91a0-9cdc8a856286": {
-        "uuid": "73a0fa20-fcfd-31b7-91a0-9cdc8a856286",
-        "title": "Can Federal Realty Investment Trust (NYSE:FRT) Maintain Its Strong Returns?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-nyse-131824026.html",
-        "providerPublishTime": 1655903904,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wygj_JpmWCy0g01.Di_sfw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1R7ph5rvk2KLIk2HV4jd3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC"
-        ]
-    },
-    "1345035b-56bc-37c0-bc81-c6fb97db16f2": {
-        "uuid": "1345035b-56bc-37c0-bc81-c6fb97db16f2",
-        "title": "Federal Realty Named a Top Workplace by The Washington Post",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/federal-realty-named-top-workplace-173500648.html",
-        "providerPublishTime": 1655832900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cEAS7MCNIK.7LHM8t1vbVQ--~B/aD0yNjg7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kh6Xmpq8rn_uH52KUVygQQ--~B/aD0yNjg7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/3c15bb6ef94e93bf85dc91243aa270c9",
-                    "width": 400,
-                    "height": 268,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nkMonOM5AfjUQs7O__5CIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kh6Xmpq8rn_uH52KUVygQQ--~B/aD0yNjg7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/3c15bb6ef94e93bf85dc91243aa270c9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC"
         ]
     }
 }

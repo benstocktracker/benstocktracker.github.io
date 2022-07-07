@@ -1,4 +1,60 @@
 {
+    "fff66d8c-96e8-32b2-a420-0149898aef83": {
+        "uuid": "fff66d8c-96e8-32b2-a420-0149898aef83",
+        "title": "STORE Capital to Report Second Quarter 2022 Financial Results on August 3, 2022",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/store-capital-report-second-quarter-104500098.html",
+        "providerPublishTime": 1657190700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7KdrwkDeBWkccXxm.UNp_w--~B/aD05OTt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/GKcfN1QIcM0XDanwpw2iiQ--~B/aD05OTt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/8031ad64916c8c6c447e600fb0400dd3",
+                    "width": 480,
+                    "height": 99,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dN9hICjSslhIWGwy7xQI8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GKcfN1QIcM0XDanwpw2iiQ--~B/aD05OTt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/8031ad64916c8c6c447e600fb0400dd3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STOR"
+        ]
+    },
+    "fccec8d5-7b8d-383a-af07-f7142aeee7de": {
+        "uuid": "fccec8d5-7b8d-383a-af07-f7142aeee7de",
+        "title": "REITs Wednesday Morning: Weyerhaeuser +1.03%",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/reits-wednesday-morning-weyerhaeuser-1-151833340.html",
+        "providerPublishTime": 1657120713,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HbdCoVeo594cckCW5UFiBw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/EhcUjnD1pojI5FdNsILzXg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/777a166d62514792b6144a2223348fba",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sxKiClLOnV4ExVlCZsz1ww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EhcUjnD1pojI5FdNsILzXg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/777a166d62514792b6144a2223348fba",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WY",
+            "INVH",
+            "STOR"
+        ]
+    },
     "a2337baa-86a1-3d9b-9099-30b483ece0c8": {
         "uuid": "a2337baa-86a1-3d9b-9099-30b483ece0c8",
         "title": "Want $1,000 in Passive Income? Invest $5,750 in This Warren Buffett Dividend Stock and Wait 3 Years",
@@ -147,34 +203,6 @@
             "ET-PD",
             "LYB",
             "SRC"
-        ]
-    },
-    "3091cea9-88a8-3f72-8b31-044d050f0331": {
-        "uuid": "3091cea9-88a8-3f72-8b31-044d050f0331",
-        "title": "Warren Buffett's 10 Top Dividend Stocks to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3091cea9-88a8-3f72-8b31-044d050f0331/warren-buffett%27s-10-top.html",
-        "providerPublishTime": 1656238920,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC",
-            "MA",
-            "^GSPC",
-            "AAPL",
-            "STOR"
-        ]
-    },
-    "50147a0a-67c7-3741-8b08-695dbfad5309": {
-        "uuid": "50147a0a-67c7-3741-8b08-695dbfad5309",
-        "title": "3 Warren Buffett Stocks I'd Buy Now Without Any Hesitation",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/50147a0a-67c7-3741-8b08-695dbfad5309/3-warren-buffett-stocks-i%27d.html",
-        "providerPublishTime": 1655979780,
-        "type": "STORY",
-        "relatedTickers": [
-            "STOR",
-            "BAC",
-            "AMZN"
         ]
     }
 }

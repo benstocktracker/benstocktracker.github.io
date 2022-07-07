@@ -149,8 +149,10 @@ def calculate_row_data(portfolio):
 
 
 if __name__ == '__main__':
+    print('Working the magic...\n')
+
     fetch_all_tickers_data()
-    # fetch_watchlist_tickers_data()
+    fetch_watchlist_tickers_data()
 
     stock_data = combine_stock_data()
     stock_news = combine_stock_news()
@@ -166,3 +168,5 @@ if __name__ == '__main__':
     # for i in range(len(rows)):
     #     stock_row_data[columns[i]] = rows[i]
     # print(stock_row_data)
+
+    print('done!')

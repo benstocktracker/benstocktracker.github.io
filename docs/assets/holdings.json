@@ -47,9 +47,9 @@
   "DIS": [
     {
       "account": "Brokerage",
-      "costAverage": 99.49,
+      "costAverage": 98.69,
       "costBasis": 2984.7,
-      "shares": 30,
+      "shares": 34,
       "ticker": "DIS"
     }
   ],
@@ -57,7 +57,7 @@
     {
       "account": "Roth IRA",
       "costAverage": 39.79,
-      "costBasis": 996.0000000000001,
+      "costBasis": 996.01,
       "shares": 30,
       "ticker": "DOCN"
     }

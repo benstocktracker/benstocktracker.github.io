@@ -1,4 +1,33 @@
 {
+    "7bf3b349-42fa-38aa-80cd-0f356c6ac60a": {
+        "uuid": "7bf3b349-42fa-38aa-80cd-0f356c6ac60a",
+        "title": "THE NECESSITY RETAIL REIT ANNOUNCES RELEASE DATE FOR SECOND QUARTER 2022 RESULTS",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/necessity-retail-reit-announces-release-100000569.html",
+        "providerPublishTime": 1657188000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Drt.MO0gH49toUI6_Gbt9A--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
+                    "width": 174,
+                    "height": 174,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/i9nqZsUXo7zHgf9pW2dyNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RTL",
+            "RTLPO",
+            "RTLPP"
+        ]
+    },
     "c4fcde64-ca1a-3dff-a2ec-fc7cc26bf4ca": {
         "uuid": "c4fcde64-ca1a-3dff-a2ec-fc7cc26bf4ca",
         "title": "The Necessity Retail REIT Announces Common Stock Dividend for Third Quarter 2022",
@@ -192,35 +221,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/i9nqZsUXo7zHgf9pW2dyNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vfrbwtRRuzwb2GGQo.V5YQ--~B/aD0xNzQ7dz0xNzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/7bf11daaba8170a9604f653f5c4f252e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "RTL",
-            "RTLPO",
-            "RTLPP"
-        ]
-    },
-    "e35a54e5-61f0-395f-bdf9-3593f5821b8f": {
-        "uuid": "e35a54e5-61f0-395f-bdf9-3593f5821b8f",
-        "title": "Investors three-year losses grow to 14% as the stock sheds US$59m this past week",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/investors-three-losses-grow-14-133917898.html",
-        "providerPublishTime": 1652276357,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/decidcxRrMm36WyVkx.ZhA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eKkCS8VWHk6O4PJwdyi64w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a80aaf717de743747a2a1f1349fd1f6e",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tL4M3yw_V5i4_szPQDRxKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eKkCS8VWHk6O4PJwdyi64w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a80aaf717de743747a2a1f1349fd1f6e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

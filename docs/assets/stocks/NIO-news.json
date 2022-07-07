@@ -1,21 +1,21 @@
 {
-    "ef13620d-0c46-3c97-89a7-87f05abed719": {
-        "uuid": "ef13620d-0c46-3c97-89a7-87f05abed719",
-        "title": "3 Monster Growth Stocks That Can Turn $200,000 Into $1 Million by 2030",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ef13620d-0c46-3c97-89a7-87f05abed719/3-monster-growth-stocks-that.html",
-        "providerPublishTime": 1656840060,
-        "type": "STORY",
+    "dcafab28-75fe-355a-ad26-a794d8385eb6": {
+        "uuid": "dcafab28-75fe-355a-ad26-a794d8385eb6",
+        "title": "Some Americans are spending more on car payments than rent",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/americans-spending-more-car-payments-210331114.html",
+        "providerPublishTime": 1657141411,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DO5Cq1iH97uxqCFbqy3Pkg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1mUp3yKqvb6rAsO8LpCSHQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/32f207a783056ffa8b3eefe32e25c36a",
-                    "width": 1400,
-                    "height": 933,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mbJgpwXp5_YezqMVN9CYuA--~B/aD0zNzc1O3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/06292640-fd6f-11ec-afff-b44ad9d474bd",
+                    "width": 6720,
+                    "height": 3775,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wbWqx0Y4ocS3xauFMj7urg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1mUp3yKqvb6rAsO8LpCSHQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/32f207a783056ffa8b3eefe32e25c36a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gMgZKp0n39Up4GXyJPoiBA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/06292640-fd6f-11ec-afff-b44ad9d474bd",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,27 +23,98 @@
             ]
         },
         "relatedTickers": [
-            "NIO",
-            "TRUP"
+            "TSLA",
+            "POAHF",
+            "POAHY",
+            "F",
+            "TM",
+            "TOYOF",
+            "VLKAF",
+            "VLKPF",
+            "VWAGY",
+            "VWAPY",
+            "RIVN",
+            "BAMXF",
+            "BMWYY",
+            "BYMOF",
+            "NIO"
         ]
     },
-    "a062b15f-13ba-3020-bc8f-296dcd1a61e6": {
-        "uuid": "a062b15f-13ba-3020-bc8f-296dcd1a61e6",
-        "title": "NIO, XPeng and Li Auto Deliveries Set a Record. That Can Help Tesla Stock, Too.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a062b15f-13ba-3020-bc8f-296dcd1a61e6/nio%2C-xpeng-and-li-auto.html",
-        "providerPublishTime": 1656707760,
+    "c632b695-82f2-3fbc-a3f6-d023c898fbba": {
+        "uuid": "c632b695-82f2-3fbc-a3f6-d023c898fbba",
+        "title": "Why Nio Stock Is Falling Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c632b695-82f2-3fbc-a3f6-d023c898fbba/why-nio-stock-is-falling-today.html",
+        "providerPublishTime": 1657121114,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HyD0D_YD7wQqKRGu0VU_lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w2ut789ytC0c0f9COF91fA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/15NAk1FVMr0I_oFzhtpZNw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9e0ce50f7879165b9c726fe39d9a23db",
+                    "width": 1400,
+                    "height": 787,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8aHzqlPusgYyEWxyNNjgew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/15NAk1FVMr0I_oFzhtpZNw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9e0ce50f7879165b9c726fe39d9a23db",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "4a35381d-7c1a-32ae-a939-6c15066b62b2": {
+        "uuid": "4a35381d-7c1a-32ae-a939-6c15066b62b2",
+        "title": "EV Roundup: TSLA's Q2 Deliveries, VWAGY's ID. Aero Concept & More",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ev-roundup-tslas-q2-deliveries-130001370.html",
+        "providerPublishTime": 1657112401,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h6BxCocMJpk61uHjUtZiaw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OelSGFLKJx2KRpa4EyzqyA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c00d3e9b62a4fce73851e6791888b7de",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZDw2AaF5HRkHMKc00WftJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OelSGFLKJx2KRpa4EyzqyA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c00d3e9b62a4fce73851e6791888b7de",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VWAPY",
+            "NIO",
+            "TSLA",
+            "LI",
+            "XPEV"
+        ]
+    },
+    "a0e2b472-fd2d-3cd3-8dd4-4e337c57cd7e": {
+        "uuid": "a0e2b472-fd2d-3cd3-8dd4-4e337c57cd7e",
+        "title": "China\u2019s Auto Sales Are Booming. Can the Rebound Last?",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a0e2b472-fd2d-3cd3-8dd4-4e337c57cd7e/china%E2%80%99s-auto-sales-are.html",
+        "providerPublishTime": 1657112220,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/V32yefvzYy.I4ud3uRupow--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/K2.IvFpp7cyI8nqRh0sluQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c6e6d73c8c00d1e441207714196aa910",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZlF4.mW_TgXp4M4x5HMU5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LZ2YaSi7ztlUbYhdxNAFtw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/K2.IvFpp7cyI8nqRh0sluQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c6e6d73c8c00d1e441207714196aa910",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -51,189 +122,96 @@
             ]
         },
         "relatedTickers": [
-            "TSLA",
-            "^IXIC",
-            "LI",
-            "NIO",
-            "XPEV",
-            "XPNGF"
-        ]
-    },
-    "cdd10e47-19e4-4b69-9dbe-d91d2222273d": {
-        "uuid": "cdd10e47-19e4-4b69-9dbe-d91d2222273d",
-        "title": "Stock market news lives updates: Stocks kicks of July with gains after the S&P 500's worst first half since 1970",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-july-1-22-113913834.html",
-        "providerPublishTime": 1656705890,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XuzVpEy8ZXg_t.EJtu1a3g--~B/aD0zNTMyO3c9NTI5ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/40fc76c0-f92b-11ec-bffb-ae3e5189c36f",
-                    "width": 5298,
-                    "height": 3532,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2hqIYuMCsC220yg.wfrefA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/40fc76c0-f92b-11ec-bffb-ae3e5189c36f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPY",
-            "^GSPC",
-            "AAPL",
-            "RMPL-P",
-            "^DJI",
-            "MU",
-            "^IXIC",
-            "NIO"
-        ]
-    },
-    "97304d22-e42d-336e-bb56-b38472611ba5": {
-        "uuid": "97304d22-e42d-336e-bb56-b38472611ba5",
-        "title": "\u2018EV market is on fire\u2019 amid high gas prices: CoPilot CEO",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/ev-market-fire-amid-high-195456216.html",
-        "providerPublishTime": 1656705296,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/H98VrPTkYwQ2Xbtd0zQD1g--~B/aD0xNDM3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
-                    "width": 2560,
-                    "height": 1437,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xFB0P4MV_yq0W2zUuaQJMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VLTA",
-            "RB=F",
-            "LCID",
             "GM",
-            "000270.KS",
-            "RIVN",
-            "LAZR",
-            "HMC",
-            "HNDAF",
-            "F",
-            "XPEV",
-            "XPNGF",
-            "BZ=F",
-            "CL=F",
-            "TSLA",
-            "NIO",
-            "HYMTF",
-            "HO=F",
-            "WTI",
-            "NG=F"
-        ]
-    },
-    "d7d8589a-8406-3fdd-9f65-58fac3766e41": {
-        "uuid": "d7d8589a-8406-3fdd-9f65-58fac3766e41",
-        "title": "Nio reports a record 13,000 EV sales in June",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/nio-reports-record-13-000-194442952.html",
-        "providerPublishTime": 1656704682,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HjGBNy8SYhoSvhyEcWrGag--~B/aD0xNTMxO3c9MjcyNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3e6709c0-f976-11ec-ab57-74aad392b99f",
-                    "width": 2726,
-                    "height": 1531,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bDB46llUvCO4_1jseyYiOQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3e6709c0-f976-11ec-ab57-74aad392b99f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "295ca429-0b7b-3fc9-b16b-68a12639ae9f": {
-        "uuid": "295ca429-0b7b-3fc9-b16b-68a12639ae9f",
-        "title": "Why Nio Stock Jumped Initially, Then Fell Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/295ca429-0b7b-3fc9-b16b-68a12639ae9f/why-nio-stock-jumped.html",
-        "providerPublishTime": 1656700729,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cTjeCm1tG8f9_.snZxzoUw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oh3mwxt9eguNRa64kSlAZw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/986426d507126b7938a13eb7bfd7b587",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eeWLyjUAwzcsIoI4rU4I7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oh3mwxt9eguNRa64kSlAZw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/986426d507126b7938a13eb7bfd7b587",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "84100b81-45d9-39a3-ba01-046886b02c3f": {
-        "uuid": "84100b81-45d9-39a3-ba01-046886b02c3f",
-        "title": "Why Tesla Shares Moved Higher Friday",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/84100b81-45d9-39a3-ba01-046886b02c3f/why-tesla-shares-moved-higher.html",
-        "providerPublishTime": 1656694067,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSLA",
-            "NIO"
-        ]
-    },
-    "b013ba0a-64f9-3506-be33-4485dd7e6e1e": {
-        "uuid": "b013ba0a-64f9-3506-be33-4485dd7e6e1e",
-        "title": "Chinese automakers Nio, Xpeng, and Li Auto record major year-over-year delivery surges",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/chinese-automakers-nio-xpeng-li-135201969.html",
-        "providerPublishTime": 1656683521,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ni.2QHpddlzNqKTC5DTyFQ--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
-                    "width": 2736,
-                    "height": 1536,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/798e3aWs5YIJIm3H.bIg.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "TSLA",
             "LI",
+            "NIO",
+            "TSLA",
+            "BRK-A",
+            "BRK-B"
+        ]
+    },
+    "05ca36d5-dac8-3c34-a69b-fa89015058de": {
+        "uuid": "05ca36d5-dac8-3c34-a69b-fa89015058de",
+        "title": "The EV Revolution Has Arrived. Investors Just Need to Know Where to Look.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/05ca36d5-dac8-3c34-a69b-fa89015058de/the-ev-revolution-has.html",
+        "providerPublishTime": 1657083600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/scErT7EefA6Dnk8UJEga4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_oWSpMuT65gZKW6D3TC5yA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c81e0b56a23459bf0037427bff1ada56",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J6poZha78WNyZzTd12Jqew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_oWSpMuT65gZKW6D3TC5yA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c81e0b56a23459bf0037427bff1ada56",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GM",
+            "BYDDF",
+            "BYDDY",
+            "LI",
+            "NIO",
             "XPEV",
             "XPNGF"
+        ]
+    },
+    "9ee40441-a607-31b1-90a2-326e77259407": {
+        "uuid": "9ee40441-a607-31b1-90a2-326e77259407",
+        "title": "Why Nio Shares Dropped Early Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/9ee40441-a607-31b1-90a2-326e77259407/why-nio-shares-dropped-early.html",
+        "providerPublishTime": 1657044180,
+        "type": "STORY",
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "ded30082-5aea-35c7-8bbb-c909f6e41093": {
+        "uuid": "ded30082-5aea-35c7-8bbb-c909f6e41093",
+        "title": "Why EV Stock Li Auto Zoomed 52.8% in June and Could Rally Higher",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ded30082-5aea-35c7-8bbb-c909f6e41093/why-ev-stock-li-auto-zoomed.html",
+        "providerPublishTime": 1657036126,
+        "type": "STORY",
+        "relatedTickers": [
+            "LI",
+            "NIO"
+        ]
+    },
+    "5ce0026b-3aa4-3e25-a82e-543528bbee84": {
+        "uuid": "5ce0026b-3aa4-3e25-a82e-543528bbee84",
+        "title": "Here\u2019s how far house prices are set to fall as rates go up, according to this forecasting firm",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/5ce0026b-3aa4-3e25-a82e-543528bbee84/here%E2%80%99s-how-far-house-prices.html",
+        "providerPublishTime": 1657025520,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fljuro6d.zYweEKsL4Kxsw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FM.JppjB18x39IgJXrVp9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/2f8fdcd901585f9889071c7ca5eb6183",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CBRWZhYM0_n0SJyeZ63eWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FM.JppjB18x39IgJXrVp9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/2f8fdcd901585f9889071c7ca5eb6183",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMC",
+            "NIO"
         ]
     }
 }

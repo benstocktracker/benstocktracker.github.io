@@ -1,21 +1,21 @@
 {
-    "90403faa-5aa9-33ff-afc4-db9f63e60620": {
-        "uuid": "90403faa-5aa9-33ff-afc4-db9f63e60620",
-        "title": "Oil Stabilizes as Traders Weigh Recession Concerns, Tight Supply",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-stabilizes-traders-weigh-recession-230348893.html",
-        "providerPublishTime": 1656889428,
+    "d5128317-abf9-4baa-aa55-deb9a1f06843": {
+        "uuid": "d5128317-abf9-4baa-aa55-deb9a1f06843",
+        "title": "Stock market news live updates: Stock futures rise as investors weigh jobless claims data",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-july-7-2022-113453990.html",
+        "providerPublishTime": 1657197791,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b9Uf3q4Oeotmi4X_r3UKww--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yZMm6axE3kNYl.fRsB5cUw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/a810ce621641f4dd95548602a843048f",
-                    "width": 1200,
-                    "height": 675,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cKzsqYmVYo.3CP7PtRWBjg--~B/aD0zNDU2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/74a4b3f0-fde2-11ec-afed-c28531ade626",
+                    "width": 5184,
+                    "height": 3456,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gqWBzBhvtZ02jcOdaQIjbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yZMm6axE3kNYl.fRsB5cUw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/a810ce621641f4dd95548602a843048f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9LgDhw_Jtg2DOmWSNfXB0A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/74a4b3f0-fde2-11ec-afed-c28531ade626",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,41 +23,31 @@
             ]
         },
         "relatedTickers": [
-            "JPM",
-            "AMZN",
-            "CL=F"
-        ]
-    },
-    "291c90a1-a4ac-3278-b92c-acb1e87157f5": {
-        "uuid": "291c90a1-a4ac-3278-b92c-acb1e87157f5",
-        "title": "Mining Industry Warns Energy Transition Isn\u2019t Sustainable",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/mining-industry-warns-energy-transition-210000030.html",
-        "providerPublishTime": 1656882000,
-        "type": "STORY",
-        "relatedTickers": [
-            "NG=F",
             "CL=F",
-            "HG=F"
+            "ES=F",
+            "^DJI",
+            "^GSPC",
+            "^IXIC",
+            "NQ=F"
         ]
     },
-    "60bef3e6-a765-397d-a1cf-5114a279a430": {
-        "uuid": "60bef3e6-a765-397d-a1cf-5114a279a430",
-        "title": "Total Global Recoverable Oil Reserves Are Falling At An Alarming Rate",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/total-global-recoverable-oil-reserves-190000624.html",
-        "providerPublishTime": 1656874800,
+    "9098aef9-c709-3ab0-8d9e-2e036167fd4f": {
+        "uuid": "9098aef9-c709-3ab0-8d9e-2e036167fd4f",
+        "title": "Crude oil prices are down. Here's what it could mean for gas prices at the pump.",
+        "publisher": "USA TODAY",
+        "link": "https://finance.yahoo.com/m/9098aef9-c709-3ab0-8d9e-2e036167fd4f/crude-oil-prices-are-down..html",
+        "providerPublishTime": 1657196860,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zX_AIdyd5qQEtC1IJi_8DQ--~B/aD0yMzc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/w_BDHZ_kw_Qz3wUETwQj.A--~B/aD0yMzc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/f992086ad4a37a0e72d4bd2496b2f015",
-                    "width": 450,
-                    "height": 237,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IkP.c.xK4m_fs6uz_Jv.1A--~B/aD0zMzI2O3c9NDY1MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Xg.8KQVtnOnT07dIyksiOw--~B/aD0zMzI2O3c9NDY1MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_money_325/078c5809ada084aa9db4056b488b94d2",
+                    "width": 4651,
+                    "height": 3326,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_FQxfLwDuz_yI6mXytY9aw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w_BDHZ_kw_Qz3wUETwQj.A--~B/aD0yMzc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/f992086ad4a37a0e72d4bd2496b2f015",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Knbwu0q8VJ0AVo9xyULWcw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Xg.8KQVtnOnT07dIyksiOw--~B/aD0zMzI2O3c9NDY1MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_money_325/078c5809ada084aa9db4056b488b94d2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -68,23 +58,36 @@
             "CL=F"
         ]
     },
-    "04d997a4-f0b1-3367-ac00-74b11b8ae5aa": {
-        "uuid": "04d997a4-f0b1-3367-ac00-74b11b8ae5aa",
-        "title": "Believe it or not, gas prices have been edging down this Fourth of July \u2014 here\u2019s why",
+    "24d5c2bc-2f1f-383f-b869-f4ef4425c1e7": {
+        "uuid": "24d5c2bc-2f1f-383f-b869-f4ef4425c1e7",
+        "title": "GLOBAL MARKETS-Chipmaker stocks climb, sickly euro treads water",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/global-markets-chipmaker-stocks-climb-121817757.html",
+        "providerPublishTime": 1657196297,
+        "type": "STORY",
+        "relatedTickers": [
+            "CL=F",
+            "^GSPC",
+            "SSNLF"
+        ]
+    },
+    "92985bd0-c65f-3f37-80e2-969de3af75d5": {
+        "uuid": "92985bd0-c65f-3f37-80e2-969de3af75d5",
+        "title": "Oil steadies after 2-day rout pushes U.S. crude into bear market below $100 a barrel",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/04d997a4-f0b1-3367-ac00-74b11b8ae5aa/believe-it-or-not%2C-gas-prices.html",
-        "providerPublishTime": 1656868860,
+        "link": "https://finance.yahoo.com/m/92985bd0-c65f-3f37-80e2-969de3af75d5/oil-steadies-after-2-day-rout.html",
+        "providerPublishTime": 1657192980,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4zxQZgd9MEHwgnYHB2gm1A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PTv9ED3Ebt56xQH4aynO5g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/89e297f15cc5b94a18e698ceac95766c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vpHO2JLFHBJ41qelHbFMuA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KiNzrkng4oNSbPDx898mVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/7f2545d88ee5a7e37d0b17b734ae263e",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pY_euXWdNfprT5mSR3lFgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PTv9ED3Ebt56xQH4aynO5g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/89e297f15cc5b94a18e698ceac95766c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AnSq1fExNIOy9kQgtoctRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KiNzrkng4oNSbPDx898mVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/7f2545d88ee5a7e37d0b17b734ae263e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -92,91 +95,94 @@
             ]
         },
         "relatedTickers": [
+            "CL=F",
+            "NG=F",
+            "HO=F"
+        ]
+    },
+    "b8db7289-70ff-3368-ad3c-c60dd8f72526": {
+        "uuid": "b8db7289-70ff-3368-ad3c-c60dd8f72526",
+        "title": "Russia orders block on Caspian oil pipeline that could pull 1 million barrels a day from Europe's supply",
+        "publisher": "Business Insider",
+        "link": "https://finance.yahoo.com/m/b8db7289-70ff-3368-ad3c-c60dd8f72526/russia-orders-block-on.html",
+        "providerPublishTime": 1657190406,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LKqvF.7yg5ZhkAFEjICDAA--~B/aD0xMDAwO3c9MTMzMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Dup1.IM6LhXZ6kOzpbeLNA--~B/aD0xMDAwO3c9MTMzMzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/c10ca2e41a7dc511ba1b62680f4356bd",
+                    "width": 1333,
+                    "height": 1000,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yO4Xen6pEmz5lh0BZCfqHw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Dup1.IM6LhXZ6kOzpbeLNA--~B/aD0xMDAwO3c9MTMzMzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/c10ca2e41a7dc511ba1b62680f4356bd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F",
+            "NG=F"
+        ]
+    },
+    "183ffcb6-2bfd-36fb-8ef7-c33eb6167d25": {
+        "uuid": "183ffcb6-2bfd-36fb-8ef7-c33eb6167d25",
+        "title": "Global stocks rise after Fed talks tough on inflation, as oil steadies after sliding thanks to recession fears",
+        "publisher": "Business Insider",
+        "link": "https://finance.yahoo.com/m/183ffcb6-2bfd-36fb-8ef7-c33eb6167d25/global-stocks-rise-after-fed.html",
+        "providerPublishTime": 1657187853,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZzLw2vAbe7.T1hE3xrbpig--~B/aD00MDE3O3c9NTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/BVGCBM2vgwsfFTZLUZ4kAg--~B/aD00MDE3O3c9NTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/98b35e7a15bd06e2ad6c0396965a5be9",
+                    "width": 5356,
+                    "height": 4017,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/86GsGkQ3cAyBWRmq_6FA4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BVGCBM2vgwsfFTZLUZ4kAg--~B/aD00MDE3O3c9NTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/98b35e7a15bd06e2ad6c0396965a5be9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BTC-USD",
+            "ETH-USD",
             "CL=F"
         ]
     },
-    "3fc673f9-ea17-3e6a-8373-47cdb54fa9e3": {
-        "uuid": "3fc673f9-ea17-3e6a-8373-47cdb54fa9e3",
-        "title": "Algeria Says It\u2019s Agreed Hike in Gas Prices With Three Partners",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/algeria-says-agreed-hike-gas-115033681.html",
-        "providerPublishTime": 1656849033,
+    "ecc49faf-04c4-3e8c-b9ec-03bcb36de8f2": {
+        "uuid": "ecc49faf-04c4-3e8c-b9ec-03bcb36de8f2",
+        "title": "GLOBAL MARKETS-Chipmakers revive stocks as euro struggles after freefall",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/global-markets-chipmakers-revive-stocks-083604198.html",
+        "providerPublishTime": 1657182964,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ORwF1LcOYF.8o8F5t4aRbQ--~B/aD0yMDA5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/qM7tgF3TjhDQjdDSUJlGYQ--~B/aD0yMDA5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/9f888f90aa3c8a8f863efe7b84021479",
-                    "width": 3000,
-                    "height": 2009,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/22VC3eRBP71ThFE5btKZDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qM7tgF3TjhDQjdDSUJlGYQ--~B/aD0yMDA5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/9f888f90aa3c8a8f863efe7b84021479",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "E",
-            "EIPAF",
-            "LIDCX",
+            "HG=F",
             "CL=F",
-            "NG=F"
+            "^GSPC",
+            "SSNLF"
         ]
     },
-    "bd70cb74-9ea7-3e29-ab51-33e93ae605be": {
-        "uuid": "bd70cb74-9ea7-3e29-ab51-33e93ae605be",
-        "title": "Surging Fuel Costs Are Causing Demand Destruction, Says Vitol",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/surging-fuel-costs-causing-demand-100930872.html",
-        "providerPublishTime": 1656842970,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Vsd8n9IywOcwcXYvrgVRog--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/b3sDR7Fz2.bipXaIrCrSuA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/4a6cfe8cf15d44e3bafec067b5e4cc9a",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TucE0djvMCP4A8ld9CAhvw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/b3sDR7Fz2.bipXaIrCrSuA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/4a6cfe8cf15d44e3bafec067b5e4cc9a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
-            "NG=F"
-        ]
-    },
-    "29ee651d-9ce2-3929-8796-397e6d792d84": {
-        "uuid": "29ee651d-9ce2-3929-8796-397e6d792d84",
-        "title": "Smart Airlines Are Saving Billions Thanks To Oil Price Hedging",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/smart-airlines-saving-billions-thanks-230000313.html",
-        "providerPublishTime": 1656802800,
+    "8f9edf9d-3a33-30be-bf81-908683d2534f": {
+        "uuid": "8f9edf9d-3a33-30be-bf81-908683d2534f",
+        "title": "Shell to revise up value of oil and gas assets",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/8f9edf9d-3a33-30be-bf81-908683d2534f/shell-to-revise-up-value-of.html",
+        "providerPublishTime": 1657178681,
         "type": "STORY",
         "relatedTickers": [
-            "CL=F",
-            "LUV"
-        ]
-    },
-    "e1f43384-85b8-3304-a6c9-055b5b3af462": {
-        "uuid": "e1f43384-85b8-3304-a6c9-055b5b3af462",
-        "title": "Want $2,000 in Passive Income the Easy Way? Here's Where to Invest",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e1f43384-85b8-3304-a6c9-055b5b3af462/want-%242%2C000-in-passive-income.html",
-        "providerPublishTime": 1656775800,
-        "type": "STORY",
-        "relatedTickers": [
-            "EGP",
-            "AVB",
-            "O"
+            "RYDAF",
+            "SHEL",
+            "NG=F",
+            "CL=F"
         ]
     }
 }

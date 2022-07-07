@@ -1,4 +1,26 @@
 {
+    "f805aae0-2a04-3429-a6f9-ae929e026c87": {
+        "uuid": "f805aae0-2a04-3429-a6f9-ae929e026c87",
+        "title": "VICI Properties Focus of Corporate Governance Case Study",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/vici-properties-focus-corporate-governance-201500483.html",
+        "providerPublishTime": 1657138500,
+        "type": "STORY",
+        "relatedTickers": [
+            "VICI"
+        ]
+    },
+    "681408ab-fcc2-300f-bda9-ec83b12a56ea": {
+        "uuid": "681408ab-fcc2-300f-bda9-ec83b12a56ea",
+        "title": "VICI Properties Announces Release Date for Second Quarter 2022 Results",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/vici-properties-announces-release-date-113000590.html",
+        "providerPublishTime": 1657020600,
+        "type": "STORY",
+        "relatedTickers": [
+            "VICI"
+        ]
+    },
     "fbea467c-2bc2-3acc-a3a2-a996c54f219e": {
         "uuid": "fbea467c-2bc2-3acc-a3a2-a996c54f219e",
         "title": "Ashford Hospitality Trust (AHT) Surges 12.6%: Is This an Indication of Further Gains?",
@@ -132,66 +154,6 @@
         "relatedTickers": [
             "VICI",
             "O"
-        ]
-    },
-    "5027cc9b-89b8-31c7-9434-accf0d20f02e": {
-        "uuid": "5027cc9b-89b8-31c7-9434-accf0d20f02e",
-        "title": "7 Bargain Income Stocks to Buy and Hold Forever",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-bargain-income-stocks-buy-123054051.html",
-        "providerPublishTime": 1655814654,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XERCiNGDqBHPl1fPydN4lQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xhBbEzolwlyTX_7i7hTSJw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/016d5dc47a037e7f03f2e3bc8c66359d",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uaxCZH3pEkt68ZZvdeQ1ww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xhBbEzolwlyTX_7i7hTSJw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/016d5dc47a037e7f03f2e3bc8c66359d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BBY",
-            "MAS",
-            "VZ",
-            "VICI",
-            "PRU",
-            "RY",
-            "BMO"
-        ]
-    },
-    "cd6d7b86-1260-31d7-9ddf-e228664caea1": {
-        "uuid": "cd6d7b86-1260-31d7-9ddf-e228664caea1",
-        "title": "VICI Properties Inc.'s (NYSE:VICI) Has Had A Decent Run On The Stock market: Are Fundamentals In The Driver's Seat?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/vici-properties-inc-nyse-vici-133327357.html",
-        "providerPublishTime": 1655732007,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WHIMOb1L8asmYqViY9fuKQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0jRv83_m03r05H0SZtBfAw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/003f2dec604a7fb434c6feb185af4674",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AGlJ6WIQTNDtntHV9ocjvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0jRv83_m03r05H0SZtBfAw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/003f2dec604a7fb434c6feb185af4674",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VICI"
         ]
     }
 }

@@ -1,71 +1,10 @@
 {
-    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
-        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: New EV King Crushes Tesla In Q2 Sales",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1656850284,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dIgsof0jlPJ6zpcB1ck0ZA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mhzlLjP54BQQBuAIlh7BTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8d97ad48f63682c471bf01be97dc0fc2",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hhaXScgiDJ9cdxp1ka_4IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mhzlLjP54BQQBuAIlh7BTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8d97ad48f63682c471bf01be97dc0fc2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "BYDDY",
-            "F",
-            "XPEV",
-            "LI",
-            "RIVN"
-        ]
-    },
-    "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0": {
-        "uuid": "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0",
-        "title": "China EV Sales Boom: BYD Reports Surging Q2 Sales As Xpeng Outsells Nio And Li Auto",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0/china-ev-sales-boom%3A-byd.html",
-        "providerPublishTime": 1656848440,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bCEKMrEyaX8KL5EJZiGc6A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mfwAI2ZW41zeud1QgzUHDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LI",
-            "XPEV",
-            "TSLA"
-        ]
-    },
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: Two EV Makers In Buy Zones After Booming Sales",
+        "title": "5 Best Chinese Stocks: 2 China EV Makers In Buy Zones",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-two-ev.html",
-        "providerPublishTime": 1656847554,
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-2.html",
+        "providerPublishTime": 1657193214,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -93,23 +32,81 @@
             "JD"
         ]
     },
-    "a062b15f-13ba-3020-bc8f-296dcd1a61e6": {
-        "uuid": "a062b15f-13ba-3020-bc8f-296dcd1a61e6",
-        "title": "NIO, XPeng and Li Auto Deliveries Set a Record. That Can Help Tesla Stock, Too.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a062b15f-13ba-3020-bc8f-296dcd1a61e6/nio%2C-xpeng-and-li-auto.html",
-        "providerPublishTime": 1656707760,
+    "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2": {
+        "uuid": "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2",
+        "title": "XPeng Stock Shows Strong Q2 Delivery Numbers; Is It A Buy Now? Here's What Charts, Analysis Show",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a6c3f7e5-1831-3b8e-bddc-89cd40771ad2/xpeng-stock-shows-strong-q2.html",
+        "providerPublishTime": 1657146751,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HyD0D_YD7wQqKRGu0VU_lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9nNLHrbrYnFTXCpzZceUFg--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gp1XP6AS9gJ9Utl727s6Rw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0a55af9c134ab52f232d324db90592ce",
+                    "width": 945,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0z0NloUvLB4UAIfWT_gEfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gp1XP6AS9gJ9Utl727s6Rw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0a55af9c134ab52f232d324db90592ce",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV"
+        ]
+    },
+    "4a35381d-7c1a-32ae-a939-6c15066b62b2": {
+        "uuid": "4a35381d-7c1a-32ae-a939-6c15066b62b2",
+        "title": "EV Roundup: TSLA's Q2 Deliveries, VWAGY's ID. Aero Concept & More",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ev-roundup-tslas-q2-deliveries-130001370.html",
+        "providerPublishTime": 1657112401,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h6BxCocMJpk61uHjUtZiaw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OelSGFLKJx2KRpa4EyzqyA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c00d3e9b62a4fce73851e6791888b7de",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZDw2AaF5HRkHMKc00WftJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OelSGFLKJx2KRpa4EyzqyA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c00d3e9b62a4fce73851e6791888b7de",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VWAPY",
+            "NIO",
+            "TSLA",
+            "LI",
+            "XPEV"
+        ]
+    },
+    "05ca36d5-dac8-3c34-a69b-fa89015058de": {
+        "uuid": "05ca36d5-dac8-3c34-a69b-fa89015058de",
+        "title": "The EV Revolution Has Arrived. Investors Just Need to Know Where to Look.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/05ca36d5-dac8-3c34-a69b-fa89015058de/the-ev-revolution-has.html",
+        "providerPublishTime": 1657083600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/scErT7EefA6Dnk8UJEga4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_oWSpMuT65gZKW6D3TC5yA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c81e0b56a23459bf0037427bff1ada56",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZlF4.mW_TgXp4M4x5HMU5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xbv4ryfzFm2ac4Fo0sK80g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2f69d7899ecf42df628d0c12200a7493",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J6poZha78WNyZzTd12Jqew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_oWSpMuT65gZKW6D3TC5yA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c81e0b56a23459bf0037427bff1ada56",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -117,31 +114,32 @@
             ]
         },
         "relatedTickers": [
-            "TSLA",
-            "^IXIC",
+            "GM",
+            "BYDDF",
+            "BYDDY",
             "LI",
             "NIO",
             "XPEV",
             "XPNGF"
         ]
     },
-    "97304d22-e42d-336e-bb56-b38472611ba5": {
-        "uuid": "97304d22-e42d-336e-bb56-b38472611ba5",
-        "title": "\u2018EV market is on fire\u2019 amid high gas prices: CoPilot CEO",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/ev-market-fire-amid-high-195456216.html",
-        "providerPublishTime": 1656705296,
-        "type": "VIDEO",
+    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
+        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla Idling Plants For Upgrades After Rival Seizes EV Crown",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
+        "providerPublishTime": 1657054464,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/H98VrPTkYwQ2Xbtd0zQD1g--~B/aD0xNDM3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
-                    "width": 2560,
-                    "height": 1437,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XKopV2K6fYHX80zYSBeucQ--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hNpmIMqDKirT3BDUgcE2Gw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a861fb6f5955f70d5476f28bf7e1057",
+                    "width": 1060,
+                    "height": 599,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xFB0P4MV_yq0W2zUuaQJMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/aa4d4d60-f977-11ec-8daf-4add4b4b9755",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mA.y5VQlUyH6CsrqhUNLOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hNpmIMqDKirT3BDUgcE2Gw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a861fb6f5955f70d5476f28bf7e1057",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -149,77 +147,31 @@
             ]
         },
         "relatedTickers": [
-            "VLTA",
-            "RB=F",
-            "LCID",
-            "GM",
-            "000270.KS",
-            "RIVN",
-            "LAZR",
-            "HMC",
-            "HNDAF",
+            "TSLA",
+            "BYDDY",
             "F",
             "XPEV",
-            "XPNGF",
-            "BZ=F",
-            "CL=F",
-            "TSLA",
-            "NIO",
-            "HYMTF",
-            "HO=F",
-            "WTI",
-            "NG=F"
+            "LI",
+            "RIVN"
         ]
     },
-    "c6d2f83f-71c3-3cad-8fc5-5e45588823ba": {
-        "uuid": "c6d2f83f-71c3-3cad-8fc5-5e45588823ba",
-        "title": "Stock Market Rally Under Pressure; Micron, GM, Nike, RH Warn: Weekly Review",
+    "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0": {
+        "uuid": "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0",
+        "title": "China EV Sales Boom In Q2 But Tesla Rivals BYD, Nio Stock Lag As New Headwind, Power Day Loom",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/c6d2f83f-71c3-3cad-8fc5-5e45588823ba/stock-market-rally-under.html",
-        "providerPublishTime": 1656696999,
+        "link": "https://finance.yahoo.com/m/9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0/china-ev-sales-boom-in-q2-but.html",
+        "providerPublishTime": 1657053640,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IyCcIqhN8wDbY4pHkGg86w--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J36j4iMXElfuNpO2A516xw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9df4b16f0ec065776a942630e7f313b5",
-                    "width": 1065,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_oH1cf4s2MvChqXj16NLMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J36j4iMXElfuNpO2A516xw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9df4b16f0ec065776a942630e7f313b5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MU",
-            "^GSPC",
-            "NKE",
-            "GIS",
-            "XPEV",
-            "LI"
-        ]
-    },
-    "1356faba-cc75-33d0-abee-17a98f38f807": {
-        "uuid": "1356faba-cc75-33d0-abee-17a98f38f807",
-        "title": "Indexes Turn Lower After Briefly Moving Higher; China EV Stocks Fall Despite Record Deliveries",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1356faba-cc75-33d0-abee-17a98f38f807/indexes-turn-lower-after.html",
-        "providerPublishTime": 1656691606,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZWbKbeyVeM8RJzqG_Ci1KQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MAfEN0zb_22.kFNZLqzp4g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bCEKMrEyaX8KL5EJZiGc6A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
                     "width": 1000,
                     "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PQ2WYpSQC1CTYN6kEHaJ1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MAfEN0zb_22.kFNZLqzp4g--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mfwAI2ZW41zeud1QgzUHDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -227,31 +179,64 @@
             ]
         },
         "relatedTickers": [
-            "COMP",
-            "^GSPC",
-            "^DJI",
             "LI",
-            "UNH",
-            "XPEV"
+            "XPEV",
+            "TSLA"
         ]
     },
-    "b013ba0a-64f9-3506-be33-4485dd7e6e1e": {
-        "uuid": "b013ba0a-64f9-3506-be33-4485dd7e6e1e",
-        "title": "Chinese automakers Nio, Xpeng, and Li Auto record major year-over-year delivery surges",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/chinese-automakers-nio-xpeng-li-135201969.html",
-        "providerPublishTime": 1656683521,
-        "type": "VIDEO",
+    "1a7b3181-0adf-464f-9aa7-f8ff7196a5ee": {
+        "uuid": "1a7b3181-0adf-464f-9aa7-f8ff7196a5ee",
+        "title": "'The elephant in the room for Tesla,' according to WedBush's Dan Ives",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/elephant-in-the-room-for-tesla-dan-ives-114140089.html",
+        "providerPublishTime": 1657021300,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ni.2QHpddlzNqKTC5DTyFQ--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
-                    "width": 2736,
-                    "height": 1536,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DiHD3.vMBMojyHelJFldig--~B/aD0yMzI5O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-01/828e97e0-3235-11ea-a7b7-b07b2f0b5bd8",
+                    "width": 3493,
+                    "height": 2329,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/798e3aWs5YIJIm3H.bIg.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33b3b370-f944-11ec-b59f-3d1b167d70a2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2e9Wew0HzWFLtb3ELajNRw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-01/828e97e0-3235-11ea-a7b7-b07b2f0b5bd8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "F",
+            "NIO",
+            "TM",
+            "TOYOF",
+            "GM",
+            "TSLA",
+            "XPEV",
+            "XPNGF",
+            "RIVN",
+            "LI"
+        ]
+    },
+    "a5047c9b-b502-3795-b906-52c9871ce437": {
+        "uuid": "a5047c9b-b502-3795-b906-52c9871ce437",
+        "title": "NIO, XPeng (XPEV), Li Auto (LI) Issue June, Q2 Delivery Updates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-xpeng-xpev-li-auto-150103712.html",
+        "providerPublishTime": 1656946863,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/b2OvfyZfpZ1PeuDf6vBCTA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/WMoaiSy6ECCeqw0EaZflKg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7c45a89188e11757254e3fa1483c8911",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3sG3c6IFZdqzcAy7wLkrSQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMoaiSy6ECCeqw0EaZflKg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7c45a89188e11757254e3fa1483c8911",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -260,10 +245,9 @@
         },
         "relatedTickers": [
             "NIO",
-            "TSLA",
-            "LI",
             "XPEV",
-            "XPNGF"
+            "LI",
+            "SMP"
         ]
     }
 }
