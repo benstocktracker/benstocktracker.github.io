@@ -1,4 +1,31 @@
 {
+    "5e68e881-3aae-3b48-9abf-193ba91693fa": {
+        "uuid": "5e68e881-3aae-3b48-9abf-193ba91693fa",
+        "title": "Is Most-Watched Stock Kinder Morgan, Inc. (KMI) Worth Betting on Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/most-watched-stock-kinder-morgan-130001172.html",
+        "providerPublishTime": 1657198801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/f_bLTsOnmzrA8rHMNKfNRw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
+                    "width": 900,
+                    "height": 594,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/24eK28oXPAmS7aYFGj00Ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
     "ae54f769-444a-3d4d-8ed6-7e686b0bc9af": {
         "uuid": "ae54f769-444a-3d4d-8ed6-7e686b0bc9af",
         "title": "Can Kinder Morgan (KMI) Keep the Earnings Surprise Streak Alive?",
@@ -24,6 +51,39 @@
         },
         "relatedTickers": [
             "KMI"
+        ]
+    },
+    "cb5b134b-ad7b-3cdf-b6e8-0d74972921ec": {
+        "uuid": "cb5b134b-ad7b-3cdf-b6e8-0d74972921ec",
+        "title": "7 Dividend Stocks to Buy in July 2022",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-dividend-stocks-buy-july-125656545.html",
+        "providerPublishTime": 1656939416,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8CFOaRlRVpwd96mjK1m3Iw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/pYIcqsp_PA7FscinILZGSA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/259fa9a245dc582c88cceb953e69077f",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pm5PG8bxF5eO_Ble.n3tbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pYIcqsp_PA7FscinILZGSA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/259fa9a245dc582c88cceb953e69077f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO",
+            "ABBV",
+            "KMI",
+            "LOW",
+            "NRG",
+            "KO",
+            "CL"
         ]
     },
     "0a4d3372-0cb7-38ca-83be-654fa1954689": {
@@ -115,103 +175,6 @@
             "KMI",
             "XOM",
             "KNTK"
-        ]
-    },
-    "6b81a5ea-31bf-3b89-8174-e2fdad354670": {
-        "uuid": "6b81a5ea-31bf-3b89-8174-e2fdad354670",
-        "title": "10 Cheap Dividend Stocks with Over 6% Yield",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-cheap-dividend-stocks-over-151958894.html",
-        "providerPublishTime": 1656429598,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cuEmNhsOd6AiIMmc_AmTvQ--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F7ASUGWniPpFVKP8YGYmmw--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8c2969fac5d580e07ac49fce7b77f8f8",
-                    "width": 768,
-                    "height": 510,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bWjekJ1j0u2xNu5coUqFGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F7ASUGWniPpFVKP8YGYmmw--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8c2969fac5d580e07ac49fce7b77f8f8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DX",
-            "KMI",
-            "BDN",
-            "MPLX",
-            "KO",
-            "ASX",
-            "JNJ",
-            "XOM"
-        ]
-    },
-    "a0553d99-0d52-3ea6-a82f-f970fab3811e": {
-        "uuid": "a0553d99-0d52-3ea6-a82f-f970fab3811e",
-        "title": "Market check: Stocks open higher, travel stocks gain",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-stocks-open-higher-140025083.html",
-        "providerPublishTime": 1656424825,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DGbDwpzQa3p6bpglTW28EA--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/588516a0-f6ea-11ec-bfeb-ee53076ce091",
-                    "width": 2736,
-                    "height": 1536,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ySFobbYv1WJmYuTY.Zm21A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/588516a0-f6ea-11ec-bfeb-ee53076ce091",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "KGSPF",
-            "KGSPY",
-            "KMI",
-            "TTE",
-            "TTFNF",
-            "XLV",
-            "^GSPC",
-            "XOM",
-            "XLU",
-            "XLC",
-            "MJ",
-            "XLE",
-            "^DJI",
-            "BP",
-            "BPAQF",
-            "XLY",
-            "^IXIC",
-            "^DJT",
-            "BETZ",
-            "HES",
-            "IBB",
-            "XLI",
-            "XLRE",
-            "RYDAF",
-            "SHEL",
-            "XLB",
-            "COP",
-            "XLK",
-            "XLP",
-            "LQD",
-            "X",
-            "DVN",
-            "TAN",
-            "IPO",
-            "XLF",
-            "MPC"
         ]
     }
 }

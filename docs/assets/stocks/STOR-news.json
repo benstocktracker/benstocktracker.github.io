@@ -1,4 +1,31 @@
 {
+    "9622fdcc-1bcd-31a1-a2df-a816b94fc599": {
+        "uuid": "9622fdcc-1bcd-31a1-a2df-a816b94fc599",
+        "title": "STORE Capital Corporation (NYSE:STOR) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/store-capital-corporation-nyse-stor-122807822.html",
+        "providerPublishTime": 1657196887,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ndRWZgjsDAsY7SlY9DU40w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/G6pErRwbxMSdZzMpjSBdVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/38ced98cbfd0e92e2cebabaeb3caaa2e",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NgjdyxwshTotqndYw.pYzg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/G6pErRwbxMSdZzMpjSBdVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/38ced98cbfd0e92e2cebabaeb3caaa2e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STOR"
+        ]
+    },
     "fff66d8c-96e8-32b2-a420-0149898aef83": {
         "uuid": "fff66d8c-96e8-32b2-a420-0149898aef83",
         "title": "STORE Capital to Report Second Quarter 2022 Financial Results on August 3, 2022",
@@ -171,38 +198,6 @@
             "STWD",
             "STOR",
             "CRI"
-        ]
-    },
-    "c4e8639a-ed62-3e57-9163-3edced909d01": {
-        "uuid": "c4e8639a-ed62-3e57-9163-3edced909d01",
-        "title": "6 High-Yield Stocks With Good Upside Potential",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/6-high-yield-stocks-good-102153802.html",
-        "providerPublishTime": 1656325313,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Kn2lJSpr6xTJavsCydzYqA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2ulRQQ_vXAlvdBG98on8lA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4bf27f13cc4d00f608f26c61f89fa923",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kZRW9xMWphUw2v.g0MsdTw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2ulRQQ_vXAlvdBG98on8lA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4bf27f13cc4d00f608f26c61f89fa923",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "STOR",
-            "KT",
-            "DVN",
-            "ET-PD",
-            "LYB",
-            "SRC"
         ]
     }
 }

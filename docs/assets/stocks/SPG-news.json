@@ -68,6 +68,23 @@
             "SPG"
         ]
     },
+    "b92b5ef7-f028-30c7-924d-827ab84cfd49": {
+        "uuid": "b92b5ef7-f028-30c7-924d-827ab84cfd49",
+        "title": "7 REITs to Buy in July 2022",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-reits-buy-july-2022-120746219.html",
+        "providerPublishTime": 1656936466,
+        "type": "STORY",
+        "relatedTickers": [
+            "CIO-PA",
+            "GLPI",
+            "SBRA",
+            "CCI",
+            "FPI",
+            "PSTL",
+            "SPG"
+        ]
+    },
     "391a498c-7b34-30c8-a862-9a6a766c6265": {
         "uuid": "391a498c-7b34-30c8-a862-9a6a766c6265",
         "title": "Love Dividends? These 3 Top Stocks Are Trading at a Discount Now",
@@ -171,33 +188,6 @@
             "NNN",
             "SPG",
             "^GSPC"
-        ]
-    },
-    "04275ecd-0201-32ba-b79f-3cd50fb04d65": {
-        "uuid": "04275ecd-0201-32ba-b79f-3cd50fb04d65",
-        "title": "Simon Property (SPG) Stock Moves -0.87%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/simon-property-spg-stock-moves-221510166.html",
-        "providerPublishTime": 1656454510,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TGgE1g6I36MqaArClAVM8Q--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 3000,
-                    "height": 2351,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/X6HH5WHRBVE_mPuR0o1BVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG"
         ]
     }
 }

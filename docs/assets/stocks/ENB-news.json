@@ -1,4 +1,46 @@
 {
+    "3302cce0-77b5-3dcd-aaf1-592ea162d82a": {
+        "uuid": "3302cce0-77b5-3dcd-aaf1-592ea162d82a",
+        "title": "UPDATE 1-Michigan orders more information from Canada's Enbridge on Line 5 tunnel application",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-michigan-orders-more-information-215821573.html",
+        "providerPublishTime": 1657231101,
+        "type": "STORY",
+        "relatedTickers": [
+            "ENB"
+        ]
+    },
+    "e820e0db-88de-32e5-a339-fb9c50f52c22": {
+        "uuid": "e820e0db-88de-32e5-a339-fb9c50f52c22",
+        "title": "Indigenous Student Success 'Is Everyone's Success'",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/indigenous-student-success-everyones-success-150507729.html",
+        "providerPublishTime": 1657206307,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1LOdeXbQWqoKwX8wufEuiw--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xKYT0bwPY.SOI9rlf3PWQA--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/f130d8f307c512c4a17ef9993ca4c1ee",
+                    "width": 650,
+                    "height": 365,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9mrr9fADe9fC1bOlFaphiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xKYT0bwPY.SOI9rlf3PWQA--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/f130d8f307c512c4a17ef9993ca4c1ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EBBGF",
+            "EBBNF",
+            "EBGEF",
+            "ENB",
+            "ENBFF"
+        ]
+    },
     "66982074-b2fd-332b-aa63-3b65305f7f6d": {
         "uuid": "66982074-b2fd-332b-aa63-3b65305f7f6d",
         "title": "Here's Why You Could Hold This Safe Stock for a Decade",
@@ -159,60 +201,6 @@
             "STZ-B",
             "ENB",
             "GSK"
-        ]
-    },
-    "96f95f9d-a9c3-3922-b264-67c74fa6e970": {
-        "uuid": "96f95f9d-a9c3-3922-b264-67c74fa6e970",
-        "title": "Enbridge (ENB) Stock Moves -0.42%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-stock-moves-0-215009637.html",
-        "providerPublishTime": 1656625809,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nAH6fXoesF4FO.fkctxFig--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
-                    "width": 900,
-                    "height": 845,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bq.M_4Vj5tmmHLkoBQb0XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB"
-        ]
-    },
-    "3ed9b8df-c3ab-3084-9b92-bd9721f95283": {
-        "uuid": "3ed9b8df-c3ab-3084-9b92-bd9721f95283",
-        "title": "Enbridge (ENB) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-dips-more-broader-220010280.html",
-        "providerPublishTime": 1656540010,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UfBIh2Pl.gyxScZAbyc4xg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3YJkCdSXGdMJn6gBH4vqJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB"
         ]
     }
 }

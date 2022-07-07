@@ -1,10 +1,313 @@
 {
+    "3302cce0-77b5-3dcd-aaf1-592ea162d82a": {
+        "uuid": "3302cce0-77b5-3dcd-aaf1-592ea162d82a",
+        "title": "UPDATE 1-Michigan orders more information from Canada's Enbridge on Line 5 tunnel application",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-michigan-orders-more-information-215821573.html",
+        "providerPublishTime": 1657231101,
+        "type": "STORY",
+        "relatedTickers": [
+            "ENB"
+        ]
+    },
+    "9dfd9f05-87a3-3984-971f-75ebd1ce1ce3": {
+        "uuid": "9dfd9f05-87a3-3984-971f-75ebd1ce1ce3",
+        "title": "Why Snap Stock Is Up 14.7% This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/9dfd9f05-87a3-3984-971f-75ebd1ce1ce3/why-snap-stock-is-up-14.7%25.html",
+        "providerPublishTime": 1657231080,
+        "type": "STORY",
+        "relatedTickers": [
+            "SNAP",
+            "AAPL",
+            "GOOGL"
+        ]
+    },
+    "beced67e-9b5d-4eb3-9f09-37fe61d1d290": {
+        "uuid": "beced67e-9b5d-4eb3-9f09-37fe61d1d290",
+        "title": "How Apple's latest security update is taking on 'mercenary spyware\u2019",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/how-apples-latest-security-update-is-taking-on-mercenary-spyware-211039455.html",
+        "providerPublishTime": 1657228239,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P.ccJ1waAfP6HQx7lglRPg--~B/aD0zNzgxO3c9NTY3MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/45407b80-fe2d-11ec-bff7-0c60d0f6c78e",
+                    "width": 5672,
+                    "height": 3781,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G0gG.EDVdyrAGNJ5fSxeFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/45407b80-fe2d-11ec-bff7-0c60d0f6c78e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "META"
+        ]
+    },
+    "ec98ec6c-8f36-3464-99d5-9cf11465210b": {
+        "uuid": "ec98ec6c-8f36-3464-99d5-9cf11465210b",
+        "title": "Disney\u2019s \u2018Thor: Love and Thunder\u2019 hits theaters on Thursday",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/disney-thor-love-thunder-hits-210536147.html",
+        "providerPublishTime": 1657227936,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZpEdNP8fOLa0m8.P5aqAjA--~B/aD0yODA5O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8895dff0-fe38-11ec-a2fa-69724bf04b6d",
+                    "width": 5000,
+                    "height": 2809,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TZ5c5tcUD18ZXc_u49WBEw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8895dff0-fe38-11ec-a2fa-69724bf04b6d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "af3fe451-674b-37ed-be17-f6fbbc3aaa16": {
+        "uuid": "af3fe451-674b-37ed-be17-f6fbbc3aaa16",
+        "title": "A Beloved Disney Film May Soon Have a Sequel",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/af3fe451-674b-37ed-be17-f6fbbc3aaa16/a-beloved-disney-film-may.html",
+        "providerPublishTime": 1657227780,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XS7qJ38_hneHlXZlGEuY8g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TdnR03IzSpV5Y5OF9DLsew--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/5e29f3556ed610d5014ce8b21c53a023",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T_BgeQLdK8ztcYkky_ctcQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TdnR03IzSpV5Y5OF9DLsew--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/5e29f3556ed610d5014ce8b21c53a023",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "4eda0938-aff8-355d-8d24-52dd2992c72f": {
+        "uuid": "4eda0938-aff8-355d-8d24-52dd2992c72f",
+        "title": "The Fed\u2019s Plan To Raise Interest Rates To Combat Inflation Could Backfire",
+        "publisher": "Oilprice.com",
+        "link": "https://finance.yahoo.com/news/fed-plan-raise-interest-rates-210000195.html",
+        "providerPublishTime": 1657227600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/W7h_kDVr0pYFCM7xcq.bqg--~B/aD00MzE7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9KhH881ZC40LurBhz2lbJA--~B/aD00MzE7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/bfacef55f14eee81096cf7049c13c037",
+                    "width": 640,
+                    "height": 431,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6OHUi6yXHSVX.O8.ARybjQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9KhH881ZC40LurBhz2lbJA--~B/aD00MzE7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/bfacef55f14eee81096cf7049c13c037",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F"
+        ]
+    },
+    "6ebde298-f5df-316e-b683-133b9fa746d0": {
+        "uuid": "6ebde298-f5df-316e-b683-133b9fa746d0",
+        "title": "Inflation: This Time It's Different?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6ebde298-f5df-316e-b683-133b9fa746d0/inflation%3A-this-time-it%27s.html",
+        "providerPublishTime": 1657227480,
+        "type": "STORY",
+        "relatedTickers": [
+            "SHOP",
+            "DIS",
+            "AAPL",
+            "AMZN",
+            "GOOGL"
+        ]
+    },
+    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
+        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
+        "title": "5 Best Chinese Stocks: China Stocks Rally On Stimulus Hopes",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-china.html",
+        "providerPublishTime": 1657227474,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "BYDDY",
+            "LI",
+            "^GSPC",
+            "^HSI",
+            "BABA",
+            "JD"
+        ]
+    },
+    "8b527899-6201-31ab-bb75-18c9ce15fbcf": {
+        "uuid": "8b527899-6201-31ab-bb75-18c9ce15fbcf",
+        "title": "Apple\u2019s new iOS 16 could allow ads on iPhone lock screens",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/apple-ios-16-could-allow-204917352.html",
+        "providerPublishTime": 1657226957,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vArT61Ch6umwy2UxknH_8Q--~B/aD0xOTkwO3c9MzU0MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/42790800-fe36-11ec-9fd9-bc8dec672cc0",
+                    "width": 3543,
+                    "height": 1990,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K2iT2.KBUKuSG.Sc86N1fQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/42790800-fe36-11ec-9fd9-bc8dec672cc0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SSNLF",
+            "AAPL"
+        ]
+    },
+    "ec2a992b-778e-3843-a3d4-50d8ed98b0be": {
+        "uuid": "ec2a992b-778e-3843-a3d4-50d8ed98b0be",
+        "title": "Why Novavax Stock Is Skyrocketing This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ec2a992b-778e-3843-a3d4-50d8ed98b0be/why-novavax-stock-is.html",
+        "providerPublishTime": 1657226280,
+        "type": "STORY",
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "2c0368d6-92f4-347a-bfd7-6563ef7ce670": {
+        "uuid": "2c0368d6-92f4-347a-bfd7-6563ef7ce670",
+        "title": "Why Nio Stock Rallied 24.9% in June and Could Jump Higher",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2c0368d6-92f4-347a-bfd7-6563ef7ce670/why-nio-stock-rallied-24.9%25.html",
+        "providerPublishTime": 1657225500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8oQ9s.ph9x9Np0pYZ0nT0A--~B/aD03ODY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/h3dfVQErpzeQKUavYjha4w--~B/aD03ODY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2f0904c18e29446de115d6c2b1f70b15",
+                    "width": 1400,
+                    "height": 786,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z1CJlbM.u_v.KQAlttD5mQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/h3dfVQErpzeQKUavYjha4w--~B/aD03ODY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2f0904c18e29446de115d6c2b1f70b15",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "aa3463ca-d286-38e0-b5ac-b97768d90904": {
+        "uuid": "aa3463ca-d286-38e0-b5ac-b97768d90904",
+        "title": "Pfizer Receives Approval for COVID Treatment Paxlovid",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/aa3463ca-d286-38e0-b5ac-b97768d90904/pfizer-receives-approval-for.html",
+        "providerPublishTime": 1657225303,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "727f3439-0290-353b-8c6e-6fa6635648a0": {
+        "uuid": "727f3439-0290-353b-8c6e-6fa6635648a0",
+        "title": "Markets close in the green, energy and technology stocks among biggest gainers",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/markets-close-green-energy-technology-201543386.html",
+        "providerPublishTime": 1657224943,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VKKX0vxmPGozG6Bylt5FIw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/33a4dad0-fe30-11ec-bdff-d691758ab883",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IZwTV2FjSAfFAvZmGshbIQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/33a4dad0-fe30-11ec-bdff-d691758ab883",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "INTC",
+            "GME",
+            "^DJI",
+            "GOOG",
+            "GOOGL",
+            "WTI",
+            "^RUT",
+            "NKE",
+            "BZ=F",
+            "XLE",
+            "CL=F",
+            "XLK",
+            "CAT",
+            "^GSPC",
+            "^IXIC",
+            "AAPL",
+            "ARKK"
+        ]
+    },
     "d5128317-abf9-4baa-aa55-deb9a1f06843": {
         "uuid": "d5128317-abf9-4baa-aa55-deb9a1f06843",
-        "title": "Stock market news live updates: Stock futures rise as investors weigh jobless claims data",
+        "title": "Stock market news live updates: S&P notches 4th straight day of gains, Nasdaq up 2.3%",
         "publisher": "Yahoo Finance",
         "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-july-7-2022-113453990.html",
-        "providerPublishTime": 1657197791,
+        "providerPublishTime": 1657224318,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -23,31 +326,31 @@
             ]
         },
         "relatedTickers": [
+            "^DJI",
+            "NQ=F",
             "CL=F",
             "ES=F",
-            "^DJI",
             "^GSPC",
-            "^IXIC",
-            "NQ=F"
+            "^IXIC"
         ]
     },
-    "9098aef9-c709-3ab0-8d9e-2e036167fd4f": {
-        "uuid": "9098aef9-c709-3ab0-8d9e-2e036167fd4f",
-        "title": "Crude oil prices are down. Here's what it could mean for gas prices at the pump.",
-        "publisher": "USA TODAY",
-        "link": "https://finance.yahoo.com/m/9098aef9-c709-3ab0-8d9e-2e036167fd4f/crude-oil-prices-are-down..html",
-        "providerPublishTime": 1657196860,
+    "6752c2ca-7e23-36e8-b178-b8801d42038e": {
+        "uuid": "6752c2ca-7e23-36e8-b178-b8801d42038e",
+        "title": "Realty Income Announces Second Quarter 2022 Earnings Release Date",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/realty-income-announces-second-quarter-200500629.html",
+        "providerPublishTime": 1657224300,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IkP.c.xK4m_fs6uz_Jv.1A--~B/aD0zMzI2O3c9NDY1MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Xg.8KQVtnOnT07dIyksiOw--~B/aD0zMzI2O3c9NDY1MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_money_325/078c5809ada084aa9db4056b488b94d2",
-                    "width": 4651,
-                    "height": 3326,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OVR0fnc.DBQlCb_3riv__Q--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lnEVp2n9tkloQyj6SD2iOg--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d1d1021e3bd502af16e532b1b00c6ec9",
+                    "width": 400,
+                    "height": 109,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Knbwu0q8VJ0AVo9xyULWcw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Xg.8KQVtnOnT07dIyksiOw--~B/aD0zMzI2O3c9NDY1MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_money_325/078c5809ada084aa9db4056b488b94d2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jcnPiltbjN3xl1AH7KB.gw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lnEVp2n9tkloQyj6SD2iOg--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d1d1021e3bd502af16e532b1b00c6ec9",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -55,75 +358,92 @@
             ]
         },
         "relatedTickers": [
+            "O"
+        ]
+    },
+    "e5733fdc-ad41-31c7-b663-95c65ca7dda9": {
+        "uuid": "e5733fdc-ad41-31c7-b663-95c65ca7dda9",
+        "title": "Video game developers are \u2018migrating\u2019 towards \u2018ongoing live services\u2019: Analyst",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/video-game-developers-migrating-towards-200428789.html",
+        "providerPublishTime": 1657224268,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OjP8Lw5GF_spaE7bQHyIjw--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0018bfb0-fe30-11ec-befd-6991a9f8e395",
+                    "width": 2673,
+                    "height": 1501,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RKeNeRNgInV8yOwxAvLpXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0018bfb0-fe30-11ec-befd-6991a9f8e395",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GME",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "TTWO",
+            "AMZN",
+            "EA",
+            "NFLX",
+            "ATVI",
+            "AAPL",
+            "TCEHY",
+            "TCTZF"
+        ]
+    },
+    "845795e8-bb71-3098-abf9-861b7c5aa138": {
+        "uuid": "845795e8-bb71-3098-abf9-861b7c5aa138",
+        "title": "Why crude released from U.S. oil reserves may have ended up being exported overseas",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/845795e8-bb71-3098-abf9-861b7c5aa138/why-crude-released-from-u.s..html",
+        "providerPublishTime": 1657223580,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LcWj1fhlEQDC9_OB6y4efw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MyixuUctySbSRniNeh8VWw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/64e20141ec97f01f76465d2ac4238a0f",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SE6rYSyAaLB6v.qFV7zyXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MyixuUctySbSRniNeh8VWw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/64e20141ec97f01f76465d2ac4238a0f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RB=F",
             "CL=F"
         ]
     },
-    "61444fc7-5c3f-3490-a415-208a75396cb5": {
-        "uuid": "61444fc7-5c3f-3490-a415-208a75396cb5",
-        "title": "Dow Jones Futures Rise As Key Economic Signal Rebounds; Tesla Rivals In Buy Zones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/61444fc7-5c3f-3490-a415-208a75396cb5/dow-jones-futures-rise-as-key.html",
-        "providerPublishTime": 1657196583,
+    "906775a4-fa0e-3716-a462-4c338aa93001": {
+        "uuid": "906775a4-fa0e-3716-a462-4c338aa93001",
+        "title": "Zombies Take Over Disney World, Disneyland",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/906775a4-fa0e-3716-a462-4c338aa93001/zombies-take-over-disney.html",
+        "providerPublishTime": 1657223220,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ohq71CoV0y0IB07KSSKhIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HDQXCJOAPw5s7GycuXs2cw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/3bwq0yvVzy6Ow3IfWpVhzQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/d30ec4e696228d884b1bc269c5e7e705",
+                    "width": 1920,
+                    "height": 1080,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E3bZz6JkZegShfPcuwD_AQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^DJI",
-            "COMP",
-            "^GSPC",
-            "TSLA",
-            "^RUT",
-            "LI",
-            "MSFT",
-            "GOOGL",
-            "GME",
-            "AMZN"
-        ]
-    },
-    "24d5c2bc-2f1f-383f-b869-f4ef4425c1e7": {
-        "uuid": "24d5c2bc-2f1f-383f-b869-f4ef4425c1e7",
-        "title": "GLOBAL MARKETS-Chipmaker stocks climb, sickly euro treads water",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/global-markets-chipmaker-stocks-climb-121817757.html",
-        "providerPublishTime": 1657196297,
-        "type": "STORY",
-        "relatedTickers": [
-            "CL=F",
-            "^GSPC",
-            "SSNLF"
-        ]
-    },
-    "fcaddc8c-eb02-399a-b57e-f024c60f18a6": {
-        "uuid": "fcaddc8c-eb02-399a-b57e-f024c60f18a6",
-        "title": "5 Important Developments From Last Week That Could Push Disney Stock Higher",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fcaddc8c-eb02-399a-b57e-f024c60f18a6/5-important-developments-from.html",
-        "providerPublishTime": 1657195680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SUp2Q4seDy.d0iwpt1FJew--~B/aD0xMDUwO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/6mh2EpiRRO_wv_oQZnvY5A--~B/aD0xMDUwO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/8d337fc52e38c4062f944e9fb09473a4",
-                    "width": 1400,
-                    "height": 1050,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XuFi7gOssTj.r7OLJDyxBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6mh2EpiRRO_wv_oQZnvY5A--~B/aD0xMDUwO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/8d337fc52e38c4062f944e9fb09473a4",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.stvuiJZM8w1.cbwslIbyQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3bwq0yvVzy6Ow3IfWpVhzQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/d30ec4e696228d884b1bc269c5e7e705",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -132,6 +452,1381 @@
         },
         "relatedTickers": [
             "DIS"
+        ]
+    },
+    "c8f374cc-b0e2-388d-bf79-b13905dd93fb": {
+        "uuid": "c8f374cc-b0e2-388d-bf79-b13905dd93fb",
+        "title": "Market check: Energy sector leads stocks towards fourth straight day of gains",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-energy-sector-leads-191408343.html",
+        "providerPublishTime": 1657221248,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ImG8Ji2Ba6ByHof7tGCmaA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
+                    "width": 2654,
+                    "height": 1490,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Nzlv7qHfEE3XsqsD6mBifg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GME",
+            "TCEHY",
+            "TCTZF",
+            "NIO",
+            "XPEV",
+            "XPNGF",
+            "^TYX",
+            "^GSPC",
+            "XLC",
+            "^IXIC",
+            "^TNX",
+            "XLY",
+            "^FVX",
+            "^DJI",
+            "ARKK",
+            "AMC",
+            "XLE"
+        ]
+    },
+    "d2fefca3-6f55-36c8-89d1-6912831320f1": {
+        "uuid": "d2fefca3-6f55-36c8-89d1-6912831320f1",
+        "title": "Want to Hide Out in Tech? Buy IBM Stock, Morgan Stanley Says.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/d2fefca3-6f55-36c8-89d1-6912831320f1/want-to-hide-out-in-tech%3F-buy.html",
+        "providerPublishTime": 1657221240,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xABqazWd50D5_3pz6i5NDg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RfggQ2gSS8KEZsWAzan9NQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0978848b8511ede0a10cc793f6207df1",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iXnIAlqOWKJMElnO_kpfYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RfggQ2gSS8KEZsWAzan9NQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0978848b8511ede0a10cc793f6207df1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "IBM",
+            "T",
+            "T-PA",
+            "T-PC",
+            "KD",
+            "VZ"
+        ]
+    },
+    "98b9f36a-d7c8-3e93-a04a-efe869e4259f": {
+        "uuid": "98b9f36a-d7c8-3e93-a04a-efe869e4259f",
+        "title": "Why Nio Stock Popped Thursday",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/98b9f36a-d7c8-3e93-a04a-efe869e4259f/why-nio-stock-popped-thursday.html",
+        "providerPublishTime": 1657221029,
+        "type": "STORY",
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "2c625101-2292-3eeb-a403-4f431762544a": {
+        "uuid": "2c625101-2292-3eeb-a403-4f431762544a",
+        "title": "EMERGING MARKETS-Weaker dollar, buoyant commodities supports most currencies",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/emerging-markets-weaker-dollar-buoyant-190521949.html",
+        "providerPublishTime": 1657220721,
+        "type": "STORY",
+        "relatedTickers": [
+            "HG=F",
+            "CL=F",
+            "^MXX"
+        ]
+    },
+    "564a8de6-5114-3fc3-a99a-d8d92683b99f": {
+        "uuid": "564a8de6-5114-3fc3-a99a-d8d92683b99f",
+        "title": "Read Why Raymond James Thinks Verizon As Safe & Simpler",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/read-why-raymond-james-thinks-190217951.html",
+        "providerPublishTime": 1657220537,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aj3kJiYGa3LN3LVWgbP90A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/YL7ba2W6ZuHFeDwU5pZf.A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/b4b3e229016f7c23f4fb5eae1f6ca92f",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8stDdrP7RZQuML1Yec0Kug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YL7ba2W6ZuHFeDwU5pZf.A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/b4b3e229016f7c23f4fb5eae1f6ca92f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "92985bd0-c65f-3f37-80e2-969de3af75d5": {
+        "uuid": "92985bd0-c65f-3f37-80e2-969de3af75d5",
+        "title": "Oil prices end higher after 2-day rout pushed U.S. crude into bear market below $100 a barrel",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/92985bd0-c65f-3f37-80e2-969de3af75d5/oil-prices-end-higher-after.html",
+        "providerPublishTime": 1657220460,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vpHO2JLFHBJ41qelHbFMuA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KiNzrkng4oNSbPDx898mVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/7f2545d88ee5a7e37d0b17b734ae263e",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AnSq1fExNIOy9kQgtoctRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KiNzrkng4oNSbPDx898mVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/7f2545d88ee5a7e37d0b17b734ae263e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F",
+            "NG=F",
+            "HO=F"
+        ]
+    },
+    "e72ccf43-1621-331e-af4f-096302abad0b": {
+        "uuid": "e72ccf43-1621-331e-af4f-096302abad0b",
+        "title": "Big Oil CEO Believes Carbon Prices Need To Double",
+        "publisher": "Oilprice.com",
+        "link": "https://finance.yahoo.com/news/big-oil-ceo-believes-carbon-190000701.html",
+        "providerPublishTime": 1657220400,
+        "type": "STORY",
+        "relatedTickers": [
+            "CL=F"
+        ]
+    },
+    "9111c307-ae7f-3937-a680-f9a9dee94d4e": {
+        "uuid": "9111c307-ae7f-3937-a680-f9a9dee94d4e",
+        "title": "Alphabet (GOOGL) Boosts Google Photos With Pop-Up UI Update",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/alphabet-googl-boosts-google-photos-185006298.html",
+        "providerPublishTime": 1657219806,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O_4lSEDuDgAtKQdy7ItB4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w1okjv1S8SlieeDPM2vyNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GOOGL",
+            "MSFT",
+            "AAPL"
+        ]
+    },
+    "4a2d8dde-bc38-3fd4-8905-59b007f934e1": {
+        "uuid": "4a2d8dde-bc38-3fd4-8905-59b007f934e1",
+        "title": "Yahoo Finance says 'until next time' to Emily McCormick",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/yahoo-finance-says-until-next-182106531.html",
+        "providerPublishTime": 1657218066,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/STkL94HBq.njsYfyuOYQxA--~B/aD03MTQ7dz0xMjcwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/816e2d20-fe21-11ec-aee1-81cdf3b10de2",
+                    "width": 1270,
+                    "height": 714,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Dax7_XSzZWcfZM5DIEjBRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/816e2d20-fe21-11ec-aee1-81cdf3b10de2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "AAPL",
+            "^GSPC",
+            "^IXIC",
+            "BTC-USD",
+            "AMZN",
+            "NVDA",
+            "TSLA",
+            "GOOG",
+            "GOOGL"
+        ]
+    },
+    "bfcd7ef6-1bdb-3a69-bd97-8d810c88c8e7": {
+        "uuid": "bfcd7ef6-1bdb-3a69-bd97-8d810c88c8e7",
+        "title": "Fidelity: A Ray Dalio Fintech Pick",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/news/fidelity-ray-dalio-fintech-pick-180259707.html",
+        "providerPublishTime": 1657216979,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6t2qoBshH3DyovqxWJO2ag--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ROWCgh3DMoocRWTxkSsZYg--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/cdc8ac673b38c998327e9768b48f6fb5",
+                    "width": 550,
+                    "height": 366,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/64aCjt_A0AabTQGSHN3zYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ROWCgh3DMoocRWTxkSsZYg--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/cdc8ac673b38c998327e9768b48f6fb5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "FIS"
+        ]
+    },
+    "95303f78-9bfd-33a5-b79e-85b4a9e0288c": {
+        "uuid": "95303f78-9bfd-33a5-b79e-85b4a9e0288c",
+        "title": "Senate Finance report says AbbVie shifted profit overseas to cut taxes",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/senate-finance-report-says-abbvie-180205901.html",
+        "providerPublishTime": 1657216925,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kUh7f_Kp4WIIgJxdYo_xqg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wSm7SEcv9Mc71So9ANBl5Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a87e7048ccada000918e5d34547ddc71",
+                    "width": 800,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HPWkcYz7udItqEmTOjRe2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wSm7SEcv9Mc71So9ANBl5Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a87e7048ccada000918e5d34547ddc71",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "3365682e-6fc9-3c1b-b61a-956578d0e943": {
+        "uuid": "3365682e-6fc9-3c1b-b61a-956578d0e943",
+        "title": "Disney says Disneyland's Facebook, Instagram accounts hacked",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/disney-says-disneylands-facebook-instagram-175954365.html",
+        "providerPublishTime": 1657216794,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XD8kPxgvuzU3.QQJTpGXqQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HkE9.Hx2P6EBgCGo4nDqJQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0c3e2f948c25cad5c078deb7ef5a1c59",
+                    "width": 800,
+                    "height": 534,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9VGB1ejKo63Y7w.xtKLeIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HkE9.Hx2P6EBgCGo4nDqJQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0c3e2f948c25cad5c078deb7ef5a1c59",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "DIS"
+        ]
+    },
+    "8c96d08f-84b9-3abc-8ead-8dd7f5cb8dc2": {
+        "uuid": "8c96d08f-84b9-3abc-8ead-8dd7f5cb8dc2",
+        "title": "Disneyland\u2019s Instagram Account Hacked With a Series of Profane, Racist Posts",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/8c96d08f-84b9-3abc-8ead-8dd7f5cb8dc2/disneyland%E2%80%99s-instagram.html",
+        "providerPublishTime": 1657215240,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/noi2rhPkyR_HZm81gd6GCA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/elSrZS3vAGwod7CivjIcpg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3c78ecdb7e1788f3a4fbea88aef72532",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sehLsuv5rMDq9k7iJeso7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/elSrZS3vAGwod7CivjIcpg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3c78ecdb7e1788f3a4fbea88aef72532",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "DIS"
+        ]
+    },
+    "018d93ea-61f7-45cd-8d83-6ff1b73337b5": {
+        "uuid": "018d93ea-61f7-45cd-8d83-6ff1b73337b5",
+        "title": "GM sales in China hit by COVID lockdowns",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/gm-sales-in-china-hit-by-covid-lockdowns-171131600.html",
+        "providerPublishTime": 1657213891,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jHxI1aWO3sdNIJh5P05W_A--~B/aD0zMTA3O3c9NDY1NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
+                    "width": 4655,
+                    "height": 3107,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oTRW8Qbrz80pyqCAI7EpKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GM",
+            "LI",
+            "NIO",
+            "XPEV",
+            "XPNGF"
+        ]
+    },
+    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
+        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
+        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
+        "providerPublishTime": 1657211775,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m5d.Smd693RMHHIXgMp5Pw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o_.HlPSfHXegjFg37AN7ZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "AGN",
+            "PFE"
+        ]
+    },
+    "b18335af-a5c0-3442-b7f9-43077848e551": {
+        "uuid": "b18335af-a5c0-3442-b7f9-43077848e551",
+        "title": "Microsoft Estimates Face PC Weakness and Currency Headwinds, Says Analyst",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/b18335af-a5c0-3442-b7f9-43077848e551/microsoft-estimates-face-pc.html",
+        "providerPublishTime": 1657211760,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nedm_z1QALGo2VGEoYzpjw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mASCTd547Rtar4XcFAU4gQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/26958c8ff87d8120a2951e260594fff5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yMTmNdCv7K8Pm8toMKtirg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mASCTd547Rtar4XcFAU4gQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/26958c8ff87d8120a2951e260594fff5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT"
+        ]
+    },
+    "13aabb30-0bec-3d0d-a99d-5d923cb1c46a": {
+        "uuid": "13aabb30-0bec-3d0d-a99d-5d923cb1c46a",
+        "title": "NASCAR closer to adding Chicago street race as it competes with Formula 1 for fans",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/13aabb30-0bec-3d0d-a99d-5d923cb1c46a/nascar-closer-to-adding.html",
+        "providerPublishTime": 1657210680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xYyUFVOf2i1vwIZXxv1WmA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XD1qyOj7reTA3804V7KuVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f4b75ebb01a49b19b1399db575b47d97",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uSIXyozdY5dI8xuXFdQMig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XD1qyOj7reTA3804V7KuVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f4b75ebb01a49b19b1399db575b47d97",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "FWONA",
+            "FWONB",
+            "FWONK",
+            "DIS"
+        ]
+    },
+    "21c3fb4e-ae71-3b29-aa27-be0fda13003f": {
+        "uuid": "21c3fb4e-ae71-3b29-aa27-be0fda13003f",
+        "title": "Disney (DIS) and 9 Other Stocks Billionaire Phill Gross Was Buying Up in Q1",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/disney-dis-9-other-stocks-161503678.html",
+        "providerPublishTime": 1657210503,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nDCHURJLaqJzNJ1jb8kaSA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T1ZJzBQAJ5_229N1dL_wSg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3872b7c888af1e7463b79d39ab011a89",
+                    "width": 450,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pwydIQhStapIpXjLRy3l3Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/T1ZJzBQAJ5_229N1dL_wSg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3872b7c888af1e7463b79d39ab011a89",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "AMD",
+            "ATVI",
+            "LRCX",
+            "CB",
+            "MSFT",
+            "VZ",
+            "VRTX",
+            "DLTR"
+        ]
+    },
+    "3fed57e9-cdff-3bda-8fa8-ec9c6701f335": {
+        "uuid": "3fed57e9-cdff-3bda-8fa8-ec9c6701f335",
+        "title": "Tesla, other EV stocks rally after China signals support for its auto industry",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/3fed57e9-cdff-3bda-8fa8-ec9c6701f335/tesla%2C-other-ev-stocks-rally.html",
+        "providerPublishTime": 1657210140,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oqbXHcT8.H86BP1_9g4Ijg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PTeuTHTaTvCMgyFInj.CZQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/c5444ccb6ac624bb7e036153973eb32c",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yzUlDo1hNkLVT0aIJ__YYg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PTeuTHTaTvCMgyFInj.CZQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/c5444ccb6ac624bb7e036153973eb32c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "NIO"
+        ]
+    },
+    "dada3fc0-0a3b-3b85-9198-87b68e96a285": {
+        "uuid": "dada3fc0-0a3b-3b85-9198-87b68e96a285",
+        "title": "Novavax (NVAX) Stock Rallies 26.8% in a Month: Here's Why",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-rallies-26-160304184.html",
+        "providerPublishTime": 1657209784,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "BNTX",
+            "PFE"
+        ]
+    },
+    "55df6b0a-3b91-3d5d-a60b-be9584cc5371": {
+        "uuid": "55df6b0a-3b91-3d5d-a60b-be9584cc5371",
+        "title": "Samsung leads chip stock comeback",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/samsung-leads-chip-stock-comeback-155945815.html",
+        "providerPublishTime": 1657209585,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9E_hGT3dyOeSSOPGxVFWwA--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3063080-fe0d-11ec-bdff-d666b3445390",
+                    "width": 2767,
+                    "height": 1553,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GVmV4o.l0RuVxnYLgpUI0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3063080-fe0d-11ec-bdff-d666b3445390",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "QCOM",
+            "AMD",
+            "AMAT",
+            "NXPI",
+            "AVGO",
+            "AVGOP",
+            "INTC",
+            "ASML",
+            "ASMLF",
+            "TSM",
+            "SSNLF",
+            "TXN",
+            "ADI",
+            "NVDA"
+        ]
+    },
+    "2e926f00-2e42-32a3-9a1e-759bcaf4267a": {
+        "uuid": "2e926f00-2e42-32a3-9a1e-759bcaf4267a",
+        "title": "America\u2019s Frontier Fund to \u2018start a brand new renaissance\u2019 in tech, CEO says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/america-frontier-fund-start-brand-155606401.html",
+        "providerPublishTime": 1657209366,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Rw40QQBZVwDx11t6NvDQww--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4aec68c0-fe0d-11ec-aa5e-d8b92078e5f9",
+                    "width": 2792,
+                    "height": 1567,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6D5FiwdiKbGg7am27RjJUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4aec68c0-fe0d-11ec-aa5e-d8b92078e5f9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SSNLF",
+            "GOOG",
+            "GOOGL",
+            "AMD",
+            "AMZN",
+            "TXN",
+            "META",
+            "MSFT",
+            "PLTR",
+            "INTC",
+            "TSM",
+            "NVDA"
+        ]
+    },
+    "d34e8a24-1be7-35c4-b272-d0d51f4fc9de": {
+        "uuid": "d34e8a24-1be7-35c4-b272-d0d51f4fc9de",
+        "title": "Brazilian Billionaire Jorge Paulo Lemann Loves These 5 Tech Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/brazilian-billionaire-jorge-paulo-lemann-155337723.html",
+        "providerPublishTime": 1657209217,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZbZ1Z1xizjTNn5LbLWInVg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/X0vIa4vnShd6kpkcFTMYbg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3099209fe666bcc8a0ca09170c49d5a0",
+                    "width": 450,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rogYwiWq84b0IF10Zx5aRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/X0vIa4vnShd6kpkcFTMYbg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3099209fe666bcc8a0ca09170c49d5a0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNOW",
+            "MSFT",
+            "AMZN",
+            "TASK",
+            "SE",
+            "BILL",
+            "BUD",
+            "ZI",
+            "DASH"
+        ]
+    },
+    "60037d8a-84aa-310f-a8fa-b5cf065fc7a5": {
+        "uuid": "60037d8a-84aa-310f-a8fa-b5cf065fc7a5",
+        "title": "2 Warren Buffett Stocks to Buy Hand Over Fist in July",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/60037d8a-84aa-310f-a8fa-b5cf065fc7a5/2-warren-buffett-stocks-to.html",
+        "providerPublishTime": 1657208804,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QiblJunVFkLEExgM8eEOTA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AdKE5ta7ZN9UP2R.pprnFg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf4ea13b4c54a03f430965a70450d9df",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RqEW1haUnQ_93_4NEYA1rg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AdKE5ta7ZN9UP2R.pprnFg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf4ea13b4c54a03f430965a70450d9df",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "USB-PQ",
+            "VZ"
+        ]
+    },
+    "9e3179d5-3847-3a0b-bb13-ccc292f3fe6a": {
+        "uuid": "9e3179d5-3847-3a0b-bb13-ccc292f3fe6a",
+        "title": "With BA.5 the dominant variant, hospitalizations rise to 4-month high",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/9e3179d5-3847-3a0b-bb13-ccc292f3fe6a/with-ba.5-the-dominant.html",
+        "providerPublishTime": 1657208280,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q5mC5bvj4Mn2bASg3h8CCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/H6hPealGDG.po2og8UaZNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/56a4db948f8be31efb3fc983e3c08e08",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WDDD7sF5daIX.m_4ylteXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/H6hPealGDG.po2og8UaZNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/56a4db948f8be31efb3fc983e3c08e08",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "c06f2da2-3e5e-3949-bcdd-7b677e819ef4": {
+        "uuid": "c06f2da2-3e5e-3949-bcdd-7b677e819ef4",
+        "title": "Billionaire Cliff Asness Was Relentlessly Buying Meta Platforms (META) and These 9 Stocks in Q1",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-cliff-asness-relentlessly-buying-153800023.html",
+        "providerPublishTime": 1657208280,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.fX5Ycu7a0HzK3pkCP6fqA--~B/aD02MDA7dz00ODc7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lyUxWcX2mdkQBAgwoGP2Yg--~B/aD02MDA7dz00ODc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ead65a02164cca24797d7a2261f1eda0",
+                    "width": 487,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Lk0nJ0xVXS5aI7.iUf6Llw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lyUxWcX2mdkQBAgwoGP2Yg--~B/aD02MDA7dz00ODc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ead65a02164cca24797d7a2261f1eda0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "NUE",
+            "STLD",
+            "LYB",
+            "PFE",
+            "MRNA",
+            "ED"
+        ]
+    },
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Stocks Shift To Energy Plays; Popular Pick GameStop Pops",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stocks.html",
+        "providerPublishTime": 1657208007,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AJ3DqpFGpltKFmjcOMsyvw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wQp9eByMDh9doNS00KB6tQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/95d4220d1c88b1d1908119d90da57129",
+                    "width": 945,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6gA7dH3FS2ufkgcNNKvKTg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wQp9eByMDh9doNS00KB6tQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/95d4220d1c88b1d1908119d90da57129",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "AMC",
+            "AAPL",
+            "AMD",
+            "MSFT",
+            "NVDA"
+        ]
+    },
+    "5637ace9-f7e9-3dcf-94d2-6456e04b25be": {
+        "uuid": "5637ace9-f7e9-3dcf-94d2-6456e04b25be",
+        "title": "Tesla Inc (TSLA) and 9 Other Consumer Discretionary Stocks That Have Wowed Billionaire Philippe Laffont",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/tesla-inc-tsla-9-other-152741841.html",
+        "providerPublishTime": 1657207661,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JWA6pPn8zkJqDkkGQSz.DQ--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
+                    "width": 489,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iPlQEYc1PzjO2al.b0LPOw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "UBER",
+            "XPEV",
+            "PTON",
+            "RIVN"
+        ]
+    },
+    "22fe60bb-9a94-373b-b80f-76b12015e502": {
+        "uuid": "22fe60bb-9a94-373b-b80f-76b12015e502",
+        "title": "John Allison\u2019s Unio Capital Portfolio: 10 Dividend Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/john-allison-unio-capital-portfolio-152712498.html",
+        "providerPublishTime": 1657207632,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lF4XX6q9gRqFD7isnz1rWQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Z6tWqtquPMtUxo4sBRRX7Q--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7c6fb90428197689b9ba61769bc0d842",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TUWEHDAmrK4xqliw8wuPlw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z6tWqtquPMtUxo4sBRRX7Q--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7c6fb90428197689b9ba61769bc0d842",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TMO",
+            "BX",
+            "ADI",
+            "GILD",
+            "BAH",
+            "GOOGL",
+            "MSFT"
+        ]
+    },
+    "415b5592-7179-3139-84e3-f018a135f97c": {
+        "uuid": "415b5592-7179-3139-84e3-f018a135f97c",
+        "title": "GM vehicle sales in China drop 35.5% year over year",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/gm-vehicle-sales-china-drop-151501637.html",
+        "providerPublishTime": 1657206901,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rXADQEjH4ePAwFeLHrVOjA--~B/aD0yMzQ2O3c9NDE3NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2601a170-fe07-11ec-bd1d-79ab1c3fa966",
+                    "width": 4176,
+                    "height": 2346,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J.gpBywEcW1a5RWBCLxDRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2601a170-fe07-11ec-bd1d-79ab1c3fa966",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "NIO",
+            "VLKAF",
+            "VLKPF",
+            "VWAGY",
+            "VWAPY",
+            "GM"
+        ]
+    },
+    "e820e0db-88de-32e5-a339-fb9c50f52c22": {
+        "uuid": "e820e0db-88de-32e5-a339-fb9c50f52c22",
+        "title": "Indigenous Student Success 'Is Everyone's Success'",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/indigenous-student-success-everyones-success-150507729.html",
+        "providerPublishTime": 1657206307,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1LOdeXbQWqoKwX8wufEuiw--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xKYT0bwPY.SOI9rlf3PWQA--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/f130d8f307c512c4a17ef9993ca4c1ee",
+                    "width": 650,
+                    "height": 365,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9mrr9fADe9fC1bOlFaphiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xKYT0bwPY.SOI9rlf3PWQA--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/f130d8f307c512c4a17ef9993ca4c1ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EBBGF",
+            "EBBNF",
+            "EBGEF",
+            "ENB",
+            "ENBFF"
+        ]
+    },
+    "9a3e501e-e9fc-342d-bed2-9c59c8c9ee4b": {
+        "uuid": "9a3e501e-e9fc-342d-bed2-9c59c8c9ee4b",
+        "title": "CEO\u2019s of RBLX, NEXCF, NIO, AIMLF Advancing Next Wave of Multi-Billion Dollar Growth Opportunities in Web 3.0, Electric Vehicles, AI, and HealthTech Wearables",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/ceo-rblx-nexcf-nio-aimlf-150000627.html",
+        "providerPublishTime": 1657206000,
+        "type": "STORY",
+        "relatedTickers": [
+            "AIMLF",
+            "NEXCF",
+            "NIO",
+            "RBLX"
+        ]
+    },
+    "193ef436-ae24-33bf-bc6a-5607e8c754f5": {
+        "uuid": "193ef436-ae24-33bf-bc6a-5607e8c754f5",
+        "title": "FDA authorizes broader access to Pfizer's COVID-19 pill",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/fda-authorizes-broader-access-pfizers-144352465.html",
+        "providerPublishTime": 1657205032,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_4Vuz5gw5OkZNPDQH3X_Cg--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/36ed4880-fe03-11ec-bcf8-c17a15391bdb",
+                    "width": 2792,
+                    "height": 1567,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jeTY8FEkD_eNBDAMKXRs6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/36ed4880-fe03-11ec-bcf8-c17a15391bdb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "c649e63d-922c-33b4-b49d-9bc48fab0796": {
+        "uuid": "c649e63d-922c-33b4-b49d-9bc48fab0796",
+        "title": "10 Stocks Billionaire Tiger Cub Rob Citrone is Buying",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-billionaire-tiger-cub-143608390.html",
+        "providerPublishTime": 1657204568,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aEdHYWU9kA4WXRpmSjwPZw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zv6NgodKUMCqgVUG0DdNCw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a95cbf23d4d4001bfd7a821a3d097067",
+                    "width": 450,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WVHiOqKndUNcKLFup2CCbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zv6NgodKUMCqgVUG0DdNCw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a95cbf23d4d4001bfd7a821a3d097067",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AGRO",
+            "META",
+            "EXPE",
+            "TMUS",
+            "V",
+            "PANW",
+            "TSM"
+        ]
+    },
+    "37e03723-427c-3682-afc1-6c25c07c1beb": {
+        "uuid": "37e03723-427c-3682-afc1-6c25c07c1beb",
+        "title": "Verizon Innovative Learning STEM Achievers Offers Free Enrichment Program",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/verizon-innovative-learning-stem-achievers-143508112.html",
+        "providerPublishTime": 1657204508,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1LmR9.rPi3W8GdXrQnI1MQ--~B/aD0xNjk7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gkFu28mKOorWxHiiMLfrOg--~B/aD0xNjk7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/2bb719d1fe9b9d149afe0afa1003f8c1",
+                    "width": 650,
+                    "height": 169,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WJtnWEglconRcAL8A2qekg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gkFu28mKOorWxHiiMLfrOg--~B/aD0xNjk7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/2bb719d1fe9b9d149afe0afa1003f8c1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "6d2d0b8a-16a1-320e-b368-ecce0b3c083c": {
+        "uuid": "6d2d0b8a-16a1-320e-b368-ecce0b3c083c",
+        "title": "Baby formula shortage: FDA extends imports of overseas brands",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/fda-extends-baby-formula-imports-143338679.html",
+        "providerPublishTime": 1657204418,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/82ugkpPwqc45MaWfUtwTuQ--~B/aD0xNTgyO3c9MjgxNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c44b14c0-fe01-11ec-bf95-3856956a2d5e",
+                    "width": 2817,
+                    "height": 1582,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ChA4fWJ7uSwtstAnATyFKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c44b14c0-fe01-11ec-bf95-3856956a2d5e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "9df45545-dda0-3c96-bd79-9d83f4a2f00b": {
+        "uuid": "9df45545-dda0-3c96-bd79-9d83f4a2f00b",
+        "title": "Market check: Energy rebounds, Tesla stock rises, China stocks get a bid",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-energy-rebounds-tesla-142135242.html",
+        "providerPublishTime": 1657203695,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YL4fNEPKLSMeuJNJIKELWQ--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1a58b900-fe00-11ec-b6dc-fd33c63f3eab",
+                    "width": 2736,
+                    "height": 1536,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WHWKm6WYn9ynbQMOZuj0JA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1a58b900-fe00-11ec-b6dc-fd33c63f3eab",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVDA",
+            "XLP",
+            "HG=F",
+            "XLE",
+            "BABA",
+            "BABAF",
+            "TSM",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "CL=F",
+            "BZ=F",
+            "AMZN",
+            "INTC",
+            "META",
+            "TCEHY",
+            "TCTZF",
+            "ASML",
+            "ASMLF",
+            "AAPL"
+        ]
+    },
+    "9d92e888-8028-3392-bd0e-dd7f1868334b": {
+        "uuid": "9d92e888-8028-3392-bd0e-dd7f1868334b",
+        "title": "Billionaire Jeffrey Talpins Just Fled From These 10 Healthcare Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-jeffrey-talpins-just-fled-141502334.html",
+        "providerPublishTime": 1657203302,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h3CrtfMvvfGn5ZDgKLM6xg--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
+                    "width": 473,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/trOU_XwLBLYTtx6_yM7jlQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "JNJ",
+            "LLY",
+            "CNVY",
+            "TMO",
+            "DHR",
+            "DGX",
+            "MRNA"
+        ]
+    },
+    "6bb59962-2a99-3b8b-950a-dc93685a65a2": {
+        "uuid": "6bb59962-2a99-3b8b-950a-dc93685a65a2",
+        "title": "Stocks rise in early trading, U.S. dollar pauses gains, meme stocks up",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-rise-early-trading-u-135744443.html",
+        "providerPublishTime": 1657202264,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5cqmVZbCX5_pKSd.rzthoQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c551efb0-fdfc-11ec-b77b-428fa84f7aae",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1c.mgzZYQ9gRvAWDq7pJaQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c551efb0-fdfc-11ec-b77b-428fa84f7aae",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DX=F",
+            "GME",
+            "INTC",
+            "NVDA",
+            "PLTR",
+            "NQ=F",
+            "MSFT",
+            "AMD",
+            "DX-Y.NYB",
+            "^GSPC",
+            "TSM"
+        ]
+    },
+    "951c185f-b5c3-37a2-a3e4-b5b99ea018fe": {
+        "uuid": "951c185f-b5c3-37a2-a3e4-b5b99ea018fe",
+        "title": "A Stock Trader's Guide to Navigating the Chip Industry",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/stock-traders-guide-navigating-chip-103433491.html",
+        "providerPublishTime": 1657201239,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/M1j8TJ4KxYCTND.js.lz3Q--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2KuMM131Z4ku4GXfwtH6oQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/dda1b378623fa463757459dd0f7b4b87",
+                    "width": 1200,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jXtWjt0nO1Cd.sWBdzs3zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2KuMM131Z4ku4GXfwtH6oQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/dda1b378623fa463757459dd0f7b4b87",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RNECF",
+            "RNECY",
+            "SSNLF",
+            "GME",
+            "ASML",
+            "ASMLF",
+            "META",
+            "NXPI",
+            "MU",
+            "TSLA",
+            "GM",
+            "AMD",
+            "AMAT",
+            "AAPL",
+            "2454.TW",
+            "QCOM",
+            "INTC",
+            "TSM",
+            "TXN",
+            "IFNNF",
+            "IFNNY"
+        ]
+    },
+    "5c2eefe4-7adb-3714-a7bd-f40423c20259": {
+        "uuid": "5c2eefe4-7adb-3714-a7bd-f40423c20259",
+        "title": "North Texas\u2019 lead in semiconductor space to leap ahead with expansions in Sherman",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/5c2eefe4-7adb-3714-a7bd-f40423c20259/north-texas%E2%80%99-lead-in.html",
+        "providerPublishTime": 1657199718,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mtcg3EPny14Uf8GbrHyEPg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k07A2cywMaFcSHkZyouUBw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/8ab4cb72855910eb4b087839136d3685",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tyEbgyDiOZPxTlbYhDBirA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k07A2cywMaFcSHkZyouUBw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/8ab4cb72855910eb4b087839136d3685",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TXN",
+            "TSM",
+            "INTC"
+        ]
+    },
+    "944f0c23-907e-39bf-8003-ce151d1afc4b": {
+        "uuid": "944f0c23-907e-39bf-8003-ce151d1afc4b",
+        "title": "'I'm Muy Fancy Now'",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/im-muy-fancy-now-131507360.html",
+        "providerPublishTime": 1657199707,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EjJkRG2Y03wco4bXn8OytA--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RXB.gWmwz1nOOLBzrHEtrg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/8fbdf2be0dc14618c2b1ba2a2531987d",
+                    "width": 650,
+                    "height": 365,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VXkgwBQfLrI8X_7CSy1UZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RXB.gWmwz1nOOLBzrHEtrg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/8fbdf2be0dc14618c2b1ba2a2531987d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "5e68e881-3aae-3b48-9abf-193ba91693fa": {
+        "uuid": "5e68e881-3aae-3b48-9abf-193ba91693fa",
+        "title": "Is Most-Watched Stock Kinder Morgan, Inc. (KMI) Worth Betting on Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/most-watched-stock-kinder-morgan-130001172.html",
+        "providerPublishTime": 1657198801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/f_bLTsOnmzrA8rHMNKfNRw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
+                    "width": 900,
+                    "height": 594,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/24eK28oXPAmS7aYFGj00Ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "fb3f2fce-710e-38bd-bb16-fbdb68060780": {
+        "uuid": "fb3f2fce-710e-38bd-bb16-fbdb68060780",
+        "title": "Women\u2019s CoLab introduces \u2018CoLab Conversations\u2019 series",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/women-colab-introduces-colab-conversations-130000169.html",
+        "providerPublishTime": 1657198800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "9622fdcc-1bcd-31a1-a2df-a816b94fc599": {
+        "uuid": "9622fdcc-1bcd-31a1-a2df-a816b94fc599",
+        "title": "STORE Capital Corporation (NYSE:STOR) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/store-capital-corporation-nyse-stor-122807822.html",
+        "providerPublishTime": 1657196887,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ndRWZgjsDAsY7SlY9DU40w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/G6pErRwbxMSdZzMpjSBdVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/38ced98cbfd0e92e2cebabaeb3caaa2e",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NgjdyxwshTotqndYw.pYzg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/G6pErRwbxMSdZzMpjSBdVQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/38ced98cbfd0e92e2cebabaeb3caaa2e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STOR"
+        ]
+    },
+    "c31690a9-db57-3cd5-8ef7-4f14cca7b4de": {
+        "uuid": "c31690a9-db57-3cd5-8ef7-4f14cca7b4de",
+        "title": "Zacks Market Edge Highlights: ExxonMobil, Chevron, Philip Morris International, Gilead Sciences and General Mills",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-market-edge-highlights-exxonmobil-121912124.html",
+        "providerPublishTime": 1657196352,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Dy3lF5lNGOGTbgl.U_LPXg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TmzzsvOnawwhgOwaB_xKTw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6b283354cdabb079603e8ccc6e86b556",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J1F8jNZsVIIhIWqtsFBpPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TmzzsvOnawwhgOwaB_xKTw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6b283354cdabb079603e8ccc6e86b556",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GIS",
+            "XOM",
+            "GILD",
+            "^GSPC",
+            "CVX",
+            "PM"
         ]
     },
     "71002e2a-1c9b-3556-87cc-347ab20de03e": {
@@ -190,23 +1885,23 @@
             "ENB"
         ]
     },
-    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
-        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: 2 China EV Makers In Buy Zones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-2.html",
-        "providerPublishTime": 1657193214,
+    "d998e661-d151-3447-8341-8d1129517013": {
+        "uuid": "d998e661-d151-3447-8341-8d1129517013",
+        "title": "Analyzing Samsung's Q2 Expectations",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/analyzing-samsungs-q2-expectations-105338481.html",
+        "providerPublishTime": 1657191218,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wEWVBjDeCF1X9NhOllT30w--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/VHsiqbupSukPrwXTIn9cfA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9c57cd3bbc4b8310c2219cd55282db43",
+                    "width": 600,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bKwNVMtQidZZK9J23oWUQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VHsiqbupSukPrwXTIn9cfA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9c57cd3bbc4b8310c2219cd55282db43",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -214,140 +1909,10 @@
             ]
         },
         "relatedTickers": [
-            "XPEV",
-            "BYDDY",
-            "LI",
-            "^GSPC",
-            "^HSI",
-            "BABA",
-            "JD"
-        ]
-    },
-    "1c992fd8-00f9-3944-9954-813818c5c909": {
-        "uuid": "1c992fd8-00f9-3944-9954-813818c5c909",
-        "title": "SoftBank\u2019s Rajeev Misra to Step\u00a0Back to Launch New Fund",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/softbank-rajeev-misra-step-back-112326229.html",
-        "providerPublishTime": 1657193006,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K5uSuhWJM19HMrIhvFGhew--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/W6O0Eb1vQEemljdIkgY_pQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/83f1aa163cf2ab9e7776aa7f41d3f2e4",
-                    "width": 4000,
-                    "height": 2667,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NSzljdomg22dRKjsUo0DDg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/W6O0Eb1vQEemljdIkgY_pQ--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/83f1aa163cf2ab9e7776aa7f41d3f2e4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SFTBF",
-            "SFTBY",
-            "WE",
-            "AAPL",
-            "UBER",
-            "DB"
-        ]
-    },
-    "92985bd0-c65f-3f37-80e2-969de3af75d5": {
-        "uuid": "92985bd0-c65f-3f37-80e2-969de3af75d5",
-        "title": "Oil steadies after 2-day rout pushes U.S. crude into bear market below $100 a barrel",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/92985bd0-c65f-3f37-80e2-969de3af75d5/oil-steadies-after-2-day-rout.html",
-        "providerPublishTime": 1657192980,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vpHO2JLFHBJ41qelHbFMuA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KiNzrkng4oNSbPDx898mVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/7f2545d88ee5a7e37d0b17b734ae263e",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AnSq1fExNIOy9kQgtoctRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KiNzrkng4oNSbPDx898mVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/7f2545d88ee5a7e37d0b17b734ae263e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
-            "NG=F",
-            "HO=F"
-        ]
-    },
-    "00e32205-b1ae-30cc-a833-322028899f61": {
-        "uuid": "00e32205-b1ae-30cc-a833-322028899f61",
-        "title": "This Exciting Growth Sector Is Predicted to Keep Doubling Until 2028",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/00e32205-b1ae-30cc-a833-322028899f61/this-exciting-growth-sector.html",
-        "providerPublishTime": 1657192980,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE",
-            "JAZZ"
-        ]
-    },
-    "e5c8dbdc-066b-3c20-a51b-45f960b292f3": {
-        "uuid": "e5c8dbdc-066b-3c20-a51b-45f960b292f3",
-        "title": "Microsoft Takes a Big Hit",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/e5c8dbdc-066b-3c20-a51b-45f960b292f3/microsoft-takes-a-big-hit.html",
-        "providerPublishTime": 1657192680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Tm8qhxnC7eFsqZbxAGVmAg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JaQEWSHiV8uN6Sn3GOkAdw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3b2359b0ef4bc70771d82b6538d62383",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HCAq7osuY.I_BzY5cPg4PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JaQEWSHiV8uN6Sn3GOkAdw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3b2359b0ef4bc70771d82b6538d62383",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "6151e7db-adaa-3eb2-9aaa-fbb460acd6de": {
-        "uuid": "6151e7db-adaa-3eb2-9aaa-fbb460acd6de",
-        "title": "Coronavirus tally: Hospitalizations jump to 4-month high, 2-week trend of new cases rise 11%",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/6151e7db-adaa-3eb2-9aaa-fbb460acd6de/coronavirus-tally%3A.html",
-        "providerPublishTime": 1657190892,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
+            "SSNLF",
+            "AMD",
+            "MU",
+            "TSM"
         ]
     },
     "fff66d8c-96e8-32b2-a420-0149898aef83": {
@@ -377,110 +1942,6 @@
             "STOR"
         ]
     },
-    "b8db7289-70ff-3368-ad3c-c60dd8f72526": {
-        "uuid": "b8db7289-70ff-3368-ad3c-c60dd8f72526",
-        "title": "Russia orders block on Caspian oil pipeline that could pull 1 million barrels a day from Europe's supply",
-        "publisher": "Business Insider",
-        "link": "https://finance.yahoo.com/m/b8db7289-70ff-3368-ad3c-c60dd8f72526/russia-orders-block-on.html",
-        "providerPublishTime": 1657190406,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LKqvF.7yg5ZhkAFEjICDAA--~B/aD0xMDAwO3c9MTMzMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Dup1.IM6LhXZ6kOzpbeLNA--~B/aD0xMDAwO3c9MTMzMzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/c10ca2e41a7dc511ba1b62680f4356bd",
-                    "width": 1333,
-                    "height": 1000,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yO4Xen6pEmz5lh0BZCfqHw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Dup1.IM6LhXZ6kOzpbeLNA--~B/aD0xMDAwO3c9MTMzMzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/c10ca2e41a7dc511ba1b62680f4356bd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
-            "NG=F"
-        ]
-    },
-    "a1788d19-e42a-3068-bdb3-5a0979a881d7": {
-        "uuid": "a1788d19-e42a-3068-bdb3-5a0979a881d7",
-        "title": "A Stock Trader's Guide to Navigating the Chip Industry",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/stock-traders-guide-navigating-chip-103433259.html",
-        "providerPublishTime": 1657190073,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JV3Z.UTKmUYRWSsGv522Zw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D.iCXGvrLT.WeW0ynw_VLw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/dda1b378623fa463757459dd0f7b4b87",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4bs4gDnmLWfLodQ3BQH9ug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D.iCXGvrLT.WeW0ynw_VLw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/dda1b378623fa463757459dd0f7b4b87",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ASML",
-            "SSNLF",
-            "AAPL"
-        ]
-    },
-    "951c185f-b5c3-37a2-a3e4-b5b99ea018fe": {
-        "uuid": "951c185f-b5c3-37a2-a3e4-b5b99ea018fe",
-        "title": "A Stock Trader's Guide to Navigating the Chip Industry",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/stock-traders-guide-navigating-chip-103433491.html",
-        "providerPublishTime": 1657190073,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/M1j8TJ4KxYCTND.js.lz3Q--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2KuMM131Z4ku4GXfwtH6oQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/dda1b378623fa463757459dd0f7b4b87",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jXtWjt0nO1Cd.sWBdzs3zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2KuMM131Z4ku4GXfwtH6oQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/dda1b378623fa463757459dd0f7b4b87",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMAT",
-            "SSNLF",
-            "GM",
-            "ASML",
-            "ASMLF",
-            "MU",
-            "IFNNF",
-            "IFNNY",
-            "TSM",
-            "QCOM",
-            "NXPI",
-            "AMD",
-            "INTC",
-            "TSLA",
-            "META",
-            "RNECF",
-            "RNECY",
-            "GME",
-            "AAPL",
-            "2454.TW",
-            "TXN"
-        ]
-    },
     "8efe4817-334f-350a-a953-2852fd89c175": {
         "uuid": "8efe4817-334f-350a-a953-2852fd89c175",
         "title": "Buy These 5 High-Yield Dividend Stocks to Create an Inflation-Crushing Portfolio",
@@ -493,33 +1954,6 @@
             "EPR",
             "SPG",
             "ALLY"
-        ]
-    },
-    "6f0ec5dd-32e8-310c-a65d-f946f2564218": {
-        "uuid": "6f0ec5dd-32e8-310c-a65d-f946f2564218",
-        "title": "Apple planning rugged version of its smartwatch with bigger screen: report",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/6f0ec5dd-32e8-310c-a65d-f946f2564218/apple-planning-rugged-version.html",
-        "providerPublishTime": 1657188408,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
         ]
     },
     "2ab2c9ca-b684-332a-958f-9fed17ee9f6d": {
@@ -548,80 +1982,6 @@
         "relatedTickers": [
             "SPG",
             "SPG-PJ"
-        ]
-    },
-    "17917743-3bbb-39b2-b282-a4ce65bb1ab9": {
-        "uuid": "17917743-3bbb-39b2-b282-a4ce65bb1ab9",
-        "title": "Influencers with Andy Serwer: Andrew Yang",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/influencers-andy-serwer-andrew-yang-100000203.html",
-        "providerPublishTime": 1657188000,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Tdg6b0EfXFzXAk6WNd8CKg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f00c5c0-fd7b-11ec-af6f-8d2d68557093",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4avk6sD2_K75RueSGm6VCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f00c5c0-fd7b-11ec-af6f-8d2d68557093",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "AAPL",
-            "AMZN",
-            "XLE",
-            "ORCL",
-            "XOM",
-            "CVX",
-            "META",
-            "SNAP",
-            "TWTR",
-            "GOOG",
-            "GOOGL"
-        ]
-    },
-    "29e1b5f3-4752-33d3-96f9-87cd36876bb8": {
-        "uuid": "29e1b5f3-4752-33d3-96f9-87cd36876bb8",
-        "title": "Aging politicians 'don't understand technology': Andrew Yang",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/aging-politicians-dont-understand-technology-100000826.html",
-        "providerPublishTime": 1657188000,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MRJ7pjI7TFs09T3uszNoMg--~B/aD0yNzAyO3c9NDgwMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
-                    "width": 4803,
-                    "height": 2702,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6fcwcahIUWS4C0p14XGUKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "IBM",
-            "TWTR",
-            "AAPL",
-            "SNA",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "META",
-            "AMZN"
         ]
     },
     "107b7954-58b2-3593-9043-7ff0247d641c": {
@@ -666,58 +2026,6 @@
             "RTLPP"
         ]
     },
-    "183ffcb6-2bfd-36fb-8ef7-c33eb6167d25": {
-        "uuid": "183ffcb6-2bfd-36fb-8ef7-c33eb6167d25",
-        "title": "Global stocks rise after Fed talks tough on inflation, as oil steadies after sliding thanks to recession fears",
-        "publisher": "Business Insider",
-        "link": "https://finance.yahoo.com/m/183ffcb6-2bfd-36fb-8ef7-c33eb6167d25/global-stocks-rise-after-fed.html",
-        "providerPublishTime": 1657187853,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZzLw2vAbe7.T1hE3xrbpig--~B/aD00MDE3O3c9NTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/BVGCBM2vgwsfFTZLUZ4kAg--~B/aD00MDE3O3c9NTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/98b35e7a15bd06e2ad6c0396965a5be9",
-                    "width": 5356,
-                    "height": 4017,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/86GsGkQ3cAyBWRmq_6FA4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BVGCBM2vgwsfFTZLUZ4kAg--~B/aD00MDE3O3c9NTM1NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/98b35e7a15bd06e2ad6c0396965a5be9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BTC-USD",
-            "ETH-USD",
-            "CL=F"
-        ]
-    },
-    "e01cbcec-ef53-31d3-b6a4-55fbee55eb31": {
-        "uuid": "e01cbcec-ef53-31d3-b6a4-55fbee55eb31",
-        "title": "Is Moderna Stock a No-Brainer Buy With Omicron Boosters on the Way?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e01cbcec-ef53-31d3-b6a4-55fbee55eb31/is-moderna-stock-a-no-brainer.html",
-        "providerPublishTime": 1657187520,
-        "type": "STORY",
-        "relatedTickers": [
-            "MRNA",
-            "PFE"
-        ]
-    },
-    "580e7bd6-3a5f-3313-ab73-3cf2ebb897d3": {
-        "uuid": "580e7bd6-3a5f-3313-ab73-3cf2ebb897d3",
-        "title": "UPDATE 1-Africa CDC says it has signed MOU with Pfizer for COVID pill",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-africa-cdc-says-signed-094928232.html",
-        "providerPublishTime": 1657187368,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
     "b3321fef-f056-3610-b073-961b446285e6": {
         "uuid": "b3321fef-f056-3610-b073-961b446285e6",
         "title": "Senate Report Hits AbbVie\u2019s Bermuda Tax Structure for U.S. Humira Sales",
@@ -745,261 +2053,6 @@
             "ABBV"
         ]
     },
-    "448d2fcc-d32d-3ee7-94fc-9c6c27fd91ae": {
-        "uuid": "448d2fcc-d32d-3ee7-94fc-9c6c27fd91ae",
-        "title": "GameStop Announces Four-For-One Stock Split; Shares Rise",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/gamestop-announces-four-one-stock-204139167.html",
-        "providerPublishTime": 1657183164,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bvppg7W8DgyIaNxkYEn3_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JugfUgTaS1kyGbFh5jz3bg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f33c09072e2b6e48c5c49d8050249d4c",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fdoFoSrWhzWbgrJqLB6aPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JugfUgTaS1kyGbFh5jz3bg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f33c09072e2b6e48c5c49d8050249d4c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN",
-            "AAPL",
-            "GME",
-            "TSLA"
-        ]
-    },
-    "ecc49faf-04c4-3e8c-b9ec-03bcb36de8f2": {
-        "uuid": "ecc49faf-04c4-3e8c-b9ec-03bcb36de8f2",
-        "title": "GLOBAL MARKETS-Chipmakers revive stocks as euro struggles after freefall",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/global-markets-chipmakers-revive-stocks-083604198.html",
-        "providerPublishTime": 1657182964,
-        "type": "STORY",
-        "relatedTickers": [
-            "HG=F",
-            "CL=F",
-            "^GSPC",
-            "SSNLF"
-        ]
-    },
-    "02946bee-dff9-3027-b6af-4943ce4bad43": {
-        "uuid": "02946bee-dff9-3027-b6af-4943ce4bad43",
-        "title": "Samsung Sparks $30 Billion Tech Rally After 21% Sales Jump",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/samsung-profits-miss-estimates-inflation-234550086.html",
-        "providerPublishTime": 1657179716,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FSdhTwwRmroAxwBOfYuxCw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wqMcmiHIXagOxHnxKaIzZw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/ce45511476f109f997dbed35a56a6dd6",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YGMics8_M5MO5CUzyjL88g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wqMcmiHIXagOxHnxKaIzZw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/ce45511476f109f997dbed35a56a6dd6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "MU",
-            "SSNLF",
-            "UMC",
-            "001200.KS",
-            "000660.KS"
-        ]
-    },
-    "8f9edf9d-3a33-30be-bf81-908683d2534f": {
-        "uuid": "8f9edf9d-3a33-30be-bf81-908683d2534f",
-        "title": "Shell to revise up value of oil and gas assets",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/8f9edf9d-3a33-30be-bf81-908683d2534f/shell-to-revise-up-value-of.html",
-        "providerPublishTime": 1657178681,
-        "type": "STORY",
-        "relatedTickers": [
-            "RYDAF",
-            "SHEL",
-            "NG=F",
-            "CL=F"
-        ]
-    },
-    "77a4a5ce-2761-34e1-a08d-56dc17e7df08": {
-        "uuid": "77a4a5ce-2761-34e1-a08d-56dc17e7df08",
-        "title": "China Is Trying to \u2018Ransack\u2019 Western Companies, FBI Head Warns",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/china-trying-ransack-western-companies-032348989.html",
-        "providerPublishTime": 1657164228,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kexU0lvYBxPmfo4s19fXfA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/10kEo4J2XqWBbJXetZhF6Q--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/edcf111aa54a6c6b413411c32135bdc1",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WLzwYopYnMAxLJvJlf1gZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/10kEo4J2XqWBbJXetZhF6Q--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/edcf111aa54a6c6b413411c32135bdc1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "543969e6-c45d-3cdf-9416-3e75fc30775e": {
-        "uuid": "543969e6-c45d-3cdf-9416-3e75fc30775e",
-        "title": "TSMC Jumps 5% After Samsung Results Spur Sector Rally",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/tsmc-jumps-5-samsung-results-030253354.html",
-        "providerPublishTime": 1657162973,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ypuEJeOY_6jprzKgJIbXug--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/ADIrP6K1LA2F1MnL6k5gdw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/6b542177149675caada273c1b8bb81e0",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sc5KGMnEX9HTkTJ6grCgLA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ADIrP6K1LA2F1MnL6k5gdw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/6b542177149675caada273c1b8bb81e0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SSNLF",
-            "TSM"
-        ]
-    },
-    "102d2fe9-a7e6-35ce-b0c8-d34ad2f22a77": {
-        "uuid": "102d2fe9-a7e6-35ce-b0c8-d34ad2f22a77",
-        "title": "Meta Plans to Call New Virtual Reality Headset the \u2018Quest Pro\u2019",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/meta-plans-call-virtual-reality-235748881.html",
-        "providerPublishTime": 1657151868,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KiDbgjNI8gCAR3zuIfhUjw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/HMQ_WiZRivH5xfwHpFJP9g--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/885fbf50a4493c3a9f44170643607f3b",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KlZcKh06Fmr7eLEqTLoOGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HMQ_WiZRivH5xfwHpFJP9g--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/885fbf50a4493c3a9f44170643607f3b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "AAPL"
-        ]
-    },
-    "fac65f15-70e4-3cd7-afe0-e3fa0fd3ac50": {
-        "uuid": "fac65f15-70e4-3cd7-afe0-e3fa0fd3ac50",
-        "title": "Disney's Menu Adds a Unique Summer Answer to Taco Bell, Chipotle",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/fac65f15-70e4-3cd7-afe0-e3fa0fd3ac50/disney%27s-menu-adds-a-unique.html",
-        "providerPublishTime": 1657149540,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jhFI7AA7HzrCQ.ilLCZIbw--~B/aD02NDg7dz05NzI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/owRcQiH0fwupEjf.ZYgZsw--~B/aD02NDg7dz05NzI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/0b58f7a2137d1f282009781ee74b2d56",
-                    "width": 972,
-                    "height": 648,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7IQJekuH17TShFHKgC3xYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/owRcQiH0fwupEjf.ZYgZsw--~B/aD02NDg7dz05NzI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/0b58f7a2137d1f282009781ee74b2d56",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "CMG"
-        ]
-    },
-    "558b0f06-1a0c-39d2-bb8e-537c7d5c4e4a": {
-        "uuid": "558b0f06-1a0c-39d2-bb8e-537c7d5c4e4a",
-        "title": "Disney World Shares Exciting Info About Its New(Ish) Ride",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/558b0f06-1a0c-39d2-bb8e-537c7d5c4e4a/disney-world-shares-exciting.html",
-        "providerPublishTime": 1657149420,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dx83jznCP4mlJOZO08hpaw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/25BpP5sdu9ul5FMGnIP.aA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/6c7a5031c0a923c948a97740138a4d82",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qlVsUNx66F.t7xK6AH9JfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/25BpP5sdu9ul5FMGnIP.aA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/6c7a5031c0a923c948a97740138a4d82",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "99e0e495-5b9f-32f4-a904-7389bd9b912c": {
-        "uuid": "99e0e495-5b9f-32f4-a904-7389bd9b912c",
-        "title": "Disney Ends a Popular Show (but You May Be Happy About the Reason)",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/99e0e495-5b9f-32f4-a904-7389bd9b912c/disney-ends-a-popular-show.html",
-        "providerPublishTime": 1657149300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_hs0cT_MEUympIlZIzKqhw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/TJJ8zHL_qdiajzyaa9eeQw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/9028c41e578f9c60d5e053f3270c53ef",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p1cctXnkHcqNB7RyW20rBw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TJJ8zHL_qdiajzyaa9eeQw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/9028c41e578f9c60d5e053f3270c53ef",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
     "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2": {
         "uuid": "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2",
         "title": "XPeng Stock Shows Strong Q2 Delivery Numbers; Is It A Buy Now? Here's What Charts, Analysis Show",
@@ -1025,78 +2078,6 @@
         },
         "relatedTickers": [
             "XPEV"
-        ]
-    },
-    "aad3f771-6dd1-35e1-ad96-bc0f274c885d": {
-        "uuid": "aad3f771-6dd1-35e1-ad96-bc0f274c885d",
-        "title": "California is the top tech employer across multiple industries",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/aad3f771-6dd1-35e1-ad96-bc0f274c885d/california-is-the-top-tech.html",
-        "providerPublishTime": 1657146427,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uEGKzdgyGTdiPkUUsIL1pg--~B/aD0yMTAwO3c9MTQwNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/vjQz1aFhlsfWiLp0mrD7BA--~B/aD0yMTAwO3c9MTQwNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/8707666d92cf40e59eeaaede08f2cd7e",
-                    "width": 1406,
-                    "height": 2100,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OiK8fIyZUSnAPWsFdgxdUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vjQz1aFhlsfWiLp0mrD7BA--~B/aD0yMTAwO3c9MTQwNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/8707666d92cf40e59eeaaede08f2cd7e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HCA",
-            "BA",
-            "WFC",
-            "WFC-PD",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "DELL",
-            "AAPL",
-            "INTC",
-            "GM",
-            "AMAT",
-            "COF",
-            "COF-PI",
-            "COF-PJ",
-            "COF-PK",
-            "COF-PL",
-            "COF-PN"
-        ]
-    },
-    "1ca406cf-56e1-39cd-bfd1-8285f3ebc800": {
-        "uuid": "1ca406cf-56e1-39cd-bfd1-8285f3ebc800",
-        "title": "Microsoft Supports Abortion Access But Is Silent on Data Privacy",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/1ca406cf-56e1-39cd-bfd1-8285f3ebc800/microsoft-supports-abortion.html",
-        "providerPublishTime": 1657146240,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cGTDMdviYF1qRmfRoHEuoQ--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ze4taZGJPtlad3UzgahC3A--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/ca0d814b7542baa3d67e446a856542dc",
-                    "width": 750,
-                    "height": 470,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2RIqrbzN4aeeKq4NnfBRQg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ze4taZGJPtlad3UzgahC3A--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/ca0d814b7542baa3d67e446a856542dc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "GOOGL"
         ]
     },
     "196e366a-16d8-32ca-9cc4-e6f5773c4562": {
@@ -1180,37 +2161,6 @@
             "T-PA"
         ]
     },
-    "25854ad2-3471-3528-9568-3492f065f17a": {
-        "uuid": "25854ad2-3471-3528-9568-3492f065f17a",
-        "title": "Covid-19 Vaccine Doses, Once in High Demand, Now Thrown Away",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/25854ad2-3471-3528-9568-3492f065f17a/covid-19-vaccine-doses%2C-once.html",
-        "providerPublishTime": 1657142820,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ie5Qu3Dm3saMiqw3t471Xw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ro1s3NvXTSLVgv2qwrX0Zg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/93d81d9aada9a87f80a274adff67fb38",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iAn500XI6jpBjRzrNXx0fg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ro1s3NvXTSLVgv2qwrX0Zg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/93d81d9aada9a87f80a274adff67fb38",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AZN",
-            "AZNCF",
-            "PFE",
-            "BNTX",
-            "MRNA"
-        ]
-    },
     "2e0226ed-49c6-3f28-8acd-3f67fbcdc048": {
         "uuid": "2e0226ed-49c6-3f28-8acd-3f67fbcdc048",
         "title": "AT&T Asks Judge to Throw Out SEC Suit Over Disclosures to Analysts",
@@ -1277,92 +2227,6 @@
             "BMWYY",
             "BYMOF",
             "NIO"
-        ]
-    },
-    "f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878": {
-        "uuid": "f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878",
-        "title": "Stock Market Closes Higher On Fed Minutes; Microsoft And Cisco Lead Tech Stocks Higher",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878/stock-market-closes-higher-on.html",
-        "providerPublishTime": 1657140586,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmgPQEa9ldIzYYhJZ6sYLQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.bZtsgnchEamZO3REAT9sQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/l0_iYhiYqz8hPXqRUYT.fQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.bZtsgnchEamZO3REAT9sQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "^RUT",
-            "^GSPC",
-            "^DJI",
-            "UNH",
-            "AAPL"
-        ]
-    },
-    "d8fe16de-dd8b-357a-bd18-4f46639010b6": {
-        "uuid": "d8fe16de-dd8b-357a-bd18-4f46639010b6",
-        "title": "Is Microsoft Stock A Buy Before Software Giant's June-Quarter Report?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/d8fe16de-dd8b-357a-bd18-4f46639010b6/is-microsoft-stock-a-buy.html",
-        "providerPublishTime": 1657140350,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VdKep61TG6X11YO8hE4g5w--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yoO0rK1D6RPP90Ynrf8QvQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8469f11073b63c8ab319b817ba819a50",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rqhqiQZFkjrBFSesnK6b1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yoO0rK1D6RPP90Ynrf8QvQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8469f11073b63c8ab319b817ba819a50",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "b8c63131-e621-362a-bb8f-733d0e85deed": {
-        "uuid": "b8c63131-e621-362a-bb8f-733d0e85deed",
-        "title": "Here's what we know so far on Disney World's Splash Mountain refurbishment",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/b8c63131-e621-362a-bb8f-733d0e85deed/here%27s-what-we-know-so-far-on.html",
-        "providerPublishTime": 1657140171,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DjxcgbOVbK6IGZSHtt44ig--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EBl6vJ_IIJelb_qZ8iLHJg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/4caaab0e7aca7174ea354856e98286cb",
-                    "width": 1440,
-                    "height": 962,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sKdrm2KDmojMMXtkCZ1Sgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EBl6vJ_IIJelb_qZ8iLHJg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/4caaab0e7aca7174ea354856e98286cb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
         ]
     },
     "c5989697-c0fa-344e-a221-bb56d8b65fab": {
@@ -1439,103 +2303,6 @@
             "NVAX"
         ]
     },
-    "4444bba7-96f9-3e61-96e9-ab3c21001b48": {
-        "uuid": "4444bba7-96f9-3e61-96e9-ab3c21001b48",
-        "title": "Stocks and U.S. dollar accelerate gains into the close, energy stocks slump",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-u-dollar-accelerate-gains-201308451.html",
-        "providerPublishTime": 1657138388,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VrH0xrO1SHVyHkZ1u4_wkA--~B/aD0xNTE4O3c9MjcwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/09f01d80-fd68-11ec-adbb-c2153e66361e",
-                    "width": 2704,
-                    "height": 1518,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lkrKYhfiQyzr6yZhFmamNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/09f01d80-fd68-11ec-adbb-c2153e66361e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "XLE",
-            "^FVX",
-            "AAPL",
-            "META",
-            "TSLA",
-            "^DJI",
-            "^TYX",
-            "XLU",
-            "WTI",
-            "MSFT",
-            "^IXIC",
-            "^TNX"
-        ]
-    },
-    "d7b9ebc2-d61f-3625-931d-523b0c1d3d4f": {
-        "uuid": "d7b9ebc2-d61f-3625-931d-523b0c1d3d4f",
-        "title": "FDA allows pharmacists to prescribe Pfizer\u2019s COVID-19 pill Paxlovid",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/d7b9ebc2-d61f-3625-931d-523b0c1d3d4f/fda-allows-pharmacists-to.html",
-        "providerPublishTime": 1657137840,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GkhUKOwBaIdmcJyXyVk8nA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pcpqQR584VxwrewuA3Xf7A--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/51a32671f4f3540a8f275d6261e1d708",
-                    "width": 1279,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dihoR_LWJ8d5iLBtXBBA4A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pcpqQR584VxwrewuA3Xf7A--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/51a32671f4f3540a8f275d6261e1d708",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVS",
-            "PFE",
-            "WBA"
-        ]
-    },
-    "a1e2a717-ad3c-3af8-8345-b88dce8f496f": {
-        "uuid": "a1e2a717-ad3c-3af8-8345-b88dce8f496f",
-        "title": "Could Netflix Find A Merger Partner At Sun Valley Conference?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a1e2a717-ad3c-3af8-8345-b88dce8f496f/could-netflix-find-a-merger.html",
-        "providerPublishTime": 1657137723,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/admcbaYGoFwFq896Ojy01w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/paUQ6VwK0LmMCO3_Ocb2lA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/18feab53c41d81266bdba50bc902bd01",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vx.nGIrkeZqtPrhHthL1mw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/paUQ6VwK0LmMCO3_Ocb2lA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/18feab53c41d81266bdba50bc902bd01",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "CMCSA",
-            "DIS"
-        ]
-    },
     "d2642810-9026-354b-9f0e-0069695c59ba": {
         "uuid": "d2642810-9026-354b-9f0e-0069695c59ba",
         "title": "Q2 Earnings: Energy and What Else?",
@@ -1565,94 +2332,6 @@
             "PM",
             "GILD",
             "CVX"
-        ]
-    },
-    "b64fba3e-2510-306f-a3eb-2b4a05061fe9": {
-        "uuid": "b64fba3e-2510-306f-a3eb-2b4a05061fe9",
-        "title": "Touchlight Inks Patent License Agreement With Pfizer",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/touchlight-inks-patent-license-agreement-190807831.html",
-        "providerPublishTime": 1657134487,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WrOhHDNxOC2bV.MnRmMvqg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kRm7fBIHIbV04d1JUoNsOA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/00a3c09d289cd77faf8e4d5c8f7aa85d",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YDyJeGcoE63.eOeXdqTClQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kRm7fBIHIbV04d1JUoNsOA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/00a3c09d289cd77faf8e4d5c8f7aa85d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "92da9d79-ad08-3967-9575-868bf23a223c": {
-        "uuid": "92da9d79-ad08-3967-9575-868bf23a223c",
-        "title": "Needham Sees Magnite As Primary Beneficiary Of Netflix, Disney+ Adding Ad-Driven Streaming Tiers",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/needham-sees-magnite-primary-beneficiary-185330521.html",
-        "providerPublishTime": 1657133610,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WDHPDKV8JbacVQk4sRMN8Q--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BV6wU7R0wItcSEzwAQSDHg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/eb99f24bf09280304edea85eb6c16b21",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ePAK4yEA.6dbk4BjRz2l0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BV6wU7R0wItcSEzwAQSDHg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/eb99f24bf09280304edea85eb6c16b21",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MGNI",
-            "DIS",
-            "NFLX"
-        ]
-    },
-    "14e75df3-e7e6-3e8c-a43b-e61d56be9e97": {
-        "uuid": "14e75df3-e7e6-3e8c-a43b-e61d56be9e97",
-        "title": "Texas Economy Defies Abortion Politics With Business Rewards",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/texas-business-allure-defies-abortion-100000890.html",
-        "providerPublishTime": 1657132473,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iV9JK_mTufG8F1XpL72w0A--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Po0iSlrlWrCZVZ38rQzCjA--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/66163c1b07b7e5b21745edf56e094ed3",
-                    "width": 1296,
-                    "height": 796,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HOSulaNQzCepEJ8MHxrKXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Po0iSlrlWrCZVZ38rQzCjA--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/66163c1b07b7e5b21745edf56e094ed3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "ORCL",
-            "MCO",
-            "TSLA",
-            "DIS",
-            "JPM"
         ]
     },
     "7c7600a5-1e38-331d-861e-2781c228bb34": {
@@ -1708,33 +2387,6 @@
         "relatedTickers": [
             "NVAX",
             "PFE"
-        ]
-    },
-    "c632b695-82f2-3fbc-a3f6-d023c898fbba": {
-        "uuid": "c632b695-82f2-3fbc-a3f6-d023c898fbba",
-        "title": "Why Nio Stock Is Falling Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c632b695-82f2-3fbc-a3f6-d023c898fbba/why-nio-stock-is-falling-today.html",
-        "providerPublishTime": 1657121114,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w2ut789ytC0c0f9COF91fA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/15NAk1FVMr0I_oFzhtpZNw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9e0ce50f7879165b9c726fe39d9a23db",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8aHzqlPusgYyEWxyNNjgew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/15NAk1FVMr0I_oFzhtpZNw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9e0ce50f7879165b9c726fe39d9a23db",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO"
         ]
     },
     "fccec8d5-7b8d-383a-af07-f7142aeee7de": {
@@ -1858,33 +2510,6 @@
             "TSLA"
         ]
     },
-    "0d1ab33c-f0e8-39db-9fc4-534147655d12": {
-        "uuid": "0d1ab33c-f0e8-39db-9fc4-534147655d12",
-        "title": "Verizon Innovative Learning STEM Achievers offers free enrichment program",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-innovative-learning-stem-achievers-140000999.html",
-        "providerPublishTime": 1657116000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
     "4a35381d-7c1a-32ae-a939-6c15066b62b2": {
         "uuid": "4a35381d-7c1a-32ae-a939-6c15066b62b2",
         "title": "EV Roundup: TSLA's Q2 Deliveries, VWAGY's ID. Aero Concept & More",
@@ -1914,38 +2539,6 @@
             "TSLA",
             "LI",
             "XPEV"
-        ]
-    },
-    "a0e2b472-fd2d-3cd3-8dd4-4e337c57cd7e": {
-        "uuid": "a0e2b472-fd2d-3cd3-8dd4-4e337c57cd7e",
-        "title": "China\u2019s Auto Sales Are Booming. Can the Rebound Last?",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a0e2b472-fd2d-3cd3-8dd4-4e337c57cd7e/china%E2%80%99s-auto-sales-are.html",
-        "providerPublishTime": 1657112220,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/V32yefvzYy.I4ud3uRupow--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/K2.IvFpp7cyI8nqRh0sluQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c6e6d73c8c00d1e441207714196aa910",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LZ2YaSi7ztlUbYhdxNAFtw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/K2.IvFpp7cyI8nqRh0sluQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c6e6d73c8c00d1e441207714196aa910",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GM",
-            "LI",
-            "NIO",
-            "TSLA",
-            "BRK-A",
-            "BRK-B"
         ]
     },
     "a0a7f061-b4c2-3b33-93ff-4ee5a7df0939": {
@@ -2057,31 +2650,6 @@
         },
         "relatedTickers": [
             "DOCN"
-        ]
-    },
-    "a3bdc74a-b4d2-37c2-873a-1b7103bb52dc": {
-        "uuid": "a3bdc74a-b4d2-37c2-873a-1b7103bb52dc",
-        "title": "This May Be Pfizer's Key to Long-Term Vaccine Dominance",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a3bdc74a-b4d2-37c2-873a-1b7103bb52dc/this-may-be-pfizer%27s-key-to.html",
-        "providerPublishTime": 1657101600,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE",
-            "MRNA",
-            "NVAX",
-            "BNTX"
-        ]
-    },
-    "2d334c76-7f49-337f-bd8e-1e1fb3b38c10": {
-        "uuid": "2d334c76-7f49-337f-bd8e-1e1fb3b38c10",
-        "title": "UPDATE 1-Taiwan economy minister: Order books for chip firms still very full",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-taiwan-economy-minister-order-091813463.html",
-        "providerPublishTime": 1657099093,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSM"
         ]
     },
     "24f6ca5d-177b-36ec-a79a-d57985e3ebe7": {
@@ -2466,35 +3034,6 @@
             "AMZN"
         ]
     },
-    "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0": {
-        "uuid": "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0",
-        "title": "China EV Sales Boom In Q2 But Tesla Rivals BYD, Nio Stock Lag As New Headwind, Power Day Loom",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0/china-ev-sales-boom-in-q2-but.html",
-        "providerPublishTime": 1657053640,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bCEKMrEyaX8KL5EJZiGc6A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mfwAI2ZW41zeud1QgzUHDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LI",
-            "XPEV",
-            "TSLA"
-        ]
-    },
     "cb019cc5-b122-3b8e-b1e7-87b8d63b3669": {
         "uuid": "cb019cc5-b122-3b8e-b1e7-87b8d63b3669",
         "title": "UPDATE 2-Ben & Jerry's sues parent Unilever to block sale of Israeli business",
@@ -2535,60 +3074,6 @@
             "EBGEF",
             "ENB",
             "ENBFF"
-        ]
-    },
-    "9ee40441-a607-31b1-90a2-326e77259407": {
-        "uuid": "9ee40441-a607-31b1-90a2-326e77259407",
-        "title": "Why Nio Shares Dropped Early Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9ee40441-a607-31b1-90a2-326e77259407/why-nio-shares-dropped-early.html",
-        "providerPublishTime": 1657044180,
-        "type": "STORY",
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "8d115ad4-7237-31c7-8b17-a5f4e063fb73": {
-        "uuid": "8d115ad4-7237-31c7-8b17-a5f4e063fb73",
-        "title": "COVID hospitalizations dip for first time since mid-April, but daily deaths reach 2 1/2-month high",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/8d115ad4-7237-31c7-8b17-a5f4e063fb73/covid-hospitalizations-dip.html",
-        "providerPublishTime": 1657039140,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eZKAQAZbCchLYhaS.yuV6g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TVT_KxmszYDbcBmD038pfw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/fcc3e2724b265aada9a062bfd74cb538",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nb5rD78KJWI8mpfZw9wFnA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TVT_KxmszYDbcBmD038pfw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/fcc3e2724b265aada9a062bfd74cb538",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BNTX",
-            "MRNA",
-            "NVAX",
-            "CVAC",
-            "JNJ"
-        ]
-    },
-    "ded30082-5aea-35c7-8bbb-c909f6e41093": {
-        "uuid": "ded30082-5aea-35c7-8bbb-c909f6e41093",
-        "title": "Why EV Stock Li Auto Zoomed 52.8% in June and Could Rally Higher",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ded30082-5aea-35c7-8bbb-c909f6e41093/why-ev-stock-li-auto-zoomed.html",
-        "providerPublishTime": 1657036126,
-        "type": "STORY",
-        "relatedTickers": [
-            "LI",
-            "NIO"
         ]
     },
     "d684cd8d-9909-35ad-9ce4-dc461e3ed109": {
@@ -2642,46 +3127,6 @@
             "FRT"
         ]
     },
-    "9cfc5dad-86c4-35f7-b441-c322e198bb46": {
-        "uuid": "9cfc5dad-86c4-35f7-b441-c322e198bb46",
-        "title": "At Business and in Life, This CEO Is Winning by Design",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/business-life-ceo-winning-design-140021635.html",
-        "providerPublishTime": 1657029621,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ies87YcHw1pIeKkMLmmDow--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kfeKZKVMQVqxGO4y80lUCg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/c1e65bac3d4d08859f9866b51e9e35d9",
-                    "width": 650,
-                    "height": 365,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vq_NQSWD7vGwg_8PBvvJEw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kfeKZKVMQVqxGO4y80lUCg--~B/aD0zNjU7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/c1e65bac3d4d08859f9866b51e9e35d9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "cc3ee248-7f3a-3637-ad4e-286a5bf70f6b": {
-        "uuid": "cc3ee248-7f3a-3637-ad4e-286a5bf70f6b",
-        "title": "Meta Platforms Just Threw Nvidia a Huge Lifeline",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cc3ee248-7f3a-3637-ad4e-286a5bf70f6b/meta-platforms-just-threw.html",
-        "providerPublishTime": 1657026900,
-        "type": "STORY",
-        "relatedTickers": [
-            "META",
-            "NVDA",
-            "TSM"
-        ]
-    },
     "3edefedc-f483-3d1d-9d7e-ac3b332e3ecc": {
         "uuid": "3edefedc-f483-3d1d-9d7e-ac3b332e3ecc",
         "title": "Franklin Templeton's Global Head of Sustainability Anne Simpson Recognized As NACD Directorship 100\u2122 Honoree",
@@ -2707,39 +3152,6 @@
         },
         "relatedTickers": [
             "BEN"
-        ]
-    },
-    "aa138655-9d7b-3151-a99a-9def7a3978fc": {
-        "uuid": "aa138655-9d7b-3151-a99a-9def7a3978fc",
-        "title": "10 Best Stocks to Buy Now According to Michael Platt\u2019s BlueCrest Capital",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-now-130940802.html",
-        "providerPublishTime": 1657026580,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jqJICzHNZTIoN3cYHbwuag--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zx5Gpe2omcDa.Eswh2jR3Q--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0c93cb12a99f75fa05846e70f2d011e5",
-                    "width": 450,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NufdKgYXDW6hM1VsYP0GMw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zx5Gpe2omcDa.Eswh2jR3Q--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0c93cb12a99f75fa05846e70f2d011e5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "PCGU",
-            "CHNG",
-            "WTRG",
-            "TSLA",
-            "NIMC",
-            "D"
         ]
     },
     "f0e34a36-df89-3098-9b67-4fa1a3441055": {
@@ -2775,34 +3187,6 @@
             "ZM"
         ]
     },
-    "5ce0026b-3aa4-3e25-a82e-543528bbee84": {
-        "uuid": "5ce0026b-3aa4-3e25-a82e-543528bbee84",
-        "title": "Here\u2019s how far house prices are set to fall as rates go up, according to this forecasting firm",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/5ce0026b-3aa4-3e25-a82e-543528bbee84/here%E2%80%99s-how-far-house-prices.html",
-        "providerPublishTime": 1657025520,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fljuro6d.zYweEKsL4Kxsw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FM.JppjB18x39IgJXrVp9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/2f8fdcd901585f9889071c7ca5eb6183",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CBRWZhYM0_n0SJyeZ63eWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FM.JppjB18x39IgJXrVp9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/2f8fdcd901585f9889071c7ca5eb6183",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMC",
-            "NIO"
-        ]
-    },
     "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
         "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
         "title": "Is T-Mobile Stock A Buy Or Sell As Wall Street Mulls Buyback Timing?",
@@ -2830,35 +3214,6 @@
             "TMUS",
             "VZ",
             "T"
-        ]
-    },
-    "92f236cd-d3b5-37b9-a9a6-1baaee787879": {
-        "uuid": "92f236cd-d3b5-37b9-a9a6-1baaee787879",
-        "title": "5G Stocks To Buy And Watch As Wireless Firms Move Beyond Smartphones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/92f236cd-d3b5-37b9-a9a6-1baaee787879/5g-stocks-to-buy-and-watch-as.html",
-        "providerPublishTime": 1657023655,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/daV5HhFBicH7GqtjCtPU8Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wGU3J7SL.NrVGu9qSzRErA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d433d66140b3ad73066842ec66b305b",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WyGrwTzt7yDRbawDSkAkcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wGU3J7SL.NrVGu9qSzRErA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d433d66140b3ad73066842ec66b305b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "AAPL",
-            "XLNX"
         ]
     },
     "9b7849cf-478e-3904-b086-603d9c85ff16": {
@@ -2890,42 +3245,6 @@
             "^GSPC"
         ]
     },
-    "1a7b3181-0adf-464f-9aa7-f8ff7196a5ee": {
-        "uuid": "1a7b3181-0adf-464f-9aa7-f8ff7196a5ee",
-        "title": "'The elephant in the room for Tesla,' according to WedBush's Dan Ives",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/elephant-in-the-room-for-tesla-dan-ives-114140089.html",
-        "providerPublishTime": 1657021300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DiHD3.vMBMojyHelJFldig--~B/aD0yMzI5O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-01/828e97e0-3235-11ea-a7b7-b07b2f0b5bd8",
-                    "width": 3493,
-                    "height": 2329,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2e9Wew0HzWFLtb3ELajNRw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-01/828e97e0-3235-11ea-a7b7-b07b2f0b5bd8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "F",
-            "NIO",
-            "TM",
-            "TOYOF",
-            "GM",
-            "TSLA",
-            "XPEV",
-            "XPNGF",
-            "RIVN",
-            "LI"
-        ]
-    },
     "58c7dbc0-e42f-3cf9-a05f-ada610b730f4": {
         "uuid": "58c7dbc0-e42f-3cf9-a05f-ada610b730f4",
         "title": "This Blockbuster Drug from AbbVie Is Closer to Another Major Indication",
@@ -2951,42 +3270,6 @@
         },
         "relatedTickers": [
             "ABBV"
-        ]
-    },
-    "ca040407-bc4e-3cfd-9ff0-99e1888a8e45": {
-        "uuid": "ca040407-bc4e-3cfd-9ff0-99e1888a8e45",
-        "title": "Vital TSMC Supplier Warns of Chip Material Price Hikes Into 2023",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/vital-tsmc-supplier-warns-chip-210000881.html",
-        "providerPublishTime": 1656968400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qJEkpiWhWZwLKfZcymEntQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gJktp14EyE0Cu.l_6PfZPg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/ace15501f24f50f0084daef2f3566b07",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k3pXNpLAgIjXQ0NAUsMHpQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gJktp14EyE0Cu.l_6PfZPg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/ace15501f24f50f0084daef2f3566b07",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "SSNLF",
-            "TM",
-            "TOYOF",
-            "SNEJF",
-            "SONY",
-            "JPM",
-            "IFNNF",
-            "IFNNY",
-            "8301.T"
         ]
     },
     "ae54f769-444a-3d4d-8ed6-7e686b0bc9af": {
@@ -3016,36 +3299,6 @@
             "KMI"
         ]
     },
-    "a5047c9b-b502-3795-b906-52c9871ce437": {
-        "uuid": "a5047c9b-b502-3795-b906-52c9871ce437",
-        "title": "NIO, XPeng (XPEV), Li Auto (LI) Issue June, Q2 Delivery Updates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-xpeng-xpev-li-auto-150103712.html",
-        "providerPublishTime": 1656946863,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b2OvfyZfpZ1PeuDf6vBCTA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/WMoaiSy6ECCeqw0EaZflKg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7c45a89188e11757254e3fa1483c8911",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3sG3c6IFZdqzcAy7wLkrSQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMoaiSy6ECCeqw0EaZflKg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7c45a89188e11757254e3fa1483c8911",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "XPEV",
-            "LI",
-            "SMP"
-        ]
-    },
     "1d9ae2c8-0a4a-3efe-88f0-8d0e904c9cda": {
         "uuid": "1d9ae2c8-0a4a-3efe-88f0-8d0e904c9cda",
         "title": "Energy Transfer LP (ET) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -3071,6 +3324,56 @@
         },
         "relatedTickers": [
             "ET-PD"
+        ]
+    },
+    "cb5b134b-ad7b-3cdf-b6e8-0d74972921ec": {
+        "uuid": "cb5b134b-ad7b-3cdf-b6e8-0d74972921ec",
+        "title": "7 Dividend Stocks to Buy in July 2022",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-dividend-stocks-buy-july-125656545.html",
+        "providerPublishTime": 1656939416,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8CFOaRlRVpwd96mjK1m3Iw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/pYIcqsp_PA7FscinILZGSA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/259fa9a245dc582c88cceb953e69077f",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pm5PG8bxF5eO_Ble.n3tbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pYIcqsp_PA7FscinILZGSA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/259fa9a245dc582c88cceb953e69077f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO",
+            "ABBV",
+            "KMI",
+            "LOW",
+            "NRG",
+            "KO",
+            "CL"
+        ]
+    },
+    "b92b5ef7-f028-30c7-924d-827ab84cfd49": {
+        "uuid": "b92b5ef7-f028-30c7-924d-827ab84cfd49",
+        "title": "7 REITs to Buy in July 2022",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-reits-buy-july-2022-120746219.html",
+        "providerPublishTime": 1656936466,
+        "type": "STORY",
+        "relatedTickers": [
+            "CIO-PA",
+            "GLPI",
+            "SBRA",
+            "CCI",
+            "FPI",
+            "PSTL",
+            "SPG"
         ]
     },
     "51d3a1b1-bead-3fa8-b89a-3911415e6756": {
@@ -3150,33 +3453,6 @@
             "BX"
         ]
     },
-    "48bf32b7-324b-3a65-bb8b-8f6b9baf2090": {
-        "uuid": "48bf32b7-324b-3a65-bb8b-8f6b9baf2090",
-        "title": "Should You Consider Acquiring AbbVie (ABBV) Shares?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/consider-acquiring-abbvie-abbv-shares-053125021.html",
-        "providerPublishTime": 1656912685,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RPdDuxHiXUJF8eAcQaJwAA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RqAKkC.S5mdZgyAUtzNS4g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/20f5140b0d6593c9f87e143fb6bf21b3",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nli7ogZuQa7Cgi.l4g3Bpg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RqAKkC.S5mdZgyAUtzNS4g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/20f5140b0d6593c9f87e143fb6bf21b3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
     "a6a8ea15-5ba7-397c-bb37-b44591fa9050": {
         "uuid": "a6a8ea15-5ba7-397c-bb37-b44591fa9050",
         "title": "\u2018Minions\u2019 set box office on fire with $108.5 million debut",
@@ -3232,46 +3508,6 @@
             "EPR",
             "MPW",
             "SPG"
-        ]
-    },
-    "b3adc6bb-a9f9-324f-9a24-17e7b532611d": {
-        "uuid": "b3adc6bb-a9f9-324f-9a24-17e7b532611d",
-        "title": "Verizon Communications Inc. (NYSE:VZ) Pays A US$0.64 Dividend In Just Four Days",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/verizon-communications-inc-nyse-vz-123249268.html",
-        "providerPublishTime": 1656765169,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4TlgC92SaJzjGFv99JuqIA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/50ja20p.Rehp7jBJE3jhRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/028f47b440f2107bca7802fce704e9a8",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HTZmh6KL3xy3p1nigKUpPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/50ja20p.Rehp7jBJE3jhRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/028f47b440f2107bca7802fce704e9a8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "fc6763df-e395-39ad-9097-2091af7f2259": {
-        "uuid": "fc6763df-e395-39ad-9097-2091af7f2259",
-        "title": "3 Stocks You Can Buy and Hold for Decades",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fc6763df-e395-39ad-9097-2091af7f2259/3-stocks-you-can-buy-and-hold.html",
-        "providerPublishTime": 1656755820,
-        "type": "STORY",
-        "relatedTickers": [
-            "ABBV",
-            "VRTX",
-            "BMY"
         ]
     },
     "5d7e7519-d56d-3e41-aa9c-171b508d766c": {
@@ -3379,41 +3615,6 @@
             "T-PC",
             "CVX",
             "O"
-        ]
-    },
-    "b82615b6-96d7-3838-92b2-5fe9f08b176f": {
-        "uuid": "b82615b6-96d7-3838-92b2-5fe9f08b176f",
-        "title": "Amazon, Disney, AT&T donated to abortion opponents, Tesla faces racial discrimination lawsuit",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/amazon-disney-t-donated-abortion-150142448.html",
-        "providerPublishTime": 1656687702,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/j4yv_Nwq_ZapIwl_zWpvpA--~B/aD0yNTI1O3c9NDQ4MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/5e11e880-f94e-11ec-bdfe-52c6efe665ce",
-                    "width": 4483,
-                    "height": 2525,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GPPOxxdPV_Xxdcq20Hx8TA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/5e11e880-f94e-11ec-bdfe-52c6efe665ce",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "FKINX",
-            "NVDA",
-            "DIS",
-            "MU",
-            "T",
-            "T-PA",
-            "T-PC",
-            "AMZN"
         ]
     },
     "0a4d3372-0cb7-38ca-83be-654fa1954689": {
@@ -3587,65 +3788,6 @@
             "SPG"
         ]
     },
-    "96f95f9d-a9c3-3922-b264-67c74fa6e970": {
-        "uuid": "96f95f9d-a9c3-3922-b264-67c74fa6e970",
-        "title": "Enbridge (ENB) Stock Moves -0.42%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-stock-moves-0-215009637.html",
-        "providerPublishTime": 1656625809,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nAH6fXoesF4FO.fkctxFig--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
-                    "width": 900,
-                    "height": 845,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bq.M_4Vj5tmmHLkoBQb0XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB"
-        ]
-    },
-    "96c87081-1741-37b8-a8dc-a1f9729167be": {
-        "uuid": "96c87081-1741-37b8-a8dc-a1f9729167be",
-        "title": "FDA backs adjusting COVID booster to new variants, RH and TSM stocks down",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/fda-backs-adjusting-covid-booster-195157718.html",
-        "providerPublishTime": 1656618717,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u8LHtNPde3mLw2aXbkn5gQ--~B/aD0xNzMyO3c9MzA4MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/15405ba0-f8ae-11ec-be76-8ec22a4313b5",
-                    "width": 3081,
-                    "height": 1732,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mPwbosnmK_mWWcN.FqnqJw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/15405ba0-f8ae-11ec-be76-8ec22a4313b5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GMJPX",
-            "RH",
-            "TSM",
-            "SSNLF",
-            "MRNA",
-            "PFE"
-        ]
-    },
     "f53d9182-ea5d-3453-9f5a-f5c319e83abc": {
         "uuid": "f53d9182-ea5d-3453-9f5a-f5c319e83abc",
         "title": "New Investor? These Real Estate Stocks Should Be on Your Shopping List",
@@ -3704,17 +3846,6 @@
         "type": "STORY",
         "relatedTickers": [
             "BEN"
-        ]
-    },
-    "08dedda2-d2f8-3621-ab81-0141c77b7c71": {
-        "uuid": "08dedda2-d2f8-3621-ab81-0141c77b7c71",
-        "title": "How One VTeamer Leads the Way in Saving America's Rivers",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/one-vteamer-leads-way-saving-130007274.html",
-        "providerPublishTime": 1656594007,
-        "type": "STORY",
-        "relatedTickers": [
-            "VZ"
         ]
     },
     "379a5117-44ff-3dd2-a2d2-f8e1385a8eef": {
@@ -3819,33 +3950,6 @@
         },
         "relatedTickers": [
             "DOCN"
-        ]
-    },
-    "3ed9b8df-c3ab-3084-9b92-bd9721f95283": {
-        "uuid": "3ed9b8df-c3ab-3084-9b92-bd9721f95283",
-        "title": "Enbridge (ENB) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-dips-more-broader-220010280.html",
-        "providerPublishTime": 1656540010,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UfBIh2Pl.gyxScZAbyc4xg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3YJkCdSXGdMJn6gBH4vqJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB"
         ]
     },
     "75ebd0a8-3e39-35bb-a772-627e9f91984d": {
@@ -4094,35 +4198,6 @@
             "BEN"
         ]
     },
-    "4d11c019-67bf-350f-bdf3-462425002699": {
-        "uuid": "4d11c019-67bf-350f-bdf3-462425002699",
-        "title": "Gilead's (GILD) Yescarta Gets EC Nod for Follicular Lymphoma",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/gileads-gild-yescarta-gets-ec-142802825.html",
-        "providerPublishTime": 1656512882,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yQj7yY.zuCmH0g4AxJiWDg--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/4sNExajuO4U3uU3h3q2viA--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8727b578405dd8fbc1bc6364169b38d2",
-                    "width": 900,
-                    "height": 469,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hUbuInpukngibsDJT13G_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4sNExajuO4U3uU3h3q2viA--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8727b578405dd8fbc1bc6364169b38d2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD",
-            "002722.SZ",
-            "NVS"
-        ]
-    },
     "aafd3dc2-7e17-39f8-9420-2b149b69407a": {
         "uuid": "aafd3dc2-7e17-39f8-9420-2b149b69407a",
         "title": "China Eases Regulatory Restraints on Two Tech Platforms",
@@ -4204,60 +4279,6 @@
             "^GSPC"
         ]
     },
-    "04275ecd-0201-32ba-b79f-3cd50fb04d65": {
-        "uuid": "04275ecd-0201-32ba-b79f-3cd50fb04d65",
-        "title": "Simon Property (SPG) Stock Moves -0.87%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/simon-property-spg-stock-moves-221510166.html",
-        "providerPublishTime": 1656454510,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TGgE1g6I36MqaArClAVM8Q--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 3000,
-                    "height": 2351,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/X6HH5WHRBVE_mPuR0o1BVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG"
-        ]
-    },
-    "d3b3da96-fcef-33fe-88b6-eeaa5022adf5": {
-        "uuid": "d3b3da96-fcef-33fe-88b6-eeaa5022adf5",
-        "title": "Gilead Sciences (GILD) Stock Moves -0.99%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/gilead-sciences-gild-stock-moves-215009848.html",
-        "providerPublishTime": 1656453009,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dOFJjF.lFJbuBeMTQ.srQg--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
-                    "width": 900,
-                    "height": 587,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
     "add64b7d-664b-3659-a0a6-294b7d9115ee": {
         "uuid": "add64b7d-664b-3659-a0a6-294b7d9115ee",
         "title": "SCOTUS abortion ruling: Employers expand mental health benefits for workers following decision",
@@ -4336,103 +4357,6 @@
             "HBAN",
             "STOR",
             "UHT"
-        ]
-    },
-    "6b81a5ea-31bf-3b89-8174-e2fdad354670": {
-        "uuid": "6b81a5ea-31bf-3b89-8174-e2fdad354670",
-        "title": "10 Cheap Dividend Stocks with Over 6% Yield",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-cheap-dividend-stocks-over-151958894.html",
-        "providerPublishTime": 1656429598,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cuEmNhsOd6AiIMmc_AmTvQ--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F7ASUGWniPpFVKP8YGYmmw--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8c2969fac5d580e07ac49fce7b77f8f8",
-                    "width": 768,
-                    "height": 510,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bWjekJ1j0u2xNu5coUqFGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F7ASUGWniPpFVKP8YGYmmw--~B/aD01MTA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8c2969fac5d580e07ac49fce7b77f8f8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DX",
-            "KMI",
-            "BDN",
-            "MPLX",
-            "KO",
-            "ASX",
-            "JNJ",
-            "XOM"
-        ]
-    },
-    "a0553d99-0d52-3ea6-a82f-f970fab3811e": {
-        "uuid": "a0553d99-0d52-3ea6-a82f-f970fab3811e",
-        "title": "Market check: Stocks open higher, travel stocks gain",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-stocks-open-higher-140025083.html",
-        "providerPublishTime": 1656424825,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DGbDwpzQa3p6bpglTW28EA--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/588516a0-f6ea-11ec-bfeb-ee53076ce091",
-                    "width": 2736,
-                    "height": 1536,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ySFobbYv1WJmYuTY.Zm21A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/588516a0-f6ea-11ec-bfeb-ee53076ce091",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "KGSPF",
-            "KGSPY",
-            "KMI",
-            "TTE",
-            "TTFNF",
-            "XLV",
-            "^GSPC",
-            "XOM",
-            "XLU",
-            "XLC",
-            "MJ",
-            "XLE",
-            "^DJI",
-            "BP",
-            "BPAQF",
-            "XLY",
-            "^IXIC",
-            "^DJT",
-            "BETZ",
-            "HES",
-            "IBB",
-            "XLI",
-            "XLRE",
-            "RYDAF",
-            "SHEL",
-            "XLB",
-            "COP",
-            "XLK",
-            "XLP",
-            "LQD",
-            "X",
-            "DVN",
-            "TAN",
-            "IPO",
-            "XLF",
-            "MPC"
         ]
     },
     "7d74f278-d9de-36f8-997d-e4319ae03865": {

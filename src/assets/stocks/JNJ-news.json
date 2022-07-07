@@ -1,4 +1,85 @@
 {
+    "a95956d2-97af-35e3-9387-2e6b96b6d420": {
+        "uuid": "a95956d2-97af-35e3-9387-2e6b96b6d420",
+        "title": "Investing $50 Weekly Could Grow Your Portfolio to $500,000 in 30 Years",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/a95956d2-97af-35e3-9387-2e6b96b6d420/investing-%2450-weekly-could.html",
+        "providerPublishTime": 1657206000,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ",
+            "ISRG"
+        ]
+    },
+    "9d92e888-8028-3392-bd0e-dd7f1868334b": {
+        "uuid": "9d92e888-8028-3392-bd0e-dd7f1868334b",
+        "title": "Billionaire Jeffrey Talpins Just Fled From These 10 Healthcare Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-jeffrey-talpins-just-fled-141502334.html",
+        "providerPublishTime": 1657203302,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h3CrtfMvvfGn5ZDgKLM6xg--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
+                    "width": 473,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/trOU_XwLBLYTtx6_yM7jlQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "JNJ",
+            "LLY",
+            "CNVY",
+            "TMO",
+            "DHR",
+            "DGX",
+            "MRNA"
+        ]
+    },
+    "aef84543-e5e2-3aba-be1a-a07124039c9a": {
+        "uuid": "aef84543-e5e2-3aba-be1a-a07124039c9a",
+        "title": "11 Best Dividend-Paying Stocks To Buy Now",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/11-best-dividend-paying-stocks-140954871.html",
+        "providerPublishTime": 1657202994,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fr07bcw_OgkGCFDU2Eyo6w--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HEoYVwSUqyL0hDPtlP6KeA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/594cebb1c181a8cba8e148ab6419c17a",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QO4tqnb6_8_7OwLO_KrhWA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HEoYVwSUqyL0hDPtlP6KeA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/594cebb1c181a8cba8e148ab6419c17a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GWW",
+            "NUE",
+            "DOV",
+            "PPG",
+            "SYY",
+            "KO",
+            "ADM",
+            "JNJ",
+            "MRK"
+        ]
+    },
     "c2373433-e110-3abd-a7e7-7694e8bbe888": {
         "uuid": "c2373433-e110-3abd-a7e7-7694e8bbe888",
         "title": "2 Stocks That Could Make You Rich for Retirement",
@@ -25,36 +106,6 @@
         "relatedTickers": [
             "JNJ",
             "KO"
-        ]
-    },
-    "3c5be170-63f1-377c-8c9c-4c2891e48e84": {
-        "uuid": "3c5be170-63f1-377c-8c9c-4c2891e48e84",
-        "title": "Hormel, Chevron, and 7 Other Dividend Aristocrat Stocks That Could Ride Out a Recession",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/3c5be170-63f1-377c-8c9c-4c2891e48e84/hormel%2C-chevron%2C-and-7-other.html",
-        "providerPublishTime": 1657197480,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nrm.khZq2ZvJ2ykrS6eNww--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EtccBWsX1NGgoOjhTy_Ekg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6d7c05daddeadcae3ffc37c2b4253ee2",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zOtCIWmGWRo0HRL2alu8kg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EtccBWsX1NGgoOjhTy_Ekg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6d7c05daddeadcae3ffc37c2b4253ee2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "HRL",
-            "WBA",
-            "CVX"
         ]
     },
     "af2aa954-c2c5-3d81-9087-87c56cafaefc": {
@@ -175,69 +226,6 @@
             "CL",
             "JNJ",
             "WM"
-        ]
-    },
-    "df034cbc-7c2a-38a3-9354-737cd26302f3": {
-        "uuid": "df034cbc-7c2a-38a3-9354-737cd26302f3",
-        "title": "COVID-19 subvariants may evade vaccine protection, giant snails pose health risk in Florida",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/covid-19-subvariants-may-evade-145255398.html",
-        "providerPublishTime": 1657119175,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_.dWuwcNr9IwA8Gqo7g1zw--~B/aD02MTg7dz0xMTAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4cbaa180-fd3b-11ec-bff3-94f0afc2982d",
-                    "width": 1100,
-                    "height": 618,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5FvHHwq9DrM5I5ZrQk6JxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4cbaa180-fd3b-11ec-bff3-94f0afc2982d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "MRNA",
-            "PFE",
-            "NVAX"
-        ]
-    },
-    "72ec5a75-ac91-341b-85c2-fffb7667177f": {
-        "uuid": "72ec5a75-ac91-341b-85c2-fffb7667177f",
-        "title": "Dow Jones Turns Lower Ahead Of Fed Minutes",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/72ec5a75-ac91-341b-85c2-fffb7667177f/dow-jones-turns-lower-ahead.html",
-        "providerPublishTime": 1657115720,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zOEhx.IvsX8ZI1VHx77pPg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rgtb1UVBxvi6TstQZZC7yQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8044a9bba79173e86da34bc94023ad37",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PbrgPcTGftE_yJiq3twr5Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rgtb1UVBxvi6TstQZZC7yQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8044a9bba79173e86da34bc94023ad37",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^DJI",
-            "UNH",
-            "LLY",
-            "TSLA",
-            "PWR",
-            "COMP",
-            "JNJ"
         ]
     }
 }

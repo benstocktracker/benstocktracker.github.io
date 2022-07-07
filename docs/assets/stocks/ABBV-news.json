@@ -1,4 +1,60 @@
 {
+    "95303f78-9bfd-33a5-b79e-85b4a9e0288c": {
+        "uuid": "95303f78-9bfd-33a5-b79e-85b4a9e0288c",
+        "title": "Senate Finance report says AbbVie shifted profit overseas to cut taxes",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/senate-finance-report-says-abbvie-180205901.html",
+        "providerPublishTime": 1657216925,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kUh7f_Kp4WIIgJxdYo_xqg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wSm7SEcv9Mc71So9ANBl5Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a87e7048ccada000918e5d34547ddc71",
+                    "width": 800,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HPWkcYz7udItqEmTOjRe2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wSm7SEcv9Mc71So9ANBl5Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a87e7048ccada000918e5d34547ddc71",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
+        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
+        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
+        "providerPublishTime": 1657211775,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m5d.Smd693RMHHIXgMp5Pw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o_.HlPSfHXegjFg37AN7ZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "AGN",
+            "PFE"
+        ]
+    },
     "71002e2a-1c9b-3556-87cc-347ab20de03e": {
         "uuid": "71002e2a-1c9b-3556-87cc-347ab20de03e",
         "title": "4 High-Dividend Stocks Rise In Face Of Recession Freak-Out",
@@ -165,46 +221,6 @@
         },
         "relatedTickers": [
             "ABBV"
-        ]
-    },
-    "48bf32b7-324b-3a65-bb8b-8f6b9baf2090": {
-        "uuid": "48bf32b7-324b-3a65-bb8b-8f6b9baf2090",
-        "title": "Should You Consider Acquiring AbbVie (ABBV) Shares?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/consider-acquiring-abbvie-abbv-shares-053125021.html",
-        "providerPublishTime": 1656912685,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RPdDuxHiXUJF8eAcQaJwAA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RqAKkC.S5mdZgyAUtzNS4g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/20f5140b0d6593c9f87e143fb6bf21b3",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nli7ogZuQa7Cgi.l4g3Bpg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RqAKkC.S5mdZgyAUtzNS4g--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/20f5140b0d6593c9f87e143fb6bf21b3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "fc6763df-e395-39ad-9097-2091af7f2259": {
-        "uuid": "fc6763df-e395-39ad-9097-2091af7f2259",
-        "title": "3 Stocks You Can Buy and Hold for Decades",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fc6763df-e395-39ad-9097-2091af7f2259/3-stocks-you-can-buy-and-hold.html",
-        "providerPublishTime": 1656755820,
-        "type": "STORY",
-        "relatedTickers": [
-            "ABBV",
-            "VRTX",
-            "BMY"
         ]
     }
 }

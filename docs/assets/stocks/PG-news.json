@@ -1,4 +1,38 @@
 {
+    "00ae9375-9328-3821-b6f8-3fc84da58fd3": {
+        "uuid": "00ae9375-9328-3821-b6f8-3fc84da58fd3",
+        "title": "'Reducing inflation will come at a great cost': Ray Dalio warns that the Fed will likely trigger something far worse than high prices. Here's what he likes today",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/reducing-inflation-come-great-cost-200000780.html",
+        "providerPublishTime": 1657224000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VfdXtkzb_L_EvgF9dhHlxw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/EXpacZaVOBqOhfODPsssnw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/789f2d28371908f704d456d3063a1857",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nhkP5tXX_8.DA0nww_vQWw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EXpacZaVOBqOhfODPsssnw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/789f2d28371908f704d456d3063a1857",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BABA",
+            "BABAF",
+            "PG",
+            "VEIEX",
+            "VEMAX",
+            "VEMIX",
+            "VEMRX",
+            "VWO"
+        ]
+    },
     "6fd2ad0a-6bb4-3e18-ab75-edc942b5dd77": {
         "uuid": "6fd2ad0a-6bb4-3e18-ab75-edc942b5dd77",
         "title": "10 Best Defensive Stocks to Buy Now",
@@ -256,37 +290,6 @@
             "UL",
             "NVO",
             "PG"
-        ]
-    },
-    "3ee41372-9cd6-3ad1-9034-7a9cd72fc2fe": {
-        "uuid": "3ee41372-9cd6-3ad1-9034-7a9cd72fc2fe",
-        "title": "Billionaire Ray Dalio is Shorting These 10 European Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/billionaire-ray-dalio-shorting-10-132513209.html",
-        "providerPublishTime": 1656595513,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sEsokCKhedn1IwYjki2pZw--~B/aD02MDA7dz00NDE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/sV4YmwelnKhb08m2Fa0oPw--~B/aD02MDA7dz00NDE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55fbd57ae685a28c6925ef372c3d0d69",
-                    "width": 441,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/19HvKz.0Is7ngTNEtaeTTw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sV4YmwelnKhb08m2Fa0oPw--~B/aD02MDA7dz00NDE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55fbd57ae685a28c6925ef372c3d0d69",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SNY",
-            "SAP",
-            "SIEGY",
-            "PG",
-            "PFE"
         ]
     }
 }

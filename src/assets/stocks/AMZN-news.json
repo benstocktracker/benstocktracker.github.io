@@ -1,21 +1,158 @@
 {
-    "61444fc7-5c3f-3490-a415-208a75396cb5": {
-        "uuid": "61444fc7-5c3f-3490-a415-208a75396cb5",
-        "title": "Dow Jones Futures Rise As Key Economic Signal Rebounds; Tesla Rivals In Buy Zones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/61444fc7-5c3f-3490-a415-208a75396cb5/dow-jones-futures-rise-as-key.html",
-        "providerPublishTime": 1657196583,
+    "3d724cee-3c14-3827-b291-e1246e328598": {
+        "uuid": "3d724cee-3c14-3827-b291-e1246e328598",
+        "title": "GameStop Tumbles on\u00a0CFO\u2019s\u00a0Firing, Reports of Job Cuts",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/gamestop-tumbles-cfo-firing-reports-212811227.html",
+        "providerPublishTime": 1657229291,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ohq71CoV0y0IB07KSSKhIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8tlK8JpHz2Px8IODHYJ_Rw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/9i44CbvFQCUCC.OS1DIb4A--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/48cb81ac7c67529d8afbb1e7dca7ed56",
+                    "width": 2000,
+                    "height": 1333,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E3bZz6JkZegShfPcuwD_AQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0XeGTCPC3JxXxXe__50EDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9i44CbvFQCUCC.OS1DIb4A--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/48cb81ac7c67529d8afbb1e7dca7ed56",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GME",
+            "AMZN",
+            "TWTR"
+        ]
+    },
+    "6ebde298-f5df-316e-b683-133b9fa746d0": {
+        "uuid": "6ebde298-f5df-316e-b683-133b9fa746d0",
+        "title": "Inflation: This Time It's Different?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6ebde298-f5df-316e-b683-133b9fa746d0/inflation%3A-this-time-it%27s.html",
+        "providerPublishTime": 1657227480,
+        "type": "STORY",
+        "relatedTickers": [
+            "SHOP",
+            "DIS",
+            "AAPL",
+            "AMZN",
+            "GOOGL"
+        ]
+    },
+    "e5733fdc-ad41-31c7-b663-95c65ca7dda9": {
+        "uuid": "e5733fdc-ad41-31c7-b663-95c65ca7dda9",
+        "title": "Video game developers are \u2018migrating\u2019 towards \u2018ongoing live services\u2019: Analyst",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/video-game-developers-migrating-towards-200428789.html",
+        "providerPublishTime": 1657224268,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OjP8Lw5GF_spaE7bQHyIjw--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0018bfb0-fe30-11ec-befd-6991a9f8e395",
+                    "width": 2673,
+                    "height": 1501,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RKeNeRNgInV8yOwxAvLpXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0018bfb0-fe30-11ec-befd-6991a9f8e395",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GME",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "TTWO",
+            "AMZN",
+            "EA",
+            "NFLX",
+            "ATVI",
+            "AAPL",
+            "TCEHY",
+            "TCTZF"
+        ]
+    },
+    "aebcc144-c50a-34b9-82e0-ac1dc0d1643b": {
+        "uuid": "aebcc144-c50a-34b9-82e0-ac1dc0d1643b",
+        "title": "Amazon, Port Authority End Talks for Newark Airport Deal",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/aebcc144-c50a-34b9-82e0-ac1dc0d1643b/amazon%2C-port-authority-end.html",
+        "providerPublishTime": 1657223700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mQErlrOqWFJrZLBoGaYNFw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/SgDQl7lLWgyI2E57e1DGxw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/1d829a7184b3688881a4db5f5c77670f",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XYcam.Ic8exaLKWw3OYBWQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/SgDQl7lLWgyI2E57e1DGxw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/1d829a7184b3688881a4db5f5c77670f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN"
+        ]
+    },
+    "83de63c9-1114-3a72-a6d3-5f0427561a09": {
+        "uuid": "83de63c9-1114-3a72-a6d3-5f0427561a09",
+        "title": "Why Rivian Shares Drove Higher Again Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/83de63c9-1114-3a72-a6d3-5f0427561a09/why-rivian-shares-drove.html",
+        "providerPublishTime": 1657222003,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FHIQ9u2gx.2G2A.KKMrLKQ--~B/aD05NTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VUIIWH8fsbeAtPw7ZjAgPw--~B/aD05NTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf370ada303074c0459f342b65ff6fb8",
+                    "width": 1400,
+                    "height": 959,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/579WcaHwU.32CzyL4KDfGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VUIIWH8fsbeAtPw7ZjAgPw--~B/aD05NTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf370ada303074c0459f342b65ff6fb8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RIVN",
+            "AMZN"
+        ]
+    },
+    "4a2d8dde-bc38-3fd4-8905-59b007f934e1": {
+        "uuid": "4a2d8dde-bc38-3fd4-8905-59b007f934e1",
+        "title": "Yahoo Finance says 'until next time' to Emily McCormick",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/yahoo-finance-says-until-next-182106531.html",
+        "providerPublishTime": 1657218066,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/STkL94HBq.njsYfyuOYQxA--~B/aD03MTQ7dz0xMjcwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/816e2d20-fe21-11ec-aee1-81cdf3b10de2",
+                    "width": 1270,
+                    "height": 714,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Dax7_XSzZWcfZM5DIEjBRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/816e2d20-fe21-11ec-aee1-81cdf3b10de2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -24,89 +161,34 @@
         },
         "relatedTickers": [
             "^DJI",
-            "COMP",
+            "AAPL",
             "^GSPC",
-            "TSLA",
-            "^RUT",
-            "LI",
-            "MSFT",
-            "GOOGL",
-            "GME",
-            "AMZN"
-        ]
-    },
-    "27108293-3ad4-390e-8af9-ca4402228bc5": {
-        "uuid": "27108293-3ad4-390e-8af9-ca4402228bc5",
-        "title": "GameStop Announces Stock Split. What Happened to Amazon and Google After They Split Shares.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/27108293-3ad4-390e-8af9-ca4402228bc5/gamestop-announces-stock.html",
-        "providerPublishTime": 1657195500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pVNr1oHmNjO49w3K0Zg7sA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GQL_gC5vb0SBYpVt2dsnPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ac93d34edf116388247084d042c12ca6",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fFr47ksRP.6ejxwwlQqLbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GQL_gC5vb0SBYpVt2dsnPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ac93d34edf116388247084d042c12ca6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GME",
-            "SHOP",
-            "GOOG",
-            "GOOGL",
-            "AMZN"
-        ]
-    },
-    "905a51f6-c0ef-3844-8480-05f995e82194": {
-        "uuid": "905a51f6-c0ef-3844-8480-05f995e82194",
-        "title": "Shopify's Stock Split Is Complete, but This Is the Real Reason to Buy the Stock",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/905a51f6-c0ef-3844-8480-05f995e82194/shopify%27s-stock-split-is.html",
-        "providerPublishTime": 1657194000,
-        "type": "STORY",
-        "relatedTickers": [
-            "SHOP",
+            "^IXIC",
+            "BTC-USD",
             "AMZN",
+            "NVDA",
+            "TSLA",
+            "GOOG",
             "GOOGL"
         ]
     },
-    "52340bd6-b263-3dbc-ba1c-be6e9131c41e": {
-        "uuid": "52340bd6-b263-3dbc-ba1c-be6e9131c41e",
-        "title": "AWS Chief Says Amazon's Most Profitable Segment Is Just Getting Started",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/52340bd6-b263-3dbc-ba1c-be6e9131c41e/aws-chief-says-amazon%27s-most.html",
-        "providerPublishTime": 1657193100,
-        "type": "STORY",
-        "relatedTickers": [
-            "AMZN"
-        ]
-    },
-    "d5d97845-7c28-3759-8518-5a3febbcb45c": {
-        "uuid": "d5d97845-7c28-3759-8518-5a3febbcb45c",
-        "title": "The Fed Is Nimble. It May Change Tack Again in July.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d5d97845-7c28-3759-8518-5a3febbcb45c/the-fed-is-nimble.-it-may.html",
-        "providerPublishTime": 1657190520,
+    "7c9d28e8-dc3d-3e31-9ff0-e96a78cb03a6": {
+        "uuid": "7c9d28e8-dc3d-3e31-9ff0-e96a78cb03a6",
+        "title": "Amazon stock rallies toward 1st close above the 50-day moving average in 2 1/2 months",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/7c9d28e8-dc3d-3e31-9ff0-e96a78cb03a6/amazon-stock-rallies-toward.html",
+        "providerPublishTime": 1657218043,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2sO.OVeyaa9ryY6WDnqmIQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yh32CQSDSLfuAaFphMwKAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/35786f5dcf504701c58246dfc6439322",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sL4sQzYZilg6Z.BGCHNIGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yh32CQSDSLfuAaFphMwKAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/35786f5dcf504701c58246dfc6439322",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -114,31 +196,27 @@
             ]
         },
         "relatedTickers": [
-            "WMT",
-            "AMZN",
-            "NCLH",
-            "JTKWY",
-            "TKAYF",
-            "KHC"
+            "^GSPC",
+            "AMZN"
         ]
     },
-    "a85de513-ba0a-4d79-a273-2ad2ea548ad9": {
-        "uuid": "a85de513-ba0a-4d79-a273-2ad2ea548ad9",
-        "title": "Bed Bath & Beyond's new CEO bets big that the company won't go under",
+    "355f3fe9-c1c2-445d-9b57-f5d415f100bd": {
+        "uuid": "355f3fe9-c1c2-445d-9b57-f5d415f100bd",
+        "title": "Tesla, Amazon, and Apple led short bets in June \u2014 but short interest declined overall",
         "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/new-bed-bath-beyond-ceo-bets-big-100232584.html",
-        "providerPublishTime": 1657188152,
+        "link": "https://finance.yahoo.com/news/tesla-amazon-and-apple-led-short-bets-in-june-but-short-interest-is-declining-174719049.html",
+        "providerPublishTime": 1657216039,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IQHKjAgskuH5cthbJTjGNg--~B/aD0yMjA5O3c9MzIwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/13020f50-fddb-11ec-b54f-cbefc8d3cebf",
-                    "width": 3200,
-                    "height": 2209,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/arou9qBbVjS90rv.aD0Lnw--~B/aD0zNjUzO3c9NTc3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/fe1daba0-fbc1-11ec-bff7-65fc905bd3ba",
+                    "width": 5775,
+                    "height": 3653,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pgnzQkNmmO4RryOyj4KbMw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/13020f50-fddb-11ec-b54f-cbefc8d3cebf",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fYc8xYcvFUJ2jD0RtlsGgA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/fe1daba0-fbc1-11ec-bff7-65fc905bd3ba",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -146,86 +224,10 @@
             ]
         },
         "relatedTickers": [
-            "TGT",
-            "GME",
-            "AMZN",
-            "KSS",
-            "BBBY",
-            "WMT"
-        ]
-    },
-    "29e1b5f3-4752-33d3-96f9-87cd36876bb8": {
-        "uuid": "29e1b5f3-4752-33d3-96f9-87cd36876bb8",
-        "title": "Aging politicians 'don't understand technology': Andrew Yang",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/aging-politicians-dont-understand-technology-100000826.html",
-        "providerPublishTime": 1657188000,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MRJ7pjI7TFs09T3uszNoMg--~B/aD0yNzAyO3c9NDgwMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
-                    "width": 4803,
-                    "height": 2702,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6fcwcahIUWS4C0p14XGUKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "IBM",
-            "TWTR",
             "AAPL",
-            "SNA",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "META",
-            "AMZN"
-        ]
-    },
-    "17917743-3bbb-39b2-b282-a4ce65bb1ab9": {
-        "uuid": "17917743-3bbb-39b2-b282-a4ce65bb1ab9",
-        "title": "Influencers with Andy Serwer: Andrew Yang",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/influencers-andy-serwer-andrew-yang-100000203.html",
-        "providerPublishTime": 1657188000,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Tdg6b0EfXFzXAk6WNd8CKg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f00c5c0-fd7b-11ec-af6f-8d2d68557093",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4avk6sD2_K75RueSGm6VCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f00c5c0-fd7b-11ec-af6f-8d2d68557093",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "^IXIC",
             "TSLA",
-            "AAPL",
-            "AMZN",
-            "XLE",
-            "ORCL",
-            "XOM",
-            "CVX",
-            "META",
-            "SNAP",
-            "TWTR",
-            "GOOG",
-            "GOOGL"
+            "AMZN"
         ]
     }
 }

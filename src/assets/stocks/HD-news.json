@@ -1,4 +1,74 @@
 {
+    "31e4f531-af4b-3623-9fe8-86e8b6ac3d74": {
+        "uuid": "31e4f531-af4b-3623-9fe8-86e8b6ac3d74",
+        "title": "Got $500? 3 Cheap Stocks to Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/31e4f531-af4b-3623-9fe8-86e8b6ac3d74/got-%24500%3F-3-cheap-stocks-to.html",
+        "providerPublishTime": 1657209510,
+        "type": "STORY",
+        "relatedTickers": [
+            "RVLV",
+            "WSM",
+            "HD"
+        ]
+    },
+    "e21e9a17-187c-30f0-ba86-727c65d7ff22": {
+        "uuid": "e21e9a17-187c-30f0-ba86-727c65d7ff22",
+        "title": "Why Home Depot, Target, and Walgreens Stocks Have Trailed the Market This Year",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e21e9a17-187c-30f0-ba86-727c65d7ff22/why-home-depot%2C-target%2C-and.html",
+        "providerPublishTime": 1657205374,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/c2njLFewTLVumwzhPiEyFw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pKX2pX5VtqFJw4fGVX11Jw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/36151ee6bcfc514a8460fc70be08d85b",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_y7Bfs1DrAw1sljwy5SWHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pKX2pX5VtqFJw4fGVX11Jw--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/36151ee6bcfc514a8460fc70be08d85b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "HD",
+            "SPGI",
+            "WBA"
+        ]
+    },
+    "4d945a24-d9af-3cdd-a499-c0b6d7a29ccc": {
+        "uuid": "4d945a24-d9af-3cdd-a499-c0b6d7a29ccc",
+        "title": "Investors Heavily Search The Home Depot, Inc. (HD): Here is What You Need to Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/investors-heavily-search-home-depot-130001177.html",
+        "providerPublishTime": 1657198801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UxwOzvHDNBTF_fS7HMDV3w--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9tpS8u8rAmiEoUItmUZeOA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/090f58c1efbe3555b861102525e50b39",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Pxzh3AGGzUkhMRlhJidIqQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9tpS8u8rAmiEoUItmUZeOA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/090f58c1efbe3555b861102525e50b39",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HD"
+        ]
+    },
     "ec4993d8-12cd-351c-b6dc-471f5d5e9648": {
         "uuid": "ec4993d8-12cd-351c-b6dc-471f5d5e9648",
         "title": "Why Lowe's Stock Is Down 32% So Far in 2022",
@@ -104,99 +174,6 @@
             "HD",
             "NKE",
             "SBUX"
-        ]
-    },
-    "eec96314-b6d9-3b3e-84c5-9e9035176191": {
-        "uuid": "eec96314-b6d9-3b3e-84c5-9e9035176191",
-        "title": "Fourth of July deals: Where to save on patio furniture, appliances, and mattresses",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/fourth-july-deals-where-save-204401026.html",
-        "providerPublishTime": 1656708241,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.DMAPdNN9qKqVEuv2Cao8g--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/8658e110-f97e-11ec-b8ae-10028f22c090",
-                    "width": 2654,
-                    "height": 1490,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fL2RgF09nG9YHTFCUGlS9Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/8658e110-f97e-11ec-b8ae-10028f22c090",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LULU",
-            "WMT",
-            "W",
-            "HD",
-            "OSK",
-            "AMZN"
-        ]
-    },
-    "00f6bada-6115-396d-876d-777502ca9665": {
-        "uuid": "00f6bada-6115-396d-876d-777502ca9665",
-        "title": "3 Stocks That Turned $1,000 Into Half a Million Dollars",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/00f6bada-6115-396d-876d-777502ca9665/3-stocks-that-turned-%241%2C000.html",
-        "providerPublishTime": 1656596100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9biSmIobFAjSrQvP35DLHg--~B/aD03OTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RgqKbzZE9WfnWDgsvYy_uQ--~B/aD03OTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d76783a5d734249c3a5c0cdffdcdf34c",
-                    "width": 1400,
-                    "height": 797,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WjUjW7nn7y9M75IuHXPcBw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RgqKbzZE9WfnWDgsvYy_uQ--~B/aD03OTc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d76783a5d734249c3a5c0cdffdcdf34c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "AMZN",
-            "HD"
-        ]
-    },
-    "371717b4-cb4a-3ffa-82a9-a85f42ea5eda": {
-        "uuid": "371717b4-cb4a-3ffa-82a9-a85f42ea5eda",
-        "title": "The Zacks Analyst Blog Highlights Meta Platforms, Eli Lilly, The Home Depot, The Boeing Company, Vale",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-meta-103510547.html",
-        "providerPublishTime": 1656585310,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XC4UAwjLELT3vGoUINhHww--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qi8AmKRuXk4zL7mGsiR5yg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/60c096e1e24bb285c41a58d325d8d707",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.S6yPTWOQjFq2jWt8vMfiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qi8AmKRuXk4zL7mGsiR5yg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/60c096e1e24bb285c41a58d325d8d707",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "LLY",
-            "HD",
-            "^GSPC",
-            "BA",
-            "VALE"
         ]
     }
 }

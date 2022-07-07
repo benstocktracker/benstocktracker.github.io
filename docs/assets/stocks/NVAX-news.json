@@ -1,4 +1,44 @@
 {
+    "ec2a992b-778e-3843-a3d4-50d8ed98b0be": {
+        "uuid": "ec2a992b-778e-3843-a3d4-50d8ed98b0be",
+        "title": "Why Novavax Stock Is Skyrocketing This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ec2a992b-778e-3843-a3d4-50d8ed98b0be/why-novavax-stock-is.html",
+        "providerPublishTime": 1657226280,
+        "type": "STORY",
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "dada3fc0-0a3b-3b85-9198-87b68e96a285": {
+        "uuid": "dada3fc0-0a3b-3b85-9198-87b68e96a285",
+        "title": "Novavax (NVAX) Stock Rallies 26.8% in a Month: Here's Why",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-rallies-26-160304184.html",
+        "providerPublishTime": 1657209784,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "BNTX",
+            "PFE"
+        ]
+    },
     "107b7954-58b2-3593-9043-7ff0247d641c": {
         "uuid": "107b7954-58b2-3593-9043-7ff0247d641c",
         "title": "3 Top Healthcare Stocks to Buy for July",
@@ -141,51 +181,6 @@
             "MRNA",
             "PFE",
             "NVAX"
-        ]
-    },
-    "a3bdc74a-b4d2-37c2-873a-1b7103bb52dc": {
-        "uuid": "a3bdc74a-b4d2-37c2-873a-1b7103bb52dc",
-        "title": "This May Be Pfizer's Key to Long-Term Vaccine Dominance",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a3bdc74a-b4d2-37c2-873a-1b7103bb52dc/this-may-be-pfizer%27s-key-to.html",
-        "providerPublishTime": 1657101600,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE",
-            "MRNA",
-            "NVAX",
-            "BNTX"
-        ]
-    },
-    "8d115ad4-7237-31c7-8b17-a5f4e063fb73": {
-        "uuid": "8d115ad4-7237-31c7-8b17-a5f4e063fb73",
-        "title": "COVID hospitalizations dip for first time since mid-April, but daily deaths reach 2 1/2-month high",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/8d115ad4-7237-31c7-8b17-a5f4e063fb73/covid-hospitalizations-dip.html",
-        "providerPublishTime": 1657039140,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eZKAQAZbCchLYhaS.yuV6g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TVT_KxmszYDbcBmD038pfw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/fcc3e2724b265aada9a062bfd74cb538",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nb5rD78KJWI8mpfZw9wFnA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TVT_KxmszYDbcBmD038pfw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/fcc3e2724b265aada9a062bfd74cb538",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BNTX",
-            "MRNA",
-            "NVAX",
-            "CVAC",
-            "JNJ"
         ]
     }
 }

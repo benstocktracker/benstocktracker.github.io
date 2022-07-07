@@ -1,76 +1,90 @@
 {
-    "fcaddc8c-eb02-399a-b57e-f024c60f18a6": {
-        "uuid": "fcaddc8c-eb02-399a-b57e-f024c60f18a6",
-        "title": "5 Important Developments From Last Week That Could Push Disney Stock Higher",
+    "ec98ec6c-8f36-3464-99d5-9cf11465210b": {
+        "uuid": "ec98ec6c-8f36-3464-99d5-9cf11465210b",
+        "title": "Disney\u2019s \u2018Thor: Love and Thunder\u2019 hits theaters on Thursday",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/disney-thor-love-thunder-hits-210536147.html",
+        "providerPublishTime": 1657227936,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZpEdNP8fOLa0m8.P5aqAjA--~B/aD0yODA5O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8895dff0-fe38-11ec-a2fa-69724bf04b6d",
+                    "width": 5000,
+                    "height": 2809,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TZ5c5tcUD18ZXc_u49WBEw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8895dff0-fe38-11ec-a2fa-69724bf04b6d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "af3fe451-674b-37ed-be17-f6fbbc3aaa16": {
+        "uuid": "af3fe451-674b-37ed-be17-f6fbbc3aaa16",
+        "title": "A Beloved Disney Film May Soon Have a Sequel",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/af3fe451-674b-37ed-be17-f6fbbc3aaa16/a-beloved-disney-film-may.html",
+        "providerPublishTime": 1657227780,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XS7qJ38_hneHlXZlGEuY8g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TdnR03IzSpV5Y5OF9DLsew--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/5e29f3556ed610d5014ce8b21c53a023",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T_BgeQLdK8ztcYkky_ctcQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TdnR03IzSpV5Y5OF9DLsew--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/5e29f3556ed610d5014ce8b21c53a023",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "6ebde298-f5df-316e-b683-133b9fa746d0": {
+        "uuid": "6ebde298-f5df-316e-b683-133b9fa746d0",
+        "title": "Inflation: This Time It's Different?",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/fcaddc8c-eb02-399a-b57e-f024c60f18a6/5-important-developments-from.html",
-        "providerPublishTime": 1657195680,
+        "link": "https://finance.yahoo.com/m/6ebde298-f5df-316e-b683-133b9fa746d0/inflation%3A-this-time-it%27s.html",
+        "providerPublishTime": 1657227480,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SUp2Q4seDy.d0iwpt1FJew--~B/aD0xMDUwO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/6mh2EpiRRO_wv_oQZnvY5A--~B/aD0xMDUwO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/8d337fc52e38c4062f944e9fb09473a4",
-                    "width": 1400,
-                    "height": 1050,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XuFi7gOssTj.r7OLJDyxBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6mh2EpiRRO_wv_oQZnvY5A--~B/aD0xMDUwO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/8d337fc52e38c4062f944e9fb09473a4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "fac65f15-70e4-3cd7-afe0-e3fa0fd3ac50": {
-        "uuid": "fac65f15-70e4-3cd7-afe0-e3fa0fd3ac50",
-        "title": "Disney's Menu Adds a Unique Summer Answer to Taco Bell, Chipotle",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/fac65f15-70e4-3cd7-afe0-e3fa0fd3ac50/disney%27s-menu-adds-a-unique.html",
-        "providerPublishTime": 1657149540,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jhFI7AA7HzrCQ.ilLCZIbw--~B/aD02NDg7dz05NzI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/owRcQiH0fwupEjf.ZYgZsw--~B/aD02NDg7dz05NzI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/0b58f7a2137d1f282009781ee74b2d56",
-                    "width": 972,
-                    "height": 648,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7IQJekuH17TShFHKgC3xYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/owRcQiH0fwupEjf.ZYgZsw--~B/aD02NDg7dz05NzI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/0b58f7a2137d1f282009781ee74b2d56",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "SHOP",
             "DIS",
-            "CMG"
+            "AAPL",
+            "AMZN",
+            "GOOGL"
         ]
     },
-    "558b0f06-1a0c-39d2-bb8e-537c7d5c4e4a": {
-        "uuid": "558b0f06-1a0c-39d2-bb8e-537c7d5c4e4a",
-        "title": "Disney World Shares Exciting Info About Its New(Ish) Ride",
+    "906775a4-fa0e-3716-a462-4c338aa93001": {
+        "uuid": "906775a4-fa0e-3716-a462-4c338aa93001",
+        "title": "Zombies Take Over Disney World, Disneyland",
         "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/558b0f06-1a0c-39d2-bb8e-537c7d5c4e4a/disney-world-shares-exciting.html",
-        "providerPublishTime": 1657149420,
+        "link": "https://finance.yahoo.com/m/906775a4-fa0e-3716-a462-4c338aa93001/zombies-take-over-disney.html",
+        "providerPublishTime": 1657223220,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dx83jznCP4mlJOZO08hpaw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/25BpP5sdu9ul5FMGnIP.aA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/6c7a5031c0a923c948a97740138a4d82",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HDQXCJOAPw5s7GycuXs2cw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/3bwq0yvVzy6Ow3IfWpVhzQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/d30ec4e696228d884b1bc269c5e7e705",
                     "width": 1920,
                     "height": 1080,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qlVsUNx66F.t7xK6AH9JfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/25BpP5sdu9ul5FMGnIP.aA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/6c7a5031c0a923c948a97740138a4d82",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.stvuiJZM8w1.cbwslIbyQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3bwq0yvVzy6Ow3IfWpVhzQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/d30ec4e696228d884b1bc269c5e7e705",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -81,23 +95,23 @@
             "DIS"
         ]
     },
-    "99e0e495-5b9f-32f4-a904-7389bd9b912c": {
-        "uuid": "99e0e495-5b9f-32f4-a904-7389bd9b912c",
-        "title": "Disney Ends a Popular Show (but You May Be Happy About the Reason)",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/99e0e495-5b9f-32f4-a904-7389bd9b912c/disney-ends-a-popular-show.html",
-        "providerPublishTime": 1657149300,
+    "3365682e-6fc9-3c1b-b61a-956578d0e943": {
+        "uuid": "3365682e-6fc9-3c1b-b61a-956578d0e943",
+        "title": "Disney says Disneyland's Facebook, Instagram accounts hacked",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/disney-says-disneylands-facebook-instagram-175954365.html",
+        "providerPublishTime": 1657216794,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_hs0cT_MEUympIlZIzKqhw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/TJJ8zHL_qdiajzyaa9eeQw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/9028c41e578f9c60d5e053f3270c53ef",
-                    "width": 1920,
-                    "height": 1080,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XD8kPxgvuzU3.QQJTpGXqQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HkE9.Hx2P6EBgCGo4nDqJQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0c3e2f948c25cad5c078deb7ef5a1c59",
+                    "width": 800,
+                    "height": 534,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p1cctXnkHcqNB7RyW20rBw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TJJ8zHL_qdiajzyaa9eeQw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/9028c41e578f9c60d5e053f3270c53ef",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9VGB1ejKo63Y7w.xtKLeIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HkE9.Hx2P6EBgCGo4nDqJQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0c3e2f948c25cad5c078deb7ef5a1c59",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -105,26 +119,27 @@
             ]
         },
         "relatedTickers": [
+            "META",
             "DIS"
         ]
     },
-    "b8c63131-e621-362a-bb8f-733d0e85deed": {
-        "uuid": "b8c63131-e621-362a-bb8f-733d0e85deed",
-        "title": "Here's what we know so far on Disney World's Splash Mountain refurbishment",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/b8c63131-e621-362a-bb8f-733d0e85deed/here%27s-what-we-know-so-far-on.html",
-        "providerPublishTime": 1657140171,
+    "8c96d08f-84b9-3abc-8ead-8dd7f5cb8dc2": {
+        "uuid": "8c96d08f-84b9-3abc-8ead-8dd7f5cb8dc2",
+        "title": "Disneyland\u2019s Instagram Account Hacked With a Series of Profane, Racist Posts",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/8c96d08f-84b9-3abc-8ead-8dd7f5cb8dc2/disneyland%E2%80%99s-instagram.html",
+        "providerPublishTime": 1657215240,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DjxcgbOVbK6IGZSHtt44ig--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EBl6vJ_IIJelb_qZ8iLHJg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/4caaab0e7aca7174ea354856e98286cb",
-                    "width": 1440,
-                    "height": 962,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/noi2rhPkyR_HZm81gd6GCA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/elSrZS3vAGwod7CivjIcpg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3c78ecdb7e1788f3a4fbea88aef72532",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sKdrm2KDmojMMXtkCZ1Sgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EBl6vJ_IIJelb_qZ8iLHJg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/4caaab0e7aca7174ea354856e98286cb",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sehLsuv5rMDq9k7iJeso7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/elSrZS3vAGwod7CivjIcpg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3c78ecdb7e1788f3a4fbea88aef72532",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -132,26 +147,27 @@
             ]
         },
         "relatedTickers": [
+            "META",
             "DIS"
         ]
     },
-    "a1e2a717-ad3c-3af8-8345-b88dce8f496f": {
-        "uuid": "a1e2a717-ad3c-3af8-8345-b88dce8f496f",
-        "title": "Could Netflix Find A Merger Partner At Sun Valley Conference?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a1e2a717-ad3c-3af8-8345-b88dce8f496f/could-netflix-find-a-merger.html",
-        "providerPublishTime": 1657137723,
+    "13aabb30-0bec-3d0d-a99d-5d923cb1c46a": {
+        "uuid": "13aabb30-0bec-3d0d-a99d-5d923cb1c46a",
+        "title": "NASCAR closer to adding Chicago street race as it competes with Formula 1 for fans",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/13aabb30-0bec-3d0d-a99d-5d923cb1c46a/nascar-closer-to-adding.html",
+        "providerPublishTime": 1657210680,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/admcbaYGoFwFq896Ojy01w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/paUQ6VwK0LmMCO3_Ocb2lA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/18feab53c41d81266bdba50bc902bd01",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xYyUFVOf2i1vwIZXxv1WmA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XD1qyOj7reTA3804V7KuVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f4b75ebb01a49b19b1399db575b47d97",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vx.nGIrkeZqtPrhHthL1mw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/paUQ6VwK0LmMCO3_Ocb2lA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/18feab53c41d81266bdba50bc902bd01",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uSIXyozdY5dI8xuXFdQMig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XD1qyOj7reTA3804V7KuVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f4b75ebb01a49b19b1399db575b47d97",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -160,27 +176,29 @@
         },
         "relatedTickers": [
             "NFLX",
-            "CMCSA",
+            "FWONA",
+            "FWONB",
+            "FWONK",
             "DIS"
         ]
     },
-    "92da9d79-ad08-3967-9575-868bf23a223c": {
-        "uuid": "92da9d79-ad08-3967-9575-868bf23a223c",
-        "title": "Needham Sees Magnite As Primary Beneficiary Of Netflix, Disney+ Adding Ad-Driven Streaming Tiers",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/needham-sees-magnite-primary-beneficiary-185330521.html",
-        "providerPublishTime": 1657133610,
+    "21c3fb4e-ae71-3b29-aa27-be0fda13003f": {
+        "uuid": "21c3fb4e-ae71-3b29-aa27-be0fda13003f",
+        "title": "Disney (DIS) and 9 Other Stocks Billionaire Phill Gross Was Buying Up in Q1",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/disney-dis-9-other-stocks-161503678.html",
+        "providerPublishTime": 1657210503,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WDHPDKV8JbacVQk4sRMN8Q--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BV6wU7R0wItcSEzwAQSDHg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/eb99f24bf09280304edea85eb6c16b21",
-                    "width": 600,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nDCHURJLaqJzNJ1jb8kaSA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T1ZJzBQAJ5_229N1dL_wSg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3872b7c888af1e7463b79d39ab011a89",
+                    "width": 450,
+                    "height": 600,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ePAK4yEA.6dbk4BjRz2l0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BV6wU7R0wItcSEzwAQSDHg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/eb99f24bf09280304edea85eb6c16b21",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pwydIQhStapIpXjLRy3l3Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/T1ZJzBQAJ5_229N1dL_wSg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3872b7c888af1e7463b79d39ab011a89",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -188,41 +206,15 @@
             ]
         },
         "relatedTickers": [
-            "MGNI",
             "DIS",
-            "NFLX"
-        ]
-    },
-    "14e75df3-e7e6-3e8c-a43b-e61d56be9e97": {
-        "uuid": "14e75df3-e7e6-3e8c-a43b-e61d56be9e97",
-        "title": "Texas Economy Defies Abortion Politics With Business Rewards",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/texas-business-allure-defies-abortion-100000890.html",
-        "providerPublishTime": 1657132473,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iV9JK_mTufG8F1XpL72w0A--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Po0iSlrlWrCZVZ38rQzCjA--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/66163c1b07b7e5b21745edf56e094ed3",
-                    "width": 1296,
-                    "height": 796,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HOSulaNQzCepEJ8MHxrKXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Po0iSlrlWrCZVZ38rQzCjA--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/66163c1b07b7e5b21745edf56e094ed3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "ORCL",
-            "MCO",
-            "TSLA",
-            "DIS",
-            "JPM"
+            "AMD",
+            "ATVI",
+            "LRCX",
+            "CB",
+            "MSFT",
+            "VZ",
+            "VRTX",
+            "DLTR"
         ]
     }
 }

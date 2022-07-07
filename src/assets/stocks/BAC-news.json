@@ -1,4 +1,60 @@
 {
+    "72643f5f-1483-36d2-b2fe-1ebd6a314103": {
+        "uuid": "72643f5f-1483-36d2-b2fe-1ebd6a314103",
+        "title": "Retirement planning expert on the down market: \u2018Lower prices are your friend\u2019",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/retirement-planning-expert-down-market-160213732.html",
+        "providerPublishTime": 1657209733,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TSPciPDCnDf4s0elqnE17w--~B/aD0yNjg7dz00NzY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ffdce7a0-fe0d-11ec-9dff-f1e1c6087ee8",
+                    "width": 476,
+                    "height": 268,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JZ8i5c3nMN9xXv4AZWxg7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ffdce7a0-fe0d-11ec-9dff-f1e1c6087ee8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VTHRX",
+            "SCHW",
+            "SCHW-PD",
+            "SCHW-PJ",
+            "^GSPC",
+            "VHYAX",
+            "VYM",
+            "VTINX",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "VTTHX",
+            "^VIX",
+            "VFFSX",
+            "VFIAX",
+            "VFINX",
+            "VOO",
+            "SPY",
+            "VTWNX",
+            "^DJI",
+            "^IXIC",
+            "WFC",
+            "WFC-PD",
+            "QQQ",
+            "BLK",
+            "^RUT",
+            "VFIFX",
+            "VFORX",
+            "VTTVX",
+            "C"
+        ]
+    },
     "bb2c439b-6ae8-3d4e-bb9b-d70c7573b35f": {
         "uuid": "bb2c439b-6ae8-3d4e-bb9b-d70c7573b35f",
         "title": "Bank of America sees resiliency in consumer spending in face of rising inflation",
@@ -253,41 +309,6 @@
             "BAC",
             "BAC-PQ",
             "BAC-PS"
-        ]
-    },
-    "15d22ddf-6206-3c07-af6a-692724b56810": {
-        "uuid": "15d22ddf-6206-3c07-af6a-692724b56810",
-        "title": "Wall Street profit expectations for megabanks cooled slightly ahead of earnings despite deep freeze in stocks",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/15d22ddf-6206-3c07-af6a-692724b56810/wall-street-profit.html",
-        "providerPublishTime": 1657117560,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uxOs00UvwvJTsUkBRzLXzw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kHwwqq9N1uEGti.HFw4iog--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0dd119bbb4b8461fd047e121afaf41e3",
-                    "width": 1279,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WJq0nvadorPPeJZaEzxUfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kHwwqq9N1uEGti.HFw4iog--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0dd119bbb4b8461fd047e121afaf41e3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "C",
-            "MS",
-            "MS-PO",
-            "GS",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "WFC",
-            "WFC-PD"
         ]
     }
 }

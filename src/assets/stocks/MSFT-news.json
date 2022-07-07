@@ -1,84 +1,21 @@
 {
-    "61444fc7-5c3f-3490-a415-208a75396cb5": {
-        "uuid": "61444fc7-5c3f-3490-a415-208a75396cb5",
-        "title": "Dow Jones Futures Rise As Key Economic Signal Rebounds; Tesla Rivals In Buy Zones",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/61444fc7-5c3f-3490-a415-208a75396cb5/dow-jones-futures-rise-as-key.html",
-        "providerPublishTime": 1657196583,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ohq71CoV0y0IB07KSSKhIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E3bZz6JkZegShfPcuwD_AQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^DJI",
-            "COMP",
-            "^GSPC",
-            "TSLA",
-            "^RUT",
-            "LI",
-            "MSFT",
-            "GOOGL",
-            "GME",
-            "AMZN"
-        ]
-    },
-    "e5c8dbdc-066b-3c20-a51b-45f960b292f3": {
-        "uuid": "e5c8dbdc-066b-3c20-a51b-45f960b292f3",
-        "title": "Microsoft Takes a Big Hit",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/e5c8dbdc-066b-3c20-a51b-45f960b292f3/microsoft-takes-a-big-hit.html",
-        "providerPublishTime": 1657192680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Tm8qhxnC7eFsqZbxAGVmAg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JaQEWSHiV8uN6Sn3GOkAdw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3b2359b0ef4bc70771d82b6538d62383",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HCAq7osuY.I_BzY5cPg4PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JaQEWSHiV8uN6Sn3GOkAdw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3b2359b0ef4bc70771d82b6538d62383",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "29e1b5f3-4752-33d3-96f9-87cd36876bb8": {
-        "uuid": "29e1b5f3-4752-33d3-96f9-87cd36876bb8",
-        "title": "Aging politicians 'don't understand technology': Andrew Yang",
+    "e5733fdc-ad41-31c7-b663-95c65ca7dda9": {
+        "uuid": "e5733fdc-ad41-31c7-b663-95c65ca7dda9",
+        "title": "Video game developers are \u2018migrating\u2019 towards \u2018ongoing live services\u2019: Analyst",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/aging-politicians-dont-understand-technology-100000826.html",
-        "providerPublishTime": 1657188000,
+        "link": "https://finance.yahoo.com/video/video-game-developers-migrating-towards-200428789.html",
+        "providerPublishTime": 1657224268,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MRJ7pjI7TFs09T3uszNoMg--~B/aD0yNzAyO3c9NDgwMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
-                    "width": 4803,
-                    "height": 2702,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OjP8Lw5GF_spaE7bQHyIjw--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0018bfb0-fe30-11ec-befd-6991a9f8e395",
+                    "width": 2673,
+                    "height": 1501,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6fcwcahIUWS4C0p14XGUKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/40933110-fd72-11ec-beff-edfb2405c787",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RKeNeRNgInV8yOwxAvLpXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0018bfb0-fe30-11ec-befd-6991a9f8e395",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -86,35 +23,94 @@
             ]
         },
         "relatedTickers": [
-            "NFLX",
-            "IBM",
-            "TWTR",
-            "AAPL",
-            "SNA",
+            "GME",
             "GOOG",
             "GOOGL",
             "MSFT",
-            "META",
-            "AMZN"
+            "TTWO",
+            "AMZN",
+            "EA",
+            "NFLX",
+            "ATVI",
+            "AAPL",
+            "TCEHY",
+            "TCTZF"
         ]
     },
-    "77a4a5ce-2761-34e1-a08d-56dc17e7df08": {
-        "uuid": "77a4a5ce-2761-34e1-a08d-56dc17e7df08",
-        "title": "China Is Trying to \u2018Ransack\u2019 Western Companies, FBI Head Warns",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/china-trying-ransack-western-companies-032348989.html",
-        "providerPublishTime": 1657164228,
+    "9111c307-ae7f-3937-a680-f9a9dee94d4e": {
+        "uuid": "9111c307-ae7f-3937-a680-f9a9dee94d4e",
+        "title": "Alphabet (GOOGL) Boosts Google Photos With Pop-Up UI Update",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/alphabet-googl-boosts-google-photos-185006298.html",
+        "providerPublishTime": 1657219806,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kexU0lvYBxPmfo4s19fXfA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/10kEo4J2XqWBbJXetZhF6Q--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/edcf111aa54a6c6b413411c32135bdc1",
-                    "width": 2000,
-                    "height": 1334,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O_4lSEDuDgAtKQdy7ItB4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WLzwYopYnMAxLJvJlf1gZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/10kEo4J2XqWBbJXetZhF6Q--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/edcf111aa54a6c6b413411c32135bdc1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w1okjv1S8SlieeDPM2vyNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rfGmDr5rdgOAA0J0dy3kpg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/76132323c88812a1d58faada145d6911",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GOOGL",
+            "MSFT",
+            "AAPL"
+        ]
+    },
+    "bfcd7ef6-1bdb-3a69-bd97-8d810c88c8e7": {
+        "uuid": "bfcd7ef6-1bdb-3a69-bd97-8d810c88c8e7",
+        "title": "Fidelity: A Ray Dalio Fintech Pick",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/news/fidelity-ray-dalio-fintech-pick-180259707.html",
+        "providerPublishTime": 1657216979,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6t2qoBshH3DyovqxWJO2ag--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ROWCgh3DMoocRWTxkSsZYg--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/cdc8ac673b38c998327e9768b48f6fb5",
+                    "width": 550,
+                    "height": 366,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/64aCjt_A0AabTQGSHN3zYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ROWCgh3DMoocRWTxkSsZYg--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/cdc8ac673b38c998327e9768b48f6fb5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "FIS"
+        ]
+    },
+    "b18335af-a5c0-3442-b7f9-43077848e551": {
+        "uuid": "b18335af-a5c0-3442-b7f9-43077848e551",
+        "title": "Microsoft Estimates Face PC Weakness and Currency Headwinds, Says Analyst",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/b18335af-a5c0-3442-b7f9-43077848e551/microsoft-estimates-face-pc.html",
+        "providerPublishTime": 1657211760,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nedm_z1QALGo2VGEoYzpjw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mASCTd547Rtar4XcFAU4gQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/26958c8ff87d8120a2951e260594fff5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yMTmNdCv7K8Pm8toMKtirg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mASCTd547Rtar4XcFAU4gQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/26958c8ff87d8120a2951e260594fff5",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -125,23 +121,23 @@
             "MSFT"
         ]
     },
-    "1ca406cf-56e1-39cd-bfd1-8285f3ebc800": {
-        "uuid": "1ca406cf-56e1-39cd-bfd1-8285f3ebc800",
-        "title": "Microsoft Supports Abortion Access But Is Silent on Data Privacy",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/1ca406cf-56e1-39cd-bfd1-8285f3ebc800/microsoft-supports-abortion.html",
-        "providerPublishTime": 1657146240,
+    "21c3fb4e-ae71-3b29-aa27-be0fda13003f": {
+        "uuid": "21c3fb4e-ae71-3b29-aa27-be0fda13003f",
+        "title": "Disney (DIS) and 9 Other Stocks Billionaire Phill Gross Was Buying Up in Q1",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/disney-dis-9-other-stocks-161503678.html",
+        "providerPublishTime": 1657210503,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cGTDMdviYF1qRmfRoHEuoQ--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ze4taZGJPtlad3UzgahC3A--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/ca0d814b7542baa3d67e446a856542dc",
-                    "width": 750,
-                    "height": 470,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nDCHURJLaqJzNJ1jb8kaSA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T1ZJzBQAJ5_229N1dL_wSg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3872b7c888af1e7463b79d39ab011a89",
+                    "width": 450,
+                    "height": 600,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2RIqrbzN4aeeKq4NnfBRQg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ze4taZGJPtlad3UzgahC3A--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/ca0d814b7542baa3d67e446a856542dc",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pwydIQhStapIpXjLRy3l3Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/T1ZJzBQAJ5_229N1dL_wSg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3872b7c888af1e7463b79d39ab011a89",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -149,27 +145,34 @@
             ]
         },
         "relatedTickers": [
+            "DIS",
+            "AMD",
+            "ATVI",
+            "LRCX",
+            "CB",
             "MSFT",
-            "GOOGL"
+            "VZ",
+            "VRTX",
+            "DLTR"
         ]
     },
-    "f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878": {
-        "uuid": "f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878",
-        "title": "Stock Market Closes Higher On Fed Minutes; Microsoft And Cisco Lead Tech Stocks Higher",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/f03e5e7e-ed6b-3dfd-b06b-60bdf71b0878/stock-market-closes-higher-on.html",
-        "providerPublishTime": 1657140586,
-        "type": "STORY",
+    "2e926f00-2e42-32a3-9a1e-759bcaf4267a": {
+        "uuid": "2e926f00-2e42-32a3-9a1e-759bcaf4267a",
+        "title": "America\u2019s Frontier Fund to \u2018start a brand new renaissance\u2019 in tech, CEO says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/america-frontier-fund-start-brand-155606401.html",
+        "providerPublishTime": 1657209366,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmgPQEa9ldIzYYhJZ6sYLQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.bZtsgnchEamZO3REAT9sQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Rw40QQBZVwDx11t6NvDQww--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4aec68c0-fe0d-11ec-aa5e-d8b92078e5f9",
+                    "width": 2792,
+                    "height": 1567,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/l0_iYhiYqz8hPXqRUYT.fQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.bZtsgnchEamZO3REAT9sQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6D5FiwdiKbGg7am27RjJUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4aec68c0-fe0d-11ec-aa5e-d8b92078e5f9",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -177,31 +180,72 @@
             ]
         },
         "relatedTickers": [
+            "SSNLF",
+            "GOOG",
+            "GOOGL",
+            "AMD",
+            "AMZN",
+            "TXN",
+            "META",
             "MSFT",
-            "^RUT",
-            "^GSPC",
-            "^DJI",
-            "UNH",
-            "AAPL"
+            "PLTR",
+            "INTC",
+            "TSM",
+            "NVDA"
         ]
     },
-    "d8fe16de-dd8b-357a-bd18-4f46639010b6": {
-        "uuid": "d8fe16de-dd8b-357a-bd18-4f46639010b6",
-        "title": "Is Microsoft Stock A Buy Before Software Giant's June-Quarter Report?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/d8fe16de-dd8b-357a-bd18-4f46639010b6/is-microsoft-stock-a-buy.html",
-        "providerPublishTime": 1657140350,
+    "d34e8a24-1be7-35c4-b272-d0d51f4fc9de": {
+        "uuid": "d34e8a24-1be7-35c4-b272-d0d51f4fc9de",
+        "title": "Brazilian Billionaire Jorge Paulo Lemann Loves These 5 Tech Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/brazilian-billionaire-jorge-paulo-lemann-155337723.html",
+        "providerPublishTime": 1657209217,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VdKep61TG6X11YO8hE4g5w--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yoO0rK1D6RPP90Ynrf8QvQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8469f11073b63c8ab319b817ba819a50",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZbZ1Z1xizjTNn5LbLWInVg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/X0vIa4vnShd6kpkcFTMYbg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3099209fe666bcc8a0ca09170c49d5a0",
+                    "width": 450,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rogYwiWq84b0IF10Zx5aRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/X0vIa4vnShd6kpkcFTMYbg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3099209fe666bcc8a0ca09170c49d5a0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNOW",
+            "MSFT",
+            "AMZN",
+            "TASK",
+            "SE",
+            "BILL",
+            "BUD",
+            "ZI",
+            "DASH"
+        ]
+    },
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Stocks Shift To Energy Plays; Popular Pick GameStop Pops",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stocks.html",
+        "providerPublishTime": 1657208007,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AJ3DqpFGpltKFmjcOMsyvw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wQp9eByMDh9doNS00KB6tQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/95d4220d1c88b1d1908119d90da57129",
                     "width": 945,
                     "height": 533,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rqhqiQZFkjrBFSesnK6b1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yoO0rK1D6RPP90Ynrf8QvQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8469f11073b63c8ab319b817ba819a50",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6gA7dH3FS2ufkgcNNKvKTg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wQp9eByMDh9doNS00KB6tQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/95d4220d1c88b1d1908119d90da57129",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -209,46 +253,12 @@
             ]
         },
         "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "4444bba7-96f9-3e61-96e9-ab3c21001b48": {
-        "uuid": "4444bba7-96f9-3e61-96e9-ab3c21001b48",
-        "title": "Stocks and U.S. dollar accelerate gains into the close, energy stocks slump",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-u-dollar-accelerate-gains-201308451.html",
-        "providerPublishTime": 1657138388,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VrH0xrO1SHVyHkZ1u4_wkA--~B/aD0xNTE4O3c9MjcwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/09f01d80-fd68-11ec-adbb-c2153e66361e",
-                    "width": 2704,
-                    "height": 1518,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lkrKYhfiQyzr6yZhFmamNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/09f01d80-fd68-11ec-adbb-c2153e66361e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "XLE",
-            "^FVX",
-            "AAPL",
-            "META",
             "TSLA",
-            "^DJI",
-            "^TYX",
-            "XLU",
-            "WTI",
+            "AMC",
+            "AAPL",
+            "AMD",
             "MSFT",
-            "^IXIC",
-            "^TNX"
+            "NVDA"
         ]
     }
 }

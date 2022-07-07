@@ -1,4 +1,37 @@
 {
+    "d2fefca3-6f55-36c8-89d1-6912831320f1": {
+        "uuid": "d2fefca3-6f55-36c8-89d1-6912831320f1",
+        "title": "Want to Hide Out in Tech? Buy IBM Stock, Morgan Stanley Says.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/d2fefca3-6f55-36c8-89d1-6912831320f1/want-to-hide-out-in-tech%3F-buy.html",
+        "providerPublishTime": 1657221240,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xABqazWd50D5_3pz6i5NDg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RfggQ2gSS8KEZsWAzan9NQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0978848b8511ede0a10cc793f6207df1",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iXnIAlqOWKJMElnO_kpfYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RfggQ2gSS8KEZsWAzan9NQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/0978848b8511ede0a10cc793f6207df1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "IBM",
+            "T",
+            "T-PA",
+            "T-PC",
+            "KD",
+            "VZ"
+        ]
+    },
     "15f2bdb1-262f-3407-9e6b-9cc0025a442b": {
         "uuid": "15f2bdb1-262f-3407-9e6b-9cc0025a442b",
         "title": "AT&T Stock: Is It A Buy Right Now? Here's What Earnings, Charts Show",
@@ -182,41 +215,6 @@
             "T-PC",
             "CVX",
             "O"
-        ]
-    },
-    "b82615b6-96d7-3838-92b2-5fe9f08b176f": {
-        "uuid": "b82615b6-96d7-3838-92b2-5fe9f08b176f",
-        "title": "Amazon, Disney, AT&T donated to abortion opponents, Tesla faces racial discrimination lawsuit",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/amazon-disney-t-donated-abortion-150142448.html",
-        "providerPublishTime": 1656687702,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/j4yv_Nwq_ZapIwl_zWpvpA--~B/aD0yNTI1O3c9NDQ4MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/5e11e880-f94e-11ec-bdfe-52c6efe665ce",
-                    "width": 4483,
-                    "height": 2525,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GPPOxxdPV_Xxdcq20Hx8TA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/5e11e880-f94e-11ec-bdfe-52c6efe665ce",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "FKINX",
-            "NVDA",
-            "DIS",
-            "MU",
-            "T",
-            "T-PA",
-            "T-PC",
-            "AMZN"
         ]
     }
 }

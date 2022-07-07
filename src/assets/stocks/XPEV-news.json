@@ -1,10 +1,10 @@
 {
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: 2 China EV Makers In Buy Zones",
+        "title": "5 Best Chinese Stocks: China Stocks Rally On Stimulus Hopes",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-2.html",
-        "providerPublishTime": 1657193214,
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-china.html",
+        "providerPublishTime": 1657227474,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -30,6 +30,111 @@
             "^HSI",
             "BABA",
             "JD"
+        ]
+    },
+    "c8f374cc-b0e2-388d-bf79-b13905dd93fb": {
+        "uuid": "c8f374cc-b0e2-388d-bf79-b13905dd93fb",
+        "title": "Market check: Energy sector leads stocks towards fourth straight day of gains",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-energy-sector-leads-191408343.html",
+        "providerPublishTime": 1657221248,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ImG8Ji2Ba6ByHof7tGCmaA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
+                    "width": 2654,
+                    "height": 1490,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Nzlv7qHfEE3XsqsD6mBifg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GME",
+            "TCEHY",
+            "TCTZF",
+            "NIO",
+            "XPEV",
+            "XPNGF",
+            "^TYX",
+            "^GSPC",
+            "XLC",
+            "^IXIC",
+            "^TNX",
+            "XLY",
+            "^FVX",
+            "^DJI",
+            "ARKK",
+            "AMC",
+            "XLE"
+        ]
+    },
+    "018d93ea-61f7-45cd-8d83-6ff1b73337b5": {
+        "uuid": "018d93ea-61f7-45cd-8d83-6ff1b73337b5",
+        "title": "GM sales in China hit by COVID lockdowns",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/gm-sales-in-china-hit-by-covid-lockdowns-171131600.html",
+        "providerPublishTime": 1657213891,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jHxI1aWO3sdNIJh5P05W_A--~B/aD0zMTA3O3c9NDY1NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
+                    "width": 4655,
+                    "height": 3107,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oTRW8Qbrz80pyqCAI7EpKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GM",
+            "LI",
+            "NIO",
+            "XPEV",
+            "XPNGF"
+        ]
+    },
+    "5637ace9-f7e9-3dcf-94d2-6456e04b25be": {
+        "uuid": "5637ace9-f7e9-3dcf-94d2-6456e04b25be",
+        "title": "Tesla Inc (TSLA) and 9 Other Consumer Discretionary Stocks That Have Wowed Billionaire Philippe Laffont",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/tesla-inc-tsla-9-other-152741841.html",
+        "providerPublishTime": 1657207661,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JWA6pPn8zkJqDkkGQSz.DQ--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
+                    "width": 489,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iPlQEYc1PzjO2al.b0LPOw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "UBER",
+            "XPEV",
+            "PTON",
+            "RIVN"
         ]
     },
     "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2": {
@@ -153,101 +258,6 @@
             "XPEV",
             "LI",
             "RIVN"
-        ]
-    },
-    "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0": {
-        "uuid": "9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0",
-        "title": "China EV Sales Boom In Q2 But Tesla Rivals BYD, Nio Stock Lag As New Headwind, Power Day Loom",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9abb7ec2-d4c5-3923-aaf7-28cce5e3c7a0/china-ev-sales-boom-in-q2-but.html",
-        "providerPublishTime": 1657053640,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bCEKMrEyaX8KL5EJZiGc6A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mfwAI2ZW41zeud1QgzUHDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dTKlnh_8wQhHUmFUwSB6VA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9203b27fe07437653fe70be1abe580cc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LI",
-            "XPEV",
-            "TSLA"
-        ]
-    },
-    "1a7b3181-0adf-464f-9aa7-f8ff7196a5ee": {
-        "uuid": "1a7b3181-0adf-464f-9aa7-f8ff7196a5ee",
-        "title": "'The elephant in the room for Tesla,' according to WedBush's Dan Ives",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/elephant-in-the-room-for-tesla-dan-ives-114140089.html",
-        "providerPublishTime": 1657021300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DiHD3.vMBMojyHelJFldig--~B/aD0yMzI5O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-01/828e97e0-3235-11ea-a7b7-b07b2f0b5bd8",
-                    "width": 3493,
-                    "height": 2329,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2e9Wew0HzWFLtb3ELajNRw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-01/828e97e0-3235-11ea-a7b7-b07b2f0b5bd8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "F",
-            "NIO",
-            "TM",
-            "TOYOF",
-            "GM",
-            "TSLA",
-            "XPEV",
-            "XPNGF",
-            "RIVN",
-            "LI"
-        ]
-    },
-    "a5047c9b-b502-3795-b906-52c9871ce437": {
-        "uuid": "a5047c9b-b502-3795-b906-52c9871ce437",
-        "title": "NIO, XPeng (XPEV), Li Auto (LI) Issue June, Q2 Delivery Updates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-xpeng-xpev-li-auto-150103712.html",
-        "providerPublishTime": 1656946863,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b2OvfyZfpZ1PeuDf6vBCTA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/WMoaiSy6ECCeqw0EaZflKg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7c45a89188e11757254e3fa1483c8911",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3sG3c6IFZdqzcAy7wLkrSQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMoaiSy6ECCeqw0EaZflKg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7c45a89188e11757254e3fa1483c8911",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "XPEV",
-            "LI",
-            "SMP"
         ]
     }
 }
