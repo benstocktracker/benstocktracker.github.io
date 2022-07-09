@@ -1,4 +1,86 @@
 {
+    "52022bd9-0bdd-3bfd-8d34-0bd166259c99": {
+        "uuid": "52022bd9-0bdd-3bfd-8d34-0bd166259c99",
+        "title": "Antitrust Case Against Big Brokers Advances",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/52022bd9-0bdd-3bfd-8d34-0bd166259c99/antitrust-case-against-big.html",
+        "providerPublishTime": 1657304820,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SiH.tQILmY9lbRVlnSDdhQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OoPLQFc4tJlGUPKMtPIAvA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8ae2d5096800a8ebdfe63ce9cd002528",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xE7VTvGs1B2Zbr5ocA7gxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OoPLQFc4tJlGUPKMtPIAvA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8ae2d5096800a8ebdfe63ce9cd002528",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "MS",
+            "MS-PO",
+            "GS",
+            "UBS",
+            "JPM"
+        ]
+    },
+    "15d22ddf-6206-3c07-af6a-692724b56810": {
+        "uuid": "15d22ddf-6206-3c07-af6a-692724b56810",
+        "title": "Wall Street profit expectations for megabanks have cooled ahead of earnings amid a deep freeze in stocks",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/15d22ddf-6206-3c07-af6a-692724b56810/wall-street-profit.html",
+        "providerPublishTime": 1657284420,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uxOs00UvwvJTsUkBRzLXzw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kHwwqq9N1uEGti.HFw4iog--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0dd119bbb4b8461fd047e121afaf41e3",
+                    "width": 1279,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WJq0nvadorPPeJZaEzxUfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kHwwqq9N1uEGti.HFw4iog--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0dd119bbb4b8461fd047e121afaf41e3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MS",
+            "MS-PO",
+            "GS",
+            "C",
+            "WFC",
+            "WFC-PD",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS"
+        ]
+    },
+    "512ff34f-d2e7-3f4d-a6b2-4b026e45ec7b": {
+        "uuid": "512ff34f-d2e7-3f4d-a6b2-4b026e45ec7b",
+        "title": "3 Dividend Stocks That Are Dirt Cheap Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/512ff34f-d2e7-3f4d-a6b2-4b026e45ec7b/3-dividend-stocks-that-are.html",
+        "providerPublishTime": 1657276020,
+        "type": "STORY",
+        "relatedTickers": [
+            "SKT",
+            "MTN",
+            "BAC"
+        ]
+    },
     "72643f5f-1483-36d2-b2fe-1ebd6a314103": {
         "uuid": "72643f5f-1483-36d2-b2fe-1ebd6a314103",
         "title": "Retirement planning expert on the down market: \u2018Lower prices are your friend\u2019",
@@ -170,145 +252,6 @@
             "COF-PK",
             "COF-PL",
             "COF-PN"
-        ]
-    },
-    "f38918b4-0177-3f5c-8295-cd4a0f051c2a": {
-        "uuid": "f38918b4-0177-3f5c-8295-cd4a0f051c2a",
-        "title": "Bank stocks are super cheap \u2014 even with the risk of recession",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/f38918b4-0177-3f5c-8295-cd4a0f051c2a/bank-stocks-are-super-cheap-%E2%80%94.html",
-        "providerPublishTime": 1657131840,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qSVkF3.1V1uD4TYlPbuL.g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qx6eBXJqYrU5kBQJTebKSw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/fe26848b09dbdb1d33ba8dd4685fa249",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bWUVUJvCOFQssr8eMqLQYA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qx6eBXJqYrU5kBQJTebKSw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/fe26848b09dbdb1d33ba8dd4685fa249",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SCHW",
-            "SCHW-PD",
-            "SCHW-PJ",
-            "MADVX",
-            "MCDVX",
-            "MDDVX",
-            "MKDVX",
-            "MRDVX",
-            "MSDVX",
-            "JPM",
-            "FITB",
-            "FITBI",
-            "FITBO",
-            "FITBP",
-            "USB",
-            "USB-PH",
-            "USB-PP",
-            "USB-PQ",
-            "USB-PR",
-            "BK",
-            "C",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "CFG",
-            "CFG-PD",
-            "CFG-PE",
-            "COF",
-            "COF-PI",
-            "COF-PJ",
-            "COF-PK",
-            "COF-PL",
-            "COF-PN",
-            "GS",
-            "HBAN",
-            "HBANM",
-            "HBANP",
-            "TFC",
-            "TFC-PI",
-            "TFC-PO",
-            "TFC-PR",
-            "WFC",
-            "WFC-PD",
-            "STT",
-            "STT-PD",
-            "STT-PG",
-            "KEY",
-            "KEY-PI",
-            "KEY-PJ",
-            "KEY-PK",
-            "MS",
-            "MS-PO",
-            "AXP",
-            "SIVB",
-            "SIVBP",
-            "PNC",
-            "PNC-PP",
-            "FRC",
-            "FRC-PH",
-            "FRC-PI",
-            "FRC-PK",
-            "FRC-PL",
-            "FRC-PM",
-            "FRC-PN",
-            "^GSPC"
-        ]
-    },
-    "eef3e05c-9203-3478-a23b-fc239d3d1c62": {
-        "uuid": "eef3e05c-9203-3478-a23b-fc239d3d1c62",
-        "title": "Why Bank of America's Stock Price Dropped 16.3% in June",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/eef3e05c-9203-3478-a23b-fc239d3d1c62/why-bank-of-america%27s-stock.html",
-        "providerPublishTime": 1657128967,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC"
-        ]
-    },
-    "04355b2f-0308-3829-905f-e402a351c95f": {
-        "uuid": "04355b2f-0308-3829-905f-e402a351c95f",
-        "title": "One of the Triangle's biggest banks just hiked its minimum wage",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/04355b2f-0308-3829-905f-e402a351c95f/one-of-the-triangle%27s-biggest.html",
-        "providerPublishTime": 1657122798,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nyf_MZQp3m9mlYKN4RScoA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zRCPAoamwU01vx7elOCt3w--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/758b6a4cd92ed401486fcedb81656481",
-                    "width": 1440,
-                    "height": 959,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FLOchzrvkI3m.mUenGUZVQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zRCPAoamwU01vx7elOCt3w--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/758b6a4cd92ed401486fcedb81656481",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TFC",
-            "TFC-PI",
-            "TFC-PO",
-            "TFC-PR",
-            "FITB",
-            "FITBI",
-            "FITBO",
-            "FITBP",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS"
         ]
     }
 }

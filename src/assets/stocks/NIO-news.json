@@ -1,4 +1,104 @@
 {
+    "bcbca850-5855-34c3-8b7a-3bbf6e6cafad": {
+        "uuid": "bcbca850-5855-34c3-8b7a-3bbf6e6cafad",
+        "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214509253.html",
+        "providerPublishTime": 1657316709,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nAH6fXoesF4FO.fkctxFig--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+                    "width": 900,
+                    "height": 845,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Bq.M_4Vj5tmmHLkoBQb0XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "cb170f64-705a-39c7-8468-9ef79ace00b3": {
+        "uuid": "cb170f64-705a-39c7-8468-9ef79ace00b3",
+        "title": "Here's Why Nio Shares Moved Down Before Recovering Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/cb170f64-705a-39c7-8468-9ef79ace00b3/here%27s-why-nio-shares-moved.html",
+        "providerPublishTime": 1657305908,
+        "type": "STORY",
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "6897abfd-8445-357c-9a70-76607c965f5c": {
+        "uuid": "6897abfd-8445-357c-9a70-76607c965f5c",
+        "title": "NIO Announces Ambitious Plans at its Recent Power Day 2022",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-announces-ambitious-plans-recent-143702000.html",
+        "providerPublishTime": 1657291022,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FTSc6E23FilC9T0OxQ9VxA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zVkczPxyI6Z9c6ZQDYc8iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/22cecf4ad0ca1f0a5387d618d7255695",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/b63d2ZQUXxM27m4eh91r6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zVkczPxyI6Z9c6ZQDYc8iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/22cecf4ad0ca1f0a5387d618d7255695",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO",
+            "LKQ",
+            "BWA",
+            "SMP"
+        ]
+    },
+    "7abf2968-810a-39d2-b416-42cb3039c542": {
+        "uuid": "7abf2968-810a-39d2-b416-42cb3039c542",
+        "title": "Elon Musk\u2019s Twitter Buyout Isn\u2019t Looking Good, Not Least to Elon Musk",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/7abf2968-810a-39d2-b416-42cb3039c542/elon-musk%E2%80%99s-twitter-buyout.html",
+        "providerPublishTime": 1657276860,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bO8xNkI2qLsSLmdfjnn5pw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wGagK.lkJQIKwkTR03q8Qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO",
+            "TWTR",
+            "XPEV",
+            "XPNGF",
+            "GME",
+            "LI"
+        ]
+    },
     "2c0368d6-92f4-347a-bfd7-6563ef7ce670": {
         "uuid": "2c0368d6-92f4-347a-bfd7-6563ef7ce670",
         "title": "Why Nio Stock Rallied 24.9% in June and Could Jump Higher",
@@ -109,122 +209,6 @@
             "NIO",
             "XPEV",
             "XPNGF"
-        ]
-    },
-    "3fed57e9-cdff-3bda-8fa8-ec9c6701f335": {
-        "uuid": "3fed57e9-cdff-3bda-8fa8-ec9c6701f335",
-        "title": "Tesla, other EV stocks rally after China signals support for its auto industry",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/3fed57e9-cdff-3bda-8fa8-ec9c6701f335/tesla%2C-other-ev-stocks-rally.html",
-        "providerPublishTime": 1657210140,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oqbXHcT8.H86BP1_9g4Ijg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PTeuTHTaTvCMgyFInj.CZQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/c5444ccb6ac624bb7e036153973eb32c",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yzUlDo1hNkLVT0aIJ__YYg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PTeuTHTaTvCMgyFInj.CZQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/c5444ccb6ac624bb7e036153973eb32c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "NIO"
-        ]
-    },
-    "415b5592-7179-3139-84e3-f018a135f97c": {
-        "uuid": "415b5592-7179-3139-84e3-f018a135f97c",
-        "title": "GM vehicle sales in China drop 35.5% year over year",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/gm-vehicle-sales-china-drop-151501637.html",
-        "providerPublishTime": 1657206901,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rXADQEjH4ePAwFeLHrVOjA--~B/aD0yMzQ2O3c9NDE3NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2601a170-fe07-11ec-bd1d-79ab1c3fa966",
-                    "width": 4176,
-                    "height": 2346,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J.gpBywEcW1a5RWBCLxDRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2601a170-fe07-11ec-bd1d-79ab1c3fa966",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "NIO",
-            "VLKAF",
-            "VLKPF",
-            "VWAGY",
-            "VWAPY",
-            "GM"
-        ]
-    },
-    "9a3e501e-e9fc-342d-bed2-9c59c8c9ee4b": {
-        "uuid": "9a3e501e-e9fc-342d-bed2-9c59c8c9ee4b",
-        "title": "CEO\u2019s of RBLX, NEXCF, NIO, AIMLF Advancing Next Wave of Multi-Billion Dollar Growth Opportunities in Web 3.0, Electric Vehicles, AI, and HealthTech Wearables",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/ceo-rblx-nexcf-nio-aimlf-150000627.html",
-        "providerPublishTime": 1657206000,
-        "type": "STORY",
-        "relatedTickers": [
-            "AIMLF",
-            "NEXCF",
-            "NIO",
-            "RBLX"
-        ]
-    },
-    "dcafab28-75fe-355a-ad26-a794d8385eb6": {
-        "uuid": "dcafab28-75fe-355a-ad26-a794d8385eb6",
-        "title": "Some Americans are spending more on car payments than rent",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/americans-spending-more-car-payments-210331114.html",
-        "providerPublishTime": 1657141411,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mbJgpwXp5_YezqMVN9CYuA--~B/aD0zNzc1O3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/06292640-fd6f-11ec-afff-b44ad9d474bd",
-                    "width": 6720,
-                    "height": 3775,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gMgZKp0n39Up4GXyJPoiBA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/06292640-fd6f-11ec-afff-b44ad9d474bd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "POAHF",
-            "POAHY",
-            "F",
-            "TM",
-            "TOYOF",
-            "VLKAF",
-            "VLKPF",
-            "VWAGY",
-            "VWAPY",
-            "RIVN",
-            "BAMXF",
-            "BMWYY",
-            "BYMOF",
-            "NIO"
         ]
     }
 }

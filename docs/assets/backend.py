@@ -13,7 +13,7 @@ HOLDINGS = os.path.join(BACKEND_DIR, 'holdings.json')
 HOLDINGS_CSV = os.path.join(BACKEND_DIR, 'holdings.csv')
 STOCKS_DATA_PATH = os.path.join(BACKEND_DIR, 'stocks')
 
-watchlist = ['PG', 'KO', 'VTRS', 'VICI', 'SBUX', 'CHTR', 'BAC', 'MMM', 'HD', 'JNJ', 'MO', 'AMZN', 'JPM']
+watchlist = ['PG', 'KO', 'VTRS', 'VICI', 'SBUX', 'CHTR', 'BAC', 'MMM', 'HD', 'JNJ', 'MO', 'AMZN', 'JPM', 'COST']
 
 pp = pprint.PrettyPrinter(indent=4)
 helper = CJS()

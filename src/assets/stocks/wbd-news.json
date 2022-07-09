@@ -1,4 +1,38 @@
 {
+    "7d0de541-3fc6-358d-88ad-b8ffd74e1394": {
+        "uuid": "7d0de541-3fc6-358d-88ad-b8ffd74e1394",
+        "title": "Box office \u2018really is\u2019 returning to pre-pandemic levels, analyst says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/box-office-really-returning-pre-210700727.html",
+        "providerPublishTime": 1657314420,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hMUoNkrO7ar_5gCwdTfR4Q--~B/aD0xNTE4O3c9MjcwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e766ffe0-ff01-11ec-9f7e-f36eee0543c4",
+                    "width": 2704,
+                    "height": 1518,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/50ObhoaCQeMlyp55hPJeiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e766ffe0-ff01-11ec-9f7e-f36eee0543c4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "IMAX",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "AMC",
+            "DIS",
+            "WBD"
+        ]
+    },
     "bc777bb5-1a25-3f1a-ac08-c2acf4f169b0": {
         "uuid": "bc777bb5-1a25-3f1a-ac08-c2acf4f169b0",
         "title": "Media, Tech Executives Descend on Sun Valley Conference as Recession Fears Loom",
@@ -228,54 +262,6 @@
             "CRM",
             "MS",
             "MS-PO"
-        ]
-    },
-    "add64b7d-664b-3659-a0a6-294b7d9115ee": {
-        "uuid": "add64b7d-664b-3659-a0a6-294b7d9115ee",
-        "title": "SCOTUS abortion ruling: Employers expand mental health benefits for workers following decision",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/scotus-abortion-ruling-employers-expand-194614985.html",
-        "providerPublishTime": 1656445574,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FwXvQhdCArh1ronRf3SoPA--~B/aD0xNDgwO3c9MjYzNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/f5473e20-f71a-11ec-bd6f-d0c101ddabe8",
-                    "width": 2635,
-                    "height": 1480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/px10EjpgSzSU31CuX1mFhQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/f5473e20-f71a-11ec-bd6f-d0c101ddabe8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN",
-            "MSFT",
-            "YELP",
-            "NFLX",
-            "WBD",
-            "META",
-            "PARA",
-            "PARAA",
-            "PARAP",
-            "C",
-            "LYFT",
-            "DIS",
-            "CRM",
-            "TSLA",
-            "LEVI",
-            "MA",
-            "BMBL",
-            "AAPL",
-            "RMPL-P",
-            "MTCH",
-            "SBUX",
-            "CMCSA"
         ]
     }
 }

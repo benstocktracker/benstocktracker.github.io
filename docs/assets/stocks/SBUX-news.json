@@ -1,4 +1,32 @@
 {
+    "5aeb3415-5b3e-3551-b027-e8234cba3cd1": {
+        "uuid": "5aeb3415-5b3e-3551-b027-e8234cba3cd1",
+        "title": "Starbucks (SBUX) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/starbucks-sbux-gains-lags-market-214509588.html",
+        "providerPublishTime": 1657230309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dOFJjF.lFJbuBeMTQ.srQg--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 900,
+                    "height": 587,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "^GSPC"
+        ]
+    },
     "75e6f2d6-b306-3dc9-a50a-77c33b2dadf1": {
         "uuid": "75e6f2d6-b306-3dc9-a50a-77c33b2dadf1",
         "title": "Why are Starbucks and Kroger investing in EV charging stations?",
@@ -160,19 +188,6 @@
         "type": "STORY",
         "relatedTickers": [
             "BROS",
-            "SBUX"
-        ]
-    },
-    "8979ba48-1e6d-3a64-a0c1-eba47504e76e": {
-        "uuid": "8979ba48-1e6d-3a64-a0c1-eba47504e76e",
-        "title": "3 No-Brainer Stocks to Buy Even During a Stock Market Plunge",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8979ba48-1e6d-3a64-a0c1-eba47504e76e/3-no-brainer-stocks-to-buy.html",
-        "providerPublishTime": 1656945900,
-        "type": "STORY",
-        "relatedTickers": [
-            "HD",
-            "NKE",
             "SBUX"
         ]
     }

@@ -81,7 +81,6 @@ export class TradingviewService {
         "locale": "en"
       }
     `;
-    console.log(params);
     return this.getScript(SourceScripts.Financials, params);
   }
 

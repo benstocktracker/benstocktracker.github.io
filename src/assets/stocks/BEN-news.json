@@ -1,4 +1,52 @@
 {
+    "7521ca49-bc0c-3767-afdc-f2d5c44725fd": {
+        "uuid": "7521ca49-bc0c-3767-afdc-f2d5c44725fd",
+        "title": "Franklin Limited Duration Income Trust (\"FTF\" or the \"Fund\") Announces Distribution",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-limited-duration-income-trust-161200288.html",
+        "providerPublishTime": 1657296720,
+        "type": "STORY",
+        "relatedTickers": [
+            "FTF",
+            "BEN"
+        ]
+    },
+    "14322342-6c2c-3d12-aaab-cfeb319d7525": {
+        "uuid": "14322342-6c2c-3d12-aaab-cfeb319d7525",
+        "title": "Templeton Global Income Fund (\"GIM\" or the \"Fund\") Announces Distribution",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-gim-155700090.html",
+        "providerPublishTime": 1657295820,
+        "type": "STORY",
+        "relatedTickers": [
+            "BEN",
+            "GIM"
+        ]
+    },
+    "893803fe-86e4-33e4-9459-e989bfb02b8b": {
+        "uuid": "893803fe-86e4-33e4-9459-e989bfb02b8b",
+        "title": "Templeton Emerging Markets Income Fund (\"TEI\" or the \"Fund\") Announces Distribution",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-emerging-markets-income-fund-155700640.html",
+        "providerPublishTime": 1657295820,
+        "type": "STORY",
+        "relatedTickers": [
+            "TEI",
+            "BEN"
+        ]
+    },
+    "0075ffd5-d84d-33f4-8623-c3683d1f7a14": {
+        "uuid": "0075ffd5-d84d-33f4-8623-c3683d1f7a14",
+        "title": "Franklin Universal Trust (\"FT\" or the \"Fund\") Announces Distribution",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-universal-trust-ft-fund-155600574.html",
+        "providerPublishTime": 1657295760,
+        "type": "STORY",
+        "relatedTickers": [
+            "FT",
+            "BEN"
+        ]
+    },
     "b3fd67e8-4d96-35b1-8598-2b57560b8a3d": {
         "uuid": "b3fd67e8-4d96-35b1-8598-2b57560b8a3d",
         "title": "Franklin Resources, Inc. to Announce Third Quarter Results on July 28, 2022",
@@ -74,54 +122,6 @@
         "relatedTickers": [
             "FSEM.TO",
             "FGSG.TO",
-            "BEN"
-        ]
-    },
-    "8f78a29b-fb3c-39df-98ce-00ddd99fb4d8": {
-        "uuid": "8f78a29b-fb3c-39df-98ce-00ddd99fb4d8",
-        "title": "Franklin Limited Duration Income Trust (\"FTF\" or the \"Fund\") Announces Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-limited-duration-income-trust-170200537.html",
-        "providerPublishTime": 1656522120,
-        "type": "STORY",
-        "relatedTickers": [
-            "FTF",
-            "BEN"
-        ]
-    },
-    "5e44567c-2adf-3cbf-a4f7-0e1dff7f2af2": {
-        "uuid": "5e44567c-2adf-3cbf-a4f7-0e1dff7f2af2",
-        "title": "Templeton Global Income Fund (\"GIM\" or the \"Fund\") Announces Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-gim-153200106.html",
-        "providerPublishTime": 1656516720,
-        "type": "STORY",
-        "relatedTickers": [
-            "GIM",
-            "BEN"
-        ]
-    },
-    "6ac8ed71-65ee-3cc8-87ec-811e45e5d797": {
-        "uuid": "6ac8ed71-65ee-3cc8-87ec-811e45e5d797",
-        "title": "Templeton Emerging Markets Income Fund (\"TEI\" or the \"Fund\") Announces Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-emerging-markets-income-fund-153100695.html",
-        "providerPublishTime": 1656516660,
-        "type": "STORY",
-        "relatedTickers": [
-            "BEN",
-            "TEI"
-        ]
-    },
-    "0ef49a28-88e3-30c0-a533-de880e801756": {
-        "uuid": "0ef49a28-88e3-30c0-a533-de880e801756",
-        "title": "Franklin Universal Trust (\"FT\" or the \"Fund\") Announces Notification of Sources of Distributions",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-universal-trust-ft-fund-153100456.html",
-        "providerPublishTime": 1656516660,
-        "type": "STORY",
-        "relatedTickers": [
-            "FT",
             "BEN"
         ]
     }

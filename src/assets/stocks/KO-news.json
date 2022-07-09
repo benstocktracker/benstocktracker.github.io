@@ -1,7 +1,69 @@
 {
+    "169a9628-3686-3128-bb57-3d27ac94f9a4": {
+        "uuid": "169a9628-3686-3128-bb57-3d27ac94f9a4",
+        "title": "Dividend Stocks Can Help During Recession. Here\u2019s What to Look For.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/169a9628-3686-3128-bb57-3d27ac94f9a4/dividend-stocks-can-help.html",
+        "providerPublishTime": 1657288800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1Zj_VElthEJx8HQxCU8bNQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yzSqDkCnA.WK63fqxR5jZw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/626e5b07eba1811decd7b70b5e27c653",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xIPSo4qau4lgGShWB.3UZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yzSqDkCnA.WK63fqxR5jZw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/626e5b07eba1811decd7b70b5e27c653",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "MSFT",
+            "C",
+            "CL",
+            "KO"
+        ]
+    },
+    "23045c10-7b72-302d-a89f-6fa2bf523190": {
+        "uuid": "23045c10-7b72-302d-a89f-6fa2bf523190",
+        "title": "Buy These 4 Blue-Chip Stocks to Strengthen Your Portfolio",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/buy-4-blue-chip-stocks-115411432.html",
+        "providerPublishTime": 1657281251,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nenyv9Gm4g4vzjhUFcEzng--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FfrEDXAwPVyXVbCm0T570Q--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6a26c0a7f00014d8f30db994c7616eaf",
+                    "width": 620,
+                    "height": 349,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CC8ovMdx4Zvk8I8qIA53kg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FfrEDXAwPVyXVbCm0T570Q--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6a26c0a7f00014d8f30db994c7616eaf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO",
+            "HD",
+            "COMP",
+            "MRK",
+            "^GSPC"
+        ]
+    },
     "9883badd-f86a-3fba-baf3-a8ad171092b5": {
         "uuid": "9883badd-f86a-3fba-baf3-a8ad171092b5",
-        "title": "Dow Jones Rallies; Warren Buffett Stock Eyes Buy Point; Virgin Galactic Blasts Off On Mothership Deal",
+        "title": "Dow Jones Rallies; Warren Buffett Stock Eyes Buy Point; Virgin Galactic Blasts Off On Boeing Deal",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/9883badd-f86a-3fba-baf3-a8ad171092b5/dow-jones-rallies%3B-warren.html",
         "providerPublishTime": 1657221567,
@@ -180,65 +242,6 @@
             "WWE",
             "VRTX",
             "CHEF"
-        ]
-    },
-    "aa4c67c5-25ed-32d5-8c50-cb1407873550": {
-        "uuid": "aa4c67c5-25ed-32d5-8c50-cb1407873550",
-        "title": "Want to Retire Early? Buy and Hold These 2 Dividend Stocks for Decades",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/aa4c67c5-25ed-32d5-8c50-cb1407873550/want-to-retire-early%3F-buy-and.html",
-        "providerPublishTime": 1657119180,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TBfrMF3mFMyvyAlpg4izMQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_6pRzvL6F4P9mFnx_tdEeQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c7b11260f670df6e81e9283e98afb037",
-                    "width": 1400,
-                    "height": 752,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/j.Fvpri1cssDY_kCC7pU7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_6pRzvL6F4P9mFnx_tdEeQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c7b11260f670df6e81e9283e98afb037",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LLY",
-            "KO"
-        ]
-    },
-    "497ce753-b36f-3474-9806-3b39ff814121": {
-        "uuid": "497ce753-b36f-3474-9806-3b39ff814121",
-        "title": "FEMSA (FMX) to Buy Europe's Valora to Expand Retail Presence",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/femsa-fmx-buy-europes-valora-143302114.html",
-        "providerPublishTime": 1657117982,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aCHaUng0I0gKeqziAbEjZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/crSr2_WK8GHsSjJx3tcXjA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bad50eb1b36914954b77459636890df1",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1HroAGvxte1VIMEb2C3Dkw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/crSr2_WK8GHsSjJx3tcXjA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bad50eb1b36914954b77459636890df1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FMX",
-            "VALN.SW",
-            "KO",
-            "NAPA",
-            "SYY"
         ]
     }
 }

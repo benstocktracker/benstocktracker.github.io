@@ -1,4 +1,72 @@
 {
+    "d1684a27-10c4-3ebb-ae8e-80be493c86a3": {
+        "uuid": "d1684a27-10c4-3ebb-ae8e-80be493c86a3",
+        "title": "Feel Bad About Your Portfolio's Losers? Hope You Didn't Buy These",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/d1684a27-10c4-3ebb-ae8e-80be493c86a3/feel-bad-about-your.html",
+        "providerPublishTime": 1657302536,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8DBXPUKVB.oQtj88A0VVNA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IjT.WYA5_MWRL6KUaSIZpA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fb0bc7226a75e2aec504c0ae19589f93",
+                    "width": 1065,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1TYM4Kkm8TM1ZG6zvO8bRw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IjT.WYA5_MWRL6KUaSIZpA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fb0bc7226a75e2aec504c0ae19589f93",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GE",
+            "SPGI",
+            "T-PC"
+        ]
+    },
+    "6b68c820-9e8a-35cf-b085-6535e5a10ca5": {
+        "uuid": "6b68c820-9e8a-35cf-b085-6535e5a10ca5",
+        "title": "Here is What to Know Beyond Why AT&T Inc. (T) is a Trending Stock",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/know-beyond-why-t-inc-130001017.html",
+        "providerPublishTime": 1657285201,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/88Fg6KE6GPnh0zlh3tqRTA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pqnfGkvbQ5ArK7CRuvTLzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC"
+        ]
+    },
+    "1867ade8-f580-3f37-9529-8cdf9bb21a33": {
+        "uuid": "1867ade8-f580-3f37-9529-8cdf9bb21a33",
+        "title": "Down 45% From Its High, Is Warner Bros. Discovery A Buy?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/1867ade8-f580-3f37-9529-8cdf9bb21a33/down-45%25-from-its-high%2C-is.html",
+        "providerPublishTime": 1657280940,
+        "type": "STORY",
+        "relatedTickers": [
+            "T-PC",
+            "DIS"
+        ]
+    },
     "d2fefca3-6f55-36c8-89d1-6912831320f1": {
         "uuid": "d2fefca3-6f55-36c8-89d1-6912831320f1",
         "title": "Want to Hide Out in Tech? Buy IBM Stock, Morgan Stanley Says.",
@@ -86,6 +154,17 @@
             "T-PC"
         ]
     },
+    "a77d41a8-15dc-38ad-9f76-ced00c6ed553": {
+        "uuid": "a77d41a8-15dc-38ad-9f76-ced00c6ed553",
+        "title": "Combat Inflation with Dividend Deliverer AT&T",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/combat-inflation-dividend-deliverer-t-192720084.html",
+        "providerPublishTime": 1657049240,
+        "type": "STORY",
+        "relatedTickers": [
+            "T-PC"
+        ]
+    },
     "d684cd8d-9909-35ad-9ce4-dc461e3ed109": {
         "uuid": "d684cd8d-9909-35ad-9ce4-dc461e3ed109",
         "title": "3 Soaring Stocks I'd Buy Now With No Hesitation",
@@ -96,125 +175,6 @@
         "relatedTickers": [
             "T-PC",
             "OLLI"
-        ]
-    },
-    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
-        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
-        "title": "Is T-Mobile Stock A Buy Or Sell As Wall Street Mulls Buyback Timing?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
-        "providerPublishTime": 1657023913,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/q.hiheoo1REzoNwOnFgLRQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CSUyjuqWFFQ8R1Jj9kQ6LQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7f0f9bc7a30276384d9ba517c713e1b9",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yusVYv3xKJFn6RN1yEbo6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CSUyjuqWFFQ8R1Jj9kQ6LQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7f0f9bc7a30276384d9ba517c713e1b9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TMUS",
-            "VZ",
-            "T"
-        ]
-    },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp-Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1657023315,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9fI_WqOXfdKTrl_95ea.MA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iX6mLMShJPY6GbxjBKybEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T",
-            "^GSPC"
-        ]
-    },
-    "65bd968c-f4e6-3b05-810d-46e0abb5f3bf": {
-        "uuid": "65bd968c-f4e6-3b05-810d-46e0abb5f3bf",
-        "title": "4 of the Safest Dividend Stocks Retirees Can Confidently Buy Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/65bd968c-f4e6-3b05-810d-46e0abb5f3bf/4-of-the-safest-dividend.html",
-        "providerPublishTime": 1656753660,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QB6tjstXzM7ooCnBus0q8g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KOmaqm4J_4rlYMzdeXW2SA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/010f1aad0a01e579193f89db77b8fa8d",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6SdZXjJww6bWxyQHr3.lyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KOmaqm4J_4rlYMzdeXW2SA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/010f1aad0a01e579193f89db77b8fa8d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "EPD",
-            "T-PC",
-            "SPGI"
-        ]
-    },
-    "fba98a86-a5cd-3ed7-9717-e8cb6b983abc": {
-        "uuid": "fba98a86-a5cd-3ed7-9717-e8cb6b983abc",
-        "title": "\u2018We have a whole lot more to go down\u2019: Suze Orman says we\u2019re headed for a recession and warns things may get a \u2018little bit ugly.\u2019 Here's what she likes for safety",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/whole-lot-more-down-suze-180000784.html",
-        "providerPublishTime": 1656695280,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HXK8WMxzyD1epvV12.vzIg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/S11sB_OJ0mcrxPfjUKmfFg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/b9bf2d48e9bc9f1df8b3dc868907c9dd",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aiwcIz1k8U6y2wj77RdUKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S11sB_OJ0mcrxPfjUKmfFg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/b9bf2d48e9bc9f1df8b3dc868907c9dd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "CVX",
-            "O"
         ]
     }
 }

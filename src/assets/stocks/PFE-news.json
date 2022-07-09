@@ -1,4 +1,145 @@
 {
+    "8036a507-23fe-33a6-8d8a-df453eb8d3ac": {
+        "uuid": "8036a507-23fe-33a6-8d8a-df453eb8d3ac",
+        "title": "FDA Fully Approves Pfizer\u2019s Covid-19 Vaccine for Adolescents",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/8036a507-23fe-33a6-8d8a-df453eb8d3ac/fda-fully-approves-pfizer%E2%80%99s.html",
+        "providerPublishTime": 1657319040,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ge45LK6O3DOh5NJU9Fec8w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/izSZYkV2OJNmEkBdDbdqQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/168125b25447b7815773c81309155071",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/B_DRkjg4kUwuUR9KxZtdBA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/izSZYkV2OJNmEkBdDbdqQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/168125b25447b7815773c81309155071",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BNTX",
+            "PFE"
+        ]
+    },
+    "7faaf21a-831f-38d8-a239-510ceae2aff2": {
+        "uuid": "7faaf21a-831f-38d8-a239-510ceae2aff2",
+        "title": "U.S. FDA grants full approval to Pfizer COVID vaccine for ages 12-15",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/u-fda-grants-full-approval-192808955.html",
+        "providerPublishTime": 1657308488,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3OH17Q8pXmKN6UPKK80mkw--~B/aD0xNzYyO3c9MzEzMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9cbf10a0-fef6-11ec-bbf8-fb146653cd60",
+                    "width": 3133,
+                    "height": 1762,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WuI5OiAV9w6dLemJ5glzbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9cbf10a0-fef6-11ec-bbf8-fb146653cd60",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "3bb70f1d-0564-3372-90c5-ccf8026bb6da": {
+        "uuid": "3bb70f1d-0564-3372-90c5-ccf8026bb6da",
+        "title": "Pharma Stock Roundup: AZN's Small Cancer Firm Buyout, FDA Updates for PFE, RHHBY",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/pharma-stock-roundup-azns-small-153403671.html",
+        "providerPublishTime": 1657294443,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QY9qucZMbqb7FOMArsSGCQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gw9hjYsV9oVXUgeEGEfgLQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f91db6bb14dedc17d5edb20f29c41da3",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G8wJdhwMC1PrJuj4mU5GUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gw9hjYsV9oVXUgeEGEfgLQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f91db6bb14dedc17d5edb20f29c41da3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AZN",
+            "PFE",
+            "ROG.SW"
+        ]
+    },
+    "c848cd70-37eb-3098-8ec7-ef2a2af59ba5": {
+        "uuid": "c848cd70-37eb-3098-8ec7-ef2a2af59ba5",
+        "title": "Biohaven (BHVN) Begins Phase III Study on SMA Candidate",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/biohaven-bhvn-begins-phase-iii-150903596.html",
+        "providerPublishTime": 1657292943,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/L1BO62wa0sJGkHodHpin.Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hV9HqOxsOkZmaD4xyKkWQw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/abdb684baba7aff1209cd5ff357d8a0e",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XNq5Mo4ysC8Bh9tePo21bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hV9HqOxsOkZmaD4xyKkWQw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/abdb684baba7aff1209cd5ff357d8a0e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BHVN",
+            "PFE",
+            "BMY",
+            "BIIB"
+        ]
+    },
+    "125311d0-6356-3cc6-8c55-15c3ff426278": {
+        "uuid": "125311d0-6356-3cc6-8c55-15c3ff426278",
+        "title": "Pfizer, Africa CDC Strike COVID-19 Antiviral Pact: Report",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/pfizer-africa-cdc-strike-covid-105431494.html",
+        "providerPublishTime": 1657277671,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2kfl2_f8g4pCSZOQVeQZKw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6xmLbhTAHBUIzDDjwWRfKQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/286e7e0202da0af884649262e7873a79",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FtdLkxapuz3fCYPfT4qYzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6xmLbhTAHBUIzDDjwWRfKQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/286e7e0202da0af884649262e7873a79",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
     "aa3463ca-d286-38e0-b5ac-b97768d90904": {
         "uuid": "aa3463ca-d286-38e0-b5ac-b97768d90904",
         "title": "Pfizer Receives Approval for COVID Treatment Paxlovid",
@@ -66,154 +207,6 @@
             "NVAX",
             "BNTX",
             "PFE"
-        ]
-    },
-    "9e3179d5-3847-3a0b-bb13-ccc292f3fe6a": {
-        "uuid": "9e3179d5-3847-3a0b-bb13-ccc292f3fe6a",
-        "title": "With BA.5 the dominant variant, hospitalizations rise to 4-month high",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/9e3179d5-3847-3a0b-bb13-ccc292f3fe6a/with-ba.5-the-dominant.html",
-        "providerPublishTime": 1657208280,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q5mC5bvj4Mn2bASg3h8CCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/H6hPealGDG.po2og8UaZNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/56a4db948f8be31efb3fc983e3c08e08",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WDDD7sF5daIX.m_4ylteXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/H6hPealGDG.po2og8UaZNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/56a4db948f8be31efb3fc983e3c08e08",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "c06f2da2-3e5e-3949-bcdd-7b677e819ef4": {
-        "uuid": "c06f2da2-3e5e-3949-bcdd-7b677e819ef4",
-        "title": "Billionaire Cliff Asness Was Relentlessly Buying Meta Platforms (META) and These 9 Stocks in Q1",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/billionaire-cliff-asness-relentlessly-buying-153800023.html",
-        "providerPublishTime": 1657208280,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.fX5Ycu7a0HzK3pkCP6fqA--~B/aD02MDA7dz00ODc7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lyUxWcX2mdkQBAgwoGP2Yg--~B/aD02MDA7dz00ODc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ead65a02164cca24797d7a2261f1eda0",
-                    "width": 487,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Lk0nJ0xVXS5aI7.iUf6Llw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lyUxWcX2mdkQBAgwoGP2Yg--~B/aD02MDA7dz00ODc7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ead65a02164cca24797d7a2261f1eda0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "NUE",
-            "STLD",
-            "LYB",
-            "PFE",
-            "MRNA",
-            "ED"
-        ]
-    },
-    "193ef436-ae24-33bf-bc6a-5607e8c754f5": {
-        "uuid": "193ef436-ae24-33bf-bc6a-5607e8c754f5",
-        "title": "FDA authorizes broader access to Pfizer's COVID-19 pill",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/fda-authorizes-broader-access-pfizers-144352465.html",
-        "providerPublishTime": 1657205032,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_4Vuz5gw5OkZNPDQH3X_Cg--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/36ed4880-fe03-11ec-bcf8-c17a15391bdb",
-                    "width": 2792,
-                    "height": 1567,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jeTY8FEkD_eNBDAMKXRs6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/36ed4880-fe03-11ec-bcf8-c17a15391bdb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "6d2d0b8a-16a1-320e-b368-ecce0b3c083c": {
-        "uuid": "6d2d0b8a-16a1-320e-b368-ecce0b3c083c",
-        "title": "Baby formula shortage: FDA extends imports of overseas brands",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/fda-extends-baby-formula-imports-143338679.html",
-        "providerPublishTime": 1657204418,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/82ugkpPwqc45MaWfUtwTuQ--~B/aD0xNTgyO3c9MjgxNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c44b14c0-fe01-11ec-bf95-3856956a2d5e",
-                    "width": 2817,
-                    "height": 1582,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ChA4fWJ7uSwtstAnATyFKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c44b14c0-fe01-11ec-bf95-3856956a2d5e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "9d92e888-8028-3392-bd0e-dd7f1868334b": {
-        "uuid": "9d92e888-8028-3392-bd0e-dd7f1868334b",
-        "title": "Billionaire Jeffrey Talpins Just Fled From These 10 Healthcare Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/billionaire-jeffrey-talpins-just-fled-141502334.html",
-        "providerPublishTime": 1657203302,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/h3CrtfMvvfGn5ZDgKLM6xg--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
-                    "width": 473,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/trOU_XwLBLYTtx6_yM7jlQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "JNJ",
-            "LLY",
-            "CNVY",
-            "TMO",
-            "DHR",
-            "DGX",
-            "MRNA"
         ]
     }
 }

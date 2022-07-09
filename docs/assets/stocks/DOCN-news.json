@@ -1,4 +1,44 @@
 {
+    "908e26ca-9d79-369e-b4d4-61a3ec924ec2": {
+        "uuid": "908e26ca-9d79-369e-b4d4-61a3ec924ec2",
+        "title": "DigitalOcean Second Quarter 2022 Earnings Conference Call",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/digitalocean-second-quarter-2022-earnings-131300279.html",
+        "providerPublishTime": 1657285980,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8r577GuGnDkuTZAZ17VacA--~B/aD0xODA7dz0xODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yQFcnCbJfwY4V83.3KP5ow--~B/aD0xODA7dz0xODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/340ae295bc888eef677ee41f01689b57",
+                    "width": 180,
+                    "height": 180,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tBtvExYAkBkFHT3a..ZvRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yQFcnCbJfwY4V83.3KP5ow--~B/aD0xODA7dz0xODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/340ae295bc888eef677ee41f01689b57",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DOCN"
+        ]
+    },
+    "924206fc-cb55-392e-87ee-a41f91f3f9df": {
+        "uuid": "924206fc-cb55-392e-87ee-a41f91f3f9df",
+        "title": "3 Beaten-Down Growth Stocks to Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/924206fc-cb55-392e-87ee-a41f91f3f9df/3-beaten-down-growth-stocks.html",
+        "providerPublishTime": 1657278600,
+        "type": "STORY",
+        "relatedTickers": [
+            "ETSY",
+            "TEAM",
+            "DOCN"
+        ]
+    },
     "196e366a-16d8-32ca-9cc4-e6f5773c4562": {
         "uuid": "196e366a-16d8-32ca-9cc4-e6f5773c4562",
         "title": "DigitalOcean Holdings, Inc. (DOCN) Stock Sinks As Market Gains: What You Should Know",
@@ -135,50 +175,6 @@
         "relatedTickers": [
             "DOCN",
             "DKNG"
-        ]
-    },
-    "bbcd4aa9-5adf-31f2-baa1-1745c0aa1d5c": {
-        "uuid": "bbcd4aa9-5adf-31f2-baa1-1745c0aa1d5c",
-        "title": "7 Growth Stocks to Buy for a Rich Retirement",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-growth-stocks-buy-rich-103728810.html",
-        "providerPublishTime": 1656412648,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s7fnPTGiOi1At72Bvb_rlw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7WlFCU5Cqs5nX7FgTcz0xQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d4665a70fabd57460d7b92cf16d3f6ed",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EDtfzRnoTwe9VPGAsPLSrw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7WlFCU5Cqs5nX7FgTcz0xQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d4665a70fabd57460d7b92cf16d3f6ed",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMD",
-            "ADSK",
-            "DOCN",
-            "DDOG",
-            "NVDA",
-            "RBLX"
-        ]
-    },
-    "0dc55e1c-2a85-318d-8179-e954dd729a8e": {
-        "uuid": "0dc55e1c-2a85-318d-8179-e954dd729a8e",
-        "title": "Tech Rebound: 2 Growth Stocks You'll Wish You'd Bought on the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0dc55e1c-2a85-318d-8179-e954dd729a8e/tech-rebound%3A-2-growth-stocks.html",
-        "providerPublishTime": 1656252000,
-        "type": "STORY",
-        "relatedTickers": [
-            "SE",
-            "DOCN"
         ]
     }
 }

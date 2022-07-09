@@ -1,4 +1,31 @@
 {
+    "780aefec-85a8-3db8-bfc9-9983c6b5a6c1": {
+        "uuid": "780aefec-85a8-3db8-bfc9-9983c6b5a6c1",
+        "title": "Gilead Sciences Features Cristina Herrera of Translatinx Network",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/gilead-sciences-features-cristina-herrera-124520476.html",
+        "providerPublishTime": 1657284320,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/207X16ceMqwFzUoqP6bp.g--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hIXBgXLXzr_j8TiQ90e7DA--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/e45905aa429d835568691a3edd9f4cc4",
+                    "width": 650,
+                    "height": 366,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KQpZNtpBvtfONHuM_pai8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hIXBgXLXzr_j8TiQ90e7DA--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/e45905aa429d835568691a3edd9f4cc4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "22fe60bb-9a94-373b-b80f-76b12015e502": {
         "uuid": "22fe60bb-9a94-373b-b80f-76b12015e502",
         "title": "John Allison\u2019s Unio Capital Portfolio: 10 Dividend Stocks",
@@ -174,36 +201,6 @@
         "type": "STORY",
         "relatedTickers": [
             "GILD"
-        ]
-    },
-    "d47336fd-a875-372a-9334-65153d1c07f7": {
-        "uuid": "d47336fd-a875-372a-9334-65153d1c07f7",
-        "title": "Biotech Stock Roundup: EPZM Soars on IPSEY Offer, KZR Up on Study Data & More",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/biotech-stock-roundup-epzm-soars-155103141.html",
-        "providerPublishTime": 1656517863,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EejTULwUAYWc9k32qkXu0Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/obPyvmV.XkzkKLrDxW_bcA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5bd570f285e4b6d4e9b1a8c6dc8600e6",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fPhGuVbDKu5w3I69zHQheA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/obPyvmV.XkzkKLrDxW_bcA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5bd570f285e4b6d4e9b1a8c6dc8600e6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EPZM",
-            "IPSEY",
-            "GILD",
-            "STRO"
         ]
     }
 }

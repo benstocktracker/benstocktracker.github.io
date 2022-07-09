@@ -1,4 +1,97 @@
 {
+    "19d1c955-95e7-3877-b4bb-8f5f67b23578": {
+        "uuid": "19d1c955-95e7-3877-b4bb-8f5f67b23578",
+        "title": "10 Cheap ETFs to Invest in For Beginners",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-cheap-etfs-invest-beginners-134309892.html",
+        "providerPublishTime": 1657287789,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lywrZQAerAJtnKC2wlGd9A--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QDj5nOtqGBZzyMfKHFL_eA--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fa0b8bb863ca7cb691d99a09ad4c4ed6",
+                    "width": 400,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3YilcXt9GkJBFHCYOlpTOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QDj5nOtqGBZzyMfKHFL_eA--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fa0b8bb863ca7cb691d99a09ad4c4ed6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "CRM",
+            "TXN",
+            "DDOG",
+            "ATVI",
+            "PG",
+            "NVDA"
+        ]
+    },
+    "82232ea9-0315-3e1b-b4be-58afe8c27be2": {
+        "uuid": "82232ea9-0315-3e1b-b4be-58afe8c27be2",
+        "title": "10 Best Stocks to Buy Amid Inflation in 2022 and Beyond",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-amid-130727659.html",
+        "providerPublishTime": 1657285647,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q1IFE2JQzfq___Q_ou55Qw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Q_0XFsmkn.sruqPeCfI3dA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7Z7d8JEazU3ymOSw3os39g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Q_0XFsmkn.sruqPeCfI3dA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EOG",
+            "ARE",
+            "LLY",
+            "CTVA",
+            "ADM",
+            "PG",
+            "JNJ"
+        ]
+    },
+    "65d33281-218b-3121-9b41-e7caaeabdf18": {
+        "uuid": "65d33281-218b-3121-9b41-e7caaeabdf18",
+        "title": "Procter & Gamble (PG) Stock Sinks As Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/procter-gamble-pg-stock-sinks-214509687.html",
+        "providerPublishTime": 1657230309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gS0nw.47qgAgvrgADz_fWQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ybt7Kr93VFMGfaWqBsqsmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
     "00ae9375-9328-3821-b6f8-3fc84da58fd3": {
         "uuid": "00ae9375-9328-3821-b6f8-3fc84da58fd3",
         "title": "'Reducing inflation will come at a great cost': Ray Dalio warns that the Fed will likely trigger something far worse than high prices. Here's what he likes today",
@@ -197,99 +290,6 @@
             "USD=X",
             "EUR=X",
             "NKE"
-        ]
-    },
-    "8afc0db5-2b77-384b-a90b-cb870feaa21a": {
-        "uuid": "8afc0db5-2b77-384b-a90b-cb870feaa21a",
-        "title": "10 Dividend Stocks to Buy According to Lee Munder Capital Group",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-dividend-stocks-buy-according-123914865.html",
-        "providerPublishTime": 1657024754,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ydr4.IJuHva2pfeRUxAVWA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/vLfaTgUjt1uMdicaONa.Uw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/92d0682cb8bc064d3173c0cd55defc19",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rkivmSjWunZKdLfK4tydkw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vLfaTgUjt1uMdicaONa.Uw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/92d0682cb8bc064d3173c0cd55defc19",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "AMAT",
-            "CVS",
-            "PG",
-            "LOW",
-            "KO",
-            "MRK"
-        ]
-    },
-    "3f8a7f74-af86-32e1-84a9-96ce5c1e54a0": {
-        "uuid": "3f8a7f74-af86-32e1-84a9-96ce5c1e54a0",
-        "title": "\u2018Recession is inevitable\u2019: Elon Musk now thinks there\u2019s a greater than 50-50 chance that the economy will decline. Here are 3 simple ways to protect your money",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/recession-inevitable-elon-musk-now-120000885.html",
-        "providerPublishTime": 1656763200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_Lg2lBOVBVEOEJ3tybMqmA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lJgHJ80ikM.YK5efHL5bAQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/59d0d254e83b701fe424847c87669098",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J9VqqAQIW9rcLekzyzpEjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lJgHJ80ikM.YK5efHL5bAQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/59d0d254e83b701fe424847c87669098",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG",
-            "TSLA",
-            "PEP"
-        ]
-    },
-    "244e9e7c-a5a1-35a7-bff3-9597dbd2c461": {
-        "uuid": "244e9e7c-a5a1-35a7-bff3-9597dbd2c461",
-        "title": "Ken Fisher Loves These 10 Defensive Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/ken-fisher-loves-10-defensive-140046187.html",
-        "providerPublishTime": 1656684046,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_ENxrG9LflVY25KBcxSAlg--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zATf743IwLtcmxT7mQfeLw--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ccc3f97973fd105548bca9ede345512",
-                    "width": 438,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8Wg.kwD1H8HZambPgxBvOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zATf743IwLtcmxT7mQfeLw--~B/aD02MDA7dz00Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ccc3f97973fd105548bca9ede345512",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CAT",
-            "JNJ",
-            "UL",
-            "NVO",
-            "PG"
         ]
     }
 }

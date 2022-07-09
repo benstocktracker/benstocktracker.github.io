@@ -1,4 +1,31 @@
 {
+    "62395955-f47e-3096-9668-fa18a2e9d7c9": {
+        "uuid": "62395955-f47e-3096-9668-fa18a2e9d7c9",
+        "title": "Charter Communications (NASDAQ:CHTR) Is Experiencing Growth In Returns On Capital",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/charter-communications-nasdaq-chtr-experiencing-120725100.html",
+        "providerPublishTime": 1657282045,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5stjZw4w7FWZKjCaNY2.YQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5VNqBsiOxWTZpPAOHBLW7Q--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/2a5f8bf7b14f7a84eeab5c2afb4feb0b",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oB9HjA3nE4Db8UmpEWkltA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5VNqBsiOxWTZpPAOHBLW7Q--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/2a5f8bf7b14f7a84eeab5c2afb4feb0b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR"
+        ]
+    },
     "5c9d65cd-c472-3e54-b986-a0e5ebe27c15": {
         "uuid": "5c9d65cd-c472-3e54-b986-a0e5ebe27c15",
         "title": "Here's Why Charter Communications (CHTR) is a Strong Growth Stock",
@@ -206,33 +233,6 @@
             "GDDY",
             "ROST",
             "TJX"
-        ]
-    },
-    "be20eb06-d04f-3769-b655-84c26102b725": {
-        "uuid": "be20eb06-d04f-3769-b655-84c26102b725",
-        "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/value-investor-1-stock-could-134001423.html",
-        "providerPublishTime": 1655732401,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QTwafwrkeqiRFbIZ5ZBXFg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/apbC75v0joJeGGZArvqIvw--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/105b2acef7bf0873f24b78932b1fdc3c",
-                    "width": 900,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9PhM3ZlBopegGosMLV3W7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/apbC75v0joJeGGZArvqIvw--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/105b2acef7bf0873f24b78932b1fdc3c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHTR"
         ]
     }
 }

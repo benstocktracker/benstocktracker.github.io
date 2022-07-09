@@ -1,10 +1,42 @@
 {
+    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
+        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla Reclaims Key Level But Rival In Buy Zone",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
+        "providerPublishTime": 1657319784,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XKopV2K6fYHX80zYSBeucQ--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hNpmIMqDKirT3BDUgcE2Gw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a861fb6f5955f70d5476f28bf7e1057",
+                    "width": 1060,
+                    "height": 599,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mA.y5VQlUyH6CsrqhUNLOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hNpmIMqDKirT3BDUgcE2Gw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a861fb6f5955f70d5476f28bf7e1057",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "BYDDY",
+            "F",
+            "XPEV",
+            "LI",
+            "RIVN"
+        ]
+    },
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: China Stocks Rally On Stimulus Hopes",
+        "title": "5 Best Chinese Stocks: All Are Near Buy Points",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-china.html",
-        "providerPublishTime": 1657227474,
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-all.html",
+        "providerPublishTime": 1657315614,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -28,8 +60,39 @@
             "LI",
             "^GSPC",
             "^HSI",
-            "BABA",
-            "JD"
+            "BABA"
+        ]
+    },
+    "7abf2968-810a-39d2-b416-42cb3039c542": {
+        "uuid": "7abf2968-810a-39d2-b416-42cb3039c542",
+        "title": "Elon Musk\u2019s Twitter Buyout Isn\u2019t Looking Good, Not Least to Elon Musk",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/7abf2968-810a-39d2-b416-42cb3039c542/elon-musk%E2%80%99s-twitter-buyout.html",
+        "providerPublishTime": 1657276860,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bO8xNkI2qLsSLmdfjnn5pw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wGagK.lkJQIKwkTR03q8Qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO",
+            "TWTR",
+            "XPEV",
+            "XPNGF",
+            "GME",
+            "LI"
         ]
     },
     "c8f374cc-b0e2-388d-bf79-b13905dd93fb": {
@@ -193,71 +256,6 @@
             "TSLA",
             "LI",
             "XPEV"
-        ]
-    },
-    "05ca36d5-dac8-3c34-a69b-fa89015058de": {
-        "uuid": "05ca36d5-dac8-3c34-a69b-fa89015058de",
-        "title": "The EV Revolution Has Arrived. Investors Just Need to Know Where to Look.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/05ca36d5-dac8-3c34-a69b-fa89015058de/the-ev-revolution-has.html",
-        "providerPublishTime": 1657083600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/scErT7EefA6Dnk8UJEga4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_oWSpMuT65gZKW6D3TC5yA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c81e0b56a23459bf0037427bff1ada56",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J6poZha78WNyZzTd12Jqew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_oWSpMuT65gZKW6D3TC5yA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c81e0b56a23459bf0037427bff1ada56",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GM",
-            "BYDDF",
-            "BYDDY",
-            "LI",
-            "NIO",
-            "XPEV",
-            "XPNGF"
-        ]
-    },
-    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
-        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla Idling Plants For Upgrades After Rival Seizes EV Crown",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1657054464,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XKopV2K6fYHX80zYSBeucQ--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hNpmIMqDKirT3BDUgcE2Gw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a861fb6f5955f70d5476f28bf7e1057",
-                    "width": 1060,
-                    "height": 599,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mA.y5VQlUyH6CsrqhUNLOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hNpmIMqDKirT3BDUgcE2Gw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a861fb6f5955f70d5476f28bf7e1057",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "BYDDY",
-            "F",
-            "XPEV",
-            "LI",
-            "RIVN"
         ]
     }
 }

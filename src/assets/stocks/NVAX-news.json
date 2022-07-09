@@ -1,4 +1,64 @@
 {
+    "a7104a4e-7ef7-3550-96bc-f44da5f35dd9": {
+        "uuid": "a7104a4e-7ef7-3550-96bc-f44da5f35dd9",
+        "title": "Novavax, Moderna, BioNTech Surge To 3-Month High As Omicron Boosters Loom",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a7104a4e-7ef7-3550-96bc-f44da5f35dd9/novavax%2C-moderna%2C-biontech.html",
+        "providerPublishTime": 1657310800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PBn7noB8AeKj3peetm2EQA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/umQFRfxqba3vcRJTALMEiQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/636ee75ec8da00572fff6497e27e7681",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Zgssmb6s2b_mKniSXsCCGA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/umQFRfxqba3vcRJTALMEiQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/636ee75ec8da00572fff6497e27e7681",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "MRNA",
+            "BNTX"
+        ]
+    },
+    "39cbc637-6a22-3d63-89df-ec35b0370356": {
+        "uuid": "39cbc637-6a22-3d63-89df-ec35b0370356",
+        "title": "Analysts Say These 5 Stocks Will Double",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/analysts-5-stocks-double-141910407.html",
+        "providerPublishTime": 1657289950,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SI1nuuOaCfAZJvkjcZiAMQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2uHzqT7acR_p51NIDhXadQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7041028dd8dd2704bb71fde1d09bae48",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/trx_OTZyiz5aWKm79PmANw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2uHzqT7acR_p51NIDhXadQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7041028dd8dd2704bb71fde1d09bae48",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PTON",
+            "NVAX",
+            "CVNA",
+            "COIN",
+            "UBER"
+        ]
+    },
     "ec2a992b-778e-3843-a3d4-50d8ed98b0be": {
         "uuid": "ec2a992b-778e-3843-a3d4-50d8ed98b0be",
         "title": "Why Novavax Stock Is Skyrocketing This Week",
@@ -122,64 +182,6 @@
             ]
         },
         "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "5677552c-2344-3db3-9268-1a03f587b12c": {
-        "uuid": "5677552c-2344-3db3-9268-1a03f587b12c",
-        "title": "Novavax (NVAX) COVID Jab Receives EU Nod for Adolescents",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/novavax-nvax-covid-jab-receives-170605772.html",
-        "providerPublishTime": 1657127165,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX",
-            "PFE"
-        ]
-    },
-    "df034cbc-7c2a-38a3-9354-737cd26302f3": {
-        "uuid": "df034cbc-7c2a-38a3-9354-737cd26302f3",
-        "title": "COVID-19 subvariants may evade vaccine protection, giant snails pose health risk in Florida",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/covid-19-subvariants-may-evade-145255398.html",
-        "providerPublishTime": 1657119175,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_.dWuwcNr9IwA8Gqo7g1zw--~B/aD02MTg7dz0xMTAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4cbaa180-fd3b-11ec-bff3-94f0afc2982d",
-                    "width": 1100,
-                    "height": 618,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5FvHHwq9DrM5I5ZrQk6JxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4cbaa180-fd3b-11ec-bff3-94f0afc2982d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "MRNA",
-            "PFE",
             "NVAX"
         ]
     }

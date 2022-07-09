@@ -1,4 +1,127 @@
 {
+    "5be0ee32-a777-3d3f-952d-8e86d869c042": {
+        "uuid": "5be0ee32-a777-3d3f-952d-8e86d869c042",
+        "title": "Chinook (KDNY) Stock Rallies 24.2% in 3 Months: Here's Why",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/chinook-kdny-stock-rallies-24-154403301.html",
+        "providerPublishTime": 1657295043,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OzqoHpmQtUN54ovmQb5mOw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xv6z5qOXwMUPNA44Zi9mdw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "NVO"
+        ]
+    },
+    "91e9c6e0-09da-3d27-a852-df97805a539e": {
+        "uuid": "91e9c6e0-09da-3d27-a852-df97805a539e",
+        "title": "AbbVie Dumps An Early-Alzheimer's Candidate Developing In Collaboration With Alector",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/abbvie-dumps-early-alzheimers-candidate-145434271.html",
+        "providerPublishTime": 1657292074,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OeQV5uFstX6KCklkhSGUPg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LOFncHjjzLp5kT6ngMxGxQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/772b611ccac4e6982af97e64f27bb466",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lPTh15kzNdDsW_OjOt.PUA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LOFncHjjzLp5kT6ngMxGxQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/772b611ccac4e6982af97e64f27bb466",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ALEC",
+            "ABBV"
+        ]
+    },
+    "26ca078c-b566-3795-8fd4-237ada4e5f40": {
+        "uuid": "26ca078c-b566-3795-8fd4-237ada4e5f40",
+        "title": "AbbVie to Host Second-Quarter 2022 Earnings Conference Call",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-host-second-quarter-2022-120000820.html",
+        "providerPublishTime": 1657281600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/D_cxxJbErM2yl5DJGSCu1Q--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CFDNKvzX2Dkg0nHnWn_5WQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/47bc8e574572494323d5e3bb25e328fd",
+                    "width": 16,
+                    "height": 16,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yfya7nmAgWIll0GiPlWIDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CFDNKvzX2Dkg0nHnWn_5WQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/47bc8e574572494323d5e3bb25e328fd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "e9e13ec4-da92-3bec-99b8-9fec8cb4415f": {
+        "uuid": "e9e13ec4-da92-3bec-99b8-9fec8cb4415f",
+        "title": "Want to Beat the Bear Market? Try These 2 Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e9e13ec4-da92-3bec-99b8-9fec8cb4415f/want-to-beat-the-bear-market%3F.html",
+        "providerPublishTime": 1657274400,
+        "type": "STORY",
+        "relatedTickers": [
+            "ABBV",
+            "VRTX"
+        ]
+    },
+    "1480282f-1c85-3872-af3e-d7ba5cb0fc17": {
+        "uuid": "1480282f-1c85-3872-af3e-d7ba5cb0fc17",
+        "title": "Alzheimer's drug cut loose from Peninsula biotech's collaboration but another survives",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/1480282f-1c85-3872-af3e-d7ba5cb0fc17/alzheimer%27s-drug-cut-loose.html",
+        "providerPublishTime": 1657231178,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4UH9gya41IdZPq7MzzYw6g--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UVYijd16SvNdYfY5WJf1dg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/6476cf241b098e303d6441e458a8a701",
+                    "width": 1440,
+                    "height": 962,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WOgwII6k1TM7TqzGXsjgPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UVYijd16SvNdYfY5WJf1dg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/6476cf241b098e303d6441e458a8a701",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "ALEC"
+        ]
+    },
     "95303f78-9bfd-33a5-b79e-85b4a9e0288c": {
         "uuid": "95303f78-9bfd-33a5-b79e-85b4a9e0288c",
         "title": "Senate Finance report says AbbVie shifted profit overseas to cut taxes",
@@ -82,145 +205,6 @@
             "SPGI",
             "ABBV",
             "CAG"
-        ]
-    },
-    "b3321fef-f056-3610-b073-961b446285e6": {
-        "uuid": "b3321fef-f056-3610-b073-961b446285e6",
-        "title": "Senate Report Hits AbbVie\u2019s Bermuda Tax Structure for U.S. Humira Sales",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/b3321fef-f056-3610-b073-961b446285e6/senate-report-hits-abbvie%E2%80%99s.html",
-        "providerPublishTime": 1657184400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/a2mEeDeNQi4ZP48DATVCdw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z_lHiioJ0IoIjvFLELQjhA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/5231df6e92ba627ffab7c7898d571ee6",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/61gDhsTwWkJZWKeW7nsrxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z_lHiioJ0IoIjvFLELQjhA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/5231df6e92ba627ffab7c7898d571ee6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "a0a7f061-b4c2-3b33-93ff-4ee5a7df0939": {
-        "uuid": "a0a7f061-b4c2-3b33-93ff-4ee5a7df0939",
-        "title": "Applied Molecular Shares Tumble After Disappointing Data From Mid-Stage Ulcerative Colitis Study",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/applied-molecular-shares-tumble-disappointing-125609288.html",
-        "providerPublishTime": 1657112169,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uw_9ZhQ2zx_uiNDOPNpajQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OActccoEOL10.PqGwnUXrA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0aeb32b2528c9c9d82a0ebfc0bd46bad",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VMWIna_HdGN8HAjFBldfpw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OActccoEOL10.PqGwnUXrA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0aeb32b2528c9c9d82a0ebfc0bd46bad",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "8d9434e3-b6b7-3a04-87e4-51e5e69f436c": {
-        "uuid": "8d9434e3-b6b7-3a04-87e4-51e5e69f436c",
-        "title": "These 5 Top Stocks Are Set to Outperform in a Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8d9434e3-b6b7-3a04-87e4-51e5e69f436c/these-5-top-stocks-are-set-to.html",
-        "providerPublishTime": 1657106520,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q9qLx_5iX7sWLMqCobHnUg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WiVjEgcV7HW9kXqEobj7uA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8ee70757418fad5c69de0bd4e217ca69",
-                    "width": 1400,
-                    "height": 873,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Gx.U.1GLNfut4fG.UNY7_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WiVjEgcV7HW9kXqEobj7uA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8ee70757418fad5c69de0bd4e217ca69",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMT",
-            "ABBV",
-            "PANW",
-            "ISRG"
-        ]
-    },
-    "c69dcafb-9967-3ee8-842f-74a1b95a5807": {
-        "uuid": "c69dcafb-9967-3ee8-842f-74a1b95a5807",
-        "title": "AbbVie (ABBV) Gains But Lags Market: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-gains-lags-market-214509647.html",
-        "providerPublishTime": 1657057509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gS0nw.47qgAgvrgADz_fWQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
-                    "width": 900,
-                    "height": 601,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ybt7Kr93VFMGfaWqBsqsmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w.ILboV799eZj6zbyZJ3SQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "^GSPC"
-        ]
-    },
-    "58c7dbc0-e42f-3cf9-a05f-ada610b730f4": {
-        "uuid": "58c7dbc0-e42f-3cf9-a05f-ada610b730f4",
-        "title": "This Blockbuster Drug from AbbVie Is Closer to Another Major Indication",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/58c7dbc0-e42f-3cf9-a05f-ada610b730f4/this-blockbuster-drug-from.html",
-        "providerPublishTime": 1657020600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jPtg44baL2B4uShCEfNXaA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fkj_ahv78sweZPKU87JYwg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/21836605811fec94d2719c98c30f5487",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BvVGf63TOAYA2bUR7deU4w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fkj_ahv78sweZPKU87JYwg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/21836605811fec94d2719c98c30f5487",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
         ]
     }
 }

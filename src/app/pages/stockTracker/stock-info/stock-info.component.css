@@ -1,3 +1,4 @@
-div {
+.stock-info-header {
     display: flex;
+    align-items: center;
 }

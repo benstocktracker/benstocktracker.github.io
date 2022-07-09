@@ -1,11 +1,38 @@
 {
     "3302cce0-77b5-3dcd-aaf1-592ea162d82a": {
         "uuid": "3302cce0-77b5-3dcd-aaf1-592ea162d82a",
-        "title": "UPDATE 1-Michigan orders more information from Canada's Enbridge on Line 5 tunnel application",
+        "title": "UPDATE 2-Michigan orders more information from Canada's Enbridge on Line 5 tunnel application",
         "publisher": "Reuters",
         "link": "https://finance.yahoo.com/news/1-michigan-orders-more-information-215821573.html",
         "providerPublishTime": 1657231101,
         "type": "STORY",
+        "relatedTickers": [
+            "ENB"
+        ]
+    },
+    "84f496a0-4f19-3d9e-a9b0-de9453747982": {
+        "uuid": "84f496a0-4f19-3d9e-a9b0-de9453747982",
+        "title": "Enbridge (ENB) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/enbridge-enb-outpaces-stock-market-215009756.html",
+        "providerPublishTime": 1657230609,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TGgE1g6I36MqaArClAVM8Q--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
+                    "width": 3000,
+                    "height": 2351,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/X6HH5WHRBVE_mPuR0o1BVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
             "ENB"
         ]
@@ -168,39 +195,6 @@
             "DLR-PK",
             "ENB",
             "WM"
-        ]
-    },
-    "bfc887c4-5280-3f10-9609-727feb9a2e73": {
-        "uuid": "bfc887c4-5280-3f10-9609-727feb9a2e73",
-        "title": "7 Retirement Stocks to Buy in July",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-retirement-stocks-buy-july-105720460.html",
-        "providerPublishTime": 1656673040,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/q6rHkv_ZsPX3kxyATdmKww--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/q9O7.rh4jY0W4jDpYuYnZQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/80f06c16df58a4746be481b645393005",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tmzCQz9kHomQq8ErHvTcdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/q9O7.rh4jY0W4jDpYuYnZQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/80f06c16df58a4746be481b645393005",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "CAT",
-            "STT",
-            "ORCL",
-            "STZ-B",
-            "ENB",
-            "GSK"
         ]
     }
 }

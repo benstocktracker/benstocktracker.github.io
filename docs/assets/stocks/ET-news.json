@@ -1,4 +1,75 @@
 {
+    "83072709-c011-34a4-abc4-6213c6a40ae2": {
+        "uuid": "83072709-c011-34a4-abc4-6213c6a40ae2",
+        "title": "Energy Transfer Announces Second Quarter 2022 Earnings Release and Earnings Call Timing",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/energy-transfer-announces-second-quarter-150000458.html",
+        "providerPublishTime": 1657292400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WLmCRAbfDyyjnNVErxPwOQ--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TTaJA8o_mnwGDXOdlM2VPg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/3ec1b8750bf73d4286ba015a775c20dc",
+                    "width": 480,
+                    "height": 140,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hLaVgY4KVHe.jBbZcTivmQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TTaJA8o_mnwGDXOdlM2VPg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/3ec1b8750bf73d4286ba015a775c20dc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET",
+            "ET-PC",
+            "ET-PD",
+            "ET-PE"
+        ]
+    },
+    "9bfb2124-5784-3643-958f-fbe164d73154": {
+        "uuid": "9bfb2124-5784-3643-958f-fbe164d73154",
+        "title": "Energy Stocks: 2 to Buy and 1 to Avoid in July",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/9bfb2124-5784-3643-958f-fbe164d73154/energy-stocks%3A-2-to-buy-and-1.html",
+        "providerPublishTime": 1657290600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.b75Vq3UlgR3z0jr73QNDg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Mp.qDKtHr84b0cWeM.We7A--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6467e7cdfce7336d37c5d4b086389a53",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/prJL_Hd.MVZftXjPpHGJPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Mp.qDKtHr84b0cWeM.We7A--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6467e7cdfce7336d37c5d4b086389a53",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WMB",
+            "OKE",
+            "ET-PD"
+        ]
+    },
+    "d6be2764-58a9-3f6a-a737-4924ea3c44ef": {
+        "uuid": "d6be2764-58a9-3f6a-a737-4924ea3c44ef",
+        "title": "UPDATE 2-Energy Transfer natural gas pipeline explodes near Houston",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-firefighters-extinguish-energy-transfer-190340908.html",
+        "providerPublishTime": 1657220620,
+        "type": "STORY",
+        "relatedTickers": [
+            "NG=F",
+            "ET-PD"
+        ]
+    },
     "d17cde2b-37ef-39df-b28c-f5db93e85b5f": {
         "uuid": "d17cde2b-37ef-39df-b28c-f5db93e85b5f",
         "title": "Energy Transfer LP (ET) Stock Sinks As Market Gains: What You Should Know",
@@ -120,101 +191,6 @@
         "relatedTickers": [
             "PBFX",
             "ET-PD"
-        ]
-    },
-    "c4e8639a-ed62-3e57-9163-3edced909d01": {
-        "uuid": "c4e8639a-ed62-3e57-9163-3edced909d01",
-        "title": "6 High-Yield Stocks With Good Upside Potential",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/6-high-yield-stocks-good-102153802.html",
-        "providerPublishTime": 1656325313,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Kn2lJSpr6xTJavsCydzYqA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2ulRQQ_vXAlvdBG98on8lA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4bf27f13cc4d00f608f26c61f89fa923",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kZRW9xMWphUw2v.g0MsdTw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2ulRQQ_vXAlvdBG98on8lA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4bf27f13cc4d00f608f26c61f89fa923",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "STOR",
-            "KT",
-            "DVN",
-            "ET-PD",
-            "LYB",
-            "SRC"
-        ]
-    },
-    "34ad2a72-8cf1-386b-90c7-4a071e5dc6c1": {
-        "uuid": "34ad2a72-8cf1-386b-90c7-4a071e5dc6c1",
-        "title": "3 High-Yield Dividend Stocks That Could Soar",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/34ad2a72-8cf1-386b-90c7-4a071e5dc6c1/3-high-yield-dividend-stocks.html",
-        "providerPublishTime": 1656071400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y.dynWW.j.NfDuxwwYi57Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KO0xpHalYOQQkgSqyvetBQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/23eb1cb5ad54b9a1acf65c72b1c00ed5",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9zzqpv._2y5YBZlVmfFh1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KO0xpHalYOQQkgSqyvetBQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/23eb1cb5ad54b9a1acf65c72b1c00ed5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MAIN",
-            "ET-PD",
-            "WEC"
-        ]
-    },
-    "7f878751-886f-32c2-a07f-1e0428243247": {
-        "uuid": "7f878751-886f-32c2-a07f-1e0428243247",
-        "title": "David Abrams\u2019 2022 Portfolio: Top 10 Stock Picks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/david-abrams-2022-portfolio-top-130048953.html",
-        "providerPublishTime": 1655989248,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jRdmrBQShrXbMkKRbaJ1bA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hg_sy_Vgsx0w7ilYQ0RO6A--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dd66b0dc13c3c0eeb3b19fd808662454",
-                    "width": 450,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fK5IEU5SB5ZRpRD52myj0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hg_sy_Vgsx0w7ilYQ0RO6A--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dd66b0dc13c3c0eeb3b19fd808662454",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD",
-            "UHAL",
-            "META",
-            "WTW",
-            "CPNG",
-            "CHNG",
-            "GOOGL",
-            "TDG"
         ]
     }
 }
