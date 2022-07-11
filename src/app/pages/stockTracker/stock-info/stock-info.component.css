@@ -1,4 +1,25 @@
+.stock-title {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+}
+
+.stock-name {
+    font-size: 5rem;
+}
+
+
 .stock-info-header {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
+}
+
+app-single-quote-widget {
+  margin-right: 20px;
+}
+
+mat-divider {
+    margin: 20px;
 }

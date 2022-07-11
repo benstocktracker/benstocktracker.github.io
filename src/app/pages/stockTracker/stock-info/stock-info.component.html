@@ -1,16 +1,37 @@
-<div class="stock-info-header">
-  <app-single-quote-widget [symbol]="symbol"></app-single-quote-widget>
+<div class="stock-title">
+  <span class="stock-name">{{ stockInfo.stats.quoteType.longName }}</span>
+</div>
+<mat-button-toggle-group>
+  <mat-button-toggle disabled value="">{{ stockInfo.stats.quoteType.symbol }}</mat-button-toggle>
+  <mat-button-toggle disabled value="">{{ stockInfo.stats.quoteType.quoteType | titlecase }}</mat-button-toggle>
+  <mat-button-toggle disabled value="">{{ stockInfo.stats.summaryProfile.sector }}</mat-button-toggle>
+  <mat-button-toggle disabled value="">{{ stockInfo.stats.summaryProfile.industry }}</mat-button-toggle>
+  <mat-button-toggle disabled value="">{{ stockInfo.stats.summaryProfile.country }}</mat-button-toggle>
+  <mat-button-toggle disabled value="">
+   <a href="{{ stockInfo.stats.summaryProfile.website }}">{{ stockInfo.stats.summaryProfile.website }}</a>
+  </mat-button-toggle>
+</mat-button-toggle-group>
 
+<mat-divider></mat-divider>
+
+<div class="stock-info-header">
+  <!-- <app-single-quote-widget [symbol]="symbol"></app-single-quote-widget> -->
   <app-stat-card
-  icon="percent"
-  [value]="stockInfo.stats.summaryDetail.beta"
+  icon="numbers"
+  [value]="(stockInfo.stats.summaryDetail.beta || '').toFixed(4)"
   subtitle="Beta"
   ></app-stat-card>
   
   <app-stat-card
   icon="percent"
-  [value]="stockInfo.stats.summaryDetail.forwardPE"
+  [value]="stockInfo.stats.defaultKeyStatistics.forwardPE.toFixed(2)"
   subtitle="Forward PE"
+  ></app-stat-card>
+
+  <app-stat-card
+  icon="percent"
+  [value]="stockInfo.stats.defaultKeyStatistics.forwardEps.toFixed(2)"
+  subtitle="Forward EPS"
   ></app-stat-card>
 
   <app-stat-card
@@ -24,7 +45,45 @@
   [value]="stockInfo.stats.summaryDetail.volume"
   subtitle="Volume"
   ></app-stat-card>
+
+  <app-stat-card
+  icon="paid"
+  [value]="stockInfo.stats.summaryDetail.fiftyTwoWeekLow"
+  subtitle="52 Week Low"
+  ></app-stat-card>
+
+  <app-stat-card
+  icon="paid"
+  [value]="stockInfo.stats.summaryDetail.fiftyTwoWeekHigh"
+  subtitle="52 Week High"
+  ></app-stat-card>
+
+  <app-stat-card
+  icon="paid"
+  [value]="stockInfo.stats.summaryDetail.fiftyDayAverage.toFixed(2)"
+  subtitle="50 Day Average"
+  ></app-stat-card>
+
+  <app-stat-card
+  icon="paid"
+  [value]="stockInfo.stats.summaryDetail.twoHundredDayAverage.toFixed(2)"
+  subtitle="200 Day Average"
+  ></app-stat-card>
+
+  <app-stat-card
+  icon="percent"
+  [value]="stockInfo.stats.defaultKeyStatistics['52WeekChange'].toFixed(4)"
+  subtitle="52 Week Change"
+  ></app-stat-card>
+  
+  <app-stat-card
+  icon="percent"
+  [value]="stockInfo.stats.defaultKeyStatistics.SandP52WeekChange.toFixed(4)"
+  subtitle="S&P 52 Week Change"
+  ></app-stat-card>
 </div>
+
+<mat-divider></mat-divider>
 
 <app-stock-chart-panel [symbol]="symbol"></app-stock-chart-panel>
 
@@ -32,4 +91,5 @@
   [symbol]="symbol"
   displayMode="compact"
 ></app-symbol-financials-widget>
+
 <app-symbol-profile-widget [symbol]="symbol"></app-symbol-profile-widget>

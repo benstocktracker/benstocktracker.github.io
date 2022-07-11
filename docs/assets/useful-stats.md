@@ -21,18 +21,18 @@ price.averageDailyVolume10Day
 price.averageDailyVolume3Month
 price.marketCap
 
-price.symbol
-price.quoteType
-price.shortName
-price.longName
+            price.symbol
+            price.quoteType
+            price.shortName
+            price.longName
 price.currency
 price.currencySymbol
 
-quoteType.symbol
+quoteType.symbol    x
+quoteType.quoteType x
 quoteType.shortName
-quoteType.longName
-quoteType.quoteType
-quoteType.market
+quoteType.longName  x
+quoteType.market    x
 
 financialData.currentPrice
 financialData.debtToEquity
@@ -64,15 +64,15 @@ financialData.totalCashPerShare
 financialData.totalDebt
 financialData.totalRevenue
 
-defaultKeyStatistics.52WeekChange
-defaultKeyStatistics.SandP52WeekChange
+defaultKeyStatistics.52WeekChange   x
+defaultKeyStatistics.SandP52WeekChange  x
 
 defaultKeyStatistics.beta
 defaultKeyStatistics.bookValue
 defaultKeyStatistics.priceToBook
 defaultKeyStatistics.pegRatio
-defaultKeyStatistics.forwardPE
-defaultKeyStatistics.forwardEps
+defaultKeyStatistics.forwardPE  x
+defaultKeyStatistics.forwardEps x
 defaultKeyStatistics.trailingEps
 defaultKeyStatistics.profitMargins
 defaultKeyStatistics.earningsQuarterlyGrowth
@@ -86,15 +86,15 @@ defaultKeyStatistics.sharesOutstanding
 defaultKeyStatistics.heldPercentInsiders
 defaultKeyStatistics.heldPercentInstitutions
 
-summaryDetail.beta
+summaryDetail.beta  x
 summaryDetail.forwardPE
 summaryDetail.trailingPE
-summaryDetail.marketCap
-summaryDetail.volume
-summaryDetail.fiftyTwoWeekHigh
-summaryDetail.fiftyTwoWeekLow
-summaryDetail.fiftyDayAverage
-summaryDetail.twoHundredDayAverage
+summaryDetail.marketCap x
+summaryDetail.volume    x
+summaryDetail.fiftyTwoWeekHigh  x
+summaryDetail.fiftyTwoWeekLow   x
+summaryDetail.fiftyDayAverage   x
+summaryDetail.twoHundredDayAverage  x
 
 summaryDetail.previousClose
 summaryDetail.open
