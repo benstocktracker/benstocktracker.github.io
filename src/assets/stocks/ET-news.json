@@ -1,4 +1,86 @@
 {
+    "d64989f0-bcbd-3981-8727-2b376ba30518": {
+        "uuid": "d64989f0-bcbd-3981-8727-2b376ba30518",
+        "title": "Energy Transfer LP (ET) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509567.html",
+        "providerPublishTime": 1657748709,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R8B4awdI246EbZIDm2Hv5Q--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/t6.OdXEVKQihFo9otNenfg--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
+                    "width": 900,
+                    "height": 565,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XmEjhHQKxU2qqFLKIIPZbw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t6.OdXEVKQihFo9otNenfg--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
+    "b4453a33-402a-3b33-8a5a-3e5c5a5976ee": {
+        "uuid": "b4453a33-402a-3b33-8a5a-3e5c5a5976ee",
+        "title": "Sunoco LP Announces 2Q 2022 Earnings Release and Call Timing",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/sunoco-lp-announces-2q-2022-200000200.html",
+        "providerPublishTime": 1657656000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4fGhFJ9ltHfAoOu4W9iN6g--~B/aD01Njt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/ljDSuW2Fn4G.Ta5cqXY_kQ--~B/aD01Njt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a18822e479144e6af359140e8668c91a",
+                    "width": 400,
+                    "height": 56,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xaELycjag8c3va_6ynlnNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ljDSuW2Fn4G.Ta5cqXY_kQ--~B/aD01Njt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a18822e479144e6af359140e8668c91a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET",
+            "ET-PC",
+            "ET-PD",
+            "ET-PE",
+            "SUN"
+        ]
+    },
+    "b3b0ff4f-2ebc-3a0f-954a-a7689d3ef12c": {
+        "uuid": "b3b0ff4f-2ebc-3a0f-954a-a7689d3ef12c",
+        "title": "Why Energy Transfer Soared Over 20% in the First Half of 2022",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b3b0ff4f-2ebc-3a0f-954a-a7689d3ef12c/why-energy-transfer-soared.html",
+        "providerPublishTime": 1657635680,
+        "type": "STORY",
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
+    "605e9099-ffdf-3c87-aba7-dd787abfdeca": {
+        "uuid": "605e9099-ffdf-3c87-aba7-dd787abfdeca",
+        "title": "3 Passive Income Stocks to Look at While There's Still Time",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/605e9099-ffdf-3c87-aba7-dd787abfdeca/3-passive-income-stocks-to.html",
+        "providerPublishTime": 1657380600,
+        "type": "STORY",
+        "relatedTickers": [
+            "CWEN-A",
+            "ET-PD",
+            "ROK"
+        ]
+    },
     "83072709-c011-34a4-abc4-6213c6a40ae2": {
         "uuid": "83072709-c011-34a4-abc4-6213c6a40ae2",
         "title": "Energy Transfer Announces Second Quarter 2022 Earnings Release and Earnings Call Timing",
@@ -96,101 +178,6 @@
         "relatedTickers": [
             "ET-PD",
             "^GSPC"
-        ]
-    },
-    "1d9ae2c8-0a4a-3efe-88f0-8d0e904c9cda": {
-        "uuid": "1d9ae2c8-0a4a-3efe-88f0-8d0e904c9cda",
-        "title": "Energy Transfer LP (ET) Is a Trending Stock: Facts to Know Before Betting on It",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-trending-130001911.html",
-        "providerPublishTime": 1656939601,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ffKO.4EbCj1BJM65zWy0mg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
-                    "width": 900,
-                    "height": 601,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/95p02wXX_mPZm4qTHztw1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "09dd68a9-7ca7-3a4a-9fc1-4d2e602900a9": {
-        "uuid": "09dd68a9-7ca7-3a4a-9fc1-4d2e602900a9",
-        "title": "3 Passive Income Opportunities the Bear Market Has Churned Up",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/09dd68a9-7ca7-3a4a-9fc1-4d2e602900a9/3-passive-income.html",
-        "providerPublishTime": 1656768600,
-        "type": "STORY",
-        "relatedTickers": [
-            "PSX",
-            "ET-PD"
-        ]
-    },
-    "bbacd2b8-df8b-3a33-a986-3e8c87f57b83": {
-        "uuid": "bbacd2b8-df8b-3a33-a986-3e8c87f57b83",
-        "title": "Energy Transfer LP (ET) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509564.html",
-        "providerPublishTime": 1656366309,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SAL_BV4Lqcz677Hwp3FpIw--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
-                    "width": 1000,
-                    "height": 603,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UFSM7lesnJ4LZBk9Z57AzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD",
-            "^GSPC"
-        ]
-    },
-    "438fdef3-25bb-35cd-a2d4-d7af60ada061": {
-        "uuid": "438fdef3-25bb-35cd-a2d4-d7af60ada061",
-        "title": "PBF Logistics LP (PBFX) Stock Jumps 10.5%: Will It Continue to Soar?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pbf-logistics-lp-pbfx-stock-124712917.html",
-        "providerPublishTime": 1656334032,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hbGi6DNvr5JP4FnpdaDqOw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rKKQU6icFw_cY7r5zs2jVg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6c6532143bb000630dd2c034345ca622",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NSC_4BKFAcuSKO3qqS2hzQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rKKQU6icFw_cY7r5zs2jVg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6c6532143bb000630dd2c034345ca622",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PBFX",
-            "ET-PD"
         ]
     }
 }

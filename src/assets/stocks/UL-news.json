@@ -1,4 +1,55 @@
 {
+    "cb212c90-12b8-3e70-a07f-f0788e367174": {
+        "uuid": "cb212c90-12b8-3e70-a07f-f0788e367174",
+        "title": "Activist investors wage record number of campaigns in Europe",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/cb212c90-12b8-3e70-a07f-f0788e367174/activist-investors-wage.html",
+        "providerPublishTime": 1657627216,
+        "type": "STORY",
+        "relatedTickers": [
+            "HSBC",
+            "PIAIF",
+            "PNGAY",
+            "UL",
+            "UNLYF",
+            "RYDAF",
+            "SHEL"
+        ]
+    },
+    "f2b394d5-147a-3ea2-b10f-4c737c0c5177": {
+        "uuid": "f2b394d5-147a-3ea2-b10f-4c737c0c5177",
+        "title": "Unilever-Backed Venture Firm Cathay Raising 1 Billion-Euro Fund",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/unilever-backed-venture-firm-cathay-080000598.html",
+        "providerPublishTime": 1657612800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3URagc4xddsAEi.wcqsy8w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/26gNrXbA0.yt.v4Dobg_4w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/583665aad81644b42d4bf33142986d44",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LQhHKd8qkKNuET3qTiLHmQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/26gNrXbA0.yt.v4Dobg_4w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/583665aad81644b42d4bf33142986d44",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "UL",
+            "UNLYF",
+            "SNY",
+            "SNYNF",
+            "TTE",
+            "TTFNF",
+            "SFTBF",
+            "SFTBY"
+        ]
+    },
     "b8ff552f-6455-39a2-b8bf-349cfc3397c2": {
         "uuid": "b8ff552f-6455-39a2-b8bf-349cfc3397c2",
         "title": "2 Top Value Stocks to Buy Right Now",
@@ -140,44 +191,6 @@
         "relatedTickers": [
             "UL",
             "UNLYF"
-        ]
-    },
-    "69d09588-2391-369a-ac01-523c1f29e7e0": {
-        "uuid": "69d09588-2391-369a-ac01-523c1f29e7e0",
-        "title": "Ben & Jerry\u2019s Sues Parent Unilever to Block West Bank Ice Cream Deal",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/ben-jerry-sues-parent-unilever-081638159.html",
-        "providerPublishTime": 1657095398,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/51N87SHfhQs7CTvET2L0LA--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/QwqIW4PmCKnJKqCP7Ta7Cw--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/127f7744248f8bdb7470edf24b6fd053",
-                    "width": 2000,
-                    "height": 1335,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P8vP04p6DQm_JEn2HH03Hg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QwqIW4PmCKnJKqCP7Ta7Cw--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/127f7744248f8bdb7470edf24b6fd053",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "UL"
-        ]
-    },
-    "5afa44ac-a8ad-3d65-b5a4-af4554648e25": {
-        "uuid": "5afa44ac-a8ad-3d65-b5a4-af4554648e25",
-        "title": "PRESS DIGEST-Wall Street Journal - July 6",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/press-digest-wall-street-journal-050956787.html",
-        "providerPublishTime": 1657084196,
-        "type": "STORY",
-        "relatedTickers": [
-            "UL"
         ]
     }
 }

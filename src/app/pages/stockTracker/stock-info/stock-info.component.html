@@ -8,7 +8,19 @@
   <mat-button-toggle disabled value="">{{ stockInfo.stats.summaryProfile.industry }}</mat-button-toggle>
   <mat-button-toggle disabled value="">{{ stockInfo.stats.summaryProfile.country }}</mat-button-toggle>
   <mat-button-toggle disabled value="">
-   <a href="{{ stockInfo.stats.summaryProfile.website }}">{{ stockInfo.stats.summaryProfile.website }}</a>
+    <a href="{{ stockInfo.stats.summaryProfile.website }}" target="_blank">{{ stockInfo.stats.summaryProfile.website }}</a>
+  </mat-button-toggle>
+  <mat-button-toggle disabled value="">
+    <a href="{{ wallmineLink }}" target="_blank">{{ stockInfo.stats.symbol }} @ Wallmine</a>
+  </mat-button-toggle>
+  <mat-button-toggle disabled value="">
+    <a href="{{ finvizLink }}" target="_blank">{{ stockInfo.stats.symbol }} @ Finviz</a>
+  </mat-button-toggle>
+  <mat-button-toggle disabled value="">
+    <a href="{{ hyperchartsLink }}" target="_blank">{{ stockInfo.stats.symbol }} @ Hypercharts</a>
+  </mat-button-toggle>
+  <mat-button-toggle disabled value="">
+    <a href="{{ tradingviewLink }}" target="_blank">{{ stockInfo.stats.symbol }} @ Tradingview</a>
   </mat-button-toggle>
 </mat-button-toggle-group>
 
@@ -88,8 +100,8 @@
 <app-stock-chart-panel [symbol]="symbol"></app-stock-chart-panel>
 
 <app-symbol-financials-widget
-  [symbol]="symbol"
+  [symbol]="exchange + ':' + symbol"
   displayMode="compact"
 ></app-symbol-financials-widget>
 
-<app-symbol-profile-widget [symbol]="symbol"></app-symbol-profile-widget>
+<app-symbol-profile-widget [symbol]="exchange + ':' + symbol"></app-symbol-profile-widget>

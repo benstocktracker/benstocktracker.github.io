@@ -1,4 +1,15 @@
 {
+    "8dcd1996-a021-3f10-a9ba-33c5b7e89058": {
+        "uuid": "8dcd1996-a021-3f10-a9ba-33c5b7e89058",
+        "title": "Why You Won't Want to Miss This Elite Dividend Stock",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8dcd1996-a021-3f10-a9ba-33c5b7e89058/why-you-won%27t-want-to-miss.html",
+        "providerPublishTime": 1657630800,
+        "type": "STORY",
+        "relatedTickers": [
+            "FRT"
+        ]
+    },
     "a08f5540-a9cc-31eb-9af3-787963c2532d": {
         "uuid": "a08f5540-a9cc-31eb-9af3-787963c2532d",
         "title": "Federal Realty Investment Trust Announces Second Quarter 2022 Earnings Release Date and Conference Call Information",
@@ -132,38 +143,6 @@
             "WELL",
             "PSA-PM",
             "PEAK"
-        ]
-    },
-    "3e939ea2-0e2e-376c-907b-df6bd8f6a975": {
-        "uuid": "3e939ea2-0e2e-376c-907b-df6bd8f6a975",
-        "title": "Q&A: How longtime REIT executive plans to deploy $500M-plus in US real estate development",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/3e939ea2-0e2e-376c-907b-df6bd8f6a975/q%26a%3A-how-longtime-reit.html",
-        "providerPublishTime": 1656338167,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rzwc.4bk5bam4XtAek3K9Q--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/eLq6X.SdnkAOh0tlgF8Bnw--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/a93bd2eec6a4e3e22c8d546e5ce00845",
-                    "width": 1440,
-                    "height": 2160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YiJz1xrcLoxxs_GYE0zzog--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eLq6X.SdnkAOh0tlgF8Bnw--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/a93bd2eec6a4e3e22c8d546e5ce00845",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC",
-            "SAND",
-            "CDR",
-            "CDR-PB",
-            "CDR-PC"
         ]
     }
 }

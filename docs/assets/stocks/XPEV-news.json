@@ -1,10 +1,42 @@
 {
+    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
+        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
+        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
+        "providerPublishTime": 1657791594,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "BYDDY",
+            "LI",
+            "^GSPC",
+            "^HSI",
+            "BABA"
+        ]
+    },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
         "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla Reclaims Key Level But Rival In Buy Zone",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla AI Chief Out; China EV Giant Sees Booming Profit Amid Buffett Rumors",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1657319784,
+        "providerPublishTime": 1657790364,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -31,23 +63,106 @@
             "RIVN"
         ]
     },
-    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
-        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: All Are Near Buy Points",
+    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
+        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
+        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-all.html",
-        "providerPublishTime": 1657315614,
+        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
+        "providerPublishTime": 1657745279,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
                     "width": 1000,
                     "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BYDDY",
+            "TSLA",
+            "XPEV"
+        ]
+    },
+    "a7598c74-63d5-3e84-8445-3c915764cbce": {
+        "uuid": "a7598c74-63d5-3e84-8445-3c915764cbce",
+        "title": "XPENG Robotics Raises $100M In Funding",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/xpeng-robotics-raises-100m-funding-105652898.html",
+        "providerPublishTime": 1657623412,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YkOJTNQkx.UKQmMzV148AA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Kgt2W4gv6J5Q1mSclEcHkA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9040150e596831a65b3a31e9744250b8",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YyWnnCczmVCiOKfEfcFI3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Kgt2W4gv6J5Q1mSclEcHkA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9040150e596831a65b3a31e9744250b8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV"
+        ]
+    },
+    "eae5fb4a-5ddd-3d27-84b2-11932480512d": {
+        "uuid": "eae5fb4a-5ddd-3d27-84b2-11932480512d",
+        "title": "XPeng's robotics unit raises US$100 million with the aim of commercialising its business in two years",
+        "publisher": "South China Morning Post",
+        "link": "https://finance.yahoo.com/news/xpengs-robotics-unit-raises-us-093000908.html",
+        "providerPublishTime": 1657618200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ivPwr3rKpYevJhijlAy9NA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JrnlMlqHcz1XC3kRnzWNMA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/98e37ecbc36bc0c72705d6a0bce54166",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g2bMn21lE_iIzg.cmUy0zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JrnlMlqHcz1XC3kRnzWNMA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/98e37ecbc36bc0c72705d6a0bce54166",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV"
+        ]
+    },
+    "3c3d361e-a520-304f-a737-a14cd1d9f414": {
+        "uuid": "3c3d361e-a520-304f-a737-a14cd1d9f414",
+        "title": "XPENG Robotics Completes US$100 Million Series A Fund Raising",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/xpeng-robotics-completes-us-100-072700510.html",
+        "providerPublishTime": 1657610820,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AtN4BALZQRU0rhYs_9bFWQ--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2d0oeOWxGhLq7DtyLCgf4g--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/7c054c63da6a9d9fc4662f0ca7c38ca7",
+                    "width": 480,
+                    "height": 270,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/utT0qcpHFKZxgaPvDe2xXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2d0oeOWxGhLq7DtyLCgf4g--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/7c054c63da6a9d9fc4662f0ca7c38ca7",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -56,11 +171,39 @@
         },
         "relatedTickers": [
             "XPEV",
-            "BYDDY",
-            "LI",
+            "XPNGF"
+        ]
+    },
+    "90f8b66c-3dd3-3db4-ab82-feb921bfb8b1": {
+        "uuid": "90f8b66c-3dd3-3db4-ab82-feb921bfb8b1",
+        "title": "NIO, other EV maker stocks drop after China imposes COVID-related restrictions",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/90f8b66c-3dd3-3db4-ab82-feb921bfb8b1/nio%2C-other-ev-maker-stocks.html",
+        "providerPublishTime": 1657537950,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
             "^GSPC",
-            "^HSI",
-            "BABA"
+            "XPEV",
+            "XPNGF",
+            "NIO",
+            "LI"
         ]
     },
     "7abf2968-810a-39d2-b416-42cb3039c542": {
@@ -93,169 +236,6 @@
             "XPNGF",
             "GME",
             "LI"
-        ]
-    },
-    "c8f374cc-b0e2-388d-bf79-b13905dd93fb": {
-        "uuid": "c8f374cc-b0e2-388d-bf79-b13905dd93fb",
-        "title": "Market check: Energy sector leads stocks towards fourth straight day of gains",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-energy-sector-leads-191408343.html",
-        "providerPublishTime": 1657221248,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ImG8Ji2Ba6ByHof7tGCmaA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
-                    "width": 2654,
-                    "height": 1490,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nzlv7qHfEE3XsqsD6mBifg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GME",
-            "TCEHY",
-            "TCTZF",
-            "NIO",
-            "XPEV",
-            "XPNGF",
-            "^TYX",
-            "^GSPC",
-            "XLC",
-            "^IXIC",
-            "^TNX",
-            "XLY",
-            "^FVX",
-            "^DJI",
-            "ARKK",
-            "AMC",
-            "XLE"
-        ]
-    },
-    "018d93ea-61f7-45cd-8d83-6ff1b73337b5": {
-        "uuid": "018d93ea-61f7-45cd-8d83-6ff1b73337b5",
-        "title": "GM sales in China hit by COVID lockdowns",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/gm-sales-in-china-hit-by-covid-lockdowns-171131600.html",
-        "providerPublishTime": 1657213891,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jHxI1aWO3sdNIJh5P05W_A--~B/aD0zMTA3O3c9NDY1NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
-                    "width": 4655,
-                    "height": 3107,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oTRW8Qbrz80pyqCAI7EpKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GM",
-            "LI",
-            "NIO",
-            "XPEV",
-            "XPNGF"
-        ]
-    },
-    "5637ace9-f7e9-3dcf-94d2-6456e04b25be": {
-        "uuid": "5637ace9-f7e9-3dcf-94d2-6456e04b25be",
-        "title": "Tesla Inc (TSLA) and 9 Other Consumer Discretionary Stocks That Have Wowed Billionaire Philippe Laffont",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/tesla-inc-tsla-9-other-152741841.html",
-        "providerPublishTime": 1657207661,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JWA6pPn8zkJqDkkGQSz.DQ--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
-                    "width": 489,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iPlQEYc1PzjO2al.b0LPOw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "UBER",
-            "XPEV",
-            "PTON",
-            "RIVN"
-        ]
-    },
-    "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2": {
-        "uuid": "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2",
-        "title": "XPeng Stock Shows Strong Q2 Delivery Numbers; Is It A Buy Now? Here's What Charts, Analysis Show",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a6c3f7e5-1831-3b8e-bddc-89cd40771ad2/xpeng-stock-shows-strong-q2.html",
-        "providerPublishTime": 1657146751,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9nNLHrbrYnFTXCpzZceUFg--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gp1XP6AS9gJ9Utl727s6Rw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0a55af9c134ab52f232d324db90592ce",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0z0NloUvLB4UAIfWT_gEfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gp1XP6AS9gJ9Utl727s6Rw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0a55af9c134ab52f232d324db90592ce",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV"
-        ]
-    },
-    "4a35381d-7c1a-32ae-a939-6c15066b62b2": {
-        "uuid": "4a35381d-7c1a-32ae-a939-6c15066b62b2",
-        "title": "EV Roundup: TSLA's Q2 Deliveries, VWAGY's ID. Aero Concept & More",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ev-roundup-tslas-q2-deliveries-130001370.html",
-        "providerPublishTime": 1657112401,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/h6BxCocMJpk61uHjUtZiaw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OelSGFLKJx2KRpa4EyzqyA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c00d3e9b62a4fce73851e6791888b7de",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZDw2AaF5HRkHMKc00WftJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OelSGFLKJx2KRpa4EyzqyA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c00d3e9b62a4fce73851e6791888b7de",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VWAPY",
-            "NIO",
-            "TSLA",
-            "LI",
-            "XPEV"
         ]
     }
 }

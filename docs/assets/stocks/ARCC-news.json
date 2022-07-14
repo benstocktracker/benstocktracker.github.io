@@ -1,4 +1,32 @@
 {
+    "932767af-6901-3a8e-a1f4-d786c391d538": {
+        "uuid": "932767af-6901-3a8e-a1f4-d786c391d538",
+        "title": "Ares Capital (ARCC) Dips More Than Broader Markets: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ares-capital-arcc-dips-more-221510517.html",
+        "providerPublishTime": 1657750510,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "width": 900,
+                    "height": 506,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC",
+            "^GSPC"
+        ]
+    },
     "4ecc8529-ab81-3319-a200-f461d33759af": {
         "uuid": "4ecc8529-ab81-3319-a200-f461d33759af",
         "title": "Ares Capital (ARCC) Gains But Lags Market: What You Should Know",
@@ -188,33 +216,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/uTiW2kiYux7pFB6nY3ZyvQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7h8ntzJXcDOdVmDKQ08gRg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e8e4b0344809eaac6d73c9fd25fd180a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ARCC"
-        ]
-    },
-    "e424ff61-5ccd-3b68-bf38-b94c60d247e4": {
-        "uuid": "e424ff61-5ccd-3b68-bf38-b94c60d247e4",
-        "title": "Ares Capital (ARCC) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ares-capital-arcc-dips-more-221510189.html",
-        "providerPublishTime": 1655244910,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yv0Cjkrp_j4iADVyQGnQWQ--~B/aD03NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kz0ozt3ejWMPXKci2JxOBw--~B/aD03NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
-                    "width": 1000,
-                    "height": 754,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/37S7aiiMvh4g_Mrqj8rDTg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kz0ozt3ejWMPXKci2JxOBw--~B/aD03NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

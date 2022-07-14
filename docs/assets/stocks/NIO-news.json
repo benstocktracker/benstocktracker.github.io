@@ -1,121 +1,21 @@
 {
-    "bcbca850-5855-34c3-8b7a-3bbf6e6cafad": {
-        "uuid": "bcbca850-5855-34c3-8b7a-3bbf6e6cafad",
-        "title": "NIO Inc. (NIO) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-inc-nio-gains-market-214509253.html",
-        "providerPublishTime": 1657316709,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nAH6fXoesF4FO.fkctxFig--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
-                    "width": 900,
-                    "height": 845,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bq.M_4Vj5tmmHLkoBQb0XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "cb170f64-705a-39c7-8468-9ef79ace00b3": {
-        "uuid": "cb170f64-705a-39c7-8468-9ef79ace00b3",
-        "title": "Here's Why Nio Shares Moved Down Before Recovering Today",
+    "fa1a3c6e-de96-348a-8109-446173a70007": {
+        "uuid": "fa1a3c6e-de96-348a-8109-446173a70007",
+        "title": "Why Nio Shares Bounced Back Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/cb170f64-705a-39c7-8468-9ef79ace00b3/here%27s-why-nio-shares-moved.html",
-        "providerPublishTime": 1657305908,
-        "type": "STORY",
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "6897abfd-8445-357c-9a70-76607c965f5c": {
-        "uuid": "6897abfd-8445-357c-9a70-76607c965f5c",
-        "title": "NIO Announces Ambitious Plans at its Recent Power Day 2022",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-announces-ambitious-plans-recent-143702000.html",
-        "providerPublishTime": 1657291022,
+        "link": "https://finance.yahoo.com/m/fa1a3c6e-de96-348a-8109-446173a70007/why-nio-shares-bounced-back.html",
+        "providerPublishTime": 1657730428,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FTSc6E23FilC9T0OxQ9VxA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zVkczPxyI6Z9c6ZQDYc8iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/22cecf4ad0ca1f0a5387d618d7255695",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b63d2ZQUXxM27m4eh91r6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zVkczPxyI6Z9c6ZQDYc8iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/22cecf4ad0ca1f0a5387d618d7255695",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "LKQ",
-            "BWA",
-            "SMP"
-        ]
-    },
-    "7abf2968-810a-39d2-b416-42cb3039c542": {
-        "uuid": "7abf2968-810a-39d2-b416-42cb3039c542",
-        "title": "Elon Musk\u2019s Twitter Buyout Isn\u2019t Looking Good, Not Least to Elon Musk",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/7abf2968-810a-39d2-b416-42cb3039c542/elon-musk%E2%80%99s-twitter-buyout.html",
-        "providerPublishTime": 1657276860,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bO8xNkI2qLsSLmdfjnn5pw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wGagK.lkJQIKwkTR03q8Qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "TWTR",
-            "XPEV",
-            "XPNGF",
-            "GME",
-            "LI"
-        ]
-    },
-    "2c0368d6-92f4-347a-bfd7-6563ef7ce670": {
-        "uuid": "2c0368d6-92f4-347a-bfd7-6563ef7ce670",
-        "title": "Why Nio Stock Rallied 24.9% in June and Could Jump Higher",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/2c0368d6-92f4-347a-bfd7-6563ef7ce670/why-nio-stock-rallied-24.9%25.html",
-        "providerPublishTime": 1657225500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8oQ9s.ph9x9Np0pYZ0nT0A--~B/aD03ODY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/h3dfVQErpzeQKUavYjha4w--~B/aD03ODY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2f0904c18e29446de115d6c2b1f70b15",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2ozKoH49bw5pLQjr7uSE_Q--~B/aD05OTU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kIoGGy0myWK_fxw2f65PCw--~B/aD05OTU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/264be5fc56294a18dc0b90fbaf286138",
                     "width": 1400,
-                    "height": 786,
+                    "height": 995,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Z1CJlbM.u_v.KQAlttD5mQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/h3dfVQErpzeQKUavYjha4w--~B/aD03ODY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2f0904c18e29446de115d6c2b1f70b15",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CwR2s_FGreNF_tghYNb5hA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kIoGGy0myWK_fxw2f65PCw--~B/aD05OTU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/264be5fc56294a18dc0b90fbaf286138",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -126,23 +26,23 @@
             "NIO"
         ]
     },
-    "c8f374cc-b0e2-388d-bf79-b13905dd93fb": {
-        "uuid": "c8f374cc-b0e2-388d-bf79-b13905dd93fb",
-        "title": "Market check: Energy sector leads stocks towards fourth straight day of gains",
+    "821451dd-8861-3145-a883-ea481de76069": {
+        "uuid": "821451dd-8861-3145-a883-ea481de76069",
+        "title": "Why more Americans are considering electric vehicles: Kelley Blue Book editor",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-energy-sector-leads-191408343.html",
-        "providerPublishTime": 1657221248,
+        "link": "https://finance.yahoo.com/video/why-more-americans-considering-electric-160036198.html",
+        "providerPublishTime": 1657728036,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ImG8Ji2Ba6ByHof7tGCmaA--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
-                    "width": 2654,
-                    "height": 1490,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aOGTlIHKbspmGcsw91.iqA--~B/aD0xNTQ2O3c9Mjc1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ec0c7b80-02c4-11ed-be49-c051f35d12a6",
+                    "width": 2754,
+                    "height": 1546,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nzlv7qHfEE3XsqsD6mBifg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f74e6620-fe28-11ec-bbaf-489baec542c8",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CE0D1C_nhr5vEuYQrV4hnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ec0c7b80-02c4-11ed-be49-c051f35d12a6",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -150,53 +50,136 @@
             ]
         },
         "relatedTickers": [
-            "GME",
-            "TCEHY",
-            "TCTZF",
+            "FSR",
+            "GM",
+            "NKLA",
+            "FFIE",
+            "LCID",
             "NIO",
-            "XPEV",
-            "XPNGF",
-            "^TYX",
-            "^GSPC",
-            "XLC",
-            "^IXIC",
-            "^TNX",
-            "XLY",
-            "^FVX",
-            "^DJI",
-            "ARKK",
-            "AMC",
-            "XLE"
+            "TSLA",
+            "VLTA",
+            "F",
+            "STLA"
         ]
     },
-    "98b9f36a-d7c8-3e93-a04a-efe869e4259f": {
-        "uuid": "98b9f36a-d7c8-3e93-a04a-efe869e4259f",
-        "title": "Why Nio Stock Popped Thursday",
+    "e9f516fc-2616-390b-a80a-c2494b350d2e": {
+        "uuid": "e9f516fc-2616-390b-a80a-c2494b350d2e",
+        "title": "Tesla\u2019s Berlin factory to produce only black and white Model Ys",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/tesla-berlin-factory-produce-only-154018069.html",
+        "providerPublishTime": 1657640418,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4wkNp2gRKB6zuiqBJQ6UdQ--~B/aD00MTMwO3c9NzM1MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd132510-01f8-11ed-aff9-725d113d5539",
+                    "width": 7351,
+                    "height": 4130,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mg419kEjINHnADNLfCtUOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd132510-01f8-11ed-aff9-725d113d5539",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "F",
+            "NIO",
+            "TM",
+            "TOYOF",
+            "TSLA",
+            "GM"
+        ]
+    },
+    "eb0bb025-8c25-3610-9bb8-4f5988719376": {
+        "uuid": "eb0bb025-8c25-3610-9bb8-4f5988719376",
+        "title": "NIO Power Day 2022 & VWAGY's $20B Battery Bet Rule EV Roundup Headlines",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-power-day-2022-vwagys-123312246.html",
+        "providerPublishTime": 1657629192,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rTbd5rPALUamzJHGJTZ8AQ--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QddNd8zYiozD4Lb39ye3TA--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a652645daaa73cefaa9e0831eb1582b9",
+                    "width": 620,
+                    "height": 413,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DQ0hD0dFw1Atsn2rs5QYQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QddNd8zYiozD4Lb39ye3TA--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a652645daaa73cefaa9e0831eb1582b9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO",
+            "TSLA",
+            "GP",
+            "RIVN",
+            "VWAPY"
+        ]
+    },
+    "fa1cce1e-b7fb-3455-b534-357bda432eef": {
+        "uuid": "fa1cce1e-b7fb-3455-b534-357bda432eef",
+        "title": "NIO conducts own probe into Grizzly short-seller report, retains forensic accounting firm",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/fa1cce1e-b7fb-3455-b534-357bda432eef/nio-conducts-own-probe-into.html",
+        "providerPublishTime": 1657555800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zhCyCpNFRZuejRnqztDVaw--~B/aD02Mzk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AWBaPhdOMJosr9C09l5jZg--~B/aD02Mzk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b04ef2d7dcd854c1fe96de9de8df3029",
+                    "width": 1280,
+                    "height": 639,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_K6NuJS0CrzEzXanIKfWvw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AWBaPhdOMJosr9C09l5jZg--~B/aD02Mzk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b04ef2d7dcd854c1fe96de9de8df3029",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "3c2618a5-b8bf-3a20-9d20-cda71cb0079d": {
+        "uuid": "3c2618a5-b8bf-3a20-9d20-cda71cb0079d",
+        "title": "Why Nio Shares Plunged Monday",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/98b9f36a-d7c8-3e93-a04a-efe869e4259f/why-nio-stock-popped-thursday.html",
-        "providerPublishTime": 1657221029,
+        "link": "https://finance.yahoo.com/m/3c2618a5-b8bf-3a20-9d20-cda71cb0079d/why-nio-shares-plunged-monday.html",
+        "providerPublishTime": 1657551838,
         "type": "STORY",
         "relatedTickers": [
             "NIO"
         ]
     },
-    "018d93ea-61f7-45cd-8d83-6ff1b73337b5": {
-        "uuid": "018d93ea-61f7-45cd-8d83-6ff1b73337b5",
-        "title": "GM sales in China hit by COVID lockdowns",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/gm-sales-in-china-hit-by-covid-lockdowns-171131600.html",
-        "providerPublishTime": 1657213891,
-        "type": "STORY",
+    "a1de0dae-78e9-30f4-ae1c-b54bc0583b50": {
+        "uuid": "a1de0dae-78e9-30f4-ae1c-b54bc0583b50",
+        "title": "Electric vehicles: What Ford\u2019s Mustang Mach-E offers drivers",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/electric-vehicles-ford-mustang-mach-145214605.html",
+        "providerPublishTime": 1657551134,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jHxI1aWO3sdNIJh5P05W_A--~B/aD0zMTA3O3c9NDY1NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
-                    "width": 4655,
-                    "height": 3107,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1KXjaOpq8C8dKLne2Q3mkg--~B/aD0zMzE2O3c9NTkwMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0ae59b60-0129-11ed-beef-1aa0bc3be1e3",
+                    "width": 5902,
+                    "height": 3316,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oTRW8Qbrz80pyqCAI7EpKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5660e270-fe0e-11ec-bbee-68a95995b723",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/otQU.EFoaG9K9qicxY96mw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0ae59b60-0129-11ed-beef-1aa0bc3be1e3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -204,11 +187,44 @@
             ]
         },
         "relatedTickers": [
-            "GM",
-            "LI",
             "NIO",
+            "F",
+            "GM",
+            "TM",
+            "TOYOF",
+            "TSLA"
+        ]
+    },
+    "90f8b66c-3dd3-3db4-ab82-feb921bfb8b1": {
+        "uuid": "90f8b66c-3dd3-3db4-ab82-feb921bfb8b1",
+        "title": "NIO, other EV maker stocks drop after China imposes COVID-related restrictions",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/90f8b66c-3dd3-3db4-ab82-feb921bfb8b1/nio%2C-other-ev-maker-stocks.html",
+        "providerPublishTime": 1657537950,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "^GSPC",
             "XPEV",
-            "XPNGF"
+            "XPNGF",
+            "NIO",
+            "LI"
         ]
     }
 }

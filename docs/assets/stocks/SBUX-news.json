@@ -1,21 +1,21 @@
 {
-    "5aeb3415-5b3e-3551-b027-e8234cba3cd1": {
-        "uuid": "5aeb3415-5b3e-3551-b027-e8234cba3cd1",
-        "title": "Starbucks (SBUX) Gains But Lags Market: What You Should Know",
+    "45ccddd8-5864-3c36-92ee-3778ec4c8285": {
+        "uuid": "45ccddd8-5864-3c36-92ee-3778ec4c8285",
+        "title": "Starbucks (SBUX) Gains As Market Dips: What You Should Know",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/starbucks-sbux-gains-lags-market-214509588.html",
-        "providerPublishTime": 1657230309,
+        "link": "https://finance.yahoo.com/news/starbucks-sbux-gains-market-dips-215009509.html",
+        "providerPublishTime": 1657749009,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dOFJjF.lFJbuBeMTQ.srQg--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
                     "width": 900,
-                    "height": 587,
+                    "height": 506,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -27,23 +27,50 @@
             "^GSPC"
         ]
     },
-    "75e6f2d6-b306-3dc9-a50a-77c33b2dadf1": {
-        "uuid": "75e6f2d6-b306-3dc9-a50a-77c33b2dadf1",
-        "title": "Why are Starbucks and Kroger investing in EV charging stations?",
-        "publisher": "Quartz",
-        "link": "https://finance.yahoo.com/m/75e6f2d6-b306-3dc9-a50a-77c33b2dadf1/why-are-starbucks-and-kroger.html",
-        "providerPublishTime": 1657204471,
+    "a9261b93-d2d3-31c0-8ad6-8f625bd101e3": {
+        "uuid": "a9261b93-d2d3-31c0-8ad6-8f625bd101e3",
+        "title": "CPI data shows food prices continue to rise for American consumers",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/cpi-data-shows-food-prices-202639016.html",
+        "providerPublishTime": 1657743999,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/F2AdX5EMaO9DgeYXwnX7CA--~B/aD0yMjY4O3c9NDAzMTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/11d92640-02ea-11ed-affb-84c1546668ef",
+                    "width": 4031,
+                    "height": 2268,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4IBf8XHTfBd4BGBsTBTaKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/11d92640-02ea-11ed-affb-84c1546668ef",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "969b972c-e424-393b-9ba8-5e4abef7f400": {
+        "uuid": "969b972c-e424-393b-9ba8-5e4abef7f400",
+        "title": "How many workers have tried to join a labor union in Orlando?",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/969b972c-e424-393b-9ba8-5e4abef7f400/how-many-workers-have-tried.html",
+        "providerPublishTime": 1657739220,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bRhRgI0wh_LvjkQZ8_5bOA--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/mMydw3577do2fU61rmxHCQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/3c2ba1d3615f1576634e51346a900585",
-                    "width": 620,
-                    "height": 348,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cN4Q6EBVDo.YtOr_F7nURQ--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JgtDMM1XK4pXyO.98fR.yA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/bf6d2883232688c4d893c5109d4e312d",
+                    "width": 1440,
+                    "height": 959,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_vx8T3SS2gykjxE9.3nJ3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mMydw3577do2fU61rmxHCQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/3c2ba1d3615f1576634e51346a900585",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Id5UqG3bGjuar84ZesFZWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JgtDMM1XK4pXyO.98fR.yA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/bf6d2883232688c4d893c5109d4e312d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -52,26 +79,70 @@
         },
         "relatedTickers": [
             "SBUX",
-            "KR"
+            "AMZN"
         ]
     },
-    "2a7d8a31-b4d6-3216-83af-10b7e39b431c": {
-        "uuid": "2a7d8a31-b4d6-3216-83af-10b7e39b431c",
-        "title": "Like Dividends? You'll Love This Blue Chip Dividend Stock",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/2a7d8a31-b4d6-3216-83af-10b7e39b431c/like-dividends%3F-you%27ll-love.html",
-        "providerPublishTime": 1657203300,
+    "0ea0e56c-0c6e-43ab-ad46-847a4ea8f555": {
+        "uuid": "0ea0e56c-0c6e-43ab-ad46-847a4ea8f555",
+        "title": "Inflation: Coffee visits to Starbucks, Dunkin' drop as record-high inflation takes hold",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/inflation-coffee-visits-to-starbucks-dunkin-drop-as-record-high-pricing-takes-hold-175702509.html",
+        "providerPublishTime": 1657735022,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.sosIFhd5miDdJzHIJM74A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o09bzjsdJtvuVsxAIErUng--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/dec4325f12745c205dfca29354592288",
-                    "width": 1400,
-                    "height": 933,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G1tuuQaG_VNolSCRG.gXUQ--~B/aD0zMjg2O3c9NDkzMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-01/34632670-3196-11ea-a32f-5e77388f0b30",
+                    "width": 4930,
+                    "height": 3286,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1lbGCLzwEdxUM29iqZCgQQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o09bzjsdJtvuVsxAIErUng--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/dec4325f12745c205dfca29354592288",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qGJnd7Mnl4clqa3s4sry1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-01/34632670-3196-11ea-a32f-5e77388f0b30",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BROS",
+            "SBUX"
+        ]
+    },
+    "9570a604-0b2e-3551-b67e-0720e5f311b3": {
+        "uuid": "9570a604-0b2e-3551-b67e-0720e5f311b3",
+        "title": "15 Most Valuable Beverage Companies in the World",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/15-most-valuable-beverage-companies-125457494.html",
+        "providerPublishTime": 1657716897,
+        "type": "STORY",
+        "relatedTickers": [
+            "HEIA.AS",
+            "MNST",
+            "DEO",
+            "KDP",
+            "BF-B",
+            "SBUX"
+        ]
+    },
+    "83ea8e5a-ce0f-3c82-9141-734bd6737bcf": {
+        "uuid": "83ea8e5a-ce0f-3c82-9141-734bd6737bcf",
+        "title": "Starbucks returning CEO Schultz is giving staff active shooter training and shuttering 16 stores after employee safety complaints",
+        "publisher": "Fortune",
+        "link": "https://finance.yahoo.com/news/starbucks-returning-ceo-schultz-giving-120515162.html",
+        "providerPublishTime": 1657713915,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.rUNNkX9eAueZvrJEuyR3w--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/QrbC.qF3BPnCH0Iv90SkTw--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/71703512e97ddfd2511fd3537abf955c",
+                    "width": 2880,
+                    "height": 1920,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kpyY83a9bhdtnXnZacRNZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QrbC.qF3BPnCH0Iv90SkTw--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/71703512e97ddfd2511fd3537abf955c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -82,61 +153,23 @@
             "SBUX"
         ]
     },
-    "6ce6f309-ff5f-3aa5-a04b-e4f6c5cb1dd0": {
-        "uuid": "6ce6f309-ff5f-3aa5-a04b-e4f6c5cb1dd0",
-        "title": "Starbucks (SBUX) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/starbucks-sbux-stock-sinks-market-215009686.html",
-        "providerPublishTime": 1657144209,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZGaKO3j6JdYhhFqUWpzHYA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wbCMwMtKIoXj_iQA0ego4g--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295",
-                    "width": 900,
-                    "height": 506,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HGvwpQE9uN.sMhAlebQdoQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wbCMwMtKIoXj_iQA0ego4g--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "d802bdca-d22b-33ab-9609-2a9bcf1edd9b": {
-        "uuid": "d802bdca-d22b-33ab-9609-2a9bcf1edd9b",
-        "title": "Why Starbucks Stock Is Down 35% So Far in 2022",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d802bdca-d22b-33ab-9609-2a9bcf1edd9b/why-starbucks-stock-is-down.html",
-        "providerPublishTime": 1657114800,
-        "type": "STORY",
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "d361ef99-6e7f-3882-a11c-6c42601bd1cb": {
-        "uuid": "d361ef99-6e7f-3882-a11c-6c42601bd1cb",
-        "title": "How Dunkin', Starbucks Are Making a Play For a New Market",
+    "0d3a7725-4d42-3928-a9dc-7feba6c9ca5f": {
+        "uuid": "0d3a7725-4d42-3928-a9dc-7feba6c9ca5f",
+        "title": "Starbucks CEO Wants to Reinvent the Coffeehouse Chain",
         "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/d361ef99-6e7f-3882-a11c-6c42601bd1cb/how-dunkin%27%2C-starbucks-are.html",
-        "providerPublishTime": 1657059600,
+        "link": "https://finance.yahoo.com/m/0d3a7725-4d42-3928-a9dc-7feba6c9ca5f/starbucks-ceo-wants-to.html",
+        "providerPublishTime": 1657667580,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/t8pgDAY6z5BOD1ezUurCnw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/nZ1Hj4_GS2fLzo1t6d_X0g--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/5471f71d867b987a89f952e32a0fbce7",
-                    "width": 1920,
-                    "height": 1080,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QfAWWERq7EYX2ph.IWcxDA--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Pr6u.ynW2VOIexfyHy6Q2w--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/290efebd8c8c48c6a828e674c20ead81",
+                    "width": 750,
+                    "height": 470,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5XLsXdIaT7x7c7IFvlwQ1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nZ1Hj4_GS2fLzo1t6d_X0g--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/5471f71d867b987a89f952e32a0fbce7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pfiz72ANRhFyq29Iq.15TQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Pr6u.ynW2VOIexfyHy6Q2w--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/290efebd8c8c48c6a828e674c20ead81",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -147,23 +180,23 @@
             "SBUX"
         ]
     },
-    "42056fe9-f84e-351b-b0bd-ced52eb0ef65": {
-        "uuid": "42056fe9-f84e-351b-b0bd-ced52eb0ef65",
-        "title": "Subway adds new sandwiches one year after menu refresh, Chick-fil-A is still America\u2019s favorite restaurant",
+    "eed0ed57-e41d-3f12-8d5b-08e360e9c705": {
+        "uuid": "eed0ed57-e41d-3f12-8d5b-08e360e9c705",
+        "title": "Starbucks launches second AmazonGo collaboration, Microsoft cuts employees",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/subway-adds-sandwiches-one-menu-210212881.html",
-        "providerPublishTime": 1657054932,
+        "link": "https://finance.yahoo.com/video/starbucks-launches-second-amazongo-collaboration-194210133.html",
+        "providerPublishTime": 1657654930,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y3V_5da8HiRNvUOEWVn7mA--~B/aD0zMzgwO3c9NTk5OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b8a27260-fca5-11ec-abfb-0a09d86f2fe1",
-                    "width": 5999,
-                    "height": 3380,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Cjltzx.SSyP57TdEKL43aQ--~B/aD0xNTMyO3c9MjcyOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b6138050-021a-11ed-bfdf-d02022a2a4e6",
+                    "width": 2729,
+                    "height": 1532,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sgHx7JnmKg7Y6wzFfKVEwA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b8a27260-fca5-11ec-abfb-0a09d86f2fe1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2znOLTLPZ_IztzO1L0i8rw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b6138050-021a-11ed-bfdf-d02022a2a4e6",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -171,24 +204,10 @@
             ]
         },
         "relatedTickers": [
-            "WEN",
-            "YUM",
-            "RAIFF",
-            "RAIFY",
-            "MCD",
-            "SBUX"
-        ]
-    },
-    "9d050836-02c1-3a7f-8c1c-90ae7bd1ae8e": {
-        "uuid": "9d050836-02c1-3a7f-8c1c-90ae7bd1ae8e",
-        "title": "Why Dutch Bros Lost Nearly 16% in June",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9d050836-02c1-3a7f-8c1c-90ae7bd1ae8e/why-dutch-bros-lost-nearly.html",
-        "providerPublishTime": 1657023385,
-        "type": "STORY",
-        "relatedTickers": [
-            "BROS",
-            "SBUX"
+            "SBUX",
+            "MSFT",
+            "AMZN",
+            "AAL"
         ]
     }
 }

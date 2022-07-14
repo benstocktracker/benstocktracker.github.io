@@ -1,4 +1,58 @@
 {
+    "318490bb-258f-3f3a-9eb4-06407347b890": {
+        "uuid": "318490bb-258f-3f3a-9eb4-06407347b890",
+        "title": "\u2018A perfect business for an inflationary environment.\u2019 Why this veteran value investor is bullish on a beaten-down telecom stock.",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/318490bb-258f-3f3a-9eb4-06407347b890/%E2%80%98a-perfect-business-for-an.html",
+        "providerPublishTime": 1657577880,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PvhmMVeooiubmpOtcAfY.Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.LcuEjttJCeAt5IiOu1Kuw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/95ab245d4d7bcea36a079ce016a2b3ac",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UY6kHjzmGoUBm7Dl0aQcgg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.LcuEjttJCeAt5IiOu1Kuw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/95ab245d4d7bcea36a079ce016a2b3ac",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR"
+        ]
+    },
+    "6c9dc2af-aced-3da5-b5c2-775c257348e5": {
+        "uuid": "6c9dc2af-aced-3da5-b5c2-775c257348e5",
+        "title": "Why Charter (CHTR) Could Beat Earnings Estimates Again",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-charter-chtr-could-beat-161004832.html",
+        "providerPublishTime": 1657555804,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/icWwTnXD.RDbbaiJecovTw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9hmYK3wZFQeDq1Iw4TW61Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR"
+        ]
+    },
     "62395955-f47e-3096-9668-fa18a2e9d7c9": {
         "uuid": "62395955-f47e-3096-9668-fa18a2e9d7c9",
         "title": "Charter Communications (NASDAQ:CHTR) Is Experiencing Growth In Returns On Capital",
@@ -173,66 +227,6 @@
             "CHTR",
             "AMZN",
             "META"
-        ]
-    },
-    "56e337f0-eed2-3eb5-afd8-bd2cfdd79928": {
-        "uuid": "56e337f0-eed2-3eb5-afd8-bd2cfdd79928",
-        "title": "Should Value Investors Own This Leading Cable Provider?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/56e337f0-eed2-3eb5-afd8-bd2cfdd79928/should-value-investors-own.html",
-        "providerPublishTime": 1656414300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/f_c1crhz5lAZBtm4zMuOSA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/keupscJOYdhogPzzCenesA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c9572658d6f5fd1b1c7c68a0a33d9d5c",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Jeagpawmcz9F9BaknxSELQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/keupscJOYdhogPzzCenesA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c9572658d6f5fd1b1c7c68a0a33d9d5c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHTR",
-            "VZ"
-        ]
-    },
-    "d6104f13-5c8e-3617-8827-0a966f9d415d": {
-        "uuid": "d6104f13-5c8e-3617-8827-0a966f9d415d",
-        "title": "10 Stocks to Buy According to BlueSpruce Investments",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-buy-according-bluespruce-134959660.html",
-        "providerPublishTime": 1655992199,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gsb1e2l7D8r9I8fWNPKR6A--~B/aD00OTk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AFsL05Egu3.YHPPB.0TpvA--~B/aD00OTk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/037a04e9927e816018fd94e41db9d51f",
-                    "width": 750,
-                    "height": 499,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J04mobk2plz5ihz.A_dHAQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AFsL05Egu3.YHPPB.0TpvA--~B/aD00OTk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/037a04e9927e816018fd94e41db9d51f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DG",
-            "PYPL",
-            "CHTR",
-            "GDDY",
-            "ROST",
-            "TJX"
         ]
     }
 }

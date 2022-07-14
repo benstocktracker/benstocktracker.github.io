@@ -1,21 +1,21 @@
 {
-    "31ce3cf2-2092-3510-8b20-fe6a2b28329c": {
-        "uuid": "31ce3cf2-2092-3510-8b20-fe6a2b28329c",
-        "title": "Weekly Roundup",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/31ce3cf2-2092-3510-8b20-fe6a2b28329c/weekly-roundup.html",
-        "providerPublishTime": 1657321740,
+    "92f236cd-d3b5-37b9-a9a6-1baaee787879": {
+        "uuid": "92f236cd-d3b5-37b9-a9a6-1baaee787879",
+        "title": "5G Stocks To Buy And Watch As Wireless Firms Move Beyond Smartphones",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/92f236cd-d3b5-37b9-a9a6-1baaee787879/5g-stocks-to-buy-and-watch-as.html",
+        "providerPublishTime": 1657799455,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/slejn435RPvCEIpvONDYEg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
-                    "width": 600,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/daV5HhFBicH7GqtjCtPU8Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wGU3J7SL.NrVGu9qSzRErA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d433d66140b3ad73066842ec66b305b",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VxrLaF2kgu8Do2yO9PwOnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WyGrwTzt7yDRbawDSkAkcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wGU3J7SL.NrVGu9qSzRErA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d433d66140b3ad73066842ec66b305b",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,92 +23,28 @@
             ]
         },
         "relatedTickers": [
-            "NVDA",
-            "MA",
-            "GOOGL",
-            "AMZN",
-            "F",
-            "MSFT",
-            "AAPL",
-            "NUE",
             "VZ",
-            "SSNLF"
-        ]
-    },
-    "fd0dfe09-fdd4-3433-b227-fe9f2ed31675": {
-        "uuid": "fd0dfe09-fdd4-3433-b227-fe9f2ed31675",
-        "title": "The Best Amazon Prime Day Earbuds and Headphones Deals",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/fd0dfe09-fdd4-3433-b227-fe9f2ed31675/the-best-amazon-prime-day.html",
-        "providerPublishTime": 1657316040,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FXIGnSwD.VQ7LMiRseH.rQ--~B/aD0xMDg4O3c9MTYzMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/38nu1KJjuKe4KdkkZ7O1Jg--~B/aD0xMDg4O3c9MTYzMjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/f3c9661ddc3fd6e917ffa0af6aa32c4f",
-                    "width": 1632,
-                    "height": 1088,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u8stWk1HibRTLbcPPvWEkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/38nu1KJjuKe4KdkkZ7O1Jg--~B/aD0xMDg4O3c9MTYzMjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/f3c9661ddc3fd6e917ffa0af6aa32c4f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "77ae0015-504c-3c37-80a0-d625fdc47a73": {
-        "uuid": "77ae0015-504c-3c37-80a0-d625fdc47a73",
-        "title": "NFL is seeking a streaming platform to host its Sunday Ticket",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/nfl-seeking-streaming-platform-host-212910246.html",
-        "providerPublishTime": 1657315750,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hdprKMpL3PbbOWvocMAh9w--~B/aD0yMTA1O3c9Mzc0NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f7ffeee0-ff04-11ec-bdf9-9f719b350dc1",
-                    "width": 3747,
-                    "height": 2105,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ODUZXMkktpOJaqRcxeBzyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/f7ffeee0-ff04-11ec-bdf9-9f719b350dc1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
             "AAPL",
-            "AMZN",
-            "NFLX"
+            "XLNX"
         ]
     },
-    "58381892-f909-349b-ad0c-37de36275c9f": {
-        "uuid": "58381892-f909-349b-ad0c-37de36275c9f",
-        "title": "The Dow Fell 46 Points, But These 3 Stocks Eked Out Gains",
+    "90fa6f22-b4a4-34cf-8ad9-ab551275358e": {
+        "uuid": "90fa6f22-b4a4-34cf-8ad9-ab551275358e",
+        "title": "3 Reasons I'm Avoiding Snap",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/58381892-f909-349b-ad0c-37de36275c9f/the-dow-fell-46-points%2C-but.html",
-        "providerPublishTime": 1657312980,
+        "link": "https://finance.yahoo.com/m/90fa6f22-b4a4-34cf-8ad9-ab551275358e/3-reasons-i%27m-avoiding-snap.html",
+        "providerPublishTime": 1657797660,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WYfrkbTkrZ_Bw0srQxu98g--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/v68G26r3JXM1tw2qi.O4UA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ecef893097e7949c869eb98c81474c05",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TTKikBb59AnhuGo9_zBCdg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1qUaA8fVu5.lAn1IpWXm3Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/aa763b9b301157c8a48972895291710a",
                     "width": 1400,
-                    "height": 934,
+                    "height": 933,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cFa9Klvxude6KbWJiL.gDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/v68G26r3JXM1tw2qi.O4UA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ecef893097e7949c869eb98c81474c05",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zwy7VCYIXQ7nyGf8JBiA.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1qUaA8fVu5.lAn1IpWXm3Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/aa763b9b301157c8a48972895291710a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -116,29 +52,27 @@
             ]
         },
         "relatedTickers": [
-            "^DJI",
-            "AXP",
-            "UNH",
+            "SNAP",
             "AAPL"
         ]
     },
-    "a0b7d65a-36d0-3f62-a8c5-bb215da03b0d": {
-        "uuid": "a0b7d65a-36d0-3f62-a8c5-bb215da03b0d",
-        "title": "Google Wants to Settle With the DoJ Over Ads, Report Says. Why One Analyst Says It Won\u2019t Happen.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a0b7d65a-36d0-3f62-a8c5-bb215da03b0d/google-wants-to-settle-with.html",
-        "providerPublishTime": 1657312500,
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Stocks Shift To Energy Plays; Popular Pick Tesla's AI Chief Leaves",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stocks.html",
+        "providerPublishTime": 1657796427,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gcwIYRwUuHel8kZ1W6iMsw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lvEVyPLob4CcYNAUTAvFIg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bc4cf9c00a07c9d2e5953934c0024d4a",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ygj244o_N_7AghdizcXBZw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0MG3g8bUYDP2RVggfl_cTA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lvEVyPLob4CcYNAUTAvFIg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bc4cf9c00a07c9d2e5953934c0024d4a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yVHiPyQb8ExjvgY1.NKEPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -146,66 +80,42 @@
             ]
         },
         "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "AAPL"
-        ]
-    },
-    "dafb07e0-4a72-3604-ae7e-229691920ffd": {
-        "uuid": "dafb07e0-4a72-3604-ae7e-229691920ffd",
-        "title": "Stocks search for direction into the close, Treasury yields invert deeper",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-search-direction-close-treasury-200958131.html",
-        "providerPublishTime": 1657310998,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RzI4v0tOzb980kravaviRw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/841d3060-fef9-11ec-adff-3ed16bfb2cb2",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ofEfsJnnMnlgt8q.Y2LQnw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/841d3060-fef9-11ec-adff-3ed16bfb2cb2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "XLV",
             "TSLA",
+            "AMC",
+            "AAPL",
+            "AMD",
             "MSFT",
-            "AMZN",
-            "XLY",
-            "XLK",
-            "^GSPC",
-            "^DJI",
-            "XLC",
-            "^TNX",
-            "^IXIC"
+            "NVDA"
         ]
     },
-    "582644a8-bc9c-3edc-a954-f1fc7decec2e": {
-        "uuid": "582644a8-bc9c-3edc-a954-f1fc7decec2e",
-        "title": "Berkshire Hathaway Director Scooped Up Shares After Tough Month for the Stock",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/582644a8-bc9c-3edc-a954-f1fc7decec2e/berkshire-hathaway-director.html",
-        "providerPublishTime": 1657310280,
+    "d6d6dfbd-1971-306f-9030-3573611e6c43": {
+        "uuid": "d6d6dfbd-1971-306f-9030-3573611e6c43",
+        "title": "74% of This Warren Buffett-Controlled Portfolio Is Invested in 1 High-Growth Stock and 1 Ultra-Safe Asset",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d6d6dfbd-1971-306f-9030-3573611e6c43/74%25-of-this-warren.html",
+        "providerPublishTime": 1657795200,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL"
+        ]
+    },
+    "fdad11a1-9dbe-3d63-8398-7aab3a24d1df": {
+        "uuid": "fdad11a1-9dbe-3d63-8398-7aab3a24d1df",
+        "title": "TSMC Sees Solid Q3 Demand As Asia Chipmakers Outpace US Rivals While Congress Debates Support",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/fdad11a1-9dbe-3d63-8398-7aab3a24d1df/tsmc-sees-solid-q3-demand-as.html",
+        "providerPublishTime": 1657795020,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TTBXAfaQgMtaxu6SnDt2qA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XL_mNf3fI2MMO4.h3Ff.cA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/56114a303117b7f9177880d48b182ac3",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xQ1p9.wVcIQrglRS0hLQnQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/0uOhA9R0nTw8wf4qklCLbw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/1b29fd7c8213cccbcb284910a66d6f36",
+                    "width": 1920,
+                    "height": 1080,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zn.bDA9pUfwE3NGZMN0dUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XL_mNf3fI2MMO4.h3Ff.cA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/56114a303117b7f9177880d48b182ac3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2V9B13TFQJT4Robjk.XCiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0uOhA9R0nTw8wf4qklCLbw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/1b29fd7c8213cccbcb284910a66d6f36",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -213,29 +123,27 @@
             ]
         },
         "relatedTickers": [
-            "CVX",
-            "AAPL",
-            "BRK-A",
-            "BRK-B"
+            "TSM",
+            "AAPL"
         ]
     },
-    "ba501fd2-c5c1-3860-b8ed-0ef74970f22e": {
-        "uuid": "ba501fd2-c5c1-3860-b8ed-0ef74970f22e",
-        "title": "Apple is not buying this Russian-sourced metal \u2014 but here\u2019s why many companies may still be using it",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/ba501fd2-c5c1-3860-b8ed-0ef74970f22e/apple-is-not-buying-this.html",
-        "providerPublishTime": 1657306740,
+    "39286d84-9978-3527-b185-d070a040ed23": {
+        "uuid": "39286d84-9978-3527-b185-d070a040ed23",
+        "title": "US Tech Stocks Are Luring Indian Retail Investors Despite Rout",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/us-tech-stocks-luring-indian-102055715.html",
+        "providerPublishTime": 1657794055,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YHjUrdkUPWsc2tJXYq84jw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1kJ_8vd472RGJThhIIe2QA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1fd1a2e87bb9d4125c6baf69b10c9abf",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BFMFrvTb.XWVB4EKuVLSNA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eFS4hjjdxtaJwL9Q0XWA1A--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/a47dd633c46171337841350e35bccb02",
+                    "width": 1200,
+                    "height": 675,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qyvyYz9jRpq5xZSAzjjN_Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1kJ_8vd472RGJThhIIe2QA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1fd1a2e87bb9d4125c6baf69b10c9abf",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y3wSwZtF5zaE8IWaCWoCzQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eFS4hjjdxtaJwL9Q0XWA1A--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/a47dd633c46171337841350e35bccb02",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -243,11 +151,46 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
-            "^GSPC",
-            "ALMTF",
-            "GC=F",
-            "ZG=F"
+            "TSLA",
+            "AAPL"
+        ]
+    },
+    "8a278242-2b86-3d38-afee-137ba4b80ea7": {
+        "uuid": "8a278242-2b86-3d38-afee-137ba4b80ea7",
+        "title": "Apple Stock This Earnings Season: Buy or Sell?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8a278242-2b86-3d38-afee-137ba4b80ea7/apple-stock-this-earnings.html",
+        "providerPublishTime": 1657793100,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL"
+        ]
+    },
+    "d928452b-a659-34e7-b170-1c5c44c1aa7d": {
+        "uuid": "d928452b-a659-34e7-b170-1c5c44c1aa7d",
+        "title": "After Being Crushed in 2022, Is It Safe to Buy This Crypto?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d928452b-a659-34e7-b170-1c5c44c1aa7d/after-being-crushed-in-2022%2C.html",
+        "providerPublishTime": 1657792200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O2kfUysDYZTlc3xWWNHgIQ--~B/aD05MTY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NRigHyaB6hzVXhyUaZD4aw--~B/aD05MTY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fb84cdc31c1181c3dc47aeeaac607dd5",
+                    "width": 1400,
+                    "height": 916,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fLX99HNs1cr9mqTjgJ3R1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NRigHyaB6hzVXhyUaZD4aw--~B/aD05MTY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fb84cdc31c1181c3dc47aeeaac607dd5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL"
         ]
     }
 }

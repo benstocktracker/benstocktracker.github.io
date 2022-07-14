@@ -1,4 +1,32 @@
 {
+    "4cb79e8b-c74f-32cb-8f9c-a5c75994d140": {
+        "uuid": "4cb79e8b-c74f-32cb-8f9c-a5c75994d140",
+        "title": "Want $1,000 in Annual Passive Income? These 2 Sizzling Stocks Stand Out",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4cb79e8b-c74f-32cb-8f9c-a5c75994d140/want-%241%2C000-in-annual-passive.html",
+        "providerPublishTime": 1657635060,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TGJsnL58KZ1kXJEpOd9JXA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w8C_XWks3m_EV9ClWC71wg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/71eaed3f048e5e4241c2ac853dc4518e",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9ntVx2PR9UyqXommij8Z8Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w8C_XWks3m_EV9ClWC71wg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/71eaed3f048e5e4241c2ac853dc4518e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VICI",
+            "MPW"
+        ]
+    },
     "f805aae0-2a04-3429-a6f9-ae929e026c87": {
         "uuid": "f805aae0-2a04-3429-a6f9-ae929e026c87",
         "title": "VICI Properties Focus of Corporate Governance Case Study",
@@ -126,34 +154,6 @@
             "VICI",
             "HST",
             "PK"
-        ]
-    },
-    "d4b1b5b6-e867-33a3-adb6-f8116a7b241a": {
-        "uuid": "d4b1b5b6-e867-33a3-adb6-f8116a7b241a",
-        "title": "REIT's On The Move: VICI Properties Down, Realty Income Up",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/reits-move-vici-properties-down-171049188.html",
-        "providerPublishTime": 1656004249,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VaThTo.3jeVRZCUA0FfbGQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/CF___2JGOY54x7XMl_OUog--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/5997188bbe8479ecf401e83560353937",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RpZd.zyOVqWkPIK6xz0PxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CF___2JGOY54x7XMl_OUog--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/5997188bbe8479ecf401e83560353937",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VICI",
-            "O"
         ]
     }
 }

@@ -1,48 +1,21 @@
 {
-    "0857e22c-4cee-3766-bbd9-0268094aff6f": {
-        "uuid": "0857e22c-4cee-3766-bbd9-0268094aff6f",
-        "title": "TSMC (TSM) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/tsmc-tsm-gains-market-dips-214509897.html",
-        "providerPublishTime": 1657316709,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/98.a1RXLLn1auNXiH78frA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
-                    "width": 900,
-                    "height": 602,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TtLwuPCMf6GMxPk1IqJQsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM"
-        ]
-    },
-    "95053b76-6938-3746-9b10-d0abe8aa2fa6": {
-        "uuid": "95053b76-6938-3746-9b10-d0abe8aa2fa6",
-        "title": "Taiwan Semiconductor Beats June-Quarter Sales Target",
+    "c52c4ca9-0d56-30cd-962c-4e3692cd9ced": {
+        "uuid": "c52c4ca9-0d56-30cd-962c-4e3692cd9ced",
+        "title": "Dow Jones Futures Sell Off After Hot Inflation Report",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/95053b76-6938-3746-9b10-d0abe8aa2fa6/taiwan-semiconductor-beats.html",
-        "providerPublishTime": 1657311470,
+        "link": "https://finance.yahoo.com/m/c52c4ca9-0d56-30cd-962c-4e3692cd9ced/dow-jones-futures-sell-off.html",
+        "providerPublishTime": 1657803357,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/118zchweoaFwuHGTAzrJiw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KoVT1Uktost0s6hRIg.y6g--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d329103a348166bc2d36cf6f9d2f54c7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zGknhvqXA9kI3MdqtkYZNQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_c6uTgRkt6z2jeysSV1TQw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dd0e82e4786eb5aae625391a4c094154",
                     "width": 1000,
-                    "height": 565,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nnoIeyj9dEVT7KZ.Cl_ajw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KoVT1Uktost0s6hRIg.y6g--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d329103a348166bc2d36cf6f9d2f54c7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XguBsx0M9UozI8I_PomL1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_c6uTgRkt6z2jeysSV1TQw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dd0e82e4786eb5aae625391a4c094154",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -50,58 +23,31 @@
             ]
         },
         "relatedTickers": [
+            "^DJI",
+            "UNH",
+            "NOC",
+            "TSLA",
+            "DLTR",
             "TSM"
         ]
     },
-    "342a339a-d2af-3662-a3c2-771d5c029b5e": {
-        "uuid": "342a339a-d2af-3662-a3c2-771d5c029b5e",
-        "title": "CHIPS Act delay \u2018really frustrating\u2019 for tech companies, analyst says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/chips-act-delay-really-frustrating-160846493.html",
-        "providerPublishTime": 1657296526,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WLk9huGyAcS3GaDPHhmnAg--~B/aD0xNTQ2O3c9Mjc1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3d1dd8c0-fed8-11ec-9ffd-90cdd74cb8cb",
-                    "width": 2754,
-                    "height": 1546,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/akqlSgs1Yt4ev0RKZbiMGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3d1dd8c0-fed8-11ec-9ffd-90cdd74cb8cb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "AMD",
-            "MU",
-            "QCOM",
-            "INTC",
-            "NVDA"
-        ]
-    },
-    "abec8fbd-319f-3fb3-ae03-d5c8152487e6": {
-        "uuid": "abec8fbd-319f-3fb3-ae03-d5c8152487e6",
-        "title": "Taiwan Semi Q2 Revenue Tops Estimates, but Risks From PC Slowdown Remain",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/abec8fbd-319f-3fb3-ae03-d5c8152487e6/taiwan-semi-q2-revenue-tops.html",
-        "providerPublishTime": 1657294680,
+    "4142d203-51fd-3098-ad3c-16f16dd9c2a3": {
+        "uuid": "4142d203-51fd-3098-ad3c-16f16dd9c2a3",
+        "title": "TSMC Raises Revenue Guidance Despite Chip-Boom Slowdown",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/4142d203-51fd-3098-ad3c-16f16dd9c2a3/tsmc-raises-revenue-guidance.html",
+        "providerPublishTime": 1657801980,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iv1TExT9IOWf04ztVJT0qQ--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/trhkXLpSGjdpuCso_tUMbw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3a76ff5e42eedd88bc417a7036676ebd",
-                    "width": 1279,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/y1YvSLA2eeaHB0k5FMaqxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BT5U.mqwJ_867irpz6PhnA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/750dc053f99aec8b4f77bc5e13dd3ac3",
+                    "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/q57bIKfaLuYWrrZZWotZrA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/trhkXLpSGjdpuCso_tUMbw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3a76ff5e42eedd88bc417a7036676ebd",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0ruf3CnyClOFj2NTgxmzhw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BT5U.mqwJ_867irpz6PhnA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/750dc053f99aec8b4f77bc5e13dd3ac3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -112,23 +58,23 @@
             "TSM"
         ]
     },
-    "5040279d-d42d-3af2-a92a-8c29a7c72bd6": {
-        "uuid": "5040279d-d42d-3af2-a92a-8c29a7c72bd6",
-        "title": "Market check: Stocks drift lower on strong jobs report",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-stocks-drift-lower-141810770.html",
-        "providerPublishTime": 1657289890,
-        "type": "VIDEO",
+    "de5982b1-9e8a-3197-93fd-fa1c2c5e7190": {
+        "uuid": "de5982b1-9e8a-3197-93fd-fa1c2c5e7190",
+        "title": "Taiwan Semiconductor Manufacturing (TSM) Q2 2022 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/de5982b1-9e8a-3197-93fd-fa1c2c5e7190/taiwan-semiconductor.html",
+        "providerPublishTime": 1657801820,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pgoUqVMPqzt11dJuh_yXgg--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/caa77850-fec8-11ec-95fb-70ab84e4ccdf",
-                    "width": 2767,
-                    "height": 1553,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 1400,
+                    "height": 1494,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xOG5NGe5lWca6nMUzGp5Xw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/caa77850-fec8-11ec-95fb-70ab84e4ccdf",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -136,50 +82,121 @@
             ]
         },
         "relatedTickers": [
-            "XLI",
-            "^TNX",
-            "XLU",
-            "GOOG",
-            "GOOGL",
-            "XLK",
-            "XLRE",
-            "XLV",
-            "ME",
-            "BKNG",
-            "RCL",
-            "XLP",
-            "XLF",
-            "ABNB",
-            "HLT",
-            "TSM",
-            "CL=F",
-            "XLB",
-            "^DJI",
-            "AAPL",
-            "^IXIC",
-            "^GSPC",
-            "WTI",
-            "LUV",
-            "EXPE"
+            "TSM"
         ]
     },
-    "585f654f-6ac9-3a83-8f2c-c386a92e3ba8": {
-        "uuid": "585f654f-6ac9-3a83-8f2c-c386a92e3ba8",
-        "title": "TSMC Sales Soar 44% in Another Sign of Resilient Tech Demand",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/tsmc-sales-soar-44-another-064802002.html",
-        "providerPublishTime": 1657262882,
+    "d36b32b7-513a-3c97-a7b1-f77c9b608465": {
+        "uuid": "d36b32b7-513a-3c97-a7b1-f77c9b608465",
+        "title": "Taiwan Semiconductor Tops Second-Quarter Targets, Guides Higher",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/d36b32b7-513a-3c97-a7b1-f77c9b608465/taiwan-semiconductor-tops.html",
+        "providerPublishTime": 1657796724,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JXnPdYoGTE5_ChFb.lnFSA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ruR4JabT6Omu_burvpFoHw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/06580e85d0316df443122f012746aa0d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5D9_WS__.7.KD7wSCOAzGw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5gkw1CVEsDVkX3iYxode8w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d046580fcc135d062bcdc4fa5a4789f4",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/th_hR8ZzHzq6r656xqRaYA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5gkw1CVEsDVkX3iYxode8w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d046580fcc135d062bcdc4fa5a4789f4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM"
+        ]
+    },
+    "ddd6ceb8-f337-313b-8460-eb85cd9f8077": {
+        "uuid": "ddd6ceb8-f337-313b-8460-eb85cd9f8077",
+        "title": "Chipmaker TSMC raises revenue outlook but warns of inflation pressure",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/ddd6ceb8-f337-313b-8460-eb85cd9f8077/chipmaker-tsmc-raises-revenue.html",
+        "providerPublishTime": 1657796630,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSM"
+        ]
+    },
+    "fdad11a1-9dbe-3d63-8398-7aab3a24d1df": {
+        "uuid": "fdad11a1-9dbe-3d63-8398-7aab3a24d1df",
+        "title": "TSMC Sees Solid Q3 Demand As Asia Chipmakers Outpace US Rivals While Congress Debates Support",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/fdad11a1-9dbe-3d63-8398-7aab3a24d1df/tsmc-sees-solid-q3-demand-as.html",
+        "providerPublishTime": 1657795020,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xQ1p9.wVcIQrglRS0hLQnQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/0uOhA9R0nTw8wf4qklCLbw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/1b29fd7c8213cccbcb284910a66d6f36",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2V9B13TFQJT4Robjk.XCiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0uOhA9R0nTw8wf4qklCLbw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/1b29fd7c8213cccbcb284910a66d6f36",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM",
+            "AAPL"
+        ]
+    },
+    "2935acff-b757-3571-bb47-6abb82e53d9c": {
+        "uuid": "2935acff-b757-3571-bb47-6abb82e53d9c",
+        "title": "Stocks Lower, JPMorgan, TSMC, Celsius Network And Tesla In Focus - Five Things To Know",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/2935acff-b757-3571-bb47-6abb82e53d9c/stocks-lower%2C-jpmorgan%2C-tsmc%2C.html",
+        "providerPublishTime": 1657792860,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jeXQK7818_CUVBDV5p7iSw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/I0dXaOC0mZLcXlNCwNyiFg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3e0626f78b2832dcc920bc58c66cb010",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ru4RxjAaic_YILvH9AYIKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/I0dXaOC0mZLcXlNCwNyiFg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3e0626f78b2832dcc920bc58c66cb010",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "JPM",
+            "TSM"
+        ]
+    },
+    "90b28424-e37f-368f-be6e-4a007d5d5ff2": {
+        "uuid": "90b28424-e37f-368f-be6e-4a007d5d5ff2",
+        "title": "TSMC Hikes Outlook Yet Delays Spending as Uncertainty Looms",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/tsmc-profit-beats-estimates-sign-053538770.html",
+        "providerPublishTime": 1657790492,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g1mU2mDFCZuO0Zx0enu8.g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4U6LMUnPgQ.0QTigJRy8qw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/34d6142c0f4e892b5885ef36eb25ecbb",
                     "width": 1200,
                     "height": 675,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ariom8fH1WNGkuFqvFs.2g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ruR4JabT6Omu_burvpFoHw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/06580e85d0316df443122f012746aa0d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/p7w5QFRjloarIjWol.YQSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4U6LMUnPgQ.0QTigJRy8qw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/34d6142c0f4e892b5885ef36eb25ecbb",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -187,87 +204,8 @@
             ]
         },
         "relatedTickers": [
-            "TSM",
-            "SSNLF",
-            "AAPL"
-        ]
-    },
-    "55df6b0a-3b91-3d5d-a60b-be9584cc5371": {
-        "uuid": "55df6b0a-3b91-3d5d-a60b-be9584cc5371",
-        "title": "Samsung leads chip stock comeback",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/samsung-leads-chip-stock-comeback-155945815.html",
-        "providerPublishTime": 1657209585,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9E_hGT3dyOeSSOPGxVFWwA--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3063080-fe0d-11ec-bdff-d666b3445390",
-                    "width": 2767,
-                    "height": 1553,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GVmV4o.l0RuVxnYLgpUI0Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3063080-fe0d-11ec-bdff-d666b3445390",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "QCOM",
-            "AMD",
-            "AMAT",
-            "NXPI",
-            "AVGO",
-            "AVGOP",
-            "INTC",
-            "ASML",
-            "ASMLF",
-            "TSM",
-            "SSNLF",
-            "TXN",
-            "ADI",
-            "NVDA"
-        ]
-    },
-    "2e926f00-2e42-32a3-9a1e-759bcaf4267a": {
-        "uuid": "2e926f00-2e42-32a3-9a1e-759bcaf4267a",
-        "title": "America\u2019s Frontier Fund to \u2018start a brand new renaissance\u2019 in tech, CEO says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/america-frontier-fund-start-brand-155606401.html",
-        "providerPublishTime": 1657209366,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Rw40QQBZVwDx11t6NvDQww--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4aec68c0-fe0d-11ec-aa5e-d8b92078e5f9",
-                    "width": 2792,
-                    "height": 1567,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6D5FiwdiKbGg7am27RjJUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4aec68c0-fe0d-11ec-aa5e-d8b92078e5f9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SSNLF",
-            "GOOG",
-            "GOOGL",
-            "AMD",
-            "AMZN",
-            "TXN",
-            "META",
-            "MSFT",
-            "PLTR",
-            "INTC",
-            "TSM",
-            "NVDA"
+            "AAPL",
+            "TSM"
         ]
     }
 }

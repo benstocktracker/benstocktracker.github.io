@@ -1,4 +1,32 @@
 {
+    "b377f314-4a38-33a0-ac34-3d9b1dcedc87": {
+        "uuid": "b377f314-4a38-33a0-ac34-3d9b1dcedc87",
+        "title": "Love Passive Income? These Dividend Stocks Are for You",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b377f314-4a38-33a0-ac34-3d9b1dcedc87/love-passive-income%3F-these.html",
+        "providerPublishTime": 1657797300,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rPbmtzlKVyT2aLQhGLBv6A--~B/aD04NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/V508pwPI3e94RpOKKdlJdQ--~B/aD04NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cdb5e128760fca190b60b1d05801477a",
+                    "width": 1400,
+                    "height": 870,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dorFhUYpE9R28RLURD1VpQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/V508pwPI3e94RpOKKdlJdQ--~B/aD04NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cdb5e128760fca190b60b1d05801477a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STOR",
+            "SPG"
+        ]
+    },
     "9622fdcc-1bcd-31a1-a2df-a816b94fc599": {
         "uuid": "9622fdcc-1bcd-31a1-a2df-a816b94fc599",
         "title": "STORE Capital Corporation (NYSE:STOR) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future?",
@@ -166,38 +194,6 @@
             "STWD",
             "CRI",
             "STOR"
-        ]
-    },
-    "d8cb890f-fe9b-390a-a603-17f881ded7e5": {
-        "uuid": "d8cb890f-fe9b-390a-a603-17f881ded7e5",
-        "title": "6 Undervalued Dividend Stocks to Buy in July 2022",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/6-undervalued-dividend-stocks-buy-180525197.html",
-        "providerPublishTime": 1656353125,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SQhWJekhmA1a992Vrk4XwQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3NYvcYt5avVFsqL1e3WYTQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4565ebfb1c185aa9dc9589eee0d385a0",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k1WWkfIIWZ2voN0HtuZWXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3NYvcYt5avVFsqL1e3WYTQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4565ebfb1c185aa9dc9589eee0d385a0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FNF",
-            "HMST",
-            "JEF",
-            "STWD",
-            "STOR",
-            "CRI"
         ]
     }
 }

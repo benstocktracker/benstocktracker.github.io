@@ -1,160 +1,34 @@
 {
-    "5be0ee32-a777-3d3f-952d-8e86d869c042": {
-        "uuid": "5be0ee32-a777-3d3f-952d-8e86d869c042",
-        "title": "Chinook (KDNY) Stock Rallies 24.2% in 3 Months: Here's Why",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/chinook-kdny-stock-rallies-24-154403301.html",
-        "providerPublishTime": 1657295043,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OzqoHpmQtUN54ovmQb5mOw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xv6z5qOXwMUPNA44Zi9mdw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "NVO"
-        ]
-    },
-    "91e9c6e0-09da-3d27-a852-df97805a539e": {
-        "uuid": "91e9c6e0-09da-3d27-a852-df97805a539e",
-        "title": "AbbVie Dumps An Early-Alzheimer's Candidate Developing In Collaboration With Alector",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/abbvie-dumps-early-alzheimers-candidate-145434271.html",
-        "providerPublishTime": 1657292074,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OeQV5uFstX6KCklkhSGUPg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LOFncHjjzLp5kT6ngMxGxQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/772b611ccac4e6982af97e64f27bb466",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lPTh15kzNdDsW_OjOt.PUA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LOFncHjjzLp5kT6ngMxGxQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/772b611ccac4e6982af97e64f27bb466",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ALEC",
-            "ABBV"
-        ]
-    },
-    "26ca078c-b566-3795-8fd4-237ada4e5f40": {
-        "uuid": "26ca078c-b566-3795-8fd4-237ada4e5f40",
-        "title": "AbbVie to Host Second-Quarter 2022 Earnings Conference Call",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/abbvie-host-second-quarter-2022-120000820.html",
-        "providerPublishTime": 1657281600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/D_cxxJbErM2yl5DJGSCu1Q--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CFDNKvzX2Dkg0nHnWn_5WQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/47bc8e574572494323d5e3bb25e328fd",
-                    "width": 16,
-                    "height": 16,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yfya7nmAgWIll0GiPlWIDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CFDNKvzX2Dkg0nHnWn_5WQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/47bc8e574572494323d5e3bb25e328fd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "e9e13ec4-da92-3bec-99b8-9fec8cb4415f": {
-        "uuid": "e9e13ec4-da92-3bec-99b8-9fec8cb4415f",
-        "title": "Want to Beat the Bear Market? Try These 2 Stocks",
+    "ab4f4235-d001-3029-9a39-9f2f78e85cde": {
+        "uuid": "ab4f4235-d001-3029-9a39-9f2f78e85cde",
+        "title": "Here's How You Can Earn 10% of Your Investment Back in Dividends",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e9e13ec4-da92-3bec-99b8-9fec8cb4415f/want-to-beat-the-bear-market%3F.html",
-        "providerPublishTime": 1657274400,
+        "link": "https://finance.yahoo.com/m/ab4f4235-d001-3029-9a39-9f2f78e85cde/here%27s-how-you-can-earn-10%25.html",
+        "providerPublishTime": 1657802700,
         "type": "STORY",
-        "relatedTickers": [
-            "ABBV",
-            "VRTX"
-        ]
-    },
-    "1480282f-1c85-3872-af3e-d7ba5cb0fc17": {
-        "uuid": "1480282f-1c85-3872-af3e-d7ba5cb0fc17",
-        "title": "Alzheimer's drug cut loose from Peninsula biotech's collaboration but another survives",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/1480282f-1c85-3872-af3e-d7ba5cb0fc17/alzheimer%27s-drug-cut-loose.html",
-        "providerPublishTime": 1657231178,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4UH9gya41IdZPq7MzzYw6g--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UVYijd16SvNdYfY5WJf1dg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/6476cf241b098e303d6441e458a8a701",
-                    "width": 1440,
-                    "height": 962,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WOgwII6k1TM7TqzGXsjgPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UVYijd16SvNdYfY5WJf1dg--~B/aD05NjI7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/6476cf241b098e303d6441e458a8a701",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "ALEC"
-        ]
-    },
-    "95303f78-9bfd-33a5-b79e-85b4a9e0288c": {
-        "uuid": "95303f78-9bfd-33a5-b79e-85b4a9e0288c",
-        "title": "Senate Finance report says AbbVie shifted profit overseas to cut taxes",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/senate-finance-report-says-abbvie-180205901.html",
-        "providerPublishTime": 1657216925,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kUh7f_Kp4WIIgJxdYo_xqg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wSm7SEcv9Mc71So9ANBl5Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a87e7048ccada000918e5d34547ddc71",
-                    "width": 800,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HPWkcYz7udItqEmTOjRe2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wSm7SEcv9Mc71So9ANBl5Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a87e7048ccada000918e5d34547ddc71",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "ABBV"
+        ]
+    },
+    "2eb59ffe-2a40-3423-ad59-cfa9f468b977": {
+        "uuid": "2eb59ffe-2a40-3423-ad59-cfa9f468b977",
+        "title": "3 Inflation-Resistant Stocks You Can Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2eb59ffe-2a40-3423-ad59-cfa9f468b977/3-inflation-resistant-stocks.html",
+        "providerPublishTime": 1657792320,
+        "type": "STORY",
+        "relatedTickers": [
+            "MKL",
+            "ABBV",
+            "BEP"
         ]
     },
     "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
         "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
+        "title": "Is AbbVie Stock A Buy Or A Sell As Humira Biosimilar Rivals Loom?",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
-        "providerPublishTime": 1657211775,
+        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-or-a.html",
+        "providerPublishTime": 1657745415,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -178,23 +52,23 @@
             "PFE"
         ]
     },
-    "71002e2a-1c9b-3556-87cc-347ab20de03e": {
-        "uuid": "71002e2a-1c9b-3556-87cc-347ab20de03e",
-        "title": "4 High-Dividend Stocks Rise In Face Of Recession Freak-Out",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/71002e2a-1c9b-3556-87cc-347ab20de03e/4-high-dividend-stocks-rise.html",
-        "providerPublishTime": 1657195207,
+    "6bfd37c4-9823-3eb5-abb5-488df3b2d5c8": {
+        "uuid": "6bfd37c4-9823-3eb5-abb5-488df3b2d5c8",
+        "title": "Top Analyst Reports for Pfizer, Raytheon Technologies & Diageo",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/top-analyst-reports-pfizer-raytheon-201808324.html",
+        "providerPublishTime": 1657743488,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Kpl2m98wy.Xky_gMCVle0A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qvHAAdyB2KQtamXmL0e.EA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4944147fe1cad5dfa843e09e738d8cb0",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/coGZ0..GhfoC0WClRZ8Sow--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rVApETWEsM5902MnSJcT7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9fbd184faf399044b3daf708db81da25",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xbq190HgdVkberqfxvgRnA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qvHAAdyB2KQtamXmL0e.EA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4944147fe1cad5dfa843e09e738d8cb0",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qtHqwelh.NdevZqhjy_KXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rVApETWEsM5902MnSJcT7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9fbd184faf399044b3daf708db81da25",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -202,9 +76,108 @@
             ]
         },
         "relatedTickers": [
-            "SPGI",
+            "RTX",
+            "DEO",
+            "PFE",
             "ABBV",
-            "CAG"
+            "INFY",
+            "CP"
+        ]
+    },
+    "24c1fc7a-f9aa-3b35-b93f-c4f78b1dd462": {
+        "uuid": "24c1fc7a-f9aa-3b35-b93f-c4f78b1dd462",
+        "title": "10 Best Bond ETFs to Buy Now",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-bond-etfs-buy-144755365.html",
+        "providerPublishTime": 1657723675,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q1IFE2JQzfq___Q_ou55Qw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Q_0XFsmkn.sruqPeCfI3dA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7Z7d8JEazU3ymOSw3os39g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Q_0XFsmkn.sruqPeCfI3dA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "F",
+            "ABBV",
+            "CZR"
+        ]
+    },
+    "ec1a3f06-262f-3a39-8713-363204c3127d": {
+        "uuid": "ec1a3f06-262f-3a39-8713-363204c3127d",
+        "title": "Better Dividend Stock: AbbVie or Johnson & Johnson?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ec1a3f06-262f-3a39-8713-363204c3127d/better-dividend-stock%3A-abbvie.html",
+        "providerPublishTime": 1657706220,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ",
+            "ABBV"
+        ]
+    },
+    "89701f51-685a-3f38-8176-5d99c92ab4e1": {
+        "uuid": "89701f51-685a-3f38-8176-5d99c92ab4e1",
+        "title": "AbbVie (ABBV) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-abbv-gains-market-dips-214509312.html",
+        "providerPublishTime": 1657575909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R8B4awdI246EbZIDm2Hv5Q--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/t6.OdXEVKQihFo9otNenfg--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
+                    "width": 900,
+                    "height": 565,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XmEjhHQKxU2qqFLKIIPZbw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t6.OdXEVKQihFo9otNenfg--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "^GSPC"
+        ]
+    },
+    "b8440ef6-85a2-330d-8530-4fb420b31fb2": {
+        "uuid": "b8440ef6-85a2-330d-8530-4fb420b31fb2",
+        "title": "Is Trending Stock AbbVie Inc. (ABBV) a Buy Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/trending-stock-abbvie-inc-abbv-130001368.html",
+        "providerPublishTime": 1657544401,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u19gg6mEg1FXckW.slC1_Q--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.PGZxRPX3TwPJmyoXlVvdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
         ]
     }
 }

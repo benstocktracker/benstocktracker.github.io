@@ -1,21 +1,52 @@
 {
-    "9890d328-33c9-332d-b57b-adfe9e1d055d": {
-        "uuid": "9890d328-33c9-332d-b57b-adfe9e1d055d",
-        "title": "This is Why  Johnson & Johnson (JNJ) is a Great Dividend Stock",
+    "31bba5a5-601e-3da9-b8dc-19cf12ddf2e3": {
+        "uuid": "31bba5a5-601e-3da9-b8dc-19cf12ddf2e3",
+        "title": "5 Large-Cap Stocks Likely to Gain on Q2 Earnings Next Week",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-johnson-johnson-jnj-great-154503482.html",
-        "providerPublishTime": 1657295103,
+        "link": "https://finance.yahoo.com/news/5-large-cap-stocks-likely-104510800.html",
+        "providerPublishTime": 1657795510,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oMKb0aDck8IpQx0xUmmnpQ--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 900,
-                    "height": 618,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JW0YjmRyQDkoms1ginkzKg--~B/aD00MDI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Xs.7h.azP6rEE33eZeJ5dQ--~B/aD00MDI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d4a0d182df8d91baaea13c85c603dcec",
+                    "width": 620,
+                    "height": 402,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/az2jqXhqyZRic77Cn4mQiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MCyT5Uwd3Q5AzJQU6UE00A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Xs.7h.azP6rEE33eZeJ5dQ--~B/aD00MDI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d4a0d182df8d91baaea13c85c603dcec",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "CFG",
+            "SYF-PA",
+            "TFC-PR",
+            "JBHT"
+        ]
+    },
+    "c7c831e7-5440-3ab6-9f0d-6eca68d03d11": {
+        "uuid": "c7c831e7-5440-3ab6-9f0d-6eca68d03d11",
+        "title": "Is Vanguard High Dividend Yield ETF (VYM) a Strong ETF Right Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/vanguard-high-dividend-yield-etf-102010862.html",
+        "providerPublishTime": 1657794010,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u19gg6mEg1FXckW.slC1_Q--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.PGZxRPX3TwPJmyoXlVvdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -26,51 +57,23 @@
             "JNJ"
         ]
     },
-    "d4059b45-da98-3469-a4fd-71a632bb600f": {
-        "uuid": "d4059b45-da98-3469-a4fd-71a632bb600f",
-        "title": "2 Reasons to Invest in Dividend Stocks in a Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d4059b45-da98-3469-a4fd-71a632bb600f/2-reasons-to-invest-in.html",
-        "providerPublishTime": 1657294200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9CxUoJ3nfAFTr7b3O4zpDw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yi9YVXMb.osjLRNPH2EaaQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e8b964988a895f22502c69d744dfb024",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vc5pHj06DmXKsCRR1E0l0w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yi9YVXMb.osjLRNPH2EaaQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e8b964988a895f22502c69d744dfb024",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "^GSPC"
-        ]
-    },
-    "169a9628-3686-3128-bb57-3d27ac94f9a4": {
-        "uuid": "169a9628-3686-3128-bb57-3d27ac94f9a4",
-        "title": "Dividend Stocks Can Help During Recession. Here\u2019s What to Look For.",
+    "8e8b7ea7-858f-3161-9114-785a5c268dd8": {
+        "uuid": "8e8b7ea7-858f-3161-9114-785a5c268dd8",
+        "title": "FDA Clears Novavax as a Covid-19 Vaccine",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/169a9628-3686-3128-bb57-3d27ac94f9a4/dividend-stocks-can-help.html",
-        "providerPublishTime": 1657288800,
+        "link": "https://finance.yahoo.com/m/8e8b7ea7-858f-3161-9114-785a5c268dd8/fda-clears-novavax-as-a.html",
+        "providerPublishTime": 1657750560,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1Zj_VElthEJx8HQxCU8bNQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yzSqDkCnA.WK63fqxR5jZw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/626e5b07eba1811decd7b70b5e27c653",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xW0XELdbUL7gh2Sm8lDTPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5ycelXDUSp1J.3uWTLyTw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6d4ce2423107ad61f5cb339ddf7445f2",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xIPSo4qau4lgGShWB.3UZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yzSqDkCnA.WK63fqxR5jZw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/626e5b07eba1811decd7b70b5e27c653",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/k7GMRymCffPGJBouimH11g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5ycelXDUSp1J.3uWTLyTw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6d4ce2423107ad61f5cb339ddf7445f2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -79,29 +82,26 @@
         },
         "relatedTickers": [
             "JNJ",
-            "MSFT",
-            "C",
-            "CL",
-            "KO"
+            "NVAX"
         ]
     },
-    "7f7a8f6d-94ef-3d7f-86eb-af8d23b7ec83": {
-        "uuid": "7f7a8f6d-94ef-3d7f-86eb-af8d23b7ec83",
-        "title": "Dow Jones Drops On Strong Jobs Report; Twitter Tumbles On Elon Musk Doubts",
+    "efb53dd0-b8d3-3109-b4ef-1593bc222f60": {
+        "uuid": "efb53dd0-b8d3-3109-b4ef-1593bc222f60",
+        "title": "Smart Buys, Sells That Make This American Century Fund Shine",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/7f7a8f6d-94ef-3d7f-86eb-af8d23b7ec83/dow-jones-drops-on-strong.html",
-        "providerPublishTime": 1657288326,
+        "link": "https://finance.yahoo.com/m/efb53dd0-b8d3-3109-b4ef-1593bc222f60/smart-buys%2C-sells-that-make.html",
+        "providerPublishTime": 1657710051,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SiXaOgOrkGqivP2oRcYDfA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8JiwQW4LtpzBzPmcm1taVg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0d7256312fda2317fe6123751bc7ad9a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wTr2x44d.9P06fqLtcUqRA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D4v9guYgrJkvoUNOa1Ds8A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f5483177122c3a0c81d4d7b4cd5ddbda",
                     "width": 1000,
                     "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2rxUmJ7Amd2hTQ4vg1hvxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8JiwQW4LtpzBzPmcm1taVg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0d7256312fda2317fe6123751bc7ad9a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IKvrSGngnBgZ_uukAvRpbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D4v9guYgrJkvoUNOa1Ds8A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f5483177122c3a0c81d4d7b4cd5ddbda",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -109,78 +109,65 @@
             ]
         },
         "relatedTickers": [
-            "^DJI",
-            "UNH",
-            "FNKO",
-            "PWR",
-            "TSLA",
-            "MSFT",
-            "JNJ",
-            "EVH"
-        ]
-    },
-    "82232ea9-0315-3e1b-b4be-58afe8c27be2": {
-        "uuid": "82232ea9-0315-3e1b-b4be-58afe8c27be2",
-        "title": "10 Best Stocks to Buy Amid Inflation in 2022 and Beyond",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-amid-130727659.html",
-        "providerPublishTime": 1657285647,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q1IFE2JQzfq___Q_ou55Qw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Q_0XFsmkn.sruqPeCfI3dA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7Z7d8JEazU3ymOSw3os39g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Q_0XFsmkn.sruqPeCfI3dA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EOG",
-            "ARE",
-            "LLY",
-            "CTVA",
-            "ADM",
-            "PG",
             "JNJ"
         ]
     },
-    "a95956d2-97af-35e3-9387-2e6b96b6d420": {
-        "uuid": "a95956d2-97af-35e3-9387-2e6b96b6d420",
-        "title": "Investing $50 Weekly Could Grow Your Portfolio to $500,000 in 30 Years",
+    "ec1a3f06-262f-3a39-8713-363204c3127d": {
+        "uuid": "ec1a3f06-262f-3a39-8713-363204c3127d",
+        "title": "Better Dividend Stock: AbbVie or Johnson & Johnson?",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a95956d2-97af-35e3-9387-2e6b96b6d420/investing-%2450-weekly-could.html",
-        "providerPublishTime": 1657206000,
+        "link": "https://finance.yahoo.com/m/ec1a3f06-262f-3a39-8713-363204c3127d/better-dividend-stock%3A-abbvie.html",
+        "providerPublishTime": 1657706220,
         "type": "STORY",
         "relatedTickers": [
             "JNJ",
-            "ISRG"
+            "ABBV"
         ]
     },
-    "9d92e888-8028-3392-bd0e-dd7f1868334b": {
-        "uuid": "9d92e888-8028-3392-bd0e-dd7f1868334b",
-        "title": "Billionaire Jeffrey Talpins Just Fled From These 10 Healthcare Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/billionaire-jeffrey-talpins-just-fled-141502334.html",
-        "providerPublishTime": 1657203302,
+    "945e096e-11cf-3f1e-a300-deae913d33bf": {
+        "uuid": "945e096e-11cf-3f1e-a300-deae913d33bf",
+        "title": "Is J&J Stock A Buy On Its Recent Spate Of Positive Cancer News?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/945e096e-11cf-3f1e-a300-deae913d33bf/is-j%26j-stock-a-buy-on-its.html",
+        "providerPublishTime": 1657644904,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/h3CrtfMvvfGn5ZDgKLM6xg--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
-                    "width": 473,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ynbZOA3keKx9eZUVUuTbFg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CsHHg6gToDwZVqbksUYScg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/741ce4109ca3fee4cbe843c124b0c89b",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9Q7fvJzpitvlFA_S88DKAg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CsHHg6gToDwZVqbksUYScg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/741ce4109ca3fee4cbe843c124b0c89b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ"
+        ]
+    },
+    "a9cab373-235a-32f8-a8c2-0a79c2111745": {
+        "uuid": "a9cab373-235a-32f8-a8c2-0a79c2111745",
+        "title": "Why Johnson & Johnson (JNJ) Could Beat Earnings Estimates Again",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-johnson-johnson-jnj-could-161004028.html",
+        "providerPublishTime": 1657642204,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/88Fg6KE6GPnh0zlh3tqRTA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+                    "width": 900,
                     "height": 600,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/trOU_XwLBLYTtx6_yM7jlQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EEat1iavhfBPvfBOnBPN_Q--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a4a355b31cb6af23e74047883e00356e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pqnfGkvbQ5ArK7CRuvTLzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -188,33 +175,26 @@
             ]
         },
         "relatedTickers": [
-            "PFE",
-            "JNJ",
-            "LLY",
-            "CNVY",
-            "TMO",
-            "DHR",
-            "DGX",
-            "MRNA"
+            "JNJ"
         ]
     },
-    "aef84543-e5e2-3aba-be1a-a07124039c9a": {
-        "uuid": "aef84543-e5e2-3aba-be1a-a07124039c9a",
-        "title": "11 Best Dividend-Paying Stocks To Buy Now",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/11-best-dividend-paying-stocks-140954871.html",
-        "providerPublishTime": 1657202994,
-        "type": "STORY",
+    "190d8d1b-7013-3ab5-8427-512274c6088c": {
+        "uuid": "190d8d1b-7013-3ab5-8427-512274c6088c",
+        "title": "Biden officials push for 2nd COVID-19 booster shot, insurers invest in affordable housing",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/biden-officials-push-2nd-covid-144405576.html",
+        "providerPublishTime": 1657637045,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fr07bcw_OgkGCFDU2Eyo6w--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HEoYVwSUqyL0hDPtlP6KeA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/594cebb1c181a8cba8e148ab6419c17a",
-                    "width": 750,
-                    "height": 500,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1pbJHyqWaKLsgVzcRsgv4w--~B/aD0yMzI7dz00MTI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1115a250-01f1-11ed-8fff-6d634da2740e",
+                    "width": 412,
+                    "height": 232,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QO4tqnb6_8_7OwLO_KrhWA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HEoYVwSUqyL0hDPtlP6KeA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/594cebb1c181a8cba8e148ab6419c17a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/advIA1QOoIpjg3mMViButQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1115a250-01f1-11ed-8fff-6d634da2740e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -222,15 +202,11 @@
             ]
         },
         "relatedTickers": [
-            "GWW",
-            "NUE",
-            "DOV",
-            "PPG",
-            "SYY",
-            "KO",
-            "ADM",
-            "JNJ",
-            "MRK"
+            "NVAX",
+            "MRNA",
+            "PFE",
+            "UNH",
+            "JNJ"
         ]
     }
 }

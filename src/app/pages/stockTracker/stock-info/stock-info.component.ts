@@ -1,4 +1,4 @@
-import { AfterViewInit, Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
@@ -6,9 +6,14 @@ import { ActivatedRoute } from '@angular/router';
   templateUrl: './stock-info.component.html',
   styleUrls: ['./stock-info.component.css'],
 })
-export class StockInfoComponent implements OnInit, AfterViewInit {
+export class StockInfoComponent implements OnInit {
   @Input() symbol = '';
   stockInfo: any;
+  exchange = ''
+  wallmineLink = 'https://wallmine.com/'
+  finvizLink = 'https://finviz.com/quote.ashx?t=';
+  hyperchartsLink = 'https://hypercharts.co/';
+  tradingviewLink = 'https://www.tradingview.com/symbols/'
 
   constructor(private activatedRoute: ActivatedRoute) {}
 
@@ -16,13 +21,13 @@ export class StockInfoComponent implements OnInit, AfterViewInit {
     this.activatedRoute.data.subscribe((response) => {
       this.symbol = this.symbol
       ? this.symbol.toUpperCase()
-      : this.activatedRoute.snapshot.params['symbol'].toUpperCase();
+        : this.activatedRoute.snapshot.params['symbol'].toUpperCase();
       this.stockInfo = response['stocks'].default[this.symbol];
+      this.exchange = this.stockInfo.stats.price.exchangeName;
+      this.wallmineLink += this.exchange + '/' + this.symbol;
+      this.finvizLink += this.symbol;
+      this.hyperchartsLink += this.symbol;
+      this.tradingviewLink += this.exchange + '-' + this.symbol;
     });
-  }
-
-  ngAfterViewInit() {
-    console.log(this.symbol);
-    console.log(this.stockInfo);
   }
 }

@@ -1,21 +1,21 @@
 {
-    "8036a507-23fe-33a6-8d8a-df453eb8d3ac": {
-        "uuid": "8036a507-23fe-33a6-8d8a-df453eb8d3ac",
-        "title": "FDA Fully Approves Pfizer\u2019s Covid-19 Vaccine for Adolescents",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/8036a507-23fe-33a6-8d8a-df453eb8d3ac/fda-fully-approves-pfizer%E2%80%99s.html",
-        "providerPublishTime": 1657319040,
+    "1a882e7e-8aff-36a3-9235-34977a42b084": {
+        "uuid": "1a882e7e-8aff-36a3-9235-34977a42b084",
+        "title": "What\u2019s Next for the Fed After Inflation Shocks Again",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/1a882e7e-8aff-36a3-9235-34977a42b084/what%E2%80%99s-next-for-the-fed-after.html",
+        "providerPublishTime": 1657795320,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ge45LK6O3DOh5NJU9Fec8w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/izSZYkV2OJNmEkBdDbdqQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/168125b25447b7815773c81309155071",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J0hSHwiVZK_2A2TmO35dGA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/13RXDtVFzuc17MgpJqekKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88494a9746d1b7ecf9ecaafc54363937",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/B_DRkjg4kUwuUR9KxZtdBA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/izSZYkV2OJNmEkBdDbdqQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/168125b25447b7815773c81309155071",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nPh7zguAjZDNswQMj.2Xmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/13RXDtVFzuc17MgpJqekKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88494a9746d1b7ecf9ecaafc54363937",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,129 +23,19 @@
             ]
         },
         "relatedTickers": [
-            "BNTX",
-            "PFE"
+            "AMZN",
+            "^IXIC",
+            "PFE",
+            "NVAX",
+            "CELH"
         ]
     },
-    "7faaf21a-831f-38d8-a239-510ceae2aff2": {
-        "uuid": "7faaf21a-831f-38d8-a239-510ceae2aff2",
-        "title": "U.S. FDA grants full approval to Pfizer COVID vaccine for ages 12-15",
+    "7128c471-dac9-3778-a229-3b67e38bc7d4": {
+        "uuid": "7128c471-dac9-3778-a229-3b67e38bc7d4",
+        "title": "Ombudswoman says missing EU Pfizer vaccine deal texts are \"wake-up call\"",
         "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/u-fda-grants-full-approval-192808955.html",
-        "providerPublishTime": 1657308488,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3OH17Q8pXmKN6UPKK80mkw--~B/aD0xNzYyO3c9MzEzMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9cbf10a0-fef6-11ec-bbf8-fb146653cd60",
-                    "width": 3133,
-                    "height": 1762,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WuI5OiAV9w6dLemJ5glzbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9cbf10a0-fef6-11ec-bbf8-fb146653cd60",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "3bb70f1d-0564-3372-90c5-ccf8026bb6da": {
-        "uuid": "3bb70f1d-0564-3372-90c5-ccf8026bb6da",
-        "title": "Pharma Stock Roundup: AZN's Small Cancer Firm Buyout, FDA Updates for PFE, RHHBY",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pharma-stock-roundup-azns-small-153403671.html",
-        "providerPublishTime": 1657294443,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QY9qucZMbqb7FOMArsSGCQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gw9hjYsV9oVXUgeEGEfgLQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f91db6bb14dedc17d5edb20f29c41da3",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/G8wJdhwMC1PrJuj4mU5GUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gw9hjYsV9oVXUgeEGEfgLQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f91db6bb14dedc17d5edb20f29c41da3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AZN",
-            "PFE",
-            "ROG.SW"
-        ]
-    },
-    "c848cd70-37eb-3098-8ec7-ef2a2af59ba5": {
-        "uuid": "c848cd70-37eb-3098-8ec7-ef2a2af59ba5",
-        "title": "Biohaven (BHVN) Begins Phase III Study on SMA Candidate",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/biohaven-bhvn-begins-phase-iii-150903596.html",
-        "providerPublishTime": 1657292943,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/L1BO62wa0sJGkHodHpin.Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hV9HqOxsOkZmaD4xyKkWQw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/abdb684baba7aff1209cd5ff357d8a0e",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XNq5Mo4ysC8Bh9tePo21bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hV9HqOxsOkZmaD4xyKkWQw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/abdb684baba7aff1209cd5ff357d8a0e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BHVN",
-            "PFE",
-            "BMY",
-            "BIIB"
-        ]
-    },
-    "125311d0-6356-3cc6-8c55-15c3ff426278": {
-        "uuid": "125311d0-6356-3cc6-8c55-15c3ff426278",
-        "title": "Pfizer, Africa CDC Strike COVID-19 Antiviral Pact: Report",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/pfizer-africa-cdc-strike-covid-105431494.html",
-        "providerPublishTime": 1657277671,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2kfl2_f8g4pCSZOQVeQZKw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6xmLbhTAHBUIzDDjwWRfKQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/286e7e0202da0af884649262e7873a79",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FtdLkxapuz3fCYPfT4qYzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6xmLbhTAHBUIzDDjwWRfKQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/286e7e0202da0af884649262e7873a79",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "aa3463ca-d286-38e0-b5ac-b97768d90904": {
-        "uuid": "aa3463ca-d286-38e0-b5ac-b97768d90904",
-        "title": "Pfizer Receives Approval for COVID Treatment Paxlovid",
-        "publisher": "Investopedia",
-        "link": "https://finance.yahoo.com/m/aa3463ca-d286-38e0-b5ac-b97768d90904/pfizer-receives-approval-for.html",
-        "providerPublishTime": 1657225303,
+        "link": "https://finance.yahoo.com/news/ombudswoman-says-missing-eu-pfizer-094327496.html",
+        "providerPublishTime": 1657791807,
         "type": "STORY",
         "relatedTickers": [
             "PFE"
@@ -153,10 +43,10 @@
     },
     "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
         "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy As Humira Biosimilar Rivals Loom?",
+        "title": "Is AbbVie Stock A Buy Or A Sell As Humira Biosimilar Rivals Loom?",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-as.html",
-        "providerPublishTime": 1657211775,
+        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-or-a.html",
+        "providerPublishTime": 1657745415,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -180,23 +70,23 @@
             "PFE"
         ]
     },
-    "dada3fc0-0a3b-3b85-9198-87b68e96a285": {
-        "uuid": "dada3fc0-0a3b-3b85-9198-87b68e96a285",
-        "title": "Novavax (NVAX) Stock Rallies 26.8% in a Month: Here's Why",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-rallies-26-160304184.html",
-        "providerPublishTime": 1657209784,
+    "dd2a8655-98bd-33de-86ba-9fa6b9659e79": {
+        "uuid": "dd2a8655-98bd-33de-86ba-9fa6b9659e79",
+        "title": "UPDATE 2-U.S. FDA authorizes Novavax COVID vaccine for adults",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-u-fda-authorizes-novavax-202545179.html",
+        "providerPublishTime": 1657743945,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FEsuRmc1TvZAXS1X26oDXw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/190d8d1b-7013-3ab5-8427-512274c6088c/2022-07-12/14-44-06/54dd20ae-5a12-507c-babf-f1e96bc696d2/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/68hCtexiASHbCogMNYkyKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/190d8d1b-7013-3ab5-8427-512274c6088c/2022-07-12/14-44-06/54dd20ae-5a12-507c-babf-f1e96bc696d2/stream_1280x720x0_v2_3_0.jpg",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -205,7 +95,119 @@
         },
         "relatedTickers": [
             "NVAX",
-            "BNTX",
+            "PFE"
+        ]
+    },
+    "6bfd37c4-9823-3eb5-abb5-488df3b2d5c8": {
+        "uuid": "6bfd37c4-9823-3eb5-abb5-488df3b2d5c8",
+        "title": "Top Analyst Reports for Pfizer, Raytheon Technologies & Diageo",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/top-analyst-reports-pfizer-raytheon-201808324.html",
+        "providerPublishTime": 1657743488,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/coGZ0..GhfoC0WClRZ8Sow--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rVApETWEsM5902MnSJcT7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9fbd184faf399044b3daf708db81da25",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qtHqwelh.NdevZqhjy_KXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rVApETWEsM5902MnSJcT7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9fbd184faf399044b3daf708db81da25",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RTX",
+            "DEO",
+            "PFE",
+            "ABBV",
+            "INFY",
+            "CP"
+        ]
+    },
+    "e0f88281-957f-3053-b84e-52126ba0db60": {
+        "uuid": "e0f88281-957f-3053-b84e-52126ba0db60",
+        "title": "AM Best Affirms Credit Ratings of Blue Whale Re Ltd.",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/am-best-affirms-credit-ratings-141300839.html",
+        "providerPublishTime": 1657721580,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.4wl5CXaH9QCFQy08XaDzg--~B/aD0xNzU7dz0zNjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/E6b9ZFPvxEfcPk7eV.pcFg--~B/aD0xNzU7dz0zNjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e77bb3d53348950ea83c30876fa2c958",
+                    "width": 360,
+                    "height": 175,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kw522yiLYU1AREngnqH3NA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/E6b9ZFPvxEfcPk7eV.pcFg--~B/aD0xNzU7dz0zNjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e77bb3d53348950ea83c30876fa2c958",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "30ba9401-e76e-3d79-9881-ee94b2b2045b": {
+        "uuid": "30ba9401-e76e-3d79-9881-ee94b2b2045b",
+        "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/why-1-value-stock-could-134001384.html",
+        "providerPublishTime": 1657719601,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KvxSR5ztxQ6HM4oFxTU.Pg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dB.UolBGkoK2bprLxV8m1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "da50730b-057f-3da6-ba71-7e71c12d4c74": {
+        "uuid": "da50730b-057f-3da6-ba71-7e71c12d4c74",
+        "title": "Here is What to Know Beyond Why Pfizer Inc. (PFE) is a Trending Stock",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/know-beyond-why-pfizer-inc-130001439.html",
+        "providerPublishTime": 1657717201,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BMNpzz3PBPNQU8HPiAFdwg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
+                    "width": 900,
+                    "height": 900,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H0qde9v17QXaHeirm7UJkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "PFE"
         ]
     }

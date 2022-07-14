@@ -1,21 +1,21 @@
 {
-    "65aee0ef-8bfa-3392-a946-d93a5d2303ee": {
-        "uuid": "65aee0ef-8bfa-3392-a946-d93a5d2303ee",
-        "title": "Commodity price declines may shape Fed\u2019s rate-hike path, says economist",
+    "0edf9b46-e9ea-3f8f-a566-a00efc958514": {
+        "uuid": "0edf9b46-e9ea-3f8f-a566-a00efc958514",
+        "title": "Oil prices extend slide, erasing much of the gain seen after Russia\u2019s invasion of Ukraine",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/65aee0ef-8bfa-3392-a946-d93a5d2303ee/commodity-price-declines-may.html",
-        "providerPublishTime": 1657317960,
+        "link": "https://finance.yahoo.com/m/0edf9b46-e9ea-3f8f-a566-a00efc958514/oil-prices-extend-slide%2C.html",
+        "providerPublishTime": 1657798560,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JMCgfxNvPku3tBckjjbOXQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KYjsjHejtN_EBY.ANVNz2g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b7c9740f657eece29ec929dbac718834",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QSiAOUi_zcCynLFkDdQPqg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FOi41xTrtrIduP9wpLByhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/e50cf0ebabc00f7395520fc708164875",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wWmOh0397TPD6Faj5xUfvg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KYjsjHejtN_EBY.ANVNz2g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b7c9740f657eece29ec929dbac718834",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P2rYQt5XjKwOv818eTMwiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FOi41xTrtrIduP9wpLByhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/e50cf0ebabc00f7395520fc708164875",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -24,40 +24,39 @@
         },
         "relatedTickers": [
             "CL=F",
-            "GC=F",
-            "ZG=F",
-            "HG=F"
+            "NG=F",
+            "HO=F"
         ]
     },
-    "c8a72e62-2442-3c6b-bedd-e3fdb50f0dd7": {
-        "uuid": "c8a72e62-2442-3c6b-bedd-e3fdb50f0dd7",
-        "title": "Gasoline Prices See The Largest Drop In Nearly 15 Years",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/gasoline-prices-see-largest-drop-213000532.html",
-        "providerPublishTime": 1657315800,
+    "403c5372-1513-3025-8924-ef429e8d1a82": {
+        "uuid": "403c5372-1513-3025-8924-ef429e8d1a82",
+        "title": "2 Inflation-Resistant REITs That Are Keeping My Portfolio Afloat",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/403c5372-1513-3025-8924-ef429e8d1a82/2-inflation-resistant-reits.html",
+        "providerPublishTime": 1657794780,
         "type": "STORY",
         "relatedTickers": [
-            "CL=F",
-            "RB=F"
+            "O",
+            "EPR"
         ]
     },
-    "60115ae8-ce76-4e85-9445-7cfa2a7f9563": {
-        "uuid": "60115ae8-ce76-4e85-9445-7cfa2a7f9563",
-        "title": "Stock market news live updates: Stocks close flat but cap week higher after strong June jobs report",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-july-8-2022-114209262.html",
-        "providerPublishTime": 1657310668,
+    "398e169f-59ed-3d32-b1c9-3949e54bcc98": {
+        "uuid": "398e169f-59ed-3d32-b1c9-3949e54bcc98",
+        "title": "Europe Is Frying in Devastating Heat, Yet Is Burning More Coal",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/heat-waves-across-europe-show-040026632.html",
+        "providerPublishTime": 1657792759,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bi2uS3rh7oTkDTKd7QXxFQ--~B/aD00MTYwO3c9NjI0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/717c15c0-f729-11ec-976b-f10113a4c9b9",
-                    "width": 6240,
-                    "height": 4160,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oksO6VwdvsfAZ3qUeinjIA--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DHUWmPnzq4lEwzrLhalgag--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/19abb0c3d571a8c75f730e55f67e983e",
+                    "width": 1296,
+                    "height": 796,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4bpFN.resapYMMHG3FnlQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/717c15c0-f729-11ec-976b-f10113a4c9b9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LFe4WORD5q_ikq33Qqhg.g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DHUWmPnzq4lEwzrLhalgag--~B/aD03OTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/19abb0c3d571a8c75f730e55f67e983e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -65,31 +64,53 @@
             ]
         },
         "relatedTickers": [
-            "ES=F",
+            "NG=F",
             "CL=F",
-            "^GSPC",
-            "^DJI",
-            "^IXIC",
-            "NQ=F"
+            "KW=F"
         ]
     },
-    "205faec3-5406-3903-bc2c-e36ecc5f9bf4": {
-        "uuid": "205faec3-5406-3903-bc2c-e36ecc5f9bf4",
-        "title": "Gas Prices Have Fallen for 24 Straight Days. The Relief Might Only Be Temporary.",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/205faec3-5406-3903-bc2c-e36ecc5f9bf4/gas-prices-have-fallen-for-24.html",
-        "providerPublishTime": 1657309080,
+    "6a26dc8d-2cda-3d3e-9236-c1cf8c7e1af5": {
+        "uuid": "6a26dc8d-2cda-3d3e-9236-c1cf8c7e1af5",
+        "title": "South Africa releases draft shale gas regulations",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/south-africa-releases-draft-shale-094045259.html",
+        "providerPublishTime": 1657791645,
+        "type": "STORY",
+        "relatedTickers": [
+            "NG=F",
+            "CL=F",
+            "SSL"
+        ]
+    },
+    "89e12134-21b2-3a12-a18c-31776a3aa6ad": {
+        "uuid": "89e12134-21b2-3a12-a18c-31776a3aa6ad",
+        "title": "2 Outstanding Passive Income Stocks to Buy Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/89e12134-21b2-3a12-a18c-31776a3aa6ad/2-outstanding-passive-income.html",
+        "providerPublishTime": 1657791540,
+        "type": "STORY",
+        "relatedTickers": [
+            "O",
+            "MPW"
+        ]
+    },
+    "8a8d98b1-57a5-3d7f-bf58-aebdac77a3dd": {
+        "uuid": "8a8d98b1-57a5-3d7f-bf58-aebdac77a3dd",
+        "title": "Libya's oil firm chief resists move to replace him",
+        "publisher": "AFP",
+        "link": "https://finance.yahoo.com/m/8a8d98b1-57a5-3d7f-bf58-aebdac77a3dd/libya%27s-oil-firm-chief.html",
+        "providerPublishTime": 1657783423,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/laI9HuF_TxqWF31X2kvALw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uOSMpzW8uLFNaUvac7OCgg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/bcb120c7b10e052b67d672ad320fbec5",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pYWog9gZm.oAgk90sqmc9A--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/d.7h2OD62KhiczVceqJ3VQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/86b50c63456b3862cc2fe9788e546bf0",
+                    "width": 768,
+                    "height": 512,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZKmiqRiZdkDlCVkUnWlhUA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uOSMpzW8uLFNaUvac7OCgg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/bcb120c7b10e052b67d672ad320fbec5",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SGcSZZPI499Z6qNepgj5Aw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d.7h2OD62KhiczVceqJ3VQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/86b50c63456b3862cc2fe9788e546bf0",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -100,23 +121,23 @@
             "CL=F"
         ]
     },
-    "971bc6f3-0cd8-3118-9fed-ba502e42f582": {
-        "uuid": "971bc6f3-0cd8-3118-9fed-ba502e42f582",
-        "title": "Oil prices finish higher but log a weekly loss as recession fears swirl",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/971bc6f3-0cd8-3118-9fed-ba502e42f582/oil-prices-finish-higher-but.html",
-        "providerPublishTime": 1657306860,
+    "4bfa36c1-cb88-31c8-bbd8-e815d59f37d8": {
+        "uuid": "4bfa36c1-cb88-31c8-bbd8-e815d59f37d8",
+        "title": "Sticky Core Inflation Makes it Tricky To Fade Headline CPI +Bank Of Canada Dented the Reversion Party + Oil Struggles",
+        "publisher": "FX Empire",
+        "link": "https://finance.yahoo.com/news/sticky-core-inflation-makes-tricky-015100602.html",
+        "providerPublishTime": 1657763460,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RfVo5Qirch1.QKbVTCP.2g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/q6G.R.nHC5WKPWhwQXcKLQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/feddf89ec07873c088f70275e0890c99",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7M5_ms1L1f1pNzCqrusCVw--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Oqc71ci7EZH_J4ijfmVLsQ--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/93a865f50748ef0aec402884b79a4d23",
+                    "width": 615,
+                    "height": 410,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y_93bRQft4GVEWsShpvp1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/q6G.R.nHC5WKPWhwQXcKLQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/feddf89ec07873c088f70275e0890c99",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/x3bvNh9.ktMfp5l05WaxHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Oqc71ci7EZH_J4ijfmVLsQ--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/93a865f50748ef0aec402884b79a4d23",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -124,58 +145,31 @@
             ]
         },
         "relatedTickers": [
-            "HO=F",
-            "RB=F",
+            "BNO",
+            "EURUSD=X",
+            "USD=X",
+            "EUR=X",
             "NG=F",
             "CL=F"
         ]
     },
-    "d927d019-1e0a-3d02-a022-e7967411c4b5": {
-        "uuid": "d927d019-1e0a-3d02-a022-e7967411c4b5",
-        "title": "Oil Prices Bounce Back From Shocking Collapse",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/oil-prices-bounce-back-shocking-190000642.html",
-        "providerPublishTime": 1657306800,
+    "17de7d54-9f0f-3c1d-80cb-c64d3d689900": {
+        "uuid": "17de7d54-9f0f-3c1d-80cb-c64d3d689900",
+        "title": "Oil prices tumble more than $2 ahead of potential large U.S. rate hike",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/oil-prices-tick-down-inflation-003129982.html",
+        "providerPublishTime": 1657758689,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bDJVx4sjzUUoHTaj4vA2eQ--~B/aD0yNjg7dz05MjM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/g34faEYMkBRvemo1b6gAdg--~B/aD0yNjg7dz05MjM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/81dfc2b1e0ecd0ce16df1eb71c2170df",
-                    "width": 923,
-                    "height": 268,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cpVVYVQEJyRYKQcNrDGzXw--~B/aD01MDQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/62_A9jXhtxvOKFF10OAJzA--~B/aD01MDQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/d0eb66d2e6762b085e5ac697651acee9",
+                    "width": 800,
+                    "height": 504,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XpPGSqWncruGE5SycHCErA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/g34faEYMkBRvemo1b6gAdg--~B/aD0yNjg7dz05MjM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/81dfc2b1e0ecd0ce16df1eb71c2170df",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HG=F",
-            "CL=F",
-            "NG=F"
-        ]
-    },
-    "dc37097a-5e61-341d-9694-0453fd6ae84a": {
-        "uuid": "dc37097a-5e61-341d-9694-0453fd6ae84a",
-        "title": "Oil prices end higher for the session, down for the week",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/dc37097a-5e61-341d-9694-0453fd6ae84a/oil-prices-end-higher-for-the.html",
-        "providerPublishTime": 1657305690,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4nQuEZFzB80ijBV8IHn2UA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/62_A9jXhtxvOKFF10OAJzA--~B/aD01MDQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/d0eb66d2e6762b085e5ac697651acee9",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -184,35 +178,6 @@
         },
         "relatedTickers": [
             "CL=F"
-        ]
-    },
-    "a687dc04-af2e-3d50-bdf1-c8ba9e99dcf7": {
-        "uuid": "a687dc04-af2e-3d50-bdf1-c8ba9e99dcf7",
-        "title": "Baker Hughes reports a 5th straight weekly rise in the number of active U.S. oil-drilling rigs",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/a687dc04-af2e-3d50-bdf1-c8ba9e99dcf7/baker-hughes-reports-a-5th.html",
-        "providerPublishTime": 1657300152,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
-            "BKR",
-            "NG=F"
         ]
     }
 }
