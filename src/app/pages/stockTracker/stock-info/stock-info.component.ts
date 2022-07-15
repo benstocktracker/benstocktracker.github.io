@@ -18,12 +18,14 @@ export class StockInfoComponent implements OnInit {
   constructor(private activatedRoute: ActivatedRoute) {}
 
   ngOnInit(): void {
+    // TODO: fix nasdaq exchange name string
     this.activatedRoute.data.subscribe((response) => {
       this.symbol = this.symbol
       ? this.symbol.toUpperCase()
         : this.activatedRoute.snapshot.params['symbol'].toUpperCase();
       this.stockInfo = response['stocks'].default[this.symbol];
       this.exchange = this.stockInfo.stats.price.exchangeName;
+      this.exchange = this.exchange === 'NasdaqGS' ? 'Nasdaq' : this.exchange;
       this.wallmineLink += this.exchange + '/' + this.symbol;
       this.finvizLink += this.symbol;
       this.hyperchartsLink += this.symbol;
