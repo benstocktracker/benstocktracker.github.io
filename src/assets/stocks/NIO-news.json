@@ -1,4 +1,69 @@
 {
+    "81cf5346-f628-3c34-8b75-96bbf372edf0": {
+        "uuid": "81cf5346-f628-3c34-8b75-96bbf372edf0",
+        "title": "NIO Inc. (NIO) Stock Moves -0.19%: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-inc-nio-stock-moves-214509491.html",
+        "providerPublishTime": 1657835109,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/icWwTnXD.RDbbaiJecovTw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9hmYK3wZFQeDq1Iw4TW61Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "7d319bd6-3c50-3c45-a29d-94a3059a709a": {
+        "uuid": "7d319bd6-3c50-3c45-a29d-94a3059a709a",
+        "title": "Morgan Stanley \u2018constructive\u2019 on GM, Ford ahead of auto earnings",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/morgan-stanley-constructive-gm-ford-200459624.html",
+        "providerPublishTime": 1657829099,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/q.vlADb0ZORDQ5_3gl9K6A--~B/aD0xNjg1O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3a2a94f0-03b0-11ed-97f6-f54e0ac28f16",
+                    "width": 3000,
+                    "height": 1685,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xMZAR.BAOw6FZX8qS_r.kA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3a2a94f0-03b0-11ed-97f6-f54e0ac28f16",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "LCID",
+            "NIO",
+            "TM",
+            "TOYOF",
+            "GM",
+            "HMC",
+            "HNDAF",
+            "MS",
+            "MS-PO",
+            "F",
+            "RIVN"
+        ]
+    },
     "fa1a3c6e-de96-348a-8109-446173a70007": {
         "uuid": "fa1a3c6e-de96-348a-8109-446173a70007",
         "title": "Why Nio Shares Bounced Back Today",
@@ -161,70 +226,6 @@
         "type": "STORY",
         "relatedTickers": [
             "NIO"
-        ]
-    },
-    "a1de0dae-78e9-30f4-ae1c-b54bc0583b50": {
-        "uuid": "a1de0dae-78e9-30f4-ae1c-b54bc0583b50",
-        "title": "Electric vehicles: What Ford\u2019s Mustang Mach-E offers drivers",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/electric-vehicles-ford-mustang-mach-145214605.html",
-        "providerPublishTime": 1657551134,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1KXjaOpq8C8dKLne2Q3mkg--~B/aD0zMzE2O3c9NTkwMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0ae59b60-0129-11ed-beef-1aa0bc3be1e3",
-                    "width": 5902,
-                    "height": 3316,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/otQU.EFoaG9K9qicxY96mw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0ae59b60-0129-11ed-beef-1aa0bc3be1e3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "F",
-            "GM",
-            "TM",
-            "TOYOF",
-            "TSLA"
-        ]
-    },
-    "90f8b66c-3dd3-3db4-ab82-feb921bfb8b1": {
-        "uuid": "90f8b66c-3dd3-3db4-ab82-feb921bfb8b1",
-        "title": "NIO, other EV maker stocks drop after China imposes COVID-related restrictions",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/90f8b66c-3dd3-3db4-ab82-feb921bfb8b1/nio%2C-other-ev-maker-stocks.html",
-        "providerPublishTime": 1657537950,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "^GSPC",
-            "XPEV",
-            "XPNGF",
-            "NIO",
-            "LI"
         ]
     }
 }

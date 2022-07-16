@@ -1,4 +1,32 @@
 {
+    "b3b6f071-5935-3059-8159-25ee1b55a049": {
+        "uuid": "b3b6f071-5935-3059-8159-25ee1b55a049",
+        "title": "2 High-Yield Stocks With Very Different Risk Factors",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b3b6f071-5935-3059-8159-25ee1b55a049/2-high-yield-stocks-with-very.html",
+        "providerPublishTime": 1657892460,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vtIqXnj0A_lBh3fXaCYv3g--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/N2h4JyvXzAhRmJYiVrJZfA--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/81e8c719e41961db24714c8da6400ae9",
+                    "width": 1400,
+                    "height": 906,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BEUtbf5RrDL1TT.QA1NN2w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/N2h4JyvXzAhRmJYiVrJZfA--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/81e8c719e41961db24714c8da6400ae9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NRZ-PC",
+            "SPG"
+        ]
+    },
     "b377f314-4a38-33a0-ac34-3d9b1dcedc87": {
         "uuid": "b377f314-4a38-33a0-ac34-3d9b1dcedc87",
         "title": "Love Passive Income? These Dividend Stocks Are for You",
@@ -178,23 +206,6 @@
             ]
         },
         "relatedTickers": [
-            "SPG"
-        ]
-    },
-    "b92b5ef7-f028-30c7-924d-827ab84cfd49": {
-        "uuid": "b92b5ef7-f028-30c7-924d-827ab84cfd49",
-        "title": "7 REITs to Buy in July 2022",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-reits-buy-july-2022-120746219.html",
-        "providerPublishTime": 1656936466,
-        "type": "STORY",
-        "relatedTickers": [
-            "CIO-PA",
-            "GLPI",
-            "SBRA",
-            "CCI",
-            "FPI",
-            "PSTL",
             "SPG"
         ]
     }

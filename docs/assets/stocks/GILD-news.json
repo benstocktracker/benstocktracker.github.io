@@ -1,4 +1,27 @@
 {
+    "da392e5a-4eee-37bc-9a97-b67cf5193791": {
+        "uuid": "da392e5a-4eee-37bc-9a97-b67cf5193791",
+        "title": "Decades of Achievements: Gilead's 35th Anniversary",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/decades-achievements-gileads-35th-anniversary-135518179.html",
+        "providerPublishTime": 1657893318,
+        "type": "STORY",
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "397450f6-fbd5-3903-82a7-633e7f665753": {
+        "uuid": "397450f6-fbd5-3903-82a7-633e7f665753",
+        "title": "This New Regulation Could Juice Pfizer Stock Even More",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/397450f6-fbd5-3903-82a7-633e7f665753/this-new-regulation-could.html",
+        "providerPublishTime": 1657889700,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE",
+            "GILD"
+        ]
+    },
     "a0089725-5b83-3c31-a965-0625198594ac": {
         "uuid": "a0089725-5b83-3c31-a965-0625198594ac",
         "title": "Pandemic is still a public health emergency, warns WHO, urging greater surveillance including testing and sequencing",
@@ -163,60 +186,6 @@
         },
         "relatedTickers": [
             "NCNA",
-            "GILD"
-        ]
-    },
-    "e34dd628-adf0-3434-bdfd-c24cc017d019": {
-        "uuid": "e34dd628-adf0-3434-bdfd-c24cc017d019",
-        "title": "Investing in Gilead Sciences (NASDAQ:GILD) five years ago would have delivered you a 7.5% gain",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/investing-gilead-sciences-nasdaq-gild-140215136.html",
-        "providerPublishTime": 1657461735,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P2Up_Pi6bmX7LFgZiQoypA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/toOHA4B9c_p415zczXd3bQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/81245609dd3c4b1e638094086514d4fb",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IxJGj18DG7tjbB8zwXg3jQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/toOHA4B9c_p415zczXd3bQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/81245609dd3c4b1e638094086514d4fb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "780aefec-85a8-3db8-bfc9-9983c6b5a6c1": {
-        "uuid": "780aefec-85a8-3db8-bfc9-9983c6b5a6c1",
-        "title": "Gilead Sciences Features Cristina Herrera of Translatinx Network",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/gilead-sciences-features-cristina-herrera-124520476.html",
-        "providerPublishTime": 1657284320,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/207X16ceMqwFzUoqP6bp.g--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hIXBgXLXzr_j8TiQ90e7DA--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/e45905aa429d835568691a3edd9f4cc4",
-                    "width": 650,
-                    "height": 366,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KQpZNtpBvtfONHuM_pai8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hIXBgXLXzr_j8TiQ90e7DA--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/e45905aa429d835568691a3edd9f4cc4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "GILD"
         ]
     }

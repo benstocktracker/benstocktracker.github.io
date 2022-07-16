@@ -1,4 +1,43 @@
 {
+    "aa94aaac-6b6c-377b-9716-f228e91b8282": {
+        "uuid": "aa94aaac-6b6c-377b-9716-f228e91b8282",
+        "title": "The Ben and Jerry\u2019s lessons for aspiring prime ministers",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/aa94aaac-6b6c-377b-9716-f228e91b8282/the-ben-and-jerry%E2%80%99s-lessons.html",
+        "providerPublishTime": 1657854007,
+        "type": "STORY",
+        "relatedTickers": [
+            "UL",
+            "UNLYF"
+        ]
+    },
+    "8948677b-097d-3fad-86c5-88ca524ca298": {
+        "uuid": "8948677b-097d-3fad-86c5-88ca524ca298",
+        "title": "Ben & Jerry's proposes to mediate Israel dispute with parent Unilever",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/ben-jerrys-proposes-mediate-israel-211125984.html",
+        "providerPublishTime": 1657833085,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tCXevnezz20EXqFjpo2lLg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/GK4yjyaSQMWMg7w0iii9yw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ed364f758c8d2e5d64b412389c157587",
+                    "width": 800,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pn9Bj3569uMqEOmeIYBehg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GK4yjyaSQMWMg7w0iii9yw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ed364f758c8d2e5d64b412389c157587",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "UL"
+        ]
+    },
     "cb212c90-12b8-3e70-a07f-f0788e367174": {
         "uuid": "cb212c90-12b8-3e70-a07f-f0788e367174",
         "title": "Activist investors wage record number of campaigns in Europe",
@@ -40,14 +79,14 @@
             ]
         },
         "relatedTickers": [
-            "UL",
-            "UNLYF",
-            "SNY",
-            "SNYNF",
             "TTE",
             "TTFNF",
             "SFTBF",
-            "SFTBY"
+            "SFTBY",
+            "UL",
+            "UNLYF",
+            "SNY",
+            "SNYNF"
         ]
     },
     "b8ff552f-6455-39a2-b8bf-349cfc3397c2": {
@@ -152,45 +191,6 @@
             "BBBY",
             "MO",
             "TSLA"
-        ]
-    },
-    "b4f667e7-5a4c-3dcf-8c86-89bece73de74": {
-        "uuid": "b4f667e7-5a4c-3dcf-8c86-89bece73de74",
-        "title": "Ben & Jerry's Sues Parent Unilever On Israeli business Sale: CNBC",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/ben-jerrys-sues-parent-unilever-112914165.html",
-        "providerPublishTime": 1657106954,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zQ_9HFuHMc.ZUQYjrc.46g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5miSVkHqt2yu0rjKqtaRoA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/211ef20837f7eb29a2e1674d12f37910",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/icJyFvJVIoerkq4OPzV7Dw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5miSVkHqt2yu0rjKqtaRoA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/211ef20837f7eb29a2e1674d12f37910",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "UL"
-        ]
-    },
-    "24f6ca5d-177b-36ec-a79a-d57985e3ebe7": {
-        "uuid": "24f6ca5d-177b-36ec-a79a-d57985e3ebe7",
-        "title": "Ben & Jerry\u2019s sues owner Unilever over sale of Israel licence",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/24f6ca5d-177b-36ec-a79a-d57985e3ebe7/ben-%26-jerry%E2%80%99s-sues-owner.html",
-        "providerPublishTime": 1657096960,
-        "type": "STORY",
-        "relatedTickers": [
-            "UL",
-            "UNLYF"
         ]
     }
 }

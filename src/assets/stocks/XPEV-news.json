@@ -1,21 +1,21 @@
 {
-    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
-        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
-        "providerPublishTime": 1657791594,
+    "69ab3420-dff2-3ad4-9f6b-2938c77e67c5": {
+        "uuid": "69ab3420-dff2-3ad4-9f6b-2938c77e67c5",
+        "title": "XPeng Inc. Sponsored ADR (XPEV) Stock Sinks As Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/xpeng-inc-sponsored-adr-xpev-221510541.html",
+        "providerPublishTime": 1657923310,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/98.a1RXLLn1auNXiH78frA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+                    "width": 900,
+                    "height": 602,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TtLwuPCMf6GMxPk1IqJQsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,20 +23,15 @@
             ]
         },
         "relatedTickers": [
-            "XPEV",
-            "BYDDY",
-            "LI",
-            "^GSPC",
-            "^HSI",
-            "BABA"
+            "XPEV"
         ]
     },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
         "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla AI Chief Out; China EV Giant Sees Booming Profit Amid Buffett Rumors",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla Earnings Due; China EV Giant's Profit Booms As Model 3 Rival Launches",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1657790364,
+        "providerPublishTime": 1657920144,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -63,12 +58,44 @@
             "RIVN"
         ]
     },
+    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
+        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
+        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
+        "providerPublishTime": 1657919934,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "BYDDY",
+            "LI",
+            "^GSPC",
+            "^HSI",
+            "BABA"
+        ]
+    },
     "122449e8-b87b-33a5-ae22-63ae3842e91b": {
         "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
         "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
-        "providerPublishTime": 1657745279,
+        "providerPublishTime": 1657823699,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -203,38 +230,6 @@
             "XPEV",
             "XPNGF",
             "NIO",
-            "LI"
-        ]
-    },
-    "7abf2968-810a-39d2-b416-42cb3039c542": {
-        "uuid": "7abf2968-810a-39d2-b416-42cb3039c542",
-        "title": "Elon Musk\u2019s Twitter Buyout Isn\u2019t Looking Good, Not Least to Elon Musk",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/7abf2968-810a-39d2-b416-42cb3039c542/elon-musk%E2%80%99s-twitter-buyout.html",
-        "providerPublishTime": 1657276860,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bO8xNkI2qLsSLmdfjnn5pw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wGagK.lkJQIKwkTR03q8Qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8Oyn0OqftosJh7yOidn4ig--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d716f9aa69f3e8b7ccfa74287b0823c7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "TWTR",
-            "XPEV",
-            "XPNGF",
-            "GME",
             "LI"
         ]
     }

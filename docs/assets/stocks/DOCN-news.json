@@ -1,4 +1,15 @@
 {
+    "dc442304-88db-33c8-a37e-f7cbae471c4d": {
+        "uuid": "dc442304-88db-33c8-a37e-f7cbae471c4d",
+        "title": "Why DigitalOcean Stock Was Underwater This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/dc442304-88db-33c8-a37e-f7cbae471c4d/why-digitalocean-stock-was.html",
+        "providerPublishTime": 1657883460,
+        "type": "STORY",
+        "relatedTickers": [
+            "DOCN"
+        ]
+    },
     "10089802-fa4c-35e3-ae25-de18d9a00211": {
         "uuid": "10089802-fa4c-35e3-ae25-de18d9a00211",
         "title": "DigitalOcean Catches a Double Downgrade on Recession Worries",
@@ -142,19 +153,6 @@
             ]
         },
         "relatedTickers": [
-            "DOCN"
-        ]
-    },
-    "924206fc-cb55-392e-87ee-a41f91f3f9df": {
-        "uuid": "924206fc-cb55-392e-87ee-a41f91f3f9df",
-        "title": "3 Beaten-Down Growth Stocks to Buy Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/924206fc-cb55-392e-87ee-a41f91f3f9df/3-beaten-down-growth-stocks.html",
-        "providerPublishTime": 1657278600,
-        "type": "STORY",
-        "relatedTickers": [
-            "ETSY",
-            "TEAM",
             "DOCN"
         ]
     }

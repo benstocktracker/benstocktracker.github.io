@@ -1,21 +1,21 @@
 {
-    "1a882e7e-8aff-36a3-9235-34977a42b084": {
-        "uuid": "1a882e7e-8aff-36a3-9235-34977a42b084",
-        "title": "What\u2019s Next for the Fed After Inflation Shocks Again",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/1a882e7e-8aff-36a3-9235-34977a42b084/what%E2%80%99s-next-for-the-fed-after.html",
-        "providerPublishTime": 1657795320,
+    "1e2dedd2-d0e6-452e-9618-3ceadae87231": {
+        "uuid": "1e2dedd2-d0e6-452e-9618-3ceadae87231",
+        "title": "New single-stock ETFs let investors short Tesla without shorting Tesla",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/short-tesla-single-stock-etf-132509877.html",
+        "providerPublishTime": 1657977909,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J0hSHwiVZK_2A2TmO35dGA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/13RXDtVFzuc17MgpJqekKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88494a9746d1b7ecf9ecaafc54363937",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3IyyHP7u2E.wEE4nn6w3kQ--~B/aD0yNDkxO3c9MzczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b043ba80-e827-11ec-bfef-53e5cc65090d",
+                    "width": 3736,
+                    "height": 2491,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nPh7zguAjZDNswQMj.2Xmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/13RXDtVFzuc17MgpJqekKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88494a9746d1b7ecf9ecaafc54363937",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LNn8sMiQzunI6NvqcGot1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/b043ba80-e827-11ec-bfef-53e5cc65090d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,41 +23,40 @@
             ]
         },
         "relatedTickers": [
-            "AMZN",
-            "^IXIC",
+            "^NDX",
+            "PSQ",
+            "SQQQ",
+            "NKE",
+            "PYPS",
             "PFE",
-            "NVAX",
-            "CELH"
+            "PFES",
+            "NKEQ",
+            "TSLQ",
+            "NVDS",
+            "PYPL",
+            "PYPT",
+            "PFEL",
+            "NVDA",
+            "NKEL"
         ]
     },
-    "7128c471-dac9-3778-a229-3b67e38bc7d4": {
-        "uuid": "7128c471-dac9-3778-a229-3b67e38bc7d4",
-        "title": "Ombudswoman says missing EU Pfizer vaccine deal texts are \"wake-up call\"",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/ombudswoman-says-missing-eu-pfizer-094327496.html",
-        "providerPublishTime": 1657791807,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
-        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy Or A Sell As Humira Biosimilar Rivals Loom?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-or-a.html",
-        "providerPublishTime": 1657745415,
+    "09d0c57e-3289-3051-b2b5-01a16fcbbd24": {
+        "uuid": "09d0c57e-3289-3051-b2b5-01a16fcbbd24",
+        "title": "Want to Get Richer? 5 Best Stocks to Buy Now and Hold Forever",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/09d0c57e-3289-3051-b2b5-01a16fcbbd24/want-to-get-richer%3F-5-best.html",
+        "providerPublishTime": 1657970100,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/m5d.Smd693RMHHIXgMp5Pw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ReW2cG18kvddhMM_8ZHmrw--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
+                    "width": 1400,
+                    "height": 900,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o_.HlPSfHXegjFg37AN7ZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mi5a_IEWWO.g8f2.6E0npw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -65,28 +64,30 @@
             ]
         },
         "relatedTickers": [
+            "ABT",
+            "PFE",
             "ABBV",
-            "AGN",
-            "PFE"
+            "JNJ",
+            "UNH"
         ]
     },
-    "dd2a8655-98bd-33de-86ba-9fa6b9659e79": {
-        "uuid": "dd2a8655-98bd-33de-86ba-9fa6b9659e79",
-        "title": "UPDATE 2-U.S. FDA authorizes Novavax COVID vaccine for adults",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-u-fda-authorizes-novavax-202545179.html",
-        "providerPublishTime": 1657743945,
+    "de933012-d98d-33ed-991a-de1ecd7373f7": {
+        "uuid": "de933012-d98d-33ed-991a-de1ecd7373f7",
+        "title": "10 Stocks Billionaire Ken Fisher May Never Sell",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-billionaire-ken-fisher-100935849.html",
+        "providerPublishTime": 1657966175,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FEsuRmc1TvZAXS1X26oDXw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/190d8d1b-7013-3ab5-8427-512274c6088c/2022-07-12/14-44-06/54dd20ae-5a12-507c-babf-f1e96bc696d2/stream_1280x720x0_v2_3_0.jpg",
-                    "width": 1280,
-                    "height": 720,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/518PUlEL3OCcdMOR51d0Cw--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AL_Svs7ao9JpzEUidwG..Q--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4eb82c013b8eb1e3c8669e22515978b1",
+                    "width": 480,
+                    "height": 600,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/68hCtexiASHbCogMNYkyKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/190d8d1b-7013-3ab5-8427-512274c6088c/2022-07-12/14-44-06/54dd20ae-5a12-507c-babf-f1e96bc696d2/stream_1280x720x0_v2_3_0.jpg",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TwsL1Cm8X.iMURvJP7x9tw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AL_Svs7ao9JpzEUidwG..Q--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4eb82c013b8eb1e3c8669e22515978b1",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -94,27 +95,140 @@
             ]
         },
         "relatedTickers": [
-            "NVAX",
-            "PFE"
+            "CVX",
+            "PFE",
+            "ROST",
+            "TTC",
+            "MRK",
+            "PG",
+            "SMG",
+            "BIO-B"
         ]
     },
-    "6bfd37c4-9823-3eb5-abb5-488df3b2d5c8": {
-        "uuid": "6bfd37c4-9823-3eb5-abb5-488df3b2d5c8",
-        "title": "Top Analyst Reports for Pfizer, Raytheon Technologies & Diageo",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/top-analyst-reports-pfizer-raytheon-201808324.html",
-        "providerPublishTime": 1657743488,
+    "2b2a1899-1bda-3ab2-92b0-3d791b59f16a": {
+        "uuid": "2b2a1899-1bda-3ab2-92b0-3d791b59f16a",
+        "title": "Single-stock focused ETF launches in the U.S.",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/single-stock-focused-etf-launches-203615922.html",
+        "providerPublishTime": 1657917375,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FWbwBovqw9AVeM9HiAWPBA--~B/aD0xNTA4O3c9MjY4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c33e0c40-047d-11ed-b7bf-edc39dc5c617",
+                    "width": 2685,
+                    "height": 1508,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/94kS6pgCtwr8lszKgwkteQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c33e0c40-047d-11ed-b7bf-edc39dc5c617",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PYPS",
+            "NKEL",
+            "NKEQ",
+            "PFE",
+            "NKE",
+            "PYPL",
+            "NVDS",
+            "PYPT",
+            "NVDA",
+            "PFES",
+            "PFEL",
+            "TSLQ",
+            "TSLA"
+        ]
+    },
+    "2c06c30f-daf5-3f75-838f-d30d70531e37": {
+        "uuid": "2c06c30f-daf5-3f75-838f-d30d70531e37",
+        "title": "2 Top Biotech Stocks to Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2c06c30f-daf5-3f75-838f-d30d70531e37/2-top-biotech-stocks-to-buy.html",
+        "providerPublishTime": 1657898100,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/coGZ0..GhfoC0WClRZ8Sow--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rVApETWEsM5902MnSJcT7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9fbd184faf399044b3daf708db81da25",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YhphirIUorQbt5m9bR_mZQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.76Bl_hDWVIjZ2R1Z_Q8TA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eafd2c3541fb4c7dc719ed112930557b",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ci69dWHtKuFGIu0AW8YTqQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.76Bl_hDWVIjZ2R1Z_Q8TA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eafd2c3541fb4c7dc719ed112930557b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "NVS"
+        ]
+    },
+    "74058393-5601-3976-bde6-66aa91431835": {
+        "uuid": "74058393-5601-3976-bde6-66aa91431835",
+        "title": "Pfizer's Cancer Drug Partner Mulls Sale: Report",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/pfizers-cancer-drug-partner-mulls-150524365.html",
+        "providerPublishTime": 1657897524,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/N2VCiKTyCKaZpKDFfT6Byg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bGakob6ZKyPjXr3oAGn9Hw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9d833c91eff0471f923dbbb1f0e2cba7",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BRx97YwPg9q8K_JG9k0m8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bGakob6ZKyPjXr3oAGn9Hw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9d833c91eff0471f923dbbb1f0e2cba7",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "CSPHF"
+        ]
+    },
+    "397450f6-fbd5-3903-82a7-633e7f665753": {
+        "uuid": "397450f6-fbd5-3903-82a7-633e7f665753",
+        "title": "This New Regulation Could Juice Pfizer Stock Even More",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/397450f6-fbd5-3903-82a7-633e7f665753/this-new-regulation-could.html",
+        "providerPublishTime": 1657889700,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE",
+            "GILD"
+        ]
+    },
+    "f6ee6533-fd6c-32eb-bf51-355e11aad0ef": {
+        "uuid": "f6ee6533-fd6c-32eb-bf51-355e11aad0ef",
+        "title": "Novavax (NVAX) Down as EU Adds Side Effects to COVID Jab Label",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-down-eu-adds-122812455.html",
+        "providerPublishTime": 1657888092,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
                     "width": 635,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qtHqwelh.NdevZqhjy_KXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rVApETWEsM5902MnSJcT7A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9fbd184faf399044b3daf708db81da25",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -122,92 +236,8 @@
             ]
         },
         "relatedTickers": [
-            "RTX",
-            "DEO",
-            "PFE",
-            "ABBV",
-            "INFY",
-            "CP"
-        ]
-    },
-    "e0f88281-957f-3053-b84e-52126ba0db60": {
-        "uuid": "e0f88281-957f-3053-b84e-52126ba0db60",
-        "title": "AM Best Affirms Credit Ratings of Blue Whale Re Ltd.",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/am-best-affirms-credit-ratings-141300839.html",
-        "providerPublishTime": 1657721580,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.4wl5CXaH9QCFQy08XaDzg--~B/aD0xNzU7dz0zNjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/E6b9ZFPvxEfcPk7eV.pcFg--~B/aD0xNzU7dz0zNjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e77bb3d53348950ea83c30876fa2c958",
-                    "width": 360,
-                    "height": 175,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kw522yiLYU1AREngnqH3NA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/E6b9ZFPvxEfcPk7eV.pcFg--~B/aD0xNzU7dz0zNjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/e77bb3d53348950ea83c30876fa2c958",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "30ba9401-e76e-3d79-9881-ee94b2b2045b": {
-        "uuid": "30ba9401-e76e-3d79-9881-ee94b2b2045b",
-        "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-1-value-stock-could-134001384.html",
-        "providerPublishTime": 1657719601,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KvxSR5ztxQ6HM4oFxTU.Pg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
-                    "width": 900,
-                    "height": 601,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dB.UolBGkoK2bprLxV8m1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "da50730b-057f-3da6-ba71-7e71c12d4c74": {
-        "uuid": "da50730b-057f-3da6-ba71-7e71c12d4c74",
-        "title": "Here is What to Know Beyond Why Pfizer Inc. (PFE) is a Trending Stock",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/know-beyond-why-pfizer-inc-130001439.html",
-        "providerPublishTime": 1657717201,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BMNpzz3PBPNQU8HPiAFdwg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
-                    "width": 900,
-                    "height": 900,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/H0qde9v17QXaHeirm7UJkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "NVAX",
+            "BNTX",
             "PFE"
         ]
     }

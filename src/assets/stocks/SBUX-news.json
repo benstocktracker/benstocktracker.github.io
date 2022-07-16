@@ -1,21 +1,190 @@
 {
-    "45ccddd8-5864-3c36-92ee-3778ec4c8285": {
-        "uuid": "45ccddd8-5864-3c36-92ee-3778ec4c8285",
-        "title": "Starbucks (SBUX) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/starbucks-sbux-gains-market-dips-215009509.html",
-        "providerPublishTime": 1657749009,
+    "b9abc995-ca71-311e-9a41-b70b36e40f72": {
+        "uuid": "b9abc995-ca71-311e-9a41-b70b36e40f72",
+        "title": "3 Top Discounted Stocks to Buy Now and Hold Forever",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b9abc995-ca71-311e-9a41-b70b36e40f72/3-top-discounted-stocks-to.html",
+        "providerPublishTime": 1657977060,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GLrsQmMU0_E16Bg.aAFRNA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HqiBSf5.DMeRF71WCgyi2w--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f7db1cbaa58509ee416d3622eb26a68e",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xI4U8CAUxranpOLjni3V3g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HqiBSf5.DMeRF71WCgyi2w--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f7db1cbaa58509ee416d3622eb26a68e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "HD",
+            "SBUX",
+            "^GSPC"
+        ]
+    },
+    "583a00f7-1f64-3378-8c01-6488e377f709": {
+        "uuid": "583a00f7-1f64-3378-8c01-6488e377f709",
+        "title": "3 Passive Income Generators Down Between 29% and 36% to Buy On the Dip",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/583a00f7-1f64-3378-8c01-6488e377f709/3-passive-income-generators.html",
+        "providerPublishTime": 1657972800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U6Fesk79EqC9qs4l.8jJZA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t9KbWTA57oYNcB2CmK9_AA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc91b5fdd888d95fb1fa424294601eb9",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Xkxk6M2eZKTXkbIBlLkPAA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t9KbWTA57oYNcB2CmK9_AA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc91b5fdd888d95fb1fa424294601eb9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EBAY",
+            "SBUX",
+            "LOW",
+            "AMZN"
+        ]
+    },
+    "166e997a-f76a-33e5-8478-1fbb1a9ef1eb": {
+        "uuid": "166e997a-f76a-33e5-8478-1fbb1a9ef1eb",
+        "title": "Starbucks, Amazon Expand Experiment in Hyper-Convenient\u00a0Stores",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/166e997a-f76a-33e5-8478-1fbb1a9ef1eb/starbucks%2C-amazon-expand.html",
+        "providerPublishTime": 1657969200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hhWnDPTTVxtMvgxJ5eOQLg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/l4i2XKf3_i72.8u8t8yDoA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/4c793e32125ac5a9ccbcc0a1b2c710d4",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/M1h71xLLXrUSUkGXESOY4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/l4i2XKf3_i72.8u8t8yDoA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/4c793e32125ac5a9ccbcc0a1b2c710d4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "9dc7f158-c9d0-3b1a-9f0f-69672ae8979a": {
+        "uuid": "9dc7f158-c9d0-3b1a-9f0f-69672ae8979a",
+        "title": "Starbucks Store Closings Spark Dispute With Unionizing Employees",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/9dc7f158-c9d0-3b1a-9f0f-69672ae8979a/starbucks-store-closings.html",
+        "providerPublishTime": 1657909500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Xc4ogq3AhuRHt57cQf4JOA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Jk.mha_9.P1hn6LVCTo5qA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/cf639201ce77749d21719600a90dea09",
                     "width": 900,
                     "height": 506,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UKa2cWjcAwWXcnDDdSv4xQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Jk.mha_9.P1hn6LVCTo5qA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/cf639201ce77749d21719600a90dea09",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "d1a7a82d-c2d6-3f8f-b0ef-b4cdf1ec8534": {
+        "uuid": "d1a7a82d-c2d6-3f8f-b0ef-b4cdf1ec8534",
+        "title": "The 16 Starbucks Stores Closing for Safety Concerns: Here\u2019s the List",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/d1a7a82d-c2d6-3f8f-b0ef-b4cdf1ec8534/the-16-starbucks-stores.html",
+        "providerPublishTime": 1657902120,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s4Q5tn1Xdr.uDQux5NyP2A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EeXLbV_PXSYj8bOsRmJW.A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/aefa995888ab4ad1852e0673847716fa",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gvpSWqtWJkwugZzxb7gfJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EeXLbV_PXSYj8bOsRmJW.A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/aefa995888ab4ad1852e0673847716fa",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "4683d41a-5ab6-3242-bd16-3af9566b24b4": {
+        "uuid": "4683d41a-5ab6-3242-bd16-3af9566b24b4",
+        "title": "Should Investors Avoid Domino's Stock Next Week?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4683d41a-5ab6-3242-bd16-3af9566b24b4/should-investors-avoid.html",
+        "providerPublishTime": 1657898364,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jcQlYgrImHzl_JcBx7KPiw--~B/aD05MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9jxDN20W3Hl4rrnUykU.SA--~B/aD05MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/609bf4f76f8ab67082f9b463a2d9ef1b",
+                    "width": 1400,
+                    "height": 904,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4FJvF8x9a9dtpa4S2jQElw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9jxDN20W3Hl4rrnUykU.SA--~B/aD05MDQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/609bf4f76f8ab67082f9b463a2d9ef1b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DPUKY",
+            "SBUX"
+        ]
+    },
+    "285df18a-7685-37f5-83df-ee7bd74d2fc8": {
+        "uuid": "285df18a-7685-37f5-83df-ee7bd74d2fc8",
+        "title": "Find the closest unionized Starbucks to you with this map",
+        "publisher": "Quartz",
+        "link": "https://finance.yahoo.com/m/285df18a-7685-37f5-83df-ee7bd74d2fc8/find-the-closest-unionized.html",
+        "providerPublishTime": 1657896088,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/30yjkEXIZ90sQjX1IjuyFQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/_Mow8OufVCjiVDGbPchQsA--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/edbeda1aa7eb87551d8eb703a862cf07",
+                    "width": 620,
+                    "height": 348,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UHfU91R21pDteqw61r23sA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_Mow8OufVCjiVDGbPchQsA--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/edbeda1aa7eb87551d8eb703a862cf07",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -24,26 +193,26 @@
         },
         "relatedTickers": [
             "SBUX",
-            "^GSPC"
+            "KC=F"
         ]
     },
-    "a9261b93-d2d3-31c0-8ad6-8f625bd101e3": {
-        "uuid": "a9261b93-d2d3-31c0-8ad6-8f625bd101e3",
-        "title": "CPI data shows food prices continue to rise for American consumers",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/cpi-data-shows-food-prices-202639016.html",
-        "providerPublishTime": 1657743999,
-        "type": "VIDEO",
+    "98619d98-0fa6-37e5-8399-a15abd6992a6": {
+        "uuid": "98619d98-0fa6-37e5-8399-a15abd6992a6",
+        "title": "Restaurateur Pinskiy to buy Starbucks' Russia coffee shops -report",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/restaurateur-pinskiy-buy-starbucks-russia-125608225.html",
+        "providerPublishTime": 1657889768,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/F2AdX5EMaO9DgeYXwnX7CA--~B/aD0yMjY4O3c9NDAzMTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/11d92640-02ea-11ed-affb-84c1546668ef",
-                    "width": 4031,
-                    "height": 2268,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oGjybfN98Oy5zLH6CVprOw--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/G_qKI26e43zqqCo302iwmQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/2a41dbc9f89e73c9753714e914d40d09",
+                    "width": 800,
+                    "height": 534,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4IBf8XHTfBd4BGBsTBTaKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/11d92640-02ea-11ed-affb-84c1546668ef",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ED3Qvb34q3ZAbFIZ7pMvaw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/G_qKI26e43zqqCo302iwmQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/2a41dbc9f89e73c9753714e914d40d09",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -52,162 +221,6 @@
         },
         "relatedTickers": [
             "SBUX"
-        ]
-    },
-    "969b972c-e424-393b-9ba8-5e4abef7f400": {
-        "uuid": "969b972c-e424-393b-9ba8-5e4abef7f400",
-        "title": "How many workers have tried to join a labor union in Orlando?",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/969b972c-e424-393b-9ba8-5e4abef7f400/how-many-workers-have-tried.html",
-        "providerPublishTime": 1657739220,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cN4Q6EBVDo.YtOr_F7nURQ--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JgtDMM1XK4pXyO.98fR.yA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/bf6d2883232688c4d893c5109d4e312d",
-                    "width": 1440,
-                    "height": 959,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Id5UqG3bGjuar84ZesFZWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JgtDMM1XK4pXyO.98fR.yA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/bf6d2883232688c4d893c5109d4e312d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX",
-            "AMZN"
-        ]
-    },
-    "0ea0e56c-0c6e-43ab-ad46-847a4ea8f555": {
-        "uuid": "0ea0e56c-0c6e-43ab-ad46-847a4ea8f555",
-        "title": "Inflation: Coffee visits to Starbucks, Dunkin' drop as record-high inflation takes hold",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/inflation-coffee-visits-to-starbucks-dunkin-drop-as-record-high-pricing-takes-hold-175702509.html",
-        "providerPublishTime": 1657735022,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/G1tuuQaG_VNolSCRG.gXUQ--~B/aD0zMjg2O3c9NDkzMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-01/34632670-3196-11ea-a32f-5e77388f0b30",
-                    "width": 4930,
-                    "height": 3286,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qGJnd7Mnl4clqa3s4sry1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-01/34632670-3196-11ea-a32f-5e77388f0b30",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BROS",
-            "SBUX"
-        ]
-    },
-    "9570a604-0b2e-3551-b67e-0720e5f311b3": {
-        "uuid": "9570a604-0b2e-3551-b67e-0720e5f311b3",
-        "title": "15 Most Valuable Beverage Companies in the World",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/15-most-valuable-beverage-companies-125457494.html",
-        "providerPublishTime": 1657716897,
-        "type": "STORY",
-        "relatedTickers": [
-            "HEIA.AS",
-            "MNST",
-            "DEO",
-            "KDP",
-            "BF-B",
-            "SBUX"
-        ]
-    },
-    "83ea8e5a-ce0f-3c82-9141-734bd6737bcf": {
-        "uuid": "83ea8e5a-ce0f-3c82-9141-734bd6737bcf",
-        "title": "Starbucks returning CEO Schultz is giving staff active shooter training and shuttering 16 stores after employee safety complaints",
-        "publisher": "Fortune",
-        "link": "https://finance.yahoo.com/news/starbucks-returning-ceo-schultz-giving-120515162.html",
-        "providerPublishTime": 1657713915,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.rUNNkX9eAueZvrJEuyR3w--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/QrbC.qF3BPnCH0Iv90SkTw--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/71703512e97ddfd2511fd3537abf955c",
-                    "width": 2880,
-                    "height": 1920,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kpyY83a9bhdtnXnZacRNZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QrbC.qF3BPnCH0Iv90SkTw--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/71703512e97ddfd2511fd3537abf955c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "0d3a7725-4d42-3928-a9dc-7feba6c9ca5f": {
-        "uuid": "0d3a7725-4d42-3928-a9dc-7feba6c9ca5f",
-        "title": "Starbucks CEO Wants to Reinvent the Coffeehouse Chain",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/0d3a7725-4d42-3928-a9dc-7feba6c9ca5f/starbucks-ceo-wants-to.html",
-        "providerPublishTime": 1657667580,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QfAWWERq7EYX2ph.IWcxDA--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Pr6u.ynW2VOIexfyHy6Q2w--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/290efebd8c8c48c6a828e674c20ead81",
-                    "width": 750,
-                    "height": 470,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pfiz72ANRhFyq29Iq.15TQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Pr6u.ynW2VOIexfyHy6Q2w--~B/aD00NzA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/290efebd8c8c48c6a828e674c20ead81",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "eed0ed57-e41d-3f12-8d5b-08e360e9c705": {
-        "uuid": "eed0ed57-e41d-3f12-8d5b-08e360e9c705",
-        "title": "Starbucks launches second AmazonGo collaboration, Microsoft cuts employees",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/starbucks-launches-second-amazongo-collaboration-194210133.html",
-        "providerPublishTime": 1657654930,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Cjltzx.SSyP57TdEKL43aQ--~B/aD0xNTMyO3c9MjcyOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b6138050-021a-11ed-bfdf-d02022a2a4e6",
-                    "width": 2729,
-                    "height": 1532,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2znOLTLPZ_IztzO1L0i8rw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b6138050-021a-11ed-bfdf-d02022a2a4e6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX",
-            "MSFT",
-            "AMZN",
-            "AAL"
         ]
     }
 }

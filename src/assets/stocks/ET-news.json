@@ -1,4 +1,31 @@
 {
+    "c32478c7-7787-34a5-81b5-8d6361d54a4d": {
+        "uuid": "c32478c7-7787-34a5-81b5-8d6361d54a4d",
+        "title": "Energy Transfer LP (ET) is Attracting Investor Attention: Here is What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-attracting-130001626.html",
+        "providerPublishTime": 1657890001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YRz8MGJWcybk9QoXQlMEnQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o6VhAe2Lh5wjpYDfWJVJYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
     "d64989f0-bcbd-3981-8727-2b376ba30518": {
         "uuid": "d64989f0-bcbd-3981-8727-2b376ba30518",
         "title": "Energy Transfer LP (ET) Gains As Market Dips: What You Should Know",
@@ -150,34 +177,6 @@
         "relatedTickers": [
             "NG=F",
             "ET-PD"
-        ]
-    },
-    "d17cde2b-37ef-39df-b28c-f5db93e85b5f": {
-        "uuid": "d17cde2b-37ef-39df-b28c-f5db93e85b5f",
-        "title": "Energy Transfer LP (ET) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-stock-214509295.html",
-        "providerPublishTime": 1657057509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oMKb0aDck8IpQx0xUmmnpQ--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 900,
-                    "height": 618,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/az2jqXhqyZRic77Cn4mQiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD",
-            "^GSPC"
         ]
     }
 }

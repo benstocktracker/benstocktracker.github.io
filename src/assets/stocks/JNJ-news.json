@@ -1,146 +1,52 @@
 {
-    "31bba5a5-601e-3da9-b8dc-19cf12ddf2e3": {
-        "uuid": "31bba5a5-601e-3da9-b8dc-19cf12ddf2e3",
-        "title": "5 Large-Cap Stocks Likely to Gain on Q2 Earnings Next Week",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/5-large-cap-stocks-likely-104510800.html",
-        "providerPublishTime": 1657795510,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JW0YjmRyQDkoms1ginkzKg--~B/aD00MDI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Xs.7h.azP6rEE33eZeJ5dQ--~B/aD00MDI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d4a0d182df8d91baaea13c85c603dcec",
-                    "width": 620,
-                    "height": 402,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MCyT5Uwd3Q5AzJQU6UE00A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Xs.7h.azP6rEE33eZeJ5dQ--~B/aD00MDI7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d4a0d182df8d91baaea13c85c603dcec",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "CFG",
-            "SYF-PA",
-            "TFC-PR",
-            "JBHT"
-        ]
-    },
-    "c7c831e7-5440-3ab6-9f0d-6eca68d03d11": {
-        "uuid": "c7c831e7-5440-3ab6-9f0d-6eca68d03d11",
-        "title": "Is Vanguard High Dividend Yield ETF (VYM) a Strong ETF Right Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/vanguard-high-dividend-yield-etf-102010862.html",
-        "providerPublishTime": 1657794010,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u19gg6mEg1FXckW.slC1_Q--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.PGZxRPX3TwPJmyoXlVvdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F3nzpi36wi9juoO_v9PrEA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "8e8b7ea7-858f-3161-9114-785a5c268dd8": {
-        "uuid": "8e8b7ea7-858f-3161-9114-785a5c268dd8",
-        "title": "FDA Clears Novavax as a Covid-19 Vaccine",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/8e8b7ea7-858f-3161-9114-785a5c268dd8/fda-clears-novavax-as-a.html",
-        "providerPublishTime": 1657750560,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xW0XELdbUL7gh2Sm8lDTPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5ycelXDUSp1J.3uWTLyTw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6d4ce2423107ad61f5cb339ddf7445f2",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k7GMRymCffPGJBouimH11g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5ycelXDUSp1J.3uWTLyTw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6d4ce2423107ad61f5cb339ddf7445f2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "NVAX"
-        ]
-    },
-    "efb53dd0-b8d3-3109-b4ef-1593bc222f60": {
-        "uuid": "efb53dd0-b8d3-3109-b4ef-1593bc222f60",
-        "title": "Smart Buys, Sells That Make This American Century Fund Shine",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/efb53dd0-b8d3-3109-b4ef-1593bc222f60/smart-buys%2C-sells-that-make.html",
-        "providerPublishTime": 1657710051,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wTr2x44d.9P06fqLtcUqRA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D4v9guYgrJkvoUNOa1Ds8A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f5483177122c3a0c81d4d7b4cd5ddbda",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IKvrSGngnBgZ_uukAvRpbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D4v9guYgrJkvoUNOa1Ds8A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f5483177122c3a0c81d4d7b4cd5ddbda",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "ec1a3f06-262f-3a39-8713-363204c3127d": {
-        "uuid": "ec1a3f06-262f-3a39-8713-363204c3127d",
-        "title": "Better Dividend Stock: AbbVie or Johnson & Johnson?",
+    "09d0c57e-3289-3051-b2b5-01a16fcbbd24": {
+        "uuid": "09d0c57e-3289-3051-b2b5-01a16fcbbd24",
+        "title": "Want to Get Richer? 5 Best Stocks to Buy Now and Hold Forever",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ec1a3f06-262f-3a39-8713-363204c3127d/better-dividend-stock%3A-abbvie.html",
-        "providerPublishTime": 1657706220,
+        "link": "https://finance.yahoo.com/m/09d0c57e-3289-3051-b2b5-01a16fcbbd24/want-to-get-richer%3F-5-best.html",
+        "providerPublishTime": 1657970100,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ReW2cG18kvddhMM_8ZHmrw--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
+                    "width": 1400,
+                    "height": 900,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mi5a_IEWWO.g8f2.6E0npw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
+            "ABT",
+            "PFE",
+            "ABBV",
             "JNJ",
-            "ABBV"
+            "UNH"
         ]
     },
-    "945e096e-11cf-3f1e-a300-deae913d33bf": {
-        "uuid": "945e096e-11cf-3f1e-a300-deae913d33bf",
-        "title": "Is J&J Stock A Buy On Its Recent Spate Of Positive Cancer News?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/945e096e-11cf-3f1e-a300-deae913d33bf/is-j%26j-stock-a-buy-on-its.html",
-        "providerPublishTime": 1657644904,
+    "732eaa97-fe03-3d3c-999d-cc3f69edc000": {
+        "uuid": "732eaa97-fe03-3d3c-999d-cc3f69edc000",
+        "title": "10 High-Yield Dividend Stocks to Buy in July",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-100857006.html",
+        "providerPublishTime": 1657966137,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ynbZOA3keKx9eZUVUuTbFg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CsHHg6gToDwZVqbksUYScg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/741ce4109ca3fee4cbe843c124b0c89b",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/c3zzCTzZRS05BA8GyB2zAg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HSuG05ibK8lfEfIXYpvhjw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f7deaf5d349c11f3ddc27bd88e65f5d1",
+                    "width": 750,
+                    "height": 500,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9Q7fvJzpitvlFA_S88DKAg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CsHHg6gToDwZVqbksUYScg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/741ce4109ca3fee4cbe843c124b0c89b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/817nm_9pmzNuKkgRw5BQDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HSuG05ibK8lfEfIXYpvhjw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f7deaf5d349c11f3ddc27bd88e65f5d1",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -148,53 +54,33 @@
             ]
         },
         "relatedTickers": [
+            "IBM",
+            "KO",
+            "WBA",
+            "LEG",
+            "BBY",
+            "WPC",
+            "T-PC",
             "JNJ"
         ]
     },
-    "a9cab373-235a-32f8-a8c2-0a79c2111745": {
-        "uuid": "a9cab373-235a-32f8-a8c2-0a79c2111745",
-        "title": "Why Johnson & Johnson (JNJ) Could Beat Earnings Estimates Again",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-johnson-johnson-jnj-could-161004028.html",
-        "providerPublishTime": 1657642204,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/88Fg6KE6GPnh0zlh3tqRTA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pqnfGkvbQ5ArK7CRuvTLzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "190d8d1b-7013-3ab5-8427-512274c6088c": {
-        "uuid": "190d8d1b-7013-3ab5-8427-512274c6088c",
-        "title": "Biden officials push for 2nd COVID-19 booster shot, insurers invest in affordable housing",
+    "f6cb25cc-2f42-39f7-bca5-b7c7b4e92381": {
+        "uuid": "f6cb25cc-2f42-39f7-bca5-b7c7b4e92381",
+        "title": "Earnings and economic data to expect out next week",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/biden-officials-push-2nd-covid-144405576.html",
-        "providerPublishTime": 1657637045,
+        "link": "https://finance.yahoo.com/video/earnings-economic-data-expect-next-205558912.html",
+        "providerPublishTime": 1657918558,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1pbJHyqWaKLsgVzcRsgv4w--~B/aD0yMzI7dz00MTI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1115a250-01f1-11ed-8fff-6d634da2740e",
-                    "width": 412,
-                    "height": 232,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PU8_1D3lTLeDs05RTMpFRg--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/858f7610-0480-11ed-baef-0c68296a7764",
+                    "width": 2673,
+                    "height": 1501,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/advIA1QOoIpjg3mMViButQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1115a250-01f1-11ed-8fff-6d634da2740e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MdOS.tMWfdcgu57CKVJSSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/858f7610-0480-11ed-baef-0c68296a7764",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -202,11 +88,199 @@
             ]
         },
         "relatedTickers": [
-            "NVAX",
-            "MRNA",
-            "PFE",
+            "T",
+            "T-PA",
+            "T-PC",
+            "SNAP",
+            "TSLA",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "IBM",
+            "AAL",
+            "JNJ",
+            "TRV",
+            "GS",
+            "UAL",
+            "AXP",
+            "VZ"
+        ]
+    },
+    "a2b7801e-7499-3563-bba3-de9a30aa02fc": {
+        "uuid": "a2b7801e-7499-3563-bba3-de9a30aa02fc",
+        "title": "Stocks rise as traders mull earnings, favorable consumer data",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-rise-traders-mull-earnings-142550856.html",
+        "providerPublishTime": 1657895150,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K00OxyxO4Pj5twpl2lZ7Gg--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pLucX2ebbRrD.iO5wCyl8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLV",
+            "MSFT",
+            "V",
             "UNH",
+            "WMT",
+            "JPM",
+            "AAPL",
+            "CL=F",
+            "XLC",
+            "XLRE",
+            "COST",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "JD",
+            "JDCMF",
+            "^DJI",
+            "NVDA",
+            "XLU",
+            "HSBC",
+            "WFC",
+            "WFC-PD",
+            "MS",
+            "MS-PO",
+            "XLF",
+            "JNJ",
+            "^GSPC",
+            "C",
+            "^IXIC",
+            "DX-Y.NYB",
+            "BABA",
+            "BABAF"
+        ]
+    },
+    "a726800e-45ed-3d5b-8304-63ad32a3b677": {
+        "uuid": "a726800e-45ed-3d5b-8304-63ad32a3b677",
+        "title": "Dow Jones Rallies After Strong Retail Sales; 4 Key Earnings Reports To Watch",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a726800e-45ed-3d5b-8304-63ad32a3b677/dow-jones-rallies-after.html",
+        "providerPublishTime": 1657892653,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HiLl.tE7RjKZue5H_F5nAw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
+                    "width": 1000,
+                    "height": 565,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2jhijpk_jD_F1P3f2ffGDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "UNH",
+            "DLTR",
+            "TSLA",
+            "NOC",
+            "JNJ",
+            "MSFT",
+            "BLK"
+        ]
+    },
+    "7dfbb1e0-d435-3a5c-8d13-1d319168049c": {
+        "uuid": "7dfbb1e0-d435-3a5c-8d13-1d319168049c",
+        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Medical Names",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001931.html",
+        "providerPublishTime": 1657890001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6tSQqB4RxMVfgDYI2bsoCg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/YliGu3uiWo7T6YkWQuaEpA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/p8yG1.SiYGwiI.TLvULjYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YliGu3uiWo7T6YkWQuaEpA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ALKS",
             "JNJ"
+        ]
+    },
+    "e63bbc89-81a3-3c19-a8cd-fe1f1e1902c3": {
+        "uuid": "e63bbc89-81a3-3c19-a8cd-fe1f1e1902c3",
+        "title": "J&J (JNJ) to Begin Pharma Sector's Q2 Earnings With a Beat?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/j-j-jnj-begin-pharma-121712439.html",
+        "providerPublishTime": 1657887432,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6hgtO7luBTc3xSFU5hzSIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4K8GabCkmtDgO.0ZkJi.oQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ"
+        ]
+    },
+    "fc058edc-475d-3c9c-bd11-8811ae4b9314": {
+        "uuid": "fc058edc-475d-3c9c-bd11-8811ae4b9314",
+        "title": "Zacks Investment Ideas feature highlights: Coca-Cola, Kroger and Johnson & Johnson",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102110819.html",
+        "providerPublishTime": 1657880470,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6hgtO7luBTc3xSFU5hzSIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4K8GabCkmtDgO.0ZkJi.oQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO",
+            "KR",
+            "JNJ",
+            "^GSPC"
         ]
     }
 }

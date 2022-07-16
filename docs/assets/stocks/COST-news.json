@@ -1,206 +1,21 @@
 {
-    "e12282df-7f00-3e29-940e-1c0fbd852864": {
-        "uuid": "e12282df-7f00-3e29-940e-1c0fbd852864",
-        "title": "The $1.50 Costco Hot Dog Combo That Defies Inflation",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/e12282df-7f00-3e29-940e-1c0fbd852864/the-%241.50-costco-hot-dog.html",
-        "providerPublishTime": 1657771500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/X1uSs0YRCpdLWGMEvnQy2Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k2fjsdb9C5l3wqgybxyDYA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/85121b5cac029736098b5b92284afd24",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QSkLzSVabDEsS78waerxNA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k2fjsdb9C5l3wqgybxyDYA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/85121b5cac029736098b5b92284afd24",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COST"
-        ]
-    },
-    "c3b2822c-1ea1-39fc-9cc5-50db484c372d": {
-        "uuid": "c3b2822c-1ea1-39fc-9cc5-50db484c372d",
-        "title": "Costco Wholesale Corporation Announces Quarterly Cash Dividend",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/costco-wholesale-corporation-announces-quarterly-201500191.html",
-        "providerPublishTime": 1657743300,
-        "type": "STORY",
-        "relatedTickers": [
-            "COST"
-        ]
-    },
-    "00a98701-0e0e-31a3-94a2-79f7bd233188": {
-        "uuid": "00a98701-0e0e-31a3-94a2-79f7bd233188",
-        "title": "How Record Grocery Inflation Affects Costco, Walmart, Target",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/00a98701-0e0e-31a3-94a2-79f7bd233188/how-record-grocery-inflation.html",
-        "providerPublishTime": 1657735560,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2ASv16d2KCcNNOlEgbibig--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/aKP4Uu6KjXYDO6mR2N_79w--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/d47217e1c238835d354a0e0a24945880",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MISzFtypA_KE7rMEGOGUQg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aKP4Uu6KjXYDO6mR2N_79w--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/d47217e1c238835d354a0e0a24945880",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DG",
-            "COST",
-            "WMT"
-        ]
-    },
-    "872d3593-0604-3d64-8500-548c1b1fe146": {
-        "uuid": "872d3593-0604-3d64-8500-548c1b1fe146",
-        "title": "Kroger 'a significant beneficiary' of food inflation, analyst says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/kroger-significant-beneficiary-food-inflation-145741604.html",
-        "providerPublishTime": 1657724261,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8QOeZ8It8.h2A7u7Lv9u5A--~B/aD0xNTUwO3c9Mjc2MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1fef7f50-02bc-11ed-bff7-6fb73695d161",
-                    "width": 2761,
-                    "height": 1550,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/D7AnYKPMOKi_rbtuyJtWRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/1fef7f50-02bc-11ed-bff7-6fb73695d161",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ACI",
-            "KR",
-            "COST",
-            "TGT",
-            "WMT"
-        ]
-    },
-    "8cff1e5c-8d3b-3a8b-b11a-8aaf595097bd": {
-        "uuid": "8cff1e5c-8d3b-3a8b-b11a-8aaf595097bd",
-        "title": "Costco CEO answers crucial question about the fate of the $1.50 hot dog combo",
-        "publisher": "Fortune",
-        "link": "https://finance.yahoo.com/news/costco-ceo-answers-crucial-fate-165112557.html",
-        "providerPublishTime": 1657644672,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lWiBqbErqHziyTX58Iqjag--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/eeoW7MLo59mL8l1vZGH8ZA--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/799fa2201edcb8886ac262377fa5d30b",
-                    "width": 2880,
-                    "height": 1920,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LarqD3LB9PZ.T2e1sSWAFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eeoW7MLo59mL8l1vZGH8ZA--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/799fa2201edcb8886ac262377fa5d30b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COST"
-        ]
-    },
-    "991672d4-9a4a-3702-a4e9-a7e732b5b13b": {
-        "uuid": "991672d4-9a4a-3702-a4e9-a7e732b5b13b",
-        "title": "Amazon Prime Day: \u2018They need a sale\u2019 amid inventory issues, analyst says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/amazon-prime-day-sale-amid-154915561.html",
-        "providerPublishTime": 1657640955,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AplAPAooQb9x5sKHQaKQxQ--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2c619d80-01fa-11ed-befb-96f5a862cb3c",
-                    "width": 2654,
-                    "height": 1490,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wiFzCGXBkqb5WCHxcLIF4w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2c619d80-01fa-11ed-befb-96f5a862cb3c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KSS",
-            "WMT",
-            "BBY",
-            "XLK",
-            "TGT",
-            "AMZN",
-            "COST"
-        ]
-    },
-    "919c14fc-0f2e-3bfc-ae40-29dd46456eff": {
-        "uuid": "919c14fc-0f2e-3bfc-ae40-29dd46456eff",
-        "title": "Rocklin files new legal challenge to Loomis Costco",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/919c14fc-0f2e-3bfc-ae40-29dd46456eff/rocklin-files-new-legal.html",
-        "providerPublishTime": 1657594296,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pwfCputhH7Lg3HgIdo.irQ--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Xd5DKxAwziw8l6RtinXgHg--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/265f0829606f5e2fe30148f3e78c8f8c",
-                    "width": 1440,
-                    "height": 959,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YV2dBkrJRQquRzdq2mY1.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Xd5DKxAwziw8l6RtinXgHg--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/265f0829606f5e2fe30148f3e78c8f8c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COST"
-        ]
-    },
-    "ab364853-bb54-347a-b6dc-22ac636ee6a3": {
-        "uuid": "ab364853-bb54-347a-b6dc-22ac636ee6a3",
-        "title": "If You Don't Own Costco Stock, You're Missing Out",
+    "4a43ab49-3de4-35d0-b9f7-a641a523a538": {
+        "uuid": "4a43ab49-3de4-35d0-b9f7-a641a523a538",
+        "title": "The Average Costco Shopper Spends This Much per Trip",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ab364853-bb54-347a-b6dc-22ac636ee6a3/if-you-don%27t-own-costco.html",
-        "providerPublishTime": 1657551600,
+        "link": "https://finance.yahoo.com/m/4a43ab49-3de4-35d0-b9f7-a641a523a538/the-average-costco-shopper.html",
+        "providerPublishTime": 1657972842,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XmdMuBWsOs13DTD9MzJPOQ--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DhJ_cS5HnTo2yvAR3UT.vA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b432aa378f40cb3e51d0b45cfef9f8c3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hHuCtYgCuv2ohHsXJV_nug--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/42TDLqBUKS.20GsCdZ6VbQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/62b2d2a68c26e220608a1805b298020f",
                     "width": 1400,
-                    "height": 873,
+                    "height": 932,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VJu_WfrX5GyNJsRvrhsRcQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DhJ_cS5HnTo2yvAR3UT.vA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b432aa378f40cb3e51d0b45cfef9f8c3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5p9aVzuLb7zZmc8U7y39ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/42TDLqBUKS.20GsCdZ6VbQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/62b2d2a68c26e220608a1805b298020f",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -209,6 +24,259 @@
         },
         "relatedTickers": [
             "COST"
+        ]
+    },
+    "c6be3e52-036e-387f-a8dd-1058ce5cfce0": {
+        "uuid": "c6be3e52-036e-387f-a8dd-1058ce5cfce0",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/c6be3e52-036e-387f-a8dd-1058ce5cfce0/weekly-roundup.html",
+        "providerPublishTime": 1657926780,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hHW05l6Y1AUuzlBb7dmNGw--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
+                    "width": 1152,
+                    "height": 768,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WdTM3bN2acq7QQ0s6K7jYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ",
+            "MSFT",
+            "INTC",
+            "GOOGL",
+            "NVDA",
+            "SPGI",
+            "MS",
+            "AAPL",
+            "NUE",
+            "COST",
+            "AMN",
+            "CHPT",
+            "AMZN",
+            "PEP",
+            "MA",
+            "CBOE",
+            "STLD"
+        ]
+    },
+    "a55fe3b3-8969-35d0-bacd-7821389ced39": {
+        "uuid": "a55fe3b3-8969-35d0-bacd-7821389ced39",
+        "title": "Costco: A Defensive Stock in the Face of Coming Recession",
+        "publisher": "TipRanks",
+        "link": "https://finance.yahoo.com/news/costco-defensive-stock-face-coming-221141086.html",
+        "providerPublishTime": 1657923101,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sAXNRbD1s6icqhD_IU9tmw--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lF2dJPd5JORVFwisOeX2UQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/def28173234aa551a7e03105339d6430",
+                    "width": 1000,
+                    "height": 667,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/y.Lzw8oH0i89w94EiAWQVg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lF2dJPd5JORVFwisOeX2UQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/def28173234aa551a7e03105339d6430",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COST"
+        ]
+    },
+    "92cc4d87-215e-3688-ae24-242fb1172c5f": {
+        "uuid": "92cc4d87-215e-3688-ae24-242fb1172c5f",
+        "title": "Stock Market Green To End The Week; Health Care Giant's Earnings Report Upbeat",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/92cc4d87-215e-3688-ae24-242fb1172c5f/stock-market-green-to-end-the.html",
+        "providerPublishTime": 1657902240,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UCmU45U49KKizvuCHwTTWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8YJYT34BkSeGxwY6VRoYCg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ef61d665bb812fb182953047542522ef",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/p897d_A8kLCGL3Q2QNypsg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8YJYT34BkSeGxwY6VRoYCg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ef61d665bb812fb182953047542522ef",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "UNH",
+            "^DJI",
+            "COST",
+            "OPCH"
+        ]
+    },
+    "a2b7801e-7499-3563-bba3-de9a30aa02fc": {
+        "uuid": "a2b7801e-7499-3563-bba3-de9a30aa02fc",
+        "title": "Stocks rise as traders mull earnings, favorable consumer data",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-rise-traders-mull-earnings-142550856.html",
+        "providerPublishTime": 1657895150,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K00OxyxO4Pj5twpl2lZ7Gg--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pLucX2ebbRrD.iO5wCyl8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLV",
+            "MSFT",
+            "V",
+            "UNH",
+            "WMT",
+            "JPM",
+            "AAPL",
+            "CL=F",
+            "XLC",
+            "XLRE",
+            "COST",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "JD",
+            "JDCMF",
+            "^DJI",
+            "NVDA",
+            "XLU",
+            "HSBC",
+            "WFC",
+            "WFC-PD",
+            "MS",
+            "MS-PO",
+            "XLF",
+            "JNJ",
+            "^GSPC",
+            "C",
+            "^IXIC",
+            "DX-Y.NYB",
+            "BABA",
+            "BABAF"
+        ]
+    },
+    "117dd357-9e4a-3e0d-8fa4-ba2252024365": {
+        "uuid": "117dd357-9e4a-3e0d-8fa4-ba2252024365",
+        "title": "U.S. retail sales increase 1% in June despite inflation",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/u-retail-sales-increase-1-132146967.html",
+        "providerPublishTime": 1657891306,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5xtzk58SuVN2h89vXgPSwA--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fcd94f0-0441-11ed-9fda-e07b22dd96f3",
+                    "width": 2767,
+                    "height": 1553,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fIdrYYBmzaPUZScxGJ30Yg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fcd94f0-0441-11ed-9fda-e07b22dd96f3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "COST",
+            "AMZN",
+            "M",
+            "WMT"
+        ]
+    },
+    "bf136245-5b6b-3931-b14d-b6f484a056ce": {
+        "uuid": "bf136245-5b6b-3931-b14d-b6f484a056ce",
+        "title": "Is Trending Stock Costco Wholesale Corporation (COST) a Buy Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/trending-stock-costco-wholesale-corporation-130001256.html",
+        "providerPublishTime": 1657890001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LJB1iOVQTaGHshft0O3BLw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_7H_qQvZHeP2nKi1EbaHrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COST"
+        ]
+    },
+    "91d02b21-ef9b-3888-8bf8-349be8999e7b": {
+        "uuid": "91d02b21-ef9b-3888-8bf8-349be8999e7b",
+        "title": "Back-to-school spending to reach a new high this year: Deloitte",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/back-school-spending-reach-high-205810434.html",
+        "providerPublishTime": 1657832290,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PIfGnZaO5Y.TpiTgsWy7sA--~B/aD0yNDE7dz00Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a81a5570-03b7-11ed-b4f7-80dd3e8fad58",
+                    "width": 428,
+                    "height": 241,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SB7FR5GSNSEEdHZaj3lEhg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a81a5570-03b7-11ed-b4f7-80dd3e8fad58",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "NKE",
+            "WMT",
+            "MSFT",
+            "GPS",
+            "DELL",
+            "COST",
+            "LULU",
+            "TJX",
+            "AAPL",
+            "AMZN"
         ]
     }
 }

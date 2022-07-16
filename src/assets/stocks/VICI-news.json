@@ -1,4 +1,15 @@
 {
+    "a1f71ea0-ff29-3f07-b4b9-6fb991b7903e": {
+        "uuid": "a1f71ea0-ff29-3f07-b4b9-6fb991b7903e",
+        "title": "VICI Properties Inc. Expands Great Wolf Resorts Partnership with Investment in New Collier County, Florida Resort",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/vici-properties-inc-expands-great-201500763.html",
+        "providerPublishTime": 1657829700,
+        "type": "STORY",
+        "relatedTickers": [
+            "VICI"
+        ]
+    },
     "4cb79e8b-c74f-32cb-8f9c-a5c75994d140": {
         "uuid": "4cb79e8b-c74f-32cb-8f9c-a5c75994d140",
         "title": "Want $1,000 in Annual Passive Income? These 2 Sizzling Stocks Stand Out",
@@ -125,35 +136,6 @@
         "type": "STORY",
         "relatedTickers": [
             "VICI"
-        ]
-    },
-    "5701e18e-a958-3a6d-8776-b8ad2e7efd6d": {
-        "uuid": "5701e18e-a958-3a6d-8776-b8ad2e7efd6d",
-        "title": "3 Best Performing REITs On Friday",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/3-best-performing-reits-friday-212709203.html",
-        "providerPublishTime": 1656106029,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/negeVUmGJT2qP_zFWkxGQA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/umnG_oKvOUFZ5hcLzADWbg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/fc839f2932dfeb6a262b1f9aa0fceedf",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GyNIZdzr3h31WSbiFHCN0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/umnG_oKvOUFZ5hcLzADWbg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/fc839f2932dfeb6a262b1f9aa0fceedf",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VICI",
-            "HST",
-            "PK"
         ]
     }
 }

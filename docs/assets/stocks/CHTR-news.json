@@ -1,4 +1,32 @@
 {
+    "3734ab45-28dc-3e3e-b780-b1927fcd3a69": {
+        "uuid": "3734ab45-28dc-3e3e-b780-b1927fcd3a69",
+        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Consumer Discretionary Names",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001495.html",
+        "providerPublishTime": 1657890001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dOFJjF.lFJbuBeMTQ.srQg--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 900,
+                    "height": 587,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR",
+            "BJ"
+        ]
+    },
     "318490bb-258f-3f3a-9eb4-06407347b890": {
         "uuid": "318490bb-258f-3f3a-9eb4-06407347b890",
         "title": "\u2018A perfect business for an inflationary environment.\u2019 Why this veteran value investor is bullish on a beaten-down telecom stock.",
@@ -104,34 +132,6 @@
             ]
         },
         "relatedTickers": [
-            "CHTR"
-        ]
-    },
-    "3abf1ee0-41f9-3de5-a511-5eaf678b0674": {
-        "uuid": "3abf1ee0-41f9-3de5-a511-5eaf678b0674",
-        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Consumer Discretionary Names",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001271.html",
-        "providerPublishTime": 1656594001,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KvxSR5ztxQ6HM4oFxTU.Pg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
-                    "width": 900,
-                    "height": 601,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dB.UolBGkoK2bprLxV8m1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CMCSA",
             "CHTR"
         ]
     },

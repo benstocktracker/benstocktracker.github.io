@@ -1,138 +1,48 @@
 {
-    "5962d59d-fd09-36cb-afa4-1c9b22a80cb4": {
-        "uuid": "5962d59d-fd09-36cb-afa4-1c9b22a80cb4",
-        "title": "Software Growth Stocks To Buy, Watch Or Sell Amid Nasdaq Volatility",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/5962d59d-fd09-36cb-afa4-1c9b22a80cb4/software-growth-stocks-to.html",
-        "providerPublishTime": 1657800349,
+    "6a6e424f-a6d9-3a9b-991a-509912345c0e": {
+        "uuid": "6a6e424f-a6d9-3a9b-991a-509912345c0e",
+        "title": "Why Did Netflix Pick Microsoft's Video Advertising Platform?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6a6e424f-a6d9-3a9b-991a-509912345c0e/why-did-netflix-pick.html",
+        "providerPublishTime": 1657978020,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XNNYTNz_B.wC8bJUCS2tUg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3c5WY3s3eN6IXGKnoHrm1A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d560847537467224d0b3d9d9306b02d3",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/M9s24DOPD0D72LWGD23JUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3c5WY3s3eN6IXGKnoHrm1A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/d560847537467224d0b3d9d9306b02d3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ADBE",
-            "TEAM",
-            "CRM",
-            "MSFT"
-        ]
-    },
-    "e42da296-5829-3771-ab3c-b7520854094c": {
-        "uuid": "e42da296-5829-3771-ab3c-b7520854094c",
-        "title": "Twelve and Alaska Airlines to collaborate with Microsoft to advance sustainable aviation fuel derived from recaptured CO2 and renewable energy",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/twelve-alaska-airlines-collaborate-microsoft-120000373.html",
-        "providerPublishTime": 1657800000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/03ccjJxunM.NEGzFufKxrA--~B/aD03ODt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/xzkr0.ONgEtNW1L_rDizJA--~B/aD03ODt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a1bffd704d53943e2019a586a36a74e1",
-                    "width": 400,
-                    "height": 78,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eO07iwawqIAALdqF3o5UTQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xzkr0.ONgEtNW1L_rDizJA--~B/aD03ODt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a1bffd704d53943e2019a586a36a74e1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "ALK"
-        ]
-    },
-    "c8a48de9-f97b-329c-b88b-243f0f6d2b2c": {
-        "uuid": "c8a48de9-f97b-329c-b88b-243f0f6d2b2c",
-        "title": "Microsoft, Alaska Airlines Back CO2-to-Jet-Fuel Technology",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/c8a48de9-f97b-329c-b88b-243f0f6d2b2c/microsoft%2C-alaska-airlines.html",
-        "providerPublishTime": 1657800000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ysuIQyNoFKylpbNUr94PDQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JOtDRWHzg98_Dk15THr2Vw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/0c218a939817720e68fae3c938d3d3d8",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XZCvh7Z_KT4i_W8LJvAfNg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JOtDRWHzg98_Dk15THr2Vw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/0c218a939817720e68fae3c938d3d3d8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "cbbdd840-0f80-3171-9943-1df829264542": {
-        "uuid": "cbbdd840-0f80-3171-9943-1df829264542",
-        "title": "Netflix Surprised Everyone By Picking Microsoft as Its Partner for Ad-Supported Streaming",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/cbbdd840-0f80-3171-9943-1df829264542/netflix-surprised-everyone-by.html",
-        "providerPublishTime": 1657797960,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aej3TlpSJOlBGW3hI1mecw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NSD.IjdVLX3mhMut2fB1nw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dd11b5e30e6a7e5bb68a462c71d30372",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7ShQ87t.oIeXcCj81QzKeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NSD.IjdVLX3mhMut2fB1nw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dd11b5e30e6a7e5bb68a462c71d30372",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "NFLX",
             "MSFT",
-            "AMZN",
-            "GOOG",
+            "TTD"
+        ]
+    },
+    "7b63c3d2-da88-3b99-85a5-b9d02280f525": {
+        "uuid": "7b63c3d2-da88-3b99-85a5-b9d02280f525",
+        "title": "Microsoft Just Scored a Massive Win for Its Advertising Business",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7b63c3d2-da88-3b99-85a5-b9d02280f525/microsoft-just-scored-a.html",
+        "providerPublishTime": 1657969920,
+        "type": "STORY",
+        "relatedTickers": [
+            "MSFT",
+            "NFLX",
             "GOOGL",
             "CMCSA"
         ]
     },
-    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
-        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
-        "title": "Top Millennial, Gen Z Stocks Shift To Energy Plays; Popular Pick Tesla's AI Chief Leaves",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stocks.html",
-        "providerPublishTime": 1657796427,
+    "c6be3e52-036e-387f-a8dd-1058ce5cfce0": {
+        "uuid": "c6be3e52-036e-387f-a8dd-1058ce5cfce0",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/c6be3e52-036e-387f-a8dd-1058ce5cfce0/weekly-roundup.html",
+        "providerPublishTime": 1657926780,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ygj244o_N_7AghdizcXBZw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hHW05l6Y1AUuzlBb7dmNGw--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
+                    "width": 1152,
+                    "height": 768,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yVHiPyQb8ExjvgY1.NKEPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WdTM3bN2acq7QQ0s6K7jYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -140,67 +50,42 @@
             ]
         },
         "relatedTickers": [
-            "TSLA",
-            "AMC",
-            "AAPL",
-            "AMD",
+            "VZ",
             "MSFT",
-            "NVDA"
-        ]
-    },
-    "40cf808f-57e8-33c5-ba54-7c56adc28a09": {
-        "uuid": "40cf808f-57e8-33c5-ba54-7c56adc28a09",
-        "title": "Influencers with Andy Serwer: Roger McNamee",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/influencers-andy-serwer-roger-mcnamee-100000399.html",
-        "providerPublishTime": 1657792800,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rvn6FxAtAGTVmDShwwajIA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3da28ed0-031a-11ed-9c85-4c2d2164b425",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gN7A4gysQkY1HfdEJK9WCw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3da28ed0-031a-11ed-9c85-4c2d2164b425",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SNAP",
-            "MSFT",
-            "BTC-USD",
-            "TSLA",
-            "AMZN",
-            "GOOG",
+            "INTC",
             "GOOGL",
-            "NFLX",
-            "TWTR",
-            "META"
+            "NVDA",
+            "SPGI",
+            "MS",
+            "AAPL",
+            "NUE",
+            "COST",
+            "AMN",
+            "CHPT",
+            "AMZN",
+            "PEP",
+            "MA",
+            "CBOE",
+            "STLD"
         ]
     },
-    "147fc306-7e44-3727-9fc7-fee1ef871406": {
-        "uuid": "147fc306-7e44-3727-9fc7-fee1ef871406",
-        "title": "Netflix Partners With Microsoft for New Advertising-Backed Option",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/147fc306-7e44-3727-9fc7-fee1ef871406/netflix-partners-with.html",
-        "providerPublishTime": 1657753800,
+    "214545c3-5b64-3095-95dd-a41b3c5e829d": {
+        "uuid": "214545c3-5b64-3095-95dd-a41b3c5e829d",
+        "title": "Fastly Cloud Computing Traffic Bumped Higher. That Should Boost the Stock.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/214545c3-5b64-3095-95dd-a41b3c5e829d/fastly-cloud-computing.html",
+        "providerPublishTime": 1657924200,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xRloSOfHk4EZosJqFEfGyA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZbWc_naoH7X1rJNgeS4zVw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9d6d24e250316d1dfb1f410252439f90",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jxs0FD.6Rats7LDx5CVVlA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qeV4F3bt4pG2TNhOZ6PuIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ab41cf7e4a03fc29a0071773260ea136",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6.oRs.0VBFLS59a687UMjg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZbWc_naoH7X1rJNgeS4zVw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9d6d24e250316d1dfb1f410252439f90",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uV4IVtxitpnzWeLiibA3pw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qeV4F3bt4pG2TNhOZ6PuIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ab41cf7e4a03fc29a0071773260ea136",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -209,26 +94,29 @@
         },
         "relatedTickers": [
             "NFLX",
-            "MSFT"
+            "FAST",
+            "FSLY",
+            "MSFT",
+            "WTRG"
         ]
     },
-    "31988cde-484e-3c3d-bef2-409278d9f46c": {
-        "uuid": "31988cde-484e-3c3d-bef2-409278d9f46c",
-        "title": "Art collective MSCHF sells \u2018Eat the Rich\u2019 popsicles in NYC",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/art-collective-mschf-sells-eat-214305122.html",
-        "providerPublishTime": 1657748585,
-        "type": "VIDEO",
+    "838c2fa4-8c6c-3c5e-8a2e-ec81089e2b3e": {
+        "uuid": "838c2fa4-8c6c-3c5e-8a2e-ec81089e2b3e",
+        "title": "With Netflix Ad Deal, Microsoft Makes a Splash on Madison Avenue",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/838c2fa4-8c6c-3c5e-8a2e-ec81089e2b3e/with-netflix-ad-deal%2C.html",
+        "providerPublishTime": 1657916700,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u3A6F9LocC2POTr.m7gS5w--~B/aD0xNTE1O3c9MjY5ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bf2fcc90-02f4-11ed-9ee4-c05e0315b32d",
-                    "width": 2698,
-                    "height": 1515,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/94ERIm8QOWjp9bewzGcMMQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZIQ_xtdf4MAbGHUeKtNMvg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/db6d73af77887fda86be47d79fcf083d",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Icdua14luNomTGzMBT60kA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bf2fcc90-02f4-11ed-9ee4-c05e0315b32d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vb9Hck8WBTcyyivrRzYhFw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZIQ_xtdf4MAbGHUeKtNMvg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/db6d73af77887fda86be47d79fcf083d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -236,13 +124,130 @@
             ]
         },
         "relatedTickers": [
-            "TWTR",
             "MSFT",
-            "META",
-            "BABA",
-            "BABAF",
-            "TSLA",
+            "NFLX"
+        ]
+    },
+    "500f816b-f822-33a1-8a46-4c2ab0fa7423": {
+        "uuid": "500f816b-f822-33a1-8a46-4c2ab0fa7423",
+        "title": "Digital Transformation? Artificial Intelligence? With These Tools, Even You Could Pull It Off",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/500f816b-f822-33a1-8a46-4c2ab0fa7423/digital-transformation%3F.html",
+        "providerPublishTime": 1657897698,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JHX9nWlFHNOH6Hr4NE_taQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KncZt3JbuKxl9uORQxWphQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/02fe890bae592c49aafc5e995ddefc1d",
+                    "width": 1000,
+                    "height": 562,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fL4XOQkNTF9PkjrusGFofw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KncZt3JbuKxl9uORQxWphQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/02fe890bae592c49aafc5e995ddefc1d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GOOGL",
+            "MSFT",
+            "CRM",
             "AMZN"
+        ]
+    },
+    "a2b7801e-7499-3563-bba3-de9a30aa02fc": {
+        "uuid": "a2b7801e-7499-3563-bba3-de9a30aa02fc",
+        "title": "Stocks rise as traders mull earnings, favorable consumer data",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-rise-traders-mull-earnings-142550856.html",
+        "providerPublishTime": 1657895150,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K00OxyxO4Pj5twpl2lZ7Gg--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pLucX2ebbRrD.iO5wCyl8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLV",
+            "MSFT",
+            "V",
+            "UNH",
+            "WMT",
+            "JPM",
+            "AAPL",
+            "CL=F",
+            "XLC",
+            "XLRE",
+            "COST",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "JD",
+            "JDCMF",
+            "^DJI",
+            "NVDA",
+            "XLU",
+            "HSBC",
+            "WFC",
+            "WFC-PD",
+            "MS",
+            "MS-PO",
+            "XLF",
+            "JNJ",
+            "^GSPC",
+            "C",
+            "^IXIC",
+            "DX-Y.NYB",
+            "BABA",
+            "BABAF"
+        ]
+    },
+    "a726800e-45ed-3d5b-8304-63ad32a3b677": {
+        "uuid": "a726800e-45ed-3d5b-8304-63ad32a3b677",
+        "title": "Dow Jones Rallies After Strong Retail Sales; 4 Key Earnings Reports To Watch",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a726800e-45ed-3d5b-8304-63ad32a3b677/dow-jones-rallies-after.html",
+        "providerPublishTime": 1657892653,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HiLl.tE7RjKZue5H_F5nAw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
+                    "width": 1000,
+                    "height": 565,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2jhijpk_jD_F1P3f2ffGDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "UNH",
+            "DLTR",
+            "TSLA",
+            "NOC",
+            "JNJ",
+            "MSFT",
+            "BLK"
         ]
     }
 }
