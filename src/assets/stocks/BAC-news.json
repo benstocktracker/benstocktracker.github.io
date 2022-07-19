@@ -1,237 +1,78 @@
 {
-    "f6cb25cc-2f42-39f7-bca5-b7c7b4e92381": {
-        "uuid": "f6cb25cc-2f42-39f7-bca5-b7c7b4e92381",
-        "title": "Earnings and economic data to expect out next week",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/earnings-economic-data-expect-next-205558912.html",
-        "providerPublishTime": 1657918558,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PU8_1D3lTLeDs05RTMpFRg--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/858f7610-0480-11ed-baef-0c68296a7764",
-                    "width": 2673,
-                    "height": 1501,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MdOS.tMWfdcgu57CKVJSSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/858f7610-0480-11ed-baef-0c68296a7764",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
+    "a7f537c9-3bf7-35b7-aea1-b98395a0f50d": {
+        "uuid": "a7f537c9-3bf7-35b7-aea1-b98395a0f50d",
+        "title": "Bank data shows U.S. consumer financial health holds up amid rising inflation",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/bank-data-shows-u-consumer-100000781.html",
+        "providerPublishTime": 1658224800,
+        "type": "STORY",
         "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "SNAP",
-            "TSLA",
             "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "IBM",
-            "AAL",
-            "JNJ",
-            "TRV",
-            "GS",
-            "UAL",
-            "AXP",
-            "VZ"
+            "JPM"
         ]
     },
-    "e9f11c38-9825-3768-aae5-9368849ff136": {
-        "uuid": "e9f11c38-9825-3768-aae5-9368849ff136",
-        "title": "Stocks end week in the green, financial sector boosted by bank earnings",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-end-week-green-financial-201526724.html",
-        "providerPublishTime": 1657916126,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/X51T4rANGjBN0XE_Yme2UA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7c4d8610-047a-11ed-97fe-53e6f1f0aeae",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/050mlvAILljORnr0UXj77Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7c4d8610-047a-11ed-97fe-53e6f1f0aeae",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
+    "c1f0d225-abb5-3771-81ca-368f38edb7cc": {
+        "uuid": "c1f0d225-abb5-3771-81ca-368f38edb7cc",
+        "title": "Pimco buys \u20ac1bn of Apollo buyout loans from banks",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/c1f0d225-abb5-3771-81ca-368f38edb7cc/pimco-buys-%E2%82%AC1bn-of-apollo.html",
+        "providerPublishTime": 1658205879,
+        "type": "STORY",
         "relatedTickers": [
-            "TCEHY",
-            "TCTZF",
-            "GS",
-            "^DJI",
-            "CL=F",
-            "C",
-            "BZ=F",
-            "XLF",
-            "DX-Y.NYB",
-            "JPM",
-            "UNH",
-            "BABA",
-            "BABAF",
-            "^GSPC",
-            "WFC",
-            "WFC-PD",
-            "AMZN",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "^IXIC",
-            "META",
-            "ZW=F"
-        ]
-    },
-    "c9fe5047-abba-3385-a3db-fc529ba13e40": {
-        "uuid": "c9fe5047-abba-3385-a3db-fc529ba13e40",
-        "title": "Banks: 'Main Street, not Wall Street' is under a lot of pressure, strategist says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/banks-main-street-not-wall-194202458.html",
-        "providerPublishTime": 1657914122,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0hVk0CEwYwU5B2.X7AVUYA--~B/aD0xNDk0O3c9MjY2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/31a74050-0476-11ed-beb1-3c2c779f9c2f",
-                    "width": 2660,
-                    "height": 1494,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KYEvno3U2vweRilP6qo_HA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/31a74050-0476-11ed-beb1-3c2c779f9c2f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WFC",
-            "WFC-PD",
-            "^TYX",
-            "^TNX",
-            "JPM",
-            "C",
-            "^FVX",
-            "GS",
-            "^IRX",
+            "BCS",
+            "WRDLY",
+            "WWLNF",
             "BAC",
             "BAC-PQ",
             "BAC-PS"
         ]
     },
-    "818e9705-afa1-3868-89b8-17b28eca642a": {
-        "uuid": "818e9705-afa1-3868-89b8-17b28eca642a",
-        "title": "Bank stocks lead markets higher, Chinese stocks have worst week since March",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/bank-stocks-lead-markets-higher-191813651.html",
-        "providerPublishTime": 1657912693,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/efR5gQkqM2aAvAOtj3mQIQ--~B/aD0xNDgwO3c9MjYzNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dde5ef50-0472-11ed-b7ed-ffe1305fe7e5",
-                    "width": 2635,
-                    "height": 1480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PxFr4BqTNFNHjNhrLIBtSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dde5ef50-0472-11ed-b7ed-ffe1305fe7e5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JPM",
-            "^GSPC",
-            "^NDX",
-            "WFC",
-            "WFC-PD",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "^IXIC",
-            "^DJI",
-            "MS",
-            "MS-PO",
-            "^TYX",
-            "^FVX",
-            "XLF",
-            "XLV",
-            "XLC",
-            "^TNX"
-        ]
-    },
-    "8e57138c-dfc0-32d3-bb1b-2418b512d22f": {
-        "uuid": "8e57138c-dfc0-32d3-bb1b-2418b512d22f",
-        "title": "Wall Street Banks Feast on Rate Hikes Aimed at Inflation",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/wall-street-banks-feast-rate-164050950.html",
-        "providerPublishTime": 1657903250,
+    "529bebfa-8d1d-33c4-adc8-750e89b7beea": {
+        "uuid": "529bebfa-8d1d-33c4-adc8-750e89b7beea",
+        "title": "Bank of America Revenue Rises on Consumer Strength, but Profit Declines 32%",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/529bebfa-8d1d-33c4-adc8-750e89b7beea/bank-of-america-revenue-rises.html",
+        "providerPublishTime": 1658177520,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OswDilA08H6Kam7zaYjcIA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VVtF08bFiONNHLpeSVlodw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/a9e42d898eba8858e5558e3c25ceb0c5",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XtMVXSS1XaWzEy68CsBS6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VVtF08bFiONNHLpeSVlodw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/a9e42d898eba8858e5558e3c25ceb0c5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "C",
-            "BAC",
-            "WFC-PD",
-            "JPM"
-        ]
-    },
-    "0d15345c-7f2a-3de3-b8a0-48c3438645b6": {
-        "uuid": "0d15345c-7f2a-3de3-b8a0-48c3438645b6",
-        "title": "Why Shares of Bank of America Are Rising Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0d15345c-7f2a-3de3-b8a0-48c3438645b6/why-shares-of-bank-of-america.html",
-        "providerPublishTime": 1657902476,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC",
-            "C",
-            "WFC-PD"
-        ]
-    },
-    "7a8f61af-7f0f-3d01-8896-dba80113659e": {
-        "uuid": "7a8f61af-7f0f-3d01-8896-dba80113659e",
-        "title": "Citigroup provides upside surprise and stock rally while Wells Fargo misses",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/7a8f61af-7f0f-3d01-8896-dba80113659e/citigroup-provides-upside.html",
-        "providerPublishTime": 1657899060,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BKmxoknKvDJLkxrjZBiZjQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/22sr0USaocvUFMl96Mcfdw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d606e23b9636b3bc68a519b4c98bc597",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Vt9XioV2CmX6EnGLPNL4FQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YfAfMSHmisnmbGR5g0EEgA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d402727540d8a055004488518d0b6763",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_HQgPPSKx3SJU.lBSVj6SA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/22sr0USaocvUFMl96Mcfdw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d606e23b9636b3bc68a519b4c98bc597",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ylSoi99hI1Un9xtG5mJ8vQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YfAfMSHmisnmbGR5g0EEgA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d402727540d8a055004488518d0b6763",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS"
+        ]
+    },
+    "5870fa61-fddd-451e-a0c5-12468d3a885c": {
+        "uuid": "5870fa61-fddd-451e-a0c5-12468d3a885c",
+        "title": "Goldman Sachs to slow hiring, bring back performance reviews as Wall Street layoff chatter grows",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/goldman-sachs-hiring-slowdown-205151780.html",
+        "providerPublishTime": 1658177511,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Rgq4K2SrxqW5bPs8VV8EKg--~B/aD0zMjU1O3c9NTAwMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2020-01/5aecbbb0-3eb8-11ea-b3bf-bb9294840502",
+                    "width": 5002,
+                    "height": 3255,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1cTNWku_weJxPztGEWjWEw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2020-01/5aecbbb0-3eb8-11ea-b3bf-bb9294840502",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -241,32 +82,125 @@
         "relatedTickers": [
             "MS",
             "MS-PO",
+            "JPM",
+            "GS",
             "BAC",
             "BAC-PQ",
             "BAC-PS",
-            "GS",
-            "WFC",
-            "WFC-PD",
             "C"
         ]
     },
-    "2ab4e209-acd0-3b1c-a95d-e46749d1dbc9": {
-        "uuid": "2ab4e209-acd0-3b1c-a95d-e46749d1dbc9",
-        "title": "Market check: Financial stocks lead as big banks report earnings",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-financial-stocks-lead-152826854.html",
-        "providerPublishTime": 1657898906,
-        "type": "VIDEO",
+    "c7bf6286-d0f6-3ab2-835b-6e356365c9b4": {
+        "uuid": "c7bf6286-d0f6-3ab2-835b-6e356365c9b4",
+        "title": "Dow books biggest drop in more than two weeks after report about Apple\u2019s plans to slow hiring, spending",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/c7bf6286-d0f6-3ab2-835b-6e356365c9b4/dow-books-biggest-drop-in.html",
+        "providerPublishTime": 1658176920,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Rfet9Efkw0bP7IGCBh8C7Q--~B/aD0yNDU7dz00MzQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/94ca03d0-0452-11ed-9fef-b406454fd332",
-                    "width": 434,
-                    "height": 245,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aridOdbyZhWitTWNb.jnIQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IwQ66i173eF268onA3fXsg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/3a31aee79a5e72db0f223dd1268f6688",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J8WV4jYIwr9PQe.iji7R5Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/94ca03d0-0452-11ed-9fef-b406454fd332",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3XaS8pliyDB29uoT7iS7Rg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IwQ66i173eF268onA3fXsg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/3a31aee79a5e72db0f223dd1268f6688",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "AAPL"
+        ]
+    },
+    "3dc0e7bd-ff73-45a7-aa08-a274d5679141": {
+        "uuid": "3dc0e7bd-ff73-45a7-aa08-a274d5679141",
+        "title": "Stock market news live updates: Stocks tumble as earnings season picks up",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/stock-market-news-live-updates-july-18-2022-105401497.html",
+        "providerPublishTime": 1658174575,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Fn9enhB9gQYAsPM5xAPTdQ--~B/aD01NDY0O3c9ODE5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/18fdc7f0-0687-11ed-beef-192cf1d2ff10",
+                    "width": 8192,
+                    "height": 5464,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RlRV5ZPPypBMkjWtX5EaHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/18fdc7f0-0687-11ed-beef-192cf1d2ff10",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "NFLX",
+            "^IXIC",
+            "^DJI",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "TSLA",
+            "C"
+        ]
+    },
+    "9aab4558-0bcd-37d8-a337-92dd96416d56": {
+        "uuid": "9aab4558-0bcd-37d8-a337-92dd96416d56",
+        "title": "Stock Market Reverses At Resistance; Energy, Financials Shine",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/9aab4558-0bcd-37d8-a337-92dd96416d56/stock-market-reverses-at.html",
+        "providerPublishTime": 1658169013,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ei8nvrr2wlhx4cxj0C9dkg--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/saDTQZpj3VWLLblqr4Tkrg--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ed05d4084c0706d32326d3ece4d65628",
+                    "width": 1012,
+                    "height": 572,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SiBW_l1W8P6ONm4MZrgjgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/saDTQZpj3VWLLblqr4Tkrg--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ed05d4084c0706d32326d3ece4d65628",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COMP",
+            "DLTR",
+            "BAC"
+        ]
+    },
+    "b658bc20-49df-327e-a500-08790c523ed8": {
+        "uuid": "b658bc20-49df-327e-a500-08790c523ed8",
+        "title": "U.S. banks boost outlook for net interest income amid Fed rate rises",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/u-banks-boost-outlook-net-181908300.html",
+        "providerPublishTime": 1658168348,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JdY8gIJfpKIX41z8fGvOPA--~B/aD00NjI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XfDukhkpgJo4drU1nd1MRw--~B/aD00NjI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/e8ee07fd0a8c7ee51e0531faf701252f",
+                    "width": 800,
+                    "height": 462,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7MQSCt7WOeNWedaCzVRUdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XfDukhkpgJo4drU1nd1MRw--~B/aD00NjI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/e8ee07fd0a8c7ee51e0531faf701252f",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -275,22 +209,8 @@
         },
         "relatedTickers": [
             "C",
-            "PINS",
-            "XLF",
-            "HSBC",
-            "^GSPC",
-            "^DJI",
-            "WFC",
-            "WFC-PD",
             "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "JPM",
-            "BLK",
-            "GS",
-            "PNC",
-            "PNC-PP",
-            "^IXIC"
+            "JPM"
         ]
     }
 }

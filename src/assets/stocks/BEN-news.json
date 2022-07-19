@@ -1,4 +1,58 @@
 {
+    "d5765962-5b08-3450-a5c4-c0039953f73e": {
+        "uuid": "d5765962-5b08-3450-a5c4-c0039953f73e",
+        "title": "Franklin Templeton Targets More Assets in ETF Overhaul",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-targets-50-billion-165451547.html",
+        "providerPublishTime": 1658172921,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ehOssVAqPS7Q.nYGAHx2nw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gzpQttJYpzZ92eJUIpVyeA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/5a95ad14c318c7fca2770f18589c36e4",
+                    "width": 1200,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/198HQg4P.5yaGFaUMW1.UQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gzpQttJYpzZ92eJUIpVyeA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/5a95ad14c318c7fca2770f18589c36e4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "4cc6ef37-fa96-317a-9a39-67363a273ac9": {
+        "uuid": "4cc6ef37-fa96-317a-9a39-67363a273ac9",
+        "title": "Franklin Templeton Funds - 10 Best Templeton Mutual Funds",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/4cc6ef37-fa96-317a-9a39-67363a273ac9/franklin-templeton-funds-10.html",
+        "providerPublishTime": 1658171640,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/slejn435RPvCEIpvONDYEg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VxrLaF2kgu8Do2yO9PwOnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
     "1cd3a538-59b9-32a6-a573-f6d46b3230b4": {
         "uuid": "1cd3a538-59b9-32a6-a573-f6d46b3230b4",
         "title": "Franklin Templeton Canada Announces ETF Cash Distributions",
@@ -106,30 +160,6 @@
         "relatedTickers": [
             "BEN",
             "GIM"
-        ]
-    },
-    "893803fe-86e4-33e4-9459-e989bfb02b8b": {
-        "uuid": "893803fe-86e4-33e4-9459-e989bfb02b8b",
-        "title": "Templeton Emerging Markets Income Fund (\"TEI\" or the \"Fund\") Announces Distribution",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-emerging-markets-income-fund-155700640.html",
-        "providerPublishTime": 1657295820,
-        "type": "STORY",
-        "relatedTickers": [
-            "TEI",
-            "BEN"
-        ]
-    },
-    "0075ffd5-d84d-33f4-8623-c3683d1f7a14": {
-        "uuid": "0075ffd5-d84d-33f4-8623-c3683d1f7a14",
-        "title": "Franklin Universal Trust (\"FT\" or the \"Fund\") Announces Distribution",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-universal-trust-ft-fund-155600574.html",
-        "providerPublishTime": 1657295760,
-        "type": "STORY",
-        "relatedTickers": [
-            "FT",
-            "BEN"
         ]
     }
 }

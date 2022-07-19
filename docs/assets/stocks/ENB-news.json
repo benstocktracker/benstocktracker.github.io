@@ -1,4 +1,31 @@
 {
+    "97803f78-7bca-3597-bea9-aecc9a840675": {
+        "uuid": "97803f78-7bca-3597-bea9-aecc9a840675",
+        "title": "This Energy Stock Is a Must-Own if You Want Passive Income",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/97803f78-7bca-3597-bea9-aecc9a840675/this-energy-stock-is-a.html",
+        "providerPublishTime": 1658151480,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_8ER_GVNGCEmRfJ9bXuBRw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7o5aZaxdLirpdmlKH8K5oA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5cf3b1c93023dafd64a13fab158466fa",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QLJrgcWjUvypPhTMweBerA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7o5aZaxdLirpdmlKH8K5oA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5cf3b1c93023dafd64a13fab158466fa",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ENB"
+        ]
+    },
     "58570a71-d5b3-3cc2-8edc-f923ea3c477a": {
         "uuid": "58570a71-d5b3-3cc2-8edc-f923ea3c477a",
         "title": "Want $2,000 in Passive Income? Invest $10,000 in These 2 Monster Energy Stocks and Wait 4 Years",
@@ -166,34 +193,6 @@
             "EBGEF",
             "ENB",
             "ENBFF"
-        ]
-    },
-    "5b959b8c-7b64-3461-9176-9662651d5ba9": {
-        "uuid": "5b959b8c-7b64-3461-9176-9662651d5ba9",
-        "title": "Enbridge (ENB) Ordered to File More Details for Line 5 Tunnel",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-ordered-file-more-134701286.html",
-        "providerPublishTime": 1657547221,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P3rVmtf5Pw0ImdFzWYkfsA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kyxbhc9vU6coF3kOO3p15g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5102c7cc524ab92392c1c3e5f0753c65",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DPQOWXRPkspUnFEAh2rG1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kyxbhc9vU6coF3kOO3p15g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5102c7cc524ab92392c1c3e5f0753c65",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB",
-            "PSX"
         ]
     }
 }

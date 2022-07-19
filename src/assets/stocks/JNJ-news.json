@@ -1,21 +1,21 @@
 {
-    "09d0c57e-3289-3051-b2b5-01a16fcbbd24": {
-        "uuid": "09d0c57e-3289-3051-b2b5-01a16fcbbd24",
-        "title": "Want to Get Richer? 5 Best Stocks to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/09d0c57e-3289-3051-b2b5-01a16fcbbd24/want-to-get-richer%3F-5-best.html",
-        "providerPublishTime": 1657970100,
+    "4b146d3d-d943-3feb-993e-4a54fed9012c": {
+        "uuid": "4b146d3d-d943-3feb-993e-4a54fed9012c",
+        "title": "Johnson & Johnson Tops Profit Estimates but Trims Full-Year Outlook",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/4b146d3d-d943-3feb-993e-4a54fed9012c/johnson-%26-johnson-tops-profit.html",
+        "providerPublishTime": 1658233560,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ReW2cG18kvddhMM_8ZHmrw--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
-                    "width": 1400,
-                    "height": 900,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TIfgNTlqfvVpVY6VuCTcqw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hHHJnRgL19uFUBUe_V6dTg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8c5d834282626e811d7717d40544cf5d",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Mi5a_IEWWO.g8f2.6E0npw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GrFlw3XVkrmhm83jUrYPhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hHHJnRgL19uFUBUe_V6dTg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8c5d834282626e811d7717d40544cf5d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,164 +23,27 @@
             ]
         },
         "relatedTickers": [
-            "ABT",
-            "PFE",
-            "ABBV",
-            "JNJ",
-            "UNH"
-        ]
-    },
-    "732eaa97-fe03-3d3c-999d-cc3f69edc000": {
-        "uuid": "732eaa97-fe03-3d3c-999d-cc3f69edc000",
-        "title": "10 High-Yield Dividend Stocks to Buy in July",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-high-yield-dividend-stocks-100857006.html",
-        "providerPublishTime": 1657966137,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/c3zzCTzZRS05BA8GyB2zAg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HSuG05ibK8lfEfIXYpvhjw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f7deaf5d349c11f3ddc27bd88e65f5d1",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/817nm_9pmzNuKkgRw5BQDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HSuG05ibK8lfEfIXYpvhjw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f7deaf5d349c11f3ddc27bd88e65f5d1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "IBM",
-            "KO",
-            "WBA",
-            "LEG",
-            "BBY",
-            "WPC",
-            "T-PC",
+            "^GSPC",
             "JNJ"
         ]
     },
-    "f6cb25cc-2f42-39f7-bca5-b7c7b4e92381": {
-        "uuid": "f6cb25cc-2f42-39f7-bca5-b7c7b4e92381",
-        "title": "Earnings and economic data to expect out next week",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/earnings-economic-data-expect-next-205558912.html",
-        "providerPublishTime": 1657918558,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PU8_1D3lTLeDs05RTMpFRg--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/858f7610-0480-11ed-baef-0c68296a7764",
-                    "width": 2673,
-                    "height": 1501,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MdOS.tMWfdcgu57CKVJSSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/858f7610-0480-11ed-baef-0c68296a7764",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "SNAP",
-            "TSLA",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "IBM",
-            "AAL",
-            "JNJ",
-            "TRV",
-            "GS",
-            "UAL",
-            "AXP",
-            "VZ"
-        ]
-    },
-    "a2b7801e-7499-3563-bba3-de9a30aa02fc": {
-        "uuid": "a2b7801e-7499-3563-bba3-de9a30aa02fc",
-        "title": "Stocks rise as traders mull earnings, favorable consumer data",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-rise-traders-mull-earnings-142550856.html",
-        "providerPublishTime": 1657895150,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K00OxyxO4Pj5twpl2lZ7Gg--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pLucX2ebbRrD.iO5wCyl8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XLV",
-            "MSFT",
-            "V",
-            "UNH",
-            "WMT",
-            "JPM",
-            "AAPL",
-            "CL=F",
-            "XLC",
-            "XLRE",
-            "COST",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "JD",
-            "JDCMF",
-            "^DJI",
-            "NVDA",
-            "XLU",
-            "HSBC",
-            "WFC",
-            "WFC-PD",
-            "MS",
-            "MS-PO",
-            "XLF",
-            "JNJ",
-            "^GSPC",
-            "C",
-            "^IXIC",
-            "DX-Y.NYB",
-            "BABA",
-            "BABAF"
-        ]
-    },
-    "a726800e-45ed-3d5b-8304-63ad32a3b677": {
-        "uuid": "a726800e-45ed-3d5b-8304-63ad32a3b677",
-        "title": "Dow Jones Rallies After Strong Retail Sales; 4 Key Earnings Reports To Watch",
+    "186805b6-3c86-3c19-a8a2-87d9ac3a52a7": {
+        "uuid": "186805b6-3c86-3c19-a8a2-87d9ac3a52a7",
+        "title": "Dow Jones Futures Climb But IBM Dives On Earnings; Netflix Earnings Due",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a726800e-45ed-3d5b-8304-63ad32a3b677/dow-jones-rallies-after.html",
-        "providerPublishTime": 1657892653,
+        "link": "https://finance.yahoo.com/m/186805b6-3c86-3c19-a8a2-87d9ac3a52a7/dow-jones-futures-climb-but.html",
+        "providerPublishTime": 1658233194,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HiLl.tE7RjKZue5H_F5nAw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
-                    "width": 1000,
-                    "height": 565,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K_sMjJmxofQw1x9o0nGHnQ--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ji1Ch5sZhdp0JfKLXj3Csw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f6179ea5f6190c9a4a595b09f522eb65",
+                    "width": 1012,
+                    "height": 572,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2jhijpk_jD_F1P3f2ffGDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yz4kWXiLs12HkxgDvXiE5A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ji1Ch5sZhdp0JfKLXj3Csw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f6179ea5f6190c9a4a595b09f522eb65",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -189,60 +52,34 @@
         },
         "relatedTickers": [
             "^DJI",
+            "IBM",
+            "NFLX",
+            "TSLA",
+            "JNJ",
             "UNH",
             "DLTR",
-            "TSLA",
+            "VRRMW",
             "NOC",
-            "JNJ",
-            "MSFT",
-            "BLK"
+            "HAL"
         ]
     },
-    "7dfbb1e0-d435-3a5c-8d13-1d319168049c": {
-        "uuid": "7dfbb1e0-d435-3a5c-8d13-1d319168049c",
-        "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Medical Names",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/looking-stocks-positive-earnings-momentum-130001931.html",
-        "providerPublishTime": 1657890001,
+    "e45ef297-1b97-3d88-97d6-a676fe19de70": {
+        "uuid": "e45ef297-1b97-3d88-97d6-a676fe19de70",
+        "title": "Johnson & Johnson Trims Full-Year Guidance on Stronger Dollar",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/e45ef297-1b97-3d88-97d6-a676fe19de70/johnson-%26-johnson-trims.html",
+        "providerPublishTime": 1658230560,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6tSQqB4RxMVfgDYI2bsoCg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/YliGu3uiWo7T6YkWQuaEpA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
-                    "width": 900,
-                    "height": 601,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2BB2iEDmsXSm8AxqqYH0sQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5b67bZVegEyCFRE0VBfodw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/63cae780f743449e72f6557b342a0dd3",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p8yG1.SiYGwiI.TLvULjYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YliGu3uiWo7T6YkWQuaEpA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ALKS",
-            "JNJ"
-        ]
-    },
-    "e63bbc89-81a3-3c19-a8cd-fe1f1e1902c3": {
-        "uuid": "e63bbc89-81a3-3c19-a8cd-fe1f1e1902c3",
-        "title": "J&J (JNJ) to Begin Pharma Sector's Q2 Earnings With a Beat?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/j-j-jnj-begin-pharma-121712439.html",
-        "providerPublishTime": 1657887432,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6hgtO7luBTc3xSFU5hzSIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4K8GabCkmtDgO.0ZkJi.oQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vDMvP4I4nYAv8uGq6wU6aw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5b67bZVegEyCFRE0VBfodw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/63cae780f743449e72f6557b342a0dd3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -253,23 +90,23 @@
             "JNJ"
         ]
     },
-    "fc058edc-475d-3c9c-bd11-8811ae4b9314": {
-        "uuid": "fc058edc-475d-3c9c-bd11-8811ae4b9314",
-        "title": "Zacks Investment Ideas feature highlights: Coca-Cola, Kroger and Johnson & Johnson",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102110819.html",
-        "providerPublishTime": 1657880470,
+    "34733d72-8dad-3b60-a7e4-1634387f759b": {
+        "uuid": "34733d72-8dad-3b60-a7e4-1634387f759b",
+        "title": "IBM, Apple, JNJ, and More of Tuesday\u2019s Stock Market Movers",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/34733d72-8dad-3b60-a7e4-1634387f759b/ibm%2C-apple%2C-jnj%2C-and-more-of.html",
+        "providerPublishTime": 1658230020,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6hgtO7luBTc3xSFU5hzSIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Uwam0_QpZEDe66Mr77AH_g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qaPNePu_uOdZ9gp8EJ7kKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7f2ef5108516056e66115aafd05020c1",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4K8GabCkmtDgO.0ZkJi.oQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KvuiVF7iLwcCXcEuX_Dmnw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qaPNePu_uOdZ9gp8EJ7kKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7f2ef5108516056e66115aafd05020c1",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -277,10 +114,111 @@
             ]
         },
         "relatedTickers": [
-            "KO",
-            "KR",
+            "HAL",
+            "IBM",
+            "AAPL",
             "JNJ",
-            "^GSPC"
+            "NFLX"
+        ]
+    },
+    "8595577f-9025-31e1-9b51-34f6186c0dd8": {
+        "uuid": "8595577f-9025-31e1-9b51-34f6186c0dd8",
+        "title": "Johnson & Johnson Tops Second-Quarter Targets, Trims Full-Year Outlook",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/8595577f-9025-31e1-9b51-34f6186c0dd8/johnson-%26-johnson-tops.html",
+        "providerPublishTime": 1658229178,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TX_ZH8AeekmdXt1R7.2qlg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0b05LQjGVHTZEpE1poqm3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e48318775b7dd5fbec1ae03308feaf2",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.msrMc0cxT2cgqLEy8wnqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0b05LQjGVHTZEpE1poqm3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e48318775b7dd5fbec1ae03308feaf2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ"
+        ]
+    },
+    "930d1ca1-4606-32a0-a60a-5991f2826295": {
+        "uuid": "930d1ca1-4606-32a0-a60a-5991f2826295",
+        "title": "Dow Jones Futures: Stock Market Stages Nasty Reversal With Netflix, Tesla Earnings Due",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/930d1ca1-4606-32a0-a60a-5991f2826295/dow-jones-futures%3A-stock.html",
+        "providerPublishTime": 1658228724,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IbkQ31RTjdLPoDFP0W7jtQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ttPi5Mc8KnevkdIKh7LeWw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0d664b5774534f5d6b8fc70e21ef0d32",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DvpEH1PqpkuKqpp_FeX4qA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ttPi5Mc8KnevkdIKh7LeWw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0d664b5774534f5d6b8fc70e21ef0d32",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "^DJI",
+            "NFLX",
+            "IBM",
+            "NOC",
+            "COMP",
+            "DLTR",
+            "UNH",
+            "JNJ"
+        ]
+    },
+    "1102e4e0-618b-3573-a889-ee6075dc5ebe": {
+        "uuid": "1102e4e0-618b-3573-a889-ee6075dc5ebe",
+        "title": "Johnson & Johnson Tops Q2 Earnings Forecast, Trims 2022 Outlook On Strong Dollar Impact",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/1102e4e0-618b-3573-a889-ee6075dc5ebe/johnson-%26-johnson-tops-q2.html",
+        "providerPublishTime": 1658226960,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4uJXi8VepZc_pxVRKJcj9A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aIQFxCxLz5UJN0eKMNiEVQ--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/82b5bd4a665ac3e763b178054c1c633d",
+                    "width": 1152,
+                    "height": 768,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/e_IOqN6iwTcizXGUZG.QYA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aIQFxCxLz5UJN0eKMNiEVQ--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/82b5bd4a665ac3e763b178054c1c633d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ"
+        ]
+    },
+    "d19d9f7c-488f-3f85-be88-f0377fec3435": {
+        "uuid": "d19d9f7c-488f-3f85-be88-f0377fec3435",
+        "title": "UPDATE 2-Johnson & Johnson cuts annual profit forecast on hit from stronger dollar",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-johnson-johnson-profit-outlook-103306137.html",
+        "providerPublishTime": 1658226786,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ"
         ]
     }
 }

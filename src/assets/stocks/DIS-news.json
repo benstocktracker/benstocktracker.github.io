@@ -1,21 +1,110 @@
 {
-    "9b8480c1-340b-3964-9ed1-e16c53807e43": {
-        "uuid": "9b8480c1-340b-3964-9ed1-e16c53807e43",
-        "title": "Is Now An Opportune Moment To Examine The Walt Disney Company (NYSE:DIS)?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/now-opportune-moment-examine-walt-121352354.html",
-        "providerPublishTime": 1657973632,
+    "91bc9eff-40b8-30ab-8a76-d828aded15ae": {
+        "uuid": "91bc9eff-40b8-30ab-8a76-d828aded15ae",
+        "title": "3 Beaten-Down S&P 500 Stocks Ready to Bounce Back",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/91bc9eff-40b8-30ab-8a76-d828aded15ae/3-beaten-down-s%26p-500-stocks.html",
+        "providerPublishTime": 1658227200,
+        "type": "STORY",
+        "relatedTickers": [
+            "^GSPC",
+            "DIS",
+            "GE"
+        ]
+    },
+    "58f3befe-5ef6-32c5-8329-23fb1623b770": {
+        "uuid": "58f3befe-5ef6-32c5-8329-23fb1623b770",
+        "title": "Disney's Turning Its Attention to Streaming Profits",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/58f3befe-5ef6-32c5-8329-23fb1623b770/disney%27s-turning-its.html",
+        "providerPublishTime": 1658226000,
+        "type": "STORY",
+        "relatedTickers": [
+            "DIS",
+            "NFLX"
+        ]
+    },
+    "52664227-99d4-3ece-bc20-670efc04c093": {
+        "uuid": "52664227-99d4-3ece-bc20-670efc04c093",
+        "title": "Stocks Higher, IBM, Disney, Twitter and Netflix In Focus - Five Things To Know",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/52664227-99d4-3ece-bc20-670efc04c093/stocks-higher%2C-ibm%2C-disney%2C.html",
+        "providerPublishTime": 1658225040,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/el.m11mB62dDUs.oyFp5eQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.t8le6HWB25H1Jd3ALHtzw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e6a27566bfe27d323fdc356b94030db6",
-                    "width": 1194,
-                    "height": 432,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jeXQK7818_CUVBDV5p7iSw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/I0dXaOC0mZLcXlNCwNyiFg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3e0626f78b2832dcc920bc58c66cb010",
+                    "width": 1920,
+                    "height": 1080,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k9NRBgstYUNUupuPufsYxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.t8le6HWB25H1Jd3ALHtzw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e6a27566bfe27d323fdc356b94030db6",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ru4RxjAaic_YILvH9AYIKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/I0dXaOC0mZLcXlNCwNyiFg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3e0626f78b2832dcc920bc58c66cb010",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "IBM",
+            "NFLX",
+            "DIS",
+            "TWTR",
+            "^DJI",
+            "^GSPC"
+        ]
+    },
+    "24748de3-5cbc-3295-832e-09be8dc00ed8": {
+        "uuid": "24748de3-5cbc-3295-832e-09be8dc00ed8",
+        "title": "IBEX and Sony have been highlighted as Zacks Bull and Bear of the Day",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ibex-sony-highlighted-zacks-bull-092209037.html",
+        "providerPublishTime": 1658222529,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ek2wXT4fogjZzOO7nX0pRw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/iaKLFcU.DdVA1BhEHS2daw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/578c75a0bdc2572dd0bbdad8c4aeb25c",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wKGmayG6c9sMomZ61iVDyw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iaKLFcU.DdVA1BhEHS2daw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/578c75a0bdc2572dd0bbdad8c4aeb25c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "NFLX",
+            "SONY",
+            "IBEX",
+            "AAPL",
+            "^GSPC"
+        ]
+    },
+    "98eb7486-9a53-3325-b70e-e19ed7df1de9": {
+        "uuid": "98eb7486-9a53-3325-b70e-e19ed7df1de9",
+        "title": "Walt Disney (DIS) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/walt-disney-dis-gains-market-214509642.html",
+        "providerPublishTime": 1658180709,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZGaKO3j6JdYhhFqUWpzHYA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wbCMwMtKIoXj_iQA0ego4g--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295",
+                    "width": 900,
+                    "height": 506,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HGvwpQE9uN.sMhAlebQdoQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wbCMwMtKIoXj_iQA0ego4g--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1154d43aaeb65735a640003549116295",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -26,84 +115,23 @@
             "DIS"
         ]
     },
-    "8338af27-b50d-335d-b74b-ab68756a11b6": {
-        "uuid": "8338af27-b50d-335d-b74b-ab68756a11b6",
-        "title": "Mattel Isn\u2019t Playing Around. The Stock Is Well-Positioned to Prosper in a Recession.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/8338af27-b50d-335d-b74b-ab68756a11b6/mattel-isn%E2%80%99t-playing-around..html",
-        "providerPublishTime": 1657930380,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uVG2S9NV19AaZBGWhyu6nA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0cAlGnXwzAzp9oTwqZGzHQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f3bf30a3c2fb2793b7c555cf83c1d30d",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lZ7I6kbQpKd0vs62WYjW6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0cAlGnXwzAzp9oTwqZGzHQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f3bf30a3c2fb2793b7c555cf83c1d30d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MAT",
-            "DIS",
-            "WMT",
-            "HAS"
-        ]
-    },
-    "8db53575-cbbc-381b-9e36-aeaf369cdf89": {
-        "uuid": "8db53575-cbbc-381b-9e36-aeaf369cdf89",
-        "title": "\u2018Thor,\u2019 \u2018Top Gun,\u2019 and \u2018Minions\u2019: Movies Are Back, but We Need More",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/8db53575-cbbc-381b-9e36-aeaf369cdf89/%E2%80%98thor%2C%E2%80%99-%E2%80%98top-gun%2C%E2%80%99-and.html",
-        "providerPublishTime": 1657919520,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tv7ZFpE76MnxT4t2mwPotg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/miiPmanOlYK8dmtCSWsuwA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8a26eb6ce804934d5cc8af6d7edfb678",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ck8gxW8huAObBBwwBWqJhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/miiPmanOlYK8dmtCSWsuwA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8a26eb6ce804934d5cc8af6d7edfb678",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CNK",
-            "IMAX",
-            "DIS",
-            "^GSPC",
-            "AMC"
-        ]
-    },
-    "6af65a07-ce37-3619-ad55-d696d1cd8f94": {
-        "uuid": "6af65a07-ce37-3619-ad55-d696d1cd8f94",
-        "title": "NFL considers Apple TV+ as a host for Sunday Ticket streaming",
+    "6705f30b-753b-3ea3-a4dc-a8e97a6bea3e": {
+        "uuid": "6705f30b-753b-3ea3-a4dc-a8e97a6bea3e",
+        "title": "Disney+ streaming loyalty is 'pretty durable' and not seasonal: Analyst",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/nfl-considers-apple-tv-host-210919810.html",
-        "providerPublishTime": 1657919359,
+        "link": "https://finance.yahoo.com/video/disney-streaming-loyalty-pretty-durable-203604361.html",
+        "providerPublishTime": 1658176564,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lI7q0MOPngZrgIAhh7PBbg--~B/aD0xNDgwO3c9MjYzNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6305fdb0-0482-11ed-9f6e-2dfe8ac7d8d3",
-                    "width": 2635,
-                    "height": 1480,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K9sr6yZzQXyT1wlEdQf5Uw--~B/aD0yODA5O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3d3f4560-06d9-11ed-92f7-0e38728aad23",
+                    "width": 5000,
+                    "height": 2809,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2hzyu3h7LpmbW.iNsXJ42Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6305fdb0-0482-11ed-9f6e-2dfe8ac7d8d3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OpJ8Re.OWNuoFMJxDW4ypw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3d3f4560-06d9-11ed-92f7-0e38728aad23",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -111,96 +139,40 @@
             ]
         },
         "relatedTickers": [
-            "AMZN",
-            "WBD",
-            "NFLX",
             "AAPL",
-            "DIS"
+            "NFLX",
+            "DIS",
+            "AMZN"
         ]
     },
-    "d11a7ca0-9899-342c-a2d6-db9a200ae611": {
-        "uuid": "d11a7ca0-9899-342c-a2d6-db9a200ae611",
-        "title": "Is ExxonMobil a Buy?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d11a7ca0-9899-342c-a2d6-db9a200ae611/is-exxonmobil-a-buy%3F.html",
-        "providerPublishTime": 1657916640,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IEDtuGpkWgUhZQW7YeucVQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/q53AmbKcxGKUycxWLz3rhw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d1f2fbad68aefab134e6360b6f244ee6",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MIOmAkDWe0QinGf_9lR9mg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/q53AmbKcxGKUycxWLz3rhw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d1f2fbad68aefab134e6360b6f244ee6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XOM",
-            "DIS"
-        ]
-    },
-    "56e25206-777b-39ff-bbd6-de297954b748": {
-        "uuid": "56e25206-777b-39ff-bbd6-de297954b748",
-        "title": "UPDATE 1-Disney's ESPN+ to hike monthly subscription by $3",
+    "22109f59-fb65-31c7-9d18-baefbc537973": {
+        "uuid": "22109f59-fb65-31c7-9d18-baefbc537973",
+        "title": "UPDATE 1-Disney secures record $9 billion in upfront ad sales for 2022-23",
         "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-disneys-espn-hike-monthly-180158504.html",
-        "providerPublishTime": 1657908118,
+        "link": "https://finance.yahoo.com/news/1-disney-secures-record-9-194358145.html",
+        "providerPublishTime": 1658173438,
         "type": "STORY",
         "relatedTickers": [
             "DIS"
         ]
     },
-    "a2c10475-3f68-3462-b1a3-1c84095e7066": {
-        "uuid": "a2c10475-3f68-3462-b1a3-1c84095e7066",
-        "title": "Disney to raise ESPN+ streaming price to $9.99 in August",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/a2c10475-3f68-3462-b1a3-1c84095e7066/disney-to-raise-espn%2B.html",
-        "providerPublishTime": 1657907760,
+    "73ecf7ef-2196-3ff0-8329-5f3eb480a6a4": {
+        "uuid": "73ecf7ef-2196-3ff0-8329-5f3eb480a6a4",
+        "title": "Hulu Is Driving More Streaming Subscribers to Disney Than Marvel or Star Wars",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/73ecf7ef-2196-3ff0-8329-5f3eb480a6a4/hulu-is-driving-more.html",
+        "providerPublishTime": 1658172120,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zdsUGuYjbK0jMupPpFfaDw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZMOcflySlCy7PM5_EoG.cA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/51da68acbf44c7203fb034e469f3a891",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8Ol83FKQXfwdk1sLCDTQQg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BbvXEKCtCnKkRBCdc3ZNiQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/170817dd2ecdaf088648a914b168b059",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LGnQCPs_mkVeFXlALTxtsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZMOcflySlCy7PM5_EoG.cA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/51da68acbf44c7203fb034e469f3a891",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "95875999-60f5-3ffa-be0b-6d8535119698": {
-        "uuid": "95875999-60f5-3ffa-be0b-6d8535119698",
-        "title": "Disney's ESPN+ to hike monthly subscription by $3",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/espn-hike-monthly-subscription-3-165817017.html",
-        "providerPublishTime": 1657904297,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TpitW8BVK98vUUsHNEwUwg--~B/aD01MjE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JZ4fMTo0dd4Jp0waIZU.Dg--~B/aD01MjE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ea60d16a582ed246c4c6cc2e94da4039",
-                    "width": 800,
-                    "height": 521,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6FZQkU9IENknHFrFVo_.Jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JZ4fMTo0dd4Jp0waIZU.Dg--~B/aD01MjE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ea60d16a582ed246c4c6cc2e94da4039",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Zm9LZJP6u_f3ugFWmCfs8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BbvXEKCtCnKkRBCdc3ZNiQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/170817dd2ecdaf088648a914b168b059",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

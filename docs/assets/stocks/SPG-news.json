@@ -55,6 +55,37 @@
             "SPG"
         ]
     },
+    "69abf737-6567-38d8-b24b-31d8ed4d10f9": {
+        "uuid": "69abf737-6567-38d8-b24b-31d8ed4d10f9",
+        "title": "7 Dangerous Dividend Stocks to Sell Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-dangerous-dividend-stocks-sell-220716782.html",
+        "providerPublishTime": 1657750036,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4yxJnsoGLHU_4hFee5V5Pg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Chmlr1DSJuOI.Vos3DeI6A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/19f668cf544cf9fee6eda6f983b2825b",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DGFzImN2B8lXKU_ce4kv8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Chmlr1DSJuOI.Vos3DeI6A--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/19f668cf544cf9fee6eda6f983b2825b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VNORP",
+            "DVN",
+            "WMB",
+            "CVX",
+            "SPG"
+        ]
+    },
     "09cbf180-4fa8-31bb-8009-b371a4716049": {
         "uuid": "09cbf180-4fa8-31bb-8009-b371a4716049",
         "title": "Edina consultant calls 32-story Life Time tower at Southdale 'elite enclave'",
@@ -180,33 +211,6 @@
         "relatedTickers": [
             "SPG",
             "SPG-PJ"
-        ]
-    },
-    "d189a9f8-d3a7-356d-a6ca-ece3ed65d2a2": {
-        "uuid": "d189a9f8-d3a7-356d-a6ca-ece3ed65d2a2",
-        "title": "Simon Property (SPG) Outpaces Stock Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/simon-property-spg-outpaces-stock-221510921.html",
-        "providerPublishTime": 1657059310,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PzKU7lPyf_PcRy_ydffzWA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
-                    "width": 900,
-                    "height": 602,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ncjTO6t7Ni7a1WCfWhqk6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG"
         ]
     }
 }

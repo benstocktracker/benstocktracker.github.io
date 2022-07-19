@@ -1,4 +1,48 @@
 {
+    "387f3287-1327-341a-9cc4-ad28cbef8a6f": {
+        "uuid": "387f3287-1327-341a-9cc4-ad28cbef8a6f",
+        "title": "Analysts Just Trimmed Their Price Targets of These 10 Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/analysts-just-trimmed-price-targets-091530005.html",
+        "providerPublishTime": 1658135730,
+        "type": "STORY",
+        "relatedTickers": [
+            "CDLX",
+            "JBLU",
+            "UPST",
+            "DOCN",
+            "LUNG",
+            "COF-PJ",
+            "UNP"
+        ]
+    },
+    "983e15e0-68a8-37bf-bc76-1e10ab6e5935": {
+        "uuid": "983e15e0-68a8-37bf-bc76-1e10ab6e5935",
+        "title": "3 Things About DigitalOcean Stock That Smart Investors Know",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/983e15e0-68a8-37bf-bc76-1e10ab6e5935/3-things-about-digitalocean.html",
+        "providerPublishTime": 1658061720,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HXLAIaQBzENhkitpb08rkA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QoBHrEy_.bLa54hP7y6LZA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5de079504e9e97f9451c8f63eaf2fd75",
+                    "width": 1400,
+                    "height": 934,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0IoRJW9DbTO0e09UKuEtfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QoBHrEy_.bLa54hP7y6LZA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/5de079504e9e97f9451c8f63eaf2fd75",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DOCN"
+        ]
+    },
     "dc442304-88db-33c8-a37e-f7cbae471c4d": {
         "uuid": "dc442304-88db-33c8-a37e-f7cbae471c4d",
         "title": "Why DigitalOcean Stock Was Underwater This Week",
@@ -115,45 +159,6 @@
             "ADBE",
             "DOCN",
             "BILL"
-        ]
-    },
-    "9a2a3116-82f7-392d-8f1e-018131a2e6a3": {
-        "uuid": "9a2a3116-82f7-392d-8f1e-018131a2e6a3",
-        "title": "It's Time to Load Up on These 2 Beaten-Down Cloud Stocks",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9a2a3116-82f7-392d-8f1e-018131a2e6a3/it%27s-time-to-load-up-on-these.html",
-        "providerPublishTime": 1657358580,
-        "type": "STORY",
-        "relatedTickers": [
-            "VEEV",
-            "DOCN"
-        ]
-    },
-    "908e26ca-9d79-369e-b4d4-61a3ec924ec2": {
-        "uuid": "908e26ca-9d79-369e-b4d4-61a3ec924ec2",
-        "title": "DigitalOcean Second Quarter 2022 Earnings Conference Call",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/digitalocean-second-quarter-2022-earnings-131300279.html",
-        "providerPublishTime": 1657285980,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8r577GuGnDkuTZAZ17VacA--~B/aD0xODA7dz0xODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yQFcnCbJfwY4V83.3KP5ow--~B/aD0xODA7dz0xODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/340ae295bc888eef677ee41f01689b57",
-                    "width": 180,
-                    "height": 180,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tBtvExYAkBkFHT3a..ZvRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yQFcnCbJfwY4V83.3KP5ow--~B/aD0xODA7dz0xODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/340ae295bc888eef677ee41f01689b57",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DOCN"
         ]
     }
 }

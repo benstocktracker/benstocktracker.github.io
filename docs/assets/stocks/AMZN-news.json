@@ -1,21 +1,21 @@
 {
-    "29cf9f1a-1c4f-3c21-8d18-90a6f5e8a9e2": {
-        "uuid": "29cf9f1a-1c4f-3c21-8d18-90a6f5e8a9e2",
-        "title": "Grubhub\u2019s Rivals Won\u2019t Get Eaten by Prime Partnership",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/29cf9f1a-1c4f-3c21-8d18-90a6f5e8a9e2/grubhub%E2%80%99s-rivals-won%E2%80%99t-get.html",
-        "providerPublishTime": 1657980000,
+    "0d68f4c2-63f1-3c2d-9b7f-868083ebd717": {
+        "uuid": "0d68f4c2-63f1-3c2d-9b7f-868083ebd717",
+        "title": "Tech Stocks Rise After Apple\u2019s Hiring Slowdown",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/0d68f4c2-63f1-3c2d-9b7f-868083ebd717/tech-stocks-rise-after.html",
+        "providerPublishTime": 1658232660,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fx1AKqXR2mBX115d8PkHTA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bmMPZJarwOeMLo9SedqcFQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ba0d088f432fe89accea4341cfe3f36c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w2uZpMu.wry7UfLy7manAw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0f.Wi2O2Ms_gw0K5t.np1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bmMPZJarwOeMLo9SedqcFQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ba0d088f432fe89accea4341cfe3f36c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0bMzXCoMhn6v5cwtVwcepA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,29 +23,30 @@
             ]
         },
         "relatedTickers": [
-            "JTKWY",
-            "TKAYF",
+            "MSFT",
+            "ORCL",
             "AMZN",
-            "UBER"
+            "AAPL",
+            "IBM"
         ]
     },
-    "ad420b70-c0cc-3597-90cc-c0a2983ae38e": {
-        "uuid": "ad420b70-c0cc-3597-90cc-c0a2983ae38e",
-        "title": "The Metaverse Still Deserves Your Attention. Here\u2019s Why.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/ad420b70-c0cc-3597-90cc-c0a2983ae38e/the-metaverse-still-deserves.html",
-        "providerPublishTime": 1657976400,
+    "501e4687-91a4-3007-afc8-60677e325c00": {
+        "uuid": "501e4687-91a4-3007-afc8-60677e325c00",
+        "title": "3 No-Brainer Money Moves Every Investor Should Make",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/501e4687-91a4-3007-afc8-60677e325c00/3-no-brainer-money-moves.html",
+        "providerPublishTime": 1658228400,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/plFOGUYWN5fh9ovA_xCbdQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mPtj9jpCYxBto.9_FCzF9w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e1b227250494b96f41acd7bfbe7236e1",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vN_hznrgFoqBrrcZugeFrA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OcLYGj5hQvxhHMG6GDTVTw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/303c841fdd223db9335ac2ffafae9fc1",
+                    "width": 1400,
+                    "height": 933,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0B55ZGo.1rLAqKu548aIDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mPtj9jpCYxBto.9_FCzF9w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e1b227250494b96f41acd7bfbe7236e1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JcnGMY34ZTX_0hSYNkK2LA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OcLYGj5hQvxhHMG6GDTVTw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/303c841fdd223db9335ac2ffafae9fc1",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -53,196 +54,171 @@
             ]
         },
         "relatedTickers": [
-            "NVDA",
+            "^GSPC",
+            "AMZN"
+        ]
+    },
+    "18114086-ef9f-3f31-9b0d-1904e03b53f0": {
+        "uuid": "18114086-ef9f-3f31-9b0d-1904e03b53f0",
+        "title": "3 Top Growth Stocks to Buy Right Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/18114086-ef9f-3f31-9b0d-1904e03b53f0/3-top-growth-stocks-to-buy.html",
+        "providerPublishTime": 1658228100,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mpOhopnzI1V8esPJKMxYrw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iFjVKT9n0fO21UUNosywBw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/57821b537bfd5cf3afdab3a1d47dae44",
+                    "width": 1400,
+                    "height": 841,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3BSWdRLuWszupBqDwOHuoQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iFjVKT9n0fO21UUNosywBw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/57821b537bfd5cf3afdab3a1d47dae44",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MELI",
+            "AMZN",
+            "CELH",
+            "PYPL"
+        ]
+    },
+    "0260a568-d41a-3892-8ce2-88b804130159": {
+        "uuid": "0260a568-d41a-3892-8ce2-88b804130159",
+        "title": "The Twitter-Musk Situation Gets Messy",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0260a568-d41a-3892-8ce2-88b804130159/the-twitter-musk-situation.html",
+        "providerPublishTime": 1658224020,
+        "type": "STORY",
+        "relatedTickers": [
+            "TWTR",
+            "AMZN"
+        ]
+    },
+    "2152ac8c-ca7c-3b37-a5bc-b3209b27749d": {
+        "uuid": "2152ac8c-ca7c-3b37-a5bc-b3209b27749d",
+        "title": "Amazon Sues Facebook Group Administrators Over Fake Reviews",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/2152ac8c-ca7c-3b37-a5bc-b3209b27749d/amazon-sues-facebook-group.html",
+        "providerPublishTime": 1658222760,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/C5nIVtU6htfNDElg7HG8IQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mih0fhk0.ul9ztoDUFJByg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/912ed54dc84c726cb0495dfea596a503",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2crIu4vv0EDRVX_9jF_ctg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mih0fhk0.ul9ztoDUFJByg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/912ed54dc84c726cb0495dfea596a503",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "AMZN"
+        ]
+    },
+    "f3f27f65-2149-306a-8002-c8c076f38bf4": {
+        "uuid": "f3f27f65-2149-306a-8002-c8c076f38bf4",
+        "title": "Behind in Polls, Bolsonaro Is Shunning His Own Campaign\u2019s Advice",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/behind-polls-bolsonaro-shunning-own-090000551.html",
+        "providerPublishTime": 1658221200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZAnhXchhpqscegCCACOWAA--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/.DhWpGp70ORCT08FyE9j7w--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/56b3d99451182f375ae2b820fd0ad041",
+                    "width": 6720,
+                    "height": 4480,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8j2LvXZ2KYMeJZzzKdr8_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.DhWpGp70ORCT08FyE9j7w--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/56b3d99451182f375ae2b820fd0ad041",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XP",
+            "XPVVV",
+            "AMZN",
+            "TWTR"
+        ]
+    },
+    "911b4461-6ecc-3d7e-b73b-0b1dd31ad65c": {
+        "uuid": "911b4461-6ecc-3d7e-b73b-0b1dd31ad65c",
+        "title": "Amazon Targets Fake Review Fraudsters on Social Media",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/amazon-targets-fake-review-fraudsters-040000633.html",
+        "providerPublishTime": 1658203200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1L0rZcoD3yNSfbArIU6KAw--~B/aD0yMDI7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1PCyzHXGtAhx2qfKvzcPZw--~B/aD0yMDI7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/85462cd364d651a8c58fcbfa503e6b91",
+                    "width": 480,
+                    "height": 202,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PpNuvEdehOrejQZ1PnwSQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1PCyzHXGtAhx2qfKvzcPZw--~B/aD0yMDI7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/85462cd364d651a8c58fcbfa503e6b91",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN"
+        ]
+    },
+    "589218e0-6d32-376c-8b35-ab8dff9d180c": {
+        "uuid": "589218e0-6d32-376c-8b35-ab8dff9d180c",
+        "title": "Apple Joins Fellow Tech Giants in Putting a Lid on Hiring",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/apple-joins-fellow-tech-giants-224622345.html",
+        "providerPublishTime": 1658184382,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cVD3kP0ymlrqBb5BnDA17g--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ceMRfnyLgpxqO2tWi4sQmA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/286203513a14a69c1d97d6cc95377de0",
+                    "width": 1296,
+                    "height": 756,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sxKEv2pkTlHIbw_XRT.aXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ceMRfnyLgpxqO2tWi4sQmA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/286203513a14a69c1d97d6cc95377de0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "META",
             "AAPL",
-            "AMZN",
-            "EA"
-        ]
-    },
-    "bb458867-1761-39af-bf9c-c6359eb43766": {
-        "uuid": "bb458867-1761-39af-bf9c-c6359eb43766",
-        "title": "Down But Not Out: Buy These Beaten-Down Dividend Stocks Before They Boom Again",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/bb458867-1761-39af-bf9c-c6359eb43766/down-but-not-out%3A-buy-these.html",
-        "providerPublishTime": 1657975500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7K9i5Ss7NXNLlwJurEq12w--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fDuagnPgM9Dh0k763NbXMg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6120cbf429e95e48de872ebf7c3cb60e",
-                    "width": 1400,
-                    "height": 752,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iO6td.VWqvP7iFHkXzbk3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fDuagnPgM9Dh0k763NbXMg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6120cbf429e95e48de872ebf7c3cb60e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PLD",
-            "CCI",
-            "ARE",
-            "AMZN"
-        ]
-    },
-    "583a00f7-1f64-3378-8c01-6488e377f709": {
-        "uuid": "583a00f7-1f64-3378-8c01-6488e377f709",
-        "title": "3 Passive Income Generators Down Between 29% and 36% to Buy On the Dip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/583a00f7-1f64-3378-8c01-6488e377f709/3-passive-income-generators.html",
-        "providerPublishTime": 1657972800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/U6Fesk79EqC9qs4l.8jJZA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t9KbWTA57oYNcB2CmK9_AA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc91b5fdd888d95fb1fa424294601eb9",
-                    "width": 1400,
-                    "height": 873,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Xkxk6M2eZKTXkbIBlLkPAA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t9KbWTA57oYNcB2CmK9_AA--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bc91b5fdd888d95fb1fa424294601eb9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EBAY",
-            "SBUX",
-            "LOW",
-            "AMZN"
-        ]
-    },
-    "a31c709d-dbbf-396a-bac1-21d53a2e53af": {
-        "uuid": "a31c709d-dbbf-396a-bac1-21d53a2e53af",
-        "title": "71 Cities and Towns Are Paying Tech Workers to Abandon Silicon Valley. It\u2019s Working.",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/a31c709d-dbbf-396a-bac1-21d53a2e53af/71-cities-and-towns-are.html",
-        "providerPublishTime": 1657944000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kuvL_dmG25In1JBFM2rNjg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PR_LZRc5ZCIgpK8sEGhtJw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/5ebcd0b5b2d64569f616ca60490f295a",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eXHcPwbCkuZcI6LL_Dtb8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PR_LZRc5ZCIgpK8sEGhtJw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/5ebcd0b5b2d64569f616ca60490f295a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "AMZN"
-        ]
-    },
-    "f532e6f8-4141-3e81-b98e-22847d70be75": {
-        "uuid": "f532e6f8-4141-3e81-b98e-22847d70be75",
-        "title": "Amazon Stock: Prime Is About to Get Stickier",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/amazon-stock-prime-stickier-000500340.html",
-        "providerPublishTime": 1657929900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VdgXOkKVXJifRR.JTdC6HQ--~B/aD00NjM7dz04NTI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aTQaBF223ExmZgjxxR_18g--~B/aD00NjM7dz04NTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/f2075bb16b7a9ad78ae4c847beebf116",
-                    "width": 852,
-                    "height": 463,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qQVrGPKgcOoMyI4ktMqHtQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aTQaBF223ExmZgjxxR_18g--~B/aD00NjM7dz04NTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/f2075bb16b7a9ad78ae4c847beebf116",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN"
-        ]
-    },
-    "ba37838b-eb75-3d0b-9471-4715177e038c": {
-        "uuid": "ba37838b-eb75-3d0b-9471-4715177e038c",
-        "title": "Amazon Expands Drone Delivery Testing to a Big State",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/ba37838b-eb75-3d0b-9471-4715177e038c/amazon-expands-drone-delivery.html",
-        "providerPublishTime": 1657927800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Z2B_UsppgGvOmsggZA6yww--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/NWa1XyEOwHp.lqO7r_s12Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/06406c56e6ee6a3cdb9976c3868ac2cb",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rLHZzaeUsnP0qeLgBon22Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NWa1XyEOwHp.lqO7r_s12Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/06406c56e6ee6a3cdb9976c3868ac2cb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN"
-        ]
-    },
-    "c6be3e52-036e-387f-a8dd-1058ce5cfce0": {
-        "uuid": "c6be3e52-036e-387f-a8dd-1058ce5cfce0",
-        "title": "Weekly Roundup",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/c6be3e52-036e-387f-a8dd-1058ce5cfce0/weekly-roundup.html",
-        "providerPublishTime": 1657926780,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hHW05l6Y1AUuzlBb7dmNGw--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
-                    "width": 1152,
-                    "height": 768,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WdTM3bN2acq7QQ0s6K7jYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
+            "TSLA",
+            "IBM",
             "MSFT",
-            "INTC",
+            "NFLX",
+            "PTON",
+            "GOOG",
             "GOOGL",
-            "NVDA",
-            "SPGI",
-            "MS",
-            "AAPL",
-            "NUE",
-            "COST",
-            "AMN",
-            "CHPT",
-            "AMZN",
-            "PEP",
-            "MA",
-            "CBOE",
-            "STLD"
+            "AMZN"
         ]
     }
 }

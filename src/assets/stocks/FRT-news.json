@@ -28,6 +28,39 @@
             "LEG"
         ]
     },
+    "e582671b-0677-3d99-a9ac-c8dce529cfee": {
+        "uuid": "e582671b-0677-3d99-a9ac-c8dce529cfee",
+        "title": "7 Best Long-Term Dividend Stocks to Buy Right Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-long-term-dividend-121559112.html",
+        "providerPublishTime": 1657887359,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u6s9VetHadCOOwDFLwQMfg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xzkZougL6zZsCB8Z141yQQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/245eda948581189d9d3944ba08147746",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z34qKrz7hQTmYrcLuwKUug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xzkZougL6zZsCB8Z141yQQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/245eda948581189d9d3944ba08147746",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "JNJ",
+            "PG",
+            "FRT",
+            "KMB",
+            "O",
+            "LOW"
+        ]
+    },
     "07951854-cc6f-3358-8f58-1b2119589eb6": {
         "uuid": "07951854-cc6f-3358-8f58-1b2119589eb6",
         "title": "Down 30%, This Dividend King Could Be a Perfect Buy Right Now",
@@ -162,17 +195,6 @@
         "relatedTickers": [
             "FRT",
             "FRT-PC"
-        ]
-    },
-    "272b7fb7-269b-3b7f-b724-63646d3e62a5": {
-        "uuid": "272b7fb7-269b-3b7f-b724-63646d3e62a5",
-        "title": "Why Federal Realty Investment Trust Stock Slumped Almost 17% in June",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/272b7fb7-269b-3b7f-b724-63646d3e62a5/why-federal-realty-investment.html",
-        "providerPublishTime": 1657032307,
-        "type": "STORY",
-        "relatedTickers": [
-            "FRT"
         ]
     }
 }

@@ -133,7 +133,7 @@ def calculate_row_data(portfolio):
                 stock_row['dividendIncome'] = 0
                 print(stock['symbol'], e)
         except Exception:
-            stock_row['marketPrice'] =  stock['price']['regularMarketPrice']
+            stock_row['marketPrice'] = stock['price']['regularMarketPrice']
         try:
             ex_div_date = datetime.fromtimestamp(stock['summaryDetail']['exDividendDate']).strftime("%m/%d/%y, %H:%M:%S")
         except TypeError:

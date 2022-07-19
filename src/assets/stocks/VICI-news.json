@@ -1,4 +1,16 @@
 {
+    "0b55f660-406e-34d5-8677-4d6cf7fc827d": {
+        "uuid": "0b55f660-406e-34d5-8677-4d6cf7fc827d",
+        "title": "3 High-Yield REITs You Won't Want to Miss",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0b55f660-406e-34d5-8677-4d6cf7fc827d/3-high-yield-reits-you-won%27t.html",
+        "providerPublishTime": 1658061000,
+        "type": "STORY",
+        "relatedTickers": [
+            "GTY",
+            "VICI"
+        ]
+    },
     "a1f71ea0-ff29-3f07-b4b9-6fb991b7903e": {
         "uuid": "a1f71ea0-ff29-3f07-b4b9-6fb991b7903e",
         "title": "VICI Properties Inc. Expands Great Wolf Resorts Partnership with Investment in New Collier County, Florida Resort",
@@ -122,17 +134,6 @@
         "publisher": "Business Wire",
         "link": "https://finance.yahoo.com/news/vici-properties-inc-ceo-edward-113000042.html",
         "providerPublishTime": 1656329400,
-        "type": "STORY",
-        "relatedTickers": [
-            "VICI"
-        ]
-    },
-    "7776885d-6e6d-340e-91db-c529bee05ce2": {
-        "uuid": "7776885d-6e6d-340e-91db-c529bee05ce2",
-        "title": "These 2 REITs Are All In On the Boomer Retirement Trend",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7776885d-6e6d-340e-91db-c529bee05ce2/these-2-reits-are-all-in-on.html",
-        "providerPublishTime": 1656162900,
         "type": "STORY",
         "relatedTickers": [
             "VICI"

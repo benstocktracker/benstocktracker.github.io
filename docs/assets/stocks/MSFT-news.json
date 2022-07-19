@@ -1,48 +1,146 @@
 {
-    "6a6e424f-a6d9-3a9b-991a-509912345c0e": {
-        "uuid": "6a6e424f-a6d9-3a9b-991a-509912345c0e",
-        "title": "Why Did Netflix Pick Microsoft's Video Advertising Platform?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/6a6e424f-a6d9-3a9b-991a-509912345c0e/why-did-netflix-pick.html",
-        "providerPublishTime": 1657978020,
+    "0d68f4c2-63f1-3c2d-9b7f-868083ebd717": {
+        "uuid": "0d68f4c2-63f1-3c2d-9b7f-868083ebd717",
+        "title": "Tech Stocks Rise After Apple\u2019s Hiring Slowdown",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/0d68f4c2-63f1-3c2d-9b7f-868083ebd717/tech-stocks-rise-after.html",
+        "providerPublishTime": 1658232660,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w2uZpMu.wry7UfLy7manAw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0bMzXCoMhn6v5cwtVwcepA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
-            "NFLX",
             "MSFT",
-            "TTD"
+            "ORCL",
+            "AMZN",
+            "AAPL",
+            "IBM"
         ]
     },
-    "7b63c3d2-da88-3b99-85a5-b9d02280f525": {
-        "uuid": "7b63c3d2-da88-3b99-85a5-b9d02280f525",
-        "title": "Microsoft Just Scored a Massive Win for Its Advertising Business",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7b63c3d2-da88-3b99-85a5-b9d02280f525/microsoft-just-scored-a.html",
-        "providerPublishTime": 1657969920,
+    "f1f398b5-e38f-3f10-8977-d05a935c9fc4": {
+        "uuid": "f1f398b5-e38f-3f10-8977-d05a935c9fc4",
+        "title": "Microsoft Is \u2018Good Place to Hide\u2019 in a Recession. This Analyst Cut His Price Target Anyway.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/f1f398b5-e38f-3f10-8977-d05a935c9fc4/microsoft-is-%E2%80%98good-place-to.html",
+        "providerPublishTime": 1658230860,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/y.nZ1xLnWPvO8DfdXW_jyA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zAoR3dTlwvfIx73Gh28iEA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/074f58ff7fd268d3989dc53314647f56",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mtUqbjb9BLqlZVyarZCGPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zAoR3dTlwvfIx73Gh28iEA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/074f58ff7fd268d3989dc53314647f56",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
+            "MSFT"
+        ]
+    },
+    "4f63aaa8-ab79-3f8c-9d73-0ccf3d749ef6": {
+        "uuid": "4f63aaa8-ab79-3f8c-9d73-0ccf3d749ef6",
+        "title": "Japanese Game Maker Nippon Ichi Is Overlooked Winner of Weak Yen",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/japanese-game-maker-nippon-ichi-044500719.html",
+        "providerPublishTime": 1658211427,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nqQ1hOWbaYh1tmf6YHcZCA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7s0uVoZi2okWcDg2Hze6eg--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/2bfaf42fdf7b5b891a8c1270142fdd40",
+                    "width": 1296,
+                    "height": 756,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DcE.fVnfv0jmVoLPMPNqMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7s0uVoZi2okWcDg2Hze6eg--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/2bfaf42fdf7b5b891a8c1270142fdd40",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NCBDF",
+            "NCBDY",
             "MSFT",
+            "3851.T",
+            "3635.T",
+            "SNEJF",
+            "SONY",
+            "SQNNY",
+            "SQNXF",
+            "3723.T",
+            "JPY=X",
+            "JPYUSD=X"
+        ]
+    },
+    "61f65d65-44fd-3345-9b6b-f90f2a77cb7c": {
+        "uuid": "61f65d65-44fd-3345-9b6b-f90f2a77cb7c",
+        "title": "Netflix Earnings Are Coming. Subscriber Growth Is Still a Worry.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/61f65d65-44fd-3345-9b6b-f90f2a77cb7c/netflix-earnings-are-coming..html",
+        "providerPublishTime": 1658205000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZMlit_cw3l.BfipXjnWGNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5WtHf27ILdPOAKFqvVnAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/51bdb8c1b460e959ce421aead6813140",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3N8xGkv8cJKlGtQljf6Mjw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5WtHf27ILdPOAKFqvVnAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/51bdb8c1b460e959ce421aead6813140",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "NFLX",
-            "GOOGL",
+            "MSFT",
             "CMCSA"
         ]
     },
-    "c6be3e52-036e-387f-a8dd-1058ce5cfce0": {
-        "uuid": "c6be3e52-036e-387f-a8dd-1058ce5cfce0",
-        "title": "Weekly Roundup",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/c6be3e52-036e-387f-a8dd-1058ce5cfce0/weekly-roundup.html",
-        "providerPublishTime": 1657926780,
+    "589218e0-6d32-376c-8b35-ab8dff9d180c": {
+        "uuid": "589218e0-6d32-376c-8b35-ab8dff9d180c",
+        "title": "Apple Joins Fellow Tech Giants in Putting a Lid on Hiring",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/apple-joins-fellow-tech-giants-224622345.html",
+        "providerPublishTime": 1658184382,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hHW05l6Y1AUuzlBb7dmNGw--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
-                    "width": 1152,
-                    "height": 768,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cVD3kP0ymlrqBb5BnDA17g--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ceMRfnyLgpxqO2tWi4sQmA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/286203513a14a69c1d97d6cc95377de0",
+                    "width": 1296,
+                    "height": 756,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WdTM3bN2acq7QQ0s6K7jYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sxKEv2pkTlHIbw_XRT.aXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ceMRfnyLgpxqO2tWi4sQmA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/286203513a14a69c1d97d6cc95377de0",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -50,189 +148,35 @@
             ]
         },
         "relatedTickers": [
-            "VZ",
-            "MSFT",
-            "INTC",
-            "GOOGL",
-            "NVDA",
-            "SPGI",
-            "MS",
+            "META",
             "AAPL",
-            "NUE",
-            "COST",
-            "AMN",
-            "CHPT",
-            "AMZN",
-            "PEP",
-            "MA",
-            "CBOE",
-            "STLD"
-        ]
-    },
-    "214545c3-5b64-3095-95dd-a41b3c5e829d": {
-        "uuid": "214545c3-5b64-3095-95dd-a41b3c5e829d",
-        "title": "Fastly Cloud Computing Traffic Bumped Higher. That Should Boost the Stock.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/214545c3-5b64-3095-95dd-a41b3c5e829d/fastly-cloud-computing.html",
-        "providerPublishTime": 1657924200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jxs0FD.6Rats7LDx5CVVlA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qeV4F3bt4pG2TNhOZ6PuIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ab41cf7e4a03fc29a0071773260ea136",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uV4IVtxitpnzWeLiibA3pw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qeV4F3bt4pG2TNhOZ6PuIA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ab41cf7e4a03fc29a0071773260ea136",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "TSLA",
+            "IBM",
+            "MSFT",
             "NFLX",
-            "FAST",
-            "FSLY",
-            "MSFT",
-            "WTRG"
-        ]
-    },
-    "838c2fa4-8c6c-3c5e-8a2e-ec81089e2b3e": {
-        "uuid": "838c2fa4-8c6c-3c5e-8a2e-ec81089e2b3e",
-        "title": "With Netflix Ad Deal, Microsoft Makes a Splash on Madison Avenue",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/838c2fa4-8c6c-3c5e-8a2e-ec81089e2b3e/with-netflix-ad-deal%2C.html",
-        "providerPublishTime": 1657916700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/94ERIm8QOWjp9bewzGcMMQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZIQ_xtdf4MAbGHUeKtNMvg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/db6d73af77887fda86be47d79fcf083d",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vb9Hck8WBTcyyivrRzYhFw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZIQ_xtdf4MAbGHUeKtNMvg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/db6d73af77887fda86be47d79fcf083d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "NFLX"
-        ]
-    },
-    "500f816b-f822-33a1-8a46-4c2ab0fa7423": {
-        "uuid": "500f816b-f822-33a1-8a46-4c2ab0fa7423",
-        "title": "Digital Transformation? Artificial Intelligence? With These Tools, Even You Could Pull It Off",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/500f816b-f822-33a1-8a46-4c2ab0fa7423/digital-transformation%3F.html",
-        "providerPublishTime": 1657897698,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JHX9nWlFHNOH6Hr4NE_taQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KncZt3JbuKxl9uORQxWphQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/02fe890bae592c49aafc5e995ddefc1d",
-                    "width": 1000,
-                    "height": 562,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fL4XOQkNTF9PkjrusGFofw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KncZt3JbuKxl9uORQxWphQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/02fe890bae592c49aafc5e995ddefc1d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "PTON",
+            "GOOG",
             "GOOGL",
-            "MSFT",
-            "CRM",
             "AMZN"
         ]
     },
-    "a2b7801e-7499-3563-bba3-de9a30aa02fc": {
-        "uuid": "a2b7801e-7499-3563-bba3-de9a30aa02fc",
-        "title": "Stocks rise as traders mull earnings, favorable consumer data",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-rise-traders-mull-earnings-142550856.html",
-        "providerPublishTime": 1657895150,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K00OxyxO4Pj5twpl2lZ7Gg--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pLucX2ebbRrD.iO5wCyl8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/05849760-044a-11ed-b2dd-fd9a6c56cb48",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XLV",
-            "MSFT",
-            "V",
-            "UNH",
-            "WMT",
-            "JPM",
-            "AAPL",
-            "CL=F",
-            "XLC",
-            "XLRE",
-            "COST",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "JD",
-            "JDCMF",
-            "^DJI",
-            "NVDA",
-            "XLU",
-            "HSBC",
-            "WFC",
-            "WFC-PD",
-            "MS",
-            "MS-PO",
-            "XLF",
-            "JNJ",
-            "^GSPC",
-            "C",
-            "^IXIC",
-            "DX-Y.NYB",
-            "BABA",
-            "BABAF"
-        ]
-    },
-    "a726800e-45ed-3d5b-8304-63ad32a3b677": {
-        "uuid": "a726800e-45ed-3d5b-8304-63ad32a3b677",
-        "title": "Dow Jones Rallies After Strong Retail Sales; 4 Key Earnings Reports To Watch",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a726800e-45ed-3d5b-8304-63ad32a3b677/dow-jones-rallies-after.html",
-        "providerPublishTime": 1657892653,
+    "a81f6781-f2ef-3adf-a23a-16e9f75658ef": {
+        "uuid": "a81f6781-f2ef-3adf-a23a-16e9f75658ef",
+        "title": "IBM Second-Quarter Earnings Advance on 9% Sales Growth",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/a81f6781-f2ef-3adf-a23a-16e9f75658ef/ibm-second-quarter-earnings.html",
+        "providerPublishTime": 1658184360,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HiLl.tE7RjKZue5H_F5nAw--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
-                    "width": 1000,
-                    "height": 565,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eWdtNQPN57D09BwUChiUPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L_XKZ77qJXhi9gAx7DYbSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/595d13c4be63765fc886fd13ce34564a",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2jhijpk_jD_F1P3f2ffGDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bwvyWwaTu5DaBrAv..HerA--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0e5361ce99f519ec280140120acd9918",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JIXnZBDkwRzUD4BJJud9Sg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L_XKZ77qJXhi9gAx7DYbSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/595d13c4be63765fc886fd13ce34564a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -240,14 +184,69 @@
             ]
         },
         "relatedTickers": [
-            "^DJI",
-            "UNH",
-            "DLTR",
-            "TSLA",
-            "NOC",
-            "JNJ",
+            "KD",
+            "GOOG",
+            "GOOGL",
             "MSFT",
-            "BLK"
+            "META",
+            "IBM"
+        ]
+    },
+    "cfc5db28-bfe9-3638-85ab-5aa068032171": {
+        "uuid": "cfc5db28-bfe9-3638-85ab-5aa068032171",
+        "title": "Microsoft (MSFT) Dips More Than Broader Markets: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-214509142.html",
+        "providerPublishTime": 1658180709,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 900,
+                    "height": 745,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT"
+        ]
+    },
+    "9944e128-5b78-31bc-8325-c3308553d527": {
+        "uuid": "9944e128-5b78-31bc-8325-c3308553d527",
+        "title": "Is Salesforce A Buy Or Sell As Software Growth Stocks Struggle?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/9944e128-5b78-31bc-8325-c3308553d527/is-salesforce-a-buy-or-sell.html",
+        "providerPublishTime": 1658175955,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4fXU353DoRlPIs7jOlOeww--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HX4Lps6aWcWpdNa3h7gllg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6a9c339816a6cb16c4be875e2944119b",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J3Jb4yyORmaKQy90SNJ.jA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HX4Lps6aWcWpdNa3h7gllg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6a9c339816a6cb16c4be875e2944119b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CRM",
+            "DATA",
+            "MSFT",
+            "GOOGL"
         ]
     }
 }

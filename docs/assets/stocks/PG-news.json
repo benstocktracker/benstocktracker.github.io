@@ -1,4 +1,65 @@
 {
+    "ff856006-3bb4-3309-87b0-f46c4b64e8da": {
+        "uuid": "ff856006-3bb4-3309-87b0-f46c4b64e8da",
+        "title": "Should You Invest in the Consumer Staples Select Sector SPDR ETF (XLP)?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/invest-consumer-staples-select-sector-102010298.html",
+        "providerPublishTime": 1658226010,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I6NEfdIfVQnuBOcsyd4sPg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                    "width": 900,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OuKZPaloUxgcmtaUQs.1EA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
+    "6d8c2910-461a-300e-ac55-880d21fc3230": {
+        "uuid": "6d8c2910-461a-300e-ac55-880d21fc3230",
+        "title": "10 New Stock Picks of Bruce Kovner\u2019s Caxton Associates",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stock-picks-bruce-kovner-124809079.html",
+        "providerPublishTime": 1658148489,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WAULvQl_aECAH7L.exV2FA--~B/aD02MDA7dz01MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/_GBcAxcr_.jnxvwujPUUAQ--~B/aD02MDA7dz01MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a88b48a58d205ba3c1d11f97007c2f1a",
+                    "width": 520,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QGvnXXpUOxVfu83Igv2fJw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_GBcAxcr_.jnxvwujPUUAQ--~B/aD02MDA7dz01MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a88b48a58d205ba3c1d11f97007c2f1a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC",
+            "BK",
+            "PG",
+            "IAC",
+            "MNST",
+            "PFE",
+            "TSLA",
+            "MSFT"
+        ]
+    },
     "de933012-d98d-33ed-991a-de1ecd7373f7": {
         "uuid": "de933012-d98d-33ed-991a-de1ecd7373f7",
         "title": "10 Stocks Billionaire Ken Fisher May Never Sell",
@@ -31,6 +92,39 @@
             "PG",
             "SMG",
             "BIO-B"
+        ]
+    },
+    "e582671b-0677-3d99-a9ac-c8dce529cfee": {
+        "uuid": "e582671b-0677-3d99-a9ac-c8dce529cfee",
+        "title": "7 Best Long-Term Dividend Stocks to Buy Right Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-long-term-dividend-121559112.html",
+        "providerPublishTime": 1657887359,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u6s9VetHadCOOwDFLwQMfg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xzkZougL6zZsCB8Z141yQQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/245eda948581189d9d3944ba08147746",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z34qKrz7hQTmYrcLuwKUug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xzkZougL6zZsCB8Z141yQQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/245eda948581189d9d3944ba08147746",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TGT",
+            "JNJ",
+            "PG",
+            "FRT",
+            "KMB",
+            "O",
+            "LOW"
         ]
     },
     "ba0e5433-aec0-3894-97f8-530d8bbf3707": {
@@ -147,88 +241,6 @@
             "^DJI",
             "HD",
             "NKE",
-            "PG"
-        ]
-    },
-    "d99b002d-f1a0-39ab-a674-6baa9d01f1d9": {
-        "uuid": "d99b002d-f1a0-39ab-a674-6baa9d01f1d9",
-        "title": "A recession can be avoided if Americans accept 4% inflation",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/d99b002d-f1a0-39ab-a674-6baa9d01f1d9/a-recession-can-be-avoided-if.html",
-        "providerPublishTime": 1657706400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/D.4aHtqBuIBBiBX.Mnh0Pw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c1J5rZrwQo6UFWo1wF2JsA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/15dc94bd1c2e7c4e5f4d5e0d62efff63",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zRS4ncylbE3se.LinJdY1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c1J5rZrwQo6UFWo1wF2JsA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/15dc94bd1c2e7c4e5f4d5e0d62efff63",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG",
-            "WMT"
-        ]
-    },
-    "4bcc1679-295a-3b72-a74c-81956a96b497": {
-        "uuid": "4bcc1679-295a-3b72-a74c-81956a96b497",
-        "title": "P&G Declares Quarterly Dividend",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/p-g-declares-quarterly-dividend-201500076.html",
-        "providerPublishTime": 1657656900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y22tjCQ01tgk.R91hU6ZEA--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/uqW2E5tdG5szt0JLMHGM9w--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/ed6610c15b5b070cc3431eb0d668a77a",
-                    "width": 480,
-                    "height": 480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/f3EsX6ZIVh9jOQHtWvq57g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uqW2E5tdG5szt0JLMHGM9w--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/ed6610c15b5b070cc3431eb0d668a77a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
-        ]
-    },
-    "af12d1f3-2685-303d-a28d-571825a90a9f": {
-        "uuid": "af12d1f3-2685-303d-a28d-571825a90a9f",
-        "title": "Gillette Venus Drops an Encore to Its Viral Pube Song, Partnering with Princess Nokia to Inspire You to #SayPubic",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gillette-venus-drops-encore-viral-130100929.html",
-        "providerPublishTime": 1657630860,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oUco0wrAzdyY3I8ONBUR5A--~B/aD04MTt3PTE0NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bVV3jQo79I06yk1YogPZcw--~B/aD04MTt3PTE0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/15aa05c71be25aa0e279e86e0d8d32c6",
-                    "width": 144,
-                    "height": 81,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1DtR36wQJV0JZROt7fXtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bVV3jQo79I06yk1YogPZcw--~B/aD04MTt3PTE0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/15aa05c71be25aa0e279e86e0d8d32c6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "PG"
         ]
     }

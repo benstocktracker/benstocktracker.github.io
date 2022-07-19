@@ -1,4 +1,108 @@
 {
+    "e291e54a-2a55-35bd-8777-e5b2174e1f8d": {
+        "uuid": "e291e54a-2a55-35bd-8777-e5b2174e1f8d",
+        "title": "Homebuilder sentiment plummets to two-year low in July",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/homebuilder-sentiment-plummets-two-low-195839404.html",
+        "providerPublishTime": 1658174319,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q9vstw4.tDyH._Ig8FS5Qg--~B/aD0xNDgwO3c9MjYzNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/02c7b7f0-06d4-11ed-a7ef-a7a621a341ff",
+                    "width": 2635,
+                    "height": 1480,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.f6rQ59i2FKhG0xV_.EnBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/02c7b7f0-06d4-11ed-a7ef-a7a621a341ff",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "Z",
+            "ZG",
+            "DOOR",
+            "LEN",
+            "LEN-B",
+            "KBH",
+            "CASH",
+            "HD",
+            "DHI",
+            "RMAX",
+            "RDFN",
+            "LOW",
+            "RKT"
+        ]
+    },
+    "a3341df7-0fee-3f44-89f1-b307e19c0215": {
+        "uuid": "a3341df7-0fee-3f44-89f1-b307e19c0215",
+        "title": "Housing: Home builder sentiment plummets in July",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/housing-home-builder-sentiment-plummets-145615016.html",
+        "providerPublishTime": 1658156175,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U_JGd9SjnWnIugOjG.cRcg--~B/aD0zMTUxO3c9NTYwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c3674c80-06a9-11ed-be3f-defd9fe1c1ce",
+                    "width": 5600,
+                    "height": 3151,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QiolWoNpA26I0_85HAHvQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c3674c80-06a9-11ed-be3f-defd9fe1c1ce",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "Z",
+            "ZG",
+            "^SPSIHO",
+            "HD",
+            "LOW",
+            "RDFN",
+            "KBH",
+            "TREE"
+        ]
+    },
+    "143408ee-f976-39ca-9683-7f9d2d12e310": {
+        "uuid": "143408ee-f976-39ca-9683-7f9d2d12e310",
+        "title": "Beat the Market Like Zacks: AMN Healthcare, Boeing, Clorox, Home Depot in Focus",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/beat-market-zacks-amn-healthcare-113911423.html",
+        "providerPublishTime": 1658144351,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9DIrNdUv4kkGEDpc1fo44Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JAlNiLLTM0JhvJM6qU3Mjw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0f71f7d46b723bf612b871cd753b1222",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gXq.im0F2YauibDsSiy.gQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JAlNiLLTM0JhvJM6qU3Mjw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0f71f7d46b723bf612b871cd753b1222",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "AMN",
+            "BA",
+            "CLX",
+            "HD"
+        ]
+    },
     "b9abc995-ca71-311e-9a41-b70b36e40f72": {
         "uuid": "b9abc995-ca71-311e-9a41-b70b36e40f72",
         "title": "3 Top Discounted Stocks to Buy Now and Hold Forever",
@@ -141,74 +245,6 @@
             "^GSPC",
             "GMS",
             "LOW"
-        ]
-    },
-    "8ebf339b-05be-30dd-99c6-025972706b7c": {
-        "uuid": "8ebf339b-05be-30dd-99c6-025972706b7c",
-        "title": "Home Depot (HD) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/home-depot-hd-gains-market-214509017.html",
-        "providerPublishTime": 1657748709,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aZJISTBDbLQprkAivv8_Zw--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
-                    "width": 900,
-                    "height": 876,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gzj3SiD9eD0uG5FsmaII7Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HD"
-        ]
-    },
-    "8e05d4b1-505f-3377-a5bc-3163dfb7928d": {
-        "uuid": "8e05d4b1-505f-3377-a5bc-3163dfb7928d",
-        "title": "3 Recession-Proof Dow Stocks Investors Bought After Today's Red-Hot Inflation Report",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8e05d4b1-505f-3377-a5bc-3163dfb7928d/3-recession-proof-dow-stocks.html",
-        "providerPublishTime": 1657745700,
-        "type": "STORY",
-        "relatedTickers": [
-            "^DJI",
-            "HD",
-            "NKE",
-            "PG"
-        ]
-    },
-    "affa674d-3e49-3511-a093-ea93097f5826": {
-        "uuid": "affa674d-3e49-3511-a093-ea93097f5826",
-        "title": "Home Depot Stock Gets Targeted As A Short Sale Idea; Why This Option Play Can Earn $1,750",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/affa674d-3e49-3511-a093-ea93097f5826/home-depot-stock-gets.html",
-        "providerPublishTime": 1657740816,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.hS_WioFCII.WkQK0rbhZw--~B/aD02NDU7dz0xMTE1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yVJY5uOYc6Nb3T7ZWWq.yQ--~B/aD02NDU7dz0xMTE1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9f2fcd8eb6f10ed7ab254d254be7eea7",
-                    "width": 1115,
-                    "height": 645,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4nx7fCKk1.o_B8kK.3h1Yg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yVJY5uOYc6Nb3T7ZWWq.yQ--~B/aD02NDU7dz0xMTE1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/9f2fcd8eb6f10ed7ab254d254be7eea7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HD"
         ]
     }
 }

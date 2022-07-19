@@ -1,4 +1,53 @@
 {
+    "e9306cfe-6e67-3666-ad92-a310dcf2aef2": {
+        "uuid": "e9306cfe-6e67-3666-ad92-a310dcf2aef2",
+        "title": "UPDATE 1-EU signs COVID-19 drug procurement deal with Gilead",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-eu-signs-covid-19-111735043.html",
+        "providerPublishTime": 1658229455,
+        "type": "STORY",
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "bc7be9e7-5ec8-352b-aedf-a992b86ab329": {
+        "uuid": "bc7be9e7-5ec8-352b-aedf-a992b86ab329",
+        "title": "REFILE-EU signs COVID-19 therapeutic procurement deal with Gilead",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/eu-signs-covid-19-therapeutic-101453913.html",
+        "providerPublishTime": 1658225693,
+        "type": "STORY",
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "cbd313e8-7abf-30a7-bca0-cb619e5bba53": {
+        "uuid": "cbd313e8-7abf-30a7-bca0-cb619e5bba53",
+        "title": "How To Trade Stocks: Do You Know The Seven Most Important Words On Wall Street?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/cbd313e8-7abf-30a7-bca0-cb619e5bba53/how-to-trade-stocks%3A-do-you.html",
+        "providerPublishTime": 1658145643,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wuK1yPTFAWLd9TN7BIrIAQ--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QNAMPTqWZSSql9j4DtE0uA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/901e2aaee9c54afbc69548c65088cc87",
+                    "width": 1065,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qMa8AufZR9bzfU9hHXLiEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QNAMPTqWZSSql9j4DtE0uA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/901e2aaee9c54afbc69548c65088cc87",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "da392e5a-4eee-37bc-9a97-b67cf5193791": {
         "uuid": "da392e5a-4eee-37bc-9a97-b67cf5193791",
         "title": "Decades of Achievements: Gilead's 35th Anniversary",
@@ -105,88 +154,6 @@
         "relatedTickers": [
             "GILD",
             "^GSPC"
-        ]
-    },
-    "650c5287-960e-331c-b7b8-c63d2e0174c6": {
-        "uuid": "650c5287-960e-331c-b7b8-c63d2e0174c6",
-        "title": "Gilead Sciences to Release Second Quarter 2022 Financial Results on Tuesday, August 2, 2022",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-sciences-release-second-quarter-200500647.html",
-        "providerPublishTime": 1657656300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J6C9EQxPku8N1t1suiOfUg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/anvIbOqbH6BnMGws0nD_eg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/5730c11a6d15b557b7467df4cfc4ac3b",
-                    "width": 480,
-                    "height": 160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1ntkEZSFidywXLSgHE7PRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/anvIbOqbH6BnMGws0nD_eg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/5730c11a6d15b557b7467df4cfc4ac3b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "85ebd338-f7df-358a-81ea-4ecc04b885eb": {
-        "uuid": "85ebd338-f7df-358a-81ea-4ecc04b885eb",
-        "title": "Gilead Sciences Appoints Deborah Telman as Executive Vice President, Corporate Affairs and General Counsel",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-sciences-appoints-deborah-telman-123000568.html",
-        "providerPublishTime": 1657629000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YAB9saXEObbt9GAamsyUbQ--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/.yAe_D1aLK.zu.CePlm7IA--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b69c8895941b2ac15232d2af97f8708b",
-                    "width": 480,
-                    "height": 160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fGmf6XcIeYm_FzsEH97emw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.yAe_D1aLK.zu.CePlm7IA--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b69c8895941b2ac15232d2af97f8708b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "ad7eb25d-6451-35a5-a95f-1f4007827431": {
-        "uuid": "ad7eb25d-6451-35a5-a95f-1f4007827431",
-        "title": "Why NuCana Shares Are Rising Today?",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/why-nucana-shares-rising-today-173629597.html",
-        "providerPublishTime": 1657560989,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KenCvcBPt4obMpwxNVNz6g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/PXYrIbQKISoCBIpnqLhu0g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/948f38dd0264bd69bed94441c380a9c2",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xFBivnn7oIjP9edVq8JkpQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PXYrIbQKISoCBIpnqLhu0g--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/948f38dd0264bd69bed94441c380a9c2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NCNA",
-            "GILD"
         ]
     }
 }
