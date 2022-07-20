@@ -1,106 +1,10 @@
 {
-    "0d68f4c2-63f1-3c2d-9b7f-868083ebd717": {
-        "uuid": "0d68f4c2-63f1-3c2d-9b7f-868083ebd717",
-        "title": "Tech Stocks Rise After Apple\u2019s Hiring Slowdown",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/0d68f4c2-63f1-3c2d-9b7f-868083ebd717/tech-stocks-rise-after.html",
-        "providerPublishTime": 1658232660,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w2uZpMu.wry7UfLy7manAw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0bMzXCoMhn6v5cwtVwcepA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "ORCL",
-            "AMZN",
-            "AAPL",
-            "IBM"
-        ]
-    },
-    "f1f398b5-e38f-3f10-8977-d05a935c9fc4": {
-        "uuid": "f1f398b5-e38f-3f10-8977-d05a935c9fc4",
-        "title": "Microsoft Is \u2018Good Place to Hide\u2019 in a Recession. This Analyst Cut His Price Target Anyway.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/f1f398b5-e38f-3f10-8977-d05a935c9fc4/microsoft-is-%E2%80%98good-place-to.html",
-        "providerPublishTime": 1658230860,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y.nZ1xLnWPvO8DfdXW_jyA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zAoR3dTlwvfIx73Gh28iEA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/074f58ff7fd268d3989dc53314647f56",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mtUqbjb9BLqlZVyarZCGPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zAoR3dTlwvfIx73Gh28iEA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/074f58ff7fd268d3989dc53314647f56",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "4f63aaa8-ab79-3f8c-9d73-0ccf3d749ef6": {
-        "uuid": "4f63aaa8-ab79-3f8c-9d73-0ccf3d749ef6",
-        "title": "Japanese Game Maker Nippon Ichi Is Overlooked Winner of Weak Yen",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/japanese-game-maker-nippon-ichi-044500719.html",
-        "providerPublishTime": 1658211427,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nqQ1hOWbaYh1tmf6YHcZCA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7s0uVoZi2okWcDg2Hze6eg--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/2bfaf42fdf7b5b891a8c1270142fdd40",
-                    "width": 1296,
-                    "height": 756,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DcE.fVnfv0jmVoLPMPNqMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7s0uVoZi2okWcDg2Hze6eg--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/2bfaf42fdf7b5b891a8c1270142fdd40",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NCBDF",
-            "NCBDY",
-            "MSFT",
-            "3851.T",
-            "3635.T",
-            "SNEJF",
-            "SONY",
-            "SQNNY",
-            "SQNXF",
-            "3723.T",
-            "JPY=X",
-            "JPYUSD=X"
-        ]
-    },
     "61f65d65-44fd-3345-9b6b-f90f2a77cb7c": {
         "uuid": "61f65d65-44fd-3345-9b6b-f90f2a77cb7c",
-        "title": "Netflix Earnings Are Coming. Subscriber Growth Is Still a Worry.",
+        "title": "Netflix Lost Fewer Subscribers Than Expected in the Latest Quarter. The Stock Is Higher.",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/61f65d65-44fd-3345-9b6b-f90f2a77cb7c/netflix-earnings-are-coming..html",
-        "providerPublishTime": 1658205000,
+        "link": "https://finance.yahoo.com/m/61f65d65-44fd-3345-9b6b-f90f2a77cb7c/netflix-lost-fewer.html",
+        "providerPublishTime": 1658272980,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -119,28 +23,30 @@
             ]
         },
         "relatedTickers": [
-            "NFLX",
             "MSFT",
+            "DIS",
+            "ROKU",
+            "NFLX",
             "CMCSA"
         ]
     },
-    "589218e0-6d32-376c-8b35-ab8dff9d180c": {
-        "uuid": "589218e0-6d32-376c-8b35-ab8dff9d180c",
-        "title": "Apple Joins Fellow Tech Giants in Putting a Lid on Hiring",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/apple-joins-fellow-tech-giants-224622345.html",
-        "providerPublishTime": 1658184382,
+    "27706037-ca68-448c-8b80-5a84266377ef": {
+        "uuid": "27706037-ca68-448c-8b80-5a84266377ef",
+        "title": "Netflix sheds 1 million users in Q2 \u2014 why one analyst says that's still 'good' news",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-sheds-1-million-users-in-q-2-why-one-analyst-says-thats-still-good-news-230642685.html",
+        "providerPublishTime": 1658272002,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cVD3kP0ymlrqBb5BnDA17g--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ceMRfnyLgpxqO2tWi4sQmA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/286203513a14a69c1d97d6cc95377de0",
-                    "width": 1296,
-                    "height": 756,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kyQ.rhZApvhQ9YYPCJ2HoQ--~B/aD0zMjQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
+                    "width": 5760,
+                    "height": 3240,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sxKEv2pkTlHIbw_XRT.aXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ceMRfnyLgpxqO2tWi4sQmA--~B/aD03NTY7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/286203513a14a69c1d97d6cc95377de0",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v0ikOe0U2UdevBtua4U6bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -148,35 +54,68 @@
             ]
         },
         "relatedTickers": [
-            "META",
+            "MSFT",
+            "DIS",
+            "AMZN",
+            "PARA",
+            "PARAA",
+            "PARAP",
             "AAPL",
-            "TSLA",
-            "IBM",
+            "WBD",
+            "NFLX"
+        ]
+    },
+    "5f2ae615-4f86-444e-bff3-1f21eec96d9b": {
+        "uuid": "5f2ae615-4f86-444e-bff3-1f21eec96d9b",
+        "title": "Netflix shares jump as Q2 subscribers beat estimates",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-q-2-earnings-170448268.html",
+        "providerPublishTime": 1658264108,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uev5xRWUBPGUE7jI4NFy3g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
+                    "width": 6000,
+                    "height": 4000,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s2N5Nj2hugYoxeKo8YGU6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "AAPL",
             "MSFT",
             "NFLX",
-            "PTON",
-            "GOOG",
-            "GOOGL",
-            "AMZN"
+            "DIS",
+            "WBD"
         ]
     },
-    "a81f6781-f2ef-3adf-a23a-16e9f75658ef": {
-        "uuid": "a81f6781-f2ef-3adf-a23a-16e9f75658ef",
-        "title": "IBM Second-Quarter Earnings Advance on 9% Sales Growth",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/a81f6781-f2ef-3adf-a23a-16e9f75658ef/ibm-second-quarter-earnings.html",
-        "providerPublishTime": 1658184360,
-        "type": "STORY",
+    "43c3fbe0-ec32-3247-baac-7ad487b1592c": {
+        "uuid": "43c3fbe0-ec32-3247-baac-7ad487b1592c",
+        "title": "Microsoft debuts workplace social app Viva Engage",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/microsoft-debuts-workplace-social-app-193105560.html",
+        "providerPublishTime": 1658259065,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eWdtNQPN57D09BwUChiUPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L_XKZ77qJXhi9gAx7DYbSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/595d13c4be63765fc886fd13ce34564a",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/q9q0CbHhld2Bj2GGQaMbWA--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/544a4e60-0799-11ed-9d4d-b1c70a78d184",
+                    "width": 2673,
+                    "height": 1501,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JIXnZBDkwRzUD4BJJud9Sg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L_XKZ77qJXhi9gAx7DYbSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/595d13c4be63765fc886fd13ce34564a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iyzOPc0tavWCQcctrCD4xA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/544a4e60-0799-11ed-9d4d-b1c70a78d184",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -184,58 +123,40 @@
             ]
         },
         "relatedTickers": [
-            "KD",
-            "GOOG",
-            "GOOGL",
             "MSFT",
             "META",
-            "IBM"
+            "ZM"
         ]
     },
-    "cfc5db28-bfe9-3638-85ab-5aa068032171": {
-        "uuid": "cfc5db28-bfe9-3638-85ab-5aa068032171",
-        "title": "Microsoft (MSFT) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-214509142.html",
-        "providerPublishTime": 1658180709,
+    "0b45759a-6529-32b7-80fc-117a6746c787": {
+        "uuid": "0b45759a-6529-32b7-80fc-117a6746c787",
+        "title": "UPDATE 1-Activision unit's QA workers file paperwork to form union",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-activision-units-qa-workers-165830991.html",
+        "providerPublishTime": 1658249910,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
-                    "width": 900,
-                    "height": 745,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
+            "ATVI",
             "MSFT"
         ]
     },
-    "9944e128-5b78-31bc-8325-c3308553d527": {
-        "uuid": "9944e128-5b78-31bc-8325-c3308553d527",
-        "title": "Is Salesforce A Buy Or Sell As Software Growth Stocks Struggle?",
+    "65b53896-faf4-3a06-9d0d-a63cf3c83192": {
+        "uuid": "65b53896-faf4-3a06-9d0d-a63cf3c83192",
+        "title": "5 Dow Jones Stocks To Buy And Watch In July: Apple Rebounds From Sell-Off",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9944e128-5b78-31bc-8325-c3308553d527/is-salesforce-a-buy-or-sell.html",
-        "providerPublishTime": 1658175955,
+        "link": "https://finance.yahoo.com/m/65b53896-faf4-3a06-9d0d-a63cf3c83192/5-dow-jones-stocks-to-buy-and.html",
+        "providerPublishTime": 1658249673,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4fXU353DoRlPIs7jOlOeww--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HX4Lps6aWcWpdNa3h7gllg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6a9c339816a6cb16c4be875e2944119b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iwSZ12lI1Xo.zPzrDDYb3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JPX5jeyihDRi4N6ueuYJVQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ed4e9880b0c3e9257977ca3554a6c383",
                     "width": 1000,
                     "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J3Jb4yyORmaKQy90SNJ.jA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HX4Lps6aWcWpdNa3h7gllg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/6a9c339816a6cb16c4be875e2944119b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eCyTajpMPLgLowqxFTLUyQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JPX5jeyihDRi4N6ueuYJVQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ed4e9880b0c3e9257977ca3554a6c383",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -243,10 +164,78 @@
             ]
         },
         "relatedTickers": [
-            "CRM",
-            "DATA",
+            "^DJI",
             "MSFT",
-            "GOOGL"
+            "AAPL"
+        ]
+    },
+    "f8fd0784-7892-3ef7-9b9b-52832ba6d706": {
+        "uuid": "f8fd0784-7892-3ef7-9b9b-52832ba6d706",
+        "title": "Workers at Activision Studio Behind \u2018Diablo\u2019\u00a0Seek to Unionize",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/workers-activision-studio-behind-diablo-160528788.html",
+        "providerPublishTime": 1658246728,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0SCIXEto.xjLgbE_EiSxtQ--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/DO57EV2P.c5yBlwmw2F0.g--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/43f7596861d9b436b5cf1269018cf11b",
+                    "width": 3500,
+                    "height": 2333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YMkr1wZNvGM7X6JADcHt.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DO57EV2P.c5yBlwmw2F0.g--~B/aD0yMzMzO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/43f7596861d9b436b5cf1269018cf11b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "NYT",
+            "ATVI",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "AMZN"
+        ]
+    },
+    "115d262f-cb99-3c5d-a5ff-5bc82ca88e6c": {
+        "uuid": "115d262f-cb99-3c5d-a5ff-5bc82ca88e6c",
+        "title": "Facebook Internal Memo on Rivals Undercuts Antitrust Defense",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/facebook-memo-unearthed-congress-undercuts-140000705.html",
+        "providerPublishTime": 1658245640,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/W3ymPgA6Lqd2uiCGEoF3fA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/9FxEsnrstnXsLCi7gxDHFA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/bf87dcd6f015ba3be956deae29d06d06",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ker8xybDeNUBjH2c_drD9w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9FxEsnrstnXsLCi7gxDHFA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/bf87dcd6f015ba3be956deae29d06d06",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PINS",
+            "SNAP",
+            "KIND",
+            "AAPL",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "META",
+            "TWTR",
+            "MSFT"
         ]
     }
 }

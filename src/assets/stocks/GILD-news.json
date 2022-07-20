@@ -1,4 +1,58 @@
 {
+    "11b5beeb-2a7c-3f17-b1df-abae5564d34b": {
+        "uuid": "11b5beeb-2a7c-3f17-b1df-abae5564d34b",
+        "title": "European Commission Signs COVID-19 Drug Procurement Deal With Gilead",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/european-commission-signs-covid-19-163057730.html",
+        "providerPublishTime": 1658248257,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VIsJnpkcxfhgPK3YLEN0iA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/WjPnpJkbM3xxdBSKFR5Jcg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/395b25963a1ec28b0321a32b2651a572",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cECR3OQOovs3Y2E7IjDCDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WjPnpJkbM3xxdBSKFR5Jcg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/395b25963a1ec28b0321a32b2651a572",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "847dadbd-bdc6-3edf-907d-3a3a13717377": {
+        "uuid": "847dadbd-bdc6-3edf-907d-3a3a13717377",
+        "title": "Gilead Sciences Signs New Joint Procurement Agreement with the European Commission for Veklury\u00ae (Remdesivir)",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/gilead-sciences-signs-joint-procurement-130000887.html",
+        "providerPublishTime": 1658235600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tURCLPeUHwmkZdTccUXV6Q--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QGPfqyaTJraR06C0oj8Ivg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b3525bba294c5ac610a24880fd4b87cf",
+                    "width": 480,
+                    "height": 160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ROclNYAPF6BePrlkgdcFKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QGPfqyaTJraR06C0oj8Ivg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b3525bba294c5ac610a24880fd4b87cf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "e9306cfe-6e67-3666-ad92-a310dcf2aef2": {
         "uuid": "e9306cfe-6e67-3666-ad92-a310dcf2aef2",
         "title": "UPDATE 1-EU signs COVID-19 drug procurement deal with Gilead",
@@ -97,63 +151,6 @@
         "relatedTickers": [
             "GILD",
             "HGEN"
-        ]
-    },
-    "a1a382d1-d1af-3ace-98ec-2f2eee40084c": {
-        "uuid": "a1a382d1-d1af-3ace-98ec-2f2eee40084c",
-        "title": "Humanigen's stock tumbles 67% after sharing new clinical data for its COVID-19 treatment",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/a1a382d1-d1af-3ace-98ec-2f2eee40084c/humanigen%27s-stock-tumbles-67%25.html",
-        "providerPublishTime": 1657714172,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "HGEN",
-            "GILD"
-        ]
-    },
-    "16d002ea-84f2-3ce8-b1e7-5d879f367902": {
-        "uuid": "16d002ea-84f2-3ce8-b1e7-5d879f367902",
-        "title": "Gilead Sciences (GILD) Stock Moves -0.51%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/gilead-sciences-gild-stock-moves-215009664.html",
-        "providerPublishTime": 1657662609,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/icWwTnXD.RDbbaiJecovTw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9hmYK3wZFQeDq1Iw4TW61Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD",
-            "^GSPC"
         ]
     }
 }

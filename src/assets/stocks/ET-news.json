@@ -1,4 +1,49 @@
 {
+    "0d2e4341-6640-38aa-ac82-8a622bea70bd": {
+        "uuid": "0d2e4341-6640-38aa-ac82-8a622bea70bd",
+        "title": "Soros Backs O\u2019Rourke\u2019s Bid for Texas Governor With $1 Million",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/soros-backs-o-rourke-bid-192901482.html",
+        "providerPublishTime": 1658258941,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UXIzcHnNvmGNnTqPSJQMmA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Lx1DdFduF3Kb63JyP2yLRw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/ff8159091e0c7f9bdf2b26c92ff4c064",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MlNUasP.3rtjWI3DJyqPXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Lx1DdFduF3Kb63JyP2yLRw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/ff8159091e0c7f9bdf2b26c92ff4c064",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET",
+            "ET-PC",
+            "ET-PD",
+            "ET-PE"
+        ]
+    },
+    "23f08d1f-49f0-3a2c-91b0-ba51e2b48d65": {
+        "uuid": "23f08d1f-49f0-3a2c-91b0-ba51e2b48d65",
+        "title": "This Oil Stock Is Making a Massive Bet on Natural Gas",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/23f08d1f-49f0-3a2c-91b0-ba51e2b48d65/this-oil-stock-is-making-a.html",
+        "providerPublishTime": 1658066400,
+        "type": "STORY",
+        "relatedTickers": [
+            "NG=F",
+            "CL=F",
+            "COP",
+            "SRE",
+            "ET-PD"
+        ]
+    },
     "c32478c7-7787-34a5-81b5-8d6361d54a4d": {
         "uuid": "c32478c7-7787-34a5-81b5-8d6361d54a4d",
         "title": "Energy Transfer LP (ET) is Attracting Investor Attention: Here is What You Should Know",
@@ -136,47 +181,6 @@
             "ET-PC",
             "ET-PD",
             "ET-PE"
-        ]
-    },
-    "9bfb2124-5784-3643-958f-fbe164d73154": {
-        "uuid": "9bfb2124-5784-3643-958f-fbe164d73154",
-        "title": "Energy Stocks: 2 to Buy and 1 to Avoid in July",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9bfb2124-5784-3643-958f-fbe164d73154/energy-stocks%3A-2-to-buy-and-1.html",
-        "providerPublishTime": 1657290600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.b75Vq3UlgR3z0jr73QNDg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Mp.qDKtHr84b0cWeM.We7A--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6467e7cdfce7336d37c5d4b086389a53",
-                    "width": 1400,
-                    "height": 752,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/prJL_Hd.MVZftXjPpHGJPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Mp.qDKtHr84b0cWeM.We7A--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6467e7cdfce7336d37c5d4b086389a53",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WMB",
-            "OKE",
-            "ET-PD"
-        ]
-    },
-    "d6be2764-58a9-3f6a-a737-4924ea3c44ef": {
-        "uuid": "d6be2764-58a9-3f6a-a737-4924ea3c44ef",
-        "title": "UPDATE 2-Energy Transfer natural gas pipeline explodes near Houston",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-firefighters-extinguish-energy-transfer-190340908.html",
-        "providerPublishTime": 1657220620,
-        "type": "STORY",
-        "relatedTickers": [
-            "NG=F",
-            "ET-PD"
         ]
     }
 }

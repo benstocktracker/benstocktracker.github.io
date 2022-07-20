@@ -1,4 +1,144 @@
 {
+    "c7e4926e-9b37-38dc-b42f-84bbefff7a26": {
+        "uuid": "c7e4926e-9b37-38dc-b42f-84bbefff7a26",
+        "title": "COVID: CDC unanimously recommends Novavax vaccine for adults",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/covid-cdc-unanimously-recommends-novavaxx-192745709.html",
+        "providerPublishTime": 1658258865,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bge4rlp4XXeQERw7ScEhEA--~B/aD0xOTc0O3c9MzUwNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
+                    "width": 3506,
+                    "height": 1974,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w.oASZrPsoS6Yk9lbmxpbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "MRK",
+            "AZN",
+            "AZNCF",
+            "NVAX",
+            "BNTX",
+            "MRNA",
+            "PFE"
+        ]
+    },
+    "9bb10517-ae65-46e7-96d7-400e8ff49708": {
+        "uuid": "9bb10517-ae65-46e7-96d7-400e8ff49708",
+        "title": "Covid-19 vaccine manufacturing is 'right-sizing': J&J CFO",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/covid-19-manufacturing-is-right-sizing-jj-cfo-164557117.html",
+        "providerPublishTime": 1658249179,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yJckYfDirC2srIjQ2ws_VA--~B/aD0yNDAwO3c9MzYwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-04/0316b9f0-c015-11ec-9fff-1a31072b1c18",
+                    "width": 3600,
+                    "height": 2400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uZtU6ZdG1.gJaAyFxurjmA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-04/0316b9f0-c015-11ec-9fff-1a31072b1c18",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BNTX",
+            "PFE",
+            "EBS",
+            "JNJ",
+            "AZN",
+            "AZNCF"
+        ]
+    },
+    "8a340d4c-b9e8-341d-97e6-7812e8bf23b5": {
+        "uuid": "8a340d4c-b9e8-341d-97e6-7812e8bf23b5",
+        "title": "Johnson & Johnson CFO: Pharma industry \u2018did a fantastic job in helping curtail\u2019 pandemic effects",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/johnson-johnson-cfo-pharma-industry-154131109.html",
+        "providerPublishTime": 1658245291,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KPwCC7b9vlYCDR4oiEzZ6Q--~B/aD0yMDk7dz0zNzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2a9e7b60-0779-11ed-afeb-6ca9cb7c78a6",
+                    "width": 373,
+                    "height": 209,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/q6Syh3Q9neatOfNb2YclhQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2a9e7b60-0779-11ed-afeb-6ca9cb7c78a6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "JNJ",
+            "MRNA",
+            "NVAX",
+            "BNTX"
+        ]
+    },
+    "8a396a27-8d22-3c05-afc5-fc7188550f50": {
+        "uuid": "8a396a27-8d22-3c05-afc5-fc7188550f50",
+        "title": "GSK Completes Demerger of Consumer Healthcare Business",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/gsk-completes-demerger-consumer-healthcare-142402580.html",
+        "providerPublishTime": 1658240642,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OzqoHpmQtUN54ovmQb5mOw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xv6z5qOXwMUPNA44Zi9mdw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "PFE",
+            "GSK",
+            "MRK"
+        ]
+    },
+    "602e5451-d1a7-3a07-982e-fc040456d370": {
+        "uuid": "602e5451-d1a7-3a07-982e-fc040456d370",
+        "title": "Covid-19 vaccines: shape-shifting virus puts agile manufacturers at an advantage",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/602e5451-d1a7-3a07-982e-fc040456d370/covid-19-vaccines%3A.html",
+        "providerPublishTime": 1658239252,
+        "type": "STORY",
+        "relatedTickers": [
+            "AZN",
+            "AZNCF",
+            "PFE"
+        ]
+    },
     "adf333b6-b91d-36cd-ad87-30cebbb5cac3": {
         "uuid": "adf333b6-b91d-36cd-ad87-30cebbb5cac3",
         "title": "Coronavirus tally: CDC panel to discuss Novavax vaccine in move expected to remove final regulatory block to its use",
@@ -83,142 +223,6 @@
         "relatedTickers": [
             "MRNA",
             "MRK",
-            "PFE"
-        ]
-    },
-    "546d8b1d-1aba-3083-98ad-52d49d8f8738": {
-        "uuid": "546d8b1d-1aba-3083-98ad-52d49d8f8738",
-        "title": "EU regulator reviews Pfizer-BioNTech COVID shot in children as young as 6 months",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/eu-regulator-reviews-pfizer-biontech-152253122.html",
-        "providerPublishTime": 1658157773,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE",
-            "BNTX"
-        ]
-    },
-    "ee46ae4e-605c-3332-8521-53f6e971e60c": {
-        "uuid": "ee46ae4e-605c-3332-8521-53f6e971e60c",
-        "title": "AbbVie (ABBV) Seeks EU Nod for Atogepant to Prevent Migraine",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-seeks-eu-nod-152003745.html",
-        "providerPublishTime": 1658157603,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sBy0Jqrq1puvNI83AuaseQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/J5PJq8rtkuiBcDVdnbD5LA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd916198e87314e1ef238f8179e6227",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rFj6uz1yhoLFyrXhNS1E4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J5PJq8rtkuiBcDVdnbD5LA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd916198e87314e1ef238f8179e6227",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "BHVN",
-            "PFE",
-            "MRK"
-        ]
-    },
-    "6d8c2910-461a-300e-ac55-880d21fc3230": {
-        "uuid": "6d8c2910-461a-300e-ac55-880d21fc3230",
-        "title": "10 New Stock Picks of Bruce Kovner\u2019s Caxton Associates",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stock-picks-bruce-kovner-124809079.html",
-        "providerPublishTime": 1658148489,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WAULvQl_aECAH7L.exV2FA--~B/aD02MDA7dz01MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/_GBcAxcr_.jnxvwujPUUAQ--~B/aD02MDA7dz01MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a88b48a58d205ba3c1d11f97007c2f1a",
-                    "width": 520,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QGvnXXpUOxVfu83Igv2fJw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_GBcAxcr_.jnxvwujPUUAQ--~B/aD02MDA7dz01MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a88b48a58d205ba3c1d11f97007c2f1a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T-PC",
-            "BK",
-            "PG",
-            "IAC",
-            "MNST",
-            "PFE",
-            "TSLA",
-            "MSFT"
-        ]
-    },
-    "07614660-4bf7-3a39-92b0-75247d29a4fd": {
-        "uuid": "07614660-4bf7-3a39-92b0-75247d29a4fd",
-        "title": "10 Best Stocks to Buy According to DE Shaw",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-according-124614810.html",
-        "providerPublishTime": 1658148374,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WTG3SxDBZ3iS63TJDf_Y.w--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/px093fu9nR0cc3IMs3a.Cg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8aa44d1a3c48ce4fb61af736251fafe7",
-                    "width": 450,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_z.W5af_FXWde8oZ7.G1PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/px093fu9nR0cc3IMs3a.Cg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8aa44d1a3c48ce4fb61af736251fafe7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "F",
-            "PYPL",
-            "MPC",
-            "GOOGL",
-            "MSFT",
-            "AMZN"
-        ]
-    },
-    "3f4572a3-d431-3b4a-ac02-00b5b4db6a3d": {
-        "uuid": "3f4572a3-d431-3b4a-ac02-00b5b4db6a3d",
-        "title": "GSK Lists Consumer Healthcare Unit in London",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/video/gsk-lists-consumer-healthcare-unit-093503583.html",
-        "providerPublishTime": 1658136903,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gqE07tvz4i.1VaNdz2nVyg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jgFzQyqWeXq6BRA15swI7Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_video_2/a31d23205a9efe96ba6a1183f38aebfe",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZQpl0_WA1GvCy_LKosKVGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jgFzQyqWeXq6BRA15swI7Q--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_video_2/a31d23205a9efe96ba6a1183f38aebfe",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "PFE"
         ]
     }
