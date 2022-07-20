@@ -1,4 +1,115 @@
 {
+    "e83cf0a1-fcea-38e4-a1fa-94c680ae467e": {
+        "uuid": "e83cf0a1-fcea-38e4-a1fa-94c680ae467e",
+        "title": "Starbucks Announces Q3 Fiscal Year 2022 Results Conference Call",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/starbucks-announces-q3-fiscal-2022-200500256.html",
+        "providerPublishTime": 1658261100,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iuj.YX3CGfuOkZgCl5KBAA--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2SnDy.Om7jqphLumcFKtTQ--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/4c8026bda3f6b0fedabde6edc58d0162",
+                    "width": 480,
+                    "height": 480,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/neQZ.UY4AgnZyEGZ5fI1qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2SnDy.Om7jqphLumcFKtTQ--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/4c8026bda3f6b0fedabde6edc58d0162",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "b170ed28-0f8b-32e6-a0cb-497f6f575a98": {
+        "uuid": "b170ed28-0f8b-32e6-a0cb-497f6f575a98",
+        "title": "Starbucks CEO says coffee chain to close \u2018many more\u2019 stores, citing safety concerns",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/starbucks-ceo-says-coffee-chain-160751203.html",
+        "providerPublishTime": 1658246871,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iBXUmaUiarzzL6YwPdyW3A--~B/aD0yMDIzO3c9MzYwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ee3abf40-077c-11ed-a32e-1d75965d089c",
+                    "width": 3600,
+                    "height": 2023,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KftQ6Fzim6w7kMwuOPOjhw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ee3abf40-077c-11ed-a32e-1d75965d089c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "0dbc51b3-dac7-3ad3-8c31-f564cfcec5ae": {
+        "uuid": "0dbc51b3-dac7-3ad3-8c31-f564cfcec5ae",
+        "title": "Only 1 Coffee Stock Is Still Growing. Is It a Buy?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0dbc51b3-dac7-3ad3-8c31-f564cfcec5ae/only-1-coffee-stock-is-still.html",
+        "providerPublishTime": 1658240100,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CSTnZAID2obtEp4RHPeP4Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hcvHJDRrnwWVlyLb_Z.LsA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e7f7e97c149e29f5d240d98ee76f900f",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1GQjICKYQkgQ6SDWq_6.6g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hcvHJDRrnwWVlyLb_Z.LsA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e7f7e97c149e29f5d240d98ee76f900f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KC=F",
+            "BROS",
+            "SBUX"
+        ]
+    },
+    "d9d0f530-ebf0-3a3e-a2b5-21c22166cd47": {
+        "uuid": "d9d0f530-ebf0-3a3e-a2b5-21c22166cd47",
+        "title": "Analysts Estimate Starbucks (SBUX) to Report a Decline in Earnings: What to Look Out for",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/analysts-estimate-starbucks-sbux-report-140102494.html",
+        "providerPublishTime": 1658239262,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/oMKb0aDck8IpQx0xUmmnpQ--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                    "width": 900,
+                    "height": 618,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/az2jqXhqyZRic77Cn4mQiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "DPUKY"
+        ]
+    },
     "ff740fdd-298f-3b16-bcf6-f9138339c870": {
         "uuid": "ff740fdd-298f-3b16-bcf6-f9138339c870",
         "title": "Who are the Financial Leaders of Tomorrow?",
@@ -107,92 +218,6 @@
             "TWTR",
             "SBUX",
             "TSLA"
-        ]
-    },
-    "ec35ee1a-a34e-4b5d-9de4-ae3fa3913107": {
-        "uuid": "ec35ee1a-a34e-4b5d-9de4-ae3fa3913107",
-        "title": "Twitter-Musk, Starbucks closures, Google and antitrust: 3 legal stories to watch",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/news/twitter-musk-starbucks-google-legal-stories-to-watch-131036983.html",
-        "providerPublishTime": 1658149836,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iltCKqNixl6ieaIWdEJZTQ--~B/aD0zMzcwO3c9NDc2ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d8b0cb10-0687-11ed-bd17-fcdd5c104a1e",
-                    "width": 4768,
-                    "height": 3370,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uO1ibe7guXdYPBbWV_XeuA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d8b0cb10-0687-11ed-bd17-fcdd5c104a1e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "TSLA",
-            "SBUX",
-            "TWTR"
-        ]
-    },
-    "1d126c23-6fa2-3f83-aa99-e0f39f675fb4": {
-        "uuid": "1d126c23-6fa2-3f83-aa99-e0f39f675fb4",
-        "title": "What Tech Earnings Will Tell Us About a Second-Half Recession",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/1d126c23-6fa2-3f83-aa99-e0f39f675fb4/what-tech-earnings-will-tell.html",
-        "providerPublishTime": 1658140680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/l.gExVQmw9CTvLABFWd6mg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7E3oIfPGk13repx4QPPvlg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6f60e681ede5dc6d805280d713414b61",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5C64QSiLV8f1eTTL4iLuzg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7E3oIfPGk13repx4QPPvlg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6f60e681ede5dc6d805280d713414b61",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "IBM",
-            "SBUX",
-            "^IXIC",
-            "BA"
-        ]
-    },
-    "a2d30fc1-1544-3420-b81a-6cc68a1815af": {
-        "uuid": "a2d30fc1-1544-3420-b81a-6cc68a1815af",
-        "title": "Starbucks examines sale of its UK business",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/a2d30fc1-1544-3420-b81a-6cc68a1815af/starbucks-examines-sale-of.html",
-        "providerPublishTime": 1658073594,
-        "type": "STORY",
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "25fdd20b-1a87-3ad4-9a6e-2ebfb6935cff": {
-        "uuid": "25fdd20b-1a87-3ad4-9a6e-2ebfb6935cff",
-        "title": "3 Undervalued Stocks to Buy in the Second Half of 2022",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/25fdd20b-1a87-3ad4-9a6e-2ebfb6935cff/3-undervalued-stocks-to-buy.html",
-        "providerPublishTime": 1658068200,
-        "type": "STORY",
-        "relatedTickers": [
-            "AMZN",
-            "DIS",
-            "SBUX"
         ]
     }
 }

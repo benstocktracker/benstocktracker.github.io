@@ -1,4 +1,60 @@
 {
+    "c81fdb3c-7877-33d0-8bc6-0ca188fef073": {
+        "uuid": "c81fdb3c-7877-33d0-8bc6-0ca188fef073",
+        "title": "Costco (COST) Stock Presents Enough Reasons to Stay Invested",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/costco-cost-stock-presents-enough-141502494.html",
+        "providerPublishTime": 1658240102,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_ylBvzmCC_NTRSOFQJ6yZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/cvFwgP.qJZ8Rxahn7Y4hEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/44263f48df9be6f8f1d10cb79541249a",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pnMV3Yiao7dAcREUE6_1qQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cvFwgP.qJZ8Rxahn7Y4hEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/44263f48df9be6f8f1d10cb79541249a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COST",
+            "BOOT",
+            "KR"
+        ]
+    },
+    "51aa7c22-6ca6-3795-81ac-86c6be77c8d9": {
+        "uuid": "51aa7c22-6ca6-3795-81ac-86c6be77c8d9",
+        "title": "Costco CEO Says Membership Fee Hikes Are Unlikely, Despite Inflation",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/51aa7c22-6ca6-3795-81ac-86c6be77c8d9/costco-ceo-says-membership.html",
+        "providerPublishTime": 1658233962,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R_h85Qlm1DURjBlyee0GdA--~B/aD05MzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6uRER61xGL0qnRchPKPaAQ--~B/aD05MzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/262e73abc167c3175427a2b802c0f6ee",
+                    "width": 1400,
+                    "height": 930,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_6ziAtfb9wLfnnvNZdWo2A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6uRER61xGL0qnRchPKPaAQ--~B/aD05MzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/262e73abc167c3175427a2b802c0f6ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COST"
+        ]
+    },
     "c69679eb-4799-31ec-af65-aa15c8b8ee7d": {
         "uuid": "c69679eb-4799-31ec-af65-aa15c8b8ee7d",
         "title": "Costco again reverses course on Cincinnati store's closure",
@@ -197,63 +253,6 @@
             "MA",
             "CBOE",
             "STLD"
-        ]
-    },
-    "a55fe3b3-8969-35d0-bacd-7821389ced39": {
-        "uuid": "a55fe3b3-8969-35d0-bacd-7821389ced39",
-        "title": "Costco: A Defensive Stock in the Face of the Oncoming Recession",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/costco-defensive-stock-face-coming-221141086.html",
-        "providerPublishTime": 1657923101,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sAXNRbD1s6icqhD_IU9tmw--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lF2dJPd5JORVFwisOeX2UQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/def28173234aa551a7e03105339d6430",
-                    "width": 1000,
-                    "height": 667,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y.Lzw8oH0i89w94EiAWQVg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lF2dJPd5JORVFwisOeX2UQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/def28173234aa551a7e03105339d6430",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COST"
-        ]
-    },
-    "92cc4d87-215e-3688-ae24-242fb1172c5f": {
-        "uuid": "92cc4d87-215e-3688-ae24-242fb1172c5f",
-        "title": "Stock Market Green To End The Week; Health Care Giant's Earnings Report Upbeat",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/92cc4d87-215e-3688-ae24-242fb1172c5f/stock-market-green-to-end-the.html",
-        "providerPublishTime": 1657902240,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UCmU45U49KKizvuCHwTTWg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8YJYT34BkSeGxwY6VRoYCg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ef61d665bb812fb182953047542522ef",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p897d_A8kLCGL3Q2QNypsg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8YJYT34BkSeGxwY6VRoYCg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ef61d665bb812fb182953047542522ef",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "UNH",
-            "^DJI",
-            "COST",
-            "OPCH"
         ]
     }
 }

@@ -1,4 +1,87 @@
 {
+    "80ed00ed-c6e5-388c-8775-5fc5d93b6365": {
+        "uuid": "80ed00ed-c6e5-388c-8775-5fc5d93b6365",
+        "title": "AT&T Q2 Preview: Trouble Ahead?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/t-q2-preview-trouble-ahead-200208768.html",
+        "providerPublishTime": 1658260928,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gOLhSKcUVb2OWudkaG4.7Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HtyUi9lIxOVw5KyFugy0FQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/885d57466f3f91311899d9e04e91c2bb",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H5pOI8Cl0bklelUFVucB_Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HtyUi9lIxOVw5KyFugy0FQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/885d57466f3f91311899d9e04e91c2bb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC"
+        ]
+    },
+    "5c01608f-a08e-3b0e-a76a-d484b536deec": {
+        "uuid": "5c01608f-a08e-3b0e-a76a-d484b536deec",
+        "title": "AT&T Looks Impressive to a T Ahead of Earnings",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/5c01608f-a08e-3b0e-a76a-d484b536deec/at%26t-looks-impressive-to-a-t.html",
+        "providerPublishTime": 1658249220,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/laFKIxFY8moYdIq3L_f67g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lx.rxd3oDCkiZMPTOAkAtQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/790f9b6653a8d15ce6eb9b26c066ccbe",
+                    "width": 1200,
+                    "height": 800,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OPzhF0aqhuRHYOj_au3hyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lx.rxd3oDCkiZMPTOAkAtQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/790f9b6653a8d15ce6eb9b26c066ccbe",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC"
+        ]
+    },
+    "1cc6c2c4-6c24-3716-ad29-ee550ebc0a9b": {
+        "uuid": "1cc6c2c4-6c24-3716-ad29-ee550ebc0a9b",
+        "title": "State of Indiana and AT&T Collaborate on Plan to Deliver Fiber-Powered Broadband to Portions of Nine Indiana Counties",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/state-indiana-t-collaborate-plan-140000492.html",
+        "providerPublishTime": 1658239200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8iTVp1geUJ0_sPPQvOAllA--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kwHByhNLrSOZjdv3Cg.Sig--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/0c8d14fa161d1b8f9160bcd25add14b3",
+                    "width": 400,
+                    "height": 232,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1U58aXJ8thVuZhO7IxHvGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kwHByhNLrSOZjdv3Cg.Sig--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/0c8d14fa161d1b8f9160bcd25add14b3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC"
+        ]
+    },
     "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e": {
         "uuid": "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e",
         "title": "AT&T, Verizon, and T-Mobile Earnings Are Coming. Key Areas to Watch.",
@@ -156,93 +239,6 @@
             "MCY",
             "JNJ",
             "MRK"
-        ]
-    },
-    "dfc0cb02-06f7-31c8-899f-5ff4b9f77cf3": {
-        "uuid": "dfc0cb02-06f7-31c8-899f-5ff4b9f77cf3",
-        "title": "Will Revenue Contraction Affect AT&T's (T) Q2 Earnings?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/revenue-contraction-affect-ts-t-120812060.html",
-        "providerPublishTime": 1658146092,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/upw2sTF6AnK21B92XqnJVg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Y_seVz6GImZNv8vALwd3Jg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6c59cb20a90faaff4e2d025cf0e04e97",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CzX.bMb4x1Zl_uwf3SuX_Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Y_seVz6GImZNv8vALwd3Jg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6c59cb20a90faaff4e2d025cf0e04e97",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T-PC",
-            "TU"
-        ]
-    },
-    "da6ba0f1-0d51-3c99-a685-2cff23048505": {
-        "uuid": "da6ba0f1-0d51-3c99-a685-2cff23048505",
-        "title": "Why Telecom Stocks Are Outperforming S&P 500 As Recession Looms",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/da6ba0f1-0d51-3c99-a685-2cff23048505/why-telecom-stocks-are.html",
-        "providerPublishTime": 1658145342,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3Eb5HyxsReYS7NP2QL5NmA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Nxk88BdByOI6lgk_q26hBA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/416aed36b9b4230aeb810dbd37afddde",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9Zut.8aumulRteKMB3JwPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Nxk88BdByOI6lgk_q26hBA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/416aed36b9b4230aeb810dbd37afddde",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T-PC",
-            "VZ",
-            "TMUS",
-            "^GSPC"
-        ]
-    },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp-Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1658145015,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9fI_WqOXfdKTrl_95ea.MA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iX6mLMShJPY6GbxjBKybEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T",
-            "^GSPC"
         ]
     }
 }

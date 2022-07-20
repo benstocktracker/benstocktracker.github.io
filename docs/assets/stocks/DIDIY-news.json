@@ -1,10 +1,37 @@
 {
+    "0b635d8d-9ebd-3131-81e1-f4497730e691": {
+        "uuid": "0b635d8d-9ebd-3131-81e1-f4497730e691",
+        "title": "China warns Pelosi on Taiwan visit, DiDi fined more than $1 billion, Yellen warns of China reliance",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/china-warns-pelosi-taiwan-visit-142521979.html",
+        "providerPublishTime": 1658240721,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZAFlUWqsCDZcVKJYJGJ44A--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/0b635d8d-9ebd-3131-81e1-f4497730e691/2022-07-19/14-25-22/54c2aaa4-76d1-5401-9959-ecb40fd0343e/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s6NGHKZuaTwzxkrLuLLlmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/0b635d8d-9ebd-3131-81e1-f4497730e691/2022-07-19/14-25-22/54c2aaa4-76d1-5401-9959-ecb40fd0343e/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIDIY"
+        ]
+    },
     "1766adc5-f9f4-3a42-980b-e5182d75514e": {
         "uuid": "1766adc5-f9f4-3a42-980b-e5182d75514e",
         "title": "Chinese Regulator to Fine Didi More Than $1 Billion Over Data-Security Breaches",
         "publisher": "The Wall Street Journal",
         "link": "https://finance.yahoo.com/m/1766adc5-f9f4-3a42-980b-e5182d75514e/chinese-regulator-to-fine.html",
-        "providerPublishTime": 1658224320,
+        "providerPublishTime": 1658234700,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [

@@ -1,4 +1,123 @@
 {
+    "3cdf3a93-99b5-3359-a34f-93022a46fd65": {
+        "uuid": "3cdf3a93-99b5-3359-a34f-93022a46fd65",
+        "title": "CHIPS Act: \u2018A lot of apprehension among Republicans\u2019 on spending component, expert says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/chips-act-lot-apprehension-among-211638119.html",
+        "providerPublishTime": 1658265398,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DHoFs9lSBqgbYE3vvXBDDA--~B/aD0xNDQ0O3c9MjU3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0d1d7d50-07a8-11ed-bdd7-a919ae2312cb",
+                    "width": 2573,
+                    "height": 1444,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kgx07C3yB605slVxWEjzuA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0d1d7d50-07a8-11ed-bdd7-a919ae2312cb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "INTC",
+            "TSM",
+            "TXN",
+            "NVDA",
+            "AMD",
+            "QCOM"
+        ]
+    },
+    "22e14745-9f34-3fdc-9791-a366c2e6df3d": {
+        "uuid": "22e14745-9f34-3fdc-9791-a366c2e6df3d",
+        "title": "Major Apple Supplier Taiwan Semiconductor Raises Capital Again Amid Odds",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/major-apple-supplier-taiwan-semiconductor-171521691.html",
+        "providerPublishTime": 1658250921,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U7fbJbYgs1gu428Z1pI1.Q--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/t8kP3lmzVSEoPgeDzpH3fA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7a60c73e2d3b59c70c7c874441a3995f",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wFuWAc_f1XvTEZnvkuRAMw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t8kP3lmzVSEoPgeDzpH3fA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7a60c73e2d3b59c70c7c874441a3995f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM",
+            "AAPL"
+        ]
+    },
+    "9bcae6c4-f808-349c-914c-cea67f08f832": {
+        "uuid": "9bcae6c4-f808-349c-914c-cea67f08f832",
+        "title": "Senate to vote on CHIPS Act, Biden may declare \u2018climate emergency\u2019",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/senate-vote-chips-act-biden-160312495.html",
+        "providerPublishTime": 1658246592,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QYzj9B5anqCT3BtTIje9Mw--~B/aD0yNzA4O3c9NDgyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/41f81570-077c-11ed-9bef-5b4dbfb0aa70",
+                    "width": 4820,
+                    "height": 2708,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Fu2.9SnYol1txvJYg9bfWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/41f81570-077c-11ed-9bef-5b4dbfb0aa70",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "QCOM",
+            "INTC",
+            "TSM",
+            "AMD",
+            "NVDA"
+        ]
+    },
+    "3678613d-881c-35e8-837c-51973aadc5c4": {
+        "uuid": "3678613d-881c-35e8-837c-51973aadc5c4",
+        "title": "Intel Looks To Boost Prices After TSMC Price Hike",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/intel-looks-boost-prices-tsmc-140244472.html",
+        "providerPublishTime": 1658239364,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tMcY12JnxvXO7tSDWwb1zQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wS_czDjaAeIv5UjkF_VomA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/3ee6f37b3e32c00c1aea5bdca1639a8a",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LvArHVf9JFGltUpqzfnM2A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wS_czDjaAeIv5UjkF_VomA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/3ee6f37b3e32c00c1aea5bdca1639a8a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "INTC",
+            "TSM"
+        ]
+    },
     "cb27ff56-cfa8-3913-a9c3-daba12d86b29": {
         "uuid": "cb27ff56-cfa8-3913-a9c3-daba12d86b29",
         "title": "Better Semiconductor Stock: Intel vs. Micron",
@@ -84,99 +203,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/HakhKkM.kFGTY8gF7hmWig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EY1QkZ7TwTRRjF4LlCw8tg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/75a25f3b69e9be73b2ae11197f9903a3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM"
-        ]
-    },
-    "fac926c5-70af-3e96-bd26-3364a2d22bff": {
-        "uuid": "fac926c5-70af-3e96-bd26-3364a2d22bff",
-        "title": "Wall Street Analysts See a 44% Upside in TSMC (TSM): Can the Stock Really Move This High?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/wall-street-analysts-see-44-135501378.html",
-        "providerPublishTime": 1658152501,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-                    "width": 900,
-                    "height": 506,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM"
-        ]
-    },
-    "e438f319-8206-3a3d-9b70-27b2d8635504": {
-        "uuid": "e438f319-8206-3a3d-9b70-27b2d8635504",
-        "title": "Is Taiwan Semiconductor Manufacturing Stock a Buy Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e438f319-8206-3a3d-9b70-27b2d8635504/is-taiwan-semiconductor.html",
-        "providerPublishTime": 1658140800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WD_FodNyOdNPIVfDZ7wYhw--~B/aD05MzY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8rKOf3jj6Ex8qYNQzluZMQ--~B/aD05MzY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c958c0cfe438abccffdc2b9f5b309cec",
-                    "width": 1400,
-                    "height": 936,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jdGOUvrDKyBhq_qoq2c0Mw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8rKOf3jj6Ex8qYNQzluZMQ--~B/aD05MzY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c958c0cfe438abccffdc2b9f5b309cec",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "INTC"
-        ]
-    },
-    "ccd31d10-6781-3d5f-87ef-5ac00bfc7b31": {
-        "uuid": "ccd31d10-6781-3d5f-87ef-5ac00bfc7b31",
-        "title": "Taiwan Semiconductor Indicates the Chip Industry Is Doing Just Fine",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ccd31d10-6781-3d5f-87ef-5ac00bfc7b31/taiwan-semiconductor.html",
-        "providerPublishTime": 1658140140,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSM"
-        ]
-    },
-    "5d0e8a0f-0b7a-38c2-82b5-d981a872a989": {
-        "uuid": "5d0e8a0f-0b7a-38c2-82b5-d981a872a989",
-        "title": "Should You Invest in the VanEck Semiconductor ETF (SMH)?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/invest-vaneck-semiconductor-etf-smh-102010415.html",
-        "providerPublishTime": 1658139610,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QTwafwrkeqiRFbIZ5ZBXFg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/apbC75v0joJeGGZArvqIvw--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/105b2acef7bf0873f24b78932b1fdc3c",
-                    "width": 900,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9PhM3ZlBopegGosMLV3W7A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/apbC75v0joJeGGZArvqIvw--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/105b2acef7bf0873f24b78932b1fdc3c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

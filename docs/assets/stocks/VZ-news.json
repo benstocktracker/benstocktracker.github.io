@@ -1,4 +1,60 @@
 {
+    "08e14057-b5a3-3278-8fe6-46e94579547b": {
+        "uuid": "08e14057-b5a3-3278-8fe6-46e94579547b",
+        "title": "Verizon is first U.S. carrier to offer global financial technology platform SumUp",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-first-u-carrier-offer-150000842.html",
+        "providerPublishTime": 1658242800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "92f236cd-d3b5-37b9-a9a6-1baaee787879": {
+        "uuid": "92f236cd-d3b5-37b9-a9a6-1baaee787879",
+        "title": "5G Stocks To Buy And Watch As Wireless Firms Move Beyond Smartphones",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/92f236cd-d3b5-37b9-a9a6-1baaee787879/5g-stocks-to-buy-and-watch-as.html",
+        "providerPublishTime": 1658236975,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/daV5HhFBicH7GqtjCtPU8Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wGU3J7SL.NrVGu9qSzRErA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d433d66140b3ad73066842ec66b305b",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WyGrwTzt7yDRbawDSkAkcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wGU3J7SL.NrVGu9qSzRErA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7d433d66140b3ad73066842ec66b305b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ",
+            "AAPL",
+            "XLNX"
+        ]
+    },
     "c7c6a9fd-b1f4-3247-9448-cd3a5b9fdbf4": {
         "uuid": "c7c6a9fd-b1f4-3247-9448-cd3a5b9fdbf4",
         "title": "Verizon awarded over $400M modernization contract with FBI",
@@ -150,63 +206,6 @@
         "publisher": "GlobeNewswire",
         "link": "https://finance.yahoo.com/news/verizon-adds-spectrum-faster-speeds-145500855.html",
         "providerPublishTime": 1658156100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "2fa3ea09-df78-38ba-8e57-15cf3badb99a": {
-        "uuid": "2fa3ea09-df78-38ba-8e57-15cf3badb99a",
-        "title": "Here Are Warren Buffett's Favorite High-Yield Dividend Stocks",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/warren-buffetts-favorite-high-yield-144602024.html",
-        "providerPublishTime": 1658155562,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FyFb9SsDFk4erMS2jcXjtQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/tiUh_q1U1CGCLd_iQKBkKw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0cda71b55f05618aff20c7af15db1d83",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/juq_siPWeBwSgAjMvZ7KMQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tiUh_q1U1CGCLd_iQKBkKw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0cda71b55f05618aff20c7af15db1d83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BRK-B",
-            "VZ",
-            "KHC",
-            "C"
-        ]
-    },
-    "0dfe75c9-b61c-3813-bf63-49e036e35f77": {
-        "uuid": "0dfe75c9-b61c-3813-bf63-49e036e35f77",
-        "title": "Verizon Business\u2019 Channel Roadshow Hits Boston",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-business-channel-roadshow-hits-133800799.html",
-        "providerPublishTime": 1658151480,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [

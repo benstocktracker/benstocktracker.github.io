@@ -1,21 +1,21 @@
 {
-    "0d68f4c2-63f1-3c2d-9b7f-868083ebd717": {
-        "uuid": "0d68f4c2-63f1-3c2d-9b7f-868083ebd717",
-        "title": "Tech Stocks Rise After Apple\u2019s Hiring Slowdown",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/0d68f4c2-63f1-3c2d-9b7f-868083ebd717/tech-stocks-rise-after.html",
-        "providerPublishTime": 1658232660,
+    "27706037-ca68-448c-8b80-5a84266377ef": {
+        "uuid": "27706037-ca68-448c-8b80-5a84266377ef",
+        "title": "Netflix sheds 1 million users in Q2 \u2014 why one analyst says that's still 'good' news",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-sheds-1-million-users-in-q-2-why-one-analyst-says-thats-still-good-news-230642685.html",
+        "providerPublishTime": 1658272002,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w2uZpMu.wry7UfLy7manAw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kyQ.rhZApvhQ9YYPCJ2HoQ--~B/aD0zMjQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
+                    "width": 5760,
+                    "height": 3240,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0bMzXCoMhn6v5cwtVwcepA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eSXNMW9CM1XDkaGwfsBDOg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/023c2a99fb589116abe5747b1e603ec0",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v0ikOe0U2UdevBtua4U6bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -24,60 +24,33 @@
         },
         "relatedTickers": [
             "MSFT",
-            "ORCL",
+            "DIS",
             "AMZN",
+            "PARA",
+            "PARAA",
+            "PARAP",
             "AAPL",
-            "IBM"
-        ]
-    },
-    "34733d72-8dad-3b60-a7e4-1634387f759b": {
-        "uuid": "34733d72-8dad-3b60-a7e4-1634387f759b",
-        "title": "IBM, Apple, JNJ, and More of Tuesday\u2019s Stock Market Movers",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/34733d72-8dad-3b60-a7e4-1634387f759b/ibm%2C-apple%2C-jnj%2C-and-more-of.html",
-        "providerPublishTime": 1658230020,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Uwam0_QpZEDe66Mr77AH_g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qaPNePu_uOdZ9gp8EJ7kKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7f2ef5108516056e66115aafd05020c1",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KvuiVF7iLwcCXcEuX_Dmnw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qaPNePu_uOdZ9gp8EJ7kKw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7f2ef5108516056e66115aafd05020c1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HAL",
-            "IBM",
-            "AAPL",
-            "JNJ",
+            "WBD",
             "NFLX"
         ]
     },
-    "622de338-ed2c-33f4-a677-4ea1ecc71d31": {
-        "uuid": "622de338-ed2c-33f4-a677-4ea1ecc71d31",
-        "title": "Is It Too Late To Consider Buying Apple Inc. (NASDAQ:AAPL)?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/too-consider-buying-apple-inc-105544814.html",
-        "providerPublishTime": 1658228144,
+    "5f2ae615-4f86-444e-bff3-1f21eec96d9b": {
+        "uuid": "5f2ae615-4f86-444e-bff3-1f21eec96d9b",
+        "title": "Netflix shares jump as Q2 subscribers beat estimates",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-q-2-earnings-170448268.html",
+        "providerPublishTime": 1658264108,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AAJ5JdfcUKbNPMf7vAz9Ig--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.m1ghW2JIKMrn_021vRckQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/13f69b02f49f819df1dcc276114d4a99",
-                    "width": 1194,
-                    "height": 432,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uev5xRWUBPGUE7jI4NFy3g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
+                    "width": 6000,
+                    "height": 4000,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TEj5_JAIs554cttSWbmKEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.m1ghW2JIKMrn_021vRckQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/13f69b02f49f819df1dcc276114d4a99",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s2N5Nj2hugYoxeKo8YGU6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -85,26 +58,33 @@
             ]
         },
         "relatedTickers": [
-            "AAPL"
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "AAPL",
+            "MSFT",
+            "NFLX",
+            "DIS",
+            "WBD"
         ]
     },
-    "196f42ff-54a8-3af3-87c0-07b945b274cb": {
-        "uuid": "196f42ff-54a8-3af3-87c0-07b945b274cb",
-        "title": "If Apple Sees a Slowdown, What Does It Mean for Everyone Else?",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/196f42ff-54a8-3af3-87c0-07b945b274cb/if-apple-sees-a-slowdown%2C.html",
-        "providerPublishTime": 1658227560,
+    "a9bb10b3-6a0d-33cf-bc11-02e002169726": {
+        "uuid": "a9bb10b3-6a0d-33cf-bc11-02e002169726",
+        "title": "Big Tech Antitrust Bill Backers Push for Vote",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/a9bb10b3-6a0d-33cf-bc11-02e002169726/big-tech-antitrust-bill.html",
+        "providerPublishTime": 1658263920,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4EN6Ne8ojYgxFQnKYBocPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Zw4FppWpea0LG_Xj4EKe_w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/98d3a1b8e2e8f317228f215668b6a9b2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DYUkVEVGEXAcVN.Nq1zbxw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o5oyst.0uukcjLqUsnZBRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/746f80fe6e00aa0cb80a9cfd707ebcf3",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LyPeEq5nc8h3FMzxxfUbWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Zw4FppWpea0LG_Xj4EKe_w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/98d3a1b8e2e8f317228f215668b6a9b2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ohltBlfeA8wyt6S5wcEyNA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o5oyst.0uukcjLqUsnZBRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/746f80fe6e00aa0cb80a9cfd707ebcf3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -112,41 +92,30 @@
             ]
         },
         "relatedTickers": [
-            "MRNA",
-            "^IXIC",
-            "BA",
+            "META",
             "AAPL",
-            "IBM"
+            "GOOG",
+            "GOOGL",
+            "AMZN"
         ]
     },
-    "af73d74e-b83d-3ef4-a8c3-7ac633023cb2": {
-        "uuid": "af73d74e-b83d-3ef4-a8c3-7ac633023cb2",
-        "title": "UPDATE 1-Russia says it will fine Apple for violating antitrust laws",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-russia-says-fine-apple-101940009.html",
-        "providerPublishTime": 1658225980,
-        "type": "STORY",
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "2e064036-9cc0-3e14-975f-62f8797cd62b": {
-        "uuid": "2e064036-9cc0-3e14-975f-62f8797cd62b",
-        "title": "The Zacks Analyst Blog Highlights Apple, UnitedHealth Group, Equinor, GSK and Eaton",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-apple-100510297.html",
-        "providerPublishTime": 1658225110,
+    "fb174634-d17e-3f75-a1ae-1bfa0d9d2f61": {
+        "uuid": "fb174634-d17e-3f75-a1ae-1bfa0d9d2f61",
+        "title": "Dow closes 750 points higher as stocks surge, small caps see biggest advance in 18 months",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/fb174634-d17e-3f75-a1ae-1bfa0d9d2f61/dow-closes-750-points-higher.html",
+        "providerPublishTime": 1658262180,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0ZN8trY5anw6gW96u8Hjvg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/0SNXbTxG2OgdDeKKe4FwJg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/198e4657665063ae21a99b90e6766582",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gZJgmPd0.ePBGVoEncfUDg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kXPFHKWO1rvCZWjmmqb3Sg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d2b04f12c0216200424e81cf659e9d4e",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bS2dfSomrMRZV6fnWjkK0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0SNXbTxG2OgdDeKKe4FwJg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/198e4657665063ae21a99b90e6766582",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/j3RzuuMKIgbfG3pt6rSM6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kXPFHKWO1rvCZWjmmqb3Sg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/d2b04f12c0216200424e81cf659e9d4e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -154,42 +123,32 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
-            "EQNR",
-            "UNH",
-            "^GSPC",
-            "GSK"
+            "EURUSD=X",
+            "USD=X",
+            "EUR=X",
+            "GOOG",
+            "GOOGL",
+            "HAS",
+            "AAPL"
         ]
     },
-    "9e5637dd-3a85-358c-9c9e-d815827da06c": {
-        "uuid": "9e5637dd-3a85-358c-9c9e-d815827da06c",
-        "title": "1 Fat Dividend Stock Down Nearly 50% to Buy Hand Over Fist Right Now",
+    "f820a4b7-bddc-3fd0-8017-025e8241ea49": {
+        "uuid": "f820a4b7-bddc-3fd0-8017-025e8241ea49",
+        "title": "Why Apple, Amazon, and Intel Jumped Higher Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9e5637dd-3a85-358c-9c9e-d815827da06c/1-fat-dividend-stock-down.html",
-        "providerPublishTime": 1658224200,
-        "type": "STORY",
-        "relatedTickers": [
-            "SWKS",
-            "AAPL"
-        ]
-    },
-    "24748de3-5cbc-3295-832e-09be8dc00ed8": {
-        "uuid": "24748de3-5cbc-3295-832e-09be8dc00ed8",
-        "title": "IBEX and Sony have been highlighted as Zacks Bull and Bear of the Day",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ibex-sony-highlighted-zacks-bull-092209037.html",
-        "providerPublishTime": 1658222529,
+        "link": "https://finance.yahoo.com/m/f820a4b7-bddc-3fd0-8017-025e8241ea49/why-apple%2C-amazon%2C-and-intel.html",
+        "providerPublishTime": 1658258616,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ek2wXT4fogjZzOO7nX0pRw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/iaKLFcU.DdVA1BhEHS2daw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/578c75a0bdc2572dd0bbdad8c4aeb25c",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w9L7E4SqSrRj.O73mf95BA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7Vuntjw9RHBEAZUIzUMDQQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8b28140b520e53bd05fb06bd18bd7406",
+                    "width": 1400,
+                    "height": 933,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wKGmayG6c9sMomZ61iVDyw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iaKLFcU.DdVA1BhEHS2daw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/578c75a0bdc2572dd0bbdad8c4aeb25c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ndJ3smYY0SA7R_8Dzns96Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7Vuntjw9RHBEAZUIzUMDQQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8b28140b520e53bd05fb06bd18bd7406",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -197,12 +156,92 @@
             ]
         },
         "relatedTickers": [
-            "DIS",
-            "NFLX",
-            "SONY",
-            "IBEX",
             "AAPL",
-            "^GSPC"
+            "INTC",
+            "AMZN"
+        ]
+    },
+    "485b40b8-40ff-33c0-a1d3-a60eb59a6840": {
+        "uuid": "485b40b8-40ff-33c0-a1d3-a60eb59a6840",
+        "title": "Apple to Pay $50 Million Settlement Over MacBook Butterfly Keyboard Lawsuit",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/485b40b8-40ff-33c0-a1d3-a60eb59a6840/apple-to-pay-%2450-million.html",
+        "providerPublishTime": 1658254020,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/V.HILfDWIpNUzK8T5Ee4VQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bW58TrDqkLxlZ.YLbIEtCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ad5bef1ab5680c0f617ef14f1df49d08",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w_wXgr8Z4.T1dyq1_uu7GA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bW58TrDqkLxlZ.YLbIEtCw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/ad5bef1ab5680c0f617ef14f1df49d08",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL"
+        ]
+    },
+    "22e14745-9f34-3fdc-9791-a366c2e6df3d": {
+        "uuid": "22e14745-9f34-3fdc-9791-a366c2e6df3d",
+        "title": "Major Apple Supplier Taiwan Semiconductor Raises Capital Again Amid Odds",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/major-apple-supplier-taiwan-semiconductor-171521691.html",
+        "providerPublishTime": 1658250921,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U7fbJbYgs1gu428Z1pI1.Q--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/t8kP3lmzVSEoPgeDzpH3fA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7a60c73e2d3b59c70c7c874441a3995f",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wFuWAc_f1XvTEZnvkuRAMw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t8kP3lmzVSEoPgeDzpH3fA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7a60c73e2d3b59c70c7c874441a3995f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM",
+            "AAPL"
+        ]
+    },
+    "1917db88-15e4-3676-b289-8e8ecf356e9a": {
+        "uuid": "1917db88-15e4-3676-b289-8e8ecf356e9a",
+        "title": "Apple\u2019s Outlook Is at Risk as Dollar Surges, Goldman Says",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/1917db88-15e4-3676-b289-8e8ecf356e9a/apple%E2%80%99s-outlook-is-at-risk-as.html",
+        "providerPublishTime": 1658249940,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kOkK95wrNNcaPUmbxMmtWg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hKLPng7VUaKx9meAV4Okdw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3534149f364d2b14db86a3f5e4f268fd",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9_v7zBUc1DyJapuEcuJJWQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hKLPng7VUaKx9meAV4Okdw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3534149f364d2b14db86a3f5e4f268fd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "GS"
         ]
     }
 }

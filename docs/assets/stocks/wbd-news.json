@@ -1,4 +1,104 @@
 {
+    "27706037-ca68-448c-8b80-5a84266377ef": {
+        "uuid": "27706037-ca68-448c-8b80-5a84266377ef",
+        "title": "Netflix sheds 1 million users in Q2 \u2014 why one analyst says that's still 'good' news",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-sheds-1-million-users-in-q-2-why-one-analyst-says-thats-still-good-news-230642685.html",
+        "providerPublishTime": 1658272002,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kyQ.rhZApvhQ9YYPCJ2HoQ--~B/aD0zMjQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
+                    "width": 5760,
+                    "height": 3240,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v0ikOe0U2UdevBtua4U6bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "DIS",
+            "AMZN",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "AAPL",
+            "WBD",
+            "NFLX"
+        ]
+    },
+    "5f2ae615-4f86-444e-bff3-1f21eec96d9b": {
+        "uuid": "5f2ae615-4f86-444e-bff3-1f21eec96d9b",
+        "title": "Netflix shares jump as Q2 subscribers beat estimates",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-q-2-earnings-170448268.html",
+        "providerPublishTime": 1658264108,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uev5xRWUBPGUE7jI4NFy3g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
+                    "width": 6000,
+                    "height": 4000,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s2N5Nj2hugYoxeKo8YGU6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "AAPL",
+            "MSFT",
+            "NFLX",
+            "DIS",
+            "WBD"
+        ]
+    },
+    "cff2c15e-68f9-4eb2-82f0-255f08e28530": {
+        "uuid": "cff2c15e-68f9-4eb2-82f0-255f08e28530",
+        "title": "Disney offers something that streaming competitors \u2018are not offering,\u2019 analyst explains",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/disney-offers-streaming-competitors-analyst-145319113.html",
+        "providerPublishTime": 1658242399,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SE9WaoTqtn8v.8vMzXms2w--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-11/63869750-0222-11ea-ad58-9fff80697811",
+                    "width": 5000,
+                    "height": 3333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/L5ws2SUAZ.osS3y62nVtUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-11/63869750-0222-11ea-ad58-9fff80697811",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "WBD",
+            "AMZN",
+            "AAPL",
+            "NFLX"
+        ]
+    },
     "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e": {
         "uuid": "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e",
         "title": "AT&T, Verizon, and T-Mobile Earnings Are Coming. Key Areas to Watch.",
@@ -56,42 +156,9 @@
             ]
         },
         "relatedTickers": [
+            "WBD",
             "DPZ",
-            "WBD",
             "PZZA"
-        ]
-    },
-    "5f2ae615-4f86-444e-bff3-1f21eec96d9b": {
-        "uuid": "5f2ae615-4f86-444e-bff3-1f21eec96d9b",
-        "title": "Netflix Q2 earnings preview: What to expect as Morgan Stanley warns of 'streaming recession'",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-q-2-earnings-170448268.html",
-        "providerPublishTime": 1658163888,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uev5xRWUBPGUE7jI4NFy3g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
-                    "width": 6000,
-                    "height": 4000,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s2N5Nj2hugYoxeKo8YGU6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "DIS",
-            "WBD",
-            "NFLX",
-            "PARA",
-            "PARAA",
-            "PARAP"
         ]
     },
     "6af65a07-ce37-3619-ad55-d696d1cd8f94": {
@@ -185,72 +252,6 @@
             "DIS",
             "WBD",
             "CMCSA"
-        ]
-    },
-    "5b6217ac-76b7-357e-8987-7dbadb91c9be": {
-        "uuid": "5b6217ac-76b7-357e-8987-7dbadb91c9be",
-        "title": "AT&T Stock Is a Buy Ahead of Earnings, Analyst Says. Watch Its Subscriber Numbers.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/5b6217ac-76b7-357e-8987-7dbadb91c9be/at%26t-stock-is-a-buy-ahead-of.html",
-        "providerPublishTime": 1657800240,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UzNOiDTogqhXyxFg1kgLNA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9TCteKUslOazJ8RXAolwYg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/059111a3bf0ddd7118b4984be4fc605b",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sKuMOPMztPuVpwwcndf7Tw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9TCteKUslOazJ8RXAolwYg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/059111a3bf0ddd7118b4984be4fc605b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "WBD"
-        ]
-    },
-    "dfc39b5b-965f-3f2c-a19f-ca7efdd93795": {
-        "uuid": "dfc39b5b-965f-3f2c-a19f-ca7efdd93795",
-        "title": "2022 Emmy Awards: Streaming shows lead nominations",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/2022-emmy-awards-streaming-shows-212245115.html",
-        "providerPublishTime": 1657660965,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TbGfXxTUp8996PB4OT7guQ--~B/aD0xNDgzO3c9MjY0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c389aa80-0228-11ed-8a57-575d7c4204cf",
-                    "width": 2642,
-                    "height": 1483,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/v58xz5EA_0VxMZQNtnXNnw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c389aa80-0228-11ed-8a57-575d7c4204cf",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "IMAX",
-            "DIS",
-            "WBD",
-            "TTD",
-            "NFLX",
-            "PARA",
-            "PARAA",
-            "PARAP",
-            "AMC",
-            "AAPL"
         ]
     }
 }

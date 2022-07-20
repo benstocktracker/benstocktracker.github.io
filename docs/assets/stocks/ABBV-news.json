@@ -1,4 +1,32 @@
 {
+    "cc87734f-bbb6-368e-a99b-0c68fd301ce6": {
+        "uuid": "cc87734f-bbb6-368e-a99b-0c68fd301ce6",
+        "title": "J&J (JNJ) Beats on Q2 Earnings & Sales, Lowers 2022 Guidance",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/j-j-jnj-beats-q2-132501120.html",
+        "providerPublishTime": 1658237101,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6hgtO7luBTc3xSFU5hzSIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4K8GabCkmtDgO.0ZkJi.oQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "ABBV"
+        ]
+    },
     "61afe8d5-0043-3c2f-a795-f0a530194b09": {
         "uuid": "61afe8d5-0043-3c2f-a795-f0a530194b09",
         "title": "3 Dividend Growth Stocks You Can Buy Now and Hold Forever",
@@ -169,37 +197,6 @@
             "SWAV",
             "LI",
             "DLTR"
-        ]
-    },
-    "09d0c57e-3289-3051-b2b5-01a16fcbbd24": {
-        "uuid": "09d0c57e-3289-3051-b2b5-01a16fcbbd24",
-        "title": "Want to Get Richer? 5 Best Stocks to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/09d0c57e-3289-3051-b2b5-01a16fcbbd24/want-to-get-richer%3F-5-best.html",
-        "providerPublishTime": 1657970100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ReW2cG18kvddhMM_8ZHmrw--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
-                    "width": 1400,
-                    "height": 900,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Mi5a_IEWWO.g8f2.6E0npw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ebUPB_l12ize5qelBlWM9A--~B/aD05MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fc1315f71f2a21d1d06ba3238b0c888f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABT",
-            "PFE",
-            "ABBV",
-            "JNJ",
-            "UNH"
         ]
     }
 }
