@@ -1,4 +1,31 @@
 {
+    "411d6ac3-336a-3714-b465-3af870095192": {
+        "uuid": "411d6ac3-336a-3714-b465-3af870095192",
+        "title": "Should Franklin U.S. Low Volatility High Dividend Index ETF (LVHD) Be on Your Investing Radar?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/franklin-u-low-volatility-high-102010216.html",
+        "providerPublishTime": 1658312410,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/88Fg6KE6GPnh0zlh3tqRTA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pqnfGkvbQ5ArK7CRuvTLzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
     "d5765962-5b08-3450-a5c4-c0039953f73e": {
         "uuid": "d5765962-5b08-3450-a5c4-c0039953f73e",
         "title": "Franklin Templeton Targets More Assets in ETF Overhaul",
@@ -148,18 +175,6 @@
         "relatedTickers": [
             "FTF",
             "BEN"
-        ]
-    },
-    "14322342-6c2c-3d12-aaab-cfeb319d7525": {
-        "uuid": "14322342-6c2c-3d12-aaab-cfeb319d7525",
-        "title": "Templeton Global Income Fund (\"GIM\" or the \"Fund\") Announces Distribution",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-gim-155700090.html",
-        "providerPublishTime": 1657295820,
-        "type": "STORY",
-        "relatedTickers": [
-            "BEN",
-            "GIM"
         ]
     }
 }

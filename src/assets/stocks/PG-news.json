@@ -1,4 +1,114 @@
 {
+    "cbef5245-4981-39bb-a790-ccd3ed9182e3": {
+        "uuid": "cbef5245-4981-39bb-a790-ccd3ed9182e3",
+        "title": "Stocks on the move: Salesforce, Disney, UnitedHealth, Netflix",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-move-salesforce-disney-unitedhealth-144101690.html",
+        "providerPublishTime": 1658328061,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KBwcAagVzVep_XmgfqOtKA--~B/aD0xNTM5O3c9Mjc0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e6f44680-0839-11ed-bfff-ef904b802594",
+                    "width": 2742,
+                    "height": 1539,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qwRNl9jFuIeUQ.wNEm135g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e6f44680-0839-11ed-bfff-ef904b802594",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EXPE",
+            "XLV",
+            "PG",
+            "WMT",
+            "ABNB",
+            "MSFT",
+            "XLRE",
+            "LUV",
+            "XLP",
+            "HLT",
+            "UNH",
+            "BKNG",
+            "NFLX",
+            "XLB",
+            "^DJI",
+            "MAR",
+            "XLU",
+            "AAPL",
+            "XLF",
+            "JNJ",
+            "^IXIC",
+            "XLI",
+            "XLK",
+            "V",
+            "DIS",
+            "BZ=F",
+            "^GSPC",
+            "XLY"
+        ]
+    },
+    "1957cd41-94d6-3b40-a1cb-2daefd697b62": {
+        "uuid": "1957cd41-94d6-3b40-a1cb-2daefd697b62",
+        "title": "P&G and Shopee launch a new exclusive 360\u00b0 virtual home shopping experience that transforms how users shop online",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/p-g-shopee-launch-exclusive-114800325.html",
+        "providerPublishTime": 1658317680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JGQ2PEZoD0eWJikV7VYQUQ--~B/aD0yMjU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/PdLX0aWhhWrPVZRCxT2T2Q--~B/aD0yMjU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/f8e701028458de3973b31631f65a4114",
+                    "width": 400,
+                    "height": 225,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9mDErgOR4vZKpArsfmJUxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PdLX0aWhhWrPVZRCxT2T2Q--~B/aD0yMjU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/f8e701028458de3973b31631f65a4114",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
+    "f43f7252-7b1b-32b3-84b2-f0c5787c8179": {
+        "uuid": "f43f7252-7b1b-32b3-84b2-f0c5787c8179",
+        "title": "3 Top Dividend Kings for the Second Half of 2022",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f43f7252-7b1b-32b3-84b2-f0c5787c8179/3-top-dividend-kings-for-the.html",
+        "providerPublishTime": 1658309880,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DHt5F1OyVoYAIFWZnh2MxQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kq3Honv3H0WiM89orEL0BQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e9a197bb21e7a4092715d2a3fa3bef2",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bNufowQZy1kAKq4USfHXrA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kq3Honv3H0WiM89orEL0BQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4e9a197bb21e7a4092715d2a3fa3bef2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NUE",
+            "PG",
+            "MMM"
+        ]
+    },
     "bca2f0f9-6713-3530-b039-7cd88e4461f3": {
         "uuid": "bca2f0f9-6713-3530-b039-7cd88e4461f3",
         "title": "Procter & Gamble (PG) Gains But Lags Market: What You Should Know",
@@ -148,103 +258,6 @@
             "PFE",
             "TSLA",
             "MSFT"
-        ]
-    },
-    "de933012-d98d-33ed-991a-de1ecd7373f7": {
-        "uuid": "de933012-d98d-33ed-991a-de1ecd7373f7",
-        "title": "10 Stocks Billionaire Ken Fisher May Never Sell",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-billionaire-ken-fisher-100935849.html",
-        "providerPublishTime": 1657966175,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/518PUlEL3OCcdMOR51d0Cw--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AL_Svs7ao9JpzEUidwG..Q--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4eb82c013b8eb1e3c8669e22515978b1",
-                    "width": 480,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TwsL1Cm8X.iMURvJP7x9tw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AL_Svs7ao9JpzEUidwG..Q--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4eb82c013b8eb1e3c8669e22515978b1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CVX",
-            "PFE",
-            "ROST",
-            "TTC",
-            "MRK",
-            "PG",
-            "SMG",
-            "BIO-B"
-        ]
-    },
-    "e582671b-0677-3d99-a9ac-c8dce529cfee": {
-        "uuid": "e582671b-0677-3d99-a9ac-c8dce529cfee",
-        "title": "7 Best Long-Term Dividend Stocks to Buy Right Now",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-best-long-term-dividend-121559112.html",
-        "providerPublishTime": 1657887359,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u6s9VetHadCOOwDFLwQMfg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xzkZougL6zZsCB8Z141yQQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/245eda948581189d9d3944ba08147746",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Z34qKrz7hQTmYrcLuwKUug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xzkZougL6zZsCB8Z141yQQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/245eda948581189d9d3944ba08147746",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TGT",
-            "JNJ",
-            "PG",
-            "FRT",
-            "KMB",
-            "O",
-            "LOW"
-        ]
-    },
-    "ba0e5433-aec0-3894-97f8-530d8bbf3707": {
-        "uuid": "ba0e5433-aec0-3894-97f8-530d8bbf3707",
-        "title": "2 Dow Stocks to Buy Hand Over Fist and 1 to Avoid Like the Plague",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ba0e5433-aec0-3894-97f8-530d8bbf3707/2-dow-stocks-to-buy-hand-over.html",
-        "providerPublishTime": 1657876860,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Yq5vMCl1QqO4TaWrR3fKfg--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w9YyuTa7cHVIIYJB.aJWvw--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7ef9d199d4c09698939d3532b1135911",
-                    "width": 1400,
-                    "height": 931,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lO7Xn7xnFBsqp8HjtGaMaQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/w9YyuTa7cHVIIYJB.aJWvw--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7ef9d199d4c09698939d3532b1135911",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^DJI",
-            "CRM",
-            "WBA",
-            "PG"
         ]
     }
 }

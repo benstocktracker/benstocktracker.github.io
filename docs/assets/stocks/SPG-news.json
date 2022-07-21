@@ -1,4 +1,59 @@
 {
+    "2ecaa6da-7a81-3bfc-b884-75d307426f75": {
+        "uuid": "2ecaa6da-7a81-3bfc-b884-75d307426f75",
+        "title": "Simon Property (SPG) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/simon-property-spg-outpaces-stock-221510724.html",
+        "providerPublishTime": 1658355310,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "width": 900,
+                    "height": 506,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPG"
+        ]
+    },
+    "e675a734-7ddc-36a0-88db-3c51bf07c2fd": {
+        "uuid": "e675a734-7ddc-36a0-88db-3c51bf07c2fd",
+        "title": "Neiman Marcus sues Copley Place owner for $50M over ditched tower plans",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/e675a734-7ddc-36a0-88db-3c51bf07c2fd/neiman-marcus-sues-copley.html",
+        "providerPublishTime": 1658342797,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TwnPdKNNFXn71ThV6ngZsQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GhHEg1nr0VRHK7v0Hy8tsg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/7b5fc51490ac0e7cdceb3127eb37787f",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/N0KvvOrrBsfEI434BIe.dA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GhHEg1nr0VRHK7v0Hy8tsg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/7b5fc51490ac0e7cdceb3127eb37787f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPG",
+            "SPG-PJ"
+        ]
+    },
     "b3b6f071-5935-3059-8159-25ee1b55a049": {
         "uuid": "b3b6f071-5935-3059-8159-25ee1b55a049",
         "title": "2 High-Yield Stocks With Very Different Risk Factors",
@@ -169,48 +224,6 @@
         "relatedTickers": [
             "SPG",
             "^GSPC"
-        ]
-    },
-    "8efe4817-334f-350a-a953-2852fd89c175": {
-        "uuid": "8efe4817-334f-350a-a953-2852fd89c175",
-        "title": "Buy These 5 High-Yield Dividend Stocks to Create an Inflation-Crushing Portfolio",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8efe4817-334f-350a-a953-2852fd89c175/buy-these-5-high-yield.html",
-        "providerPublishTime": 1657189320,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC",
-            "EPR",
-            "SPG",
-            "ALLY"
-        ]
-    },
-    "2ab2c9ca-b684-332a-958f-9fed17ee9f6d": {
-        "uuid": "2ab2c9ca-b684-332a-958f-9fed17ee9f6d",
-        "title": "Independent Director J. Smith Just Bought 1.3% More Shares In Simon Property Group, Inc. (NYSE:SPG)",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/independent-director-j-smith-just-100159752.html",
-        "providerPublishTime": 1657188119,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wygj_JpmWCy0g01.Di_sfw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1R7ph5rvk2KLIk2HV4jd3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LsCakdEIEGhG9V8hf.rrjg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/34b69c100dbc7b697001f92e208ab718",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG",
-            "SPG-PJ"
         ]
     }
 }

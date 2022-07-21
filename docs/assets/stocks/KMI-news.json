@@ -1,4 +1,104 @@
 {
+    "805d0f16-9790-3f13-91a3-ad5ed23c7f94": {
+        "uuid": "805d0f16-9790-3f13-91a3-ad5ed23c7f94",
+        "title": "Kinder Morgan (KMI) Q2 2022 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/805d0f16-9790-3f13-91a3-ad5ed23c7f94/kinder-morgan-%28kmi%29-q2-2022.html",
+        "providerPublishTime": 1658365218,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 1400,
+                    "height": 1494,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "0b6579a5-4e29-39d8-8c0b-85cec7af0054": {
+        "uuid": "0b6579a5-4e29-39d8-8c0b-85cec7af0054",
+        "title": "Kinder Morgan (KMI) Matches Q2 Earnings Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-matches-q2-213509732.html",
+        "providerPublishTime": 1658352909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FMZjK9ufrlrN5dfBUmknRg--~B/aD03Mjg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/I67vygGrP1BjgOjVx.apeA--~B/aD03Mjg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b9775f315e7b6c4ada6e36d0048a929a",
+                    "width": 900,
+                    "height": 728,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9yusYhzynhnjOFe5yKN_Pg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/I67vygGrP1BjgOjVx.apeA--~B/aD03Mjg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b9775f315e7b6c4ada6e36d0048a929a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "817e22b2-df9d-35d8-bbc1-64a1aadf628a": {
+        "uuid": "817e22b2-df9d-35d8-bbc1-64a1aadf628a",
+        "title": "UPDATE 3-Kinder Morgan quarterly profit climbs 20% on high jet fuel demand",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-kinder-morgan-quarterly-profit-202043498.html",
+        "providerPublishTime": 1658348443,
+        "type": "STORY",
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "d7ac3b67-a5e9-384b-9654-199280cf28e1": {
+        "uuid": "d7ac3b67-a5e9-384b-9654-199280cf28e1",
+        "title": "Kinder Morgan Announces Dividend of $0.2775 Per Share and Raises Full Year Financial Guidance",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/kinder-morgan-announces-dividend-0-200500514.html",
+        "providerPublishTime": 1658347500,
+        "type": "STORY",
+        "relatedTickers": [
+            "KMI"
+        ]
+    },
+    "3fa1b3a6-1db6-3a6d-a8df-30e9c44f757b": {
+        "uuid": "3fa1b3a6-1db6-3a6d-a8df-30e9c44f757b",
+        "title": "2 Dirt Cheap Energy Stocks You Can Buy and Hold for the Next Decade",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3fa1b3a6-1db6-3a6d-a8df-30e9c44f757b/2-dirt-cheap-energy-stocks.html",
+        "providerPublishTime": 1658331900,
+        "type": "STORY",
+        "relatedTickers": [
+            "KMI",
+            "WMB"
+        ]
+    },
+    "1809a25a-c61f-3310-bfc9-843a94e114df": {
+        "uuid": "1809a25a-c61f-3310-bfc9-843a94e114df",
+        "title": "1 Ultra-High-Yield Dividend Stock to Put on Your Radar",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/1809a25a-c61f-3310-bfc9-843a94e114df/1-ultra-high-yield-dividend.html",
+        "providerPublishTime": 1658319300,
+        "type": "STORY",
+        "relatedTickers": [
+            "KMI",
+            "EPD"
+        ]
+    },
     "406cf5d8-64f3-3137-ba49-22ccfcba6f14": {
         "uuid": "406cf5d8-64f3-3137-ba49-22ccfcba6f14",
         "title": "10 Most Anticipated Earnings to Watch on Wednesday",
@@ -57,178 +157,6 @@
             "XOM",
             "KMI",
             "DVN"
-        ]
-    },
-    "44282760-2356-328d-bb9e-46f9b794a59e": {
-        "uuid": "44282760-2356-328d-bb9e-46f9b794a59e",
-        "title": "BP Plans to Commence SAF Production in Australia by 2025",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/bp-plans-commence-saf-production-122812893.html",
-        "providerPublishTime": 1658147292,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kaxZxpMe9i0o_PxeimdLZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dvRNplgb0KSBuUwdYb2xxw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8c4a41f088bf9120715db42cb7535f5f",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s2O3tfHw_9l1egvGaMLrsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dvRNplgb0KSBuUwdYb2xxw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8c4a41f088bf9120715db42cb7535f5f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BP",
-            "KMI",
-            "SU",
-            "EPD"
-        ]
-    },
-    "c72c1fa8-46ae-3280-b15a-b2e0d0fb5cb9": {
-        "uuid": "c72c1fa8-46ae-3280-b15a-b2e0d0fb5cb9",
-        "title": "3 High-Yield Infrastructure Stocks to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c72c1fa8-46ae-3280-b15a-b2e0d0fb5cb9/3-high-yield-infrastructure.html",
-        "providerPublishTime": 1658139300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jTB_2sN0_fgLBG2.y3uLDQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6O_e1Vz3yMfyFjl0KlI7lQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f623fb8c9c54f78ec7e711c5bb5f7732",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IdOoiMQ3l9y1.NTIkqAcyQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6O_e1Vz3yMfyFjl0KlI7lQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f623fb8c9c54f78ec7e711c5bb5f7732",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KMI",
-            "BIP",
-            "HUBB"
-        ]
-    },
-    "61c9dbcb-6145-34bb-a06d-4287abb06f4d": {
-        "uuid": "61c9dbcb-6145-34bb-a06d-4287abb06f4d",
-        "title": "What's in the Offing for Kinder Morgan's (KMI) Q2 Earnings?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/whats-offing-kinder-morgans-kmi-134801656.html",
-        "providerPublishTime": 1657892881,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P3rVmtf5Pw0ImdFzWYkfsA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kyxbhc9vU6coF3kOO3p15g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5102c7cc524ab92392c1c3e5f0753c65",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DPQOWXRPkspUnFEAh2rG1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kyxbhc9vU6coF3kOO3p15g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5102c7cc524ab92392c1c3e5f0753c65",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KMI"
-        ]
-    },
-    "177f8a8e-3ebc-30fe-a965-21adecd92106": {
-        "uuid": "177f8a8e-3ebc-30fe-a965-21adecd92106",
-        "title": "Kinder Morgan (KMI) Stock Moves -0.12%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-stock-moves-214509182.html",
-        "providerPublishTime": 1657835109,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P9MYT7bkg6gW.LAUks5bQg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
-                    "width": 900,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/G6Kfmbo.AIHKSvpKRICHXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5w_iAw5naBqMPrzpIECi9Q--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/670d1917693293f70179651625deb88f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KMI",
-            "^GSPC"
-        ]
-    },
-    "03920dcd-6d5c-3d1d-9d5b-8691e4d0b1b0": {
-        "uuid": "03920dcd-6d5c-3d1d-9d5b-8691e4d0b1b0",
-        "title": "ConocoPhillips (COP) Negotiates With Alaska for Gas Supplies",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/conocophillips-cop-negotiates-alaska-gas-123212959.html",
-        "providerPublishTime": 1657801932,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0ehjHXCr_g1BrgIy50IcrA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/GXBRjw3aJ2cCPZePoyeazQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bd16e7aee1af3dd7e3eefa8795d064e0",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/N3edIENDOwxYXovBf6OAhQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GXBRjw3aJ2cCPZePoyeazQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bd16e7aee1af3dd7e3eefa8795d064e0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COP",
-            "KMI",
-            "CVE"
-        ]
-    },
-    "4afb1f5c-0fc3-398b-b5dc-357c5c079f7d": {
-        "uuid": "4afb1f5c-0fc3-398b-b5dc-357c5c079f7d",
-        "title": "Twitter Near Top of Companies Relying on Capex",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/4afb1f5c-0fc3-398b-b5dc-357c5c079f7d/twitter-near-top-of-companies.html",
-        "providerPublishTime": 1657747020,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LhR.R52JfKOj4Ne5yD3zOw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/AmLUGQ..1lNtOM9MJ1K2FQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/33e65586b6bc76a2284433ecc1b9b919",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6qP62iUz4H9fK4Lsf9Wajg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AmLUGQ..1lNtOM9MJ1K2FQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/33e65586b6bc76a2284433ecc1b9b919",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SEDG",
-            "KMI",
-            "TWTR"
         ]
     }
 }

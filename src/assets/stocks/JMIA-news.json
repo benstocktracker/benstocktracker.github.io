@@ -1,4 +1,32 @@
 {
+    "0bce8163-5a7c-3b3b-9d05-2eeb07a4a50e": {
+        "uuid": "0bce8163-5a7c-3b3b-9d05-2eeb07a4a50e",
+        "title": "7 Best African Stocks to Buy Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-african-stocks-buy-111757744.html",
+        "providerPublishTime": 1658056677,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9ricxuLiPAf6pnX_iEEn.g--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/s6nF71P7K26HTmXLpPhZtg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/52f16ee135a53ab2e5ed3ac9887ad003",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Qw9jvX.JyCJH503nRcmO.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/s6nF71P7K26HTmXLpPhZtg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/52f16ee135a53ab2e5ed3ac9887ad003",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JMIA",
+            "IMPUF"
+        ]
+    },
     "3f992ae4-a947-30a4-a2cb-d55b397a6397": {
         "uuid": "3f992ae4-a947-30a4-a2cb-d55b397a6397",
         "title": "Why Jumia Stock Slumped 17.7% This Week",
@@ -173,34 +201,6 @@
         },
         "relatedTickers": [
             "JMIA"
-        ]
-    },
-    "530736d7-a13f-3737-afe3-16c052914407": {
-        "uuid": "530736d7-a13f-3737-afe3-16c052914407",
-        "title": "Why Jumia Technologies Stock Popped 12.6% This Week",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/530736d7-a13f-3737-afe3-16c052914407/why-jumia-technologies-stock.html",
-        "providerPublishTime": 1653066478,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2R88ent8Q..rqgFB4TJAOA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aXtIsK47CWd_oS70gxKoLw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7cb4965bc2776ebde9a8a3e8c3842e27",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gjwMzO36qpgQrKEkegtIXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aXtIsK47CWd_oS70gxKoLw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7cb4965bc2776ebde9a8a3e8c3842e27",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JMIA",
-            "AMZN"
         ]
     }
 }

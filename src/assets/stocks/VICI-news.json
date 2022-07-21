@@ -1,4 +1,38 @@
 {
+    "b145aa4b-d385-3f05-bccf-27f561eb136b": {
+        "uuid": "b145aa4b-d385-3f05-bccf-27f561eb136b",
+        "title": "Why an Allocation Fund Likes Energy and Real Estate Stocks",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/b145aa4b-d385-3f05-bccf-27f561eb136b/why-an-allocation-fund-likes.html",
+        "providerPublishTime": 1658296800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w6XNatZAfX19R2Nwe_gGSg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/33Pb1_dWq368muZYw9hNDQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d1a52e3bc047d47231386592ad4a6c61",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3y1R7iSKAneNPv.lAVrOdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/33Pb1_dWq368muZYw9hNDQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d1a52e3bc047d47231386592ad4a6c61",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VICI",
+            "DELL",
+            "WHGIX",
+            "WWIAX",
+            "WWICX",
+            "EOG",
+            "LEN",
+            "LEN-B"
+        ]
+    },
     "0b55f660-406e-34d5-8677-4d6cf7fc827d": {
         "uuid": "0b55f660-406e-34d5-8677-4d6cf7fc827d",
         "title": "3 High-Yield REITs You Won't Want to Miss",
@@ -126,17 +160,6 @@
         "relatedTickers": [
             "VICI",
             "IRM"
-        ]
-    },
-    "855affeb-8e12-390f-9521-0020c5fe80b9": {
-        "uuid": "855affeb-8e12-390f-9521-0020c5fe80b9",
-        "title": "VICI Properties Inc. CEO Edward Pitoniak Appears on CNBC\u2019s \"Mad Money with Jim Cramer\"",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/vici-properties-inc-ceo-edward-113000042.html",
-        "providerPublishTime": 1656329400,
-        "type": "STORY",
-        "relatedTickers": [
-            "VICI"
         ]
     }
 }

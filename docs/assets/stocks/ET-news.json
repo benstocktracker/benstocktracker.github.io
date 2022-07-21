@@ -1,4 +1,31 @@
 {
+    "ae3d3472-16c9-3403-a4cb-4d3c5c483f6d": {
+        "uuid": "ae3d3472-16c9-3403-a4cb-4d3c5c483f6d",
+        "title": "Energy Transfer LP (ET) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509398.html",
+        "providerPublishTime": 1658353509,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I6NEfdIfVQnuBOcsyd4sPg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                    "width": 900,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OuKZPaloUxgcmtaUQs.1EA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
     "0d2e4341-6640-38aa-ac82-8a622bea70bd": {
         "uuid": "0d2e4341-6640-38aa-ac82-8a622bea70bd",
         "title": "Soros Backs O\u2019Rourke\u2019s Bid for Texas Governor With $1 Million",
@@ -151,36 +178,6 @@
             "CWEN-A",
             "ET-PD",
             "ROK"
-        ]
-    },
-    "83072709-c011-34a4-abc4-6213c6a40ae2": {
-        "uuid": "83072709-c011-34a4-abc4-6213c6a40ae2",
-        "title": "Energy Transfer Announces Second Quarter 2022 Earnings Release and Earnings Call Timing",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/energy-transfer-announces-second-quarter-150000458.html",
-        "providerPublishTime": 1657292400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WLmCRAbfDyyjnNVErxPwOQ--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TTaJA8o_mnwGDXOdlM2VPg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/3ec1b8750bf73d4286ba015a775c20dc",
-                    "width": 480,
-                    "height": 140,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hLaVgY4KVHe.jBbZcTivmQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TTaJA8o_mnwGDXOdlM2VPg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/3ec1b8750bf73d4286ba015a775c20dc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET",
-            "ET-PC",
-            "ET-PD",
-            "ET-PE"
         ]
     }
 }

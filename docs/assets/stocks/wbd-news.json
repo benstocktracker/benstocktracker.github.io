@@ -1,4 +1,137 @@
 {
+    "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f": {
+        "uuid": "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f",
+        "title": "AT&T Adds Subscribers in Its First Stand-Alone Quarter. They Came at a Cost.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/d4d0bdbc-be28-3932-ba41-d33c44a2ec4f/at%26t-adds-subscribers-in-its.html",
+        "providerPublishTime": 1658399640,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zWOq2Ckcyt_Bbc6RiuOqQQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NDDvcC6eMZgal90UAWs.ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD",
+            "T",
+            "T-PA",
+            "T-PC"
+        ]
+    },
+    "cb21cf6d-7ad2-372e-9096-1f5535963904": {
+        "uuid": "cb21cf6d-7ad2-372e-9096-1f5535963904",
+        "title": "Quidditch Ditches \u2018Harry Potter\u2019 and J.K. Rowling, Rebrands Itself \u2018Quadball\u2019",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/cb21cf6d-7ad2-372e-9096-1f5535963904/quidditch-ditches-%E2%80%98harry.html",
+        "providerPublishTime": 1658353920,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nex63rT2EtpwQBPPQbEfpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WcFr2q3_NGLaF2BpyjnnVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d075bc5224c4057934d88c6fe797a522",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m.CJK82WdpfC9U2oSFeJiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WcFr2q3_NGLaF2BpyjnnVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d075bc5224c4057934d88c6fe797a522",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD"
+        ]
+    },
+    "b53fbb21-49c2-379c-8799-9192ff083022": {
+        "uuid": "b53fbb21-49c2-379c-8799-9192ff083022",
+        "title": "Netflix earnings send streaming stocks higher",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/netflix-earnings-send-streaming-stocks-152625124.html",
+        "providerPublishTime": 1658330785,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zC90cBN5ZPtS.mjV38qfEA--~B/aD0yMTA7dz0zNzQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4ae9f850-0840-11ed-beef-3398209adf35",
+                    "width": 374,
+                    "height": 210,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mtMQWctMs6wgixSi7dPybw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4ae9f850-0840-11ed-beef-3398209adf35",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FUBO",
+            "T",
+            "T-PA",
+            "T-PC",
+            "NLSN",
+            "GOOG",
+            "GOOGL",
+            "NFLX",
+            "CMCSA",
+            "ROKU",
+            "AMZN",
+            "DIS",
+            "WBD",
+            "AAPL",
+            "PARA",
+            "PARAA",
+            "PARAP"
+        ]
+    },
+    "3e28bb36-417d-370a-a75e-2d5b6ab4a0cb": {
+        "uuid": "3e28bb36-417d-370a-a75e-2d5b6ab4a0cb",
+        "title": "Disney, Roku, and Other Streaming Stocks Rise Sharply After Netflix\u2019s Earnings",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/3e28bb36-417d-370a-a75e-2d5b6ab4a0cb/disney%2C-roku%2C-and-other.html",
+        "providerPublishTime": 1658329560,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KCfRiuMEa39dMjqmpA1HAA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OpVQUMp_6vxPTBoVCjiM_g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/cf303acd011fbcb7bc87e86dd187801c",
+                    "width": 1279,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6m_2tYYTIK1oPFhfZhc03A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OpVQUMp_6vxPTBoVCjiM_g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/cf303acd011fbcb7bc87e86dd187801c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "WBD",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "ROKU",
+            "NFLX"
+        ]
+    },
     "27706037-ca68-448c-8b80-5a84266377ef": {
         "uuid": "27706037-ca68-448c-8b80-5a84266377ef",
         "title": "Netflix sheds 1 million users in Q2 \u2014 why one analyst says that's still 'good' news",
@@ -58,14 +191,14 @@
             ]
         },
         "relatedTickers": [
+            "DIS",
             "PARA",
             "PARAA",
             "PARAP",
-            "AAPL",
+            "WBD",
             "MSFT",
             "NFLX",
-            "DIS",
-            "WBD"
+            "AAPL"
         ]
     },
     "cff2c15e-68f9-4eb2-82f0-255f08e28530": {
@@ -92,11 +225,11 @@
             ]
         },
         "relatedTickers": [
-            "DIS",
             "WBD",
-            "AMZN",
             "AAPL",
-            "NFLX"
+            "DIS",
+            "NFLX",
+            "AMZN"
         ]
     },
     "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e": {
@@ -130,128 +263,6 @@
             "T-PA",
             "T-PC",
             "WBD"
-        ]
-    },
-    "de4dea72-5c60-3828-853b-42bc92be36f2": {
-        "uuid": "de4dea72-5c60-3828-853b-42bc92be36f2",
-        "title": "Food inflation: 'Most franchisees already raised prices before this year', Little Caesars CEO says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/food-inflation-most-franchisees-already-204944010.html",
-        "providerPublishTime": 1658177384,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/I17mjxpRg0TLHeO.gPzPYA--~B/aD0xNDc2O3c9MjYyOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/24d88ed0-06db-11ed-a1ef-996be0664c07",
-                    "width": 2629,
-                    "height": 1476,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TDFK6lUF0N4a8cGXu9WYRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/24d88ed0-06db-11ed-a1ef-996be0664c07",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBD",
-            "DPZ",
-            "PZZA"
-        ]
-    },
-    "6af65a07-ce37-3619-ad55-d696d1cd8f94": {
-        "uuid": "6af65a07-ce37-3619-ad55-d696d1cd8f94",
-        "title": "NFL considers Apple TV+ as a host for Sunday Ticket streaming",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/nfl-considers-apple-tv-host-210919810.html",
-        "providerPublishTime": 1657919359,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lI7q0MOPngZrgIAhh7PBbg--~B/aD0xNDgwO3c9MjYzNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6305fdb0-0482-11ed-9f6e-2dfe8ac7d8d3",
-                    "width": 2635,
-                    "height": 1480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2hzyu3h7LpmbW.iNsXJ42Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6305fdb0-0482-11ed-9f6e-2dfe8ac7d8d3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN",
-            "WBD",
-            "NFLX",
-            "AAPL",
-            "DIS"
-        ]
-    },
-    "da69d0c8-1e75-41b6-ba81-c2f339752ea4": {
-        "uuid": "da69d0c8-1e75-41b6-ba81-c2f339752ea4",
-        "title": "Netflix: The good, the bad and the downright ugly as investors brace for Q2 earnings",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-the-good-the-bad-and-the-downright-ugly-as-investors-brace-for-q-2-earnings-153544143.html",
-        "providerPublishTime": 1657899344,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b5YcIxU3a.6huCUyUw1OhQ--~B/aD00MDE2O3c9NjAxNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-10/c4f2a740-e5bc-11e9-8efe-970b58348844",
-                    "width": 6016,
-                    "height": 4016,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4HV.vxBZxQDHjxA6zwjaqA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-10/c4f2a740-e5bc-11e9-8efe-970b58348844",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "AMZN",
-            "WBD",
-            "DIS",
-            "AAPL"
-        ]
-    },
-    "6f8d99f5-1b2a-351b-91a2-1530d4d7d252": {
-        "uuid": "6f8d99f5-1b2a-351b-91a2-1530d4d7d252",
-        "title": "Netflix could be \u2018looking for an exit\u2019 through ad partnership with Microsoft: Analyst",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/netflix-could-looking-exit-ad-152601199.html",
-        "providerPublishTime": 1657812361,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tRGzSgIxDWSoZRszxOc57g--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/39962bb0-0385-11ed-adf7-f1939ea80336",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MrgbpzGV4qHhtzm8rG2Idw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/39962bb0-0385-11ed-adf7-f1939ea80336",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "AMZN",
-            "DIS",
-            "WBD",
-            "CMCSA"
         ]
     }
 }

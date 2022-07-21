@@ -1,21 +1,21 @@
 {
-    "61f65d65-44fd-3345-9b6b-f90f2a77cb7c": {
-        "uuid": "61f65d65-44fd-3345-9b6b-f90f2a77cb7c",
-        "title": "Netflix Lost Fewer Subscribers Than Expected in the Latest Quarter. The Stock Is Higher.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/61f65d65-44fd-3345-9b6b-f90f2a77cb7c/netflix-lost-fewer.html",
-        "providerPublishTime": 1658272980,
+    "d14b7cb6-e021-3ea5-a9da-1fde05a264ae": {
+        "uuid": "d14b7cb6-e021-3ea5-a9da-1fde05a264ae",
+        "title": "5 Stocks to Buy in July",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d14b7cb6-e021-3ea5-a9da-1fde05a264ae/5-stocks-to-buy-in-july.html",
+        "providerPublishTime": 1658400600,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZMlit_cw3l.BfipXjnWGNg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5WtHf27ILdPOAKFqvVnAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/51bdb8c1b460e959ce421aead6813140",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zAMRyolodU8k7im74.vX9w--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
+                    "width": 1400,
+                    "height": 873,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3N8xGkv8cJKlGtQljf6Mjw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e5WtHf27ILdPOAKFqvVnAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/51bdb8c1b460e959ce421aead6813140",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uTvdjyKZbVCX.xYd7cpwfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,65 +23,52 @@
             ]
         },
         "relatedTickers": [
-            "MSFT",
             "DIS",
+            "TGT",
+            "HD",
             "ROKU",
-            "NFLX",
-            "CMCSA"
+            "SBUX"
         ]
     },
-    "27706037-ca68-448c-8b80-5a84266377ef": {
-        "uuid": "27706037-ca68-448c-8b80-5a84266377ef",
-        "title": "Netflix sheds 1 million users in Q2 \u2014 why one analyst says that's still 'good' news",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-sheds-1-million-users-in-q-2-why-one-analyst-says-thats-still-good-news-230642685.html",
-        "providerPublishTime": 1658272002,
+    "9122458b-1127-3775-9ab1-67f74def4af8": {
+        "uuid": "9122458b-1127-3775-9ab1-67f74def4af8",
+        "title": "Disney's Latest ESPN+ Price Increase: What Smart Investors Need to Know",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/9122458b-1127-3775-9ab1-67f74def4af8/disney%27s-latest-espn%2B-price.html",
+        "providerPublishTime": 1658399580,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kyQ.rhZApvhQ9YYPCJ2HoQ--~B/aD0zMjQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
-                    "width": 5760,
-                    "height": 3240,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/v0ikOe0U2UdevBtua4U6bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "MSFT",
-            "DIS",
-            "AMZN",
-            "PARA",
-            "PARAA",
-            "PARAP",
-            "AAPL",
-            "WBD",
-            "NFLX"
+            "DIS"
         ]
     },
-    "13aabb30-0bec-3d0d-a99d-5d923cb1c46a": {
-        "uuid": "13aabb30-0bec-3d0d-a99d-5d923cb1c46a",
-        "title": "NASCAR adding Chicago street race as it competes with Formula 1 for fans",
+    "b49d85cf-dbc8-368f-9067-1bc70da0adc7": {
+        "uuid": "b49d85cf-dbc8-368f-9067-1bc70da0adc7",
+        "title": "This SPAC Stock Could Be the Next Big Thing for Travel Investors",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b49d85cf-dbc8-368f-9067-1bc70da0adc7/this-spac-stock-could-be-the.html",
+        "providerPublishTime": 1658397900,
+        "type": "STORY",
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "fc058a4f-6564-3bfa-be3d-5001b87ba6f4": {
+        "uuid": "fc058a4f-6564-3bfa-be3d-5001b87ba6f4",
+        "title": "Here\u2019s what\u2019s new on Hulu in August 2022, and what\u2019s leaving",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/13aabb30-0bec-3d0d-a99d-5d923cb1c46a/nascar-adding-chicago-street.html",
-        "providerPublishTime": 1658268840,
+        "link": "https://finance.yahoo.com/m/fc058a4f-6564-3bfa-be3d-5001b87ba6f4/here%E2%80%99s-what%E2%80%99s-new-on-hulu-in.html",
+        "providerPublishTime": 1658354520,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xYyUFVOf2i1vwIZXxv1WmA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XD1qyOj7reTA3804V7KuVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f4b75ebb01a49b19b1399db575b47d97",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.s_AgNx..k7nlUkFB74szA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.74xEix7Wghn4YtWaPK.pQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/9b1e529f69dbe0718e3f2ffb19531763",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uSIXyozdY5dI8xuXFdQMig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XD1qyOj7reTA3804V7KuVA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f4b75ebb01a49b19b1399db575b47d97",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tU.bx3ux4m2tTKYoiMSuSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.74xEix7Wghn4YtWaPK.pQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/9b1e529f69dbe0718e3f2ffb19531763",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -89,30 +76,26 @@
             ]
         },
         "relatedTickers": [
-            "NFLX",
-            "FWONA",
-            "FWONB",
-            "FWONK",
             "DIS"
         ]
     },
-    "5f2ae615-4f86-444e-bff3-1f21eec96d9b": {
-        "uuid": "5f2ae615-4f86-444e-bff3-1f21eec96d9b",
-        "title": "Netflix shares jump as Q2 subscribers beat estimates",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-q-2-earnings-170448268.html",
-        "providerPublishTime": 1658264108,
+    "25d73926-1941-3541-97a3-ba790b5bd573": {
+        "uuid": "25d73926-1941-3541-97a3-ba790b5bd573",
+        "title": "Why Netflix\u2019s Earnings Weren\u2019t Enough to Restore Confidence",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/25d73926-1941-3541-97a3-ba790b5bd573/why-netflix%E2%80%99s-earnings.html",
+        "providerPublishTime": 1658354100,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uev5xRWUBPGUE7jI4NFy3g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
-                    "width": 6000,
-                    "height": 4000,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2Up2rkZ1yH5usYD_ItbSLA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VfnLiO0XPMeTas7BdgWrgw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fb7e9f9c041fc9379bae581eefb4be69",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s2N5Nj2hugYoxeKo8YGU6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6B_xyEN1wtSbrLZfW..bbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VfnLiO0XPMeTas7BdgWrgw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fb7e9f9c041fc9379bae581eefb4be69",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -120,82 +103,68 @@
             ]
         },
         "relatedTickers": [
-            "PARA",
-            "PARAA",
-            "PARAP",
-            "AAPL",
-            "MSFT",
-            "NFLX",
-            "DIS",
-            "WBD"
-        ]
-    },
-    "cff2c15e-68f9-4eb2-82f0-255f08e28530": {
-        "uuid": "cff2c15e-68f9-4eb2-82f0-255f08e28530",
-        "title": "Disney offers something that streaming competitors \u2018are not offering,\u2019 analyst explains",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/disney-offers-streaming-competitors-analyst-145319113.html",
-        "providerPublishTime": 1658242399,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SE9WaoTqtn8v.8vMzXms2w--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-11/63869750-0222-11ea-ad58-9fff80697811",
-                    "width": 5000,
-                    "height": 3333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/L5ws2SUAZ.osS3y62nVtUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-11/63869750-0222-11ea-ad58-9fff80697811",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "WBD",
             "AMZN",
             "AAPL",
-            "NFLX"
-        ]
-    },
-    "eb16c911-f3a2-3e67-bd44-084fa9df2af5": {
-        "uuid": "eb16c911-f3a2-3e67-bd44-084fa9df2af5",
-        "title": "Is Netflix the Worst Value in Streaming?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/eb16c911-f3a2-3e67-bd44-084fa9df2af5/is-netflix-the-worst-value-in.html",
-        "providerPublishTime": 1658241000,
-        "type": "STORY",
-        "relatedTickers": [
+            "GOOG",
+            "GOOGL",
             "NFLX",
             "DIS"
         ]
     },
-    "a62c03df-af6c-3678-9ac0-7ed07d3b0f76": {
-        "uuid": "a62c03df-af6c-3678-9ac0-7ed07d3b0f76",
-        "title": "Why a Recession Could Be Good for Netflix",
+    "8d18077c-b861-361c-9a4c-9cae06245686": {
+        "uuid": "8d18077c-b861-361c-9a4c-9cae06245686",
+        "title": "Why\u00a0the Trade Desk Stock Soared Higher Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a62c03df-af6c-3678-9ac0-7ed07d3b0f76/why-a-recession-could-be-good.html",
-        "providerPublishTime": 1658240786,
+        "link": "https://finance.yahoo.com/m/8d18077c-b861-361c-9a4c-9cae06245686/why%C2%A0the-trade-desk-stock.html",
+        "providerPublishTime": 1658350920,
         "type": "STORY",
         "relatedTickers": [
+            "TTD",
             "NFLX",
             "DIS"
         ]
     },
-    "91bc9eff-40b8-30ab-8a76-d828aded15ae": {
-        "uuid": "91bc9eff-40b8-30ab-8a76-d828aded15ae",
-        "title": "3 Beaten-Down S&P 500 Stocks Ready to Bounce Back",
+    "35a45270-fa69-3a67-b591-aff5f036dcad": {
+        "uuid": "35a45270-fa69-3a67-b591-aff5f036dcad",
+        "title": "Why Disney, Roku, and fuboTV Stocks Surged Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/91bc9eff-40b8-30ab-8a76-d828aded15ae/3-beaten-down-s%26p-500-stocks.html",
-        "providerPublishTime": 1658227200,
+        "link": "https://finance.yahoo.com/m/35a45270-fa69-3a67-b591-aff5f036dcad/why-disney%2C-roku%2C-and-fubotv.html",
+        "providerPublishTime": 1658346957,
         "type": "STORY",
         "relatedTickers": [
-            "^GSPC",
             "DIS",
-            "GE"
+            "NFLX",
+            "ROKU",
+            "FUBO"
+        ]
+    },
+    "dd2408ed-502d-4269-ac95-6487b36c380b": {
+        "uuid": "dd2408ed-502d-4269-ac95-6487b36c380b",
+        "title": "Netflix with ads could be a big win \u2014 if it doesn't play by the old rules",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/netflix-with-ads-could-be-a-big-win-if-it-doesnt-play-by-the-old-rules-192029028.html",
+        "providerPublishTime": 1658344829,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qHza509ImYI2CL52f54X8Q--~B/aD0zNTk2O3c9NTM5NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/75e975d0-d078-11ec-bffe-ee2fe38da323",
+                    "width": 5394,
+                    "height": 3596,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/c3NwPyZfVhGIWltoLxLJ4g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/75e975d0-d078-11ec-bffe-ee2fe38da323",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "NFLX",
+            "AMZN"
         ]
     }
 }

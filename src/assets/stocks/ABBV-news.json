@@ -1,4 +1,113 @@
 {
+    "114da786-5ff7-3101-b079-e58cdef3c07a": {
+        "uuid": "114da786-5ff7-3101-b079-e58cdef3c07a",
+        "title": "Health Canada Approves AbbVie's RINVOQ\u00ae (upadacitinib) for the Treatment of Adults with Active Ankylosing Spondylitis",
+        "publisher": "CNW Group",
+        "link": "https://finance.yahoo.com/news/health-canada-approves-abbvies-rinvoq-194500452.html",
+        "providerPublishTime": 1658346300,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nRH7ZIM.6lWE2xi20lPM_Q--~B/aD00MDA7dz0xNDM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nUYvt.qu8Xq3rp0P0nTxtw--~B/aD00MDA7dz0xNDM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/b3d97f583457433958bcb3361bd41467",
+                    "width": 143,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SDESQ_.6MOgtD8pigSSdVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nUYvt.qu8Xq3rp0P0nTxtw--~B/aD00MDA7dz0xNDM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/b3d97f583457433958bcb3361bd41467",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "49ae05c8-43b6-3211-8f39-36f935a47d94": {
+        "uuid": "49ae05c8-43b6-3211-8f39-36f935a47d94",
+        "title": "AbbVie, iSTAR Medical Inks Strategic Alliance For Glaucoma Treatment",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/abbvie-istar-medical-inks-strategic-152940601.html",
+        "providerPublishTime": 1658330980,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y7tls2VWo2xZKvtjUWCDUQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Ona4d8EB_vY8G98khq0EAw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/90216b3c5f020d842587d9d0be4c26f6",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/46W8Y84maqAnxKpMB7GP7Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ona4d8EB_vY8G98khq0EAw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/90216b3c5f020d842587d9d0be4c26f6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "61b820c8-2d95-3a63-9889-54631d5aa97d": {
+        "uuid": "61b820c8-2d95-3a63-9889-54631d5aa97d",
+        "title": "Biogen (BIIB) Beats on Q2 Earnings & Sales, Ups 2022 Guidance",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/biogen-biib-beats-q2-earnings-131401344.html",
+        "providerPublishTime": 1658322841,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TkIXrbWZvU.aXJ724Cls.Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/b7YQi_HTDu1GkQZqPUqgyw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/59b208c03ab625710a229f805a232093",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fX7MWTL9XJfxixwF.RKfjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/b7YQi_HTDu1GkQZqPUqgyw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/59b208c03ab625710a229f805a232093",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BIIB",
+            "ABBV"
+        ]
+    },
+    "171f74d8-2c7c-38cf-940a-fcc840b00371": {
+        "uuid": "171f74d8-2c7c-38cf-940a-fcc840b00371",
+        "title": "AbbVie and iSTAR Medical Announce Strategic Alliance for the Treatment of Glaucoma",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/abbvie-istar-medical-announce-strategic-110000587.html",
+        "providerPublishTime": 1658314800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E4AEBZrdmI.hazTgmZXGTw--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uOcMFW6WP9L7B9cdwe_Rig--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/51a7a6f663d0152535408e965077ec6f",
+                    "width": 16,
+                    "height": 16,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GGNh88IzKd.R8t3lFN8dMQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uOcMFW6WP9L7B9cdwe_Rig--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/51a7a6f663d0152535408e965077ec6f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
     "cc87734f-bbb6-368e-a99b-0c68fd301ce6": {
         "uuid": "cc87734f-bbb6-368e-a99b-0c68fd301ce6",
         "title": "J&J (JNJ) Beats on Q2 Earnings & Sales, Lowers 2022 Guidance",
@@ -96,107 +205,6 @@
         "relatedTickers": [
             "ABBV",
             "GMAB.CO"
-        ]
-    },
-    "074241fa-f39f-3eea-bb87-4910ac77ace3": {
-        "uuid": "074241fa-f39f-3eea-bb87-4910ac77ace3",
-        "title": "Genmab Announces That AbbVie Will Submit Marketing Authorization Application to European Medicines Agency for Epcoritamab (DuoBody\u00ae-CD3xCD20) for the Treatment of Relapsed/Refractory Diffuse Large B-Cell Lymphoma (DLBCL)",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/genmab-announces-abbvie-submit-marketing-140500954.html",
-        "providerPublishTime": 1658153100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BWJ8AtjLjy57MNH9r1NqxA--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Tl.gCggKfotTM7YpzH4mJg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/af19af4b570605c4b13c2b1f564a3d9f",
-                    "width": 480,
-                    "height": 140,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iOE.gl_fGqk3ulq1Jn.2dw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Tl.gCggKfotTM7YpzH4mJg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/af19af4b570605c4b13c2b1f564a3d9f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "GMAB",
-            "GNMSF"
-        ]
-    },
-    "b5f47650-edf3-3d58-98f9-792973e21825": {
-        "uuid": "b5f47650-edf3-3d58-98f9-792973e21825",
-        "title": "AbbVie Submits Marketing Authorization Application to EMA for Atogepant for the Preventive Treatment of Migraine",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/abbvie-submits-marketing-authorization-application-060000051.html",
-        "providerPublishTime": 1658124000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GN_Xl89uM6tiRu8tc.R6Ow--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_NM4E2ajsJ1_0peYy9chdg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/bc66733d647f2147db0060991729537c",
-                    "width": 16,
-                    "height": 16,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Dhwp4AsXRwu3PagbD.bKVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_NM4E2ajsJ1_0peYy9chdg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/bc66733d647f2147db0060991729537c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "8371ec0c-d18c-38a9-bac4-24869ee8c220": {
-        "uuid": "8371ec0c-d18c-38a9-bac4-24869ee8c220",
-        "title": "3 Dividend Growth Stocks to Buy in July",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8371ec0c-d18c-38a9-bac4-24869ee8c220/3-dividend-growth-stocks-to.html",
-        "providerPublishTime": 1658051880,
-        "type": "STORY",
-        "relatedTickers": [
-            "JNJ",
-            "ABBV",
-            "ABT",
-            "^GSPC"
-        ]
-    },
-    "ddb044b0-a5da-36d8-b7c5-3df01f4960f7": {
-        "uuid": "ddb044b0-a5da-36d8-b7c5-3df01f4960f7",
-        "title": "Dow Jones Giant UnitedHealth Breaks Out, Leading 5 Stocks To Watch",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/ddb044b0-a5da-36d8-b7c5-3df01f4960f7/dow-jones-giant-unitedhealth.html",
-        "providerPublishTime": 1657972837,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/caqcTqmyuwIJNW2gDx5Nyw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PANDoIrKWVp6TtVKQKjkbQ--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/82f02432bd7c514ef079283199618114",
-                    "width": 1012,
-                    "height": 572,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HO7uI20J8IpBPVsj8WQF4w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PANDoIrKWVp6TtVKQKjkbQ--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/82f02432bd7c514ef079283199618114",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "UNH",
-            "SWAV",
-            "LI",
-            "DLTR"
         ]
     }
 }

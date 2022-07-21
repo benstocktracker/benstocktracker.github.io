@@ -1,4 +1,123 @@
 {
+    "d14b7cb6-e021-3ea5-a9da-1fde05a264ae": {
+        "uuid": "d14b7cb6-e021-3ea5-a9da-1fde05a264ae",
+        "title": "5 Stocks to Buy in July",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d14b7cb6-e021-3ea5-a9da-1fde05a264ae/5-stocks-to-buy-in-july.html",
+        "providerPublishTime": 1658400600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zAMRyolodU8k7im74.vX9w--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uTvdjyKZbVCX.xYd7cpwfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "TGT",
+            "HD",
+            "ROKU",
+            "SBUX"
+        ]
+    },
+    "73a7f4ce-c26b-3dff-9c66-1ca6b38edfa5": {
+        "uuid": "73a7f4ce-c26b-3dff-9c66-1ca6b38edfa5",
+        "title": "Home Depot (HD) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/home-depot-hd-outpaces-stock-214509625.html",
+        "providerPublishTime": 1658353509,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YRz8MGJWcybk9QoXQlMEnQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o6VhAe2Lh5wjpYDfWJVJYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HD"
+        ]
+    },
+    "7d141c9e-6a13-3acc-b95b-c82a27404894": {
+        "uuid": "7d141c9e-6a13-3acc-b95b-c82a27404894",
+        "title": "Orange at Heart: The Homer Fund Helps Home Depot Pro Account Sales Associate Angie After House Fire",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/orange-heart-homer-fund-helps-170015249.html",
+        "providerPublishTime": 1658336415,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/By4cBoN9_jPYhmZ.U3NWqQ--~B/aD0yMDM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/OVO4Iy0R7KWUN3yvicaZ8g--~B/aD0yMDM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/d4a88cbbe8c1a5e7e51f7a64798b55ca",
+                    "width": 650,
+                    "height": 203,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mm5oIIMYz9wH7x4D85nIFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OVO4Iy0R7KWUN3yvicaZ8g--~B/aD0yMDM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/d4a88cbbe8c1a5e7e51f7a64798b55ca",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HD"
+        ]
+    },
+    "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1": {
+        "uuid": "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1",
+        "title": "10 Best Long-Term Dividend Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-long-term-dividend-132258441.html",
+        "providerPublishTime": 1658323378,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/r0yS8HdCKDNcf6GHD0nA7w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5gYQ3Mjmnv.kfmNHEQNcug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TXN",
+            "UNP",
+            "CHD",
+            "HD",
+            "KO",
+            "ALL-PG",
+            "MRK",
+            "JNJ"
+        ]
+    },
     "0d8e5a7c-3c0d-3eea-bfb7-b85b8b154652": {
         "uuid": "0d8e5a7c-3c0d-3eea-bfb7-b85b8b154652",
         "title": "Housing market: \u2018Demand has changed\u2019 amid interest rate hikes, expert says",
@@ -134,140 +253,6 @@
         },
         "relatedTickers": [
             "HD"
-        ]
-    },
-    "e291e54a-2a55-35bd-8777-e5b2174e1f8d": {
-        "uuid": "e291e54a-2a55-35bd-8777-e5b2174e1f8d",
-        "title": "Homebuilder sentiment plummets to two-year low in July",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/homebuilder-sentiment-plummets-two-low-195839404.html",
-        "providerPublishTime": 1658174319,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q9vstw4.tDyH._Ig8FS5Qg--~B/aD0xNDgwO3c9MjYzNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/02c7b7f0-06d4-11ed-a7ef-a7a621a341ff",
-                    "width": 2635,
-                    "height": 1480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.f6rQ59i2FKhG0xV_.EnBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/02c7b7f0-06d4-11ed-a7ef-a7a621a341ff",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "Z",
-            "ZG",
-            "DOOR",
-            "LEN",
-            "LEN-B",
-            "KBH",
-            "CASH",
-            "HD",
-            "DHI",
-            "RMAX",
-            "RDFN",
-            "LOW",
-            "RKT"
-        ]
-    },
-    "a3341df7-0fee-3f44-89f1-b307e19c0215": {
-        "uuid": "a3341df7-0fee-3f44-89f1-b307e19c0215",
-        "title": "Housing: Home builder sentiment plummets in July",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/housing-home-builder-sentiment-plummets-145615016.html",
-        "providerPublishTime": 1658156175,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/U_JGd9SjnWnIugOjG.cRcg--~B/aD0zMTUxO3c9NTYwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c3674c80-06a9-11ed-be3f-defd9fe1c1ce",
-                    "width": 5600,
-                    "height": 3151,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QiolWoNpA26I0_85HAHvQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c3674c80-06a9-11ed-be3f-defd9fe1c1ce",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "Z",
-            "ZG",
-            "^SPSIHO",
-            "HD",
-            "LOW",
-            "RDFN",
-            "KBH",
-            "TREE"
-        ]
-    },
-    "143408ee-f976-39ca-9683-7f9d2d12e310": {
-        "uuid": "143408ee-f976-39ca-9683-7f9d2d12e310",
-        "title": "Beat the Market Like Zacks: AMN Healthcare, Boeing, Clorox, Home Depot in Focus",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/beat-market-zacks-amn-healthcare-113911423.html",
-        "providerPublishTime": 1658144351,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9DIrNdUv4kkGEDpc1fo44Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JAlNiLLTM0JhvJM6qU3Mjw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0f71f7d46b723bf612b871cd753b1222",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gXq.im0F2YauibDsSiy.gQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JAlNiLLTM0JhvJM6qU3Mjw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0f71f7d46b723bf612b871cd753b1222",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "AMN",
-            "BA",
-            "CLX",
-            "HD"
-        ]
-    },
-    "b9abc995-ca71-311e-9a41-b70b36e40f72": {
-        "uuid": "b9abc995-ca71-311e-9a41-b70b36e40f72",
-        "title": "3 Top Discounted Stocks to Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b9abc995-ca71-311e-9a41-b70b36e40f72/3-top-discounted-stocks-to.html",
-        "providerPublishTime": 1657977060,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GLrsQmMU0_E16Bg.aAFRNA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HqiBSf5.DMeRF71WCgyi2w--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f7db1cbaa58509ee416d3622eb26a68e",
-                    "width": 1400,
-                    "height": 752,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xI4U8CAUxranpOLjni3V3g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HqiBSf5.DMeRF71WCgyi2w--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f7db1cbaa58509ee416d3622eb26a68e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TGT",
-            "HD",
-            "SBUX",
-            "^GSPC"
         ]
     }
 }

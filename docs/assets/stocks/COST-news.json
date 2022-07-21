@@ -1,4 +1,58 @@
 {
+    "186eaa2c-614b-3b2e-8f38-441d6aa52fb2": {
+        "uuid": "186eaa2c-614b-3b2e-8f38-441d6aa52fb2",
+        "title": "Market check: Stocks flat at open, bitcoin price jumps",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-stocks-flat-open-142457049.html",
+        "providerPublishTime": 1658327097,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Z.MFIMPyZ_N6uMGZQOXp6A--~B/aD0xNTI1O3c9MjcxNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/939432e0-0837-11ed-9efe-8dbaede3d239",
+                    "width": 2717,
+                    "height": 1525,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MMe4jKhHeX7Me2Wx5XmWDg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/939432e0-0837-11ed-9efe-8dbaede3d239",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLF",
+            "AZN",
+            "AZNCF",
+            "PEP",
+            "XLB",
+            "XLI",
+            "COST",
+            "TSLA",
+            "BTC-USD",
+            "XLU",
+            "XLV",
+            "XLRE",
+            "XLC",
+            "^GSPC",
+            "XLP",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "AAPL",
+            "XLY",
+            "ETH-USD",
+            "NVDA",
+            "META",
+            "^IXIC",
+            "XLK",
+            "JD",
+            "JDCMF"
+        ]
+    },
     "c81fdb3c-7877-33d0-8bc6-0ca188fef073": {
         "uuid": "c81fdb3c-7877-33d0-8bc6-0ca188fef073",
         "title": "Costco (COST) Stock Presents Enough Reasons to Stay Invested",
@@ -210,49 +264,6 @@
         },
         "relatedTickers": [
             "COST"
-        ]
-    },
-    "c6be3e52-036e-387f-a8dd-1058ce5cfce0": {
-        "uuid": "c6be3e52-036e-387f-a8dd-1058ce5cfce0",
-        "title": "Weekly Roundup",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/c6be3e52-036e-387f-a8dd-1058ce5cfce0/weekly-roundup.html",
-        "providerPublishTime": 1657926780,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hHW05l6Y1AUuzlBb7dmNGw--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
-                    "width": 1152,
-                    "height": 768,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WdTM3bN2acq7QQ0s6K7jYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFeIYJ05Y0.s4Vqc673P6A--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3fad62fb983cc64272607ebff4332767",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "MSFT",
-            "INTC",
-            "GOOGL",
-            "NVDA",
-            "SPGI",
-            "MS",
-            "AAPL",
-            "NUE",
-            "COST",
-            "AMN",
-            "CHPT",
-            "AMZN",
-            "PEP",
-            "MA",
-            "CBOE",
-            "STLD"
         ]
     }
 }

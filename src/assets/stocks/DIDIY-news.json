@@ -1,4 +1,58 @@
 {
+    "2f0775fb-0aec-33f0-9747-48e86cf305d4": {
+        "uuid": "2f0775fb-0aec-33f0-9747-48e86cf305d4",
+        "title": "China Fines Ride-Hailing Giant Didi $1.2 Billion, Citing Cybersecurity Breaches",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/2f0775fb-0aec-33f0-9747-48e86cf305d4/china-fines-ride-hailing.html",
+        "providerPublishTime": 1658393040,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Xz1bg4o2be.ldH0XltSZ3w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kgLsY5hmUt8mwGSTbmIrSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/42ac6bd76e4f4e09a582058cdbebf7a7",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/k7aXQb49OMfpmAiJDTo6lQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kgLsY5hmUt8mwGSTbmIrSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/42ac6bd76e4f4e09a582058cdbebf7a7",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIDIY"
+        ]
+    },
+    "b1348afe-6f4a-36e1-aae7-412eda159e44": {
+        "uuid": "b1348afe-6f4a-36e1-aae7-412eda159e44",
+        "title": "China Slaps $1.2 Billion Fine on Ride-Hailing Giant Didi, Citing Cybersecurity Breaches -- WSJ",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/b1348afe-6f4a-36e1-aae7-412eda159e44/china-slaps-%241.2-billion-fine.html",
+        "providerPublishTime": 1658384460,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIDIY"
+        ]
+    },
     "0b635d8d-9ebd-3131-81e1-f4497730e691": {
         "uuid": "0b635d8d-9ebd-3131-81e1-f4497730e691",
         "title": "China warns Pelosi on Taiwan visit, DiDi fined more than $1 billion, Yellen warns of China reliance",

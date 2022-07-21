@@ -1,21 +1,21 @@
 {
-    "a024d3a3-db47-3036-b646-79ff478977ad": {
-        "uuid": "a024d3a3-db47-3036-b646-79ff478977ad",
-        "title": "Johnson & Johnson (JNJ) Q2 2022 Earnings Call Transcript",
+    "2791ffca-d740-3bc6-b33e-842cc3831220": {
+        "uuid": "2791ffca-d740-3bc6-b33e-842cc3831220",
+        "title": "This Chart Shows a Big Problem for Johnson & Johnson, IBM, and Microsoft",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a024d3a3-db47-3036-b646-79ff478977ad/johnson-%26-johnson-%28jnj%29-q2.html",
-        "providerPublishTime": 1658264447,
+        "link": "https://finance.yahoo.com/m/2791ffca-d740-3bc6-b33e-842cc3831220/this-chart-shows-a-big.html",
+        "providerPublishTime": 1658397120,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CAv3sdndB2BWINUPwFekxQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/abrhrZBOQUV9dguo7fpjrg--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fcd62b68df24078810a138067aa48080",
                     "width": 1400,
-                    "height": 1494,
+                    "height": 841,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5D4GD3OoillNmz8vF7Ddng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/abrhrZBOQUV9dguo7fpjrg--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fcd62b68df24078810a138067aa48080",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,113 +23,28 @@
             ]
         },
         "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "106623bc-5fac-360c-930a-09d3d5b83e67": {
-        "uuid": "106623bc-5fac-360c-930a-09d3d5b83e67",
-        "title": "Stock Market Rallies On Earnings Lift; FAANG Stocks Lead The Way",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/106623bc-5fac-360c-930a-09d3d5b83e67/stock-market-rallies-on.html",
-        "providerPublishTime": 1658264109,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kntb3BNOy181OitDxjoQRA--~B/aD02ODI7dz0xNDI5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CV6l.J2Y.C.d7wPvRlkAqQ--~B/aD02ODI7dz0xNDI5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a4ff458cc8f8b9573b5ca28c2a1ce6c",
-                    "width": 1429,
-                    "height": 682,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YXetSc.ooDBglnEQT50k1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CV6l.J2Y.C.d7wPvRlkAqQ--~B/aD02ODI7dz0xNDI5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a4ff458cc8f8b9573b5ca28c2a1ce6c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
             "JNJ",
-            "HAL",
-            "LMT"
-        ]
-    },
-    "36e9e266-6769-305b-93d9-edd2340fdbfb": {
-        "uuid": "36e9e266-6769-305b-93d9-edd2340fdbfb",
-        "title": "JPMorgan adds former J&J chief Gorsky to board",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/jpmorgan-adds-former-j-j-204130743.html",
-        "providerPublishTime": 1658263290,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BAItIU_HvaI4rn7uG2qySw--~B/aD01NDE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6NvnsX3kx_3UNWSS9u9CVQ--~B/aD01NDE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/579c044093ccaea2a4ed51f9347367e2",
-                    "width": 800,
-                    "height": 541,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rvOg_SLSGml2fXuMjORtbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6NvnsX3kx_3UNWSS9u9CVQ--~B/aD01NDE7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/579c044093ccaea2a4ed51f9347367e2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "e72f0e92-7a0a-3935-a75f-9d1163ac54db": {
-        "uuid": "e72f0e92-7a0a-3935-a75f-9d1163ac54db",
-        "title": "Stock Market Today: Dow Spikes 754 Points Despite IBM, J&J Earnings Slumps",
-        "publisher": "Kiplinger",
-        "link": "https://finance.yahoo.com/news/stock-market-today-dow-spikes-203419984.html",
-        "providerPublishTime": 1658262859,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s4ccUQ6Y0dih4xg1iXMN_g--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/SJfU.aZBJ7xCknCNfNmBpg--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger.com/2ca0c21cf035e45d415b9c45125b6a17",
-                    "width": 845,
-                    "height": 475,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DiqqoGTXeOJzATKH7pxT_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/SJfU.aZBJ7xCknCNfNmBpg--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger.com/2ca0c21cf035e45d415b9c45125b6a17",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "IBM",
-            "NFLX",
-            "JNJ",
-            "^GSPC"
+            "MSFT"
         ]
     },
-    "6e3e6e9f-6ee8-3b37-96ed-2a23de1dcd0d": {
-        "uuid": "6e3e6e9f-6ee8-3b37-96ed-2a23de1dcd0d",
-        "title": "Tech and semiconductor stocks move higher into the close, U.S. dollar rally comes to a pause",
+    "20cdf402-4acf-3400-877e-bc817687ba62": {
+        "uuid": "20cdf402-4acf-3400-877e-bc817687ba62",
+        "title": "Earnings: It will be 'key to listen to the forward guidance' in the second quarter, strategist says",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/tech-semiconductor-stocks-move-higher-202031763.html",
-        "providerPublishTime": 1658262031,
+        "link": "https://finance.yahoo.com/video/earnings-key-listen-forward-guidance-193551186.html",
+        "providerPublishTime": 1658345751,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tKaXA1Z2fPc30mQsKiwfqA--~B/aD0xNTI1O3c9MjcxNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6da8ffe0-079f-11ed-bf6f-f63291742789",
-                    "width": 2717,
-                    "height": 1525,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/85i1h4qou7smWW4pMHEt5w--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/220ff8d0-0863-11ed-afff-a5dc5c2f4a15",
+                    "width": 2792,
+                    "height": 1567,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IDWfaljhKdyz28x4MghXAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6da8ffe0-079f-11ed-bf6f-f63291742789",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XAghqQbj8Usfl73hs9JxiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/220ff8d0-0863-11ed-afff-a5dc5c2f4a15",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -137,49 +52,78 @@
             ]
         },
         "relatedTickers": [
-            "XLC",
-            "NVDA",
-            "^NDX",
-            "ABNB",
-            "^RUT",
-            "^DJI",
-            "RCL",
-            "MRK",
-            "GOOG",
-            "GOOGL",
+            "NFLX",
+            "GS",
+            "AAL",
+            "UAL",
+            "C",
+            "LUV",
+            "JPM",
+            "DAL",
             "DX-Y.NYB",
+            "SAVE",
+            "^IXIC",
             "JNJ",
-            "XLI",
+            "JBLU",
+            "^DJI",
+            "WFC",
+            "WFC-PD",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS",
+            "ULCC",
             "^GSPC",
-            "^TNX",
-            "^TYX",
-            "^FVX",
-            "AMZN",
-            "CCL",
-            "CUK",
-            "CUKPF",
-            "IBM",
-            "^IRX",
-            "^IXIC"
+            "^NDX"
         ]
     },
-    "8595577f-9025-31e1-9b51-34f6186c0dd8": {
-        "uuid": "8595577f-9025-31e1-9b51-34f6186c0dd8",
-        "title": "Here's The Surprising Driver Of J&J's Second-Quarter Beat, And Why It Didn't Help",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/8595577f-9025-31e1-9b51-34f6186c0dd8/here%27s-the-surprising-driver.html",
-        "providerPublishTime": 1658261218,
+    "d06fa08e-0443-3fcf-b7bd-fe9ce2fb0127": {
+        "uuid": "d06fa08e-0443-3fcf-b7bd-fe9ce2fb0127",
+        "title": "Inflation Is Yesterday\u2019s News. A Strong Dollar Is Next Big Threat for U.S. Multinationals.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/d06fa08e-0443-3fcf-b7bd-fe9ce2fb0127/inflation-is-yesterday%E2%80%99s.html",
+        "providerPublishTime": 1658340780,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TX_ZH8AeekmdXt1R7.2qlg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0b05LQjGVHTZEpE1poqm3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e48318775b7dd5fbec1ae03308feaf2",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lyH3K9RjhrJrjlzmasWfjw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7LZM7N7rZxWnYSf3widPSw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bf238e69db19dc6fd93971d9446937aa",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.msrMc0cxT2cgqLEy8wnqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0b05LQjGVHTZEpE1poqm3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/8e48318775b7dd5fbec1ae03308feaf2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZLVV0OKrYIQkF5klF5kEyw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7LZM7N7rZxWnYSf3widPSw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bf238e69db19dc6fd93971d9446937aa",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "HAS",
+            "IBM",
+            "JNJ",
+            "HAL"
+        ]
+    },
+    "f8cc0f1c-893d-3453-b675-d1ec98b50ab8": {
+        "uuid": "f8cc0f1c-893d-3453-b675-d1ec98b50ab8",
+        "title": "JNJ Beats on Q2 Earnings, Cuts View: ETFs in Focus",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/jnj-beats-q2-earnings-cuts-151503686.html",
+        "providerPublishTime": 1658330103,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WoHhVpfc5q2TEM.g9IO1EA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oeK5rO4fDl1d34mN96F56A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f3f15a36f635cd8200884e1a968d4c3d",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/F2lQ_GBIZgmUgqgtDMXrSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oeK5rO4fDl1d34mN96F56A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f3f15a36f635cd8200884e1a968d4c3d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -190,38 +134,23 @@
             "JNJ"
         ]
     },
-    "05deab91-ab6e-3413-a2c1-b49083b18e33": {
-        "uuid": "05deab91-ab6e-3413-a2c1-b49083b18e33",
-        "title": "US STOCKS-Wall Street ends sharply higher on strong corporate earnings",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/us-stocks-wall-street-ends-200053153.html",
-        "providerPublishTime": 1658260853,
+    "7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd": {
+        "uuid": "7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd",
+        "title": "Stock Market Today: Track Market Trends And The Best Stocks To Watch",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd/stock-market-today%3A-track.html",
+        "providerPublishTime": 1658328711,
         "type": "STORY",
-        "relatedTickers": [
-            "^GSPC",
-            "JNJ",
-            "HAL",
-            "BA",
-            "TFC-PR"
-        ]
-    },
-    "c7e4926e-9b37-38dc-b42f-84bbefff7a26": {
-        "uuid": "c7e4926e-9b37-38dc-b42f-84bbefff7a26",
-        "title": "COVID: CDC unanimously recommends Novavax vaccine for adults",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/covid-cdc-unanimously-recommends-novavaxx-192745709.html",
-        "providerPublishTime": 1658258865,
-        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bge4rlp4XXeQERw7ScEhEA--~B/aD0xOTc0O3c9MzUwNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
-                    "width": 3506,
-                    "height": 1974,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ltSiXwQxPsJEr4ZtW4snYA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TQcagl7pYHbkxFjtqiLLlQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/28e88eac1c8027393a22cb7ae91a9299",
+                    "width": 945,
+                    "height": 533,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w.oASZrPsoS6Yk9lbmxpbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wvX3wjkbPnNkNtbzDlPuLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TQcagl7pYHbkxFjtqiLLlQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/28e88eac1c8027393a22cb7ae91a9299",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -229,14 +158,133 @@
             ]
         },
         "relatedTickers": [
+            "TWTR",
+            "AHCO",
+            "NFLX",
             "JNJ",
-            "MRK",
             "AZN",
-            "AZNCF",
-            "NVAX",
-            "BNTX",
-            "MRNA",
-            "PFE"
+            "AZNCF"
+        ]
+    },
+    "cbef5245-4981-39bb-a790-ccd3ed9182e3": {
+        "uuid": "cbef5245-4981-39bb-a790-ccd3ed9182e3",
+        "title": "Stocks on the move: Salesforce, Disney, UnitedHealth, Netflix",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-move-salesforce-disney-unitedhealth-144101690.html",
+        "providerPublishTime": 1658328061,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KBwcAagVzVep_XmgfqOtKA--~B/aD0xNTM5O3c9Mjc0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e6f44680-0839-11ed-bfff-ef904b802594",
+                    "width": 2742,
+                    "height": 1539,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qwRNl9jFuIeUQ.wNEm135g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e6f44680-0839-11ed-bfff-ef904b802594",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EXPE",
+            "XLV",
+            "PG",
+            "WMT",
+            "ABNB",
+            "MSFT",
+            "XLRE",
+            "LUV",
+            "XLP",
+            "HLT",
+            "UNH",
+            "BKNG",
+            "NFLX",
+            "XLB",
+            "^DJI",
+            "MAR",
+            "XLU",
+            "AAPL",
+            "XLF",
+            "JNJ",
+            "^IXIC",
+            "XLI",
+            "XLK",
+            "V",
+            "DIS",
+            "BZ=F",
+            "^GSPC",
+            "XLY"
+        ]
+    },
+    "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1": {
+        "uuid": "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1",
+        "title": "10 Best Long-Term Dividend Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-long-term-dividend-132258441.html",
+        "providerPublishTime": 1658323378,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/r0yS8HdCKDNcf6GHD0nA7w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5gYQ3Mjmnv.kfmNHEQNcug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TXN",
+            "UNP",
+            "CHD",
+            "HD",
+            "KO",
+            "ALL-PG",
+            "MRK",
+            "JNJ"
+        ]
+    },
+    "279e25da-f5b0-3053-95f2-620f0fdb25d7": {
+        "uuid": "279e25da-f5b0-3053-95f2-620f0fdb25d7",
+        "title": "10 Best Healthcare Stocks To Buy Now According To Motley Fool\u2019s 1623 Capital",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-healthcare-stocks-buy-132125616.html",
+        "providerPublishTime": 1658323285,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GoRgY5Sxh6pD6wn069to_g--~B/aD00ODk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/x3oPe_zGQ1DFiuxuV3uRiA--~B/aD00ODk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ff78c7603e2c1ec8c59b41b6c2e9a7bc",
+                    "width": 750,
+                    "height": 489,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/syO0m9OBahFsWBqNROD_5w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/x3oPe_zGQ1DFiuxuV3uRiA--~B/aD00ODk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ff78c7603e2c1ec8c59b41b6c2e9a7bc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PODD",
+            "QTRX",
+            "NARI",
+            "DXCM",
+            "VERV",
+            "AMZN",
+            "JNJ"
         ]
     }
 }

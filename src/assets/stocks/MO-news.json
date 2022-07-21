@@ -86,6 +86,39 @@
             "MO"
         ]
     },
+    "93286b59-2601-3393-ade4-d6cc42ab62d6": {
+        "uuid": "93286b59-2601-3393-ade4-d6cc42ab62d6",
+        "title": "7 Blue-Chip Stocks Trading a Huge Discount Right Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-blue-chip-stocks-trading-150051213.html",
+        "providerPublishTime": 1658070051,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mswIyntm0NDxcOh.NZclHQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lFmi1d4zmdA7TXIfTluvKQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d864b4130c9cae906e408d72f46cd4a2",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FTXn7hbUOefzwLl0if7bGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lFmi1d4zmdA7TXIfTluvKQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d864b4130c9cae906e408d72f46cd4a2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "INTC",
+            "XOM",
+            "JPM",
+            "MO",
+            "T-PC",
+            "TGT"
+        ]
+    },
     "74878fed-e1b9-3eef-9943-3bd775634784": {
         "uuid": "74878fed-e1b9-3eef-9943-3bd775634784",
         "title": "When the Market Is a Royal Pain, Go With These Dividend Kings",
@@ -197,37 +230,6 @@
         },
         "relatedTickers": [
             "MO"
-        ]
-    },
-    "ac452d38-1702-3a7e-8a96-3e5e16e84284": {
-        "uuid": "ac452d38-1702-3a7e-8a96-3e5e16e84284",
-        "title": "Industry Experts to Inform Investments: Join Stream in Fireside Chat to Discuss New Expert Call Transcript Library July 28 at 2PM ET",
-        "publisher": "IPO-Edge.com",
-        "link": "https://finance.yahoo.com/news/industry-experts-inform-investments-join-145301745.html",
-        "providerPublishTime": 1657637581,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Af8nkmp4ukbru1d90vpM4g--~B/aD0xMjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/thsWbWvw2uYHvCK_fxQf2w--~B/aD0xMjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ipo_edge_com_346/d7dbd69f549c58f25aa42d219748ef7c",
-                    "width": 300,
-                    "height": 129,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_UsuoI_7mIsJiT9LuKn1zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/thsWbWvw2uYHvCK_fxQf2w--~B/aD0xMjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ipo_edge_com_346/d7dbd69f549c58f25aa42d219748ef7c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FL",
-            "MO",
-            "NKE",
-            "SGEN",
-            "ZEN"
         ]
     }
 }

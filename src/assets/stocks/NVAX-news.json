@@ -1,21 +1,73 @@
 {
-    "6cbad422-1c3f-3528-a5d1-81c7dbc8fb38": {
-        "uuid": "6cbad422-1c3f-3528-a5d1-81c7dbc8fb38",
-        "title": "CDC gives final approval for more traditional Novavax COVID vaccine for adults",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/6cbad422-1c3f-3528-a5d1-81c7dbc8fb38/cdc-gives-final-approval-for.html",
-        "providerPublishTime": 1658273040,
+    "678de834-d8ff-3cb9-81f5-c0ee7ed81264": {
+        "uuid": "678de834-d8ff-3cb9-81f5-c0ee7ed81264",
+        "title": "Biotech Stock Roundup: APLS, NVAX Gain on Updates, INCYs Regulatory News & More",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/biotech-stock-roundup-apls-nvax-154203730.html",
+        "providerPublishTime": 1658331723,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eaRj6wiAHnPMHxgGdZB1SQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/s_fmvCmOzpO2zwX1GMCQ0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/3ce3daf98db65d770cb8e0e6316849a0",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QY9qucZMbqb7FOMArsSGCQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gw9hjYsV9oVXUgeEGEfgLQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f91db6bb14dedc17d5edb20f29c41da3",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/B5166bw1u5oKESnwMHk7hA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/s_fmvCmOzpO2zwX1GMCQ0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/3ce3daf98db65d770cb8e0e6316849a0",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G8wJdhwMC1PrJuj4mU5GUQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gw9hjYsV9oVXUgeEGEfgLQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f91db6bb14dedc17d5edb20f29c41da3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "INCY",
+            "NVAX",
+            "NEXI",
+            "APLS"
+        ]
+    },
+    "517aafc8-8288-3c64-b1fe-0adc6d36339e": {
+        "uuid": "517aafc8-8288-3c64-b1fe-0adc6d36339e",
+        "title": "Here's How Novavax Stock Could Rally Through 2023",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/517aafc8-8288-3c64-b1fe-0adc6d36339e/here%27s-how-novavax-stock.html",
+        "providerPublishTime": 1658330580,
+        "type": "STORY",
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "ebb437eb-2a17-3c58-ac35-53adf783c621": {
+        "uuid": "ebb437eb-2a17-3c58-ac35-53adf783c621",
+        "title": "Why Novavax Stock Is Jumping Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ebb437eb-2a17-3c58-ac35-53adf783c621/why-novavax-stock-is-jumping.html",
+        "providerPublishTime": 1658328680,
+        "type": "STORY",
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "f167cdf2-af95-3936-842d-904439397b03": {
+        "uuid": "f167cdf2-af95-3936-842d-904439397b03",
+        "title": "Novavax's Shareholders Can Breathe a Sigh of Relief",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f167cdf2-af95-3936-842d-904439397b03/novavax%27s-shareholders-can.html",
+        "providerPublishTime": 1658326500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bPr3JYMGSBU2.C3TnLQ81g--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7HHLChn9o0d9GCzvIaNhqw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b85b9d162e2c65adc788c541b4810873",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YNbSWadLm0zhi83iOQqE_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7HHLChn9o0d9GCzvIaNhqw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b85b9d162e2c65adc788c541b4810873",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -26,23 +78,23 @@
             "NVAX"
         ]
     },
-    "75b076bd-ee8d-3202-a0ee-c23cadff7163": {
-        "uuid": "75b076bd-ee8d-3202-a0ee-c23cadff7163",
-        "title": "CDC Recommends Novavax\u2019s Covid Vaccine for Adults 18 and Older",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/75b076bd-ee8d-3202-a0ee-c23cadff7163/cdc-recommends-novavax%E2%80%99s.html",
-        "providerPublishTime": 1658270820,
+    "255e5634-d2b5-3a67-95b0-ff0d4cbf7d0c": {
+        "uuid": "255e5634-d2b5-3a67-95b0-ff0d4cbf7d0c",
+        "title": "Novavax (NVAX) Up as CDC Endorses COVID Jab for Use in Adults",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-cdc-endorses-covid-133601124.html",
+        "providerPublishTime": 1658324161,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cVGLAW5ga3q1eG.BcNzm9A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/__PPLAIRzQ0r.TVwy0CCpQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/628740e5cee4003d66278f2bf5049574",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zBX6Dt.nKVphac.OLfD5Tg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/__PPLAIRzQ0r.TVwy0CCpQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/628740e5cee4003d66278f2bf5049574",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -50,125 +102,56 @@
             ]
         },
         "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "6ceba457-81d3-3044-8a73-03748c270b8f": {
-        "uuid": "6ceba457-81d3-3044-8a73-03748c270b8f",
-        "title": "U.S. CDC Advisory Committee Unanimously Recommends Novavax COVID-19 Vaccine, Adjuvanted as a Primary Series for Individuals Aged 18 and Older",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/u-cdc-advisory-committee-unanimously-214600121.html",
-        "providerPublishTime": 1658267160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5LCY4P48cpLS9HvOTdAatQ--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 400,
-                    "height": 176,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EN0UiQl8i4B0tHITKGkZmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "ef701268-95fe-3202-b744-b1cefd9af363": {
-        "uuid": "ef701268-95fe-3202-b744-b1cefd9af363",
-        "title": "Novavax says U.S. FDA clears COVID vaccine doses for release",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/novavax-says-u-fda-clears-201802818.html",
-        "providerPublishTime": 1658261882,
-        "type": "STORY",
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "5c2d0c9c-2eaf-3d61-9494-734b7ee89fce": {
-        "uuid": "5c2d0c9c-2eaf-3d61-9494-734b7ee89fce",
-        "title": "Novavax\u2019s Covid-19 vaccine gets a CDC group's endorsement",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/5c2d0c9c-2eaf-3d61-9494-734b7ee89fce/novavax%E2%80%99s-covid-19-vaccine.html",
-        "providerPublishTime": 1658260270,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nJsNqNZdXsd3jUYvO84fIg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/V0eqb2eXGs4WVsP7oFkxDA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/2ccd6916c224cb386edf511791313879",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/C6Whj4gkT7aqOtvM5ylOKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/V0eqb2eXGs4WVsP7oFkxDA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/2ccd6916c224cb386edf511791313879",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "c7e4926e-9b37-38dc-b42f-84bbefff7a26": {
-        "uuid": "c7e4926e-9b37-38dc-b42f-84bbefff7a26",
-        "title": "COVID: CDC unanimously recommends Novavax vaccine for adults",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/covid-cdc-unanimously-recommends-novavaxx-192745709.html",
-        "providerPublishTime": 1658258865,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bge4rlp4XXeQERw7ScEhEA--~B/aD0xOTc0O3c9MzUwNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
-                    "width": 3506,
-                    "height": 1974,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w.oASZrPsoS6Yk9lbmxpbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "MRK",
-            "AZN",
-            "AZNCF",
             "NVAX",
             "BNTX",
-            "MRNA",
-            "PFE"
+            "PFE",
+            "MRNA"
         ]
     },
-    "a4c27c9b-ffc0-3685-a35a-59dfe5051631": {
-        "uuid": "a4c27c9b-ffc0-3685-a35a-59dfe5051631",
-        "title": "CDC committee recommends Novavax's COVID-19 vaccine",
+    "884822ed-3ef3-3dba-955f-94173c0b40cd": {
+        "uuid": "884822ed-3ef3-3dba-955f-94173c0b40cd",
+        "title": "Novavax Stock Rises After CDC Endorses Covid-19 Vaccine",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/884822ed-3ef3-3dba-955f-94173c0b40cd/novavax-stock-rises-after-cdc.html",
+        "providerPublishTime": 1658324040,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zM9Un6pkJKqDiwd9uIoIqQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XmWTR0oboynaVmCuxTNuhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5a048ddaef3798d9f223af5b7bf5470f",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zhmAtnYUnWi5VbquloaRqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XmWTR0oboynaVmCuxTNuhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5a048ddaef3798d9f223af5b7bf5470f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "a1734b47-485c-3744-8a7b-cf3ba3683319": {
+        "uuid": "a1734b47-485c-3744-8a7b-cf3ba3683319",
+        "title": "CDC OK\u2019s Novavax vaccine to add fourth shot to U.S. program, and COVID cases triple in Europe in six-week span",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/a4c27c9b-ffc0-3685-a35a-59dfe5051631/cdc-committee-recommends.html",
-        "providerPublishTime": 1658258391,
+        "link": "https://finance.yahoo.com/m/a1734b47-485c-3744-8a7b-cf3ba3683319/cdc-ok%E2%80%99s-novavax-vaccine-to.html",
+        "providerPublishTime": 1658323680,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0jtrCKOyMmLOfJno1llzbw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zrOTUu_XhGkIQ1yVtcLBaA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/42b6418040f45b3dc26dd74dbe138001",
+                    "width": 1279,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wbsgtrP28JWSPxe7xnh8OA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zrOTUu_XhGkIQ1yVtcLBaA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/42b6418040f45b3dc26dd74dbe138001",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -176,27 +159,29 @@
             ]
         },
         "relatedTickers": [
-            "^GSPC",
-            "NVAX"
+            "BNTX",
+            "NVAX",
+            "PFE",
+            "MRNA"
         ]
     },
-    "b24f0cef-e1b0-3511-b6ce-453459d901ca": {
-        "uuid": "b24f0cef-e1b0-3511-b6ce-453459d901ca",
-        "title": "UPDATE 4-U.S. CDC recommends Novavax COVID vaccine for adults",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-u-cdc-advisers-back-185646791.html",
-        "providerPublishTime": 1658257006,
+    "b80c55a7-1982-3d2c-9667-8efcc0e39969": {
+        "uuid": "b80c55a7-1982-3d2c-9667-8efcc0e39969",
+        "title": "2 Struggling Stocks That Could Fall Even Further in the Second Half",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b80c55a7-1982-3d2c-9667-8efcc0e39969/2-struggling-stocks-that.html",
+        "providerPublishTime": 1658314500,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bge4rlp4XXeQERw7ScEhEA--~B/aD0xOTc0O3c9MzUwNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
-                    "width": 3506,
-                    "height": 1974,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CvqBenvLtlkwgK_3xxHWJQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z5MCvU6mUTV9u99z8qCHPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ae56f47159dc9815e6cea914da3f6c4",
+                    "width": 1400,
+                    "height": 752,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w.oASZrPsoS6Yk9lbmxpbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/dd6a5470-0798-11ed-9f9e-f193c8e837f1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gIzOVVJsHbtnUBSBkKA6jA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z5MCvU6mUTV9u99z8qCHPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ae56f47159dc9815e6cea914da3f6c4",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -204,7 +189,8 @@
             ]
         },
         "relatedTickers": [
-            "NVAX"
+            "NVAX",
+            "SBUX"
         ]
     }
 }

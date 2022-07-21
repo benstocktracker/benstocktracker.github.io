@@ -1,10 +1,75 @@
 {
+    "dffb9016-fa22-37fb-8a1d-d21837d5b629": {
+        "uuid": "dffb9016-fa22-37fb-8a1d-d21837d5b629",
+        "title": "China is the 'hearts and lungs' of the Tesla story: Analyst",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/china-hearts-lungs-tesla-story-212652879.html",
+        "providerPublishTime": 1658352412,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0mU_8ERi8zTI4y7eEtswTQ--~B/aD0xNDg3O3c9MjY0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9b483cd0-0872-11ed-9ffc-b59556d88d91",
+                    "width": 2648,
+                    "height": 1487,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/..UYaGpxzqoLkz3UybjMwQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9b483cd0-0872-11ed-9ffc-b59556d88d91",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "XPNGF",
+            "GM",
+            "RVNC",
+            "TSLA",
+            "LCID",
+            "LAZR",
+            "F",
+            "NIO",
+            "BTC-USD"
+        ]
+    },
+    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
+        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
+        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
+        "providerPublishTime": 1658351999,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BYDDY",
+            "TSLA",
+            "XPEV"
+        ]
+    },
     "e074e541-a391-3d14-a74d-dcf58539eb5c": {
         "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
         "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
-        "providerPublishTime": 1658266674,
+        "providerPublishTime": 1658351874,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -31,23 +96,23 @@
             "BABA"
         ]
     },
-    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
-        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
-        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
-        "providerPublishTime": 1658263319,
-        "type": "STORY",
+    "e4ac8084-fc82-39d5-9397-f06878c41b23": {
+        "uuid": "e4ac8084-fc82-39d5-9397-f06878c41b23",
+        "title": "EV infrastructure is a 'public-private partnership': Transportation Secretary Buttigieg",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/ev-infrastructure-public-private-partnership-210529460.html",
+        "providerPublishTime": 1658351129,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hzUrTiWPhrpkU_Xh8WSVWQ--~B/aD0xNDUxO3c9MjU4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ae1c8490-086f-11ed-badd-adfcd9e51387",
+                    "width": 2585,
+                    "height": 1451,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8SCr_m7sOYqzbLyPtT_PZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ae1c8490-086f-11ed-badd-adfcd9e51387",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -55,9 +120,26 @@
             ]
         },
         "relatedTickers": [
-            "BYDDY",
-            "TSLA",
-            "XPEV"
+            "RIVN",
+            "DAL",
+            "HMC",
+            "HNDAF",
+            "LAZR",
+            "TM",
+            "TOYOF",
+            "LUV",
+            "ULCC",
+            "F",
+            "UAL",
+            "LCID",
+            "NKLA",
+            "AAL",
+            "GM",
+            "VLTA",
+            "XPEV",
+            "XPNGF",
+            "JBLU",
+            "SAVE"
         ]
     },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
@@ -65,7 +147,7 @@
         "title": "Tesla Stock Vs. BYD Stock: Tesla Earnings Due; China EV Giant Launching Model 3 Rival",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1658148084,
+        "providerPublishTime": 1658289864,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -174,61 +256,6 @@
         },
         "relatedTickers": [
             "XPEV"
-        ]
-    },
-    "eae5fb4a-5ddd-3d27-84b2-11932480512d": {
-        "uuid": "eae5fb4a-5ddd-3d27-84b2-11932480512d",
-        "title": "XPeng's robotics unit raises US$100 million with the aim of commercialising its business in two years",
-        "publisher": "South China Morning Post",
-        "link": "https://finance.yahoo.com/news/xpengs-robotics-unit-raises-us-093000908.html",
-        "providerPublishTime": 1657618200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ivPwr3rKpYevJhijlAy9NA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/JrnlMlqHcz1XC3kRnzWNMA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/98e37ecbc36bc0c72705d6a0bce54166",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/g2bMn21lE_iIzg.cmUy0zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JrnlMlqHcz1XC3kRnzWNMA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/98e37ecbc36bc0c72705d6a0bce54166",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV"
-        ]
-    },
-    "3c3d361e-a520-304f-a737-a14cd1d9f414": {
-        "uuid": "3c3d361e-a520-304f-a737-a14cd1d9f414",
-        "title": "XPENG Robotics Completes US$100 Million Series A Fund Raising",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/xpeng-robotics-completes-us-100-072700510.html",
-        "providerPublishTime": 1657610820,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AtN4BALZQRU0rhYs_9bFWQ--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2d0oeOWxGhLq7DtyLCgf4g--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/7c054c63da6a9d9fc4662f0ca7c38ca7",
-                    "width": 480,
-                    "height": 270,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/utT0qcpHFKZxgaPvDe2xXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2d0oeOWxGhLq7DtyLCgf4g--~B/aD0yNzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/7c054c63da6a9d9fc4662f0ca7c38ca7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV",
-            "XPNGF"
         ]
     }
 }

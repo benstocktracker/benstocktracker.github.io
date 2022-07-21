@@ -1,4 +1,35 @@
 {
+    "d0d3b581-88fc-38af-8fca-bb19024e1d7d": {
+        "uuid": "d0d3b581-88fc-38af-8fca-bb19024e1d7d",
+        "title": "6 Favorite Stock Picks of Munir Javeri\u2019s 3G Sahana Capital Management",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/6-favorite-stock-picks-munir-131807197.html",
+        "providerPublishTime": 1658323087,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XuRgB7UUV7SCBjrfE9ZQFQ--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F_NysmOCPusDyAcjOLiQIA--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fc993885cde16719fa19aca2b4c219b8",
+                    "width": 750,
+                    "height": 422,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4KcpIjRVn1Ero7Hb_5MZsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F_NysmOCPusDyAcjOLiQIA--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fc993885cde16719fa19aca2b4c219b8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC",
+            "BKNG",
+            "LBRDP",
+            "VZ",
+            "CHTR"
+        ]
+    },
     "3734ab45-28dc-3e3e-b780-b1927fcd3a69": {
         "uuid": "3734ab45-28dc-3e3e-b780-b1927fcd3a69",
         "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Consumer Discretionary Names",
@@ -193,40 +224,6 @@
             "AAPL",
             "LSXMK",
             "RH"
-        ]
-    },
-    "660d50d4-d425-308b-8e59-3369c1ad7518": {
-        "uuid": "660d50d4-d425-308b-8e59-3369c1ad7518",
-        "title": "Top 10 Stock Picks of Roberto Mignone\u2019s Bridger Management",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/top-10-stock-picks-roberto-130613398.html",
-        "providerPublishTime": 1656507973,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pGN20h5ORZb80Qvij06puw--~B/aD02MDA7dz00Nzk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/L0JK.k_c1.BucUhsrFWpdg--~B/aD02MDA7dz00Nzk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/94ce985d85169fc11eab1c176585b994",
-                    "width": 479,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7kAcUcYQLCAqQBJpeoLkQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/L0JK.k_c1.BucUhsrFWpdg--~B/aD02MDA7dz00Nzk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/94ce985d85169fc11eab1c176585b994",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ROST",
-            "CNC",
-            "VRSN",
-            "ALC.SW",
-            "GOOGL",
-            "CHTR",
-            "AMZN",
-            "META"
         ]
     }
 }
