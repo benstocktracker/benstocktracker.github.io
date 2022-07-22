@@ -1,21 +1,21 @@
 {
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp-Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1658402415,
+    "a45a800f-835d-3588-be69-78c386d8b816": {
+        "uuid": "a45a800f-835d-3588-be69-78c386d8b816",
+        "title": "AT&T Stock Is Falling, But Its Dividend Yield Is Getting Even Bigger",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a45a800f-835d-3588-be69-78c386d8b816/at%26t-stock-is-falling%2C-but.html",
+        "providerPublishTime": 1658435160,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9fI_WqOXfdKTrl_95ea.MA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E12.kfFoRr3CT0BlPBbhSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iX6mLMShJPY6GbxjBKybEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uZm1qSbX6m_URB9kJbIaFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,29 +23,125 @@
             ]
         },
         "relatedTickers": [
-            "VZ",
             "T",
-            "^GSPC"
+            "T-PA",
+            "T-PC",
+            "WBD",
+            "^GSPC",
+            "MO",
+            "VZ"
         ]
     },
-    "862609c4-dd54-3b75-b544-d16a81099cea": {
-        "uuid": "862609c4-dd54-3b75-b544-d16a81099cea",
-        "title": "UPDATE 1-AT&T sees higher wireless service revenue as subscribers jump",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-t-sees-higher-wireless-110055427.html",
-        "providerPublishTime": 1658401255,
+    "e6a9dce6-d93f-3fcc-8a81-c347beef3230": {
+        "uuid": "e6a9dce6-d93f-3fcc-8a81-c347beef3230",
+        "title": "Google Pixel 6a Review: The Best Pixel Yet and It's Just $449",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/e6a9dce6-d93f-3fcc-8a81-c347beef3230/google-pixel-6a-review%3A-the.html",
+        "providerPublishTime": 1658422860,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/erbvUcw624dOhiDz1_WVuw--~B/aD01NTgyO3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/rjCs14u7Ol0ZiCEPr45jVQ--~B/aD01NTgyO3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ee2955f751414753235a0e3cb89d7f83",
+                    "width": 8000,
+                    "height": 5582,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VCqhRuzNKPw03CFWVeKuGA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rjCs14u7Ol0ZiCEPr45jVQ--~B/aD01NTgyO3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ee2955f751414753235a0e3cb89d7f83",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
+            "GOOGL",
             "T-PC",
             "VZ"
         ]
     },
-    "3e3f3fc9-0e62-3a35-9347-34003855beb7": {
-        "uuid": "3e3f3fc9-0e62-3a35-9347-34003855beb7",
-        "title": "Verizon to report earnings July 22, 2022",
+    "389d064f-8b45-3c17-b700-1515fe63df89": {
+        "uuid": "389d064f-8b45-3c17-b700-1515fe63df89",
+        "title": "Verizon, American Express, Twitter Earnings: 3 Things to Watch",
+        "publisher": "Investing.com",
+        "link": "https://finance.yahoo.com/news/verizon-american-express-twitter-earnings-155249008.html",
+        "providerPublishTime": 1658418769,
+        "type": "STORY",
+        "relatedTickers": [
+            "AXP",
+            "VZ",
+            "TSLA"
+        ]
+    },
+    "706ab771-93ab-3597-ac90-b8bfaf01fe81": {
+        "uuid": "706ab771-93ab-3597-ac90-b8bfaf01fe81",
+        "title": "2 Top Dividend Stocks Trading at Incredibly Cheap Valuations",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/706ab771-93ab-3597-ac90-b8bfaf01fe81/2-top-dividend-stocks-trading.html",
+        "providerPublishTime": 1658417400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DU2dmiTEu.a84uso.ixlPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WlpckqMmpzNeRnGbfzLuBA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b9ec578f845d9a73ee9f843bade3a5d2",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/boHp0IRWLObm6Sm6ULnAiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WlpckqMmpzNeRnGbfzLuBA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b9ec578f845d9a73ee9f843bade3a5d2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CVS",
+            "VZ",
+            "^GSPC"
+        ]
+    },
+    "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f": {
+        "uuid": "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f",
+        "title": "AT&T Stock Drops Despite Adding Subscribers. Here\u2019s Why.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/d4d0bdbc-be28-3932-ba41-d33c44a2ec4f/at%26t-stock-drops-despite.html",
+        "providerPublishTime": 1658414460,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zWOq2Ckcyt_Bbc6RiuOqQQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NDDvcC6eMZgal90UAWs.ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD",
+            "T",
+            "T-PA",
+            "T-PC",
+            "TMUS",
+            "^GSPC",
+            "VZ"
+        ]
+    },
+    "2e50f090-1a07-3511-9008-6cdb4f2eef74": {
+        "uuid": "2e50f090-1a07-3511-9008-6cdb4f2eef74",
+        "title": "Verizon Frontline to support \u2018First Lap for First Responders\u2019 at NASCAR\u00ae races",
         "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-report-earnings-july-22-110000650.html",
-        "providerPublishTime": 1658401200,
+        "link": "https://finance.yahoo.com/news/verizon-frontline-support-first-lap-140000920.html",
+        "providerPublishTime": 1658412000,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -67,23 +163,23 @@
             "VZ"
         ]
     },
-    "a2903e72-9b42-3654-8f2d-26acda7f3c5e": {
-        "uuid": "a2903e72-9b42-3654-8f2d-26acda7f3c5e",
-        "title": "Verizon Q2 Preview: EPS Beat in Store?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/verizon-q2-preview-eps-beat-212809346.html",
-        "providerPublishTime": 1658352489,
+    "b5ee582a-eeef-35ab-a586-4eb0c9e45c39": {
+        "uuid": "b5ee582a-eeef-35ab-a586-4eb0c9e45c39",
+        "title": "Verizon delivers back-to-school deals for your best year yet",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/verizon-delivers-back-school-deals-130000805.html",
+        "providerPublishTime": 1658408400,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/30GKBdSYRXWyJf2fvBGKCA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/m7tjApF7BqnfqzGBp9dx2Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dfcefbf922a6e28511863f9254d27faa",
-                    "width": 635,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
+                    "width": 1300,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/p7s4U4TIXs0J.1YmKwu26Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/m7tjApF7BqnfqzGBp9dx2Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dfcefbf922a6e28511863f9254d27faa",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -94,52 +190,23 @@
             "VZ"
         ]
     },
-    "d2478785-2d03-3048-a5bc-ab4b6d78317a": {
-        "uuid": "d2478785-2d03-3048-a5bc-ab4b6d78317a",
-        "title": "Will T-Mobile Regain Postpaid Phone Bragging Rights From AT&T?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/d2478785-2d03-3048-a5bc-ab4b6d78317a/will-t-mobile-regain-postpaid.html",
-        "providerPublishTime": 1658337011,
+    "aa6d32f0-74ca-3a01-84ce-b9091cade3b8": {
+        "uuid": "aa6d32f0-74ca-3a01-84ce-b9091cade3b8",
+        "title": "Verizon Sees US Investors Ratcheting Up Demands on Green Bonds",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/verizon-sees-us-investors-ratcheting-123000085.html",
+        "providerPublishTime": 1658406600,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/13E2J7cpOZIh2rEyDuz1Jw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RUsDwUZK6c.vzTrWPL_Hag--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ea2d18a1e86e2fe23e95733185fa55d5",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vjTml01DkAj24vM0aiC7Mg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XNg04bEne1vjCVn.zNIbQA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/98b5238ad685e820cd9a15bd72521ec0",
+                    "width": 1200,
+                    "height": 675,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MWvl3u5_mk0Ha4BBdz4ovA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RUsDwUZK6c.vzTrWPL_Hag--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ea2d18a1e86e2fe23e95733185fa55d5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T-PC",
-            "TMUS",
-            "VZ"
-        ]
-    },
-    "be2ddc31-7870-3a25-be5e-26053e0d95af": {
-        "uuid": "be2ddc31-7870-3a25-be5e-26053e0d95af",
-        "title": "Here's What's Concerning About Verizon Communications' (NYSE:VZ) Returns On Capital",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/heres-whats-concerning-verizon-communications-150007640.html",
-        "providerPublishTime": 1658329207,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4TlgC92SaJzjGFv99JuqIA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/50ja20p.Rehp7jBJE3jhRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/028f47b440f2107bca7802fce704e9a8",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HTZmh6KL3xy3p1nigKUpPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/50ja20p.Rehp7jBJE3jhRw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/028f47b440f2107bca7802fce704e9a8",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/whgCB7miK3xTmhICKkpo3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XNg04bEne1vjCVn.zNIbQA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/98b5238ad685e820cd9a15bd72521ec0",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -148,64 +215,6 @@
         },
         "relatedTickers": [
             "VZ"
-        ]
-    },
-    "06f5db7a-cff9-3c9d-be71-767a8ecc388a": {
-        "uuid": "06f5db7a-cff9-3c9d-be71-767a8ecc388a",
-        "title": "Analysts Estimate T-Mobile (TMUS) to Report a Decline in Earnings: What to Look Out for",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/analysts-estimate-t-mobile-tmus-140102908.html",
-        "providerPublishTime": 1658325662,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LJB1iOVQTaGHshft0O3BLw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_7H_qQvZHeP2nKi1EbaHrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "d0d3b581-88fc-38af-8fca-bb19024e1d7d": {
-        "uuid": "d0d3b581-88fc-38af-8fca-bb19024e1d7d",
-        "title": "6 Favorite Stock Picks of Munir Javeri\u2019s 3G Sahana Capital Management",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/6-favorite-stock-picks-munir-131807197.html",
-        "providerPublishTime": 1658323087,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XuRgB7UUV7SCBjrfE9ZQFQ--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/F_NysmOCPusDyAcjOLiQIA--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fc993885cde16719fa19aca2b4c219b8",
-                    "width": 750,
-                    "height": 422,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4KcpIjRVn1Ero7Hb_5MZsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/F_NysmOCPusDyAcjOLiQIA--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fc993885cde16719fa19aca2b4c219b8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T-PC",
-            "BKNG",
-            "LBRDP",
-            "VZ",
-            "CHTR"
         ]
     }
 }

@@ -4,7 +4,7 @@
         "title": "China\u2019s Top Chipmaker Achieves Breakthrough Despite US Curbs",
         "publisher": "Bloomberg",
         "link": "https://finance.yahoo.com/news/china-top-chipmaker-makes-big-054344694.html",
-        "providerPublishTime": 1658390082,
+        "providerPublishTime": 1658426397,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -23,12 +23,109 @@
             ]
         },
         "relatedTickers": [
-            "ASML",
-            "ASMLF",
             "0981.HK",
             "SSNLF",
+            "ASML",
+            "ASMLF",
+            "INTC",
             "SFDMY",
             "TSM"
+        ]
+    },
+    "abebf735-a756-383f-b3a2-f97ba983e16c": {
+        "uuid": "abebf735-a756-383f-b3a2-f97ba983e16c",
+        "title": "Samsung Eyes $200 Billion Expansion of Chip Plants in Texas",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/samsung-eyes-200-billion-expansion-172557678.html",
+        "providerPublishTime": 1658424357,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YrkyIlXP6.mWuFHeETLkVA--~B/aD0yNjQwO3c9Mzk2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/luGqaNgMf2hPcyEJdmN9lg--~B/aD0yNjQwO3c9Mzk2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/4fbe657f7d912c39a55dd92a0f527b66",
+                    "width": 3960,
+                    "height": 2640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bLaGEphF99pkNwYc9NQqSA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/luGqaNgMf2hPcyEJdmN9lg--~B/aD0yNjQwO3c9Mzk2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/4fbe657f7d912c39a55dd92a0f527b66",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM",
+            "SSNLF",
+            "AAPL",
+            "F"
+        ]
+    },
+    "31d1058e-adcf-3a86-9abf-da32b1d94ce2": {
+        "uuid": "31d1058e-adcf-3a86-9abf-da32b1d94ce2",
+        "title": "Investors bearish on semiconductors as Congress votes on chips bill",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/investors-bearish-semiconductors-congress-votes-142317892.html",
+        "providerPublishTime": 1658413397,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cQpGMmRZxqNcz4itObuYqg--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a922e600-0900-11ed-add7-e8cd3c8eddf5",
+                    "width": 2767,
+                    "height": 1553,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jYSCcRW80pVDevOhgylQqQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a922e600-0900-11ed-add7-e8cd3c8eddf5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SWKS",
+            "NVDA",
+            "ASML",
+            "ASMLF",
+            "AVGO",
+            "AVGOP",
+            "TSM",
+            "AMD",
+            "QCOM",
+            "MU",
+            "INTC"
+        ]
+    },
+    "8c48fbcd-ab70-38e5-a954-ef916f85628c": {
+        "uuid": "8c48fbcd-ab70-38e5-a954-ef916f85628c",
+        "title": "The CHIPS Act Could Boost These 3 Semiconductor Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8c48fbcd-ab70-38e5-a954-ef916f85628c/the-chips-act-could-boost.html",
+        "providerPublishTime": 1658400900,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/028tus7i6alFGJX9VioFPA--~B/aD04NTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HEe350u9GO0KSQGC61WHjw--~B/aD04NTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3cfb858891f9ed6451018e50f7e6ae28",
+                    "width": 1400,
+                    "height": 858,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lkQ68ACRwv9.CNMOGNq39w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HEe350u9GO0KSQGC61WHjw--~B/aD04NTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3cfb858891f9ed6451018e50f7e6ae28",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM",
+            "INTC",
+            "TXN"
         ]
     },
     "bd152559-9f69-3d8c-bc31-1be12337d5b0": {
@@ -55,9 +152,9 @@
             ]
         },
         "relatedTickers": [
+            "QCOM",
             "TXN",
             "TSM",
-            "QCOM",
             "INTC"
         ]
     },
@@ -111,63 +208,6 @@
         "type": "STORY",
         "relatedTickers": [
             "TSM"
-        ]
-    },
-    "95594432-90d1-3346-b0f1-3fec13a9573a": {
-        "uuid": "95594432-90d1-3346-b0f1-3fec13a9573a",
-        "title": "3 Chip Stocks to Buy Ahead of Earnings",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/95594432-90d1-3346-b0f1-3fec13a9573a/3-chip-stocks-to-buy-ahead-of.html",
-        "providerPublishTime": 1658311500,
-        "type": "STORY",
-        "relatedTickers": [
-            "AMD",
-            "NVDA",
-            "TSM",
-            "MRVL"
-        ]
-    },
-    "36a93922-73e0-39d2-9a77-49a6794fdcfb": {
-        "uuid": "36a93922-73e0-39d2-9a77-49a6794fdcfb",
-        "title": "UPDATE 1-Taiwan June export orders jump; outlook clouded by global woes",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-taiwan-june-export-orders-084043423.html",
-        "providerPublishTime": 1658306443,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSM"
-        ]
-    },
-    "11f60429-d23d-3279-976a-3cbf9e6fbfae": {
-        "uuid": "11f60429-d23d-3279-976a-3cbf9e6fbfae",
-        "title": "ASML Cuts Forecast After Racing to Deliver Chip-Making Gear",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/asml-cuts-sales-forecast-amid-054942802.html",
-        "providerPublishTime": 1658303637,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FCW0J0Kw0UNLW4nocPbcbw--~B/aD03NDQ7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sadhm6CmsrzuR8I7I1HYDg--~B/aD03NDQ7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/bd988cac9af324d9ee99e03cc54b1d13",
-                    "width": 1296,
-                    "height": 744,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ozGL7nwJxUzGDievFJvSgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sadhm6CmsrzuR8I7I1HYDg--~B/aD03NDQ7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/bd988cac9af324d9ee99e03cc54b1d13",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SSNLF",
-            "TSM",
-            "ASML",
-            "ASMLF",
-            "NINOF",
-            "NINOY"
         ]
     }
 }

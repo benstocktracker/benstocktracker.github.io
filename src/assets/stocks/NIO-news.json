@@ -1,4 +1,20 @@
 {
+    "53329ce5-951b-3f1d-b3e1-13e3d8d60c42": {
+        "uuid": "53329ce5-951b-3f1d-b3e1-13e3d8d60c42",
+        "title": "Top Electric Car Stocks for Q3 2022",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/53329ce5-951b-3f1d-b3e1-13e3d8d60c42/top-electric-car-stocks-for.html",
+        "providerPublishTime": 1658438852,
+        "type": "STORY",
+        "relatedTickers": [
+            "NIO",
+            "XPEV",
+            "XPNGF",
+            "BLNK",
+            "LI",
+            "TSLA"
+        ]
+    },
     "685b88f6-33f4-3dc6-a608-b7678c6caec6": {
         "uuid": "685b88f6-33f4-3dc6-a608-b7678c6caec6",
         "title": "NIO Inc. (NIO) Outpaces Stock Market Gains: What You Should Know",
@@ -222,20 +238,6 @@
             "NIO",
             "HAIN",
             "GOOGL",
-            "TSLA"
-        ]
-    },
-    "e4d9bea3-ddfe-394b-a114-64a1ac71820a": {
-        "uuid": "e4d9bea3-ddfe-394b-a114-64a1ac71820a",
-        "title": "If You Invested $10,000 in Rivian in 2021, This Is How Much You Would Have Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e4d9bea3-ddfe-394b-a114-64a1ac71820a/if-you-invested-%2410%2C000-in.html",
-        "providerPublishTime": 1658059800,
-        "type": "STORY",
-        "relatedTickers": [
-            "RIVN",
-            "NIO",
-            "AMZN",
             "TSLA"
         ]
     }

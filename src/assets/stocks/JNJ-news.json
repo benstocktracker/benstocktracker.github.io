@@ -1,4 +1,168 @@
 {
+    "5d4db972-1b4c-36ed-82f1-23ba1a78d34e": {
+        "uuid": "5d4db972-1b4c-36ed-82f1-23ba1a78d34e",
+        "title": "Top Analyst Reports for Johnson & Johnson, Cigna, & Vertex",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/top-analyst-reports-johnson-johnson-180806847.html",
+        "providerPublishTime": 1658426886,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xDzE3US0dLNwJLFI3pMG6Q--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/YKgjNLS0WFesRjJNnxyTFQ--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8ad825c5ea92f847c7108780882a412c",
+                    "width": 900,
+                    "height": 711,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uqZRVZxwTn4QD_gxXkFtsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YKgjNLS0WFesRjJNnxyTFQ--~B/aD03MTE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8ad825c5ea92f847c7108780882a412c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ",
+            "VRTX",
+            "CI",
+            "CMG"
+        ]
+    },
+    "da5dc9ac-b9f8-3dd8-8460-c282162e8e64": {
+        "uuid": "da5dc9ac-b9f8-3dd8-8460-c282162e8e64",
+        "title": "Novavax COVID-19 vaccine will be available \u2018next week,\u2019 CEO says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/novavax-covid-19-vaccine-available-161304941.html",
+        "providerPublishTime": 1658419984,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pDiuCLykGxZVNopKCDKczQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/fc48c3e0-090f-11ed-99ff-788b424dc051",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3NyfemBXu4mhsd4j5EOWjg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/fc48c3e0-090f-11ed-99ff-788b424dc051",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "NVAX",
+            "JNJ",
+            "BNTX",
+            "MRNA"
+        ]
+    },
+    "aa521c18-c33f-3b0c-8112-83a8ca1b2b09": {
+        "uuid": "aa521c18-c33f-3b0c-8112-83a8ca1b2b09",
+        "title": "10 Best Dividend Stocks to Buy in 2022",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-buy-155412653.html",
+        "providerPublishTime": 1658418852,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EE8F.ysY.lRtAJ3_g3MaYQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tomUGnwyB7JhVGgK.9SUCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "UNH",
+            "NUE",
+            "LOW",
+            "AXP",
+            "^GSPC",
+            "PG",
+            "KO",
+            "RTX",
+            "JNJ"
+        ]
+    },
+    "bb5686a6-5db8-3058-862e-71a00bd46fff": {
+        "uuid": "bb5686a6-5db8-3058-862e-71a00bd46fff",
+        "title": "10 Best Dividend Stocks of All Time",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-time-133604775.html",
+        "providerPublishTime": 1658410564,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.CeKosxyXoxOjqjrFquBVg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qZ.h0DiiAR4IZHKLPsU0Dw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4b9659fdc4531f2ee401d4ef89c5183a",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lssiZ6Kd.z1UjKXi.9XYag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qZ.h0DiiAR4IZHKLPsU0Dw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4b9659fdc4531f2ee401d4ef89c5183a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG",
+            "JNJ",
+            "WMT",
+            "KR",
+            "KO",
+            "CL",
+            "MRK"
+        ]
+    },
+    "a9946ff9-3669-3a7f-a44f-cf59c1552f57": {
+        "uuid": "a9946ff9-3669-3a7f-a44f-cf59c1552f57",
+        "title": "10 Best Value ETFs To Invest In",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-best-value-etfs-invest-132241433.html",
+        "providerPublishTime": 1658409761,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jxsmra8TLWpKnjMmG0G7SQ--~B/aD01MTE7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dBNLZ_o9q31lSCkhUQ.oKw--~B/aD01MTE7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55887f79bfc9dd92a2b44d908e053484",
+                    "width": 768,
+                    "height": 511,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AAl3JVOB1Jxv4RdaRP9SRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dBNLZ_o9q31lSCkhUQ.oKw--~B/aD01MTE7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55887f79bfc9dd92a2b44d908e053484",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T-PC",
+            "BRK-B",
+            "JNJ",
+            "SWN",
+            "OVV",
+            "^RUT",
+            "NVDA",
+            "MSFT",
+            "AMZN"
+        ]
+    },
     "2791ffca-d740-3bc6-b33e-842cc3831220": {
         "uuid": "2791ffca-d740-3bc6-b33e-842cc3831220",
         "title": "This Chart Shows a Big Problem for Johnson & Johnson, IBM, and Microsoft",
@@ -105,186 +269,6 @@
             "IBM",
             "JNJ",
             "HAL"
-        ]
-    },
-    "f8cc0f1c-893d-3453-b675-d1ec98b50ab8": {
-        "uuid": "f8cc0f1c-893d-3453-b675-d1ec98b50ab8",
-        "title": "JNJ Beats on Q2 Earnings, Cuts View: ETFs in Focus",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/jnj-beats-q2-earnings-cuts-151503686.html",
-        "providerPublishTime": 1658330103,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WoHhVpfc5q2TEM.g9IO1EA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oeK5rO4fDl1d34mN96F56A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f3f15a36f635cd8200884e1a968d4c3d",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/F2lQ_GBIZgmUgqgtDMXrSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oeK5rO4fDl1d34mN96F56A--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f3f15a36f635cd8200884e1a968d4c3d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ"
-        ]
-    },
-    "7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd": {
-        "uuid": "7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd",
-        "title": "Stock Market Today: Track Market Trends And The Best Stocks To Watch",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd/stock-market-today%3A-track.html",
-        "providerPublishTime": 1658328711,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ltSiXwQxPsJEr4ZtW4snYA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TQcagl7pYHbkxFjtqiLLlQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/28e88eac1c8027393a22cb7ae91a9299",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wvX3wjkbPnNkNtbzDlPuLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TQcagl7pYHbkxFjtqiLLlQ--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/28e88eac1c8027393a22cb7ae91a9299",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TWTR",
-            "AHCO",
-            "NFLX",
-            "JNJ",
-            "AZN",
-            "AZNCF"
-        ]
-    },
-    "cbef5245-4981-39bb-a790-ccd3ed9182e3": {
-        "uuid": "cbef5245-4981-39bb-a790-ccd3ed9182e3",
-        "title": "Stocks on the move: Salesforce, Disney, UnitedHealth, Netflix",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-move-salesforce-disney-unitedhealth-144101690.html",
-        "providerPublishTime": 1658328061,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KBwcAagVzVep_XmgfqOtKA--~B/aD0xNTM5O3c9Mjc0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e6f44680-0839-11ed-bfff-ef904b802594",
-                    "width": 2742,
-                    "height": 1539,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qwRNl9jFuIeUQ.wNEm135g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e6f44680-0839-11ed-bfff-ef904b802594",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EXPE",
-            "XLV",
-            "PG",
-            "WMT",
-            "ABNB",
-            "MSFT",
-            "XLRE",
-            "LUV",
-            "XLP",
-            "HLT",
-            "UNH",
-            "BKNG",
-            "NFLX",
-            "XLB",
-            "^DJI",
-            "MAR",
-            "XLU",
-            "AAPL",
-            "XLF",
-            "JNJ",
-            "^IXIC",
-            "XLI",
-            "XLK",
-            "V",
-            "DIS",
-            "BZ=F",
-            "^GSPC",
-            "XLY"
-        ]
-    },
-    "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1": {
-        "uuid": "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1",
-        "title": "10 Best Long-Term Dividend Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-long-term-dividend-132258441.html",
-        "providerPublishTime": 1658323378,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r0yS8HdCKDNcf6GHD0nA7w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5gYQ3Mjmnv.kfmNHEQNcug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TXN",
-            "UNP",
-            "CHD",
-            "HD",
-            "KO",
-            "ALL-PG",
-            "MRK",
-            "JNJ"
-        ]
-    },
-    "279e25da-f5b0-3053-95f2-620f0fdb25d7": {
-        "uuid": "279e25da-f5b0-3053-95f2-620f0fdb25d7",
-        "title": "10 Best Healthcare Stocks To Buy Now According To Motley Fool\u2019s 1623 Capital",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-healthcare-stocks-buy-132125616.html",
-        "providerPublishTime": 1658323285,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GoRgY5Sxh6pD6wn069to_g--~B/aD00ODk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/x3oPe_zGQ1DFiuxuV3uRiA--~B/aD00ODk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ff78c7603e2c1ec8c59b41b6c2e9a7bc",
-                    "width": 750,
-                    "height": 489,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/syO0m9OBahFsWBqNROD_5w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/x3oPe_zGQ1DFiuxuV3uRiA--~B/aD00ODk7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ff78c7603e2c1ec8c59b41b6c2e9a7bc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PODD",
-            "QTRX",
-            "NARI",
-            "DXCM",
-            "VERV",
-            "AMZN",
-            "JNJ"
         ]
     }
 }

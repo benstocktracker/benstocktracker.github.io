@@ -1,4 +1,113 @@
 {
+    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
+        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla Soars On Earnings; China EV Giant Targets Japan",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
+        "providerPublishTime": 1658447304,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DOQA5Wi3fA5rNgwzpzDL0Q--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9AERrgd2RB_zj9rQ9L5Dw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/53263ada0490650b396a763a4fca36a8",
+                    "width": 1060,
+                    "height": 599,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/94CcVzCKwBDnFPXa21NMQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9AERrgd2RB_zj9rQ9L5Dw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/53263ada0490650b396a763a4fca36a8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "BYDDY",
+            "F",
+            "XPEV",
+            "LI",
+            "RIVN"
+        ]
+    },
+    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
+        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
+        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
+        "providerPublishTime": 1658443554,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "BYDDY",
+            "LI",
+            "^GSPC",
+            "^HSI",
+            "BABA"
+        ]
+    },
+    "53329ce5-951b-3f1d-b3e1-13e3d8d60c42": {
+        "uuid": "53329ce5-951b-3f1d-b3e1-13e3d8d60c42",
+        "title": "Top Electric Car Stocks for Q3 2022",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/53329ce5-951b-3f1d-b3e1-13e3d8d60c42/top-electric-car-stocks-for.html",
+        "providerPublishTime": 1658438852,
+        "type": "STORY",
+        "relatedTickers": [
+            "NIO",
+            "XPEV",
+            "XPNGF",
+            "BLNK",
+            "LI",
+            "TSLA"
+        ]
+    },
+    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
+        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
+        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
+        "providerPublishTime": 1658420999,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BYDDY",
+            "TSLA",
+            "XPEV"
+        ]
+    },
     "dffb9016-fa22-37fb-8a1d-d21837d5b629": {
         "uuid": "dffb9016-fa22-37fb-8a1d-d21837d5b629",
         "title": "China is the 'hearts and lungs' of the Tesla story: Analyst",
@@ -33,67 +142,6 @@
             "F",
             "NIO",
             "BTC-USD"
-        ]
-    },
-    "122449e8-b87b-33a5-ae22-63ae3842e91b": {
-        "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
-        "title": "These Are The 5 Best EV Stocks To Buy And Watch Now",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-5-best-ev.html",
-        "providerPublishTime": 1658351999,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_idh7nCF863Z88WBcnU.Xg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gANzLEi5YzlE6OIIn0rr8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j9zzUc4m04A9uGO36yz6sw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f9e0569add8baac3008acfbcc02ce92e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BYDDY",
-            "TSLA",
-            "XPEV"
-        ]
-    },
-    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
-        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
-        "providerPublishTime": 1658351874,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV",
-            "BYDDY",
-            "LI",
-            "^GSPC",
-            "^HSI",
-            "BABA"
         ]
     },
     "e4ac8084-fc82-39d5-9397-f06878c41b23": {
@@ -140,38 +188,6 @@
             "XPNGF",
             "JBLU",
             "SAVE"
-        ]
-    },
-    "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
-        "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla Earnings Due; China EV Giant Launching Model 3 Rival",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1658289864,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DOQA5Wi3fA5rNgwzpzDL0Q--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9AERrgd2RB_zj9rQ9L5Dw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/53263ada0490650b396a763a4fca36a8",
-                    "width": 1060,
-                    "height": 599,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/94CcVzCKwBDnFPXa21NMQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9AERrgd2RB_zj9rQ9L5Dw--~B/aD01OTk7dz0xMDYwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/53263ada0490650b396a763a4fca36a8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "BYDDY",
-            "F",
-            "XPEV",
-            "LI",
-            "RIVN"
         ]
     },
     "69ab3420-dff2-3ad4-9f6b-2938c77e67c5": {
@@ -229,33 +245,6 @@
             "RACE",
             "XPEV",
             "LI"
-        ]
-    },
-    "a7598c74-63d5-3e84-8445-3c915764cbce": {
-        "uuid": "a7598c74-63d5-3e84-8445-3c915764cbce",
-        "title": "XPENG Robotics Raises $100M In Funding",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/xpeng-robotics-raises-100m-funding-105652898.html",
-        "providerPublishTime": 1657623412,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YkOJTNQkx.UKQmMzV148AA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Kgt2W4gv6J5Q1mSclEcHkA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9040150e596831a65b3a31e9744250b8",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YyWnnCczmVCiOKfEfcFI3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Kgt2W4gv6J5Q1mSclEcHkA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/9040150e596831a65b3a31e9744250b8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV"
         ]
     }
 }

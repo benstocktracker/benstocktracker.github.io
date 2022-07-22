@@ -1,21 +1,21 @@
 {
-    "2791ffca-d740-3bc6-b33e-842cc3831220": {
-        "uuid": "2791ffca-d740-3bc6-b33e-842cc3831220",
-        "title": "This Chart Shows a Big Problem for Johnson & Johnson, IBM, and Microsoft",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/2791ffca-d740-3bc6-b33e-842cc3831220/this-chart-shows-a-big.html",
-        "providerPublishTime": 1658397120,
+    "358dfd03-3167-3f9e-a5a2-83de8b3e6ad0": {
+        "uuid": "358dfd03-3167-3f9e-a5a2-83de8b3e6ad0",
+        "title": "Is Netflix\u2019s best hope an acquisition by Microsoft?",
+        "publisher": "Quartz",
+        "link": "https://finance.yahoo.com/m/358dfd03-3167-3f9e-a5a2-83de8b3e6ad0/is-netflix%E2%80%99s-best-hope-an.html",
+        "providerPublishTime": 1658439701,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CAv3sdndB2BWINUPwFekxQ--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/abrhrZBOQUV9dguo7fpjrg--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fcd62b68df24078810a138067aa48080",
-                    "width": 1400,
-                    "height": 841,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/V8yS3PFWKkNW9XV44omVgA--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nTi_TQRLuKfINjo4O5NEiQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/da6eb0b95d72e4a77f0bd0f9a9459c48",
+                    "width": 620,
+                    "height": 348,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5D4GD3OoillNmz8vF7Ddng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/abrhrZBOQUV9dguo7fpjrg--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fcd62b68df24078810a138067aa48080",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NpRArxBBj.F4IFkbyRd3OA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nTi_TQRLuKfINjo4O5NEiQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/da6eb0b95d72e4a77f0bd0f9a9459c48",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,28 +23,27 @@
             ]
         },
         "relatedTickers": [
-            "JNJ",
-            "IBM",
+            "NFLX",
             "MSFT"
         ]
     },
-    "ddce19cc-f413-3424-b244-dc33597349b8": {
-        "uuid": "ddce19cc-f413-3424-b244-dc33597349b8",
-        "title": "Tesla, MicroStrategy, Block Face Hit From Bitcoin",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/tesla-microstrategy-block-face-hit-093942447.html",
-        "providerPublishTime": 1658396382,
+    "e1bc84da-26a6-313e-9fd5-0ebc352f8ab3": {
+        "uuid": "e1bc84da-26a6-313e-9fd5-0ebc352f8ab3",
+        "title": "Microsoft cuts job openings as cooling economy hits tech industry",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/e1bc84da-26a6-313e-9fd5-0ebc352f8ab3/microsoft-cuts-job-openings.html",
+        "providerPublishTime": 1658436793,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zY3QLj6SpLgij_arcAOmmg--~B/aD03MTg7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aUwNcdPQQDu9EKmSCLYmKg--~B/aD03MTg7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/629fd135fa224a252da39d4aac908949",
-                    "width": 1296,
-                    "height": 718,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lQ_88di6q6zwPXgtW.hqbw--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2SLhpfgHiSE5Wx3T9ZBG1Q--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/aa2bd4889caf0e002661cd01391ba48d",
+                    "width": 1440,
+                    "height": 961,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QfL3y9KCkkF5zFrxYiY.Ww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aUwNcdPQQDu9EKmSCLYmKg--~B/aD03MTg7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/629fd135fa224a252da39d4aac908949",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lV0gp7jD8Wi5_uywRuVRJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2SLhpfgHiSE5Wx3T9ZBG1Q--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/aa2bd4889caf0e002661cd01391ba48d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -52,44 +51,26 @@
             ]
         },
         "relatedTickers": [
-            "NKLA",
-            "MS",
-            "MS-PO",
-            "LCID",
-            "NETTF",
-            "NTES",
-            "TSLA",
-            "AAPL",
-            "SAP",
-            "SAPGF",
-            "TWTR",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "MSTR",
-            "0981.HK",
-            "INTC",
-            "BSQKZ",
-            "SQ"
+            "MSFT"
         ]
     },
-    "289a3668-63a1-31b9-8ee8-cca8093328e6": {
-        "uuid": "289a3668-63a1-31b9-8ee8-cca8093328e6",
-        "title": "Microsoft Cuts Open Job Positions in Cloud and Security Software Units",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/289a3668-63a1-31b9-8ee8-cca8093328e6/microsoft-cuts-open-job.html",
-        "providerPublishTime": 1658392020,
-        "type": "STORY",
+    "7cd10ab5-2d69-33b2-ba81-68e9783e0d21": {
+        "uuid": "7cd10ab5-2d69-33b2-ba81-68e9783e0d21",
+        "title": "Market strategist explains why she \u2018started adding risk back\u2019 into portfolios",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-strategist-explains-why-she-194429448.html",
+        "providerPublishTime": 1658432669,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nu9ULKwPr0RTFVJVz5AOxQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5ya3.h0LUU4YRamLCsrXJA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88c929b86c754f1fc4108980da2cee1e",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OnBJyTeaCQz2EvzHFZMjsw--~B/aD0xNzU2O3c9MzEyNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
+                    "width": 3124,
+                    "height": 1756,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6cUgrs_kblNcl3GxEZqaSA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5ya3.h0LUU4YRamLCsrXJA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/88c929b86c754f1fc4108980da2cee1e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qmccYo5EUmeXcjvz03zuaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -97,70 +78,38 @@
             ]
         },
         "relatedTickers": [
-            "META",
-            "MSFT",
-            "NFLX"
-        ]
-    },
-    "78883c34-77ab-3cf7-8573-eff645776fe6": {
-        "uuid": "78883c34-77ab-3cf7-8573-eff645776fe6",
-        "title": "Amazon Breaks Lobbying Record Amid Antitrust Fight",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/amazon-breaks-lobbying-record-amid-040634097.html",
-        "providerPublishTime": 1658376394,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/l90QNPwC_WcKeizcfEGrqQ--~B/aD0xMzYxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gPDlpljg99tqUSCmrX8S_w--~B/aD0xMzYxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/8b4ce1b96db9a330a67c86f17cb24e63",
-                    "width": 2000,
-                    "height": 1361,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b2xOKKyOvqIpYgP85l5YxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gPDlpljg99tqUSCmrX8S_w--~B/aD0xMzYxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/8b4ce1b96db9a330a67c86f17cb24e63",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "^GSPC",
+            "XLF",
+            "^DJI",
+            "XLI",
             "AMZN",
-            "MSFT",
+            "META",
+            "AAPL",
+            "SOXX",
             "GOOG",
             "GOOGL",
-            "AAPL"
-        ]
-    },
-    "8b0812d8-6aba-338f-875a-5c8c2d6ab0a8": {
-        "uuid": "8b0812d8-6aba-338f-875a-5c8c2d6ab0a8",
-        "title": "UPDATE 5-Microsoft Teams back up for most users after global outage",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-microsoft-teams-down-thousands-015811625.html",
-        "providerPublishTime": 1658368691,
-        "type": "STORY",
-        "relatedTickers": [
+            "DX-Y.NYB",
+            "^IXIC",
             "MSFT"
         ]
     },
-    "d84190fb-b8c3-3696-aac9-43d7be9b65dc": {
-        "uuid": "d84190fb-b8c3-3696-aac9-43d7be9b65dc",
-        "title": "Microsoft Teams back up for most users after global outage",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/microsoft-teams-down-thousands-users-015140151.html",
-        "providerPublishTime": 1658368300,
+    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
+        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
+        "title": "Top Millennial, Gen Z Picks Shift To Dividend-Paying Stocks; No. 1 Stock Tesla Roars Ahead After Beating Earnings Estimates",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-picks.html",
+        "providerPublishTime": 1658426967,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KXbd2NawX074vG2H2Omvaw--~B/aD00MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/CWpHAJx0RH5yPL61EW0E7Q--~B/aD00MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a9b6debaba482f85353c44f1e43fe2b5",
-                    "width": 800,
-                    "height": 433,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ygj244o_N_7AghdizcXBZw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_93LbsE6ZbZ.SCbT3qGmTw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CWpHAJx0RH5yPL61EW0E7Q--~B/aD00MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/a9b6debaba482f85353c44f1e43fe2b5",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yVHiPyQb8ExjvgY1.NKEPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -168,26 +117,59 @@
             ]
         },
         "relatedTickers": [
-            "MSFT"
+            "TSLA",
+            "AMC",
+            "AAPL",
+            "AMD",
+            "MSFT",
+            "NVDA"
         ]
     },
-    "9062582a-96a1-33fa-a852-731b56852b59": {
-        "uuid": "9062582a-96a1-33fa-a852-731b56852b59",
-        "title": "Minecraft bans NFTs and blockchain, saying they don\u2019t align with game\u2019s values",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/9062582a-96a1-33fa-a852-731b56852b59/minecraft-bans-nfts-and.html",
-        "providerPublishTime": 1658366760,
+    "0547440d-0cae-38d8-be26-4db96ad352cc": {
+        "uuid": "0547440d-0cae-38d8-be26-4db96ad352cc",
+        "title": "Microsoft and Google Bring Bad News for the Economy",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/0547440d-0cae-38d8-be26-4db96ad352cc/microsoft-and-google-bring.html",
+        "providerPublishTime": 1658426460,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ghPv8xrwpo9W.LL2C4TFMg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j42jGogf4iZqD5xo2DWtBw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/789c3b9b3b8a6f8b854a3717c1c6f199",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UVrlzZct99AABJKkb8nbmg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mR4wB_DpT9qa1twrQV8Uqg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/35912d3967dbb3404a129e710e5b7b31",
+                    "width": 1200,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O3bdQJB9EsVxtlwhHYiEMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mR4wB_DpT9qa1twrQV8Uqg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/35912d3967dbb3404a129e710e5b7b31",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "GOOGL"
+        ]
+    },
+    "5b9e0eaf-b761-3eeb-b753-1c2d6c806a52": {
+        "uuid": "5b9e0eaf-b761-3eeb-b753-1c2d6c806a52",
+        "title": "\u2018People will freak out\u2019 \u2014 The cloud boom is coming back to earth, and that could be scary for tech stocks",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/5b9e0eaf-b761-3eeb-b753-1c2d6c806a52/%E2%80%98people-will-freak-out%E2%80%99-%E2%80%94-the.html",
+        "providerPublishTime": 1658423820,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JjJSG_tvd1eyDRvvRgRRPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YpEn9ZkKXUTUTQZaAwj4lA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b0bbdf20d1421549c2dd0e8a0cd66d51",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/q31Ih.LsRddEWAEGXrYNzQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/j42jGogf4iZqD5xo2DWtBw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/789c3b9b3b8a6f8b854a3717c1c6f199",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vS4xfFYYqgv5bwcf8gJV8Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YpEn9ZkKXUTUTQZaAwj4lA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b0bbdf20d1421549c2dd0e8a0cd66d51",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -195,7 +177,12 @@
             ]
         },
         "relatedTickers": [
-            "MSFT"
+            "MSFT",
+            "BABA",
+            "BABAF",
+            "GOOG",
+            "GOOGL",
+            "AMZN"
         ]
     },
     "69dde337-3caa-3198-bae3-f973ab3acefc": {
@@ -203,7 +190,7 @@
         "title": "Microsoft, Google Are Latest Tech Giants to Hit Brakes on Hiring",
         "publisher": "Bloomberg",
         "link": "https://finance.yahoo.com/news/microsoft-google-latest-tech-giants-232957843.html",
-        "providerPublishTime": 1658359797,
+        "providerPublishTime": 1658422824,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -222,26 +209,54 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
-            "NFLX",
-            "RIVN",
-            "AMZN",
-            "PTON",
             "COMP",
+            "HOOD",
+            "TSLA",
+            "NFLX",
+            "LYFT",
+            "PTON",
+            "TWTR",
+            "AMZN",
+            "RDFN",
+            "RIVN",
+            "AAPL",
+            "SPOT",
+            "META",
+            "COIN",
             "MSFT",
             "CVNA",
-            "RDFN",
-            "LYFT",
             "UBER",
-            "SPOT",
-            "GOOG",
-            "GOOGL",
-            "COIN",
-            "TSLA",
             "W",
-            "META",
-            "HOOD",
-            "TWTR"
+            "GOOG",
+            "GOOGL"
+        ]
+    },
+    "23e502c2-a2cd-3aab-903a-845fe90f8ceb": {
+        "uuid": "23e502c2-a2cd-3aab-903a-845fe90f8ceb",
+        "title": "Credit Suisse Analyzes Oracle Accelerating Lift-And-Shift To OCI With Friendly Cloud Rival",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/credit-suisse-analyzes-oracle-accelerating-160527860.html",
+        "providerPublishTime": 1658419527,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/erg8EURtun7IbF4Xd93b6A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zc80CTnBg1eP84WhtVF5Ig--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/1616525c203683b4a894f0d7be1a91e8",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/t4KNBhPL5vMnmAlAVhHyhg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zc80CTnBg1eP84WhtVF5Ig--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/1616525c203683b4a894f0d7be1a91e8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ORCL",
+            "MSFT"
         ]
     }
 }

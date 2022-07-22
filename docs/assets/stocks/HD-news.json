@@ -1,4 +1,18 @@
 {
+    "eac81743-d3ca-39f4-9d9a-2994a88435c9": {
+        "uuid": "eac81743-d3ca-39f4-9d9a-2994a88435c9",
+        "title": "3 No-Brainer Dividend Stocks to Hold for Retirement",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/eac81743-d3ca-39f4-9d9a-2994a88435c9/3-no-brainer-dividend-stocks.html",
+        "providerPublishTime": 1658408220,
+        "type": "STORY",
+        "relatedTickers": [
+            "CAT",
+            "HD",
+            "MTN",
+            "^GSPC"
+        ]
+    },
     "d14b7cb6-e021-3ea5-a9da-1fde05a264ae": {
         "uuid": "d14b7cb6-e021-3ea5-a9da-1fde05a264ae",
         "title": "5 Stocks to Buy in July",
@@ -226,33 +240,6 @@
             "RDFN",
             "KBH",
             "LOW"
-        ]
-    },
-    "e0cffc11-0e3c-3741-81e3-39a1a7f37b9b": {
-        "uuid": "e0cffc11-0e3c-3741-81e3-39a1a7f37b9b",
-        "title": "The Home Depot, Inc. (HD) Is a Trending Stock: Facts to Know Before Betting on It",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/home-depot-inc-hd-trending-130001764.html",
-        "providerPublishTime": 1658235601,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LJB1iOVQTaGHshft0O3BLw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_7H_qQvZHeP2nKi1EbaHrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HD"
         ]
     }
 }

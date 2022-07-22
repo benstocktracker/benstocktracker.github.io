@@ -1,4 +1,60 @@
 {
+    "1fdbd5dc-aa6f-3acd-8074-6ccf0af24df3": {
+        "uuid": "1fdbd5dc-aa6f-3acd-8074-6ccf0af24df3",
+        "title": "Instacart Cuts Estimated Valuation by Double Digits for the Second Time",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/1fdbd5dc-aa6f-3acd-8074-6ccf0af24df3/instacart-cuts-estimated.html",
+        "providerPublishTime": 1658442120,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h.LvEsRcbFDI4skaMD3pZQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vhT0Q6JA6RymVx.V_DBU2w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f524296b5f2eda64770a88674b7e761b",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HdmheKTFmGYkhfM3yXJsPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vhT0Q6JA6RymVx.V_DBU2w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f524296b5f2eda64770a88674b7e761b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KR",
+            "COST"
+        ]
+    },
+    "67842999-71c3-35fe-9504-2cdc4bb68dd4": {
+        "uuid": "67842999-71c3-35fe-9504-2cdc4bb68dd4",
+        "title": "DG or COST: Which Is the Better Value Stock Right Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/dg-cost-better-value-stock-154003087.html",
+        "providerPublishTime": 1658418003,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KvxSR5ztxQ6HM4oFxTU.Pg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dB.UolBGkoK2bprLxV8m1Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ksLAzii1aL14haHFbPC1Rg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bdc2850a48a0f40806db817a9e24f36f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DG",
+            "COST"
+        ]
+    },
     "186eaa2c-614b-3b2e-8f38-441d6aa52fb2": {
         "uuid": "186eaa2c-614b-3b2e-8f38-441d6aa52fb2",
         "title": "Market check: Stocks flat at open, bitcoin price jumps",
@@ -210,60 +266,6 @@
             "DLTR",
             "DG",
             "BBBY"
-        ]
-    },
-    "1d316806-6461-35c8-8531-f7773b70aad0": {
-        "uuid": "1d316806-6461-35c8-8531-f7773b70aad0",
-        "title": "Why Costco Probably Won't Raise Membership Fees in 2022",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/1d316806-6461-35c8-8531-f7773b70aad0/why-costco-probably-won%27t.html",
-        "providerPublishTime": 1658059500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SwN0HoCpbhU0D9U2j5TaKA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c995.7q8htCrp0jIDPae4Q--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ef9332614a04278652ff485533498abe",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vI4ikazDStCmjDjRnkZnQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c995.7q8htCrp0jIDPae4Q--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ef9332614a04278652ff485533498abe",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COST"
-        ]
-    },
-    "4a43ab49-3de4-35d0-b9f7-a641a523a538": {
-        "uuid": "4a43ab49-3de4-35d0-b9f7-a641a523a538",
-        "title": "The Average Costco Shopper Spends This Much per Trip",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/4a43ab49-3de4-35d0-b9f7-a641a523a538/the-average-costco-shopper.html",
-        "providerPublishTime": 1657972842,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hHuCtYgCuv2ohHsXJV_nug--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/42TDLqBUKS.20GsCdZ6VbQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/62b2d2a68c26e220608a1805b298020f",
-                    "width": 1400,
-                    "height": 932,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5p9aVzuLb7zZmc8U7y39ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/42TDLqBUKS.20GsCdZ6VbQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/62b2d2a68c26e220608a1805b298020f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COST"
         ]
     }
 }

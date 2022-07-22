@@ -1,10 +1,98 @@
 {
+    "aa3989ea-a1df-3b99-8726-419e177a854a": {
+        "uuid": "aa3989ea-a1df-3b99-8726-419e177a854a",
+        "title": "Here\u2019s everything new coming to HBO Max in August 2022",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/aa3989ea-a1df-3b99-8726-419e177a854a/here%E2%80%99s-everything-new-coming.html",
+        "providerPublishTime": 1658443260,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4uMGCbiWV6LWEhoIgRmFxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7RUgMDdru0w73Gmk1wDEJw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/772160f4b33ad40d92d0b3be48b03b76",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ghZJv0PgFqz_WFYjhrZ88A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7RUgMDdru0w73Gmk1wDEJw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/772160f4b33ad40d92d0b3be48b03b76",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD"
+        ]
+    },
+    "2c130dbe-6b6c-3d4f-8f2a-7640369dca39": {
+        "uuid": "2c130dbe-6b6c-3d4f-8f2a-7640369dca39",
+        "title": "Margot Robbie and Ryan Gosling both earned $12.5 million for the Barbie movie",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/margot-robbie-ryan-gosling-both-213347816.html",
+        "providerPublishTime": 1658439227,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bAYSjIQEE8VZtxaPuBclxw--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ccecc470-093c-11ed-9ffd-e344d3181b6b",
+                    "width": 2654,
+                    "height": 1490,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tM7CWw69n78CUpR_6GBTiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ccecc470-093c-11ed-9ffd-e344d3181b6b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MAT",
+            "WBD"
+        ]
+    },
+    "a45a800f-835d-3588-be69-78c386d8b816": {
+        "uuid": "a45a800f-835d-3588-be69-78c386d8b816",
+        "title": "AT&T Stock Is Falling, But Its Dividend Yield Is Getting Even Bigger",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a45a800f-835d-3588-be69-78c386d8b816/at%26t-stock-is-falling%2C-but.html",
+        "providerPublishTime": 1658435160,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E12.kfFoRr3CT0BlPBbhSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uZm1qSbX6m_URB9kJbIaFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC",
+            "WBD",
+            "^GSPC",
+            "MO",
+            "VZ"
+        ]
+    },
     "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f": {
         "uuid": "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f",
-        "title": "AT&T Adds Subscribers in Its First Stand-Alone Quarter. They Came at a Cost.",
+        "title": "AT&T Stock Drops Despite Adding Subscribers. Here\u2019s Why.",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d4d0bdbc-be28-3932-ba41-d33c44a2ec4f/at%26t-adds-subscribers-in-its.html",
-        "providerPublishTime": 1658399640,
+        "link": "https://finance.yahoo.com/m/d4d0bdbc-be28-3932-ba41-d33c44a2ec4f/at%26t-stock-drops-despite.html",
+        "providerPublishTime": 1658414460,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -26,7 +114,10 @@
             "WBD",
             "T",
             "T-PA",
-            "T-PC"
+            "T-PC",
+            "TMUS",
+            "^GSPC",
+            "VZ"
         ]
     },
     "cb21cf6d-7ad2-372e-9096-1f5535963904": {
@@ -165,104 +256,6 @@
             "AAPL",
             "WBD",
             "NFLX"
-        ]
-    },
-    "5f2ae615-4f86-444e-bff3-1f21eec96d9b": {
-        "uuid": "5f2ae615-4f86-444e-bff3-1f21eec96d9b",
-        "title": "Netflix shares jump as Q2 subscribers beat estimates",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-q-2-earnings-170448268.html",
-        "providerPublishTime": 1658264108,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uev5xRWUBPGUE7jI4NFy3g--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
-                    "width": 6000,
-                    "height": 4000,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s2N5Nj2hugYoxeKo8YGU6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-05/d8f49170-d51c-11ec-b763-fc1244449d42",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "PARA",
-            "PARAA",
-            "PARAP",
-            "WBD",
-            "MSFT",
-            "NFLX",
-            "AAPL"
-        ]
-    },
-    "cff2c15e-68f9-4eb2-82f0-255f08e28530": {
-        "uuid": "cff2c15e-68f9-4eb2-82f0-255f08e28530",
-        "title": "Disney offers something that streaming competitors \u2018are not offering,\u2019 analyst explains",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/disney-offers-streaming-competitors-analyst-145319113.html",
-        "providerPublishTime": 1658242399,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SE9WaoTqtn8v.8vMzXms2w--~B/aD0zMzMzO3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-11/63869750-0222-11ea-ad58-9fff80697811",
-                    "width": 5000,
-                    "height": 3333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/L5ws2SUAZ.osS3y62nVtUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-11/63869750-0222-11ea-ad58-9fff80697811",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBD",
-            "AAPL",
-            "DIS",
-            "NFLX",
-            "AMZN"
-        ]
-    },
-    "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e": {
-        "uuid": "d314d0ce-7af1-3274-89b9-14e7ec3b4e2e",
-        "title": "AT&T, Verizon, and T-Mobile Earnings Are Coming. Key Areas to Watch.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d314d0ce-7af1-3274-89b9-14e7ec3b4e2e/at%26t%2C-verizon%2C-and-t-mobile.html",
-        "providerPublishTime": 1658233680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/URcevrLawj9ux_QGW110pA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xmBEkt9vf0t0OY2muv9eyQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ac3e572499ff3af01d192e46d6b52ccb",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1EYg5avNzTHfmoCEysZbhw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xmBEkt9vf0t0OY2muv9eyQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/ac3e572499ff3af01d192e46d6b52ccb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TMUS",
-            "VZ",
-            "^GSPC",
-            "T",
-            "T-PA",
-            "T-PC",
-            "WBD"
         ]
     }
 }

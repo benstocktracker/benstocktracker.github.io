@@ -1,4 +1,31 @@
 {
+    "b3f6cd9b-ae8c-3dbd-aedc-63c3091bf45d": {
+        "uuid": "b3f6cd9b-ae8c-3dbd-aedc-63c3091bf45d",
+        "title": "3M (MMM) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/3m-mmm-gains-lags-market-214509714.html",
+        "providerPublishTime": 1658439909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mZXMp07WOOiebWcVY1HEqQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                    "width": 900,
+                    "height": 636,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v8ztWJ5rx7tiE3Uu7OAW_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MMM"
+        ]
+    },
     "4642901a-1057-3120-98a1-c15cd26a2dd3": {
         "uuid": "4642901a-1057-3120-98a1-c15cd26a2dd3",
         "title": "These 3 Stocks Are Timely Buys Amid the Market Sell-off",
@@ -180,33 +207,6 @@
         },
         "relatedTickers": [
             "LANC",
-            "MMM"
-        ]
-    },
-    "0a572c47-1d9b-3c89-aee0-0e4cf5c456c3": {
-        "uuid": "0a572c47-1d9b-3c89-aee0-0e4cf5c456c3",
-        "title": "3M's earplug-liability case began as a small patent fight with rival, report says",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/0a572c47-1d9b-3c89-aee0-0e4cf5c456c3/3m%27s-earplug-liability-case.html",
-        "providerPublishTime": 1658232884,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eYWix1dcb9YKXaGOvv99dg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FQYnYIVepYri_etPLsT9NQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/b0a925c32f6e716a58e86dda62961c3c",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VWTS_rh4Jygdp83JIr5Tmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FQYnYIVepYri_etPLsT9NQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/b0a925c32f6e716a58e86dda62961c3c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "MMM"
         ]
     }

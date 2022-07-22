@@ -1,4 +1,35 @@
 {
+    "21fadb0d-d5bb-3c64-9462-03fe0d6bce0b": {
+        "uuid": "21fadb0d-d5bb-3c64-9462-03fe0d6bce0b",
+        "title": "Enbridge's ESG Goal Progress: A Message From Pete Sheffield, VP and CSO",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/enbridges-esg-goal-progress-message-190009495.html",
+        "providerPublishTime": 1658430009,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Fi2PBCp2HBpZE2qdZa3rXw--~B/aD0zMjc7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/e03XCV5x1oAg1GUNZgZNsg--~B/aD0zMjc7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/5c650fd3622165e2056fbb6e9b0a3826",
+                    "width": 650,
+                    "height": 327,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/y.vzknfwx6H8ErrXMpF.7Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e03XCV5x1oAg1GUNZgZNsg--~B/aD0zMjc7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/5c650fd3622165e2056fbb6e9b0a3826",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EBBGF",
+            "EBBNF",
+            "EBGEF",
+            "ENB",
+            "ENBFF"
+        ]
+    },
     "42e73d95-b687-3b05-94cc-898a476d9d19": {
         "uuid": "42e73d95-b687-3b05-94cc-898a476d9d19",
         "title": "Enbridge (ENB) Stock Sinks As Market Gains: What You Should Know",
@@ -180,37 +211,6 @@
         "relatedTickers": [
             "ENB",
             "^GSPC"
-        ]
-    },
-    "22908a1d-d24b-3844-b2c9-bcb64e57723f": {
-        "uuid": "22908a1d-d24b-3844-b2c9-bcb64e57723f",
-        "title": "Enbridge's Focus Is on Tomorrow: A Message From Al Monaco, CEO and President",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/enbridges-focus-tomorrow-message-al-174007566.html",
-        "providerPublishTime": 1657734007,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jTVsDqKTCu4JfuNQ6PdVeg--~B/aD0zNTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/z5tunHgTmh1e4VLG_OXP5w--~B/aD0zNTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/a0adebe8fc237f134b9128f37c2d5208",
-                    "width": 650,
-                    "height": 350,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_MJ1ooytcog6s_fpAOR5Yg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z5tunHgTmh1e4VLG_OXP5w--~B/aD0zNTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/a0adebe8fc237f134b9128f37c2d5208",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EBBGF",
-            "EBBNF",
-            "EBGEF",
-            "ENB",
-            "ENBFF"
         ]
     }
 }

@@ -1,45 +1,10 @@
 {
-    "dadaa65d-effe-3c69-807f-afaa81db1931": {
-        "uuid": "dadaa65d-effe-3c69-807f-afaa81db1931",
-        "title": "Tesla, AT&T, Ford, and More of Thursday\u2019s Stock Market Movers",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/dadaa65d-effe-3c69-807f-afaa81db1931/tesla%2C-at%26t%2C-ford%2C-and-more.html",
-        "providerPublishTime": 1658402880,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VAemSP_n_RSaEvvG3FxTXA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NlwxUcMa7AQ9DQwVzdioqg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f13d7cae3c16dff30be3f3447cca4345",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qSkienAN8B6JZh9RuXWXWA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NlwxUcMa7AQ9DQwVzdioqg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f13d7cae3c16dff30be3f3447cca4345",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CCL",
-            "CUK",
-            "CUKPF",
-            "TSLA",
-            "F",
-            "AAL",
-            "T",
-            "T-PA",
-            "T-PC"
-        ]
-    },
     "f40efe90-ecf6-3ac5-a78b-727d95591697": {
         "uuid": "f40efe90-ecf6-3ac5-a78b-727d95591697",
-        "title": "AT&T Racks Up Wireless Customers",
+        "title": "AT&T Warns That Customers Are Slower to Pay Monthly Bills",
         "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/f40efe90-ecf6-3ac5-a78b-727d95591697/at%26t-racks-up-wireless.html",
-        "providerPublishTime": 1658402640,
+        "link": "https://finance.yahoo.com/m/f40efe90-ecf6-3ac5-a78b-727d95591697/at%26t-warns-that-customers-are.html",
+        "providerPublishTime": 1658439720,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -60,71 +25,27 @@
         "relatedTickers": [
             "T",
             "T-PA",
-            "T-PC"
+            "T-PC",
+            "UAL"
         ]
     },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell? 5G Ramp-Up Key To Revenue Growth",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1658402415,
+    "131bb853-01e8-3d98-bb48-facdbacd28f6": {
+        "uuid": "131bb853-01e8-3d98-bb48-facdbacd28f6",
+        "title": "Why AT&T Stock Plunged Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/131bb853-01e8-3d98-bb48-facdbacd28f6/why-at%26t-stock-plunged-today.html",
+        "providerPublishTime": 1658438520,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9fI_WqOXfdKTrl_95ea.MA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iX6mLMShJPY6GbxjBKybEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T",
-            "^GSPC"
-        ]
-    },
-    "4623f163-35e3-3881-a8d6-c551443141da": {
-        "uuid": "4623f163-35e3-3881-a8d6-c551443141da",
-        "title": "AT&T Stock Falls As Telecom Lowers Free Cash Flow Outlook",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4623f163-35e3-3881-a8d6-c551443141da/at%26t-stock-falls-as-telecom.html",
-        "providerPublishTime": 1658401895,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kAcXQFYQ7yuw7_0YFRVbGA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0SVAkY3xFXY8km43sR0SYw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b3b357104ae911de6cb1f583a3b3cac5",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dPbmjYmTaPSo6isGGAKifg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0SVAkY3xFXY8km43sR0SYw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b3b357104ae911de6cb1f583a3b3cac5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "T-PC"
         ]
     },
     "3637505d-4040-39d6-bd30-c86e08e2a9ea": {
         "uuid": "3637505d-4040-39d6-bd30-c86e08e2a9ea",
-        "title": "AT&T tops profit expectations but stock falls after results",
+        "title": "AT&T stock pulls back from historic drop after earnings",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/3637505d-4040-39d6-bd30-c86e08e2a9ea/at%26t-tops-profit-expectations.html",
-        "providerPublishTime": 1658401740,
+        "link": "https://finance.yahoo.com/m/3637505d-4040-39d6-bd30-c86e08e2a9ea/at%26t-stock-pulls-back-from.html",
+        "providerPublishTime": 1658435880,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -148,35 +69,84 @@
             "T-PC"
         ]
     },
-    "862609c4-dd54-3b75-b544-d16a81099cea": {
-        "uuid": "862609c4-dd54-3b75-b544-d16a81099cea",
-        "title": "UPDATE 1-AT&T sees higher wireless service revenue as subscribers jump",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-t-sees-higher-wireless-110055427.html",
-        "providerPublishTime": 1658401255,
-        "type": "STORY",
-        "relatedTickers": [
-            "T-PC",
-            "VZ"
-        ]
-    },
-    "b7fcac77-d050-3ca4-933d-2f3ac28b43e2": {
-        "uuid": "b7fcac77-d050-3ca4-933d-2f3ac28b43e2",
-        "title": "AT&T Beats Q2 Earnings Forecast, Lifts Wireless Revenue Forecasts",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/b7fcac77-d050-3ca4-933d-2f3ac28b43e2/at%26t-beats-q2-earnings.html",
-        "providerPublishTime": 1658400660,
+    "8da830f7-f9b3-35fb-ba0f-dcb433b02f8e": {
+        "uuid": "8da830f7-f9b3-35fb-ba0f-dcb433b02f8e",
+        "title": "Stock Market Rises In Constructive Session; Tesla Near Three-Week High",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/8da830f7-f9b3-35fb-ba0f-dcb433b02f8e/stock-market-rises-in.html",
+        "providerPublishTime": 1658435844,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/c864n1SXOC.EehkDqrIwFA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/PO.UbcAOhbHXEwidmxk3AA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/76a249ba7f5fc35ce4b9844d8e635526",
-                    "width": 600,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/09GuCXhk94ERZb2ufKQ01A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/b5I4vKaS7mW7pWdS3mCaSQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/20c3bc6fcec8721ccb2304f7498ddbbf",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iuf99ocEOR3HDx9dJpuy5w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PO.UbcAOhbHXEwidmxk3AA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/76a249ba7f5fc35ce4b9844d8e635526",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uX5z4p7Luuvy3Oy_FEGJyQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/b5I4vKaS7mW7pWdS3mCaSQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/20c3bc6fcec8721ccb2304f7498ddbbf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COMP",
+            "T-PC"
+        ]
+    },
+    "a45a800f-835d-3588-be69-78c386d8b816": {
+        "uuid": "a45a800f-835d-3588-be69-78c386d8b816",
+        "title": "AT&T Stock Is Falling, But Its Dividend Yield Is Getting Even Bigger",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a45a800f-835d-3588-be69-78c386d8b816/at%26t-stock-is-falling%2C-but.html",
+        "providerPublishTime": 1658435160,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E12.kfFoRr3CT0BlPBbhSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uZm1qSbX6m_URB9kJbIaFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC",
+            "WBD",
+            "^GSPC",
+            "MO",
+            "VZ"
+        ]
+    },
+    "4623f163-35e3-3881-a8d6-c551443141da": {
+        "uuid": "4623f163-35e3-3881-a8d6-c551443141da",
+        "title": "AT&T Stock Tumbles As Free Cash Flow Outlook Negates 2022 Gains",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4623f163-35e3-3881-a8d6-c551443141da/at%26t-stock-tumbles-as-free.html",
+        "providerPublishTime": 1658434535,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kAcXQFYQ7yuw7_0YFRVbGA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0SVAkY3xFXY8km43sR0SYw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b3b357104ae911de6cb1f583a3b3cac5",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dPbmjYmTaPSo6isGGAKifg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0SVAkY3xFXY8km43sR0SYw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b3b357104ae911de6cb1f583a3b3cac5",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -187,23 +157,23 @@
             "T-PC"
         ]
     },
-    "ee0ad31d-c4e2-3a6e-8c57-486fb38e4a27": {
-        "uuid": "ee0ad31d-c4e2-3a6e-8c57-486fb38e4a27",
-        "title": "AT&T sees higher wireless service revenue as subscribers jump",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/t-lifts-wireless-revenue-growth-103416099.html",
-        "providerPublishTime": 1658399656,
-        "type": "STORY",
+    "79f03b54-d2b9-3fe3-95e6-c30c645696be": {
+        "uuid": "79f03b54-d2b9-3fe3-95e6-c30c645696be",
+        "title": "Markets close in the green, Nasdaq lifted by Tesla",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/markets-close-green-nasdaq-lifted-201328954.html",
+        "providerPublishTime": 1658434408,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Rcqdesat1xsd.UGbKHb7fw--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/IilU.tELWVPUSCuKfAljqA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/359f1536fa93b3006fd422b4db9d7ee9",
-                    "width": 800,
-                    "height": 534,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YEOwxpgDvgT.JuvDg6Fmew--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/39166590-0931-11ed-9efb-323e29a49912",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/T7vKrWx5nxq0PvfpKC82gw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IilU.tELWVPUSCuKfAljqA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/359f1536fa93b3006fd422b4db9d7ee9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O7ZZYo9UQX3_2dxYVWmm1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/39166590-0931-11ed-9efb-323e29a49912",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -211,6 +181,34 @@
             ]
         },
         "relatedTickers": [
+            "UAL",
+            "^IXIC",
+            "AAL",
+            "ONEM",
+            "TSLA",
+            "^GSPC",
+            "T",
+            "T-PA",
+            "T-PC",
+            "HELFY",
+            "HLFFF",
+            "ATUS",
+            "^DJI",
+            "XLE"
+        ]
+    },
+    "7a2491f2-db06-3430-8281-40a7876c0e18": {
+        "uuid": "7a2491f2-db06-3430-8281-40a7876c0e18",
+        "title": "US STOCKS-Wall Street closes higher on strong Tesla earnings",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/us-stocks-wall-street-closes-200020265.html",
+        "providerPublishTime": 1658433620,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSLA",
+            "^GSPC",
+            "COMP",
+            "^DJI",
             "T-PC"
         ]
     }

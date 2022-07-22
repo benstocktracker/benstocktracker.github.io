@@ -1,21 +1,21 @@
 {
-    "bc1a8ea7-c18e-485a-aff7-bae5a66e8c22": {
-        "uuid": "bc1a8ea7-c18e-485a-aff7-bae5a66e8c22",
-        "title": "Amazon's ginormous retail business is being priced at 'virtually zero value,' making the stock 'attractive': Analyst",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/amazons-stock-retail-business-thill-104454091.html",
-        "providerPublishTime": 1658400294,
+    "0ea1bada-3d7d-30bc-844d-90b3be2fd1ea": {
+        "uuid": "0ea1bada-3d7d-30bc-844d-90b3be2fd1ea",
+        "title": "Amazon (AMZN) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/amazon-amzn-outpaces-stock-market-214509879.html",
+        "providerPublishTime": 1658439909,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MSSieWnbR3E7We2fLskh0w--~B/aD0zMDI0O3c9NDAzMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/69ce1250-08e1-11ed-bbde-a797285ea24b",
-                    "width": 4032,
-                    "height": 3024,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dOFJjF.lFJbuBeMTQ.srQg--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 900,
+                    "height": 587,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3rZv4VnObBB7bz8KBL_nZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/69ce1250-08e1-11ed-bbde-a797285ea24b",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,131 +23,38 @@
             ]
         },
         "relatedTickers": [
-            "META",
-            "GOOG",
-            "GOOGL",
-            "AAPL",
             "AMZN",
-            "NFLX"
+            "^GSPC"
         ]
     },
-    "7dacd897-5f27-3ec2-b67d-bfa7f7e2e824": {
-        "uuid": "7dacd897-5f27-3ec2-b67d-bfa7f7e2e824",
-        "title": "Better FAANG Stock: Alphabet or Amazon?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7dacd897-5f27-3ec2-b67d-bfa7f7e2e824/better-faang-stock%3A-alphabet.html",
-        "providerPublishTime": 1658397360,
+    "7a792a89-9803-344a-9e94-51879c162594": {
+        "uuid": "7a792a89-9803-344a-9e94-51879c162594",
+        "title": "Amazon to acquire One Medical for $3.9bn",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/7a792a89-9803-344a-9e94-51879c162594/amazon-to-acquire-one-medical.html",
+        "providerPublishTime": 1658437133,
         "type": "STORY",
-        "relatedTickers": [
-            "GOOGL",
-            "AMZN"
-        ]
-    },
-    "1ea0b211-d0f7-363a-9300-3af4a1d24b49": {
-        "uuid": "1ea0b211-d0f7-363a-9300-3af4a1d24b49",
-        "title": "Chinese headphone maker in Dongguan shuts down, intensifying country's woes in manufacturing, cross-border e-commerce",
-        "publisher": "South China Morning Post",
-        "link": "https://finance.yahoo.com/news/chinese-headphone-maker-dongguan-shuts-093000789.html",
-        "providerPublishTime": 1658395800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Tzr34LTgjfnBzcjs_pcEHA--~B/aD0xMTIxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/cO_BsseeZ5H1jzhSS2RYeA--~B/aD0xMTIxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/1bb5bba73e8626d665c3885d1b03b83e",
-                    "width": 1999,
-                    "height": 1121,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dmXGx9_R0cUKGZ4cA5W92g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cO_BsseeZ5H1jzhSS2RYeA--~B/aD0xMTIxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/1bb5bba73e8626d665c3885d1b03b83e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "AMZN"
         ]
     },
-    "c4eec79a-8cc7-3e19-9e73-15357f2df6b6": {
-        "uuid": "c4eec79a-8cc7-3e19-9e73-15357f2df6b6",
-        "title": "5 Top Tech Stocks Under $20 Per Share",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c4eec79a-8cc7-3e19-9e73-15357f2df6b6/5-top-tech-stocks-under-%2420.html",
-        "providerPublishTime": 1658394300,
+    "b63efc0a-986a-3eb6-ad48-948db325dd51": {
+        "uuid": "b63efc0a-986a-3eb6-ad48-948db325dd51",
+        "title": "Amazon to Buy One Medical Network of Health Clinics in Healthcare Expansion",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/b63efc0a-986a-3eb6-ad48-948db325dd51/amazon-to-buy-one-medical.html",
+        "providerPublishTime": 1658435220,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VXtSq4TtHOjrj_FWCM.aVw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/muMpe2cbnaU6orQs7Kh93g--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9f56202d7c79433e693b05564a19cc09",
-                    "width": 1400,
-                    "height": 873,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DIceo6Nqsx3ZCp7LLjjRJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/muMpe2cbnaU6orQs7Kh93g--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9f56202d7c79433e693b05564a19cc09",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MQ",
-            "BLND",
-            "AMZN"
-        ]
-    },
-    "00623a40-7f45-3908-a928-e815c7faa3e4": {
-        "uuid": "00623a40-7f45-3908-a928-e815c7faa3e4",
-        "title": "Magellan\u2019s Manager Sours on Big Tech Stocks. Why Microsoft Is an Exception",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/00623a40-7f45-3908-a928-e815c7faa3e4/magellan%E2%80%99s-manager-sours-on.html",
-        "providerPublishTime": 1658377800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IkiV32AcGUFbVg5cCXkGCA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9r1M12q0Xz.XoHNtPXNF8A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c61bcad1b0ce897fe9697cda203e5eb1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/es3SVB7UcFas0iX61k_v4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yJmk9_jIMHgDLRzqbfp5yg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/90d476d7f24ec377834dfef61429109b",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Rn2.tJGNrBZeI_olTiq.EQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9r1M12q0Xz.XoHNtPXNF8A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c61bcad1b0ce897fe9697cda203e5eb1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FMAGX",
-            "FMGKX",
-            "GOOG",
-            "GOOGL",
-            "FIVFX",
-            "AMZN"
-        ]
-    },
-    "78883c34-77ab-3cf7-8573-eff645776fe6": {
-        "uuid": "78883c34-77ab-3cf7-8573-eff645776fe6",
-        "title": "Amazon Breaks Lobbying Record Amid Antitrust Fight",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/amazon-breaks-lobbying-record-amid-040634097.html",
-        "providerPublishTime": 1658376394,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/l90QNPwC_WcKeizcfEGrqQ--~B/aD0xMzYxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gPDlpljg99tqUSCmrX8S_w--~B/aD0xMzYxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/8b4ce1b96db9a330a67c86f17cb24e63",
-                    "width": 2000,
-                    "height": 1361,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/b2xOKKyOvqIpYgP85l5YxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gPDlpljg99tqUSCmrX8S_w--~B/aD0xMzYxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/8b4ce1b96db9a330a67c86f17cb24e63",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XfkdfHHlScyBCxzr6ybowA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yJmk9_jIMHgDLRzqbfp5yg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/90d476d7f24ec377834dfef61429109b",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -156,29 +63,26 @@
         },
         "relatedTickers": [
             "AMZN",
-            "MSFT",
-            "GOOG",
-            "GOOGL",
-            "AAPL"
+            "ONEM"
         ]
     },
-    "69dde337-3caa-3198-bae3-f973ab3acefc": {
-        "uuid": "69dde337-3caa-3198-bae3-f973ab3acefc",
-        "title": "Microsoft, Google Are Latest Tech Giants to Hit Brakes on Hiring",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/microsoft-google-latest-tech-giants-232957843.html",
-        "providerPublishTime": 1658359797,
+    "59519c1b-7edd-3f53-8dc7-299abb1fb321": {
+        "uuid": "59519c1b-7edd-3f53-8dc7-299abb1fb321",
+        "title": "How the NFL Makes Money: TV, Tickets, and Sponsorships",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/59519c1b-7edd-3f53-8dc7-299abb1fb321/how-the-nfl-makes-money%3A-tv%2C.html",
+        "providerPublishTime": 1658433546,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1OVFy36dedDCGmDPAZnKPg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/DUxsNkbC.GQT.1KXToMiSQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/344152fbd608e83dd72318700f95ccde",
-                    "width": 2000,
-                    "height": 1334,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FoMb8b62Le4EGBWyEV9STQ--~B/aD00NDA7dz02ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HPwmywt7JqFyq5g97G54HQ--~B/aD00NDA7dz02ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia.com/113504238d27159ebc0903508284caac",
+                    "width": 680,
+                    "height": 440,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CkD..BCY9VFkBpCr9tPSCw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DUxsNkbC.GQT.1KXToMiSQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/344152fbd608e83dd72318700f95ccde",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LsBQAoo3lM9VVozcytX5IQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HPwmywt7JqFyq5g97G54HQ--~B/aD00NDA7dz02ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia.com/113504238d27159ebc0903508284caac",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -186,45 +90,99 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
-            "NFLX",
+            "NKE",
+            "TWTR",
+            "AMZN"
+        ]
+    },
+    "b221223b-897e-3b25-ae85-9890789256db": {
+        "uuid": "b221223b-897e-3b25-ae85-9890789256db",
+        "title": "Amazon rolls out Rivian delivery EVs, Altice USA up on SuddenLink sale, Carnival sells $1B in stock",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/amazon-rolls-rivian-delivery-evs-195835561.html",
+        "providerPublishTime": 1658433515,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TBaz7H.YBfrISkXkEMtSXQ--~B/aD0zMTAyO3c9NTUyMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e4e0a70-092f-11ed-bfbe-bfbd887a6b8f",
+                    "width": 5522,
+                    "height": 3102,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lN0IFUI_EHyhcplDeE_RZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e4e0a70-092f-11ed-bfbe-bfbd887a6b8f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "RIVN",
             "AMZN",
-            "PTON",
-            "COMP",
-            "MSFT",
-            "CVNA",
-            "RDFN",
-            "LYFT",
-            "UBER",
-            "SPOT",
-            "GOOG",
-            "GOOGL",
-            "COIN",
-            "TSLA",
-            "W",
-            "META",
-            "HOOD",
-            "TWTR"
+            "CCL",
+            "CUK",
+            "CUKPF",
+            "ATUS"
         ]
     },
-    "25d73926-1941-3541-97a3-ba790b5bd573": {
-        "uuid": "25d73926-1941-3541-97a3-ba790b5bd573",
-        "title": "Why Netflix\u2019s Earnings Weren\u2019t Enough to Restore Confidence",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/25d73926-1941-3541-97a3-ba790b5bd573/why-netflix%E2%80%99s-earnings.html",
-        "providerPublishTime": 1658354100,
+    "7cd10ab5-2d69-33b2-ba81-68e9783e0d21": {
+        "uuid": "7cd10ab5-2d69-33b2-ba81-68e9783e0d21",
+        "title": "Market strategist explains why she \u2018started adding risk back\u2019 into portfolios",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-strategist-explains-why-she-194429448.html",
+        "providerPublishTime": 1658432669,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OnBJyTeaCQz2EvzHFZMjsw--~B/aD0xNzU2O3c9MzEyNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
+                    "width": 3124,
+                    "height": 1756,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qmccYo5EUmeXcjvz03zuaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "XLF",
+            "^DJI",
+            "XLI",
+            "AMZN",
+            "META",
+            "AAPL",
+            "SOXX",
+            "GOOG",
+            "GOOGL",
+            "DX-Y.NYB",
+            "^IXIC",
+            "MSFT"
+        ]
+    },
+    "33a8327f-f94e-3e41-b2ba-c59c9ee55430": {
+        "uuid": "33a8327f-f94e-3e41-b2ba-c59c9ee55430",
+        "title": "How Amazon\u2019s $3.9 billion wager on primary care could change your Prime membership",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/33a8327f-f94e-3e41-b2ba-c59c9ee55430/how-amazon%E2%80%99s-%243.9-billion.html",
+        "providerPublishTime": 1658432460,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2Up2rkZ1yH5usYD_ItbSLA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VfnLiO0XPMeTas7BdgWrgw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fb7e9f9c041fc9379bae581eefb4be69",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bBygCgCaoAkPROCikTvCFQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_j9csfAjB_KqKsT3ZgPV9Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1139c9fa495882303680cd1c84d42a52",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6B_xyEN1wtSbrLZfW..bbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VfnLiO0XPMeTas7BdgWrgw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fb7e9f9c041fc9379bae581eefb4be69",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lyOV_oyzTO7bYDbuzmADIA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_j9csfAjB_KqKsT3ZgPV9Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1139c9fa495882303680cd1c84d42a52",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -233,11 +191,35 @@
         },
         "relatedTickers": [
             "AMZN",
-            "AAPL",
-            "GOOG",
-            "GOOGL",
-            "NFLX",
-            "DIS"
+            "ONEM"
+        ]
+    },
+    "d140c8f6-692b-3144-94e5-95b18446a715": {
+        "uuid": "d140c8f6-692b-3144-94e5-95b18446a715",
+        "title": "Amazon Gives Healthcare Ambitions a Booster Shot",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/d140c8f6-692b-3144-94e5-95b18446a715/amazon-gives-healthcare.html",
+        "providerPublishTime": 1658427600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o5EVp2oZiJZ.7pPPQ.OIVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ma0KoksSD0RDNMjAiHRZKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/975cbe3a0fb8bdb2a0f06ab465a3ccab",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/B8zpPcd_0Q4V9GX5fQfRcA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ma0KoksSD0RDNMjAiHRZKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/975cbe3a0fb8bdb2a0f06ab465a3ccab",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ONEM",
+            "AMZN"
         ]
     }
 }

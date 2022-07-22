@@ -182,7 +182,7 @@
       "account": "Roth IRA",
       "costAverage": 19.32,
       "costBasis": 1009.5000000000001,
-      "shares": 129,
+      "shares": 100,
       "ticker": "QYLD"
     }
   ],
@@ -259,9 +259,16 @@
   "VZ": [
     {
       "account": "Roth IRA",
-      "costAverage": 50.68,
+      "costAverage": 49.93,
       "costBasis": 1558.5,
-      "shares": 40,
+      "shares": 50,
+      "ticker": "VZ"
+    },
+    {
+      "account": "Brokerage",
+      "costAverage": 46.97,
+      "costBasis": 1558.5,
+      "shares": 10,
       "ticker": "VZ"
     }
   ],

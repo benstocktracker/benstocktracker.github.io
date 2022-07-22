@@ -1,4 +1,31 @@
 {
+    "671377db-e309-3eae-8a6f-f71925a6ae48": {
+        "uuid": "671377db-e309-3eae-8a6f-f71925a6ae48",
+        "title": "Scientific Innovation and Collaboration Highlighted at AIDS 2022 as Gilead Extends Leadership Efforts Toward Ending the Global HIV Epidemic",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/scientific-innovation-collaboration-highlighted-aids-123000134.html",
+        "providerPublishTime": 1658406600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wecT5yZj4vDvYdQ9iyXT4w--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/n2.bIz_4HUNBoaCfX0Feqg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/55eaee9e7b7430ef1f5d753ae0af10fc",
+                    "width": 480,
+                    "height": 160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/A16N1UvFnCnr.kdQnHKgFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/n2.bIz_4HUNBoaCfX0Feqg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/55eaee9e7b7430ef1f5d753ae0af10fc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "92b865f8-4f43-3a2a-8ae9-fbc32dc52e2b": {
         "uuid": "92b865f8-4f43-3a2a-8ae9-fbc32dc52e2b",
         "title": "Gilead Sciences (GILD) Stock Sinks As Market Gains: What You Should Know",
@@ -152,33 +179,6 @@
         "link": "https://finance.yahoo.com/news/eu-signs-covid-19-therapeutic-101453913.html",
         "providerPublishTime": 1658225693,
         "type": "STORY",
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "cbd313e8-7abf-30a7-bca0-cb619e5bba53": {
-        "uuid": "cbd313e8-7abf-30a7-bca0-cb619e5bba53",
-        "title": "How To Trade Stocks: Do You Know The Seven Most Important Words On Wall Street?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cbd313e8-7abf-30a7-bca0-cb619e5bba53/how-to-trade-stocks%3A-do-you.html",
-        "providerPublishTime": 1658145643,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wuK1yPTFAWLd9TN7BIrIAQ--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QNAMPTqWZSSql9j4DtE0uA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/901e2aaee9c54afbc69548c65088cc87",
-                    "width": 1065,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qMa8AufZR9bzfU9hHXLiEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QNAMPTqWZSSql9j4DtE0uA--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/901e2aaee9c54afbc69548c65088cc87",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "GILD"
         ]

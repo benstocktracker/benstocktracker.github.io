@@ -1,4 +1,120 @@
 {
+    "ba82b7ec-e264-3828-b9ca-c8a227e2981d": {
+        "uuid": "ba82b7ec-e264-3828-b9ca-c8a227e2981d",
+        "title": "AbbVie (ABBV) Gains But Lags Market: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-abbv-gains-lags-market-214509812.html",
+        "providerPublishTime": 1658439909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LJB1iOVQTaGHshft0O3BLw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_7H_qQvZHeP2nKi1EbaHrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "^GSPC"
+        ]
+    },
+    "755e820c-7c67-36ab-a4b2-60c30271fd48": {
+        "uuid": "755e820c-7c67-36ab-a4b2-60c30271fd48",
+        "title": "5 Cheap Healthcare Stocks in 2022",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/5-cheap-healthcare-stocks-2022-181306181.html",
+        "providerPublishTime": 1658427186,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rrjoqAwE30DYdGy1JuX94g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/cXHqf02xbcHW8DpVN7gpxQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/876a7560ce9cb9e51494ca2c7dd94760",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fMiASpeddwsGg3KntfbNrA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cXHqf02xbcHW8DpVN7gpxQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/876a7560ce9cb9e51494ca2c7dd94760",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MRVI",
+            "ABBV",
+            "SRTS",
+            "MRK"
+        ]
+    },
+    "ad87870f-d9a8-3bd9-a749-8378c9ed45ae": {
+        "uuid": "ad87870f-d9a8-3bd9-a749-8378c9ed45ae",
+        "title": "Healthcare ETFs in Focus Ahead of Q2 Earnings",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/healthcare-etfs-focus-ahead-q2-151503209.html",
+        "providerPublishTime": 1658416503,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wRWJ15OVUvBzUUtQi4t_JA--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/GaLI6UTOYfr9yVPRx4VoRg--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/57ec460cb6b81f1335dcfb164b86740c",
+                    "width": 900,
+                    "height": 598,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2PPgBM4HP92uYQmVypCufg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GaLI6UTOYfr9yVPRx4VoRg--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/57ec460cb6b81f1335dcfb164b86740c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "AMGN",
+            "LLY",
+            "ABBV",
+            "BMY"
+        ]
+    },
+    "925016da-03ab-33bb-ae4f-a1cbabb04e46": {
+        "uuid": "925016da-03ab-33bb-ae4f-a1cbabb04e46",
+        "title": "3 Steps You'll Regret Not Taking During This Bear Market",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/925016da-03ab-33bb-ae4f-a1cbabb04e46/3-steps-you%27ll-regret-not.html",
+        "providerPublishTime": 1658412000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MlE7a1rVYsP8jjGzKdR8ZA--~B/aD05NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vw3iKBj6SP5ClkMoBuv_PQ--~B/aD05NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ef53e2b9255d0f5d63756d8197caa1aa",
+                    "width": 1400,
+                    "height": 948,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VTer.ZdTjBUKSY7U6wcMZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/vw3iKBj6SP5ClkMoBuv_PQ--~B/aD05NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ef53e2b9255d0f5d63756d8197caa1aa",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
     "114da786-5ff7-3101-b079-e58cdef3c07a": {
         "uuid": "114da786-5ff7-3101-b079-e58cdef3c07a",
         "title": "Health Canada Approves AbbVie's RINVOQ\u00ae (upadacitinib) for the Treatment of Adults with Active Ankylosing Spondylitis",
@@ -106,105 +222,6 @@
         },
         "relatedTickers": [
             "ABBV"
-        ]
-    },
-    "cc87734f-bbb6-368e-a99b-0c68fd301ce6": {
-        "uuid": "cc87734f-bbb6-368e-a99b-0c68fd301ce6",
-        "title": "J&J (JNJ) Beats on Q2 Earnings & Sales, Lowers 2022 Guidance",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/j-j-jnj-beats-q2-132501120.html",
-        "providerPublishTime": 1658237101,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6hgtO7luBTc3xSFU5hzSIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4K8GabCkmtDgO.0ZkJi.oQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UjHemYIeF2aWxwD7gqDihg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/74bab520128f201c7e6cc3f67385e761",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JNJ",
-            "ABBV"
-        ]
-    },
-    "61afe8d5-0043-3c2f-a795-f0a530194b09": {
-        "uuid": "61afe8d5-0043-3c2f-a795-f0a530194b09",
-        "title": "3 Dividend Growth Stocks You Can Buy Now and Hold Forever",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/61afe8d5-0043-3c2f-a795-f0a530194b09/3-dividend-growth-stocks-you.html",
-        "providerPublishTime": 1658221980,
-        "type": "STORY",
-        "relatedTickers": [
-            "ABT",
-            "ABBV",
-            "JNJ"
-        ]
-    },
-    "ee46ae4e-605c-3332-8521-53f6e971e60c": {
-        "uuid": "ee46ae4e-605c-3332-8521-53f6e971e60c",
-        "title": "AbbVie (ABBV) Seeks EU Nod for Atogepant to Prevent Migraine",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-seeks-eu-nod-152003745.html",
-        "providerPublishTime": 1658157603,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sBy0Jqrq1puvNI83AuaseQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/J5PJq8rtkuiBcDVdnbD5LA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd916198e87314e1ef238f8179e6227",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rFj6uz1yhoLFyrXhNS1E4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J5PJq8rtkuiBcDVdnbD5LA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd916198e87314e1ef238f8179e6227",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "BHVN",
-            "PFE",
-            "MRK"
-        ]
-    },
-    "94f7f15d-d7b9-3bd5-bea9-50b8fb665167": {
-        "uuid": "94f7f15d-d7b9-3bd5-bea9-50b8fb665167",
-        "title": "AbbVie To Submit European Application For Epcoritamab In Lymphoma Setting Later In 2022",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/abbvie-submit-european-application-epcoritamab-150515984.html",
-        "providerPublishTime": 1658156715,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YZRdUeIln0c6gb2qtn2niw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HlgWiNP59PVBUu6r6dwNXA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/5fda512e9023d444ae7f8fde8e71fefb",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WWMzx8.xUWBpbSupGl8KHg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HlgWiNP59PVBUu6r6dwNXA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/5fda512e9023d444ae7f8fde8e71fefb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "GMAB.CO"
         ]
     }
 }

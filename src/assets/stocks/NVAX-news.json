@@ -1,4 +1,102 @@
 {
+    "0dc40d32-2c6f-337c-a425-e8068c58ab9c": {
+        "uuid": "0dc40d32-2c6f-337c-a425-e8068c58ab9c",
+        "title": "Novavax (NVAX) Stock Sinks As Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-sinks-market-215009930.html",
+        "providerPublishTime": 1658440209,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UxwOzvHDNBTF_fS7HMDV3w--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9tpS8u8rAmiEoUItmUZeOA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/090f58c1efbe3555b861102525e50b39",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Pxzh3AGGzUkhMRlhJidIqQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9tpS8u8rAmiEoUItmUZeOA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/090f58c1efbe3555b861102525e50b39",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "^GSPC"
+        ]
+    },
+    "da5dc9ac-b9f8-3dd8-8460-c282162e8e64": {
+        "uuid": "da5dc9ac-b9f8-3dd8-8460-c282162e8e64",
+        "title": "Novavax COVID-19 vaccine will be available \u2018next week,\u2019 CEO says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/novavax-covid-19-vaccine-available-161304941.html",
+        "providerPublishTime": 1658419984,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pDiuCLykGxZVNopKCDKczQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/fc48c3e0-090f-11ed-99ff-788b424dc051",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3NyfemBXu4mhsd4j5EOWjg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/fc48c3e0-090f-11ed-99ff-788b424dc051",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "NVAX",
+            "JNJ",
+            "BNTX",
+            "MRNA"
+        ]
+    },
+    "14677c1b-9eb0-36f5-b697-e64044ad4f1e": {
+        "uuid": "14677c1b-9eb0-36f5-b697-e64044ad4f1e",
+        "title": "Is It Too Late to Buy Novavax Stock?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/14677c1b-9eb0-36f5-b697-e64044ad4f1e/is-it-too-late-to-buy-novavax.html",
+        "providerPublishTime": 1658416020,
+        "type": "STORY",
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "7986f4c7-a24f-32ed-8eb0-2eea9156696e": {
+        "uuid": "7986f4c7-a24f-32ed-8eb0-2eea9156696e",
+        "title": "President Biden Tests Positive for Covid-19, Has \u2018Mild Symptoms\u2019",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/7986f4c7-a24f-32ed-8eb0-2eea9156696e/president-biden-tests.html",
+        "providerPublishTime": 1658415960,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DIeQUIQhqwpeSeVlS.eRlQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hbzXJg82knWrascXcOoEcw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a8152cf0f65a507e8b7a3931b736a055",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YJxScpwLZ0ElQRvmlrD1kw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hbzXJg82knWrascXcOoEcw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a8152cf0f65a507e8b7a3931b736a055",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "NVAX"
+        ]
+    },
     "678de834-d8ff-3cb9-81f5-c0ee7ed81264": {
         "uuid": "678de834-d8ff-3cb9-81f5-c0ee7ed81264",
         "title": "Biotech Stock Roundup: APLS, NVAX Gain on Updates, INCYs Regulatory News & More",
@@ -76,121 +174,6 @@
         },
         "relatedTickers": [
             "NVAX"
-        ]
-    },
-    "255e5634-d2b5-3a67-95b0-ff0d4cbf7d0c": {
-        "uuid": "255e5634-d2b5-3a67-95b0-ff0d4cbf7d0c",
-        "title": "Novavax (NVAX) Up as CDC Endorses COVID Jab for Use in Adults",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/novavax-nvax-cdc-endorses-covid-133601124.html",
-        "providerPublishTime": 1658324161,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX",
-            "BNTX",
-            "PFE",
-            "MRNA"
-        ]
-    },
-    "884822ed-3ef3-3dba-955f-94173c0b40cd": {
-        "uuid": "884822ed-3ef3-3dba-955f-94173c0b40cd",
-        "title": "Novavax Stock Rises After CDC Endorses Covid-19 Vaccine",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/884822ed-3ef3-3dba-955f-94173c0b40cd/novavax-stock-rises-after-cdc.html",
-        "providerPublishTime": 1658324040,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zM9Un6pkJKqDiwd9uIoIqQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XmWTR0oboynaVmCuxTNuhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5a048ddaef3798d9f223af5b7bf5470f",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zhmAtnYUnWi5VbquloaRqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XmWTR0oboynaVmCuxTNuhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/5a048ddaef3798d9f223af5b7bf5470f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "a1734b47-485c-3744-8a7b-cf3ba3683319": {
-        "uuid": "a1734b47-485c-3744-8a7b-cf3ba3683319",
-        "title": "CDC OK\u2019s Novavax vaccine to add fourth shot to U.S. program, and COVID cases triple in Europe in six-week span",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/a1734b47-485c-3744-8a7b-cf3ba3683319/cdc-ok%E2%80%99s-novavax-vaccine-to.html",
-        "providerPublishTime": 1658323680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0jtrCKOyMmLOfJno1llzbw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zrOTUu_XhGkIQ1yVtcLBaA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/42b6418040f45b3dc26dd74dbe138001",
-                    "width": 1279,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wbsgtrP28JWSPxe7xnh8OA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zrOTUu_XhGkIQ1yVtcLBaA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/42b6418040f45b3dc26dd74dbe138001",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BNTX",
-            "NVAX",
-            "PFE",
-            "MRNA"
-        ]
-    },
-    "b80c55a7-1982-3d2c-9667-8efcc0e39969": {
-        "uuid": "b80c55a7-1982-3d2c-9667-8efcc0e39969",
-        "title": "2 Struggling Stocks That Could Fall Even Further in the Second Half",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b80c55a7-1982-3d2c-9667-8efcc0e39969/2-struggling-stocks-that.html",
-        "providerPublishTime": 1658314500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CvqBenvLtlkwgK_3xxHWJQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z5MCvU6mUTV9u99z8qCHPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ae56f47159dc9815e6cea914da3f6c4",
-                    "width": 1400,
-                    "height": 752,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gIzOVVJsHbtnUBSBkKA6jA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z5MCvU6mUTV9u99z8qCHPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ae56f47159dc9815e6cea914da3f6c4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX",
-            "SBUX"
         ]
     }
 }

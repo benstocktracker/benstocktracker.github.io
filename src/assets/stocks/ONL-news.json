@@ -1,4 +1,31 @@
 {
+    "24272a03-24dd-3a4a-8672-b472f26c93a0": {
+        "uuid": "24272a03-24dd-3a4a-8672-b472f26c93a0",
+        "title": "Orion Office REIT Inc. Announces Second Quarter 2022 Earnings Release and Webcast Dates",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/orion-office-reit-inc-announces-201000715.html",
+        "providerPublishTime": 1658434200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zSZniS0_ktAf_c2UBtZLrA--~B/aD0xNjU7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LttOD0RoOE8YdIDlnYgJhw--~B/aD0xNjU7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/3875b06ea27411ddbf2bb4e19ea52947",
+                    "width": 480,
+                    "height": 165,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6Ng7FMn8fqGdLyPtRGj_6g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LttOD0RoOE8YdIDlnYgJhw--~B/aD0xNjU7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/3875b06ea27411ddbf2bb4e19ea52947",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ONL"
+        ]
+    },
     "1f0b949b-7e64-3c45-96ca-01c16c7c9155": {
         "uuid": "1f0b949b-7e64-3c45-96ca-01c16c7c9155",
         "title": "Perk Labs Announces Departure of CFO and Appointment of Interim CFO",

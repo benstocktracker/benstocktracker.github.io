@@ -1,4 +1,88 @@
 {
+    "229c5de3-220f-3c09-8426-2ca8a877ceba": {
+        "uuid": "229c5de3-220f-3c09-8426-2ca8a877ceba",
+        "title": "Amazon, Starbucks handling unionization push \u2018very badly,\u2019 Rep. Levin says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/amazon-starbucks-handling-unionization-push-145437867.html",
+        "providerPublishTime": 1658415277,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m_DMAtDZKt9R5CWuYC8AeQ--~B/aD0xNTQzO3c9Mjc0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/274780b0-0904-11ed-af7b-53c75f69424b",
+                    "width": 2748,
+                    "height": 1543,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WiSKSGwG7stZYjbCJzrW1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/274780b0-0904-11ed-af7b-53c75f69424b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "SBUX"
+        ]
+    },
+    "b52e08a5-b100-3953-be78-a23730a57be4": {
+        "uuid": "b52e08a5-b100-3953-be78-a23730a57be4",
+        "title": "Five Things for Thursday, including hot hardware and Pearl pastries",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/b52e08a5-b100-3953-be78-a23730a57be4/five-things-for-thursday%2C.html",
+        "providerPublishTime": 1658413756,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H3uIM2rZsXd1NZe3WIV3Hg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c0iOpOPgX6PqiHAcxFuyXA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3aa94eb68f4181286854a3cb4e62e4c6",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gxlgk5qm25WJJD2bQ9PnQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c0iOpOPgX6PqiHAcxFuyXA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3aa94eb68f4181286854a3cb4e62e4c6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "INTC",
+            "SBUX"
+        ]
+    },
+    "7b5c17c0-65da-3536-816f-93fe8527fce8": {
+        "uuid": "7b5c17c0-65da-3536-816f-93fe8527fce8",
+        "title": "FAT Brands Inc. (FAT) Surges 7.5%: Is This an Indication of Further Gains?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/fat-brands-inc-fat-surges-135701228.html",
+        "providerPublishTime": 1658411821,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5s9hkLodEFOuKuW0Kn9GWQ--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dQD1oE1LdsCK76FCtzaQKQ--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cdcfe82daada6304206839820f5aa2ea",
+                    "width": 900,
+                    "height": 900,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K5Vsfmy5XvlJVvs65FU61g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dQD1oE1LdsCK76FCtzaQKQ--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cdcfe82daada6304206839820f5aa2ea",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FATBB",
+            "SBUX"
+        ]
+    },
     "d14b7cb6-e021-3ea5-a9da-1fde05a264ae": {
         "uuid": "d14b7cb6-e021-3ea5-a9da-1fde05a264ae",
         "title": "5 Stocks to Buy in July",
@@ -137,90 +221,6 @@
         },
         "relatedTickers": [
             "SBUX"
-        ]
-    },
-    "b170ed28-0f8b-32e6-a0cb-497f6f575a98": {
-        "uuid": "b170ed28-0f8b-32e6-a0cb-497f6f575a98",
-        "title": "Starbucks CEO says coffee chain to close \u2018many more\u2019 stores, citing safety concerns",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/starbucks-ceo-says-coffee-chain-160751203.html",
-        "providerPublishTime": 1658246871,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iBXUmaUiarzzL6YwPdyW3A--~B/aD0yMDIzO3c9MzYwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ee3abf40-077c-11ed-a32e-1d75965d089c",
-                    "width": 3600,
-                    "height": 2023,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KftQ6Fzim6w7kMwuOPOjhw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ee3abf40-077c-11ed-a32e-1d75965d089c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "0dbc51b3-dac7-3ad3-8c31-f564cfcec5ae": {
-        "uuid": "0dbc51b3-dac7-3ad3-8c31-f564cfcec5ae",
-        "title": "Only 1 Coffee Stock Is Still Growing. Is It a Buy?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0dbc51b3-dac7-3ad3-8c31-f564cfcec5ae/only-1-coffee-stock-is-still.html",
-        "providerPublishTime": 1658240100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CSTnZAID2obtEp4RHPeP4Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hcvHJDRrnwWVlyLb_Z.LsA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e7f7e97c149e29f5d240d98ee76f900f",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1GQjICKYQkgQ6SDWq_6.6g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hcvHJDRrnwWVlyLb_Z.LsA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e7f7e97c149e29f5d240d98ee76f900f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KC=F",
-            "BROS",
-            "SBUX"
-        ]
-    },
-    "d9d0f530-ebf0-3a3e-a2b5-21c22166cd47": {
-        "uuid": "d9d0f530-ebf0-3a3e-a2b5-21c22166cd47",
-        "title": "Analysts Estimate Starbucks (SBUX) to Report a Decline in Earnings: What to Look Out for",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/analysts-estimate-starbucks-sbux-report-140102494.html",
-        "providerPublishTime": 1658239262,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oMKb0aDck8IpQx0xUmmnpQ--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 900,
-                    "height": 618,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/az2jqXhqyZRic77Cn4mQiQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bHsRpCKrGzzbaGHEolBtWw--~B/aD02MTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX",
-            "DPUKY"
         ]
     }
 }

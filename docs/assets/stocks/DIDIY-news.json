@@ -1,4 +1,35 @@
 {
+    "ced3f500-b9c3-34f9-9efd-d1ce7ac8b0fe": {
+        "uuid": "ced3f500-b9c3-34f9-9efd-d1ce7ac8b0fe",
+        "title": "More companies slow hiring, Chinese regulators fine Didi, HSBC installs Communist Party committee",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/more-companies-slow-hiring-chinese-142431063.html",
+        "providerPublishTime": 1658413471,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LZQ8uf0ubC4po16s14tksw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/ced3f500-b9c3-34f9-9efd-d1ce7ac8b0fe/2022-07-21/14-24-32/b49c9be6-3da3-5ceb-9c61-8b2ccf285000/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P6y9RIWk0y5LXMJwRe6szw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/ced3f500-b9c3-34f9-9efd-d1ce7ac8b0fe/2022-07-21/14-24-32/b49c9be6-3da3-5ceb-9c61-8b2ccf285000/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "F",
+            "DIDIY",
+            "MSFT",
+            "LYFT",
+            "HSBC"
+        ]
+    },
     "2f0775fb-0aec-33f0-9747-48e86cf305d4": {
         "uuid": "2f0775fb-0aec-33f0-9747-48e86cf305d4",
         "title": "China Fines Ride-Hailing Giant Didi $1.2 Billion, Citing Cybersecurity Breaches",
