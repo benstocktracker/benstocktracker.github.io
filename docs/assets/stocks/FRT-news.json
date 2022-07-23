@@ -1,4 +1,31 @@
 {
+    "4f9545fd-f5bd-376a-85ec-62889404def9": {
+        "uuid": "4f9545fd-f5bd-376a-85ec-62889404def9",
+        "title": "1 Dividend King to Hold Till You're Blue in the Face",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4f9545fd-f5bd-376a-85ec-62889404def9/1-dividend-king-to-hold-till.html",
+        "providerPublishTime": 1658568600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mqHnBjp7enYAomew.Kd1ow--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OAgKecoHdwaHCnqqIpTynQ--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d20a18d687192cd65653269f774f22c0",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vWZO.U4CGAlSnbNBvSU4Xg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OAgKecoHdwaHCnqqIpTynQ--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d20a18d687192cd65653269f774f22c0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT"
+        ]
+    },
     "7f1dd895-443d-30e6-a2c2-e043cba754c5": {
         "uuid": "7f1dd895-443d-30e6-a2c2-e043cba754c5",
         "title": "Better Bear Market Buy: Medical Properties Trust vs. Federal Realty",
@@ -153,34 +180,6 @@
         "type": "STORY",
         "relatedTickers": [
             "FRT"
-        ]
-    },
-    "a08f5540-a9cc-31eb-9af3-787963c2532d": {
-        "uuid": "a08f5540-a9cc-31eb-9af3-787963c2532d",
-        "title": "Federal Realty Investment Trust Announces Second Quarter 2022 Earnings Release Date and Conference Call Information",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-announces-203000387.html",
-        "providerPublishTime": 1657139400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uOmJzE0V7NnxtV2vYfvFjw--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/tFCnVYpwS2W2vaIz36LtSg--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4856615d128d21fbe0a3735f8286a8f2",
-                    "width": 400,
-                    "height": 156,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kNSVxs7zdsnOTlj77qLfng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tFCnVYpwS2W2vaIz36LtSg--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4856615d128d21fbe0a3735f8286a8f2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC"
         ]
     }
 }

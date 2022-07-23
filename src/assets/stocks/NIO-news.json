@@ -1,4 +1,31 @@
 {
+    "7e55843f-7666-3c67-b088-c02ba5b4668f": {
+        "uuid": "7e55843f-7666-3c67-b088-c02ba5b4668f",
+        "title": "Where Will Nio Be in 5 Years?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7e55843f-7666-3c67-b088-c02ba5b4668f/where-will-nio-be-in-5-years%3F.html",
+        "providerPublishTime": 1658575800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q3YXWpS0DOBsJJAprpf_qA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qMOsBE3OCFnkHRn3UvjrfA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e5024bc2cc41681e32ba1a306e2eed83",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ObJq_0QK2b1sI9.sYxHAJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qMOsBE3OCFnkHRn3UvjrfA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e5024bc2cc41681e32ba1a306e2eed83",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
     "7e29bf6e-7645-35be-964e-696c91611ec0": {
         "uuid": "7e29bf6e-7645-35be-964e-696c91611ec0",
         "title": "GM\u2019s Cadillac debuts luxury Celestiq electric vehicle",
@@ -204,42 +231,6 @@
             "TSLA",
             "RIVN",
             "NIO"
-        ]
-    },
-    "21676b56-4a0b-3549-8d0d-3bd033bb2e04": {
-        "uuid": "21676b56-4a0b-3549-8d0d-3bd033bb2e04",
-        "title": "Energy stocks gain, Tesla stock rises, bitcoin and ethereum prices jump",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/energy-stocks-gain-tesla-stock-142008963.html",
-        "providerPublishTime": 1658154008,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LMirmonRNu8ApbksD8XQqA--~B/aD0xNTc4O3c9MjgxMTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3736200-06a4-11ed-b9ff-dba91dd6ad22",
-                    "width": 2811,
-                    "height": 1578,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2CV7pMzeYyQ5WCml4yLtlA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3736200-06a4-11ed-b9ff-dba91dd6ad22",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "DOGE-USD",
-            "BTC-USD",
-            "NVDA",
-            "PLUG",
-            "ETH-USD",
-            "NIO",
-            "AMZN",
-            "RIVN",
-            "^GSPC"
         ]
     }
 }

@@ -103,6 +103,39 @@
             "BLK"
         ]
     },
+    "a9ad25d5-2f10-3ef9-98a3-712bb4253881": {
+        "uuid": "a9ad25d5-2f10-3ef9-98a3-712bb4253881",
+        "title": "7 Best Income Stocks to Buy Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-income-stocks-buy-101547724.html",
+        "providerPublishTime": 1658312147,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qCgGJhaVbfv0Y56cqabHWA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rhf7m1V4MEMRuyVuP.SBJA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/a8076373fc290fd011c2fd3f3c528d71",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.bOYJWX1qm4AyVeL9VbwrA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rhf7m1V4MEMRuyVuP.SBJA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/a8076373fc290fd011c2fd3f3c528d71",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ADC",
+            "SCCO",
+            "CVX",
+            "LTC",
+            "IBM",
+            "ENB",
+            "ABBV"
+        ]
+    },
     "97803f78-7bca-3597-bea9-aecc9a840675": {
         "uuid": "97803f78-7bca-3597-bea9-aecc9a840675",
         "title": "This Energy Stock Is a Must-Own if You Want Passive Income",
@@ -168,34 +201,6 @@
         "relatedTickers": [
             "ENB",
             "EPD"
-        ]
-    },
-    "979b7bd5-262b-3c1b-a4a5-df41ea1612a5": {
-        "uuid": "979b7bd5-262b-3c1b-a4a5-df41ea1612a5",
-        "title": "Enbridge (ENB) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-dips-more-broader-215009904.html",
-        "providerPublishTime": 1657835409,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 900,
-                    "height": 633,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB",
-            "^GSPC"
         ]
     }
 }

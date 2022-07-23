@@ -4,7 +4,7 @@
         "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
-        "providerPublishTime": 1658529705,
+        "providerPublishTime": 1658576025,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -33,6 +33,51 @@
             "MSFT"
         ]
     },
+    "d824ef5f-1f59-3562-9c40-6a2ab5491c36": {
+        "uuid": "d824ef5f-1f59-3562-9c40-6a2ab5491c36",
+        "title": "Apple Outperforms Market, But Are Big Growth Days in the Past?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d824ef5f-1f59-3562-9c40-6a2ab5491c36/apple-outperforms-market%2C-but.html",
+        "providerPublishTime": 1658574900,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL",
+            "GOOGL",
+            "MSFT"
+        ]
+    },
+    "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8": {
+        "uuid": "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8",
+        "title": "Apple, Amazon, Meta Highlight Tech-Heavy Earnings Week",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8/apple%2C-amazon%2C-meta-highlight.html",
+        "providerPublishTime": 1658568600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hTLip36u10_.z25DbZfmaA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PFb.NrvnEDJStnV2_SK5zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL",
+            "GM",
+            "AAPL",
+            "AMZN",
+            "GOOG",
+            "GOOGL"
+        ]
+    },
     "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d": {
         "uuid": "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d",
         "title": "Not All Tech CEOs Are Created Equal. Here Are Some of the Best.",
@@ -57,11 +102,11 @@
             ]
         },
         "relatedTickers": [
-            "MSFT",
+            "SHOP",
             "U",
             "AAPL",
             "INTC",
-            "SHOP"
+            "MSFT"
         ]
     },
     "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
@@ -122,11 +167,11 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
             "META",
             "GOOG",
             "GOOGL",
             "MSFT",
+            "AAPL",
             "AMZN"
         ]
     },
@@ -156,14 +201,14 @@
         "relatedTickers": [
             "PINS",
             "AAPL",
+            "META",
             "JPM",
-            "STX",
             "GOOG",
             "GOOGL",
-            "META",
-            "TWTR",
+            "SNAP",
+            "STX",
             "TSLA",
-            "SNAP"
+            "TWTR"
         ]
     },
     "653413e0-2365-32f1-9f1d-87e25330c493": {
@@ -190,77 +235,13 @@
             ]
         },
         "relatedTickers": [
-            "FTNT",
+            "AMZN",
+            "TSLA",
             "JPM",
-            "TSLA",
-            "GOOG",
-            "GOOGL",
-            "AMZN",
+            "FTNT",
             "DXCM",
-            "AAPL"
-        ]
-    },
-    "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1": {
-        "uuid": "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1",
-        "title": "Tesla has the largest short in the U.S. market at nearly $2.7 billion",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/tesla-largest-short-u-market-194441050.html",
-        "providerPublishTime": 1658519081,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/osuQJHIkA4XNiLAa2CGQdw--~B/aD0xNDgzO3c9MjY0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
-                    "width": 2642,
-                    "height": 1483,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y1HL3jE0bCEwaQQeJBSxrg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "AAPL",
-            "AMZN"
-        ]
-    },
-    "946dc764-4a7c-3e6b-a7e0-e031ac765f93": {
-        "uuid": "946dc764-4a7c-3e6b-a7e0-e031ac765f93",
-        "title": "Inflation: The Fed 'doesn't have the guts' to raise interest rates by 6 to 7%, strategist says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/inflation-fed-doesnt-guts-raise-194331344.html",
-        "providerPublishTime": 1658519011,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NQgKSrW._HaplZVPywkCDw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_TGJtIXC6wytMVjpbchqzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
             "GOOG",
             "GOOGL",
-            "AMZN",
-            "MSFT",
-            "^DJI",
-            "^GSPC",
-            "^IXIC",
             "AAPL"
         ]
     }

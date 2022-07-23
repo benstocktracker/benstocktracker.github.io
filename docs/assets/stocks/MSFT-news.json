@@ -1,10 +1,23 @@
 {
+    "d824ef5f-1f59-3562-9c40-6a2ab5491c36": {
+        "uuid": "d824ef5f-1f59-3562-9c40-6a2ab5491c36",
+        "title": "Apple Outperforms Market, But Are Big Growth Days in the Past?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d824ef5f-1f59-3562-9c40-6a2ab5491c36/apple-outperforms-market%2C-but.html",
+        "providerPublishTime": 1658574900,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL",
+            "GOOGL",
+            "MSFT"
+        ]
+    },
     "3e1be26b-5235-38c0-9c22-84547ae5f971": {
         "uuid": "3e1be26b-5235-38c0-9c22-84547ae5f971",
         "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
-        "providerPublishTime": 1658529705,
+        "providerPublishTime": 1658576025,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -57,11 +70,11 @@
             ]
         },
         "relatedTickers": [
-            "MSFT",
+            "SHOP",
             "U",
             "AAPL",
             "INTC",
-            "SHOP"
+            "MSFT"
         ]
     },
     "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
@@ -153,11 +166,11 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
             "META",
             "GOOG",
             "GOOGL",
             "MSFT",
+            "AAPL",
             "AMZN"
         ]
     },
@@ -228,36 +241,6 @@
             "AAPL",
             "TWTR",
             "META"
-        ]
-    },
-    "7174e373-c466-3f6d-ad8b-ae1fd92c3ac9": {
-        "uuid": "7174e373-c466-3f6d-ad8b-ae1fd92c3ac9",
-        "title": "Previewing Big Tech Earnings Ahead of a Huge Week for Wall Street",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/previewing-big-tech-earnings-ahead-193807446.html",
-        "providerPublishTime": 1658518687,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u4KUASx2vCWA4TjL.WFlow--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9luckxOk8kuyxVFOBDXD7g--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80c3b0044109952d2ccd07e54852806c",
-                    "width": 620,
-                    "height": 349,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3nUwYmx6gxTutlJ010VRGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9luckxOk8kuyxVFOBDXD7g--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80c3b0044109952d2ccd07e54852806c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL",
-            "^GSPC",
-            "MSFT",
-            "AMZN"
         ]
     }
 }

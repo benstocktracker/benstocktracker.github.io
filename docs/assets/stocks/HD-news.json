@@ -1,4 +1,31 @@
 {
+    "6e91093a-c0f6-3ee2-9482-affdb8b61f01": {
+        "uuid": "6e91093a-c0f6-3ee2-9482-affdb8b61f01",
+        "title": "Ensemble Capital Expects The Home Depot (HD) to Bounce Back in 2022",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/ensemble-capital-expects-home-depot-025711917.html",
+        "providerPublishTime": 1658545031,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jSdxsqmdx_CpZEgLLATJjA--~B/aD00NTU7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/d2lPR6YZZjKU.JLwRCFq4w--~B/aD00NTU7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b9bbb264d500caefaa2a854db3a83c7c",
+                    "width": 750,
+                    "height": 455,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/euGnvJbpxcW2XDze5wE0Mg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d2lPR6YZZjKU.JLwRCFq4w--~B/aD00NTU7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b9bbb264d500caefaa2a854db3a83c7c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "HD"
+        ]
+    },
     "c3ce18ca-51f8-3b77-baa2-9f9afce4a332": {
         "uuid": "c3ce18ca-51f8-3b77-baa2-9f9afce4a332",
         "title": "The Home Depot Expands Partnership With the Human Rights Campaign Foundation",
@@ -179,40 +206,6 @@
         },
         "relatedTickers": [
             "HD"
-        ]
-    },
-    "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1": {
-        "uuid": "9e5ee5f1-4db5-36d9-b7e5-e58d618c4de1",
-        "title": "10 Best Long-Term Dividend Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-long-term-dividend-132258441.html",
-        "providerPublishTime": 1658323378,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r0yS8HdCKDNcf6GHD0nA7w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5gYQ3Mjmnv.kfmNHEQNcug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FmBdwc3tO.tUXHB84rvGjQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c621e13f4b0c2e0dbafe82c665ac6002",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TXN",
-            "UNP",
-            "CHD",
-            "HD",
-            "KO",
-            "ALL-PG",
-            "MRK",
-            "JNJ"
         ]
     }
 }

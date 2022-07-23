@@ -1,4 +1,137 @@
 {
+    "4c1717b0-9d3a-3b83-a151-08a845d2d8e7": {
+        "uuid": "4c1717b0-9d3a-3b83-a151-08a845d2d8e7",
+        "title": "Amazon Gets First Rivian Vans on the Road",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/4c1717b0-9d3a-3b83-a151-08a845d2d8e7/amazon-gets-first-rivian-vans.html",
+        "providerPublishTime": 1658574900,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xdgQxGfHXQ4QMc2_I1BLtg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/uzMWWZpI05yPe79ClI4tfA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/2bf598b25637bb67513659e66ae4604d",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KWePSWK52EI4753_Jd.slw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uzMWWZpI05yPe79ClI4tfA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/2bf598b25637bb67513659e66ae4604d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RIVN",
+            "AMZN"
+        ]
+    },
+    "4b7a0129-a1e2-3e16-be01-f4acb133db02": {
+        "uuid": "4b7a0129-a1e2-3e16-be01-f4acb133db02",
+        "title": "Amazon Starts Using Rivian's Electric Vehicles. Is It Time to Buy This EV Stock?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4b7a0129-a1e2-3e16-be01-f4acb133db02/amazon-starts-using-rivian%27s.html",
+        "providerPublishTime": 1658573700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/swTj_jSIDSPKgxTHuwoN9w--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OdDhs5BjKIJXy93GZoLaSQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8d8ad530230850f13e4c1282fafedec9",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GthgtI1DWzbPAu6qhQAOXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OdDhs5BjKIJXy93GZoLaSQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8d8ad530230850f13e4c1282fafedec9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RIVN",
+            "AMZN"
+        ]
+    },
+    "96b11239-0657-32f0-9934-686fc0c45969": {
+        "uuid": "96b11239-0657-32f0-9934-686fc0c45969",
+        "title": "Amazon's Billion-Dollar Deal: Here's What You Need to Know",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/96b11239-0657-32f0-9934-686fc0c45969/amazon%27s-billion-dollar-deal%3A.html",
+        "providerPublishTime": 1658572200,
+        "type": "STORY",
+        "relatedTickers": [
+            "AMZN",
+            "ONEM",
+            "TDOC"
+        ]
+    },
+    "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8": {
+        "uuid": "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8",
+        "title": "Apple, Amazon, Meta Highlight Tech-Heavy Earnings Week",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8/apple%2C-amazon%2C-meta-highlight.html",
+        "providerPublishTime": 1658568600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hTLip36u10_.z25DbZfmaA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PFb.NrvnEDJStnV2_SK5zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL",
+            "GM",
+            "AAPL",
+            "AMZN",
+            "GOOG",
+            "GOOGL"
+        ]
+    },
+    "6dacf9c7-f78b-382b-8aa1-ee2d85dff95a": {
+        "uuid": "6dacf9c7-f78b-382b-8aa1-ee2d85dff95a",
+        "title": "Nasdaq Bear Market: 5 Astounding Growth Stocks You'll Regret Not Buying on the Dip",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6dacf9c7-f78b-382b-8aa1-ee2d85dff95a/nasdaq-bear-market%3A-5.html",
+        "providerPublishTime": 1658568060,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TD7IFot3jlQXsQeZ0bWtmg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/frHlwSYNw982k_Zv8BZdAg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9f2780aa00ceafda89c0b40eddeb8fa6",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HMaxba41e3WLyRbZc.rKzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/frHlwSYNw982k_Zv8BZdAg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9f2780aa00ceafda89c0b40eddeb8fa6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COMP",
+            "CRM",
+            "PLTR",
+            "AMZN",
+            "PING",
+            "UPST"
+        ]
+    },
     "691c0293-48e6-3068-9f84-bca5bcea8019": {
         "uuid": "691c0293-48e6-3068-9f84-bca5bcea8019",
         "title": "A different Middle-earth is explored in Amazon's 'Lord of the Rings' series",
@@ -65,170 +198,6 @@
             "CMCSA",
             "NFLX",
             "AMZN"
-        ]
-    },
-    "01828bc5-4488-3e62-b1de-34ea55255271": {
-        "uuid": "01828bc5-4488-3e62-b1de-34ea55255271",
-        "title": "Progressive Caucus Asks Schumer to Set Vote on Antitrust Bills",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/progressive-caucus-asks-schumer-set-202901686.html",
-        "providerPublishTime": 1658521741,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iMchpH5r9ImkyBMObBhCiA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/S2KdxGa.PW0_U0ygrLFrBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL",
-            "META",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "AMZN"
-        ]
-    },
-    "653413e0-2365-32f1-9f1d-87e25330c493": {
-        "uuid": "653413e0-2365-32f1-9f1d-87e25330c493",
-        "title": "Alphabet Stock Split Lands With a Thud in Worry-Filled Market",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/alphabet-stock-split-lands-thud-150857055.html",
-        "providerPublishTime": 1658520644,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GduHJDItr0T9CuqB0plI4w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tgCpyj2kCEVrp95UpTLh0w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT",
-            "JPM",
-            "TSLA",
-            "GOOG",
-            "GOOGL",
-            "AMZN",
-            "DXCM",
-            "AAPL"
-        ]
-    },
-    "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1": {
-        "uuid": "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1",
-        "title": "Tesla has the largest short in the U.S. market at nearly $2.7 billion",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/tesla-largest-short-u-market-194441050.html",
-        "providerPublishTime": 1658519081,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/osuQJHIkA4XNiLAa2CGQdw--~B/aD0xNDgzO3c9MjY0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
-                    "width": 2642,
-                    "height": 1483,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y1HL3jE0bCEwaQQeJBSxrg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "AAPL",
-            "AMZN"
-        ]
-    },
-    "946dc764-4a7c-3e6b-a7e0-e031ac765f93": {
-        "uuid": "946dc764-4a7c-3e6b-a7e0-e031ac765f93",
-        "title": "Inflation: The Fed 'doesn't have the guts' to raise interest rates by 6 to 7%, strategist says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/inflation-fed-doesnt-guts-raise-194331344.html",
-        "providerPublishTime": 1658519011,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NQgKSrW._HaplZVPywkCDw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_TGJtIXC6wytMVjpbchqzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "GOOG",
-            "GOOGL",
-            "AMZN",
-            "MSFT",
-            "^DJI",
-            "^GSPC",
-            "^IXIC",
-            "AAPL"
-        ]
-    },
-    "4ad2b6f5-6710-321e-8e41-5e922bbbad78": {
-        "uuid": "4ad2b6f5-6710-321e-8e41-5e922bbbad78",
-        "title": "Tech stocks: Where to find 'safety,' according to one analyst",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/tech-stocks-where-safety-according-193943408.html",
-        "providerPublishTime": 1658518783,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ha3GQeh56TDCqKqZGLM.TA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/028b93e0-09f6-11ed-b8a9-123751ec79b7",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/76EkPcvTT48ze3qXkyMbXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/028b93e0-09f6-11ed-b8a9-123751ec79b7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN",
-            "GOOG",
-            "GOOGL",
-            "XLK",
-            "MSFT",
-            "AAPL",
-            "TWTR",
-            "META"
         ]
     }
 }

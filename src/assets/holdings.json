@@ -3,81 +3,63 @@
     {
       "account": "Brokerage",
       "costAverage": 68.54,
-      "costBasis": 6854,
-      "shares": 100,
-      "ticker": "AAPL"
+      "shares": 100
     }
   ],
   "ABBV": [
     {
       "account": "Brokerage",
       "costAverage": 87.13,
-      "costBasis": 4356.5,
-      "shares": 50,
-      "ticker": "ABBV"
+      "shares": 50
     }
   ],
   "ARCC": [
     {
       "account": "Brokerage",
       "costAverage": 13.8,
-      "costBasis": 690,
-      "shares": 50,
-      "ticker": "ARCC"
+      "shares": 50
     }
   ],
   "BEN": [
     {
       "account": "Brokerage",
       "costAverage": 19.5,
-      "costBasis": 580.5,
-      "shares": 30,
-      "ticker": "BEN"
+      "shares": 30
     }
   ],
   "DIDIY": [
     {
       "account": "Roth IRA",
       "costAverage": 12.59,
-      "costBasis": 3777,
-      "shares": 300,
-      "ticker": "DIDIY"
+      "shares": 300
     }
   ],
   "DIS": [
     {
       "account": "Brokerage",
       "costAverage": 98.69,
-      "costBasis": 2984.7,
-      "shares": 34,
-      "ticker": "DIS"
+      "shares": 34
     }
   ],
   "DOCN": [
     {
       "account": "Roth IRA",
       "costAverage": 39.79,
-      "costBasis": 996.01,
-      "shares": 30,
-      "ticker": "DOCN"
+      "shares": 30
     }
   ],
   "ENB": [
     {
       "account": "Brokerage",
       "costAverage": 30.01,
-      "costBasis": 3001,
-      "shares": 100,
-      "ticker": "ENB"
+      "shares": 100
     }
   ],
   "ET": [
     {
       "account": "Brokerage",
       "costAverage": 5.91,
-      "costBasis": 591,
-      "shares": 100,
-      "ticker": "ET"
+      "shares": 100
     }
   ],
   "FRT": [
@@ -93,201 +75,155 @@
     {
       "account": "Brokerage",
       "costAverage": 60.45,
-      "costBasis": 1830.3,
-      "shares": 25,
-      "ticker": "GILD"
+      "shares": 25
     }
   ],
   "JMIA": [
     {
       "account": "Brokerage",
       "costAverage": 5.87,
-      "costBasis": 3929.9999999999995,
-      "shares": 100,
-      "ticker": "JMIA"
+      "shares": 100
     },
     {
       "account": "Roth IRA",
       "costAverage": 19.65,
-      "costBasis": 3929.9999999999995,
-      "shares": 200,
-      "ticker": "JMIA"
+      "shares": 200
     }
   ],
   "KMI": [
     {
       "account": "Brokerage",
       "costAverage": 10.94,
-      "costBasis": 273.5,
-      "shares": 25,
-      "ticker": "KMI"
+      "shares": 25
     }
   ],
   "MSFT": [
     {
       "account": "Brokerage",
       "costAverage": 167.08,
-      "costBasis": 5012.400000000001,
-      "shares": 30,
-      "ticker": "MSFT"
+      "shares": 30
     }
   ],
   "NIO": [
     {
       "account": "Roth IRA",
       "costAverage": 28.11,
-      "costBasis": 1405.5,
-      "shares": 50,
-      "ticker": "NIO"
+      "shares": 50
     }
   ],
   "NVAX": [
     {
       "account": "Brokerage",
       "costAverage": 44.46,
-      "costBasis": 444.6,
-      "shares": 10,
-      "ticker": "NVAX"
+      "shares": 10
     }
   ],
   "O": [
     {
       "account": "Brokerage",
       "costAverage": 59.98,
-      "costBasis": 2927,
-      "shares": 60,
-      "ticker": "O"
+      "shares": 60
     }
   ],
   "ONL": [
     {
       "account": "Roth IRA",
       "costAverage": 13.96,
-      "costBasis": 101.8,
-      "shares": 50,
-      "ticker": "ONL"
+      "shares": 50
     }
   ],
   "PFE": [
     {
       "account": "Brokerage",
       "costAverage": 34.55,
-      "costBasis": 1209.25,
-      "shares": 35,
-      "ticker": "PFE"
+      "shares": 35
     }
   ],
   "QYLD": [
     {
       "account": "Roth IRA",
       "costAverage": 19.32,
-      "costBasis": 1009.5000000000001,
-      "shares": 100,
-      "ticker": "QYLD"
+      "shares": 100
     }
   ],
   "RTL": [
     {
       "account": "Brokerage",
       "costAverage": 5.45,
-      "costBasis": 545,
-      "shares": 100,
-      "ticker": "RTL"
+      "shares": 100
     }
   ],
   "SPG": [
     {
       "account": "Brokerage",
       "costAverage": 67.94,
-      "costBasis": 1315.3999999999999,
-      "shares": 21,
-      "ticker": "SPG"
+      "shares": 21
     }
   ],
   "STOR": [
     {
       "account": "Brokerage",
       "costAverage": 27.35,
-      "costBasis": 1369.5,
-      "shares": 100,
-      "ticker": "STOR"
+      "shares": 100
     }
   ],
   "T": [
     {
       "account": "Brokerage",
       "costAverage": 22.61,
-      "costBasis": 2250,
-      "shares": 100,
-      "ticker": "T"
+      "shares": 100
     },
     {
       "account": "Roth IRA",
       "costAverage": 24.29,
-      "costBasis": 1457.3999999999999,
-      "shares": 60,
-      "ticker": "T"
+      "shares": 60
     }
   ],
   "TPVG": [
     {
       "account": "Brokerage",
       "costAverage": 10.33,
-      "costBasis": 516.5,
-      "shares": 50,
-      "ticker": "TPVG"
+      "shares": 50
     }
   ],
   "TSM": [
     {
       "account": "Roth IRA",
       "costAverage": 102.52,
-      "costBasis": 2053.2,
-      "shares": 20,
-      "ticker": "TSM"
+      "shares": 20
     }
   ],
   "UL": [
     {
       "account": "Roth IRA",
       "costAverage": 46.25,
-      "costBasis": 1156.25,
-      "shares": 20,
-      "ticker": "UL"
+      "shares": 20
     }
   ],
   "VZ": [
     {
       "account": "Roth IRA",
       "costAverage": 49.28,
-      "costBasis": 1558.5,
-      "shares": 57,
-      "ticker": "VZ"
+      "shares": 57
     },
     {
       "account": "Brokerage",
       "costAverage": 46.27,
-      "costBasis": 1558.5,
-      "shares": 15,
-      "ticker": "VZ"
+      "shares": 15
     }
   ],
   "WBD": [
     {
       "account": "Roth IRA",
       "costAverage": 15.53,
-      "costBasis": 766.5,
-      "shares": 50,
-      "ticker": "WBD"
+      "shares": 50
     }
   ],
   "XPEV": [
     {
       "account": "Roth IRA",
       "costAverage": 31.74,
-      "costBasis": 2380.5,
-      "shares": 75,
-      "ticker": "XPEV"
+      "shares": 75
     }
   ]
 }

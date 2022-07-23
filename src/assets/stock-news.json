@@ -1,4 +1,295 @@
 {
+    "f4c1edad-b087-338e-b5a3-7d3a263e19d9": {
+        "uuid": "f4c1edad-b087-338e-b5a3-7d3a263e19d9",
+        "title": "Is It a Bad Time to Own TSMC Stock?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f4c1edad-b087-338e-b5a3-7d3a263e19d9/is-it-a-bad-time-to-own-tsmc.html",
+        "providerPublishTime": 1658577600,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSM"
+        ]
+    },
+    "3e1be26b-5235-38c0-9c22-84547ae5f971": {
+        "uuid": "3e1be26b-5235-38c0-9c22-84547ae5f971",
+        "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
+        "providerPublishTime": 1658576025,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.KY51zq22_qU98yLwUAo_g--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+                    "width": 1012,
+                    "height": 572,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SjlUigfqdlTJJ_NzKoNzvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "^DJI",
+            "LI",
+            "AAPL",
+            "GOOGL",
+            "COMP",
+            "DLTR",
+            "MSFT"
+        ]
+    },
+    "7e55843f-7666-3c67-b088-c02ba5b4668f": {
+        "uuid": "7e55843f-7666-3c67-b088-c02ba5b4668f",
+        "title": "Where Will Nio Be in 5 Years?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7e55843f-7666-3c67-b088-c02ba5b4668f/where-will-nio-be-in-5-years%3F.html",
+        "providerPublishTime": 1658575800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q3YXWpS0DOBsJJAprpf_qA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qMOsBE3OCFnkHRn3UvjrfA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e5024bc2cc41681e32ba1a306e2eed83",
+                    "width": 1400,
+                    "height": 752,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ObJq_0QK2b1sI9.sYxHAJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qMOsBE3OCFnkHRn3UvjrfA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e5024bc2cc41681e32ba1a306e2eed83",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO"
+        ]
+    },
+    "d824ef5f-1f59-3562-9c40-6a2ab5491c36": {
+        "uuid": "d824ef5f-1f59-3562-9c40-6a2ab5491c36",
+        "title": "Apple Outperforms Market, But Are Big Growth Days in the Past?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d824ef5f-1f59-3562-9c40-6a2ab5491c36/apple-outperforms-market%2C-but.html",
+        "providerPublishTime": 1658574900,
+        "type": "STORY",
+        "relatedTickers": [
+            "AAPL",
+            "GOOGL",
+            "MSFT"
+        ]
+    },
+    "d862a888-214e-3720-be2e-170fba1bf2bd": {
+        "uuid": "d862a888-214e-3720-be2e-170fba1bf2bd",
+        "title": "1 Green Flag for AMC, and 1 Red Flag",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d862a888-214e-3720-be2e-170fba1bf2bd/1-green-flag-for-amc%2C-and-1.html",
+        "providerPublishTime": 1658574360,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UsKOz.zAaDocQr2OnrhGOg--~B/aD05NDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4h0WWlt0jybpkm_za2WzVA--~B/aD05NDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/135e60afcf8afa66e377e5042fafd943",
+                    "width": 1400,
+                    "height": 949,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fqQVZbhq2iUh74Qfsn7l0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4h0WWlt0jybpkm_za2WzVA--~B/aD05NDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/135e60afcf8afa66e377e5042fafd943",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMC",
+            "DIS"
+        ]
+    },
+    "09e2045a-b6fd-4898-8ca7-a94701ebf124": {
+        "uuid": "09e2045a-b6fd-4898-8ca7-a94701ebf124",
+        "title": "The simple and complicated story behind Buffett's massive oil buy: Morning Brief",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/warren-buffett-morning-brief-july-23-110012203.html",
+        "providerPublishTime": 1658574012,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OzSXiwyQE.wk7mBB9QNiTQ--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-07/4398a690-9c38-11e9-b73f-8c2058e15bcb",
+                    "width": 6720,
+                    "height": 4480,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/33zgFc8M.KFADO4de4AfEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-07/4398a690-9c38-11e9-b73f-8c2058e15bcb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XOM",
+            "OXY",
+            "BRK-A",
+            "BRK-B",
+            "CL=F",
+            "CVX"
+        ]
+    },
+    "4a22f09a-896c-3aa0-a4d9-77cec4bcbc6e": {
+        "uuid": "4a22f09a-896c-3aa0-a4d9-77cec4bcbc6e",
+        "title": "Cash-strapped Americans can't afford to pay their phone bills on time \u2014 and AT&T shares crashed the most in 20 years because of that",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/cash-strapped-americans-cant-afford-110000650.html",
+        "providerPublishTime": 1658574000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ykqcC1XS6LUxo7_goXaIrg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/_9TMo5SbijAuvDKKJ9IWDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2eeebb7d3a29ac51d1835697686c55e6",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u9BNII3poiAFRPB3Z08auA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9TMo5SbijAuvDKKJ9IWDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2eeebb7d3a29ac51d1835697686c55e6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC",
+            "VZ"
+        ]
+    },
+    "ca9bf360-bfb3-32a0-afdb-daea44323b07": {
+        "uuid": "ca9bf360-bfb3-32a0-afdb-daea44323b07",
+        "title": "Don't Just Rely on Social Security: 3 Dividend Stocks to Buy in a Bear Market",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ca9bf360-bfb3-32a0-afdb-daea44323b07/don%27t-just-rely-on-social.html",
+        "providerPublishTime": 1658572560,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Q2_8_4lv_rfsDDC9RW2qug--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GmGzCkkyGVbTf5O_0YfiMg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b2dc27fe0c0308e163ca72908435960f",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1ON_AYgJW52KdFddysr0nw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GmGzCkkyGVbTf5O_0YfiMg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b2dc27fe0c0308e163ca72908435960f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "UL",
+            "KMI",
+            "PEP"
+        ]
+    },
+    "fd0dab60-c7a0-364b-ad99-fcb230f7ee24": {
+        "uuid": "fd0dab60-c7a0-364b-ad99-fcb230f7ee24",
+        "title": "Russia\u2019s Natural-Gas Game Comes With Economic Risks",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/fd0dab60-c7a0-364b-ad99-fcb230f7ee24/russia%E2%80%99s-natural-gas-game.html",
+        "providerPublishTime": 1658569680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R9JFNba5H7wfa2Y5TcXlHQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/biTjYcz2LbnUSsL1zNNWFA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/a5028ac7c0c5ad8a0c259d388f3a1ff3",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mH_cOCmjAmtVUnbCY6LEiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/biTjYcz2LbnUSsL1zNNWFA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/a5028ac7c0c5ad8a0c259d388f3a1ff3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F"
+        ]
+    },
+    "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8": {
+        "uuid": "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8",
+        "title": "Apple, Amazon, Meta Highlight Tech-Heavy Earnings Week",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8/apple%2C-amazon%2C-meta-highlight.html",
+        "providerPublishTime": 1658568600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hTLip36u10_.z25DbZfmaA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PFb.NrvnEDJStnV2_SK5zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL",
+            "GM",
+            "AAPL",
+            "AMZN",
+            "GOOG",
+            "GOOGL"
+        ]
+    },
+    "4f9545fd-f5bd-376a-85ec-62889404def9": {
+        "uuid": "4f9545fd-f5bd-376a-85ec-62889404def9",
+        "title": "1 Dividend King to Hold Till You're Blue in the Face",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/4f9545fd-f5bd-376a-85ec-62889404def9/1-dividend-king-to-hold-till.html",
+        "providerPublishTime": 1658568600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mqHnBjp7enYAomew.Kd1ow--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OAgKecoHdwaHCnqqIpTynQ--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d20a18d687192cd65653269f774f22c0",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vWZO.U4CGAlSnbNBvSU4Xg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OAgKecoHdwaHCnqqIpTynQ--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d20a18d687192cd65653269f774f22c0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT"
+        ]
+    },
     "24679ea8-a054-3d37-998c-68bd7b8cf5b6": {
         "uuid": "24679ea8-a054-3d37-998c-68bd7b8cf5b6",
         "title": "It\u2019s a Bear-Market Rally. Whether it Lasts Depends on the Fed.",
@@ -69,40 +360,6 @@
             "T-PC"
         ]
     },
-    "3e1be26b-5235-38c0-9c22-84547ae5f971": {
-        "uuid": "3e1be26b-5235-38c0-9c22-84547ae5f971",
-        "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
-        "providerPublishTime": 1658529705,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.KY51zq22_qU98yLwUAo_g--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
-                    "width": 1012,
-                    "height": 572,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SjlUigfqdlTJJ_NzKoNzvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "^DJI",
-            "LI",
-            "AAPL",
-            "GOOGL",
-            "COMP",
-            "DLTR",
-            "MSFT"
-        ]
-    },
     "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d": {
         "uuid": "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d",
         "title": "Not All Tech CEOs Are Created Equal. Here Are Some of the Best.",
@@ -127,11 +384,11 @@
             ]
         },
         "relatedTickers": [
-            "MSFT",
+            "SHOP",
             "U",
             "AAPL",
             "INTC",
-            "SHOP"
+            "MSFT"
         ]
     },
     "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
@@ -483,11 +740,11 @@
             ]
         },
         "relatedTickers": [
-            "AAPL",
             "META",
             "GOOG",
             "GOOGL",
             "MSFT",
+            "AAPL",
             "AMZN"
         ]
     },
@@ -635,14 +892,14 @@
         "relatedTickers": [
             "PINS",
             "AAPL",
+            "META",
             "JPM",
-            "STX",
             "GOOG",
             "GOOGL",
-            "META",
-            "TWTR",
+            "SNAP",
+            "STX",
             "TSLA",
-            "SNAP"
+            "TWTR"
         ]
     },
     "653413e0-2365-32f1-9f1d-87e25330c493": {
@@ -669,13 +926,13 @@
             ]
         },
         "relatedTickers": [
-            "FTNT",
-            "JPM",
+            "AMZN",
             "TSLA",
+            "JPM",
+            "FTNT",
+            "DXCM",
             "GOOG",
             "GOOGL",
-            "AMZN",
-            "DXCM",
             "AAPL"
         ]
     },
@@ -760,35 +1017,6 @@
             "DIS"
         ]
     },
-    "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1": {
-        "uuid": "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1",
-        "title": "Tesla has the largest short in the U.S. market at nearly $2.7 billion",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/tesla-largest-short-u-market-194441050.html",
-        "providerPublishTime": 1658519081,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/osuQJHIkA4XNiLAa2CGQdw--~B/aD0xNDgzO3c9MjY0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
-                    "width": 2642,
-                    "height": 1483,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/y1HL3jE0bCEwaQQeJBSxrg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "AAPL",
-            "AMZN"
-        ]
-    },
     "946dc764-4a7c-3e6b-a7e0-e031ac765f93": {
         "uuid": "946dc764-4a7c-3e6b-a7e0-e031ac765f93",
         "title": "Inflation: The Fed 'doesn't have the guts' to raise interest rates by 6 to 7%, strategist says",
@@ -858,36 +1086,6 @@
             "META"
         ]
     },
-    "7174e373-c466-3f6d-ad8b-ae1fd92c3ac9": {
-        "uuid": "7174e373-c466-3f6d-ad8b-ae1fd92c3ac9",
-        "title": "Previewing Big Tech Earnings Ahead of a Huge Week for Wall Street",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/previewing-big-tech-earnings-ahead-193807446.html",
-        "providerPublishTime": 1658518687,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u4KUASx2vCWA4TjL.WFlow--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9luckxOk8kuyxVFOBDXD7g--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80c3b0044109952d2ccd07e54852806c",
-                    "width": 620,
-                    "height": 349,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3nUwYmx6gxTutlJ010VRGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9luckxOk8kuyxVFOBDXD7g--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80c3b0044109952d2ccd07e54852806c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL",
-            "^GSPC",
-            "MSFT",
-            "AMZN"
-        ]
-    },
     "46047d13-52f9-3860-8fea-ce6d7e30ee62": {
         "uuid": "46047d13-52f9-3860-8fea-ce6d7e30ee62",
         "title": "U.S. oil prices settle lower, holding below $100 on signs of a demand slowdown",
@@ -916,33 +1114,6 @@
             "HO=F",
             "NG=F",
             "RB=F"
-        ]
-    },
-    "3eeae047-56aa-3932-953b-777a3037b5e4": {
-        "uuid": "3eeae047-56aa-3932-953b-777a3037b5e4",
-        "title": "Oil ends lower, with U.S. prices holding below $100 a barrel",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/3eeae047-56aa-3932-953b-777a3037b5e4/oil-ends-lower%2C-with-u.s..html",
-        "providerPublishTime": 1658516645,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F"
         ]
     },
     "8606475c-2263-3bc3-b00c-93962f2d3e39": {
@@ -1106,75 +1277,11 @@
             ]
         },
         "relatedTickers": [
-            "NTDOF",
-            "NTDOY",
             "UBSFF",
             "UBSFY",
+            "NTDOF",
+            "NTDOY",
             "DIS"
-        ]
-    },
-    "067c5162-9f13-3ee6-858f-d8a68e27ca3c": {
-        "uuid": "067c5162-9f13-3ee6-858f-d8a68e27ca3c",
-        "title": "The Commodity Bull Market Will Continue",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/commodity-bull-market-continue-164304877.html",
-        "providerPublishTime": 1658508184,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZZ8nuTOJQgj3jqC.VraTGg--~B/aD0zODY7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Lsmh_G7lpQeuBuw4iIhtgQ--~B/aD0zODY7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/63d06e4a8e7c2ab3636f722d0415cd3b",
-                    "width": 620,
-                    "height": 386,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UOw0hbphKrf4ydPj.jTXNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Lsmh_G7lpQeuBuw4iIhtgQ--~B/aD0zODY7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/63d06e4a8e7c2ab3636f722d0415cd3b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LB=F",
-            "NG=F",
-            "GC=F",
-            "ZG=F",
-            "KW=F",
-            "CL=F"
-        ]
-    },
-    "66a413c2-d9bd-34a4-a54b-95075706201b": {
-        "uuid": "66a413c2-d9bd-34a4-a54b-95075706201b",
-        "title": "Stock Market Erases Early Gains; Snap And Verizon Fall On Poor Earnings",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/66a413c2-d9bd-34a4-a54b-95075706201b/stock-market-erases-early.html",
-        "providerPublishTime": 1658507758,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iGvVcymUkckCRlKw6GuW_A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zTXlZwCRSf8VZQeY.lHFwQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4ef58653f75d0e2514fcbbead1d752e3",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wYuKyfGbsCG4lL5sD4qBYg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zTXlZwCRSf8VZQeY.lHFwQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4ef58653f75d0e2514fcbbead1d752e3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COMP",
-            "VZ",
-            "AXP",
-            "^GSPC",
-            "^DJI",
-            "TWTR"
         ]
     },
     "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
@@ -1288,34 +1395,6 @@
         },
         "relatedTickers": [
             "PFE"
-        ]
-    },
-    "00076ffd-3b28-39a9-8441-b25ed76c5f04": {
-        "uuid": "00076ffd-3b28-39a9-8441-b25ed76c5f04",
-        "title": "Disney Wants to Overtake Netflix With This 1 Move",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/00076ffd-3b28-39a9-8441-b25ed76c5f04/disney-wants-to-overtake.html",
-        "providerPublishTime": 1658502900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.5eegIdcaz1HCZm24VGNJg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WWjIsIWVCwgnMO8a.DKohg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/da8457022aa3c52561d4daed5d7eb769",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eXx024cHYfVCKjwTuTxMJA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WWjIsIWVCwgnMO8a.DKohg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/da8457022aa3c52561d4daed5d7eb769",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "DIS"
         ]
     },
     "0968bae2-d105-3583-b116-51335be0fe48": {
@@ -1729,35 +1808,6 @@
             "APH",
             "DOCN",
             "FSLY"
-        ]
-    },
-    "9b7849cf-478e-3904-b086-603d9c85ff16": {
-        "uuid": "9b7849cf-478e-3904-b086-603d9c85ff16",
-        "title": "Is Verizon Stock A Buy Or Sell As 2022 EPS Guidance Cut?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/9b7849cf-478e-3904-b086-603d9c85ff16/is-verizon-stock-a-buy-or.html",
-        "providerPublishTime": 1658492115,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9fI_WqOXfdKTrl_95ea.MA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iX6mLMShJPY6GbxjBKybEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VmBT1lgZkTsbrHvth1ufzA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/fd0a070fd98966b51b922a2c54d944b7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T",
-            "^GSPC"
         ]
     },
     "8b5a09dd-c20f-3d0e-bab3-6a75871a785f": {
@@ -2441,13 +2491,13 @@
             ]
         },
         "relatedTickers": [
+            "SFDMY",
             "ASML",
             "ASMLF",
-            "SFDMY",
+            "TSM",
             "0981.HK",
             "SSNLF",
-            "INTC",
-            "TSM"
+            "INTC"
         ]
     },
     "abebf735-a756-383f-b3a2-f97ba983e16c": {
@@ -2475,9 +2525,9 @@
         },
         "relatedTickers": [
             "TSM",
-            "F",
             "SSNLF",
-            "AAPL"
+            "AAPL",
+            "F"
         ]
     },
     "d72be79c-d5c5-3ab2-8f34-51fe5de7b516": {
@@ -2855,35 +2905,6 @@
             "CLR"
         ]
     },
-    "8c48fbcd-ab70-38e5-a954-ef916f85628c": {
-        "uuid": "8c48fbcd-ab70-38e5-a954-ef916f85628c",
-        "title": "The CHIPS Act Could Boost These 3 Semiconductor Stocks",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8c48fbcd-ab70-38e5-a954-ef916f85628c/the-chips-act-could-boost.html",
-        "providerPublishTime": 1658400900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/028tus7i6alFGJX9VioFPA--~B/aD04NTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HEe350u9GO0KSQGC61WHjw--~B/aD04NTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3cfb858891f9ed6451018e50f7e6ae28",
-                    "width": 1400,
-                    "height": 858,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lkQ68ACRwv9.CNMOGNq39w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HEe350u9GO0KSQGC61WHjw--~B/aD04NTg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3cfb858891f9ed6451018e50f7e6ae28",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "INTC",
-            "TXN"
-        ]
-    },
     "2f0775fb-0aec-33f0-9747-48e86cf305d4": {
         "uuid": "2f0775fb-0aec-33f0-9747-48e86cf305d4",
         "title": "China Fines Ride-Hailing Giant Didi $1.2 Billion, Citing Cybersecurity Breaches",
@@ -3126,33 +3147,6 @@
         "relatedTickers": [
             "NIO",
             "^GSPC"
-        ]
-    },
-    "0b6579a5-4e29-39d8-8c0b-85cec7af0054": {
-        "uuid": "0b6579a5-4e29-39d8-8c0b-85cec7af0054",
-        "title": "Kinder Morgan (KMI) Matches Q2 Earnings Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-matches-q2-213509732.html",
-        "providerPublishTime": 1658352909,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FMZjK9ufrlrN5dfBUmknRg--~B/aD03Mjg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/I67vygGrP1BjgOjVx.apeA--~B/aD03Mjg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b9775f315e7b6c4ada6e36d0048a929a",
-                    "width": 900,
-                    "height": 728,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9yusYhzynhnjOFe5yKN_Pg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/I67vygGrP1BjgOjVx.apeA--~B/aD03Mjg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b9775f315e7b6c4ada6e36d0048a929a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KMI"
         ]
     },
     "dffb9016-fa22-37fb-8a1d-d21837d5b629": {
@@ -3566,6 +3560,39 @@
             "BEN"
         ]
     },
+    "a9ad25d5-2f10-3ef9-98a3-712bb4253881": {
+        "uuid": "a9ad25d5-2f10-3ef9-98a3-712bb4253881",
+        "title": "7 Best Income Stocks to Buy Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-income-stocks-buy-101547724.html",
+        "providerPublishTime": 1658312147,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qCgGJhaVbfv0Y56cqabHWA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rhf7m1V4MEMRuyVuP.SBJA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/a8076373fc290fd011c2fd3f3c528d71",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.bOYJWX1qm4AyVeL9VbwrA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rhf7m1V4MEMRuyVuP.SBJA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/a8076373fc290fd011c2fd3f3c528d71",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ADC",
+            "SCCO",
+            "CVX",
+            "LTC",
+            "IBM",
+            "ENB",
+            "ABBV"
+        ]
+    },
     "ebaf1a42-4990-3112-a9dd-c916c474c2a4": {
         "uuid": "ebaf1a42-4990-3112-a9dd-c916c474c2a4",
         "title": "Nasdaq Bear Market: 3 Game-Changing Stocks That Can Triple Your Money by 2027",
@@ -3897,42 +3924,6 @@
         "relatedTickers": [
             "UL",
             "DHIL"
-        ]
-    },
-    "21676b56-4a0b-3549-8d0d-3bd033bb2e04": {
-        "uuid": "21676b56-4a0b-3549-8d0d-3bd033bb2e04",
-        "title": "Energy stocks gain, Tesla stock rises, bitcoin and ethereum prices jump",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/energy-stocks-gain-tesla-stock-142008963.html",
-        "providerPublishTime": 1658154008,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LMirmonRNu8ApbksD8XQqA--~B/aD0xNTc4O3c9MjgxMTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3736200-06a4-11ed-b9ff-dba91dd6ad22",
-                    "width": 2811,
-                    "height": 1578,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2CV7pMzeYyQ5WCml4yLtlA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b3736200-06a4-11ed-b9ff-dba91dd6ad22",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "DOGE-USD",
-            "BTC-USD",
-            "NVDA",
-            "PLUG",
-            "ETH-USD",
-            "NIO",
-            "AMZN",
-            "RIVN",
-            "^GSPC"
         ]
     },
     "97803f78-7bca-3597-bea9-aecc9a840675": {
@@ -4296,18 +4287,6 @@
             "EPD"
         ]
     },
-    "aa94aaac-6b6c-377b-9716-f228e91b8282": {
-        "uuid": "aa94aaac-6b6c-377b-9716-f228e91b8282",
-        "title": "The Ben and Jerry\u2019s lessons for aspiring prime ministers",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/aa94aaac-6b6c-377b-9716-f228e91b8282/the-ben-and-jerry%E2%80%99s-lessons.html",
-        "providerPublishTime": 1657854007,
-        "type": "STORY",
-        "relatedTickers": [
-            "UL",
-            "UNLYF"
-        ]
-    },
     "3f992ae4-a947-30a4-a2cb-d55b397a6397": {
         "uuid": "3f992ae4-a947-30a4-a2cb-d55b397a6397",
         "title": "Why Jumia Stock Slumped 17.7% This Week",
@@ -4317,34 +4296,6 @@
         "type": "STORY",
         "relatedTickers": [
             "JMIA"
-        ]
-    },
-    "979b7bd5-262b-3c1b-a4a5-df41ea1612a5": {
-        "uuid": "979b7bd5-262b-3c1b-a4a5-df41ea1612a5",
-        "title": "Enbridge (ENB) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-dips-more-broader-215009904.html",
-        "providerPublishTime": 1657835409,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 900,
-                    "height": 633,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB",
-            "^GSPC"
         ]
     },
     "b95492d4-bacc-38cd-80e0-dbf5af575e0b": {
@@ -4842,34 +4793,6 @@
             "RTL",
             "RTLPO",
             "RTLPP"
-        ]
-    },
-    "a08f5540-a9cc-31eb-9af3-787963c2532d": {
-        "uuid": "a08f5540-a9cc-31eb-9af3-787963c2532d",
-        "title": "Federal Realty Investment Trust Announces Second Quarter 2022 Earnings Release Date and Conference Call Information",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-announces-203000387.html",
-        "providerPublishTime": 1657139400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uOmJzE0V7NnxtV2vYfvFjw--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/tFCnVYpwS2W2vaIz36LtSg--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4856615d128d21fbe0a3735f8286a8f2",
-                    "width": 400,
-                    "height": 156,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kNSVxs7zdsnOTlj77qLfng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tFCnVYpwS2W2vaIz36LtSg--~B/aD0xNTY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/4856615d128d21fbe0a3735f8286a8f2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "FRT-PC"
         ]
     },
     "fccec8d5-7b8d-383a-af07-f7142aeee7de": {

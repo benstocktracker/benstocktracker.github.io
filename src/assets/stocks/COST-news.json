@@ -1,4 +1,33 @@
 {
+    "56d88291-3eae-3192-b12b-105b2f544cd4": {
+        "uuid": "56d88291-3eae-3192-b12b-105b2f544cd4",
+        "title": "Inflation Hits a 40-Year High. Here's Where to Invest Your Money Now.",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/56d88291-3eae-3192-b12b-105b2f544cd4/inflation-hits-a-40-year.html",
+        "providerPublishTime": 1658567700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kei31NBgEENDyTxh0z3GYw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xL9noK.ZhnbckVZ0xTM7tg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d2465f67673c3621be15474249ec4c1b",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CaMGNuyuHTrllCB10_YUpw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xL9noK.ZhnbckVZ0xTM7tg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d2465f67673c3621be15474249ec4c1b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MCD",
+            "COST",
+            "XOM"
+        ]
+    },
     "1fdbd5dc-aa6f-3acd-8074-6ccf0af24df3": {
         "uuid": "1fdbd5dc-aa6f-3acd-8074-6ccf0af24df3",
         "title": "Instacart Cuts Estimated Valuation by Double Digits for the Second Time",
@@ -223,43 +252,6 @@
         },
         "relatedTickers": [
             "COST"
-        ]
-    },
-    "85b9052d-429a-3e1f-8732-c599f9884848": {
-        "uuid": "85b9052d-429a-3e1f-8732-c599f9884848",
-        "title": "Former Gap CEO on retail: \u2018I have never seen as much discounting\u2019",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/former-gap-ceo-retail-never-145310528.html",
-        "providerPublishTime": 1658155990,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kWTgpCounX1YriWy4EJQ_w--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ac06e9c0-06a8-11ed-b9ff-3145741508f1",
-                    "width": 2767,
-                    "height": 1553,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Lwr8knaaodJo7jbI367eVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ac06e9c0-06a8-11ed-b9ff-3145741508f1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JWN",
-            "KSS",
-            "QM=F",
-            "COST",
-            "XRT",
-            "GPS",
-            "TGT",
-            "DG",
-            "TJX",
-            "WMT",
-            "DLTR"
         ]
     }
 }

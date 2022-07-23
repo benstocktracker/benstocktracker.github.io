@@ -1,4 +1,34 @@
 {
+    "4a22f09a-896c-3aa0-a4d9-77cec4bcbc6e": {
+        "uuid": "4a22f09a-896c-3aa0-a4d9-77cec4bcbc6e",
+        "title": "Cash-strapped Americans can't afford to pay their phone bills on time \u2014 and AT&T shares crashed the most in 20 years because of that",
+        "publisher": "MoneyWise",
+        "link": "https://finance.yahoo.com/news/cash-strapped-americans-cant-afford-110000650.html",
+        "providerPublishTime": 1658574000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ykqcC1XS6LUxo7_goXaIrg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/_9TMo5SbijAuvDKKJ9IWDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2eeebb7d3a29ac51d1835697686c55e6",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u9BNII3poiAFRPB3Z08auA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9TMo5SbijAuvDKKJ9IWDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2eeebb7d3a29ac51d1835697686c55e6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC",
+            "VZ"
+        ]
+    },
     "e616a523-2509-3e8b-8a3f-be4951709962": {
         "uuid": "e616a523-2509-3e8b-8a3f-be4951709962",
         "title": "Why Verizon Stock Dropped Today",
@@ -185,38 +215,6 @@
             "T-PA",
             "T-PC",
             "TMUS"
-        ]
-    },
-    "66a413c2-d9bd-34a4-a54b-95075706201b": {
-        "uuid": "66a413c2-d9bd-34a4-a54b-95075706201b",
-        "title": "Stock Market Erases Early Gains; Snap And Verizon Fall On Poor Earnings",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/66a413c2-d9bd-34a4-a54b-95075706201b/stock-market-erases-early.html",
-        "providerPublishTime": 1658507758,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iGvVcymUkckCRlKw6GuW_A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zTXlZwCRSf8VZQeY.lHFwQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4ef58653f75d0e2514fcbbead1d752e3",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wYuKyfGbsCG4lL5sD4qBYg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zTXlZwCRSf8VZQeY.lHFwQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4ef58653f75d0e2514fcbbead1d752e3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COMP",
-            "VZ",
-            "AXP",
-            "^GSPC",
-            "^DJI",
-            "TWTR"
         ]
     }
 }

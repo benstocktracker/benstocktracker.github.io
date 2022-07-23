@@ -1,4 +1,32 @@
 {
+    "0058c7da-d828-3f9f-801e-eeb7bb6a22e6": {
+        "uuid": "0058c7da-d828-3f9f-801e-eeb7bb6a22e6",
+        "title": "What to Watch in Kimberly-Clark's Tuesday Announcement",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/0058c7da-d828-3f9f-801e-eeb7bb6a22e6/what-to-watch-in.html",
+        "providerPublishTime": 1658572200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kzgR9UnF90oWydS3kY9Vvw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AE2YUrQYrRJ0uNT3MlI3qw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/53c3ceaf8d7ac8c62e3596e244813b0e",
+                    "width": 1400,
+                    "height": 937,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G_fSv_fposBffoW1Lc731g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AE2YUrQYrRJ0uNT3MlI3qw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/53c3ceaf8d7ac8c62e3596e244813b0e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KMB",
+            "PG"
+        ]
+    },
     "691bf50d-5168-3342-a505-3a54b042078d": {
         "uuid": "691bf50d-5168-3342-a505-3a54b042078d",
         "title": "10 Stocks to Buy Before Their Earnings Reports",
@@ -222,36 +250,6 @@
             "KO",
             "RTX",
             "JNJ"
-        ]
-    },
-    "3888478e-857f-3d4e-ab86-b3c036e859f6": {
-        "uuid": "3888478e-857f-3d4e-ab86-b3c036e859f6",
-        "title": "Can Strength in Azure Cloud Aid Microsoft (MSFT) Q4 Earnings?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/strength-azure-cloud-aid-microsoft-141202636.html",
-        "providerPublishTime": 1658412722,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gHZP_m4.xzhs7FABAG7z8g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/NCx.D1VeFrusUjk62NhUIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f7ee9fd1261c79c18c594e1dc7300155",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LxyL5itAQNprwGFxNFBgsg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NCx.D1VeFrusUjk62NhUIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f7ee9fd1261c79c18c594e1dc7300155",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "GOOGL",
-            "AMZN",
-            "PG"
         ]
     }
 }

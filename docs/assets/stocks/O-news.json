@@ -1,4 +1,64 @@
 {
+    "09e2045a-b6fd-4898-8ca7-a94701ebf124": {
+        "uuid": "09e2045a-b6fd-4898-8ca7-a94701ebf124",
+        "title": "The simple and complicated story behind Buffett's massive oil buy: Morning Brief",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/warren-buffett-morning-brief-july-23-110012203.html",
+        "providerPublishTime": 1658574012,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OzSXiwyQE.wk7mBB9QNiTQ--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-07/4398a690-9c38-11e9-b73f-8c2058e15bcb",
+                    "width": 6720,
+                    "height": 4480,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/33zgFc8M.KFADO4de4AfEA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-07/4398a690-9c38-11e9-b73f-8c2058e15bcb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XOM",
+            "OXY",
+            "BRK-A",
+            "BRK-B",
+            "CL=F",
+            "CVX"
+        ]
+    },
+    "fd0dab60-c7a0-364b-ad99-fcb230f7ee24": {
+        "uuid": "fd0dab60-c7a0-364b-ad99-fcb230f7ee24",
+        "title": "Russia\u2019s Natural-Gas Game Comes With Economic Risks",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/fd0dab60-c7a0-364b-ad99-fcb230f7ee24/russia%E2%80%99s-natural-gas-game.html",
+        "providerPublishTime": 1658569680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R9JFNba5H7wfa2Y5TcXlHQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/biTjYcz2LbnUSsL1zNNWFA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/a5028ac7c0c5ad8a0c259d388f3a1ff3",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mH_cOCmjAmtVUnbCY6LEiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/biTjYcz2LbnUSsL1zNNWFA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/a5028ac7c0c5ad8a0c259d388f3a1ff3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F"
+        ]
+    },
     "ec0d6a8e-8467-4ffa-aec6-cbb455a8beb4": {
         "uuid": "ec0d6a8e-8467-4ffa-aec6-cbb455a8beb4",
         "title": "'We can't be an oil supplier': Biden's adviser says oil reserve releases must end",
@@ -174,65 +234,6 @@
             "HO=F",
             "NG=F",
             "RB=F"
-        ]
-    },
-    "3eeae047-56aa-3932-953b-777a3037b5e4": {
-        "uuid": "3eeae047-56aa-3932-953b-777a3037b5e4",
-        "title": "Oil ends lower, with U.S. prices holding below $100 a barrel",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/3eeae047-56aa-3932-953b-777a3037b5e4/oil-ends-lower%2C-with-u.s..html",
-        "providerPublishTime": 1658516645,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F"
-        ]
-    },
-    "067c5162-9f13-3ee6-858f-d8a68e27ca3c": {
-        "uuid": "067c5162-9f13-3ee6-858f-d8a68e27ca3c",
-        "title": "The Commodity Bull Market Will Continue",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/commodity-bull-market-continue-164304877.html",
-        "providerPublishTime": 1658508184,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZZ8nuTOJQgj3jqC.VraTGg--~B/aD0zODY7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Lsmh_G7lpQeuBuw4iIhtgQ--~B/aD0zODY7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/63d06e4a8e7c2ab3636f722d0415cd3b",
-                    "width": 620,
-                    "height": 386,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UOw0hbphKrf4ydPj.jTXNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Lsmh_G7lpQeuBuw4iIhtgQ--~B/aD0zODY7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/63d06e4a8e7c2ab3636f722d0415cd3b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LB=F",
-            "NG=F",
-            "GC=F",
-            "ZG=F",
-            "KW=F",
-            "CL=F"
         ]
     }
 }

@@ -25,14 +25,14 @@
         "relatedTickers": [
             "PINS",
             "AAPL",
+            "META",
             "JPM",
-            "STX",
             "GOOG",
             "GOOGL",
-            "META",
-            "TWTR",
+            "SNAP",
+            "STX",
             "TSLA",
-            "SNAP"
+            "TWTR"
         ]
     },
     "653413e0-2365-32f1-9f1d-87e25330c493": {
@@ -59,13 +59,13 @@
             ]
         },
         "relatedTickers": [
-            "FTNT",
-            "JPM",
+            "AMZN",
             "TSLA",
+            "JPM",
+            "FTNT",
+            "DXCM",
             "GOOG",
             "GOOGL",
-            "AMZN",
-            "DXCM",
             "AAPL"
         ]
     },
@@ -97,8 +97,8 @@
             "TIAJF",
             "TIAOF",
             "TIIAY",
-            "JPM",
-            "BMDPF"
+            "BMDPF",
+            "JPM"
         ]
     },
     "73a598f5-189d-391f-b408-531531b7d014": {
