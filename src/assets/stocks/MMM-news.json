@@ -1,4 +1,35 @@
 {
+    "19c36359-7c3d-4d76-987e-4bc1612dd4c3": {
+        "uuid": "19c36359-7c3d-4d76-987e-4bc1612dd4c3",
+        "title": "Organizational psychologist explains why \u2018hybrid is the future\u2019 of the workplace",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/organizational-psychologist-explains-why-hybrid-is-the-future-of-the-workplace-165549543.html",
+        "providerPublishTime": 1658496417,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8mNhjrjudILTsLbBWAKUZg--~B/aD0xMzMwO3c9MTg4NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/87e12bc0-0845-11ed-bf7b-d89bbd3eb0cc",
+                    "width": 1884,
+                    "height": 1330,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PpKPGpxtZpyc2JNDGgcDVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/87e12bc0-0845-11ed-bf7b-d89bbd3eb0cc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "LYFT",
+            "SPOT",
+            "TWTR",
+            "COIN",
+            "MMM"
+        ]
+    },
     "b3f6cd9b-ae8c-3dbd-aedc-63c3091bf45d": {
         "uuid": "b3f6cd9b-ae8c-3dbd-aedc-63c3091bf45d",
         "title": "3M (MMM) Gains But Lags Market: What You Should Know",
@@ -37,37 +68,6 @@
             "TXN",
             "MDT",
             "MMM"
-        ]
-    },
-    "19c36359-7c3d-4d76-987e-4bc1612dd4c3": {
-        "uuid": "19c36359-7c3d-4d76-987e-4bc1612dd4c3",
-        "title": "Organizational psychologist explains why \u2018hybrid is the future\u2019 of the workplace",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/organizational-psychologist-explains-why-hybrid-is-the-future-of-the-workplace-165549543.html",
-        "providerPublishTime": 1658336149,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8mNhjrjudILTsLbBWAKUZg--~B/aD0xMzMwO3c9MTg4NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/87e12bc0-0845-11ed-bf7b-d89bbd3eb0cc",
-                    "width": 1884,
-                    "height": 1330,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PpKPGpxtZpyc2JNDGgcDVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/87e12bc0-0845-11ed-bf7b-d89bbd3eb0cc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TWTR",
-            "SPOT",
-            "MMM",
-            "COIN",
-            "LYFT"
         ]
     },
     "3bf4f7c6-97d3-38e2-b2ba-3df570f58e7c": {

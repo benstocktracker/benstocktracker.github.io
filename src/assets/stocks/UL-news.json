@@ -1,4 +1,47 @@
 {
+    "19b918d1-8e85-3bf3-895a-30b996479974": {
+        "uuid": "19b918d1-8e85-3bf3-895a-30b996479974",
+        "title": "Stock Market Plunge: Why I'm Loading Up on These 3 Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/19b918d1-8e85-3bf3-895a-30b996479974/stock-market-plunge%3A-why-i%27m.html",
+        "providerPublishTime": 1658482500,
+        "type": "STORY",
+        "relatedTickers": [
+            "UL",
+            "TXN",
+            "PG",
+            "HRL",
+            "MDT"
+        ]
+    },
+    "b88ea003-a6fd-3bb6-a5cd-a8d1ede7eea5": {
+        "uuid": "b88ea003-a6fd-3bb6-a5cd-a8d1ede7eea5",
+        "title": "The Best Dividend Stocks to Buy Right Now Could Be Hiding In Plain Sight",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b88ea003-a6fd-3bb6-a5cd-a8d1ede7eea5/the-best-dividend-stocks-to.html",
+        "providerPublishTime": 1658481900,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rJGVCT8_v48z9Bixjhwtlg--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MJAU2aZrx2gu0UQYl4ZsEA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f6716cb770e696fea305c0587855ba9",
+                    "width": 1400,
+                    "height": 934,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CgNBxO10dT0.ySMhDyKMPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MJAU2aZrx2gu0UQYl4ZsEA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0f6716cb770e696fea305c0587855ba9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "UL",
+            "CLX"
+        ]
+    },
     "7844439e-8984-37fb-86f1-3e25a63265cc": {
         "uuid": "7844439e-8984-37fb-86f1-3e25a63265cc",
         "title": "Buy This Undervalued Stock Before Everyone Else Does",
@@ -139,50 +182,6 @@
         "relatedTickers": [
             "UL",
             "UNLYF"
-        ]
-    },
-    "8948677b-097d-3fad-86c5-88ca524ca298": {
-        "uuid": "8948677b-097d-3fad-86c5-88ca524ca298",
-        "title": "Ben & Jerry's proposes to mediate Israel dispute with parent Unilever",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/ben-jerrys-proposes-mediate-israel-211125984.html",
-        "providerPublishTime": 1657833085,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tCXevnezz20EXqFjpo2lLg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/GK4yjyaSQMWMg7w0iii9yw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ed364f758c8d2e5d64b412389c157587",
-                    "width": 800,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pn9Bj3569uMqEOmeIYBehg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GK4yjyaSQMWMg7w0iii9yw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ed364f758c8d2e5d64b412389c157587",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "UL"
-        ]
-    },
-    "cb212c90-12b8-3e70-a07f-f0788e367174": {
-        "uuid": "cb212c90-12b8-3e70-a07f-f0788e367174",
-        "title": "Activist investors wage record number of campaigns in Europe",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/cb212c90-12b8-3e70-a07f-f0788e367174/activist-investors-wage.html",
-        "providerPublishTime": 1657627216,
-        "type": "STORY",
-        "relatedTickers": [
-            "HSBC",
-            "PIAIF",
-            "PNGAY",
-            "UL",
-            "UNLYF",
-            "RYDAF",
-            "SHEL"
         ]
     }
 }

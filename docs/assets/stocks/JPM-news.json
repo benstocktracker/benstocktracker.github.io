@@ -1,4 +1,160 @@
 {
+    "923d8936-b2f9-3bef-99eb-17aa497c7699": {
+        "uuid": "923d8936-b2f9-3bef-99eb-17aa497c7699",
+        "title": "Snap Craters as Sales Disappoint, Erases $130 Billion From Peers",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/meta-alphabet-knocked-down-snap-210613092.html",
+        "providerPublishTime": 1658520929,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U4sVxrpBhtFKKCjn5_drew--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/aYxp.4MGn9E45J.YWYoR_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/e6d2e94dcbb5a497bc3baea3de55ff37",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sD.PnODfTnLpPMGaV_OIBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aYxp.4MGn9E45J.YWYoR_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/e6d2e94dcbb5a497bc3baea3de55ff37",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PINS",
+            "AAPL",
+            "JPM",
+            "STX",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "TWTR",
+            "TSLA",
+            "SNAP"
+        ]
+    },
+    "653413e0-2365-32f1-9f1d-87e25330c493": {
+        "uuid": "653413e0-2365-32f1-9f1d-87e25330c493",
+        "title": "Alphabet Stock Split Lands With a Thud in Worry-Filled Market",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/alphabet-stock-split-lands-thud-150857055.html",
+        "providerPublishTime": 1658520644,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GduHJDItr0T9CuqB0plI4w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tgCpyj2kCEVrp95UpTLh0w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FTNT",
+            "JPM",
+            "TSLA",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "DXCM",
+            "AAPL"
+        ]
+    },
+    "d711cfe0-c4c8-3123-96fe-9b285cb843c9": {
+        "uuid": "d711cfe0-c4c8-3123-96fe-9b285cb843c9",
+        "title": "Here\u2019s Italy\u2019s Election Landscape as Summer Campaigning Starts",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/italy-election-landscape-summer-campaigning-140318157.html",
+        "providerPublishTime": 1658498598,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BaLN_n_bNIDfHU3ugcJ2pQ--~B/aD03NjQ7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.WwyhOvXbT0N_jNSk5aw9g--~B/aD03NjQ7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/158271f0f5dc9e00dbb36b1e95c9bb65",
+                    "width": 1296,
+                    "height": 764,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YW1FeRmSoR8jgnqR0yAQOQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.WwyhOvXbT0N_jNSk5aw9g--~B/aD03NjQ7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/158271f0f5dc9e00dbb36b1e95c9bb65",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TIAIY",
+            "TIAJF",
+            "TIAOF",
+            "TIIAY",
+            "JPM",
+            "BMDPF"
+        ]
+    },
+    "73a598f5-189d-391f-b408-531531b7d014": {
+        "uuid": "73a598f5-189d-391f-b408-531531b7d014",
+        "title": "Instacart and Chase Launch New Instacart Mastercard\u00ae Credit Card Unlocking New Rewards and Unlimited Earnings from Hundreds of Retailers",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/instacart-chase-launch-instacart-mastercard-130000100.html",
+        "providerPublishTime": 1658494800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4OiDWf1PT1dbAxUIpxh_ag--~B/aD0zMjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/SMH7z_qRdBv.1hIOQ68_gg--~B/aD0zMjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/f109a33900cdaeb730f82456728ee3be",
+                    "width": 480,
+                    "height": 320,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/cQxGmu6nInnwxQRxL1FSfA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/SMH7z_qRdBv.1hIOQ68_gg--~B/aD0zMjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/f109a33900cdaeb730f82456728ee3be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JPM"
+        ]
+    },
+    "0e4a19c2-d1ce-3a72-b941-37582390ddf9": {
+        "uuid": "0e4a19c2-d1ce-3a72-b941-37582390ddf9",
+        "title": "UPDATE 2-Ukraine may need more debt action in future - JPMorgan official",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/2-ukraine-may-more-debt-115936144.html",
+        "providerPublishTime": 1658491176,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/F3D1B5LDRwUFq27BMI2vrQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/98ec8b25-419f-37c7-a8bb-3e7944c17c49/2022-07-22/20-55-50/c1ef13bd-f49a-51ed-8258-60275b189050/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/shw5bYT5b13pj0EKUBkrKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/98ec8b25-419f-37c7-a8bb-3e7944c17c49/2022-07-22/20-55-50/c1ef13bd-f49a-51ed-8258-60275b189050/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JPM"
+        ]
+    },
     "c7000c07-804a-3001-810a-573e36ed3fa9": {
         "uuid": "c7000c07-804a-3001-810a-573e36ed3fa9",
         "title": "The biggest bear on Wall Street: BofA\u2019s Subramanian just slashed her S&P price target to 3,600. But here\u2019s what she likes for healthy cash return and inflation protection",
@@ -23,13 +179,13 @@
             ]
         },
         "relatedTickers": [
-            "XOM",
-            "JPM",
-            "MS",
-            "MS-PO",
             "BAC",
             "BAC-PQ",
             "BAC-PS",
+            "JPM",
+            "MS",
+            "MS-PO",
+            "XOM",
             "CVX"
         ]
     },
@@ -92,147 +248,6 @@
             ]
         },
         "relatedTickers": [
-            "JPM"
-        ]
-    },
-    "f923c38a-e292-3b7e-bc69-3e497ffa2651": {
-        "uuid": "f923c38a-e292-3b7e-bc69-3e497ffa2651",
-        "title": "Jamie Dimon Tells It Like It Is as Earnings Season Kicks Off",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f923c38a-e292-3b7e-bc69-3e497ffa2651/jamie-dimon-tells-it-like-it.html",
-        "providerPublishTime": 1658410200,
-        "type": "STORY",
-        "relatedTickers": [
-            "NFLX",
-            "OM",
-            "MSFT",
-            "AMZN",
-            "FOUR",
-            "PINS",
-            "MTN",
-            "U",
-            "JPM",
-            "GOOGL",
-            "SHOP",
-            "DIS",
-            "TWTR"
-        ]
-    },
-    "8298e882-78f0-3acf-962e-bd31311db1a9": {
-        "uuid": "8298e882-78f0-3acf-962e-bd31311db1a9",
-        "title": "BMO plans 50+ hires for new technology hub in Irving",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/8298e882-78f0-3acf-962e-bd31311db1a9/bmo-plans-50%2B-hires-for-new.html",
-        "providerPublishTime": 1658408772,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hRIkQnNDvRD6qopEQwRT4A--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KXpbvviBNPdWlU882k1nZw--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/07c44f9aeee706a7ba28add09ee26533",
-                    "width": 1440,
-                    "height": 959,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WFCfryBvNAlpfm1hA8oD3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KXpbvviBNPdWlU882k1nZw--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/07c44f9aeee706a7ba28add09ee26533",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PNC",
-            "PNC-PP",
-            "JPM",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "BMO"
-        ]
-    },
-    "1ee2e376-8449-3e6b-843d-d2e96c2fedcd": {
-        "uuid": "1ee2e376-8449-3e6b-843d-d2e96c2fedcd",
-        "title": "US Banks Keep Financing Trade of Russian Crops as EU Peers Balk",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/us-banks-keep-financing-trade-130430899.html",
-        "providerPublishTime": 1658408670,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.UrtijcBpCWmjmYo1Qw_nw--~B/aD05MTI7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5AfSC6qJkF92buHgQ_sHBA--~B/aD05MTI7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/2badf4924ae3e92b945a23a692a686bd",
-                    "width": 1296,
-                    "height": 912,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yDMU2t0nlSH2h6Ea9HLwLA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5AfSC6qJkF92buHgQ_sHBA--~B/aD05MTI7dz0xMjk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/2badf4924ae3e92b945a23a692a686bd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "C",
-            "JPM"
-        ]
-    },
-    "8abd21ac-9ba1-3982-aca3-036f3f6cb5b4": {
-        "uuid": "8abd21ac-9ba1-3982-aca3-036f3f6cb5b4",
-        "title": "Venture Capital Is Pouring Billions Into Crypto. Bitcoin\u2019s Crash Is a Distant Memory.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/8abd21ac-9ba1-3982-aca3-036f3f6cb5b4/venture-capital-is-pouring.html",
-        "providerPublishTime": 1658407440,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ABzUOmnwaC7kNawBrP7Fbw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ktU66aHpc9DqtI8aOCwVvA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2e38a761285d05023ce3abfab1ad5b83",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Rb7y5UylJa45mS0LbCIYXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ktU66aHpc9DqtI8aOCwVvA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/2e38a761285d05023ce3abfab1ad5b83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JPM"
-        ]
-    },
-    "780efbf5-a365-34b1-9daf-4ce66f77e27e": {
-        "uuid": "780efbf5-a365-34b1-9daf-4ce66f77e27e",
-        "title": "Banks Are Better Off Than They Look. How to Profit With This Options Strategy.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/780efbf5-a365-34b1-9daf-4ce66f77e27e/banks-are-better-off-than.html",
-        "providerPublishTime": 1658386800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WOT6meXtIpmUCK9ycwMRXQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ELUmkZcNAvPWDjdwCFipTQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/75b3ebf5b8bb04ae470cb33392523168",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/s95Tl3oo38nzdxqdNdyoyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ELUmkZcNAvPWDjdwCFipTQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/75b3ebf5b8bb04ae470cb33392523168",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
             "JPM"
         ]
     }

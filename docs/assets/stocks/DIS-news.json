@@ -1,48 +1,21 @@
 {
-    "8497c442-110e-3806-8d56-46ebc6ee7846": {
-        "uuid": "8497c442-110e-3806-8d56-46ebc6ee7846",
-        "title": "Here\u2019s everything new coming to Disney+ in August 2022",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/8497c442-110e-3806-8d56-46ebc6ee7846/here%E2%80%99s-everything-new-coming.html",
-        "providerPublishTime": 1658447100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HuK2QkV8T14IgKCLV9cu8w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_SJaPkHzuc5Wdniu4_d2dg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/74a6806e485052ab490716be852a190c",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dvtD6hDmauad22G5myodkA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_SJaPkHzuc5Wdniu4_d2dg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/74a6806e485052ab490716be852a190c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "29bc8a67-e53b-3acf-9239-dec323210e1e": {
-        "uuid": "29bc8a67-e53b-3acf-9239-dec323210e1e",
-        "title": "3 Reasons Disney Stock Should Be on Your List",
+    "227ac8fd-7a85-3953-abd1-417131298029": {
+        "uuid": "227ac8fd-7a85-3953-abd1-417131298029",
+        "title": "A Lot Of Marvel Cartoons Are Heading To Disney+",
         "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/29bc8a67-e53b-3acf-9239-dec323210e1e/3-reasons-disney-stock-should.html",
-        "providerPublishTime": 1658429880,
+        "link": "https://finance.yahoo.com/m/227ac8fd-7a85-3953-abd1-417131298029/a-lot-of-marvel-cartoons-are.html",
+        "providerPublishTime": 1658532960,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RAU_iADLATjDMVyko0FFvQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/x6em6dMGwEXSH9zZ6VtYKA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/dd34e328716a3c79c666172e744f6df7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IOKH9HkmT3TAu8F7WiGHXw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/1KLnOhaan7PEUPE4bJvG8Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/cf7b69664dde83775b3b1054c20cf1f2",
                     "width": 1920,
                     "height": 1080,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VhEBVcvjRR8I5re84vVDMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/x6em6dMGwEXSH9zZ6VtYKA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/dd34e328716a3c79c666172e744f6df7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QxzAkgH9hCA62g6.jl.6uA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1KLnOhaan7PEUPE4bJvG8Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/cf7b69664dde83775b3b1054c20cf1f2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -53,23 +26,23 @@
             "DIS"
         ]
     },
-    "b0d7eec1-ffd8-3bf7-9bd0-9a2416369fcf": {
-        "uuid": "b0d7eec1-ffd8-3bf7-9bd0-9a2416369fcf",
-        "title": "The Walt Disney Company Joins Propel Education Center in Support of the Next Generation of Diverse Storytellers and Innovators",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/walt-disney-company-joins-propel-165007619.html",
-        "providerPublishTime": 1658422207,
-        "type": "STORY",
+    "5fecb7ee-7ec9-3f20-a791-993083c90a95": {
+        "uuid": "5fecb7ee-7ec9-3f20-a791-993083c90a95",
+        "title": "R-rated Marvel movies 'Deadpool' and 'Logan' were added to the Disney+ library",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/r-rated-marvel-movies-deadpool-210549200.html",
+        "providerPublishTime": 1658523949,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EEXflsL.OSrH1p6VhIV9UQ--~B/aD00MzM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/swoe.gZkrJHB4UZ0Ku5nUw--~B/aD00MzM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/94999c4877160677b933db0d63b3c40e",
-                    "width": 650,
-                    "height": 433,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/INUC1Tz.7ks_X87J19AzeQ--~B/aD0xNTQzO3c9Mjc0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0e4af840-0a02-11ed-ab8e-b94e99657af5",
+                    "width": 2748,
+                    "height": 1543,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4VqC.BUAdThpxGpmazmAzg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/swoe.gZkrJHB4UZ0Ku5nUw--~B/aD00MzM7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/94999c4877160677b933db0d63b3c40e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RBQ_HiuRBP05NCwvC.nEhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0e4af840-0a02-11ed-ab8e-b94e99657af5",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -80,62 +53,23 @@
             "DIS"
         ]
     },
-    "2ed71ba9-adea-34f8-a210-f059cf07bd2e": {
-        "uuid": "2ed71ba9-adea-34f8-a210-f059cf07bd2e",
-        "title": "Disney shares more details on how new MagicBand+ works with park decor and shows",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/2ed71ba9-adea-34f8-a210-f059cf07bd2e/disney-shares-more-details-on.html",
-        "providerPublishTime": 1658418703,
+    "b4c9b0e1-b804-4cf2-bb79-c607608455c2": {
+        "uuid": "b4c9b0e1-b804-4cf2-bb79-c607608455c2",
+        "title": "'A one-time thing': Analyst details Netflix's risky $200 million bet on 'The Gray Man'",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/a-one-time-thing-analyst-details-netflix-risky-200-million-on-the-gray-man-203529309.html",
+        "providerPublishTime": 1658522129,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0Gkyh5vR835WSIj1KD_myw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6GoAcO12uAK2pGiuHVDe8Q--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/e62d83e63d04b9209b29cdb930095e1b",
-                    "width": 1440,
-                    "height": 960,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rZwnq52IOfAVp37Rempg7w--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0c941e30-090a-11ed-abef-48f6e9dd9a21",
+                    "width": 2048,
+                    "height": 1365,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J8HrKks2lKgxABvBdEF7Yw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6GoAcO12uAK2pGiuHVDe8Q--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/e62d83e63d04b9209b29cdb930095e1b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "ced0ed99-7520-3254-93d6-1edc9f39b43a": {
-        "uuid": "ced0ed99-7520-3254-93d6-1edc9f39b43a",
-        "title": "To Boost Subscriber Numbers, Netflix Needs to Do This",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ced0ed99-7520-3254-93d6-1edc9f39b43a/to-boost-subscriber-numbers%2C.html",
-        "providerPublishTime": 1658416980,
-        "type": "STORY",
-        "relatedTickers": [
-            "NFLX",
-            "DIS"
-        ]
-    },
-    "caa90879-4e69-34ae-8f3f-5906079784c3": {
-        "uuid": "caa90879-4e69-34ae-8f3f-5906079784c3",
-        "title": "Is Disney (DIS) a Smart Long-Term Buy?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/disney-dis-smart-long-term-141129642.html",
-        "providerPublishTime": 1658412689,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1XTtzVf3TuKzPAg7AgnAYg--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oS9YKpoz1Na4xSylbAIVBw--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3886b131538831e7eec4945541b81e02",
-                    "width": 750,
-                    "height": 422,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_3JU8CxbvFNkgo704Wz3PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oS9YKpoz1Na4xSylbAIVBw--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3886b131538831e7eec4945541b81e02",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lihokPm1estVlQzq6taN5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0c941e30-090a-11ed-abef-48f6e9dd9a21",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -144,49 +78,126 @@
         },
         "relatedTickers": [
             "DIS",
-            "^GSPC"
-        ]
-    },
-    "f923c38a-e292-3b7e-bc69-3e497ffa2651": {
-        "uuid": "f923c38a-e292-3b7e-bc69-3e497ffa2651",
-        "title": "Jamie Dimon Tells It Like It Is as Earnings Season Kicks Off",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f923c38a-e292-3b7e-bc69-3e497ffa2651/jamie-dimon-tells-it-like-it.html",
-        "providerPublishTime": 1658410200,
-        "type": "STORY",
-        "relatedTickers": [
+            "CMCSA",
             "NFLX",
-            "OM",
-            "MSFT",
-            "AMZN",
-            "FOUR",
-            "PINS",
-            "MTN",
-            "U",
-            "JPM",
-            "GOOGL",
-            "SHOP",
-            "DIS",
-            "TWTR"
+            "AMZN"
         ]
     },
-    "d14b7cb6-e021-3ea5-a9da-1fde05a264ae": {
-        "uuid": "d14b7cb6-e021-3ea5-a9da-1fde05a264ae",
-        "title": "5 Stocks to Buy in July",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d14b7cb6-e021-3ea5-a9da-1fde05a264ae/5-stocks-to-buy-in-july.html",
-        "providerPublishTime": 1658400600,
+    "22267e9c-f71c-3a73-9272-6f646ab8a932": {
+        "uuid": "22267e9c-f71c-3a73-9272-6f646ab8a932",
+        "title": "Disney+ Now Has R-Rated Movies: How to Turn on Parental Controls",
+        "publisher": "Variety",
+        "link": "https://finance.yahoo.com/m/22267e9c-f71c-3a73-9272-6f646ab8a932/disney%2B-now-has-r-rated.html",
+        "providerPublishTime": 1658519355,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zAMRyolodU8k7im74.vX9w--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UWlgLdpUjYzPfm_1_m9HJg--~B/aD00MDQ4O3c9NzIwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/SQav.nvNqXjIj7aBm.SJag--~B/aD00MDQ4O3c9NzIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/variety_finance_606/da5f69547d09caac16d8f3a928a744fe",
+                    "width": 7200,
+                    "height": 4048,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xr3OfiOGX3QxAsLXC18EsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/SQav.nvNqXjIj7aBm.SJag--~B/aD00MDQ4O3c9NzIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/variety_finance_606/da5f69547d09caac16d8f3a928a744fe",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "e2dda068-7ff9-36bd-9d36-864248e2dede": {
+        "uuid": "e2dda068-7ff9-36bd-9d36-864248e2dede",
+        "title": "Why The Trade Desk Stock Rebounded This Week",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e2dda068-7ff9-36bd-9d36-864248e2dede/why-the-trade-desk-stock.html",
+        "providerPublishTime": 1658511556,
+        "type": "STORY",
+        "relatedTickers": [
+            "TTD",
+            "NFLX",
+            "DIS"
+        ]
+    },
+    "3cce7933-a5ae-3673-ac99-2e355799ae26": {
+        "uuid": "3cce7933-a5ae-3673-ac99-2e355799ae26",
+        "title": "Florida\u2019s Bond Chief Sees Disney District Being Re-Established",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/florida-bond-chief-sees-disney-171504170.html",
+        "providerPublishTime": 1658510104,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/K53xHw3YYZxoIJh.REMB_g--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/LyFGOY5WhaTH2q0sCooG1g--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/b70948863ec217c4ceafb7de1f95f209",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.XoKef0gtObcp_7Kg3l4SA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LyFGOY5WhaTH2q0sCooG1g--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/b70948863ec217c4ceafb7de1f95f209",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "5ca9dbac-9d99-398d-9822-6a07a2b89040": {
+        "uuid": "5ca9dbac-9d99-398d-9822-6a07a2b89040",
+        "title": "Ubisoft Pushes Back\u00a0Next Assassin\u2019s Creed Title in Already Thin Year",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/ubisoft-pushes-back-next-assassin-165206026.html",
+        "providerPublishTime": 1658508726,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/baSwIHYD7l.7n28jZT72XQ--~B/aD0xMTU2O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/KEHQDdjuRZebe.h3vLYlUw--~B/aD0xMTU2O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f38628fd56e5da07c37ca0d01951d25c",
+                    "width": 2000,
+                    "height": 1156,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fUq3JaBNiTpjfrh85djnxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KEHQDdjuRZebe.h3vLYlUw--~B/aD0xMTU2O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f38628fd56e5da07c37ca0d01951d25c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NTDOF",
+            "NTDOY",
+            "UBSFF",
+            "UBSFY",
+            "DIS"
+        ]
+    },
+    "00076ffd-3b28-39a9-8441-b25ed76c5f04": {
+        "uuid": "00076ffd-3b28-39a9-8441-b25ed76c5f04",
+        "title": "Disney Wants to Overtake Netflix With This 1 Move",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/00076ffd-3b28-39a9-8441-b25ed76c5f04/disney-wants-to-overtake.html",
+        "providerPublishTime": 1658502900,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.5eegIdcaz1HCZm24VGNJg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WWjIsIWVCwgnMO8a.DKohg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/da8457022aa3c52561d4daed5d7eb769",
                     "width": 1400,
-                    "height": 873,
+                    "height": 933,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uTvdjyKZbVCX.xYd7cpwfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eXx024cHYfVCKjwTuTxMJA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WWjIsIWVCwgnMO8a.DKohg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/da8457022aa3c52561d4daed5d7eb769",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -194,11 +205,8 @@
             ]
         },
         "relatedTickers": [
-            "DIS",
-            "TGT",
-            "HD",
-            "ROKU",
-            "SBUX"
+            "NFLX",
+            "DIS"
         ]
     }
 }

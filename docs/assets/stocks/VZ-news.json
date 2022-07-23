@@ -1,96 +1,33 @@
 {
-    "a45a800f-835d-3588-be69-78c386d8b816": {
-        "uuid": "a45a800f-835d-3588-be69-78c386d8b816",
-        "title": "AT&T Stock Is Falling, But Its Dividend Yield Is Getting Even Bigger",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a45a800f-835d-3588-be69-78c386d8b816/at%26t-stock-is-falling%2C-but.html",
-        "providerPublishTime": 1658435160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E12.kfFoRr3CT0BlPBbhSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uZm1qSbX6m_URB9kJbIaFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "WBD",
-            "^GSPC",
-            "MO",
-            "VZ"
-        ]
-    },
-    "e6a9dce6-d93f-3fcc-8a81-c347beef3230": {
-        "uuid": "e6a9dce6-d93f-3fcc-8a81-c347beef3230",
-        "title": "Google Pixel 6a Review: The Best Pixel Yet and It's Just $449",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/e6a9dce6-d93f-3fcc-8a81-c347beef3230/google-pixel-6a-review%3A-the.html",
-        "providerPublishTime": 1658422860,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/erbvUcw624dOhiDz1_WVuw--~B/aD01NTgyO3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/rjCs14u7Ol0ZiCEPr45jVQ--~B/aD01NTgyO3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ee2955f751414753235a0e3cb89d7f83",
-                    "width": 8000,
-                    "height": 5582,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VCqhRuzNKPw03CFWVeKuGA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rjCs14u7Ol0ZiCEPr45jVQ--~B/aD01NTgyO3c9ODAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ee2955f751414753235a0e3cb89d7f83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL",
-            "T-PC",
-            "VZ"
-        ]
-    },
-    "389d064f-8b45-3c17-b700-1515fe63df89": {
-        "uuid": "389d064f-8b45-3c17-b700-1515fe63df89",
-        "title": "Verizon, American Express, Twitter Earnings: 3 Things to Watch",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/news/verizon-american-express-twitter-earnings-155249008.html",
-        "providerPublishTime": 1658418769,
-        "type": "STORY",
-        "relatedTickers": [
-            "AXP",
-            "VZ",
-            "TSLA"
-        ]
-    },
-    "706ab771-93ab-3597-ac90-b8bfaf01fe81": {
-        "uuid": "706ab771-93ab-3597-ac90-b8bfaf01fe81",
-        "title": "2 Top Dividend Stocks Trading at Incredibly Cheap Valuations",
+    "e616a523-2509-3e8b-8a3f-be4951709962": {
+        "uuid": "e616a523-2509-3e8b-8a3f-be4951709962",
+        "title": "Why Verizon Stock Dropped Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/706ab771-93ab-3597-ac90-b8bfaf01fe81/2-top-dividend-stocks-trading.html",
-        "providerPublishTime": 1658417400,
+        "link": "https://finance.yahoo.com/m/e616a523-2509-3e8b-8a3f-be4951709962/why-verizon-stock-dropped.html",
+        "providerPublishTime": 1658531663,
+        "type": "STORY",
+        "relatedTickers": [
+            "VZ",
+            "T-PC"
+        ]
+    },
+    "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
+        "uuid": "e82300d9-346e-3f35-ac82-65fb6c19ade8",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/e82300d9-346e-3f35-ac82-65fb6c19ade8/weekly-roundup.html",
+        "providerPublishTime": 1658527680,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DU2dmiTEu.a84uso.ixlPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WlpckqMmpzNeRnGbfzLuBA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b9ec578f845d9a73ee9f843bade3a5d2",
-                    "width": 1400,
-                    "height": 752,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tfNk.YVijUMdToJ5Uy9SLQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
+                    "width": 1200,
+                    "height": 800,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/boHp0IRWLObm6Sm6ULnAiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WlpckqMmpzNeRnGbfzLuBA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b9ec578f845d9a73ee9f843bade3a5d2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I950qi.WStWQXU_xRqd01w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -98,28 +35,144 @@
             ]
         },
         "relatedTickers": [
-            "CVS",
             "VZ",
-            "^GSPC"
+            "NVDA",
+            "GOOGL",
+            "^GSPC",
+            "AMD",
+            "NUE",
+            "AAPL",
+            "MSFT"
         ]
     },
-    "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f": {
-        "uuid": "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f",
-        "title": "AT&T Stock Drops Despite Adding Subscribers. Here\u2019s Why.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d4d0bdbc-be28-3932-ba41-d33c44a2ec4f/at%26t-stock-drops-despite.html",
-        "providerPublishTime": 1658414460,
+    "43129543-a4b1-3254-bcf6-401353fac0cd": {
+        "uuid": "43129543-a4b1-3254-bcf6-401353fac0cd",
+        "title": "Verizon Shares See Biggest Loss Since 2008 After Outlook Cut",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/verizon-cuts-profit-sales-forecast-114216684.html",
+        "providerPublishTime": 1658521461,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zWOq2Ckcyt_Bbc6RiuOqQQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xYAANj850vUra7.4Q7pxkg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/yCxD.7AMsd8bo3UYCS2_dA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/53b19f0ca17fe1be60df79e0bbed1a88",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Sf2hcZF_1V8Rot9OulOpDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yCxD.7AMsd8bo3UYCS2_dA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/53b19f0ca17fe1be60df79e0bbed1a88",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ",
+            "TMUS",
+            "T-PC"
+        ]
+    },
+    "4551a086-b71b-35d0-a6dc-ded44b375359": {
+        "uuid": "4551a086-b71b-35d0-a6dc-ded44b375359",
+        "title": "Verizon Stock Falls As Earnings And New Wireless Subscribers Miss, Guidance Cut",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4551a086-b71b-35d0-a6dc-ded44b375359/verizon-stock-falls-as.html",
+        "providerPublishTime": 1658520450,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h5mDl9ebYiE9Z06jYVV4tQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oHH9h.EydYAxq_G30Ivc3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1d77bedc480d1c0b1c2af1053d67cd6e",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O9B0HZTy1Fh1.rkYrXWUqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oHH9h.EydYAxq_G30Ivc3A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1d77bedc480d1c0b1c2af1053d67cd6e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "78200fed-4029-3d9b-bc40-89162a07793f": {
+        "uuid": "78200fed-4029-3d9b-bc40-89162a07793f",
+        "title": "Verizon shares fall as the stock heads for biggest loss since 2008",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/verizon-shares-fall-stock-heads-195810765.html",
+        "providerPublishTime": 1658519890,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ObuBk4sQ0DhhzxKucXATHQ--~B/aD00MzAyO3c9NzY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9822a4a0-09f8-11ed-afff-fafa5ff71f7b",
+                    "width": 7654,
+                    "height": 4302,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7CUCJSoaT2GNonlDCH5RFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9822a4a0-09f8-11ed-afff-fafa5ff71f7b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ"
+        ]
+    },
+    "cd640120-a582-3838-bd11-6def7bf6e7d8": {
+        "uuid": "cd640120-a582-3838-bd11-6def7bf6e7d8",
+        "title": "Verizon Stock Set for Worst Week Since 2008. Time to Buy?",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/cd640120-a582-3838-bd11-6def7bf6e7d8/verizon-stock-set-for-worst.html",
+        "providerPublishTime": 1658513820,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DHWcMf1lFy5Yl4_XeOxcgA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/BDHbrYoSCfysJp9Y2R0.GQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ae57927d28899fcd454910c4b6f3cb61",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FTfYJfEi7_d.2s.pLiECjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BDHbrYoSCfysJp9Y2R0.GQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ae57927d28899fcd454910c4b6f3cb61",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ",
+            "T-PC"
+        ]
+    },
+    "481f2918-639d-3244-9f87-699322cb3665": {
+        "uuid": "481f2918-639d-3244-9f87-699322cb3665",
+        "title": "Verizon Cuts 2022 Guidance on Slower Wireless Growth. The Stock Slides.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/481f2918-639d-3244-9f87-699322cb3665/verizon-cuts-2022-guidance-on.html",
+        "providerPublishTime": 1658511480,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qk_oc.sDHjQkAp_3HwcK8w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VbH6WXxwSYiORTDTweFsPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4338004ae34fcf15a190bfa8a48fb3d6",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NDDvcC6eMZgal90UAWs.ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BR4rnm2HUWPiPqEhn22ykg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VbH6WXxwSYiORTDTweFsPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4338004ae34fcf15a190bfa8a48fb3d6",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -127,94 +180,43 @@
             ]
         },
         "relatedTickers": [
-            "WBD",
+            "VZ",
             "T",
             "T-PA",
             "T-PC",
-            "TMUS",
+            "TMUS"
+        ]
+    },
+    "66a413c2-d9bd-34a4-a54b-95075706201b": {
+        "uuid": "66a413c2-d9bd-34a4-a54b-95075706201b",
+        "title": "Stock Market Erases Early Gains; Snap And Verizon Fall On Poor Earnings",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/66a413c2-d9bd-34a4-a54b-95075706201b/stock-market-erases-early.html",
+        "providerPublishTime": 1658507758,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iGvVcymUkckCRlKw6GuW_A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zTXlZwCRSf8VZQeY.lHFwQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4ef58653f75d0e2514fcbbead1d752e3",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wYuKyfGbsCG4lL5sD4qBYg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zTXlZwCRSf8VZQeY.lHFwQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4ef58653f75d0e2514fcbbead1d752e3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COMP",
+            "VZ",
+            "AXP",
             "^GSPC",
-            "VZ"
-        ]
-    },
-    "2e50f090-1a07-3511-9008-6cdb4f2eef74": {
-        "uuid": "2e50f090-1a07-3511-9008-6cdb4f2eef74",
-        "title": "Verizon Frontline to support \u2018First Lap for First Responders\u2019 at NASCAR\u00ae races",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-frontline-support-first-lap-140000920.html",
-        "providerPublishTime": 1658412000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "b5ee582a-eeef-35ab-a586-4eb0c9e45c39": {
-        "uuid": "b5ee582a-eeef-35ab-a586-4eb0c9e45c39",
-        "title": "Verizon delivers back-to-school deals for your best year yet",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/verizon-delivers-back-school-deals-130000805.html",
-        "providerPublishTime": 1658408400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "aa6d32f0-74ca-3a01-84ce-b9091cade3b8": {
-        "uuid": "aa6d32f0-74ca-3a01-84ce-b9091cade3b8",
-        "title": "Verizon Sees US Investors Ratcheting Up Demands on Green Bonds",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/verizon-sees-us-investors-ratcheting-123000085.html",
-        "providerPublishTime": 1658406600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vjTml01DkAj24vM0aiC7Mg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XNg04bEne1vjCVn.zNIbQA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/98b5238ad685e820cd9a15bd72521ec0",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/whgCB7miK3xTmhICKkpo3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XNg04bEne1vjCVn.zNIbQA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/98b5238ad685e820cd9a15bd72521ec0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
+            "^DJI",
+            "TWTR"
         ]
     }
 }

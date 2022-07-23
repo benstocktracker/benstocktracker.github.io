@@ -1,4 +1,32 @@
 {
+    "1309e939-ae44-38dc-8d85-27391bf28e84": {
+        "uuid": "1309e939-ae44-38dc-8d85-27391bf28e84",
+        "title": "What Does Amazon's Africa Pivot Mean for Jumia?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/1309e939-ae44-38dc-8d85-27391bf28e84/what-does-amazon%27s-africa.html",
+        "providerPublishTime": 1658500620,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iQZ.xT1EJf4c.lZ.qhVedA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/74nhWIXj6l2pDDLqa6g46g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/330799dac45280c0cfb159c3900181a3",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ow0hVnB94HKYIMs0AaXfyg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/74nhWIXj6l2pDDLqa6g46g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/330799dac45280c0cfb159c3900181a3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JMIA",
+            "AMZN"
+        ]
+    },
     "0bce8163-5a7c-3b3b-9d05-2eeb07a4a50e": {
         "uuid": "0bce8163-5a7c-3b3b-9d05-2eeb07a4a50e",
         "title": "7 Best African Stocks to Buy Now",
@@ -166,33 +194,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/LHP7k7TiGBrk1i7EV3I8cQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/00OqBzbQM9NM6aQKBzc4vA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/992331fc596d921e34ccfa3b8813259a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JMIA"
-        ]
-    },
-    "0c90a130-3f5c-3119-ac76-877e43dce2dd": {
-        "uuid": "0c90a130-3f5c-3119-ac76-877e43dce2dd",
-        "title": "What Is Going on With Jumia Stock?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0c90a130-3f5c-3119-ac76-877e43dce2dd/what-is-going-on-with-jumia.html",
-        "providerPublishTime": 1654698600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Wb2Da1rpjf0HDKPlV5RP8g--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o8yC38xw3fbYRGUeRKtQhg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3137ef2cd56143bbd444ca0bfe094ba3",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wEf77x5mj52ckS8_Anuo3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o8yC38xw3fbYRGUeRKtQhg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3137ef2cd56143bbd444ca0bfe094ba3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

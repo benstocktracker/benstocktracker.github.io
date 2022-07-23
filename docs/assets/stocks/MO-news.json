@@ -1,4 +1,31 @@
 {
+    "cf1be0f8-783f-313e-b528-146e87c884a2": {
+        "uuid": "cf1be0f8-783f-313e-b528-146e87c884a2",
+        "title": "Altria (MO) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/altria-mo-gains-market-dips-214509417.html",
+        "providerPublishTime": 1658526309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ffKO.4EbCj1BJM65zWy0mg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/95p02wXX_mPZm4qTHztw1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO"
+        ]
+    },
     "57ce1d7b-0e6a-3ee4-b4b1-47d6513edbb5": {
         "uuid": "57ce1d7b-0e6a-3ee4-b4b1-47d6513edbb5",
         "title": "Altria (MO) Outpaces Stock Market Gains: What You Should Know",
@@ -138,6 +165,42 @@
             "GOOGL"
         ]
     },
+    "040bc9f0-2371-31ec-9873-c19b6d753920": {
+        "uuid": "040bc9f0-2371-31ec-9873-c19b6d753920",
+        "title": "10 Best Dividend Stocks of All Time",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-time-101515063.html",
+        "providerPublishTime": 1658225715,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/olKowzhw9P7ZcO8CAiQXrg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/uBK7pDjgOTZKOtMiUEv6Kw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/7a05ed89e2bf209caa3c55d48926dd34",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uUshDPzTB4E2zLfdd3T6yw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uBK7pDjgOTZKOtMiUEv6Kw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/7a05ed89e2bf209caa3c55d48926dd34",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XOM",
+            "MSFT",
+            "AAPL",
+            "IBM",
+            "HD",
+            "CVX",
+            "WMT",
+            "MO",
+            "PG",
+            "JNJ"
+        ]
+    },
     "1f7ec712-bd44-38d7-9182-112448c0000f": {
         "uuid": "1f7ec712-bd44-38d7-9182-112448c0000f",
         "title": "3 of the Safest Ultra-High-Yield Dividend Stocks on the Planet",
@@ -164,68 +227,6 @@
         "relatedTickers": [
             "AGNCP",
             "MO"
-        ]
-    },
-    "93286b59-2601-3393-ade4-d6cc42ab62d6": {
-        "uuid": "93286b59-2601-3393-ade4-d6cc42ab62d6",
-        "title": "7 Blue-Chip Stocks Trading a Huge Discount Right Now",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-blue-chip-stocks-trading-150051213.html",
-        "providerPublishTime": 1658070051,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mswIyntm0NDxcOh.NZclHQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lFmi1d4zmdA7TXIfTluvKQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d864b4130c9cae906e408d72f46cd4a2",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FTXn7hbUOefzwLl0if7bGg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lFmi1d4zmdA7TXIfTluvKQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d864b4130c9cae906e408d72f46cd4a2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "INTC",
-            "XOM",
-            "JPM",
-            "MO",
-            "T-PC",
-            "TGT"
-        ]
-    },
-    "74878fed-e1b9-3eef-9943-3bd775634784": {
-        "uuid": "74878fed-e1b9-3eef-9943-3bd775634784",
-        "title": "When the Market Is a Royal Pain, Go With These Dividend Kings",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/74878fed-e1b9-3eef-9943-3bd775634784/when-the-market-is-a-royal.html",
-        "providerPublishTime": 1657969200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KnsCiADmmzTatbP2qa16Qg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YNCQyJjheyliGbQmnEz0cw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/fdbf765c0c82c4d18882b3c7a1efbff8",
-                    "width": 1200,
-                    "height": 800,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nNDEI3PUtSxQkvjQlfU4lA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YNCQyJjheyliGbQmnEz0cw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/fdbf765c0c82c4d18882b3c7a1efbff8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MO",
-            "FRT",
-            "LEG"
         ]
     }
 }

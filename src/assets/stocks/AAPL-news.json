@@ -1,193 +1,21 @@
 {
-    "9e44a5c6-5aea-3d4e-a042-b7c4a7856dfc": {
-        "uuid": "9e44a5c6-5aea-3d4e-a042-b7c4a7856dfc",
-        "title": "Apple: Don\u2019t Underestimate the Continued Growth Story, Says Analyst",
-        "publisher": "TipRanks",
-        "link": "https://finance.yahoo.com/news/apple-don-t-underestimate-continued-000455053.html",
-        "providerPublishTime": 1658448295,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yDPgo62Xn3.zxMI.XNkUTg--~B/aD00NjM7dz04NTI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xh.fH2nSDrh7lMRCsfprrg--~B/aD00NjM7dz04NTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/12f9b4b0abda006b53d5dcd745398b6f",
-                    "width": 852,
-                    "height": 463,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YrOhzpaNjvp8qUdobCt2BA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xh.fH2nSDrh7lMRCsfprrg--~B/aD00NjM7dz04NTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/12f9b4b0abda006b53d5dcd745398b6f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "e0de7753-90bc-3c50-8278-bf76f31c8a2b": {
-        "uuid": "e0de7753-90bc-3c50-8278-bf76f31c8a2b",
-        "title": "Snap Plunges After Advertiser Slump Crushes Quarterly Sales",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/snap-plunges-advertiser-slump-crushes-230601893.html",
-        "providerPublishTime": 1658444761,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.EWUx_EcyyM_gVMq7Mr.ag--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/cj8kQxq2pS.RNJP2BTv77Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/15b81340616b5c8e98e07275e3841194",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/G23NgudLructycGek1pbqA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cj8kQxq2pS.RNJP2BTv77Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/15b81340616b5c8e98e07275e3841194",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "SNAP",
-            "TWTR",
-            "META",
-            "AAPL"
-        ]
-    },
-    "911d656a-bebe-35da-ba14-7a70b9f652f5": {
-        "uuid": "911d656a-bebe-35da-ba14-7a70b9f652f5",
-        "title": "QCOM Stock, Apple Surge Off Lows Ahead Of Quarterly Earnings Reports",
+    "3e1be26b-5235-38c0-9c22-84547ae5f971": {
+        "uuid": "3e1be26b-5235-38c0-9c22-84547ae5f971",
+        "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/911d656a-bebe-35da-ba14-7a70b9f652f5/qcom-stock%2C-apple-surge-off.html",
-        "providerPublishTime": 1658443565,
+        "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
+        "providerPublishTime": 1658529705,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jjABbO3aGy5TgxQYc8KrFg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3tiFt1xXdGh1wgMB9eCcNA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b4d9d4ff8f49f080048fa86b98ad1e30",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.KY51zq22_qU98yLwUAo_g--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+                    "width": 1012,
+                    "height": 572,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8Is6VgUItLZJ.nMY.0V9qA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3tiFt1xXdGh1wgMB9eCcNA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/b4d9d4ff8f49f080048fa86b98ad1e30",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "QCOM",
-            "AAPL"
-        ]
-    },
-    "595eb9bb-b4c6-3220-89a0-0fbf9d56946e": {
-        "uuid": "595eb9bb-b4c6-3220-89a0-0fbf9d56946e",
-        "title": "Snap Stock Is Down by Double Digits After Earnings. Meta Platforms Drops Too.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/595eb9bb-b4c6-3220-89a0-0fbf9d56946e/snap-stock-is-down-by-double.html",
-        "providerPublishTime": 1658438160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wo6SW6sojUARKUElJuEhhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fjStPpRf316hxi2no7_qHg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/effb050612975aee5fe5dcf7440c77bc",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gu8ewXDjeGchH5aGJ2_vCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fjStPpRf316hxi2no7_qHg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/effb050612975aee5fe5dcf7440c77bc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SNAP",
-            "META",
-            "AAPL"
-        ]
-    },
-    "6cdb34cc-a4bc-3c99-b910-db142aa86765": {
-        "uuid": "6cdb34cc-a4bc-3c99-b910-db142aa86765",
-        "title": "Apple\u2019s Market Cap Could Soar by $1 Trillion. One Analyst Is Betting on Subscriptions.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/6cdb34cc-a4bc-3c99-b910-db142aa86765/apple%E2%80%99s-market-cap-could-soar.html",
-        "providerPublishTime": 1658436240,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.yNBRVYJ_HqkEe34R0.lTw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dsXtUvuU_4PY_ph.gMnWdQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/9b71755aa0411e2cf575209c14854c93",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zd1gcCAN_QjNw1swro9sJQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dsXtUvuU_4PY_ph.gMnWdQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/9b71755aa0411e2cf575209c14854c93",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "c3c83ae3-d59d-34e2-9bbc-b39dbe797215": {
-        "uuid": "c3c83ae3-d59d-34e2-9bbc-b39dbe797215",
-        "title": "Morgan Stanley predicts Apple could hit $3 trillion on services shift",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/morgan-stanley-predicts-apple-could-195138037.html",
-        "providerPublishTime": 1658433098,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.t0CfTteSfJeKK9ap2UONQ--~B/aD0xNDg3O3c9MjY0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/866ed730-092e-11ed-b6f6-445138fabd9f",
-                    "width": 2648,
-                    "height": 1487,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6ERTg70xED1YtPWZ1Qg32w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/866ed730-092e-11ed-b6f6-445138fabd9f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MS",
-            "MS-PO",
-            "AAPL"
-        ]
-    },
-    "7cd10ab5-2d69-33b2-ba81-68e9783e0d21": {
-        "uuid": "7cd10ab5-2d69-33b2-ba81-68e9783e0d21",
-        "title": "Market strategist explains why she \u2018started adding risk back\u2019 into portfolios",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-strategist-explains-why-she-194429448.html",
-        "providerPublishTime": 1658432669,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OnBJyTeaCQz2EvzHFZMjsw--~B/aD0xNzU2O3c9MzEyNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
-                    "width": 3124,
-                    "height": 1756,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qmccYo5EUmeXcjvz03zuaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SjlUigfqdlTJJ_NzKoNzvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -196,37 +24,199 @@
         },
         "relatedTickers": [
             "^GSPC",
-            "XLF",
             "^DJI",
-            "XLI",
-            "AMZN",
-            "META",
+            "LI",
             "AAPL",
-            "SOXX",
-            "GOOG",
             "GOOGL",
-            "DX-Y.NYB",
-            "^IXIC",
+            "COMP",
+            "DLTR",
             "MSFT"
         ]
     },
-    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
-        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
-        "title": "Top Millennial, Gen Z Picks Shift To Dividend-Paying Stocks; No. 1 Stock Tesla Roars Ahead After Beating Earnings Estimates",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-picks.html",
-        "providerPublishTime": 1658426967,
+    "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d": {
+        "uuid": "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d",
+        "title": "Not All Tech CEOs Are Created Equal. Here Are Some of the Best.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d/not-all-tech-ceos-are-created.html",
+        "providerPublishTime": 1658529060,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ygj244o_N_7AghdizcXBZw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/49n7Vr_qjV8lGvAQSAxTRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ee0JxQlLE9pA4Mwxr50sxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/37b9393ae7953d7ea3e06ffa036706e7",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yVHiPyQb8ExjvgY1.NKEPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UEIowj.PotLx1F5.5zt._A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ee0JxQlLE9pA4Mwxr50sxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/37b9393ae7953d7ea3e06ffa036706e7",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
+            "U",
+            "AAPL",
+            "INTC",
+            "SHOP"
+        ]
+    },
+    "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
+        "uuid": "e82300d9-346e-3f35-ac82-65fb6c19ade8",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/e82300d9-346e-3f35-ac82-65fb6c19ade8/weekly-roundup.html",
+        "providerPublishTime": 1658527680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tfNk.YVijUMdToJ5Uy9SLQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
+                    "width": 1200,
+                    "height": 800,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I950qi.WStWQXU_xRqd01w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ",
+            "NVDA",
+            "GOOGL",
+            "^GSPC",
+            "AMD",
+            "NUE",
+            "AAPL",
+            "MSFT"
+        ]
+    },
+    "01828bc5-4488-3e62-b1de-34ea55255271": {
+        "uuid": "01828bc5-4488-3e62-b1de-34ea55255271",
+        "title": "Progressive Caucus Asks Schumer to Set Vote on Antitrust Bills",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/progressive-caucus-asks-schumer-set-202901686.html",
+        "providerPublishTime": 1658521741,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iMchpH5r9ImkyBMObBhCiA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/S2KdxGa.PW0_U0ygrLFrBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "META",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "AMZN"
+        ]
+    },
+    "923d8936-b2f9-3bef-99eb-17aa497c7699": {
+        "uuid": "923d8936-b2f9-3bef-99eb-17aa497c7699",
+        "title": "Snap Craters as Sales Disappoint, Erases $130 Billion From Peers",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/meta-alphabet-knocked-down-snap-210613092.html",
+        "providerPublishTime": 1658520929,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/U4sVxrpBhtFKKCjn5_drew--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/aYxp.4MGn9E45J.YWYoR_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/e6d2e94dcbb5a497bc3baea3de55ff37",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sD.PnODfTnLpPMGaV_OIBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aYxp.4MGn9E45J.YWYoR_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/e6d2e94dcbb5a497bc3baea3de55ff37",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PINS",
+            "AAPL",
+            "JPM",
+            "STX",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "TWTR",
+            "TSLA",
+            "SNAP"
+        ]
+    },
+    "653413e0-2365-32f1-9f1d-87e25330c493": {
+        "uuid": "653413e0-2365-32f1-9f1d-87e25330c493",
+        "title": "Alphabet Stock Split Lands With a Thud in Worry-Filled Market",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/alphabet-stock-split-lands-thud-150857055.html",
+        "providerPublishTime": 1658520644,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GduHJDItr0T9CuqB0plI4w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tgCpyj2kCEVrp95UpTLh0w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FTNT",
+            "JPM",
+            "TSLA",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "DXCM",
+            "AAPL"
+        ]
+    },
+    "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1": {
+        "uuid": "e0f15179-436e-3dd0-b0c7-c8b2b87fc0a1",
+        "title": "Tesla has the largest short in the U.S. market at nearly $2.7 billion",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/tesla-largest-short-u-market-194441050.html",
+        "providerPublishTime": 1658519081,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/osuQJHIkA4XNiLAa2CGQdw--~B/aD0xNDgzO3c9MjY0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
+                    "width": 2642,
+                    "height": 1483,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/y1HL3jE0bCEwaQQeJBSxrg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b91d3fa0-09f6-11ed-b93a-9e1f08602e26",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -235,11 +225,43 @@
         },
         "relatedTickers": [
             "TSLA",
-            "AMC",
             "AAPL",
-            "AMD",
+            "AMZN"
+        ]
+    },
+    "946dc764-4a7c-3e6b-a7e0-e031ac765f93": {
+        "uuid": "946dc764-4a7c-3e6b-a7e0-e031ac765f93",
+        "title": "Inflation: The Fed 'doesn't have the guts' to raise interest rates by 6 to 7%, strategist says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/inflation-fed-doesnt-guts-raise-194331344.html",
+        "providerPublishTime": 1658519011,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NQgKSrW._HaplZVPywkCDw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_TGJtIXC6wytMVjpbchqzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
             "MSFT",
-            "NVDA"
+            "^DJI",
+            "^GSPC",
+            "^IXIC",
+            "AAPL"
         ]
     }
 }

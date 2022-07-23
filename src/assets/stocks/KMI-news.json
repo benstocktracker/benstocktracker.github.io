@@ -1,4 +1,50 @@
 {
+    "8b5a09dd-c20f-3d0e-bab3-6a75871a785f": {
+        "uuid": "8b5a09dd-c20f-3d0e-bab3-6a75871a785f",
+        "title": "Got $5,000? 3 Top Pipeline Stocks to Buy for the Long Term",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8b5a09dd-c20f-3d0e-bab3-6a75871a785f/got-%245%2C000%3F-3-top-pipeline.html",
+        "providerPublishTime": 1658488440,
+        "type": "STORY",
+        "relatedTickers": [
+            "EPD",
+            "ENB",
+            "KMI"
+        ]
+    },
+    "03e4f54e-cea7-3099-ae7b-53560c1c944d": {
+        "uuid": "03e4f54e-cea7-3099-ae7b-53560c1c944d",
+        "title": "The Companies Taking Advantage Of America\u2019s LNG Boom",
+        "publisher": "Oilprice.com",
+        "link": "https://finance.yahoo.com/news/companies-taking-advantage-america-lng-000000486.html",
+        "providerPublishTime": 1658448000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vObjrC2X5Pg1mlXFiJWDHg--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ZzDWljAGhYDf6o8G7R_HsQ--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a8cbd32466e4763e2559df596b6114f6",
+                    "width": 450,
+                    "height": 357,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aqAjUIEKKKDtp5UaeiE0PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZzDWljAGhYDf6o8G7R_HsQ--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a8cbd32466e4763e2559df596b6114f6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F",
+            "NG=F",
+            "LNG",
+            "MPLX",
+            "DVN",
+            "ET-PD",
+            "KMI"
+        ]
+    },
     "c3e05c75-c44c-3307-94fe-a281b1904729": {
         "uuid": "c3e05c75-c44c-3307-94fe-a281b1904729",
         "title": "Kinder Morgan Issues 2021 Environmental, Social and Governance Report",
@@ -146,28 +192,6 @@
                 }
             ]
         },
-        "relatedTickers": [
-            "KMI"
-        ]
-    },
-    "817e22b2-df9d-35d8-bbc1-64a1aadf628a": {
-        "uuid": "817e22b2-df9d-35d8-bbc1-64a1aadf628a",
-        "title": "UPDATE 3-Kinder Morgan quarterly profit climbs 20% on high jet fuel demand",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-kinder-morgan-quarterly-profit-202043498.html",
-        "providerPublishTime": 1658348443,
-        "type": "STORY",
-        "relatedTickers": [
-            "KMI"
-        ]
-    },
-    "d7ac3b67-a5e9-384b-9654-199280cf28e1": {
-        "uuid": "d7ac3b67-a5e9-384b-9654-199280cf28e1",
-        "title": "Kinder Morgan Announces Dividend of $0.2775 Per Share and Raises Full Year Financial Guidance",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-announces-dividend-0-200500514.html",
-        "providerPublishTime": 1658347500,
-        "type": "STORY",
         "relatedTickers": [
             "KMI"
         ]

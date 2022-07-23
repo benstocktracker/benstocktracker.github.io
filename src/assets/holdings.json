@@ -31,7 +31,7 @@
       "account": "Brokerage",
       "costAverage": 19.5,
       "costBasis": 580.5,
-      "shares": 31,
+      "shares": 30,
       "ticker": "BEN"
     }
   ],
@@ -252,23 +252,23 @@
       "account": "Roth IRA",
       "costAverage": 46.25,
       "costBasis": 1156.25,
-      "shares": 25,
+      "shares": 20,
       "ticker": "UL"
     }
   ],
   "VZ": [
     {
       "account": "Roth IRA",
-      "costAverage": 49.93,
+      "costAverage": 49.28,
       "costBasis": 1558.5,
-      "shares": 50,
+      "shares": 57,
       "ticker": "VZ"
     },
     {
       "account": "Brokerage",
-      "costAverage": 46.97,
+      "costAverage": 46.27,
       "costBasis": 1558.5,
-      "shares": 10,
+      "shares": 15,
       "ticker": "VZ"
     }
   ],

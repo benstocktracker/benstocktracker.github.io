@@ -1,4 +1,17 @@
 {
+    "8b5a09dd-c20f-3d0e-bab3-6a75871a785f": {
+        "uuid": "8b5a09dd-c20f-3d0e-bab3-6a75871a785f",
+        "title": "Got $5,000? 3 Top Pipeline Stocks to Buy for the Long Term",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8b5a09dd-c20f-3d0e-bab3-6a75871a785f/got-%245%2C000%3F-3-top-pipeline.html",
+        "providerPublishTime": 1658488440,
+        "type": "STORY",
+        "relatedTickers": [
+            "EPD",
+            "ENB",
+            "KMI"
+        ]
+    },
     "21fadb0d-d5bb-3c64-9462-03fe0d6bce0b": {
         "uuid": "21fadb0d-d5bb-3c64-9462-03fe0d6bce0b",
         "title": "Enbridge's ESG Goal Progress: A Message From Pete Sheffield, VP and CSO",
@@ -174,34 +187,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB",
-            "^GSPC"
-        ]
-    },
-    "55ac1efa-7b69-310f-ae2e-6f3e9a4d810c": {
-        "uuid": "55ac1efa-7b69-310f-ae2e-6f3e9a4d810c",
-        "title": "Enbridge (ENB) Stock Moves -0.24%: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-stock-moves-0-220010119.html",
-        "providerPublishTime": 1657749610,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nLGLIeBHgri1fQIhUG_CNA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/auhFPLcthJM50UYepXcODg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2f0d6efdd8740952a371c97ddea6e926",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pPbTXes1lNFyjerwRPTLFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/auhFPLcthJM50UYepXcODg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2f0d6efdd8740952a371c97ddea6e926",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

@@ -1,4 +1,69 @@
 {
+    "ef01f784-a52c-33ad-882c-445ef339bcf5": {
+        "uuid": "ef01f784-a52c-33ad-882c-445ef339bcf5",
+        "title": "Kite\u2019s CAR T-cell Therapy Tecartus\u00ae Receives Positive CHMP Opinion in Relapsed or Refractory Acute Lymphoblastic Leukemia (r/r ALL)",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/kite-car-t-cell-therapy-134200146.html",
+        "providerPublishTime": 1658497320,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VNPCvxNNHMERh.u5pdYVvA--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DMLEZx462rcxf6fFOJEfow--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/69634d16f8c8bc7bfbdaee6cfd2cb141",
+                    "width": 480,
+                    "height": 210,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PN1leJQE5XXBfAXzKUIV.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DMLEZx462rcxf6fFOJEfow--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/69634d16f8c8bc7bfbdaee6cfd2cb141",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "749711b7-b3e3-33e1-8bda-335b59d1fa77": {
+        "uuid": "749711b7-b3e3-33e1-8bda-335b59d1fa77",
+        "title": "Youth Can't Wait - Empowering Young People in the Fight Against Hepatitis",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/youth-cant-wait-empowering-young-124519783.html",
+        "providerPublishTime": 1658493919,
+        "type": "STORY",
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "6499d300-2c50-3abb-a787-dfcae6a0fa81": {
+        "uuid": "6499d300-2c50-3abb-a787-dfcae6a0fa81",
+        "title": "CHMP Adopts Positive Opinion Recommending Veklury\u00ae (Remdesivir) Receive Full Marketing Authorization for the Treatment of Patients With COVID-19",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/chmp-adopts-positive-opinion-recommending-110600654.html",
+        "providerPublishTime": 1658487960,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/00ah5Z85rCq83s0rjOk8Xw--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BuGXVFuhkaT.B7j3TiIQLg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/59af9fb6cf16744cca9b014f53e0f835",
+                    "width": 480,
+                    "height": 160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dtyQYk3oTXVLOu_h2fTAAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BuGXVFuhkaT.B7j3TiIQLg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/59af9fb6cf16744cca9b014f53e0f835",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "671377db-e309-3eae-8a6f-f71925a6ae48": {
         "uuid": "671377db-e309-3eae-8a6f-f71925a6ae48",
         "title": "Scientific Innovation and Collaboration Highlighted at AIDS 2022 as Gilead Extends Leadership Efforts Toward Ending the Global HIV Epidemic",
@@ -130,55 +195,6 @@
                 }
             ]
         },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "847dadbd-bdc6-3edf-907d-3a3a13717377": {
-        "uuid": "847dadbd-bdc6-3edf-907d-3a3a13717377",
-        "title": "Gilead Sciences Signs New Joint Procurement Agreement with the European Commission for Veklury\u00ae (Remdesivir)",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/gilead-sciences-signs-joint-procurement-130000887.html",
-        "providerPublishTime": 1658235600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tURCLPeUHwmkZdTccUXV6Q--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QGPfqyaTJraR06C0oj8Ivg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b3525bba294c5ac610a24880fd4b87cf",
-                    "width": 480,
-                    "height": 160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ROclNYAPF6BePrlkgdcFKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QGPfqyaTJraR06C0oj8Ivg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/b3525bba294c5ac610a24880fd4b87cf",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "e9306cfe-6e67-3666-ad92-a310dcf2aef2": {
-        "uuid": "e9306cfe-6e67-3666-ad92-a310dcf2aef2",
-        "title": "UPDATE 1-EU signs COVID-19 drug procurement deal with Gilead",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-eu-signs-covid-19-111735043.html",
-        "providerPublishTime": 1658229455,
-        "type": "STORY",
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "bc7be9e7-5ec8-352b-aedf-a992b86ab329": {
-        "uuid": "bc7be9e7-5ec8-352b-aedf-a992b86ab329",
-        "title": "REFILE-EU signs COVID-19 therapeutic procurement deal with Gilead",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/eu-signs-covid-19-therapeutic-101453913.html",
-        "providerPublishTime": 1658225693,
-        "type": "STORY",
         "relatedTickers": [
             "GILD"
         ]

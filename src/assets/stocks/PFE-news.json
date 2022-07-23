@@ -1,188 +1,21 @@
 {
-    "266d0998-fe52-38b0-8acd-8a11018dd1ab": {
-        "uuid": "266d0998-fe52-38b0-8acd-8a11018dd1ab",
-        "title": "Biden Contracts Covid as Pandemic Shows Its Staying Power",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/biden-positive-covid-mild-symptoms-142638802.html",
-        "providerPublishTime": 1658428940,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dRK0rHK.yFv9cz9H7x7dcQ--~B/aD0xMjgyO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/pDh8De1xtpkkbkV928jqfQ--~B/aD0xMjgyO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/f91ea5dbd1123011086ecfbf0d8dceb5",
-                    "width": 2000,
-                    "height": 1282,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hv0gJbxSz1tXPx_ksi47gg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pDh8De1xtpkkbkV928jqfQ--~B/aD0xMjgyO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/f91ea5dbd1123011086ecfbf0d8dceb5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "41a2b7b4-537e-3504-a6ec-f85c1d4c1952": {
-        "uuid": "41a2b7b4-537e-3504-a6ec-f85c1d4c1952",
-        "title": "Joe Biden has contracted Covid, White House says",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/41a2b7b4-537e-3504-a6ec-f85c1d4c1952/joe-biden-has-contracted.html",
-        "providerPublishTime": 1658421888,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "da5dc9ac-b9f8-3dd8-8460-c282162e8e64": {
-        "uuid": "da5dc9ac-b9f8-3dd8-8460-c282162e8e64",
-        "title": "Novavax COVID-19 vaccine will be available \u2018next week,\u2019 CEO says",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/novavax-covid-19-vaccine-available-161304941.html",
-        "providerPublishTime": 1658419984,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pDiuCLykGxZVNopKCDKczQ--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/fc48c3e0-090f-11ed-99ff-788b424dc051",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3NyfemBXu4mhsd4j5EOWjg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/fc48c3e0-090f-11ed-99ff-788b424dc051",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "NVAX",
-            "JNJ",
-            "BNTX",
-            "MRNA"
-        ]
-    },
-    "ad87870f-d9a8-3bd9-a749-8378c9ed45ae": {
-        "uuid": "ad87870f-d9a8-3bd9-a749-8378c9ed45ae",
-        "title": "Healthcare ETFs in Focus Ahead of Q2 Earnings",
+    "7e5c6518-4d45-3259-85a0-299a096cb11c": {
+        "uuid": "7e5c6518-4d45-3259-85a0-299a096cb11c",
+        "title": "Pfizer Q2 Preview: Quarterly Estimates Display Robust Growth",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/healthcare-etfs-focus-ahead-q2-151503209.html",
-        "providerPublishTime": 1658416503,
+        "link": "https://finance.yahoo.com/news/pfizer-q2-preview-quarterly-estimates-211809542.html",
+        "providerPublishTime": 1658524689,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wRWJ15OVUvBzUUtQi4t_JA--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/GaLI6UTOYfr9yVPRx4VoRg--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/57ec460cb6b81f1335dcfb164b86740c",
-                    "width": 900,
-                    "height": 598,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2PPgBM4HP92uYQmVypCufg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GaLI6UTOYfr9yVPRx4VoRg--~B/aD01OTg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/57ec460cb6b81f1335dcfb164b86740c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "AMGN",
-            "LLY",
-            "ABBV",
-            "BMY"
-        ]
-    },
-    "7986f4c7-a24f-32ed-8eb0-2eea9156696e": {
-        "uuid": "7986f4c7-a24f-32ed-8eb0-2eea9156696e",
-        "title": "President Biden Tests Positive for Covid-19, Has \u2018Mild Symptoms\u2019",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/7986f4c7-a24f-32ed-8eb0-2eea9156696e/president-biden-tests.html",
-        "providerPublishTime": 1658415960,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DIeQUIQhqwpeSeVlS.eRlQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hbzXJg82knWrascXcOoEcw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a8152cf0f65a507e8b7a3931b736a055",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YJxScpwLZ0ElQRvmlrD1kw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hbzXJg82knWrascXcOoEcw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a8152cf0f65a507e8b7a3931b736a055",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "NVAX"
-        ]
-    },
-    "eccb264c-bed4-3f6f-ad4d-10c6a2a837ca": {
-        "uuid": "eccb264c-bed4-3f6f-ad4d-10c6a2a837ca",
-        "title": "Pfizer and Flynn fined \u00a370mn by UK regulator for epilepsy drug price rises",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/eccb264c-bed4-3f6f-ad4d-10c6a2a837ca/pfizer-and-flynn-fined-%C2%A370mn.html",
-        "providerPublishTime": 1658412411,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "7e12c7b0-fb82-3290-9ed3-b557f3816184": {
-        "uuid": "7e12c7b0-fb82-3290-9ed3-b557f3816184",
-        "title": "2 Pharma Stocks for a Recession",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7e12c7b0-fb82-3290-9ed3-b557f3816184/2-pharma-stocks-for-a.html",
-        "providerPublishTime": 1658408700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QRVlC8yj4k8_Xz1VnrFzzg--~B/aD05MDU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BVGV4a03EMMIavDE6PzP5g--~B/aD05MDU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a1e1cbdc18b0bea85d912f75fee5a233",
-                    "width": 1400,
-                    "height": 905,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2AiAW4s11webLV8bRYq6fQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BVGV4a03EMMIavDE6PzP5g--~B/aD05MDU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a1e1cbdc18b0bea85d912f75fee5a233",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "^GSPC"
-        ]
-    },
-    "99fef2ff-8ca3-374f-836d-15b7fbb731e2": {
-        "uuid": "99fef2ff-8ca3-374f-836d-15b7fbb731e2",
-        "title": "Merck's (MRK) Keytruda Head and Neck Cancer Study Fails",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/mercks-mrk-keytruda-head-neck-120712107.html",
-        "providerPublishTime": 1658405232,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nZqekxLnPYl8fN17KwJC1w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HNGK8KXbnuM7D3xIxBkleg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/00ec4a55c0f0d99f7e816f5da7894e0c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9jW6ZxamXUIIiPXOZtS_XQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1lT1Ay9t03inQKM3obfBcw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/adffdba251acf14694302f71548fc8fb",
                     "width": 635,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JT1ePRvNUVdC4HbVgUfPDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HNGK8KXbnuM7D3xIxBkleg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/00ec4a55c0f0d99f7e816f5da7894e0c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qIY7Kzi5POYthSNEzFKyIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1lT1Ay9t03inQKM3obfBcw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/adffdba251acf14694302f71548fc8fb",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -190,9 +23,210 @@
             ]
         },
         "relatedTickers": [
-            "MRK",
+            "PFE"
+        ]
+    },
+    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
+        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
+        "title": "Is AbbVie Stock A Buy Or A Sell With Humira Rivals Looming?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-or-a.html",
+        "providerPublishTime": 1658507295,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/m5d.Smd693RMHHIXgMp5Pw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o_.HlPSfHXegjFg37AN7ZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "AGN",
+            "PFE"
+        ]
+    },
+    "1a98427e-657b-32ad-afa6-49c582a5cc6e": {
+        "uuid": "1a98427e-657b-32ad-afa6-49c582a5cc6e",
+        "title": "Biden's doctor says his COVID symptoms have improved",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/1a98427e-657b-32ad-afa6-49c582a5cc6e/biden%27s-doctor-says-his-covid.html",
+        "providerPublishTime": 1658504597,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "9d080741-802b-3fbe-a67e-134fdee1925b": {
+        "uuid": "9d080741-802b-3fbe-a67e-134fdee1925b",
+        "title": "U.S. leads the world in new COVID cases as BA.5 continues to spread and illustrate that the pandemic is far from over",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/9d080741-802b-3fbe-a67e-134fdee1925b/u.s.-leads-the-world-in-new.html",
+        "providerPublishTime": 1658499180,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EB.V7CIigZz5m4PNRC8eDA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fzBmOWCqcLUUNUV_yHUXGA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/30559091da871d55eb05e71bcec23970",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PtJjzaW4wBVERdBJEvRlSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fzBmOWCqcLUUNUV_yHUXGA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/30559091da871d55eb05e71bcec23970",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "09de69c1-6e58-3762-9307-a7a8edd8de08": {
+        "uuid": "09de69c1-6e58-3762-9307-a7a8edd8de08",
+        "title": "AbbVie (ABBV) Reports Next Week: Wall Street Expects Earnings Growth",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-abbv-reports-next-week-140002610.html",
+        "providerPublishTime": 1658498402,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/98.a1RXLLn1auNXiH78frA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+                    "width": 900,
+                    "height": 602,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TtLwuPCMf6GMxPk1IqJQsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "PFE"
+        ]
+    },
+    "73eef9d1-0f61-3df5-a67e-ab5bf4065083": {
+        "uuid": "73eef9d1-0f61-3df5-a67e-ab5bf4065083",
+        "title": "Olema (OLMA) Up on FDA Fast Track Tag for Breast Cancer Drug",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/olema-olma-fda-fast-track-104910092.html",
+        "providerPublishTime": 1658486950,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wJfB72kiLfyM59IxzSnTjQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LQ_ww2eZjlMvbiXmaf.EDA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9d995582658bf49e50317a8120603e3e",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jrrGvMn9353.FTNf.zxktw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LQ_ww2eZjlMvbiXmaf.EDA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9d995582658bf49e50317a8120603e3e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "OLMA",
+            "BEAM",
             "PFE",
-            "JAZZ"
+            "NVS"
+        ]
+    },
+    "65409247-b6a4-36c7-be89-5777626d54db": {
+        "uuid": "65409247-b6a4-36c7-be89-5777626d54db",
+        "title": "Is This Vaccine Stock a Buy After Big News?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/65409247-b6a4-36c7-be89-5777626d54db/is-this-vaccine-stock-a-buy.html",
+        "providerPublishTime": 1658486700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ai7mRY.uNHA044fY2MF5rw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LdrjPPfPAjvYgGzVSizNxw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9d84f4b3ee4aa70d4955ece67b933951",
+                    "width": 1400,
+                    "height": 787,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/B0rT6Zw7fpsyn7ko0qqtNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LdrjPPfPAjvYgGzVSizNxw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9d84f4b3ee4aa70d4955ece67b933951",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX",
+            "MRNA",
+            "PFE"
+        ]
+    },
+    "ea51c7b1-aea6-3ecc-be97-cd89f985d945": {
+        "uuid": "ea51c7b1-aea6-3ecc-be97-cd89f985d945",
+        "title": "Jerome Powell Wants a Slowdown. Snap\u2019s Warning Shows That\u2019s Happening.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/ea51c7b1-aea6-3ecc-be97-cd89f985d945/jerome-powell-wants-a.html",
+        "providerPublishTime": 1658486520,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FnW4gogU2C_NLAgeWKateg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KMLDZt10nHhBb3CgErynRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e89599e7d6d26efdb4a69c59b9830ad5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7a8P33pAqF0ikD_DMayKFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KMLDZt10nHhBb3CgErynRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e89599e7d6d26efdb4a69c59b9830ad5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "T",
+            "T-PA",
+            "T-PC",
+            "AMZN",
+            "SNAP",
+            "COIN"
         ]
     }
 }

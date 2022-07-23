@@ -1,4 +1,32 @@
 {
+    "d612b5ac-c9d2-3cb0-a900-12484e5fc1f2": {
+        "uuid": "d612b5ac-c9d2-3cb0-a900-12484e5fc1f2",
+        "title": "Earnings Preview: Virtus Investment Partners (VRTS) Q2 Earnings Expected to Decline",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/earnings-preview-virtus-investment-partners-140002836.html",
+        "providerPublishTime": 1658498402,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YRz8MGJWcybk9QoXQlMEnQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o6VhAe2Lh5wjpYDfWJVJYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VRTS",
+            "BEN"
+        ]
+    },
     "411d6ac3-336a-3714-b465-3af870095192": {
         "uuid": "411d6ac3-336a-3714-b465-3af870095192",
         "title": "Should Franklin U.S. Low Volatility High Dividend Index ETF (LVHD) Be on Your Investing Radar?",
@@ -162,18 +190,6 @@
             ]
         },
         "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "7521ca49-bc0c-3767-afdc-f2d5c44725fd": {
-        "uuid": "7521ca49-bc0c-3767-afdc-f2d5c44725fd",
-        "title": "Franklin Limited Duration Income Trust (\"FTF\" or the \"Fund\") Announces Distribution",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-limited-duration-income-trust-161200288.html",
-        "providerPublishTime": 1657296720,
-        "type": "STORY",
-        "relatedTickers": [
-            "FTF",
             "BEN"
         ]
     }

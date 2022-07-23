@@ -37,7 +37,7 @@ def fetch_one_ticker_data(symbol):
     print(f'fetching stock data for {symbol}...')
     save_stock_data(symbol, yf.Ticker(symbol))
     print('tick tock, tick tock, tick tock!')
-    time.sleep(3)
+    time.sleep(2)
 
 
 def fetch_all_tickers_data():
@@ -46,7 +46,7 @@ def fetch_all_tickers_data():
         print(f'fetching stock data for {symbol}...')
         save_stock_data(symbol, tickers.tickers[symbol])
         print('tick tock, tick tock, tick tock!')
-        time.sleep(3)
+        time.sleep(2)
 
 
 def fetch_watchlist_tickers_data():
@@ -55,7 +55,7 @@ def fetch_watchlist_tickers_data():
         print(f'fetching watchlist data for {ticker}...')
         save_stock_data(ticker, tickers.tickers[ticker])
         print('tick tock, tick tock, tick tock!')
-        time.sleep(3)
+        time.sleep(2)
 
 
 def combine_watchlist_data():
@@ -151,8 +151,8 @@ def calculate_row_data(portfolio):
 if __name__ == '__main__':
     print('Working the magic...\n')
 
-    # fetch_all_tickers_data()
-    # fetch_watchlist_tickers_data()
+    fetch_all_tickers_data()
+    fetch_watchlist_tickers_data()
 
     stock_data = combine_stock_data()
     stock_news = combine_stock_news()

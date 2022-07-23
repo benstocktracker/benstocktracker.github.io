@@ -23,8 +23,8 @@
             ]
         },
         "relatedTickers": [
-            "KR",
-            "COST"
+            "COST",
+            "KR"
         ]
     },
     "67842999-71c3-35fe-9504-2cdc4bb68dd4": {
@@ -165,6 +165,39 @@
             "COST"
         ]
     },
+    "623ca54e-be69-3fe7-b4e7-7edafad46e4f": {
+        "uuid": "623ca54e-be69-3fe7-b4e7-7edafad46e4f",
+        "title": "7 Best High-Growth Stocks for Young Investors",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-high-growth-stocks-100128036.html",
+        "providerPublishTime": 1658224888,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y50ZN7U8OgGDnpt7IC4YtA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9Ig3t5xn00E_Kd4wQt9lDw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/3a7b1072f927c924c02557e9a0493e21",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CBM.zoQE2vA9iOj_QTRCrg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9Ig3t5xn00E_Kd4wQt9lDw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/3a7b1072f927c924c02557e9a0493e21",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MASI",
+            "AAPL",
+            "COST",
+            "MNST",
+            "BKNG",
+            "DFS",
+            "ABNB"
+        ]
+    },
     "c69679eb-4799-31ec-af65-aa15c8b8ee7d": {
         "uuid": "c69679eb-4799-31ec-af65-aa15c8b8ee7d",
         "title": "Costco again reverses course on Cincinnati store's closure",
@@ -227,45 +260,6 @@
             "TJX",
             "WMT",
             "DLTR"
-        ]
-    },
-    "b0787221-8cca-4604-bff3-663b39079b74": {
-        "uuid": "b0787221-8cca-4604-bff3-663b39079b74",
-        "title": "Retail stocks that historically laugh in the face of recession",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/retail-stocks-historically-laugh-in-face-of-recession-184753500.html",
-        "providerPublishTime": 1658083673,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wcpnl8nvEcZhGwVYv1XU4g--~B/aD0yNjM5O3c9Mzk1OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5acf1a40-046a-11ed-bf72-24fd0b04b21d",
-                    "width": 3959,
-                    "height": 2639,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/T2QEC_ZwPQ4_o9gL5_Oe1A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5acf1a40-046a-11ed-bf72-24fd0b04b21d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GO",
-            "KSS",
-            "WMT",
-            "RH",
-            "ACI",
-            "COST",
-            "TGT",
-            "BJ",
-            "KR",
-            "GPS",
-            "DLTR",
-            "DG",
-            "BBBY"
         ]
     }
 }

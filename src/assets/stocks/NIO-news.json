@@ -1,4 +1,40 @@
 {
+    "7e29bf6e-7645-35be-964e-696c91611ec0": {
+        "uuid": "7e29bf6e-7645-35be-964e-696c91611ec0",
+        "title": "GM\u2019s Cadillac debuts luxury Celestiq electric vehicle",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/gm-cadillac-debuts-luxury-celestiq-143449896.html",
+        "providerPublishTime": 1658500489,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9OdoOSiZaier4GamfM6btA--~B/aD0xNTMyO3c9MjcyOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/71877ff0-09cb-11ed-97f5-9a039e8a6c3f",
+                    "width": 2729,
+                    "height": 1532,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RWR9cIeNnKwqEPMFK_ZkUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/71877ff0-09cb-11ed-97f5-9a039e8a6c3f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GM",
+            "TSLA",
+            "LCID",
+            "FFIE",
+            "NKLA",
+            "NIO",
+            "STLA",
+            "VLTA",
+            "F",
+            "FSR"
+        ]
+    },
     "53329ce5-951b-3f1d-b3e1-13e3d8d60c42": {
         "uuid": "53329ce5-951b-3f1d-b3e1-13e3d8d60c42",
         "title": "Top Electric Car Stocks for Q3 2022",
@@ -204,41 +240,6 @@
             "AMZN",
             "RIVN",
             "^GSPC"
-        ]
-    },
-    "c475fb33-5c80-3102-b4b8-55aac34653c2": {
-        "uuid": "c475fb33-5c80-3102-b4b8-55aac34653c2",
-        "title": "12 Best Environmental Stocks to Invest In",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/12-best-environmental-stocks-invest-124402340.html",
-        "providerPublishTime": 1658148242,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oOkhySOTbExtU5RjFas7kQ--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JVzmrvlHVoAT9YOPMAb5_A--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/da8e69a5f8759e586d26de661325e5dd",
-                    "width": 400,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/n6NOABeg6ZjiYc9pVgcgIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JVzmrvlHVoAT9YOPMAb5_A--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/da8e69a5f8759e586d26de661325e5dd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEP",
-            "CHPT",
-            "CWEN-A",
-            "NOVA",
-            "UNFI",
-            "NIO",
-            "HAIN",
-            "GOOGL",
-            "TSLA"
         ]
     }
 }

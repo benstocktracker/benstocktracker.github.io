@@ -1,4 +1,139 @@
 {
+    "83420f20-3d56-36f3-83d3-ee1ff8ba5657": {
+        "uuid": "83420f20-3d56-36f3-83d3-ee1ff8ba5657",
+        "title": "Restaurant Stocks Are Finally Coming Back to Life. This One Looks Like a Good Bet.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/83420f20-3d56-36f3-83d3-ee1ff8ba5657/restaurant-stocks-are-finally.html",
+        "providerPublishTime": 1658537940,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/x.uf3iVk3FmLTcf55o48wA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DLHtszrk9oOvdk.jGQpVpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/303d0dfde57ebcf7fb49dff9f20c6976",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_ogjD_rPUtEY0xQ0xefKsg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DLHtszrk9oOvdk.jGQpVpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/303d0dfde57ebcf7fb49dff9f20c6976",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MCD",
+            "SBUX",
+            "YUM",
+            "^GSPC"
+        ]
+    },
+    "b153c940-7f67-3159-b3aa-e6b049d9678e": {
+        "uuid": "b153c940-7f67-3159-b3aa-e6b049d9678e",
+        "title": "Howard Schultz seeks to bring Starbucks back up to full strength",
+        "publisher": "Financial Times",
+        "link": "https://finance.yahoo.com/m/b153c940-7f67-3159-b3aa-e6b049d9678e/howard-schultz-seeks-to-bring.html",
+        "providerPublishTime": 1658527224,
+        "type": "STORY",
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "0cdf4a34-3d57-394c-8648-5375dbe30da7": {
+        "uuid": "0cdf4a34-3d57-394c-8648-5375dbe30da7",
+        "title": "Starbucks (SBUX) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/starbucks-sbux-gains-market-dips-214509475.html",
+        "providerPublishTime": 1658526309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KYo3DiyZdD4X0nl2I8k31A--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+                    "width": 900,
+                    "height": 469,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FlKSooiKsd3JFhF0XXj_PA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "57099a79-5e0e-3943-ba4a-bef8c8b480a4": {
+        "uuid": "57099a79-5e0e-3943-ba4a-bef8c8b480a4",
+        "title": "Is Most-Watched Stock Starbucks Corporation (SBUX) Worth Betting on Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/most-watched-stock-starbucks-corporation-130001391.html",
+        "providerPublishTime": 1658494801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6tSQqB4RxMVfgDYI2bsoCg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/YliGu3uiWo7T6YkWQuaEpA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/p8yG1.SiYGwiI.TLvULjYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YliGu3uiWo7T6YkWQuaEpA--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
+    "d2d59272-74be-3037-90dc-9b820b47110a": {
+        "uuid": "d2d59272-74be-3037-90dc-9b820b47110a",
+        "title": "Nearing Retirement? These Stocks Could Pay You for Life",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/d2d59272-74be-3037-90dc-9b820b47110a/nearing-retirement%3F-these.html",
+        "providerPublishTime": 1658493900,
+        "type": "STORY",
+        "relatedTickers": [
+            "SBUX",
+            "VZ",
+            "PEP"
+        ]
+    },
+    "71904bda-6ab6-31ac-a285-9036d88cf0ac": {
+        "uuid": "71904bda-6ab6-31ac-a285-9036d88cf0ac",
+        "title": "Why Ramit Sethi Says You Can 'Buy All the Lattes You Want' and Still Save Money",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/71904bda-6ab6-31ac-a285-9036d88cf0ac/why-ramit-sethi-says-you-can.html",
+        "providerPublishTime": 1658489543,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dPJ8U4TJUPRlQxjOVJHskQ--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/drVbJhTveZ38VS8Bd11Nag--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9f9a051a2f2694d8de7856b9c31c2bc5",
+                    "width": 1400,
+                    "height": 932,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aHpFz_TquYAJN9k7ULOdgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/drVbJhTveZ38VS8Bd11Nag--~B/aD05MzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9f9a051a2f2694d8de7856b9c31c2bc5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX"
+        ]
+    },
     "229c5de3-220f-3c09-8426-2ca8a877ceba": {
         "uuid": "229c5de3-220f-3c09-8426-2ca8a877ceba",
         "title": "Amazon, Starbucks handling unionization push \u2018very badly,\u2019 Rep. Levin says",
@@ -52,174 +187,6 @@
         },
         "relatedTickers": [
             "INTC",
-            "SBUX"
-        ]
-    },
-    "7b5c17c0-65da-3536-816f-93fe8527fce8": {
-        "uuid": "7b5c17c0-65da-3536-816f-93fe8527fce8",
-        "title": "FAT Brands Inc. (FAT) Surges 7.5%: Is This an Indication of Further Gains?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/fat-brands-inc-fat-surges-135701228.html",
-        "providerPublishTime": 1658411821,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5s9hkLodEFOuKuW0Kn9GWQ--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dQD1oE1LdsCK76FCtzaQKQ--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cdcfe82daada6304206839820f5aa2ea",
-                    "width": 900,
-                    "height": 900,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K5Vsfmy5XvlJVvs65FU61g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dQD1oE1LdsCK76FCtzaQKQ--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/cdcfe82daada6304206839820f5aa2ea",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FATBB",
-            "SBUX"
-        ]
-    },
-    "d14b7cb6-e021-3ea5-a9da-1fde05a264ae": {
-        "uuid": "d14b7cb6-e021-3ea5-a9da-1fde05a264ae",
-        "title": "5 Stocks to Buy in July",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d14b7cb6-e021-3ea5-a9da-1fde05a264ae/5-stocks-to-buy-in-july.html",
-        "providerPublishTime": 1658400600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zAMRyolodU8k7im74.vX9w--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
-                    "width": 1400,
-                    "height": 873,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uTvdjyKZbVCX.xYd7cpwfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XhR__8.iy8ForfG8rvzkbw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/758ae6307160a07d7536166614687ba4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "TGT",
-            "HD",
-            "ROKU",
-            "SBUX"
-        ]
-    },
-    "d1544a74-af1c-3ab9-b6c0-6fa1daad4079": {
-        "uuid": "d1544a74-af1c-3ab9-b6c0-6fa1daad4079",
-        "title": "Starbucks China Rival\u00a0Seeking Funds at $1.2 Billion Value, Sources Say",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/starbucks-china-rival-seeking-funds-074959156.html",
-        "providerPublishTime": 1658389799,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rLTXw9LlQOljNv9q35zcrg--~B/aD0xNTAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/WtvDmDQuDXoiIDoB2owpsQ--~B/aD0xNTAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/d897ffeef5663d81bf1c7cfa84e85430",
-                    "width": 2000,
-                    "height": 1500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FeXV42e66yEC7efOhNf_lQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WtvDmDQuDXoiIDoB2owpsQ--~B/aD0xNTAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/d897ffeef5663d81bf1c7cfa84e85430",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "c8d1ad78-9293-37cd-ae8f-230a08344fa0": {
-        "uuid": "c8d1ad78-9293-37cd-ae8f-230a08344fa0",
-        "title": "Starbucks (SBUX) Outpaces Stock Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/starbucks-sbux-outpaces-stock-market-215009421.html",
-        "providerPublishTime": 1658353809,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
-                    "width": 900,
-                    "height": 745,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX"
-        ]
-    },
-    "b80c55a7-1982-3d2c-9667-8efcc0e39969": {
-        "uuid": "b80c55a7-1982-3d2c-9667-8efcc0e39969",
-        "title": "2 Struggling Stocks That Could Fall Even Further in the Second Half",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b80c55a7-1982-3d2c-9667-8efcc0e39969/2-struggling-stocks-that.html",
-        "providerPublishTime": 1658314500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CvqBenvLtlkwgK_3xxHWJQ--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z5MCvU6mUTV9u99z8qCHPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ae56f47159dc9815e6cea914da3f6c4",
-                    "width": 1400,
-                    "height": 752,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gIzOVVJsHbtnUBSBkKA6jA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Z5MCvU6mUTV9u99z8qCHPg--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ae56f47159dc9815e6cea914da3f6c4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX",
-            "SBUX"
-        ]
-    },
-    "e83cf0a1-fcea-38e4-a1fa-94c680ae467e": {
-        "uuid": "e83cf0a1-fcea-38e4-a1fa-94c680ae467e",
-        "title": "Starbucks Announces Q3 Fiscal Year 2022 Results Conference Call",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/starbucks-announces-q3-fiscal-2022-200500256.html",
-        "providerPublishTime": 1658261100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iuj.YX3CGfuOkZgCl5KBAA--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2SnDy.Om7jqphLumcFKtTQ--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/4c8026bda3f6b0fedabde6edc58d0162",
-                    "width": 480,
-                    "height": 480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/neQZ.UY4AgnZyEGZ5fI1qg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2SnDy.Om7jqphLumcFKtTQ--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/4c8026bda3f6b0fedabde6edc58d0162",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "SBUX"
         ]
     }

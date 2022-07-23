@@ -1,4 +1,114 @@
 {
+    "24679ea8-a054-3d37-998c-68bd7b8cf5b6": {
+        "uuid": "24679ea8-a054-3d37-998c-68bd7b8cf5b6",
+        "title": "It\u2019s a Bear-Market Rally. Whether it Lasts Depends on the Fed.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/24679ea8-a054-3d37-998c-68bd7b8cf5b6/it%E2%80%99s-a-bear-market-rally..html",
+        "providerPublishTime": 1658539140,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jmU6atXgGnCaqNrwKnb4Uw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMUJQHGZAmX8bFXH34J5Lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8455c580f51369173efc946ebe0631c3",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vKTW.YxvZdCoCYF70.Uxxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMUJQHGZAmX8bFXH34J5Lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8455c580f51369173efc946ebe0631c3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "INTC",
+            "TSM",
+            "SSNLF",
+            "GFS"
+        ]
+    },
+    "30052197-b722-3d05-a663-6cdd1a775b02": {
+        "uuid": "30052197-b722-3d05-a663-6cdd1a775b02",
+        "title": "These 10 Companies Upped Guidance Despite Global Economic Headwinds",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-companies-upped-guidance-despite-131652437.html",
+        "providerPublishTime": 1658495812,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SKNxgInRcq6JvRYFE1fYVg--~B/aD00ODk7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7yypmy5ZSP0WNfCEeCxrvQ--~B/aD00ODk7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fe25e8b2ea6512ae48ec312ea037ed79",
+                    "width": 768,
+                    "height": 489,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/REbpeBbcK5SPmTjWS3yCgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7yypmy5ZSP0WNfCEeCxrvQ--~B/aD00ODk7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fe25e8b2ea6512ae48ec312ea037ed79",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AEHR",
+            "REXR-PC",
+            "BIIB",
+            "KNX",
+            "UNH",
+            "SON",
+            "ABT",
+            "TSM"
+        ]
+    },
+    "33c3fa5a-2d02-3686-a804-dbab1bcea48b": {
+        "uuid": "33c3fa5a-2d02-3686-a804-dbab1bcea48b",
+        "title": "10 Companies that Recently Raised Guidance",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-companies-recently-raised-guidance-130424632.html",
+        "providerPublishTime": 1658495064,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nZmMEGzvAP.a6gxWUgYBJQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ylrkqJbh1YSTxvZcNWuGBw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2bcdedba1d0217bdc171ea798064397c",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4LclbNidTIBRXXIL5cfnQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ylrkqJbh1YSTxvZcNWuGBw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2bcdedba1d0217bdc171ea798064397c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DGX",
+            "VMI",
+            "HRI",
+            "VRRMW",
+            "ABT",
+            "BIIB",
+            "TSM"
+        ]
+    },
+    "3c82461b-ba3a-3fae-b4d4-d5b93664bda9": {
+        "uuid": "3c82461b-ba3a-3fae-b4d4-d5b93664bda9",
+        "title": "Semiconductor Investors: 3 Key Takeaways From Recent Earnings",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3c82461b-ba3a-3fae-b4d4-d5b93664bda9/semiconductor-investors%3A-3.html",
+        "providerPublishTime": 1658487600,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSM",
+            "ASML"
+        ]
+    },
     "990b23ca-1cca-3682-ac54-51aa3bcc6dd9": {
         "uuid": "990b23ca-1cca-3682-ac54-51aa3bcc6dd9",
         "title": "China\u2019s Top Chipmaker Achieves Breakthrough Despite US Curbs",
@@ -23,12 +133,12 @@
             ]
         },
         "relatedTickers": [
-            "0981.HK",
-            "SSNLF",
             "ASML",
             "ASMLF",
-            "INTC",
             "SFDMY",
+            "0981.HK",
+            "SSNLF",
+            "INTC",
             "TSM"
         ]
     },
@@ -57,9 +167,9 @@
         },
         "relatedTickers": [
             "TSM",
+            "F",
             "SSNLF",
-            "AAPL",
-            "F"
+            "AAPL"
         ]
     },
     "31d1058e-adcf-3a86-9abf-da32b1d94ce2": {
@@ -126,88 +236,6 @@
             "TSM",
             "INTC",
             "TXN"
-        ]
-    },
-    "bd152559-9f69-3d8c-bc31-1be12337d5b0": {
-        "uuid": "bd152559-9f69-3d8c-bc31-1be12337d5b0",
-        "title": "Intel Spends Record Sum on Lobbying Amid Global Chip Shortage",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/intel-spends-record-sum-lobbying-033323667.html",
-        "providerPublishTime": 1658374403,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8wxY7N4dPQ6NM_v2FE9e8A--~B/aD0yNjYyO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Mn9snL_N80KV.oY5yvoCvA--~B/aD0yNjYyO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/574bcd3ff278f9710b4b9bb4f8489608",
-                    "width": 4000,
-                    "height": 2662,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vBp1JWzZypphgN6uWYkj5Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Mn9snL_N80KV.oY5yvoCvA--~B/aD0yNjYyO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/574bcd3ff278f9710b4b9bb4f8489608",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "QCOM",
-            "TXN",
-            "TSM",
-            "INTC"
-        ]
-    },
-    "18dd4908-c11c-3153-aa37-ce77d5b6eb97": {
-        "uuid": "18dd4908-c11c-3153-aa37-ce77d5b6eb97",
-        "title": "UPDATE 1-Volkswagen to develop new semiconductor with STMicro amid chip crunch",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-volkswagen-develop-semiconductor-stmicro-130410512.html",
-        "providerPublishTime": 1658322250,
-        "type": "STORY",
-        "relatedTickers": [
-            "STM",
-            "VWAPY",
-            "TSM"
-        ]
-    },
-    "30ac363f-e4b4-3ecc-b6ef-f1294cdd3c66": {
-        "uuid": "30ac363f-e4b4-3ecc-b6ef-f1294cdd3c66",
-        "title": "U.S. Senate Edges Forward on Bill to Stimulate U.S. Chip Production",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/30ac363f-e4b4-3ecc-b6ef-f1294cdd3c66/u.s.-senate-edges-forward-on.html",
-        "providerPublishTime": 1658318460,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aQJEtIPFSmkQCb5zNGc3hQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QL2ci4OwsTfvOJK3WjcMgw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/feb9cb92693a530f9a7152e7494bad44",
-                    "width": 1200,
-                    "height": 800,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MBfy03Q8Wy_9tHID0tspHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QL2ci4OwsTfvOJK3WjcMgw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/feb9cb92693a530f9a7152e7494bad44",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "INTC",
-            "TSM"
-        ]
-    },
-    "d268fdac-5cbe-3301-b26c-751725ff87b8": {
-        "uuid": "d268fdac-5cbe-3301-b26c-751725ff87b8",
-        "title": "What TSMC Tells Us About the State of the Chip Industry",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d268fdac-5cbe-3301-b26c-751725ff87b8/what-tsmc-tells-us-about-the.html",
-        "providerPublishTime": 1658313300,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSM"
         ]
     }
 }

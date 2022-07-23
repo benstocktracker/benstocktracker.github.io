@@ -1,7 +1,91 @@
 {
+    "d34f3538-067f-3ef4-a209-7d0568e41e8b": {
+        "uuid": "d34f3538-067f-3ef4-a209-7d0568e41e8b",
+        "title": "Palantir: Some Wall Street Analysts Are Turning Bullish",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/news/palantir-wall-street-analysts-turning-152435573.html",
+        "providerPublishTime": 1658503475,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/x1H.ltG6DWqHABaJPnbptQ--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RLzdmNFtLjkNL2dozxuPiQ--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/3cc721855655f5c897500862bb7e833b",
+                    "width": 400,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8CT0Sz7eUDrxP03m1f2jHg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RLzdmNFtLjkNL2dozxuPiQ--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/3cc721855655f5c897500862bb7e833b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PLTR",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS"
+        ]
+    },
+    "38236d6e-9139-382b-896b-4fe9bc4cc97d": {
+        "uuid": "38236d6e-9139-382b-896b-4fe9bc4cc97d",
+        "title": "Here is What to Know Beyond Why Bank of America Corporation (BAC) is a Trending Stock",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/know-beyond-why-bank-america-130001602.html",
+        "providerPublishTime": 1658494801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UfBIh2Pl.gyxScZAbyc4xg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3YJkCdSXGdMJn6gBH4vqJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC"
+        ]
+    },
+    "a3049ca2-e4b3-382f-9842-9d5df058d9ff": {
+        "uuid": "a3049ca2-e4b3-382f-9842-9d5df058d9ff",
+        "title": "Bank of America: Loan Revenue Is About to Explode",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/a3049ca2-e4b3-382f-9842-9d5df058d9ff/bank-of-america%3A-loan-revenue.html",
+        "providerPublishTime": 1658487000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Jc56XjyPuM_bJw6FQzrchg--~B/aD04MDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pCBF5_H_KZl2.rPTr7GhMA--~B/aD04MDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9154ecfdfb37870567530cc7fdfc6177",
+                    "width": 1400,
+                    "height": 809,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sK1C1o.n4CnrotVhAEonMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pCBF5_H_KZl2.rPTr7GhMA--~B/aD04MDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9154ecfdfb37870567530cc7fdfc6177",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC"
+        ]
+    },
     "e2d66d5b-c96b-389b-a7a7-88c26b4fe1a3": {
         "uuid": "e2d66d5b-c96b-389b-a7a7-88c26b4fe1a3",
-        "title": "Bank of America benefits SA charity through \"leader on loan\" program",
+        "title": "Bank of America benefits SA charity through leadership program",
         "publisher": "American City Business Journals",
         "link": "https://finance.yahoo.com/m/e2d66d5b-c96b-389b-a7a7-88c26b4fe1a3/bank-of-america-benefits-sa.html",
         "providerPublishTime": 1658432306,
@@ -52,13 +136,13 @@
             ]
         },
         "relatedTickers": [
-            "XOM",
-            "JPM",
-            "MS",
-            "MS-PO",
             "BAC",
             "BAC-PQ",
             "BAC-PS",
+            "JPM",
+            "MS",
+            "MS-PO",
+            "XOM",
             "CVX"
         ]
     },
@@ -139,81 +223,6 @@
             "BAC-PQ",
             "BAC-PS",
             "BMO"
-        ]
-    },
-    "8112b5f1-0365-35e2-ad90-d7838c9171a9": {
-        "uuid": "8112b5f1-0365-35e2-ad90-d7838c9171a9",
-        "title": "1 Risk You Should Know Before You Buy Bank of America Stock",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8112b5f1-0365-35e2-ad90-d7838c9171a9/1-risk-you-should-know-before.html",
-        "providerPublishTime": 1658403000,
-        "type": "STORY",
-        "relatedTickers": [
-            "BAC"
-        ]
-    },
-    "226c20fe-b7f5-34bf-96d1-e3750cc99bb9": {
-        "uuid": "226c20fe-b7f5-34bf-96d1-e3750cc99bb9",
-        "title": "Bank of America to permanently close branch in heart of Dilworth this fall",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/226c20fe-b7f5-34bf-96d1-e3750cc99bb9/bank-of-america-to.html",
-        "providerPublishTime": 1658400000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aFJuf559SiIYqfFVwP0mIA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eWpXjEG9BUaEWSXbmAEkmw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3153797f45cbb55eeb598032b027d503",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZX9sZ8kWCeYBxL8NiZgbAA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eWpXjEG9BUaEWSXbmAEkmw--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3153797f45cbb55eeb598032b027d503",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS"
-        ]
-    },
-    "d7e30eef-9f23-3f04-b53b-a396a5df785e": {
-        "uuid": "d7e30eef-9f23-3f04-b53b-a396a5df785e",
-        "title": "5 Stocks I'm Betting the Farm On",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d7e30eef-9f23-3f04-b53b-a396a5df785e/5-stocks-i%27m-betting-the-farm.html",
-        "providerPublishTime": 1658395260,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Edcl.226DVpCUUMOB2YmOQ--~B/aD0xMDcxO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/x7SRwrGLZUYxvrFWOvSBvA--~B/aD0xMDcxO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/89cb3d372b2aa939f781bcc620f93bda",
-                    "width": 1400,
-                    "height": 1071,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8foYLUQETFSVmrb2sKKTsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/x7SRwrGLZUYxvrFWOvSBvA--~B/aD0xMDcxO3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/89cb3d372b2aa939f781bcc620f93bda",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SI=F",
-            "ZI=F",
-            "GC=F",
-            "ZG=F",
-            "SSRM",
-            "TEVA",
-            "LOVE",
-            "BAC",
-            "AG"
         ]
     }
 }

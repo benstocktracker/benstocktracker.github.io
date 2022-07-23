@@ -1,4 +1,128 @@
 {
+    "9b4043f1-4561-31d1-9762-f0de310751fe": {
+        "uuid": "9b4043f1-4561-31d1-9762-f0de310751fe",
+        "title": "Dow Jones Stocks Brace For Huge Earnings Week",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/9b4043f1-4561-31d1-9762-f0de310751fe/dow-jones-stocks-brace-for.html",
+        "providerPublishTime": 1658521479,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T7J9no3HsxJ5Nz6zWuhM2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MQ0V37eJs4N38QQ9linwtA--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7fb299d8de95395c8ce5e424c2049073",
+                    "width": 1012,
+                    "height": 572,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/k9HNYoqqEY_nYnCbsBki4g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MQ0V37eJs4N38QQ9linwtA--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7fb299d8de95395c8ce5e424c2049073",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "MCD",
+            "CVX",
+            "KO"
+        ]
+    },
+    "ac96418d-d991-3b09-9e5b-26fde185c9e5": {
+        "uuid": "ac96418d-d991-3b09-9e5b-26fde185c9e5",
+        "title": "Read Morgan Stanley's Take On Shifting Spending Patterns Amid Rising Inflation",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/read-morgan-stanleys-shifting-spending-162215638.html",
+        "providerPublishTime": 1658506935,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bTORrnH7PsZUa1K8lv8nFw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/rk_7i6lK1dJiB2ocPoxWuA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/01ca7935816ddf264204bc9fc563dda0",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GFtl3c8RnlDCE1is.P0Yeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rk_7i6lK1dJiB2ocPoxWuA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/01ca7935816ddf264204bc9fc563dda0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO"
+        ]
+    },
+    "691bf50d-5168-3342-a505-3a54b042078d": {
+        "uuid": "691bf50d-5168-3342-a505-3a54b042078d",
+        "title": "10 Stocks to Buy Before Their Earnings Reports",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-buy-earnings-reports-154747567.html",
+        "providerPublishTime": 1658504867,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hWwmmeAB13ZhJesqvIe4bg--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/v.UWue.L3lFGrhyGjcv73A--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a05564366cf0c2e41fa9afec9644152b",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5oYFmNLEiBDqw0y9a7cEOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/v.UWue.L3lFGrhyGjcv73A--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a05564366cf0c2e41fa9afec9644152b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO",
+            "QCOM",
+            "FUNC",
+            "GOOGL",
+            "MSFT",
+            "AAPL",
+            "PG"
+        ]
+    },
+    "afaf70ca-7081-3c32-8f60-1290ac2281c7": {
+        "uuid": "afaf70ca-7081-3c32-8f60-1290ac2281c7",
+        "title": "10 Stocks Least Vulnerable to Recession",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-least-vulnerable-recession-130409658.html",
+        "providerPublishTime": 1658495049,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hL2tValX0jmfqLRLmpaycQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/cM3g4gPw5ElHZm_5skjMYA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72bc752715dc9b53b4dedd0c00352659",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jYdITfQhbV.2nt8mTIG9Tg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cM3g4gPw5ElHZm_5skjMYA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72bc752715dc9b53b4dedd0c00352659",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DTE",
+            "KHC",
+            "DUK",
+            "D",
+            "CL",
+            "KO",
+            "PG",
+            "JNJ"
+        ]
+    },
     "b022af7b-31df-332e-ad01-912f5f6b53d6": {
         "uuid": "b022af7b-31df-332e-ad01-912f5f6b53d6",
         "title": "Coca-Cola's top financial officer John Murphy to add president role after Brian Smith's retirement",
@@ -120,114 +244,6 @@
             "KO",
             "CL",
             "MRK"
-        ]
-    },
-    "35f4a05f-459f-3753-8f1d-d15d6625b3f0": {
-        "uuid": "35f4a05f-459f-3753-8f1d-d15d6625b3f0",
-        "title": "John Murphy to Become President and Chief Financial Officer of The Coca-Cola Company",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/john-murphy-become-president-chief-123000525.html",
-        "providerPublishTime": 1658406600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EDRQwClRmzoTACF6WOLXYw--~B/aD00ODA7dz00MDY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AicFDc142Q.Edpm0UtXzQw--~B/aD00ODA7dz00MDY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/ab3c66a7361bcf4073a602ef4246a941",
-                    "width": 406,
-                    "height": 480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.HO6lnmgKsymfwYPsGp74Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AicFDc142Q.Edpm0UtXzQw--~B/aD00ODA7dz00MDY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/ab3c66a7361bcf4073a602ef4246a941",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO"
-        ]
-    },
-    "231393e2-07a2-3b00-a0a2-0d96f9d1ca4c": {
-        "uuid": "231393e2-07a2-3b00-a0a2-0d96f9d1ca4c",
-        "title": "Coca-Cola Board of Directors Declares Regular Quarterly Dividend",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/coca-cola-board-directors-declares-120000341.html",
-        "providerPublishTime": 1658404800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jQAkpSeh1wK4atqXUfcLcA--~B/aD00ODA7dz00MDY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6a8E5G4pXxt7_V.NDHtUBA--~B/aD00ODA7dz00MDY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/9f588e7ace1c5447bc4280f71194c5e3",
-                    "width": 406,
-                    "height": 480,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uWGnQLO31LmAWcKe3DG2Uw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6a8E5G4pXxt7_V.NDHtUBA--~B/aD00ODA7dz00MDY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/9f588e7ace1c5447bc4280f71194c5e3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO"
-        ]
-    },
-    "3fa79b0b-88ae-3970-8a19-0bfc135307c5": {
-        "uuid": "3fa79b0b-88ae-3970-8a19-0bfc135307c5",
-        "title": "Sales Are Surging for Coca-Cola -- Should You Buy Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3fa79b0b-88ae-3970-8a19-0bfc135307c5/sales-are-surging-for.html",
-        "providerPublishTime": 1658400060,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bYVoPfJW6.dRQ6RhbQEmlg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9Q1Fmfj3AT2wIMs.MCyNjg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a17335c49e489f767d80c89dbecccc74",
-                    "width": 1400,
-                    "height": 873,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mQk.ZRq.spGub7XRJTkz_A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9Q1Fmfj3AT2wIMs.MCyNjg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a17335c49e489f767d80c89dbecccc74",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO"
-        ]
-    },
-    "0aad3bea-54da-392c-aa49-00c6dd986c4c": {
-        "uuid": "0aad3bea-54da-392c-aa49-00c6dd986c4c",
-        "title": "Coca-Cola Q2 Preview: Can the Earnings Streak Continue?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/coca-cola-q2-preview-earnings-204208010.html",
-        "providerPublishTime": 1658349728,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WndhnORG.r.i3_oYp6wTbA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xkUUsrUkd9Clt_.DQTzJaQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/68d0630f829e1f0c836d5ef5fd36d932",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WBWzClUJwY83gMqQt9NK3A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xkUUsrUkd9Clt_.DQTzJaQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/68d0630f829e1f0c836d5ef5fd36d932",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO"
         ]
     }
 }

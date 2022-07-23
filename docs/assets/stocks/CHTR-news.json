@@ -1,4 +1,32 @@
 {
+    "db7bd228-384a-3c9f-abdc-ee57cd702906": {
+        "uuid": "db7bd228-384a-3c9f-abdc-ee57cd702906",
+        "title": "Charter Communications (CHTR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/charter-communications-chtr-earnings-expected-140002147.html",
+        "providerPublishTime": 1658498402,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EImgd0LqW8h3S_wmSALeYw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ZVGBNd2_.kAicju5mLde7g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/W6hHOIKhj.VjzK9UJKmWeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZVGBNd2_.kAicju5mLde7g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR",
+            "CMCSA"
+        ]
+    },
     "d0d3b581-88fc-38af-8fca-bb19024e1d7d": {
         "uuid": "d0d3b581-88fc-38af-8fca-bb19024e1d7d",
         "title": "6 Favorite Stock Picks of Munir Javeri\u2019s 3G Sahana Capital Management",
@@ -191,39 +219,6 @@
         },
         "relatedTickers": [
             "CHTR"
-        ]
-    },
-    "d4045699-3450-3c76-92b6-fb18f96bf7b4": {
-        "uuid": "d4045699-3450-3c76-92b6-fb18f96bf7b4",
-        "title": "7 Warren Buffett Stocks to Buy and Hold for the Next Decade",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-warren-buffett-stocks-buy-143849687.html",
-        "providerPublishTime": 1656513529,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Tu4HhBzS.GM0DBFRRcanoQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2jJRWBfDYFDVzL.q6cB59w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5314b134984a5aa9416d8a20ab5b5cb4",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0OPumnUJE_J.cZDMGZoqpg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2jJRWBfDYFDVzL.q6cB59w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/5314b134984a5aa9416d8a20ab5b5cb4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHTR",
-            "VZ",
-            "KO",
-            "ITOCY",
-            "AAPL",
-            "LSXMK",
-            "RH"
         ]
     }
 }

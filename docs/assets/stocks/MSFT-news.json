@@ -1,76 +1,21 @@
 {
-    "358dfd03-3167-3f9e-a5a2-83de8b3e6ad0": {
-        "uuid": "358dfd03-3167-3f9e-a5a2-83de8b3e6ad0",
-        "title": "Is Netflix\u2019s best hope an acquisition by Microsoft?",
-        "publisher": "Quartz",
-        "link": "https://finance.yahoo.com/m/358dfd03-3167-3f9e-a5a2-83de8b3e6ad0/is-netflix%E2%80%99s-best-hope-an.html",
-        "providerPublishTime": 1658439701,
+    "3e1be26b-5235-38c0-9c22-84547ae5f971": {
+        "uuid": "3e1be26b-5235-38c0-9c22-84547ae5f971",
+        "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
+        "providerPublishTime": 1658529705,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/V8yS3PFWKkNW9XV44omVgA--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nTi_TQRLuKfINjo4O5NEiQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/da6eb0b95d72e4a77f0bd0f9a9459c48",
-                    "width": 620,
-                    "height": 348,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.KY51zq22_qU98yLwUAo_g--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+                    "width": 1012,
+                    "height": 572,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NpRArxBBj.F4IFkbyRd3OA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nTi_TQRLuKfINjo4O5NEiQ--~B/aD0zNDg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz.com-nonhosted/da6eb0b95d72e4a77f0bd0f9a9459c48",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "MSFT"
-        ]
-    },
-    "e1bc84da-26a6-313e-9fd5-0ebc352f8ab3": {
-        "uuid": "e1bc84da-26a6-313e-9fd5-0ebc352f8ab3",
-        "title": "Microsoft cuts job openings as cooling economy hits tech industry",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/e1bc84da-26a6-313e-9fd5-0ebc352f8ab3/microsoft-cuts-job-openings.html",
-        "providerPublishTime": 1658436793,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lQ_88di6q6zwPXgtW.hqbw--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2SLhpfgHiSE5Wx3T9ZBG1Q--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/aa2bd4889caf0e002661cd01391ba48d",
-                    "width": 1440,
-                    "height": 961,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lV0gp7jD8Wi5_uywRuVRJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2SLhpfgHiSE5Wx3T9ZBG1Q--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/aa2bd4889caf0e002661cd01391ba48d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT"
-        ]
-    },
-    "7cd10ab5-2d69-33b2-ba81-68e9783e0d21": {
-        "uuid": "7cd10ab5-2d69-33b2-ba81-68e9783e0d21",
-        "title": "Market strategist explains why she \u2018started adding risk back\u2019 into portfolios",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-strategist-explains-why-she-194429448.html",
-        "providerPublishTime": 1658432669,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OnBJyTeaCQz2EvzHFZMjsw--~B/aD0xNzU2O3c9MzEyNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
-                    "width": 3124,
-                    "height": 1756,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qmccYo5EUmeXcjvz03zuaA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7e833620-092d-11ed-bcd7-a9cca4124928",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SjlUigfqdlTJJ_NzKoNzvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -79,97 +24,32 @@
         },
         "relatedTickers": [
             "^GSPC",
-            "XLF",
             "^DJI",
-            "XLI",
-            "AMZN",
-            "META",
+            "LI",
             "AAPL",
-            "SOXX",
-            "GOOG",
             "GOOGL",
-            "DX-Y.NYB",
-            "^IXIC",
+            "COMP",
+            "DLTR",
             "MSFT"
         ]
     },
-    "f9e3c029-2453-38e6-a9bf-eedc0ce911bd": {
-        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
-        "title": "Top Millennial, Gen Z Picks Shift To Dividend-Paying Stocks; No. 1 Stock Tesla Roars Ahead After Beating Earnings Estimates",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-picks.html",
-        "providerPublishTime": 1658426967,
+    "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d": {
+        "uuid": "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d",
+        "title": "Not All Tech CEOs Are Created Equal. Here Are Some of the Best.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d/not-all-tech-ceos-are-created.html",
+        "providerPublishTime": 1658529060,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ygj244o_N_7AghdizcXBZw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yVHiPyQb8ExjvgY1.NKEPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JYsp5hKyJbd_28HRU8ruOA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e7cc27ae1771d244575433a4d2a3619a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "AMC",
-            "AAPL",
-            "AMD",
-            "MSFT",
-            "NVDA"
-        ]
-    },
-    "0547440d-0cae-38d8-be26-4db96ad352cc": {
-        "uuid": "0547440d-0cae-38d8-be26-4db96ad352cc",
-        "title": "Microsoft and Google Bring Bad News for the Economy",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/0547440d-0cae-38d8-be26-4db96ad352cc/microsoft-and-google-bring.html",
-        "providerPublishTime": 1658426460,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UVrlzZct99AABJKkb8nbmg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mR4wB_DpT9qa1twrQV8Uqg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/35912d3967dbb3404a129e710e5b7b31",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/O3bdQJB9EsVxtlwhHYiEMA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mR4wB_DpT9qa1twrQV8Uqg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/35912d3967dbb3404a129e710e5b7b31",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "GOOGL"
-        ]
-    },
-    "5b9e0eaf-b761-3eeb-b753-1c2d6c806a52": {
-        "uuid": "5b9e0eaf-b761-3eeb-b753-1c2d6c806a52",
-        "title": "\u2018People will freak out\u2019 \u2014 The cloud boom is coming back to earth, and that could be scary for tech stocks",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/5b9e0eaf-b761-3eeb-b753-1c2d6c806a52/%E2%80%98people-will-freak-out%E2%80%99-%E2%80%94-the.html",
-        "providerPublishTime": 1658423820,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JjJSG_tvd1eyDRvvRgRRPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YpEn9ZkKXUTUTQZaAwj4lA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b0bbdf20d1421549c2dd0e8a0cd66d51",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/49n7Vr_qjV8lGvAQSAxTRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ee0JxQlLE9pA4Mwxr50sxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/37b9393ae7953d7ea3e06ffa036706e7",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vS4xfFYYqgv5bwcf8gJV8Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/YpEn9ZkKXUTUTQZaAwj4lA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b0bbdf20d1421549c2dd0e8a0cd66d51",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UEIowj.PotLx1F5.5zt._A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ee0JxQlLE9pA4Mwxr50sxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/37b9393ae7953d7ea3e06ffa036706e7",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -178,30 +58,126 @@
         },
         "relatedTickers": [
             "MSFT",
-            "BABA",
-            "BABAF",
+            "U",
+            "AAPL",
+            "INTC",
+            "SHOP"
+        ]
+    },
+    "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
+        "uuid": "e82300d9-346e-3f35-ac82-65fb6c19ade8",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/e82300d9-346e-3f35-ac82-65fb6c19ade8/weekly-roundup.html",
+        "providerPublishTime": 1658527680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tfNk.YVijUMdToJ5Uy9SLQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
+                    "width": 1200,
+                    "height": 800,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I950qi.WStWQXU_xRqd01w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VZ",
+            "NVDA",
+            "GOOGL",
+            "^GSPC",
+            "AMD",
+            "NUE",
+            "AAPL",
+            "MSFT"
+        ]
+    },
+    "530d596d-c6dd-3af3-9ff1-f3da096184ac": {
+        "uuid": "530d596d-c6dd-3af3-9ff1-f3da096184ac",
+        "title": "Caveday virtual spaces guide workers to boost 'monotasking,' co-founder says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/caveday-virtual-spaces-guide-workers-204034521.html",
+        "providerPublishTime": 1658522434,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/heOyEHIE1LiVuuGSZoVW1A--~B/aD0yODc7dz01MDk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/629e5440-09fe-11ed-a7fa-2f221208abd6",
+                    "width": 509,
+                    "height": 287,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ls2VvUBj78jedpfV6QGW_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/629e5440-09fe-11ed-a7fa-2f221208abd6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MSFT",
             "GOOG",
             "GOOGL",
+            "ZM",
+            "CRM"
+        ]
+    },
+    "01828bc5-4488-3e62-b1de-34ea55255271": {
+        "uuid": "01828bc5-4488-3e62-b1de-34ea55255271",
+        "title": "Progressive Caucus Asks Schumer to Set Vote on Antitrust Bills",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/progressive-caucus-asks-schumer-set-202901686.html",
+        "providerPublishTime": 1658521741,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iMchpH5r9ImkyBMObBhCiA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/S2KdxGa.PW0_U0ygrLFrBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "META",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
             "AMZN"
         ]
     },
-    "69dde337-3caa-3198-bae3-f973ab3acefc": {
-        "uuid": "69dde337-3caa-3198-bae3-f973ab3acefc",
-        "title": "Microsoft, Google Are Latest Tech Giants to Hit Brakes on Hiring",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/microsoft-google-latest-tech-giants-232957843.html",
-        "providerPublishTime": 1658422824,
-        "type": "STORY",
+    "946dc764-4a7c-3e6b-a7e0-e031ac765f93": {
+        "uuid": "946dc764-4a7c-3e6b-a7e0-e031ac765f93",
+        "title": "Inflation: The Fed 'doesn't have the guts' to raise interest rates by 6 to 7%, strategist says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/inflation-fed-doesnt-guts-raise-194331344.html",
+        "providerPublishTime": 1658519011,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1OVFy36dedDCGmDPAZnKPg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/DUxsNkbC.GQT.1KXToMiSQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/344152fbd608e83dd72318700f95ccde",
-                    "width": 2000,
-                    "height": 1334,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NQgKSrW._HaplZVPywkCDw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CkD..BCY9VFkBpCr9tPSCw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DUxsNkbC.GQT.1KXToMiSQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/344152fbd608e83dd72318700f95ccde",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_TGJtIXC6wytMVjpbchqzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47063f70-09f6-11ed-925f-eabaacc63c8b",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -209,45 +185,34 @@
             ]
         },
         "relatedTickers": [
-            "COMP",
-            "HOOD",
-            "TSLA",
-            "NFLX",
-            "LYFT",
-            "PTON",
-            "TWTR",
-            "AMZN",
-            "RDFN",
-            "RIVN",
-            "AAPL",
-            "SPOT",
             "META",
-            "COIN",
-            "MSFT",
-            "CVNA",
-            "UBER",
-            "W",
             "GOOG",
-            "GOOGL"
+            "GOOGL",
+            "AMZN",
+            "MSFT",
+            "^DJI",
+            "^GSPC",
+            "^IXIC",
+            "AAPL"
         ]
     },
-    "23e502c2-a2cd-3aab-903a-845fe90f8ceb": {
-        "uuid": "23e502c2-a2cd-3aab-903a-845fe90f8ceb",
-        "title": "Credit Suisse Analyzes Oracle Accelerating Lift-And-Shift To OCI With Friendly Cloud Rival",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/credit-suisse-analyzes-oracle-accelerating-160527860.html",
-        "providerPublishTime": 1658419527,
-        "type": "STORY",
+    "4ad2b6f5-6710-321e-8e41-5e922bbbad78": {
+        "uuid": "4ad2b6f5-6710-321e-8e41-5e922bbbad78",
+        "title": "Tech stocks: Where to find 'safety,' according to one analyst",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/tech-stocks-where-safety-according-193943408.html",
+        "providerPublishTime": 1658518783,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/erg8EURtun7IbF4Xd93b6A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zc80CTnBg1eP84WhtVF5Ig--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/1616525c203683b4a894f0d7be1a91e8",
-                    "width": 600,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ha3GQeh56TDCqKqZGLM.TA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/028b93e0-09f6-11ed-b8a9-123751ec79b7",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/t4KNBhPL5vMnmAlAVhHyhg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zc80CTnBg1eP84WhtVF5Ig--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/1616525c203683b4a894f0d7be1a91e8",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/76EkPcvTT48ze3qXkyMbXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/028b93e0-09f6-11ed-b8a9-123751ec79b7",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -255,8 +220,44 @@
             ]
         },
         "relatedTickers": [
-            "ORCL",
-            "MSFT"
+            "AMZN",
+            "GOOG",
+            "GOOGL",
+            "XLK",
+            "MSFT",
+            "AAPL",
+            "TWTR",
+            "META"
+        ]
+    },
+    "7174e373-c466-3f6d-ad8b-ae1fd92c3ac9": {
+        "uuid": "7174e373-c466-3f6d-ad8b-ae1fd92c3ac9",
+        "title": "Previewing Big Tech Earnings Ahead of a Huge Week for Wall Street",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/previewing-big-tech-earnings-ahead-193807446.html",
+        "providerPublishTime": 1658518687,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/u4KUASx2vCWA4TjL.WFlow--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9luckxOk8kuyxVFOBDXD7g--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80c3b0044109952d2ccd07e54852806c",
+                    "width": 620,
+                    "height": 349,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3nUwYmx6gxTutlJ010VRGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9luckxOk8kuyxVFOBDXD7g--~B/aD0zNDk7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/80c3b0044109952d2ccd07e54852806c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GOOGL",
+            "^GSPC",
+            "MSFT",
+            "AMZN"
         ]
     }
 }

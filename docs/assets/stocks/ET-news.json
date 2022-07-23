@@ -1,7 +1,40 @@
 {
+    "03e4f54e-cea7-3099-ae7b-53560c1c944d": {
+        "uuid": "03e4f54e-cea7-3099-ae7b-53560c1c944d",
+        "title": "The Companies Taking Advantage Of America\u2019s LNG Boom",
+        "publisher": "Oilprice.com",
+        "link": "https://finance.yahoo.com/news/companies-taking-advantage-america-lng-000000486.html",
+        "providerPublishTime": 1658448000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vObjrC2X5Pg1mlXFiJWDHg--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ZzDWljAGhYDf6o8G7R_HsQ--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a8cbd32466e4763e2559df596b6114f6",
+                    "width": 450,
+                    "height": 357,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aqAjUIEKKKDtp5UaeiE0PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZzDWljAGhYDf6o8G7R_HsQ--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a8cbd32466e4763e2559df596b6114f6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F",
+            "NG=F",
+            "LNG",
+            "MPLX",
+            "DVN",
+            "ET-PD",
+            "KMI"
+        ]
+    },
     "df6ecda5-3a69-36d9-b724-3244d34c9350": {
         "uuid": "df6ecda5-3a69-36d9-b724-3244d34c9350",
-        "title": "2 \u2018Strong Buy\u2019 Stocks That \u2018In-The-Know\u2019 Bigwigs Pouring Money Into",
+        "title": "2 \u2018Strong Buy\u2019 Stocks That \u2018In-The-Know\u2019 Bigwigs Are Pouring Money Into",
         "publisher": "TipRanks",
         "link": "https://finance.yahoo.com/news/2-strong-buy-stocks-know-222116423.html",
         "providerPublishTime": 1658442076,
@@ -182,33 +215,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/o6VhAe2Lh5wjpYDfWJVJYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "d64989f0-bcbd-3981-8727-2b376ba30518": {
-        "uuid": "d64989f0-bcbd-3981-8727-2b376ba30518",
-        "title": "Energy Transfer LP (ET) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509567.html",
-        "providerPublishTime": 1657748709,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/R8B4awdI246EbZIDm2Hv5Q--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/t6.OdXEVKQihFo9otNenfg--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
-                    "width": 900,
-                    "height": 565,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/XmEjhHQKxU2qqFLKIIPZbw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t6.OdXEVKQihFo9otNenfg--~B/aD01NjU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
