@@ -26,6 +26,34 @@
             "FRT"
         ]
     },
+    "9bdd6f1a-13f9-326c-88ad-a01bb9ed92ab": {
+        "uuid": "9bdd6f1a-13f9-326c-88ad-a01bb9ed92ab",
+        "title": "3 Quality REITs to Buy With Secure Dividends",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/3-quality-reits-buy-secure-145702482.html",
+        "providerPublishTime": 1658501822,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iAKekwkm_0G8I1cZAMryoA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yHC8hlo96I3RIPP8gDlitg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/dec78d100e9eea0f147648a3dc492c81",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/59ddOOTwZy_1dnn5pixPgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yHC8hlo96I3RIPP8gDlitg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/dec78d100e9eea0f147648a3dc492c81",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT",
+            "O"
+        ]
+    },
     "7f1dd895-443d-30e6-a2c2-e043cba754c5": {
         "uuid": "7f1dd895-443d-30e6-a2c2-e043cba754c5",
         "title": "Better Bear Market Buy: Medical Properties Trust vs. Federal Realty",
@@ -169,17 +197,6 @@
             "ABT",
             "LOW",
             "KMB"
-        ]
-    },
-    "8dcd1996-a021-3f10-a9ba-33c5b7e89058": {
-        "uuid": "8dcd1996-a021-3f10-a9ba-33c5b7e89058",
-        "title": "Why You Won't Want to Miss This Elite Dividend Stock",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8dcd1996-a021-3f10-a9ba-33c5b7e89058/why-you-won%27t-want-to-miss.html",
-        "providerPublishTime": 1657630800,
-        "type": "STORY",
-        "relatedTickers": [
-            "FRT"
         ]
     }
 }

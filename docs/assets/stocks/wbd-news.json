@@ -1,142 +1,49 @@
 {
-    "aa3989ea-a1df-3b99-8726-419e177a854a": {
-        "uuid": "aa3989ea-a1df-3b99-8726-419e177a854a",
-        "title": "Here\u2019s everything new coming to HBO Max in August 2022",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/aa3989ea-a1df-3b99-8726-419e177a854a/here%E2%80%99s-everything-new-coming.html",
-        "providerPublishTime": 1658443260,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4uMGCbiWV6LWEhoIgRmFxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7RUgMDdru0w73Gmk1wDEJw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/772160f4b33ad40d92d0b3be48b03b76",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ghZJv0PgFqz_WFYjhrZ88A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7RUgMDdru0w73Gmk1wDEJw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/772160f4b33ad40d92d0b3be48b03b76",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBD"
-        ]
-    },
-    "2c130dbe-6b6c-3d4f-8f2a-7640369dca39": {
-        "uuid": "2c130dbe-6b6c-3d4f-8f2a-7640369dca39",
-        "title": "Margot Robbie and Ryan Gosling both earned $12.5 million for the Barbie movie",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/margot-robbie-ryan-gosling-both-213347816.html",
-        "providerPublishTime": 1658439227,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bAYSjIQEE8VZtxaPuBclxw--~B/aD0xNDkwO3c9MjY1NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ccecc470-093c-11ed-9ffd-e344d3181b6b",
-                    "width": 2654,
-                    "height": 1490,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tM7CWw69n78CUpR_6GBTiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ccecc470-093c-11ed-9ffd-e344d3181b6b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MAT",
-            "WBD"
-        ]
-    },
-    "a45a800f-835d-3588-be69-78c386d8b816": {
-        "uuid": "a45a800f-835d-3588-be69-78c386d8b816",
-        "title": "AT&T Stock Is Falling, But Its Dividend Yield Is Getting Even Bigger",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a45a800f-835d-3588-be69-78c386d8b816/at%26t-stock-is-falling%2C-but.html",
-        "providerPublishTime": 1658435160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E12.kfFoRr3CT0BlPBbhSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uZm1qSbX6m_URB9kJbIaFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "WBD",
-            "^GSPC",
-            "MO",
-            "VZ"
-        ]
-    },
-    "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f": {
-        "uuid": "d4d0bdbc-be28-3932-ba41-d33c44a2ec4f",
-        "title": "AT&T Stock Drops Despite Adding Subscribers. Here\u2019s Why.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/d4d0bdbc-be28-3932-ba41-d33c44a2ec4f/at%26t-stock-drops-despite.html",
-        "providerPublishTime": 1658414460,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zWOq2Ckcyt_Bbc6RiuOqQQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NDDvcC6eMZgal90UAWs.ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yNY4IsRQYZ6B1SfovLZsPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/6be67036d7ec55f2cbee91028fc3ec3f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBD",
-            "T",
-            "T-PA",
-            "T-PC",
-            "TMUS",
-            "^GSPC",
-            "VZ"
-        ]
-    },
-    "cb21cf6d-7ad2-372e-9096-1f5535963904": {
-        "uuid": "cb21cf6d-7ad2-372e-9096-1f5535963904",
-        "title": "Quidditch Ditches \u2018Harry Potter\u2019 and J.K. Rowling, Rebrands Itself \u2018Quadball\u2019",
+    "d37ac5f6-3ca0-3e5e-b53d-431ce87ce2a5": {
+        "uuid": "d37ac5f6-3ca0-3e5e-b53d-431ce87ce2a5",
+        "title": "Chris Cuomo Gets New TV-Host Gig With NewsNation",
         "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/cb21cf6d-7ad2-372e-9096-1f5535963904/quidditch-ditches-%E2%80%98harry.html",
-        "providerPublishTime": 1658353920,
+        "link": "https://finance.yahoo.com/m/d37ac5f6-3ca0-3e5e-b53d-431ce87ce2a5/chris-cuomo-gets-new-tv-host.html",
+        "providerPublishTime": 1658886600,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nex63rT2EtpwQBPPQbEfpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WcFr2q3_NGLaF2BpyjnnVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d075bc5224c4057934d88c6fe797a522",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QQjrHFRkteTtTziX_pitFQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aSwPsBNw66obXoEvawlvUg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f22a59d765066c4256dac770191c7477",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/m.CJK82WdpfC9U2oSFeJiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WcFr2q3_NGLaF2BpyjnnVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/d075bc5224c4057934d88c6fe797a522",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_9heRsy6BPFaXDVa9n9PUg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aSwPsBNw66obXoEvawlvUg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f22a59d765066c4256dac770191c7477",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD",
+            "NXST"
+        ]
+    },
+    "e6542966-a2e9-3ced-a858-40f7ad2079a9": {
+        "uuid": "e6542966-a2e9-3ced-a858-40f7ad2079a9",
+        "title": "WARNER BROS. DISCOVERY TO REPORT SECOND-QUARTER 2022 RESULTS ON THURSDAY, AUGUST 4",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/warner-bros-discovery-report-second-200100944.html",
+        "providerPublishTime": 1658865660,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iooGWE.5d1GBfOvGnK_xNQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5P9hfIGrrVbkh4GnBInBbA--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/bbaea36e6db1f0689345d65b0186d2b8",
+                    "width": 16,
+                    "height": 16,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iJok_sj3ckJB9WsXXjKdEQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5P9hfIGrrVbkh4GnBInBbA--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/bbaea36e6db1f0689345d65b0186d2b8",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -147,23 +54,23 @@
             "WBD"
         ]
     },
-    "b53fbb21-49c2-379c-8799-9192ff083022": {
-        "uuid": "b53fbb21-49c2-379c-8799-9192ff083022",
-        "title": "Netflix earnings send streaming stocks higher",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/netflix-earnings-send-streaming-stocks-152625124.html",
-        "providerPublishTime": 1658330785,
-        "type": "VIDEO",
+    "7d881854-339f-37f7-b104-6d1595db2e0d": {
+        "uuid": "7d881854-339f-37f7-b104-6d1595db2e0d",
+        "title": "Paramount stock drops after bearish call by Goldman Sachs",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/7d881854-339f-37f7-b104-6d1595db2e0d/paramount-stock-drops-after.html",
+        "providerPublishTime": 1658859960,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zC90cBN5ZPtS.mjV38qfEA--~B/aD0yMTA7dz0zNzQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4ae9f850-0840-11ed-beef-3398209adf35",
-                    "width": 374,
-                    "height": 210,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/d6k19YwstijJTNs9097Cdg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1oHzYxsfHBr0ombxmVWO7A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/dca3b496be84f61ffe1a7fd77cdd89ec",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mtMQWctMs6wgixSi7dPybw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4ae9f850-0840-11ed-beef-3398209adf35",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZghdtbAXqBni0u57zfNwSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1oHzYxsfHBr0ombxmVWO7A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/dca3b496be84f61ffe1a7fd77cdd89ec",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -171,42 +78,29 @@
             ]
         },
         "relatedTickers": [
-            "FUBO",
-            "T",
-            "T-PA",
-            "T-PC",
-            "NLSN",
-            "GOOG",
-            "GOOGL",
-            "NFLX",
-            "CMCSA",
-            "ROKU",
-            "AMZN",
-            "DIS",
             "WBD",
-            "AAPL",
             "PARA",
             "PARAA",
             "PARAP"
         ]
     },
-    "3e28bb36-417d-370a-a75e-2d5b6ab4a0cb": {
-        "uuid": "3e28bb36-417d-370a-a75e-2d5b6ab4a0cb",
-        "title": "Disney, Roku, and Other Streaming Stocks Rise Sharply After Netflix\u2019s Earnings",
+    "5bfca897-5305-3110-8105-60618f93a4e5": {
+        "uuid": "5bfca897-5305-3110-8105-60618f93a4e5",
+        "title": "Buy Warner Bros. Discovery, Goldman Says. The Merger Will Drive Up the Stock.",
         "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/3e28bb36-417d-370a-a75e-2d5b6ab4a0cb/disney%2C-roku%2C-and-other.html",
-        "providerPublishTime": 1658329560,
+        "link": "https://finance.yahoo.com/m/5bfca897-5305-3110-8105-60618f93a4e5/buy-warner-bros.-discovery%2C.html",
+        "providerPublishTime": 1658858880,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KCfRiuMEa39dMjqmpA1HAA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OpVQUMp_6vxPTBoVCjiM_g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/cf303acd011fbcb7bc87e86dd187801c",
-                    "width": 1279,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5QOrxIrZ2VuIoHBTJgbf1Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFoerI5s524pcI4BuRQWmw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/989fc4549cefe683351f0314037e91bc",
+                    "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6m_2tYYTIK1oPFhfZhc03A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OpVQUMp_6vxPTBoVCjiM_g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/cf303acd011fbcb7bc87e86dd187801c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kKwIz5w0Z8p2sdCRUTwsjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BFoerI5s524pcI4BuRQWmw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/989fc4549cefe683351f0314037e91bc",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -214,32 +108,29 @@
             ]
         },
         "relatedTickers": [
-            "DIS",
             "WBD",
             "PARA",
             "PARAA",
-            "PARAP",
-            "ROKU",
-            "NFLX"
+            "PARAP"
         ]
     },
-    "27706037-ca68-448c-8b80-5a84266377ef": {
-        "uuid": "27706037-ca68-448c-8b80-5a84266377ef",
-        "title": "Netflix sheds 1 million users in Q2 \u2014 why one analyst says that's still 'good' news",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/netflix-sheds-1-million-users-in-q-2-why-one-analyst-says-thats-still-good-news-230642685.html",
-        "providerPublishTime": 1658272002,
+    "b3c8a8b3-8168-37c9-809b-87f58ee925f2": {
+        "uuid": "b3c8a8b3-8168-37c9-809b-87f58ee925f2",
+        "title": "TBS cancels Samantha Bee\u2019s \u2018Full Frontal\u2019 after 7 seasons",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/b3c8a8b3-8168-37c9-809b-87f58ee925f2/tbs-cancels-samantha-bee%E2%80%99s.html",
+        "providerPublishTime": 1658801520,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kyQ.rhZApvhQ9YYPCJ2HoQ--~B/aD0zMjQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
-                    "width": 5760,
-                    "height": 3240,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/54uGgGfavWiPL3Bj54tQYA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/f1LmZPWRksjxSD9dAswbWQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/4c3675062cbf3c07a1f9a52b6418fa7a",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/v0ikOe0U2UdevBtua4U6bg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-07/22179660-e58e-11eb-b5fb-bd757d9e7694",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/XxecOwh1QV43m7PNXLRqxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/f1LmZPWRksjxSD9dAswbWQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/4c3675062cbf3c07a1f9a52b6418fa7a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -247,15 +138,102 @@
             ]
         },
         "relatedTickers": [
-            "MSFT",
+            "WBD"
+        ]
+    },
+    "743245e1-812e-329d-addf-4b1437794e64": {
+        "uuid": "743245e1-812e-329d-addf-4b1437794e64",
+        "title": "NFL+ streaming service launches for $4.99 per month",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/nfl-streaming-launches-4-99-211148686.html",
+        "providerPublishTime": 1658783508,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6QXodlyIuT7SdWgWRngtQA--~B/aD0xNTA4O3c9MjY4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5eae8c30-0c5e-11ed-adfd-b8ab0ae3eee2",
+                    "width": 2685,
+                    "height": 1508,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1sOpHZoRT.dIK.VW78hjPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/5eae8c30-0c5e-11ed-adfd-b8ab0ae3eee2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD",
+            "AAPL",
+            "NFLX",
+            "DIS",
+            "AMZN"
+        ]
+    },
+    "8418430a-04c3-36a8-81e2-477f7be8ae67": {
+        "uuid": "8418430a-04c3-36a8-81e2-477f7be8ae67",
+        "title": "Tech stock earnings 'seem to be getting worse': Analyst",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/tech-stock-earnings-seem-getting-194303745.html",
+        "providerPublishTime": 1658778183,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WQUP7IprQmhvSMh4i.l4wA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d8182a20-0c51-11ed-bbf5-80635411acbf",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BdIKw4ta0rdTj20y80YcxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d8182a20-0c51-11ed-bbf5-80635411acbf",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "META",
             "DIS",
             "AMZN",
             "PARA",
             "PARAA",
             "PARAP",
-            "AAPL",
+            "NFLX",
             "WBD",
-            "NFLX"
+            "SNAP",
+            "TWTR"
+        ]
+    },
+    "3b752317-194d-32ed-9f96-fe06d6b70fbd": {
+        "uuid": "3b752317-194d-32ed-9f96-fe06d6b70fbd",
+        "title": "\u2018Full Frontal with Samantha Bee\u2019 Is Canceled After Seven Seasons",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/3b752317-194d-32ed-9f96-fe06d6b70fbd/%E2%80%98full-frontal-with-samantha.html",
+        "providerPublishTime": 1658777700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ir1tVrZnT.I.cychJwX82g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BGjx219gg89phrCf24r.lw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/018845c032143652edcc1e24d64a38e2",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h5d4FqImFFR5dUULH7ccww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BGjx219gg89phrCf24r.lw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/018845c032143652edcc1e24d64a38e2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WBD"
         ]
     }
 }

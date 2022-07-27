@@ -1,21 +1,53 @@
 {
-    "7e5c6518-4d45-3259-85a0-299a096cb11c": {
-        "uuid": "7e5c6518-4d45-3259-85a0-299a096cb11c",
-        "title": "Pfizer Q2 Preview: Quarterly Estimates Display Robust Growth",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pfizer-q2-preview-quarterly-estimates-211809542.html",
-        "providerPublishTime": 1658524689,
+    "85df1958-324f-3fec-ace1-b7142128a1de": {
+        "uuid": "85df1958-324f-3fec-ace1-b7142128a1de",
+        "title": "Billionaire Rob Citrone Is Selling These 10 Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-rob-citrone-selling-10-155635858.html",
+        "providerPublishTime": 1658937395,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9jW6ZxamXUIIiPXOZtS_XQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1lT1Ay9t03inQKM3obfBcw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/adffdba251acf14694302f71548fc8fb",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aEdHYWU9kA4WXRpmSjwPZw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zv6NgodKUMCqgVUG0DdNCw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a95cbf23d4d4001bfd7a821a3d097067",
+                    "width": 450,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WVHiOqKndUNcKLFup2CCbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zv6NgodKUMCqgVUG0DdNCw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a95cbf23d4d4001bfd7a821a3d097067",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RIVN",
+            "MU",
+            "PFE",
+            "MDB",
+            "M",
+            "NVDA"
+        ]
+    },
+    "3088413b-d7ea-3ef4-863d-eca986002341": {
+        "uuid": "3088413b-d7ea-3ef4-863d-eca986002341",
+        "title": "Bristol-Myers (BMY) Q2 Earnings, Sales Beat on Eliquis, Opdivo",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/bristol-myers-bmy-q2-earnings-143602430.html",
+        "providerPublishTime": 1658932562,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4SdZokudQLrfx2Vyo6KT4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
                     "width": 635,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qIY7Kzi5POYthSNEzFKyIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1lT1Ay9t03inQKM3obfBcw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/adffdba251acf14694302f71548fc8fb",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sw1LOX5YexydUdEjsla3IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,26 +55,38 @@
             ]
         },
         "relatedTickers": [
+            "BMY",
             "PFE"
         ]
     },
-    "cc8420fe-01f8-3e0b-85b4-85ff830fff37": {
-        "uuid": "cc8420fe-01f8-3e0b-85b4-85ff830fff37",
-        "title": "Is AbbVie Stock A Buy Or A Sell With Humira Rivals Looming?",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/cc8420fe-01f8-3e0b-85b4-85ff830fff37/is-abbvie-stock-a-buy-or-a.html",
-        "providerPublishTime": 1658507295,
+    "034f62dd-5911-3dfb-90a0-a65d1b68036b": {
+        "uuid": "034f62dd-5911-3dfb-90a0-a65d1b68036b",
+        "title": "Pfizer Earnings: What to Look For From PFE",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/034f62dd-5911-3dfb-90a0-a65d1b68036b/pfizer-earnings%3A-what-to-look.html",
+        "providerPublishTime": 1658930655,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "74ad2460-4095-312a-8130-a5338c092bf7": {
+        "uuid": "74ad2460-4095-312a-8130-a5338c092bf7",
+        "title": "Research shows coronavirus pandemic originated in Wuhan wet market and did not escape from a Chinese lab",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/74ad2460-4095-312a-8130-a5338c092bf7/research-shows-coronavirus.html",
+        "providerPublishTime": 1658930640,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/m5d.Smd693RMHHIXgMp5Pw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tUGW9ppPlZ3Nvs37bEgoAw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/blWC7e70gK4tzpjP197Chg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1898a2dc865529d7151624f70420f1e4",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o_.HlPSfHXegjFg37AN7ZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JHLtl__Lui2o0PmaQCfHxQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5a5a59904ea1192cc06eb982caacc0e2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xRAsnJYxk4Sv6oY9ediSWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/blWC7e70gK4tzpjP197Chg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1898a2dc865529d7151624f70420f1e4",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -50,17 +94,88 @@
             ]
         },
         "relatedTickers": [
-            "ABBV",
-            "AGN",
+            "PFE",
+            "BNTX"
+        ]
+    },
+    "b5a63b2c-f6d8-3653-aec6-c61b42adab95": {
+        "uuid": "b5a63b2c-f6d8-3653-aec6-c61b42adab95",
+        "title": "Billionaire Philippe Laffont is Selling These 10 Stocks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/billionaire-philippe-laffont-selling-10-131151125.html",
+        "providerPublishTime": 1658927511,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JWA6pPn8zkJqDkkGQSz.DQ--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
+                    "width": 489,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iPlQEYc1PzjO2al.b0LPOw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNAP",
+            "GPN",
+            "SHOP",
+            "TWTR",
+            "AMAT",
+            "PFE",
+            "MA"
+        ]
+    },
+    "1a028e4c-43eb-31af-af79-193639effa9d": {
+        "uuid": "1a028e4c-43eb-31af-af79-193639effa9d",
+        "title": "Pfizer loses court battle over drug copay assistance program with big implications for Medicare spending",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/1a028e4c-43eb-31af-af79-193639effa9d/pfizer-loses-court-battle.html",
+        "providerPublishTime": 1658923500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uKmVP_7W2SGnoUO0.2k0VQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OA3Hlp6bTn5W_cyAgZBOxg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/612ab9d92f78335fdad61c1e413ee42e",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qx10ax0jjksnVojph1XAzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OA3Hlp6bTn5W_cyAgZBOxg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/612ab9d92f78335fdad61c1e413ee42e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "PFE"
         ]
     },
-    "1a98427e-657b-32ad-afa6-49c582a5cc6e": {
-        "uuid": "1a98427e-657b-32ad-afa6-49c582a5cc6e",
-        "title": "Biden's doctor says his COVID symptoms have improved",
+    "fd8809a0-c412-326b-8fc4-eea1d9a38387": {
+        "uuid": "fd8809a0-c412-326b-8fc4-eea1d9a38387",
+        "title": "Revlimid sales drive higher-than-expected Bristol Myers results",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/revlimid-sales-drive-higher-expected-105900069.html",
+        "providerPublishTime": 1658919540,
+        "type": "STORY",
+        "relatedTickers": [
+            "BMY",
+            "PFE"
+        ]
+    },
+    "57aa1b13-18ad-348d-8fac-b21fe92ae1dd": {
+        "uuid": "57aa1b13-18ad-348d-8fac-b21fe92ae1dd",
+        "title": "Pfizer and BioNTech launch study to evaluate COVID-19 vaccine targeting original virus strain plus omicron variant",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/1a98427e-657b-32ad-afa6-49c582a5cc6e/biden%27s-doctor-says-his-covid.html",
-        "providerPublishTime": 1658504597,
+        "link": "https://finance.yahoo.com/m/57aa1b13-18ad-348d-8fac-b21fe92ae1dd/pfizer-and-biontech-launch.html",
+        "providerPublishTime": 1658919478,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -79,154 +194,9 @@
             ]
         },
         "relatedTickers": [
+            "BNTX",
+            "^GSPC",
             "PFE"
-        ]
-    },
-    "9d080741-802b-3fbe-a67e-134fdee1925b": {
-        "uuid": "9d080741-802b-3fbe-a67e-134fdee1925b",
-        "title": "U.S. leads the world in new COVID cases as BA.5 continues to spread and illustrate that the pandemic is far from over",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/9d080741-802b-3fbe-a67e-134fdee1925b/u.s.-leads-the-world-in-new.html",
-        "providerPublishTime": 1658499180,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EB.V7CIigZz5m4PNRC8eDA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fzBmOWCqcLUUNUV_yHUXGA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/30559091da871d55eb05e71bcec23970",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PtJjzaW4wBVERdBJEvRlSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fzBmOWCqcLUUNUV_yHUXGA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/30559091da871d55eb05e71bcec23970",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "09de69c1-6e58-3762-9307-a7a8edd8de08": {
-        "uuid": "09de69c1-6e58-3762-9307-a7a8edd8de08",
-        "title": "AbbVie (ABBV) Reports Next Week: Wall Street Expects Earnings Growth",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-reports-next-week-140002610.html",
-        "providerPublishTime": 1658498402,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/98.a1RXLLn1auNXiH78frA--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
-                    "width": 900,
-                    "height": 602,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TtLwuPCMf6GMxPk1IqJQsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/XFzKRSTb2_xUaLSOCP9.Bg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "PFE"
-        ]
-    },
-    "73eef9d1-0f61-3df5-a67e-ab5bf4065083": {
-        "uuid": "73eef9d1-0f61-3df5-a67e-ab5bf4065083",
-        "title": "Olema (OLMA) Up on FDA Fast Track Tag for Breast Cancer Drug",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/olema-olma-fda-fast-track-104910092.html",
-        "providerPublishTime": 1658486950,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wJfB72kiLfyM59IxzSnTjQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LQ_ww2eZjlMvbiXmaf.EDA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9d995582658bf49e50317a8120603e3e",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jrrGvMn9353.FTNf.zxktw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LQ_ww2eZjlMvbiXmaf.EDA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9d995582658bf49e50317a8120603e3e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "OLMA",
-            "BEAM",
-            "PFE",
-            "NVS"
-        ]
-    },
-    "65409247-b6a4-36c7-be89-5777626d54db": {
-        "uuid": "65409247-b6a4-36c7-be89-5777626d54db",
-        "title": "Is This Vaccine Stock a Buy After Big News?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/65409247-b6a4-36c7-be89-5777626d54db/is-this-vaccine-stock-a-buy.html",
-        "providerPublishTime": 1658486700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Ai7mRY.uNHA044fY2MF5rw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LdrjPPfPAjvYgGzVSizNxw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9d84f4b3ee4aa70d4955ece67b933951",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/B0rT6Zw7fpsyn7ko0qqtNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LdrjPPfPAjvYgGzVSizNxw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/9d84f4b3ee4aa70d4955ece67b933951",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX",
-            "MRNA",
-            "PFE"
-        ]
-    },
-    "ea51c7b1-aea6-3ecc-be97-cd89f985d945": {
-        "uuid": "ea51c7b1-aea6-3ecc-be97-cd89f985d945",
-        "title": "Jerome Powell Wants a Slowdown. Snap\u2019s Warning Shows That\u2019s Happening.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/ea51c7b1-aea6-3ecc-be97-cd89f985d945/jerome-powell-wants-a.html",
-        "providerPublishTime": 1658486520,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FnW4gogU2C_NLAgeWKateg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KMLDZt10nHhBb3CgErynRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e89599e7d6d26efdb4a69c59b9830ad5",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7a8P33pAqF0ikD_DMayKFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KMLDZt10nHhBb3CgErynRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e89599e7d6d26efdb4a69c59b9830ad5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "T",
-            "T-PA",
-            "T-PC",
-            "AMZN",
-            "SNAP",
-            "COIN"
         ]
     }
 }

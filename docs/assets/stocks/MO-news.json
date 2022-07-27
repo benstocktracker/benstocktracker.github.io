@@ -1,21 +1,35 @@
 {
-    "cf1be0f8-783f-313e-b528-146e87c884a2": {
-        "uuid": "cf1be0f8-783f-313e-b528-146e87c884a2",
-        "title": "Altria (MO) Gains As Market Dips: What You Should Know",
+    "38638bd1-2be1-3b67-b6da-cbbe65d67cc8": {
+        "uuid": "38638bd1-2be1-3b67-b6da-cbbe65d67cc8",
+        "title": "3 High-Yielding Dividend Stocks With Payout Ratios Over 100%",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/38638bd1-2be1-3b67-b6da-cbbe65d67cc8/3-high-yielding-dividend.html",
+        "providerPublishTime": 1658931780,
+        "type": "STORY",
+        "relatedTickers": [
+            "MO",
+            "VTRS",
+            "^GSPC",
+            "ENB"
+        ]
+    },
+    "3c8d6742-09f7-3e58-a8b9-3ae940230a71": {
+        "uuid": "3c8d6742-09f7-3e58-a8b9-3ae940230a71",
+        "title": "Why Earnings Season Could Be Great for Altria (MO)",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/altria-mo-gains-market-dips-214509417.html",
-        "providerPublishTime": 1658526309,
+        "link": "https://finance.yahoo.com/news/why-earnings-season-could-great-125812023.html",
+        "providerPublishTime": 1658926692,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ffKO.4EbCj1BJM65zWy0mg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
-                    "width": 900,
-                    "height": 601,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Hn9qkIO9vxKgMaWeJXdrjQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TG1WaGPkJ4w2n6x68uXzZg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f2302811a4ad94af13dd16e5355d4c2f",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/95p02wXX_mPZm4qTHztw1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9f_Ug81aH9Y4.ODwHcErbw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TG1WaGPkJ4w2n6x68uXzZg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f2302811a4ad94af13dd16e5355d4c2f",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -26,162 +40,54 @@
             "MO"
         ]
     },
-    "57ce1d7b-0e6a-3ee4-b4b1-47d6513edbb5": {
-        "uuid": "57ce1d7b-0e6a-3ee4-b4b1-47d6513edbb5",
-        "title": "Altria (MO) Outpaces Stock Market Gains: What You Should Know",
+    "ac452d38-1702-3a7e-8a96-3e5e16e84284": {
+        "uuid": "ac452d38-1702-3a7e-8a96-3e5e16e84284",
+        "title": "Predicting the Next FDA Crackdown and Guidance Cut: Join Stream and Sentieo Thursday in Fireside to Discuss Expert Call Platform",
+        "publisher": "IPO-Edge.com",
+        "link": "https://finance.yahoo.com/news/industry-experts-inform-investments-join-145301745.html",
+        "providerPublishTime": 1658847181,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Af8nkmp4ukbru1d90vpM4g--~B/aD0xMjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/thsWbWvw2uYHvCK_fxQf2w--~B/aD0xMjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ipo_edge_com_346/d7dbd69f549c58f25aa42d219748ef7c",
+                    "width": 300,
+                    "height": 129,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_UsuoI_7mIsJiT9LuKn1zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/thsWbWvw2uYHvCK_fxQf2w--~B/aD0xMjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ipo_edge_com_346/d7dbd69f549c58f25aa42d219748ef7c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO",
+            "SGEN",
+            "ZEN",
+            "NKE",
+            "FL"
+        ]
+    },
+    "f9bf5efd-862b-3577-a2a6-4ac6e49dc94e": {
+        "uuid": "f9bf5efd-862b-3577-a2a6-4ac6e49dc94e",
+        "title": "Altria Group (MO) Readies for Q2 Earnings: What to Expect?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/altria-mo-outpaces-stock-market-215009096.html",
-        "providerPublishTime": 1658440209,
+        "link": "https://finance.yahoo.com/news/altria-group-mo-readies-q2-140902800.html",
+        "providerPublishTime": 1658844542,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TGgE1g6I36MqaArClAVM8Q--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 3000,
-                    "height": 2351,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/X6HH5WHRBVE_mPuR0o1BVA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MO",
-            "^GSPC"
-        ]
-    },
-    "24227202-a501-35e4-923d-38660ed8f4ca": {
-        "uuid": "24227202-a501-35e4-923d-38660ed8f4ca",
-        "title": "Top Tobacco Stocks for Q3 2022",
-        "publisher": "Investopedia",
-        "link": "https://finance.yahoo.com/m/24227202-a501-35e4-923d-38660ed8f4ca/top-tobacco-stocks-for-q3-2022.html",
-        "providerPublishTime": 1658437320,
-        "type": "STORY",
-        "relatedTickers": [
-            "UVV",
-            "IMBBF",
-            "IMBBY",
-            "RLX",
-            "PM",
-            "MO",
-            "BTAFF",
-            "BTI",
-            "VGR"
-        ]
-    },
-    "a45a800f-835d-3588-be69-78c386d8b816": {
-        "uuid": "a45a800f-835d-3588-be69-78c386d8b816",
-        "title": "AT&T Stock Is Falling, But Its Dividend Yield Is Getting Even Bigger",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a45a800f-835d-3588-be69-78c386d8b816/at%26t-stock-is-falling%2C-but.html",
-        "providerPublishTime": 1658435160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E12.kfFoRr3CT0BlPBbhSQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uZm1qSbX6m_URB9kJbIaFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uVyEYySDH3KuDCMUyhBy3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/39e1d50217eaf31ff9edcba5439df825",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "WBD",
-            "^GSPC",
-            "MO",
-            "VZ"
-        ]
-    },
-    "af688a93-b465-3129-ab6c-53b48d9e04db": {
-        "uuid": "af688a93-b465-3129-ab6c-53b48d9e04db",
-        "title": "Got $500? 2 Absurdly Cheap Stocks to Buy on the Dip Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/af688a93-b465-3129-ab6c-53b48d9e04db/got-%24500%3F-2-absurdly-cheap.html",
-        "providerPublishTime": 1658239200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/f3svl23NWsGhiH1IBlvG7w--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yTHjiQdQfxQSc13HjFPoqw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1c63e78d530f69e3d78cad853442a5f7",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xN_415SKrnZo8HQanQBLsw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yTHjiQdQfxQSc13HjFPoqw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1c63e78d530f69e3d78cad853442a5f7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MO",
-            "WSM"
-        ]
-    },
-    "d6226947-72b1-36f1-8efe-11ab6a0875a2": {
-        "uuid": "d6226947-72b1-36f1-8efe-11ab6a0875a2",
-        "title": "Jefferies Recommends These 6 Defensive Stocks Amid Recession and Inflation",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/jefferies-recommends-6-defensive-stocks-130938953.html",
-        "providerPublishTime": 1658236178,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZuqbA.XVAn7jCjbZ6lXIWw--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ru.9ziyXL4vQm3k3Drkzxg--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eee11a4e5aa8b2ab8f4802d79b6865ad",
-                    "width": 750,
-                    "height": 498,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MySwg8M5Imnk3ZTcf0G7Vg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ru.9ziyXL4vQm3k3Drkzxg--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eee11a4e5aa8b2ab8f4802d79b6865ad",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MO",
-            "MSFT",
-            "AMZN",
-            "RUTH",
-            "GOOGL"
-        ]
-    },
-    "040bc9f0-2371-31ec-9873-c19b6d753920": {
-        "uuid": "040bc9f0-2371-31ec-9873-c19b6d753920",
-        "title": "10 Best Dividend Stocks of All Time",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-time-101515063.html",
-        "providerPublishTime": 1658225715,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/olKowzhw9P7ZcO8CAiQXrg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/uBK7pDjgOTZKOtMiUEv6Kw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/7a05ed89e2bf209caa3c55d48926dd34",
-                    "width": 728,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4SdZokudQLrfx2Vyo6KT4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
+                    "width": 635,
                     "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uUshDPzTB4E2zLfdd3T6yw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/uBK7pDjgOTZKOtMiUEv6Kw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/7a05ed89e2bf209caa3c55d48926dd34",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sw1LOX5YexydUdEjsla3IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -189,35 +95,91 @@
             ]
         },
         "relatedTickers": [
-            "XOM",
-            "MSFT",
-            "AAPL",
-            "IBM",
-            "HD",
-            "CVX",
-            "WMT",
             "MO",
-            "PG",
-            "JNJ"
+            "CTVA",
+            "TSN",
+            "HSY"
         ]
     },
-    "1f7ec712-bd44-38d7-9182-112448c0000f": {
-        "uuid": "1f7ec712-bd44-38d7-9182-112448c0000f",
-        "title": "3 of the Safest Ultra-High-Yield Dividend Stocks on the Planet",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/1f7ec712-bd44-38d7-9182-112448c0000f/3-of-the-safest.html",
-        "providerPublishTime": 1658136060,
+    "078a51cd-57d5-377a-9035-1c61eb15117c": {
+        "uuid": "078a51cd-57d5-377a-9035-1c61eb15117c",
+        "title": "10 Dividend Paying REIT Stocks To Buy Now",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-dividend-paying-reit-stocks-133954414.html",
+        "providerPublishTime": 1658842794,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.GnB3m4SLHMjsrrPn1GUjA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lk4v1pYz4F8FBFRw6460eg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4fa6272f68d26435d9e03afdca89a931",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WetwvxQAPz7oRCbpb9afXw--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/v3Ze9dxw3wj9_ivjrpz41A--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/52d77d91804ae070513a9182701d941c",
+                    "width": 400,
+                    "height": 267,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xLwSc4xNOlN5Jtf7X2ZWow--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/v3Ze9dxw3wj9_ivjrpz41A--~B/aD0yNjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/52d77d91804ae070513a9182701d941c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMT",
+            "PLD",
+            "WELL",
+            "AVB",
+            "EQIX",
+            "JNJ",
+            "MO",
+            "XOM"
+        ]
+    },
+    "ff093964-f680-363d-96ee-4010579b9938": {
+        "uuid": "ff093964-f680-363d-96ee-4010579b9938",
+        "title": "3 Ultra-High-Yield Dividend Stocks Billionaires Can't Stop Buying",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ff093964-f680-363d-96ee-4010579b9938/3-ultra-high-yield-dividend.html",
+        "providerPublishTime": 1658740860,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qnDSXj3uw5Un.QMkD40eKg--~B/aD05NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7LyLgL2dNUx7nqiVTmrLOw--~B/aD05NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c17cc7a232b02699416af167448bca46",
+                    "width": 1400,
+                    "height": 973,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pSEDYIMJJmgE5fuLGzm7ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7LyLgL2dNUx7nqiVTmrLOw--~B/aD05NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c17cc7a232b02699416af167448bca46",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO",
+            "NLY-PG"
+        ]
+    },
+    "33f68aae-c2fc-3bc6-aaa9-70578e236c41": {
+        "uuid": "33f68aae-c2fc-3bc6-aaa9-70578e236c41",
+        "title": "Is Philip Morris International Stock a Buy?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/33f68aae-c2fc-3bc6-aaa9-70578e236c41/is-philip-morris.html",
+        "providerPublishTime": 1658665200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5_p_feNt3Vz8p5WI.pl9eQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rwianC8BOtUmZp3e7JyMkg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/efd22679571132bed6a5af7ba8f87929",
                     "width": 1400,
                     "height": 933,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TDGQBqUxIeaisJC8xuilQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lk4v1pYz4F8FBFRw6460eg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4fa6272f68d26435d9e03afdca89a931",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VlyFK8ycYDgX6QKbSx3CkA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/rwianC8BOtUmZp3e7JyMkg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/efd22679571132bed6a5af7ba8f87929",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -225,7 +187,20 @@
             ]
         },
         "relatedTickers": [
-            "AGNCP",
+            "PM",
+            "MO"
+        ]
+    },
+    "73a63d44-406e-3039-ad80-5f7c9900894f": {
+        "uuid": "73a63d44-406e-3039-ad80-5f7c9900894f",
+        "title": "Younger Investors Should Like Dividend Stocks, Too",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/73a63d44-406e-3039-ad80-5f7c9900894f/younger-investors-should-like.html",
+        "providerPublishTime": 1658601000,
+        "type": "STORY",
+        "relatedTickers": [
+            "TXN",
+            "KO",
             "MO"
         ]
     }

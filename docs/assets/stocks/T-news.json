@@ -1,214 +1,61 @@
 {
-    "4a22f09a-896c-3aa0-a4d9-77cec4bcbc6e": {
-        "uuid": "4a22f09a-896c-3aa0-a4d9-77cec4bcbc6e",
-        "title": "Cash-strapped Americans can't afford to pay their phone bills on time \u2014 and AT&T shares crashed the most in 20 years because of that",
-        "publisher": "MoneyWise",
-        "link": "https://finance.yahoo.com/news/cash-strapped-americans-cant-afford-110000650.html",
-        "providerPublishTime": 1658574000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ykqcC1XS6LUxo7_goXaIrg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/_9TMo5SbijAuvDKKJ9IWDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2eeebb7d3a29ac51d1835697686c55e6",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/u9BNII3poiAFRPB3Z08auA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_9TMo5SbijAuvDKKJ9IWDA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/2eeebb7d3a29ac51d1835697686c55e6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "VZ"
-        ]
-    },
-    "e616a523-2509-3e8b-8a3f-be4951709962": {
-        "uuid": "e616a523-2509-3e8b-8a3f-be4951709962",
-        "title": "Why Verizon Stock Dropped Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e616a523-2509-3e8b-8a3f-be4951709962/why-verizon-stock-dropped.html",
-        "providerPublishTime": 1658531663,
-        "type": "STORY",
-        "relatedTickers": [
-            "VZ",
-            "T-PC"
-        ]
-    },
-    "43129543-a4b1-3254-bcf6-401353fac0cd": {
-        "uuid": "43129543-a4b1-3254-bcf6-401353fac0cd",
-        "title": "Verizon Shares See Biggest Loss Since 2008 After Outlook Cut",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/verizon-cuts-profit-sales-forecast-114216684.html",
-        "providerPublishTime": 1658521461,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xYAANj850vUra7.4Q7pxkg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/yCxD.7AMsd8bo3UYCS2_dA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/53b19f0ca17fe1be60df79e0bbed1a88",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Sf2hcZF_1V8Rot9OulOpDQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yCxD.7AMsd8bo3UYCS2_dA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/53b19f0ca17fe1be60df79e0bbed1a88",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "TMUS",
-            "T-PC"
-        ]
-    },
-    "cd640120-a582-3838-bd11-6def7bf6e7d8": {
-        "uuid": "cd640120-a582-3838-bd11-6def7bf6e7d8",
-        "title": "Verizon Stock Set for Worst Week Since 2008. Time to Buy?",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/cd640120-a582-3838-bd11-6def7bf6e7d8/verizon-stock-set-for-worst.html",
-        "providerPublishTime": 1658513820,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DHWcMf1lFy5Yl4_XeOxcgA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/BDHbrYoSCfysJp9Y2R0.GQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ae57927d28899fcd454910c4b6f3cb61",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FTfYJfEi7_d.2s.pLiECjA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BDHbrYoSCfysJp9Y2R0.GQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/ae57927d28899fcd454910c4b6f3cb61",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T-PC"
-        ]
-    },
-    "481f2918-639d-3244-9f87-699322cb3665": {
-        "uuid": "481f2918-639d-3244-9f87-699322cb3665",
-        "title": "Verizon Cuts 2022 Guidance on Slower Wireless Growth. The Stock Slides.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/481f2918-639d-3244-9f87-699322cb3665/verizon-cuts-2022-guidance-on.html",
-        "providerPublishTime": 1658511480,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qk_oc.sDHjQkAp_3HwcK8w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VbH6WXxwSYiORTDTweFsPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4338004ae34fcf15a190bfa8a48fb3d6",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BR4rnm2HUWPiPqEhn22ykg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VbH6WXxwSYiORTDTweFsPQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4338004ae34fcf15a190bfa8a48fb3d6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T",
-            "T-PA",
-            "T-PC",
-            "TMUS"
-        ]
-    },
-    "b7ea9118-961f-353f-a121-ff49b607ddcf": {
-        "uuid": "b7ea9118-961f-353f-a121-ff49b607ddcf",
-        "title": "Verizon stock heads for steepest drop in more than two years as inflation and competition hit earnings",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/b7ea9118-961f-353f-a121-ff49b607ddcf/verizon-stock-heads-for.html",
-        "providerPublishTime": 1658505180,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tHSXaSlp1HCiP4jsgJXe1A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aAQ2w_rJENlmJn2wYHVNdg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/4af09185385b528ec44593ddbf8ebb80",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5ZNlMwTK6wpJczjKHJ.9wg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aAQ2w_rJENlmJn2wYHVNdg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/4af09185385b528ec44593ddbf8ebb80",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC",
-            "VZ"
-        ]
-    },
-    "7510f570-f8c7-3b6a-b8c7-1475ca468914": {
-        "uuid": "7510f570-f8c7-3b6a-b8c7-1475ca468914",
-        "title": "10 Companies That Just Smashed Earnings Estimates",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-companies-just-smashed-earnings-131255249.html",
-        "providerPublishTime": 1658495575,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JkkMOLmQpdrnB_RLPtlXSw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/PIXZ.mn9y5D1rk9wF6mksQ--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/481b767693a3670d9a1201d4d69d9509",
-                    "width": 450,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kDw0cAtkRuNmRgUEath3XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PIXZ.mn9y5D1rk9wF6mksQ--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/481b767693a3670d9a1201d4d69d9509",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NOKIA.HE",
-            "PM",
-            "NUE",
-            "TSLA",
-            "DHI",
-            "ABT",
-            "T-PC"
-        ]
-    },
-    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
-        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
-        "title": "Is T-Mobile Stock A Buy Or Sell As AT&T, Verizon Lower 2022 Guidance?",
+    "70f13206-16b8-31f3-b104-5b9fd4578dc8": {
+        "uuid": "70f13206-16b8-31f3-b104-5b9fd4578dc8",
+        "title": "Dycom Boost Seen From AT&T Fiber-Optic Push, Government Subsidies For Rural Areas",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-stock-a-buy-or.html",
-        "providerPublishTime": 1658492833,
+        "link": "https://finance.yahoo.com/m/70f13206-16b8-31f3-b104-5b9fd4578dc8/dycom-boost-seen-from-at%26t.html",
+        "providerPublishTime": 1658940591,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/q.hiheoo1REzoNwOnFgLRQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CSUyjuqWFFQ8R1Jj9kQ6LQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7f0f9bc7a30276384d9ba517c713e1b9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tiCd9ZeiB79W2k8_G0Sa3w--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7i.Q647c6jh9Ya1r2QMvJA--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/635c7f20bcdefcc2c8af5c0daecb1938",
+                    "width": 816,
+                    "height": 430,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DlTJ3iuVFAhdiP9isBHP6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7i.Q647c6jh9Ya1r2QMvJA--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/635c7f20bcdefcc2c8af5c0daecb1938",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DY",
+            "T-PC"
+        ]
+    },
+    "ebf10773-89fe-3576-9991-375456cda425": {
+        "uuid": "ebf10773-89fe-3576-9991-375456cda425",
+        "title": "UPDATE 2-Televisa's Sky unit plans revamp, to offer new mobile service with AT&T network",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-televisas-sky-unit-plans-150839291.html",
+        "providerPublishTime": 1658934519,
+        "type": "STORY",
+        "relatedTickers": [
+            "TV",
+            "T-PC"
+        ]
+    },
+    "8a6c1792-f905-359f-b982-cb35b02b6d78": {
+        "uuid": "8a6c1792-f905-359f-b982-cb35b02b6d78",
+        "title": "T-Mobile Climbs As Wireless Subscriber Growth Tops Expectations",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/8a6c1792-f905-359f-b982-cb35b02b6d78/t-mobile-climbs-as-wireless.html",
+        "providerPublishTime": 1658931622,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2fEFxf7hK6uOITYnJaSHSw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6OPkfEGkCUidDDtEciVdhQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e5eabe64969a47849a199f83da22f9a6",
                     "width": 1000,
                     "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yusVYv3xKJFn6RN1yEbo6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CSUyjuqWFFQ8R1Jj9kQ6LQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7f0f9bc7a30276384d9ba517c713e1b9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4Fz..5l3Ddd45rlxkOp1gg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6OPkfEGkCUidDDtEciVdhQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e5eabe64969a47849a199f83da22f9a6",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -217,8 +64,153 @@
         },
         "relatedTickers": [
             "TMUS",
+            "T-PC"
+        ]
+    },
+    "296870eb-0e50-3e60-a5f2-d2c65758b4e8": {
+        "uuid": "296870eb-0e50-3e60-a5f2-d2c65758b4e8",
+        "title": "T-Mobile Tops Subscriber Estimates After Rivals Hit Setbacks",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/t-mobile-tops-subscriber-estimates-134701535.html",
+        "providerPublishTime": 1658929621,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qQ_bffr7GxIwSod5jmIBqA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/o66DtzMkuv.jLHk7xe1wGw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/2237320e3a02eb2a0a7c098ab7015373",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VA1KxdJ90bn2AaOAEHir8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/o66DtzMkuv.jLHk7xe1wGw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/2237320e3a02eb2a0a7c098ab7015373",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TMUS",
+            "T-PC",
+            "VZ"
+        ]
+    },
+    "63ad0bbe-5653-32e5-b41f-76f5781fb8f3": {
+        "uuid": "63ad0bbe-5653-32e5-b41f-76f5781fb8f3",
+        "title": "Televisa's Sky unit plans revamp, to offer new mobile service with AT&T network",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/televisas-sky-unit-offer-mobile-133950603.html",
+        "providerPublishTime": 1658929190,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YLumP6SRTomEW_zrq1NtNg--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kRM0RbiWngmJ8QfZe9i3wg--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/86d82ce0751ff21bf713eccd682d9349",
+                    "width": 800,
+                    "height": 534,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lNQwsOXo_TVTMzpT7MiOFw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kRM0RbiWngmJ8QfZe9i3wg--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/86d82ce0751ff21bf713eccd682d9349",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TV",
+            "T-PC"
+        ]
+    },
+    "b23681cd-79db-35a8-9fd9-665bc7525f55": {
+        "uuid": "b23681cd-79db-35a8-9fd9-665bc7525f55",
+        "title": "T-Mobile Bucks the Trend With a Beat-and-Raise Quarter",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/b23681cd-79db-35a8-9fd9-665bc7525f55/t-mobile-bucks-the-trend-with.html",
+        "providerPublishTime": 1658927880,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/POdKN82BBeJEHr0maMiTnA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PPTGwzLI53vd0sl9rO3DaQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d15bbca081915806f8669922ffe0b0d7",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VXtCqQhd5R65DybjTKecmQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PPTGwzLI53vd0sl9rO3DaQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d15bbca081915806f8669922ffe0b0d7",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "T",
+            "T-PA",
+            "T-PC",
+            "TMUS",
+            "VZ"
+        ]
+    },
+    "2d3a487d-1d8a-3774-959e-9dbcf470ad56": {
+        "uuid": "2d3a487d-1d8a-3774-959e-9dbcf470ad56",
+        "title": "At a 5-Year Low, Is Verizon Communications Stock a Buy?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2d3a487d-1d8a-3774-959e-9dbcf470ad56/at-a-5-year-low%2C-is-verizon.html",
+        "providerPublishTime": 1658918700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PNmwH3gZOi7GeeWarin9_Q--~B/aD05Nzk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cxZMdHOKaiAEzqYD_VND5w--~B/aD05Nzk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6502dfd8a040ef21602dc1163be6908f",
+                    "width": 1400,
+                    "height": 979,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kTKXSX0ROsV0rftpcuIAXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cxZMdHOKaiAEzqYD_VND5w--~B/aD05Nzk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6502dfd8a040ef21602dc1163be6908f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "VZ",
-            "T"
+            "T-PC"
+        ]
+    },
+    "84095a2f-2db1-3e9c-b848-acbcfa02731a": {
+        "uuid": "84095a2f-2db1-3e9c-b848-acbcfa02731a",
+        "title": "AT&T and State of Louisiana Collaborate on Plan to Deliver Fiber Broadband to Portions of 13 Louisiana Parishes",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/t-state-louisiana-collaborate-plan-183000346.html",
+        "providerPublishTime": 1658860200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8iTVp1geUJ0_sPPQvOAllA--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kwHByhNLrSOZjdv3Cg.Sig--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/0c8d14fa161d1b8f9160bcd25add14b3",
+                    "width": 400,
+                    "height": 232,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1U58aXJ8thVuZhO7IxHvGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kwHByhNLrSOZjdv3Cg.Sig--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/0c8d14fa161d1b8f9160bcd25add14b3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC"
         ]
     }
 }

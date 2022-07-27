@@ -1,21 +1,21 @@
 {
-    "3e1be26b-5235-38c0-9c22-84547ae5f971": {
-        "uuid": "3e1be26b-5235-38c0-9c22-84547ae5f971",
-        "title": "Dow Jones Futures: Apple Leads Earnings Wave, Fed Rate Hike Looms; What To Do Now",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/3e1be26b-5235-38c0-9c22-84547ae5f971/dow-jones-futures%3A-apple.html",
-        "providerPublishTime": 1658576025,
+    "1a96ec8a-9465-48f0-bd6b-71a7c285d6c4": {
+        "uuid": "1a96ec8a-9465-48f0-bd6b-71a7c285d6c4",
+        "title": "Big Tech CEOs came to Capitol Hill to fight tech regulation \u2014 now it's stalled",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/big-tech-ce-os-came-to-capitol-hill-to-fight-tech-regulation-now-it-appears-stalled-162633269.html",
+        "providerPublishTime": 1658939700,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.KY51zq22_qU98yLwUAo_g--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
-                    "width": 1012,
-                    "height": 572,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vqQfpSNVSH8DZ8ACmNbcjA--~B/aD0zNDc4O3c9NTIxNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4f5bc480-0c29-11ed-9d30-317a44223247",
+                    "width": 5216,
+                    "height": 3478,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SjlUigfqdlTJJ_NzKoNzvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/k8gLMwvxwVIDBNWg_Azf2Q--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PcrBFBXviOxirv51TyXbQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/4f5bc480-0c29-11ed-9d30-317a44223247",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,175 +23,61 @@
             ]
         },
         "relatedTickers": [
-            "^GSPC",
-            "^DJI",
-            "LI",
-            "AAPL",
-            "GOOGL",
-            "COMP",
-            "DLTR",
-            "MSFT"
-        ]
-    },
-    "d824ef5f-1f59-3562-9c40-6a2ab5491c36": {
-        "uuid": "d824ef5f-1f59-3562-9c40-6a2ab5491c36",
-        "title": "Apple Outperforms Market, But Are Big Growth Days in the Past?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d824ef5f-1f59-3562-9c40-6a2ab5491c36/apple-outperforms-market%2C-but.html",
-        "providerPublishTime": 1658574900,
-        "type": "STORY",
-        "relatedTickers": [
-            "AAPL",
-            "GOOGL",
-            "MSFT"
-        ]
-    },
-    "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8": {
-        "uuid": "1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8",
-        "title": "Apple, Amazon, Meta Highlight Tech-Heavy Earnings Week",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/1f1ff8e5-fe65-3c55-bb69-5f58c09fa7d8/apple%2C-amazon%2C-meta-highlight.html",
-        "providerPublishTime": 1658568600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hTLip36u10_.z25DbZfmaA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PFb.NrvnEDJStnV2_SK5zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aNFTW6Iim_1GpCCEl6Ws3A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b801adda1cb347f21b088060e56d5951",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL",
-            "GM",
-            "AAPL",
-            "AMZN",
             "GOOG",
-            "GOOGL"
-        ]
-    },
-    "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d": {
-        "uuid": "1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d",
-        "title": "Not All Tech CEOs Are Created Equal. Here Are Some of the Best.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/1c12f0d5-6242-3d87-b27e-9e6e0fe6b26d/not-all-tech-ceos-are-created.html",
-        "providerPublishTime": 1658529060,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/49n7Vr_qjV8lGvAQSAxTRw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ee0JxQlLE9pA4Mwxr50sxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/37b9393ae7953d7ea3e06ffa036706e7",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UEIowj.PotLx1F5.5zt._A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Ee0JxQlLE9pA4Mwxr50sxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/37b9393ae7953d7ea3e06ffa036706e7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SHOP",
-            "U",
-            "AAPL",
-            "INTC",
-            "MSFT"
-        ]
-    },
-    "e82300d9-346e-3f35-ac82-65fb6c19ade8": {
-        "uuid": "e82300d9-346e-3f35-ac82-65fb6c19ade8",
-        "title": "Weekly Roundup",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/e82300d9-346e-3f35-ac82-65fb6c19ade8/weekly-roundup.html",
-        "providerPublishTime": 1658527680,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tfNk.YVijUMdToJ5Uy9SLQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
-                    "width": 1200,
-                    "height": 800,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/I950qi.WStWQXU_xRqd01w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/z4mm6OQMIHetZYUi6ttxUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/bb0ea8f582752df1ff11c714db269c93",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "NVDA",
             "GOOGL",
-            "^GSPC",
-            "AMD",
-            "NUE",
-            "AAPL",
-            "MSFT"
-        ]
-    },
-    "01828bc5-4488-3e62-b1de-34ea55255271": {
-        "uuid": "01828bc5-4488-3e62-b1de-34ea55255271",
-        "title": "Progressive Caucus Asks Schumer to Set Vote on Antitrust Bills",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/progressive-caucus-asks-schumer-set-202901686.html",
-        "providerPublishTime": 1658521741,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iMchpH5r9ImkyBMObBhCiA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/S2KdxGa.PW0_U0ygrLFrBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FqfQYsnbP4lLnyw5GGdZ0Q--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/66d9a1891b223630373beafb80e33f32",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "META",
+            "AAPL"
+        ]
+    },
+    "60a48957-4acd-37b3-90d6-768a877470cc": {
+        "uuid": "60a48957-4acd-37b3-90d6-768a877470cc",
+        "title": "Microsoft\u2019s Q4 earnings \u2018weren\u2019t that bad\u2019, analyst says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/microsoft-q4-earnings-weren-t-154951203.html",
+        "providerPublishTime": 1658936991,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dBEfqWyb9UGathwJ0T6.gg--~B/aD0yODY7dz01MTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bdf3d1d0-0dc3-11ed-bf5c-1c6efaa40b85",
+                    "width": 510,
+                    "height": 286,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WQJThNL_ZH4da0CzTNvl.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bdf3d1d0-0dc3-11ed-bf5c-1c6efaa40b85",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "GOOG",
             "GOOGL",
-            "MSFT",
+            "META",
             "AAPL",
+            "MSFT",
             "AMZN"
         ]
     },
-    "923d8936-b2f9-3bef-99eb-17aa497c7699": {
-        "uuid": "923d8936-b2f9-3bef-99eb-17aa497c7699",
-        "title": "Snap Craters as Sales Disappoint, Erases $130 Billion From Peers",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/meta-alphabet-knocked-down-snap-210613092.html",
-        "providerPublishTime": 1658520929,
+    "81fa31aa-0b8e-3b34-a381-50bb1b2a5d64": {
+        "uuid": "81fa31aa-0b8e-3b34-a381-50bb1b2a5d64",
+        "title": "Can Continued Services Growth Aid Apple's (AAPL) Q3 Earnings?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/continued-services-growth-aid-apples-151003810.html",
+        "providerPublishTime": 1658934603,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/U4sVxrpBhtFKKCjn5_drew--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/aYxp.4MGn9E45J.YWYoR_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/e6d2e94dcbb5a497bc3baea3de55ff37",
-                    "width": 2000,
-                    "height": 1334,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nRq1XuWr6gOh2f9F.etPeA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HkO4Sg.2QenxdT7XjXP1iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/64ddac0df0622c3e4ac12b08abd5cc75",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sD.PnODfTnLpPMGaV_OIBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aYxp.4MGn9E45J.YWYoR_A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/e6d2e94dcbb5a497bc3baea3de55ff37",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ABxCCvWSMyUcmSO5he4wfA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HkO4Sg.2QenxdT7XjXP1iQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/64ddac0df0622c3e4ac12b08abd5cc75",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -199,35 +85,28 @@
             ]
         },
         "relatedTickers": [
-            "PINS",
             "AAPL",
-            "META",
-            "JPM",
-            "GOOG",
-            "GOOGL",
-            "SNAP",
-            "STX",
-            "TSLA",
-            "TWTR"
+            "HPQ",
+            "LNVGY"
         ]
     },
-    "653413e0-2365-32f1-9f1d-87e25330c493": {
-        "uuid": "653413e0-2365-32f1-9f1d-87e25330c493",
-        "title": "Alphabet Stock Split Lands With a Thud in Worry-Filled Market",
+    "0b31101d-a48a-3fd3-ba1c-cf7142ec2638": {
+        "uuid": "0b31101d-a48a-3fd3-ba1c-cf7142ec2638",
+        "title": "Senate\u2019s Antitrust Crackdown Sputters as Schumer Signals Doubts",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/alphabet-stock-split-lands-thud-150857055.html",
-        "providerPublishTime": 1658520644,
+        "link": "https://finance.yahoo.com/news/senate-antitrust-crackdown-sputters-schumer-143133894.html",
+        "providerPublishTime": 1658932293,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GduHJDItr0T9CuqB0plI4w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T98cTmvpINx1NI8UfEZJnw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/of1RxTPxQ5W63fuHeVPlbQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/df42811d0f30a983f58e97ceb10d41d5",
                     "width": 2000,
                     "height": 1334,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tgCpyj2kCEVrp95UpTLh0w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gjUi2duReUrD3VBfkV72dA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/ce5eafffc80c87109cd768ee1d00890d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J2KArDC4aRO5vtpu8AjtFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/of1RxTPxQ5W63fuHeVPlbQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/df42811d0f30a983f58e97ceb10d41d5",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -235,14 +114,194 @@
             ]
         },
         "relatedTickers": [
-            "AMZN",
-            "TSLA",
-            "JPM",
-            "FTNT",
-            "DXCM",
             "GOOG",
             "GOOGL",
+            "AAPL",
+            "AXP",
+            "AMZN",
+            "MSFT",
+            "PG",
+            "META"
+        ]
+    },
+    "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
+        "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
+        "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-tech-leads-gains-home-141855635.html",
+        "providerPublishTime": 1658931535,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmhP4gKCR7sSfsx6df.GQw--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
+                    "width": 2736,
+                    "height": 1536,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tuK091C_0UAl3qA0Jg4TyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XLP",
+            "INTC",
+            "AMZN",
+            "DIS",
+            "KO",
+            "^IXIC",
+            "SHW",
+            "VZ",
+            "DHI",
+            "LEN",
+            "LEN-B",
+            "^GSPC",
+            "CVX",
+            "HON",
+            "AMGN",
+            "XLY",
+            "JPM",
+            "PG",
+            "XLI",
+            "IBM",
+            "XLF",
+            "CSCO",
+            "NVDA",
+            "PEP",
+            "TSLA",
+            "HD",
+            "XLRE",
+            "META",
+            "RKT",
+            "JNJ",
+            "AAPL",
+            "XLV",
+            "MSFT",
+            "MCD",
+            "BA",
+            "WMT",
+            "LOW",
+            "UNH",
+            "XLE",
+            "V",
+            "XLU",
+            "GOOG",
+            "GOOGL",
+            "MRK",
+            "XLK",
+            "XLB",
+            "XLC"
+        ]
+    },
+    "22c0259d-9c63-3953-9edf-1427a9bb17af": {
+        "uuid": "22c0259d-9c63-3953-9edf-1427a9bb17af",
+        "title": "Exclusive: EU found evidence employee phones compromised with spyware -letter",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/exclusive-eu-found-evidence-employee-140232788.html",
+        "providerPublishTime": 1658930552,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/D9q5iu4elxNR2eCG7rQ1RA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2hpkzkPyCLnHEix.p2rJyw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ed958ff13ba0a0acb02383553bc6c677",
+                    "width": 800,
+                    "height": 533,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qQsXJ82O_VyXQl3saXO4SQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2hpkzkPyCLnHEix.p2rJyw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ed958ff13ba0a0acb02383553bc6c677",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "AAPL"
+        ]
+    },
+    "7e1ea64c-7f9c-3699-94b3-bfb3efbd0740": {
+        "uuid": "7e1ea64c-7f9c-3699-94b3-bfb3efbd0740",
+        "title": "Megacap Tech Earnings Have Investors Looking Past the Fed Decision",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/megacap-tech-earnings-investors-looking-134411839.html",
+        "providerPublishTime": 1658929451,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fTXnn3V.9QTJA.jIMwwgPg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CJh4EavDOjAurN48EC6dgw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/80254de59d9f6bd04e4722af93097e2d",
+                    "width": 1200,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TVhyQUQNqb4lHcOl4H2jdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CJh4EavDOjAurN48EC6dgw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/80254de59d9f6bd04e4722af93097e2d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PYPL",
+            "AAPL",
+            "TXN",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "000660.KS",
+            "COIN",
+            "APPN",
+            "AMZN",
+            "VNET",
+            "BABA",
+            "BABAF",
+            "MSFT",
+            "TWTR",
+            "UBER",
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS"
+        ]
+    },
+    "89f3355e-9348-3adb-b7c9-3ac40729dc81": {
+        "uuid": "89f3355e-9348-3adb-b7c9-3ac40729dc81",
+        "title": "These 10 Social Media Stocks Are Getting Hammered",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-social-media-stocks-getting-131342121.html",
+        "providerPublishTime": 1658927622,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rAERm3hIFaGdcDOmXKR1jg--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xFoXfj4TK9DjIbcnom67xQ--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e5aedb2f25b55cbdee615acc100b659e",
+                    "width": 400,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gr3FGVaWYJSJtw130oc9.A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xFoXfj4TK9DjIbcnom67xQ--~B/aD02MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e5aedb2f25b55cbdee615acc100b659e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BMBL",
+            "SNAP",
+            "NTES",
+            "SPOT",
+            "IAC",
+            "SNA",
+            "AAPL",
+            "META",
+            "GOOGL"
         ]
     }
 }

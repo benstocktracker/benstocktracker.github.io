@@ -1,103 +1,21 @@
 {
-    "d862a888-214e-3720-be2e-170fba1bf2bd": {
-        "uuid": "d862a888-214e-3720-be2e-170fba1bf2bd",
-        "title": "1 Green Flag for AMC, and 1 Red Flag",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/d862a888-214e-3720-be2e-170fba1bf2bd/1-green-flag-for-amc%2C-and-1.html",
-        "providerPublishTime": 1658574360,
+    "d11a08dc-6862-3b63-b658-10686bc748d9": {
+        "uuid": "d11a08dc-6862-3b63-b658-10686bc748d9",
+        "title": "Hulu political ads: Streaming giant reverses stance, updates ad policy",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/d11a08dc-6862-3b63-b658-10686bc748d9/hulu-political-ads%3A-streaming.html",
+        "providerPublishTime": 1658933700,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UsKOz.zAaDocQr2OnrhGOg--~B/aD05NDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4h0WWlt0jybpkm_za2WzVA--~B/aD05NDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/135e60afcf8afa66e377e5042fafd943",
-                    "width": 1400,
-                    "height": 949,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MOFdq26hoG4lMiHC936wAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LbxCYwaX.6aPMQKrQK.T.Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/eab50bfaa42535389d536c25f1e24f73",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fqQVZbhq2iUh74Qfsn7l0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4h0WWlt0jybpkm_za2WzVA--~B/aD05NDk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/135e60afcf8afa66e377e5042fafd943",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMC",
-            "DIS"
-        ]
-    },
-    "227ac8fd-7a85-3953-abd1-417131298029": {
-        "uuid": "227ac8fd-7a85-3953-abd1-417131298029",
-        "title": "A Lot Of Marvel Cartoons Are Heading To Disney+",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/227ac8fd-7a85-3953-abd1-417131298029/a-lot-of-marvel-cartoons-are.html",
-        "providerPublishTime": 1658532960,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IOKH9HkmT3TAu8F7WiGHXw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/1KLnOhaan7PEUPE4bJvG8Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/cf7b69664dde83775b3b1054c20cf1f2",
-                    "width": 1920,
-                    "height": 1080,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QxzAkgH9hCA62g6.jl.6uA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1KLnOhaan7PEUPE4bJvG8Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/cf7b69664dde83775b3b1054c20cf1f2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "5fecb7ee-7ec9-3f20-a791-993083c90a95": {
-        "uuid": "5fecb7ee-7ec9-3f20-a791-993083c90a95",
-        "title": "R-rated Marvel movies 'Deadpool' and 'Logan' were added to the Disney+ library",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/r-rated-marvel-movies-deadpool-210549200.html",
-        "providerPublishTime": 1658523949,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/INUC1Tz.7ks_X87J19AzeQ--~B/aD0xNTQzO3c9Mjc0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0e4af840-0a02-11ed-ab8e-b94e99657af5",
-                    "width": 2748,
-                    "height": 1543,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RBQ_HiuRBP05NCwvC.nEhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0e4af840-0a02-11ed-ab8e-b94e99657af5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "b4c9b0e1-b804-4cf2-bb79-c607608455c2": {
-        "uuid": "b4c9b0e1-b804-4cf2-bb79-c607608455c2",
-        "title": "'A one-time thing': Analyst details Netflix's risky $200 million bet on 'The Gray Man'",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/a-one-time-thing-analyst-details-netflix-risky-200-million-on-the-gray-man-203529309.html",
-        "providerPublishTime": 1658522129,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rZwnq52IOfAVp37Rempg7w--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0c941e30-090a-11ed-abef-48f6e9dd9a21",
-                    "width": 2048,
-                    "height": 1365,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/lihokPm1estVlQzq6taN5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0c941e30-090a-11ed-abef-48f6e9dd9a21",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Jlu3MRCGBc9kcTRmvtmjOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LbxCYwaX.6aPMQKrQK.T.Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/eab50bfaa42535389d536c25f1e24f73",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -106,68 +24,38 @@
         },
         "relatedTickers": [
             "DIS",
-            "CMCSA",
-            "NFLX",
-            "AMZN"
+            "TWTR"
         ]
     },
-    "22267e9c-f71c-3a73-9272-6f646ab8a932": {
-        "uuid": "22267e9c-f71c-3a73-9272-6f646ab8a932",
-        "title": "Disney+ Now Has R-Rated Movies: How to Turn on Parental Controls",
-        "publisher": "Variety",
-        "link": "https://finance.yahoo.com/m/22267e9c-f71c-3a73-9272-6f646ab8a932/disney%2B-now-has-r-rated.html",
-        "providerPublishTime": 1658519355,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UWlgLdpUjYzPfm_1_m9HJg--~B/aD00MDQ4O3c9NzIwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/SQav.nvNqXjIj7aBm.SJag--~B/aD00MDQ4O3c9NzIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/variety_finance_606/da5f69547d09caac16d8f3a928a744fe",
-                    "width": 7200,
-                    "height": 4048,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xr3OfiOGX3QxAsLXC18EsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/SQav.nvNqXjIj7aBm.SJag--~B/aD00MDQ4O3c9NzIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/variety_finance_606/da5f69547d09caac16d8f3a928a744fe",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "e2dda068-7ff9-36bd-9d36-864248e2dede": {
-        "uuid": "e2dda068-7ff9-36bd-9d36-864248e2dede",
-        "title": "Why The Trade Desk Stock Rebounded This Week",
+    "eb58e6cb-fb35-3b10-9561-fd7f6f46d196": {
+        "uuid": "eb58e6cb-fb35-3b10-9561-fd7f6f46d196",
+        "title": "Marvel Is Integral to Disney's Streaming Strategy",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/e2dda068-7ff9-36bd-9d36-864248e2dede/why-the-trade-desk-stock.html",
-        "providerPublishTime": 1658511556,
+        "link": "https://finance.yahoo.com/m/eb58e6cb-fb35-3b10-9561-fd7f6f46d196/marvel-is-integral-to.html",
+        "providerPublishTime": 1658932620,
         "type": "STORY",
         "relatedTickers": [
-            "TTD",
-            "NFLX",
-            "DIS"
+            "DIS",
+            "NFLX"
         ]
     },
-    "3cce7933-a5ae-3673-ac99-2e355799ae26": {
-        "uuid": "3cce7933-a5ae-3673-ac99-2e355799ae26",
-        "title": "Florida\u2019s Bond Chief Sees Disney District Being Re-Established",
+    "73ef9cd7-5f67-30c1-9ee2-d25c37e96356": {
+        "uuid": "73ef9cd7-5f67-30c1-9ee2-d25c37e96356",
+        "title": "More Political Ads Are coming to Disney\u2019s Hulu",
         "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/florida-bond-chief-sees-disney-171504170.html",
-        "providerPublishTime": 1658510104,
+        "link": "https://finance.yahoo.com/news/more-political-ads-coming-disney-142106473.html",
+        "providerPublishTime": 1658931666,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K53xHw3YYZxoIJh.REMB_g--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/LyFGOY5WhaTH2q0sCooG1g--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/b70948863ec217c4ceafb7de1f95f209",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Lpd4LD9ya.j322AH18u0UQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/LxAhIS6JhikedJXyit4AFA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/6c5f6c4250ec732edd462a3691def24f",
                     "width": 2000,
                     "height": 1334,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.XoKef0gtObcp_7Kg3l4SA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LyFGOY5WhaTH2q0sCooG1g--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/b70948863ec217c4ceafb7de1f95f209",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/W3n0Nc57dotVTnxSbyxRRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LxAhIS6JhikedJXyit4AFA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/6c5f6c4250ec732edd462a3691def24f",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -178,23 +66,23 @@
             "DIS"
         ]
     },
-    "5ca9dbac-9d99-398d-9822-6a07a2b89040": {
-        "uuid": "5ca9dbac-9d99-398d-9822-6a07a2b89040",
-        "title": "Ubisoft Pushes Back\u00a0Next Assassin\u2019s Creed Title in Already Thin Year",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/ubisoft-pushes-back-next-assassin-165206026.html",
-        "providerPublishTime": 1658508726,
-        "type": "STORY",
+    "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
+        "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
+        "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/stocks-tech-leads-gains-home-141855635.html",
+        "providerPublishTime": 1658931535,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/baSwIHYD7l.7n28jZT72XQ--~B/aD0xMTU2O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/KEHQDdjuRZebe.h3vLYlUw--~B/aD0xMTU2O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f38628fd56e5da07c37ca0d01951d25c",
-                    "width": 2000,
-                    "height": 1156,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmhP4gKCR7sSfsx6df.GQw--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
+                    "width": 2736,
+                    "height": 1536,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fUq3JaBNiTpjfrh85djnxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KEHQDdjuRZebe.h3vLYlUw--~B/aD0xMTU2O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f38628fd56e5da07c37ca0d01951d25c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tuK091C_0UAl3qA0Jg4TyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -202,10 +90,163 @@
             ]
         },
         "relatedTickers": [
-            "UBSFF",
-            "UBSFY",
-            "NTDOF",
-            "NTDOY",
+            "XLP",
+            "INTC",
+            "AMZN",
+            "DIS",
+            "KO",
+            "^IXIC",
+            "SHW",
+            "VZ",
+            "DHI",
+            "LEN",
+            "LEN-B",
+            "^GSPC",
+            "CVX",
+            "HON",
+            "AMGN",
+            "XLY",
+            "JPM",
+            "PG",
+            "XLI",
+            "IBM",
+            "XLF",
+            "CSCO",
+            "NVDA",
+            "PEP",
+            "TSLA",
+            "HD",
+            "XLRE",
+            "META",
+            "RKT",
+            "JNJ",
+            "AAPL",
+            "XLV",
+            "MSFT",
+            "MCD",
+            "BA",
+            "WMT",
+            "LOW",
+            "UNH",
+            "XLE",
+            "V",
+            "XLU",
+            "GOOG",
+            "GOOGL",
+            "MRK",
+            "XLK",
+            "XLB",
+            "XLC"
+        ]
+    },
+    "97d9e361-8a16-3999-811e-52dddfd36b09": {
+        "uuid": "97d9e361-8a16-3999-811e-52dddfd36b09",
+        "title": "Should Investors Buy Netflix Stock With $1,000 Right Now?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/97d9e361-8a16-3999-811e-52dddfd36b09/should-investors-buy-netflix.html",
+        "providerPublishTime": 1658929006,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/skClQsIgmd_7B31yl5Sm1g--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cpiD3LLiRG_g2.KQO3HvXA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7a15cb4634e53c2670ba6b2b82e7a846",
+                    "width": 1400,
+                    "height": 934,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YS20uLuxjwQhqX4gRDg.IQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cpiD3LLiRG_g2.KQO3HvXA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7a15cb4634e53c2670ba6b2b82e7a846",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
+            "DIS"
+        ]
+    },
+    "73966b9d-329f-3707-ab14-4494acc2e101": {
+        "uuid": "73966b9d-329f-3707-ab14-4494acc2e101",
+        "title": "Investors Heavily Search The Walt Disney Company (DIS): Here is What You Need to Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/investors-heavily-search-walt-disney-130001925.html",
+        "providerPublishTime": 1658926801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+                    "width": 900,
+                    "height": 633,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "7142c7c9-dda0-3fe6-aef5-249be2c71971": {
+        "uuid": "7142c7c9-dda0-3fe6-aef5-249be2c71971",
+        "title": "3 Reasons Disney+ Could Soon Overtake Netflix",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7142c7c9-dda0-3fe6-aef5-249be2c71971/3-reasons-disney%2B-could-soon.html",
+        "providerPublishTime": 1658925960,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zekdw_C6MNwmFgkfrcKR3g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NNAhjcAh5KXKOcf6dF4AKQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/782627ecf68c352491c6c39fbcbfb67d",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WDkfXqHHS3NPOg0XFd_y2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NNAhjcAh5KXKOcf6dF4AKQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/782627ecf68c352491c6c39fbcbfb67d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS",
+            "NFLX"
+        ]
+    },
+    "630b7190-662b-33e7-a9a2-934f76f4ef5d": {
+        "uuid": "630b7190-662b-33e7-a9a2-934f76f4ef5d",
+        "title": "If You Invested $3,000 in Netflix in 2007, This Is How Much You Would Have Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/630b7190-662b-33e7-a9a2-934f76f4ef5d/if-you-invested-%243%2C000-in.html",
+        "providerPublishTime": 1658925913,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DyMoayjSgqI_EDJARJ7ZsA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PjPOJOTlCzJu0DYstou9lw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8fab7d78df517a4db012d943e8aa452a",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gRcPoOCapeFanw7iySSrxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PjPOJOTlCzJu0DYstou9lw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8fab7d78df517a4db012d943e8aa452a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NFLX",
             "DIS"
         ]
     }

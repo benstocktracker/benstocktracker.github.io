@@ -1,4 +1,140 @@
 {
+    "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7": {
+        "uuid": "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7",
+        "title": "Franklin Templeton's Employees Engage in Global Events to Give Back to the Community",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templetons-employees-engage-global-130019288.html",
+        "providerPublishTime": 1658926819,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o.ozl87r8mmv2h754vK6Fw--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
+                    "width": 650,
+                    "height": 488,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3P06.lCV4GjOT1QOfm2lsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "abfe4c53-79c1-3349-b0b0-fa7204279291": {
+        "uuid": "abfe4c53-79c1-3349-b0b0-fa7204279291",
+        "title": "Ameriprise Financial Services (AMP) Q2 Earnings Surpass Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/ameriprise-financial-services-amp-q2-214509786.html",
+        "providerPublishTime": 1658871909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/f_bLTsOnmzrA8rHMNKfNRw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
+                    "width": 900,
+                    "height": 594,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/24eK28oXPAmS7aYFGj00Ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMP",
+            "BEN"
+        ]
+    },
+    "e825e81e-04ab-34b8-877c-af408e0bfd58": {
+        "uuid": "e825e81e-04ab-34b8-877c-af408e0bfd58",
+        "title": "Franklin Templeton Celebrates LGBTQ+ Inclusion",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-celebrates-lgbtq-inclusion-130014242.html",
+        "providerPublishTime": 1658840414,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pQI.mG.tDZTrucGHfJ6NMQ--~B/aD0zNzY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/sjcW1SUFuG51rBqwaC8laQ--~B/aD0zNzY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/36034c0804e9de0e0a7bde2acd6da4dd",
+                    "width": 650,
+                    "height": 376,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8U3w3UnzrV44k5pAVRA_SQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sjcW1SUFuG51rBqwaC8laQ--~B/aD0zNzY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/36034c0804e9de0e0a7bde2acd6da4dd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "af42c226-0eac-35b2-894f-63a94bbb7fcb": {
+        "uuid": "af42c226-0eac-35b2-894f-63a94bbb7fcb",
+        "title": "Franklin Templeton Earns Top Score in the Disability Equality Index",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-earns-top-score-140032082.html",
+        "providerPublishTime": 1658757632,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Icpu9AZQgvrnTh7wAK8d6w--~B/aD02NTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yX6I.m9YQnZ8kDbmwFihqA--~B/aD02NTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/5f8640cc8bc8062b980355f3176f8e06",
+                    "width": 650,
+                    "height": 650,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/d_yq8lliHaWvyfQmIwWzNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yX6I.m9YQnZ8kDbmwFihqA--~B/aD02NTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/5f8640cc8bc8062b980355f3176f8e06",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "2d4ba627-5e7a-3e91-8015-09b0968719af": {
+        "uuid": "2d4ba627-5e7a-3e91-8015-09b0968719af",
+        "title": "What Awaits Franklin Resources (BEN) in Fiscal Q3 Earnings?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/awaits-franklin-resources-ben-fiscal-135701742.html",
+        "providerPublishTime": 1658757421,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NQbbypuw4XBKhsv8vJl83Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/NytQ59EoEPyaPZIq5blNOA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f4da27ef25968ca5e093b20f43a1bb87",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5CtfePZlh6QsIdcRDqOHvQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NytQ59EoEPyaPZIq5blNOA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f4da27ef25968ca5e093b20f43a1bb87",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
     "d612b5ac-c9d2-3cb0-a900-12484e5fc1f2": {
         "uuid": "d612b5ac-c9d2-3cb0-a900-12484e5fc1f2",
         "title": "Earnings Preview: Virtus Investment Partners (VRTS) Q2 Earnings Expected to Decline",
@@ -71,118 +207,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/198HQg4P.5yaGFaUMW1.UQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gzpQttJYpzZ92eJUIpVyeA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/5a95ad14c318c7fca2770f18589c36e4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "4cc6ef37-fa96-317a-9a39-67363a273ac9": {
-        "uuid": "4cc6ef37-fa96-317a-9a39-67363a273ac9",
-        "title": "Franklin Templeton Funds - 10 Best Templeton Mutual Funds",
-        "publisher": "TheStreet.com",
-        "link": "https://finance.yahoo.com/m/4cc6ef37-fa96-317a-9a39-67363a273ac9/franklin-templeton-funds-10.html",
-        "providerPublishTime": 1658171640,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/slejn435RPvCEIpvONDYEg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VxrLaF2kgu8Do2yO9PwOnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DV3xl40GhoM6zPb4LvwvJw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet.com/19bd9a44486e93d23f9fb2dd7703a041",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "1cd3a538-59b9-32a6-a573-f6d46b3230b4": {
-        "uuid": "1cd3a538-59b9-32a6-a573-f6d46b3230b4",
-        "title": "Franklin Templeton Canada Announces ETF Cash Distributions",
-        "publisher": "CNW Group",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-canada-announces-etf-210000479.html",
-        "providerPublishTime": 1657746000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gBpRMp5qfQsby5VaT5Zvjg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qu1hkVNwKqEUOk3Amaia1g--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cnwgroup.com/de6e6d89878a1a6a443049c8e6480b7f",
-                    "width": 16,
-                    "height": 16,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vg_jUnQvhI_mii102BUW4A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qu1hkVNwKqEUOk3Amaia1g--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cnwgroup.com/de6e6d89878a1a6a443049c8e6480b7f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FWCP.TO",
-            "BEN",
-            "FLGD.TO",
-            "FCII.TO",
-            "FLCI.TO",
-            "FLUI.TO",
-            "FBGO.TO",
-            "FLCP.TO",
-            "FLSD.TO",
-            "FLGA.TO"
-        ]
-    },
-    "b99d3ae9-b104-3011-ad7c-3e474b58184c": {
-        "uuid": "b99d3ae9-b104-3011-ad7c-3e474b58184c",
-        "title": "Franklin Resources, Inc. Announces Month-End Assets Under Management",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-resources-inc-announces-month-203500799.html",
-        "providerPublishTime": 1657658100,
-        "type": "STORY",
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "a99284c7-ed05-3aa4-8941-d01ec018e523": {
-        "uuid": "a99284c7-ed05-3aa4-8941-d01ec018e523",
-        "title": "Why Franklin Resources' Stock Price Dropped 30.4% in the First Half",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a99284c7-ed05-3aa4-8941-d01ec018e523/why-franklin-resources%27-stock.html",
-        "providerPublishTime": 1657554548,
-        "type": "STORY",
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "b21db54b-cca1-370d-8ceb-2137ca309c69": {
-        "uuid": "b21db54b-cca1-370d-8ceb-2137ca309c69",
-        "title": "Franklin Templeton to Rename U.S. ETF Platform for Better Brand Alignment",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-rename-u-etf-142200566.html",
-        "providerPublishTime": 1657549320,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vvdu2UdIlWahmrqLxzBjaQ--~B/aD0xNzc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/4iOjPu.z9uekWDmoNzyAgA--~B/aD0xNzc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/a9b4f4b4a4d0398b0a7814180112575a",
-                    "width": 480,
-                    "height": 177,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/K6rbzO1aCa4spsGoe_tGdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4iOjPu.z9uekWDmoNzyAgA--~B/aD0xNzc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/a9b4f4b4a4d0398b0a7814180112575a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

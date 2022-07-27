@@ -1,21 +1,78 @@
 {
-    "7e55843f-7666-3c67-b088-c02ba5b4668f": {
-        "uuid": "7e55843f-7666-3c67-b088-c02ba5b4668f",
-        "title": "Where Will Nio Be in 5 Years?",
+    "b96a1734-95d7-32d0-94f1-b9475cd85cc2": {
+        "uuid": "b96a1734-95d7-32d0-94f1-b9475cd85cc2",
+        "title": "Nio Is Down 70% From All-Time Highs. Here Are 2 Reasons Why It's Worth a Second Chance.",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7e55843f-7666-3c67-b088-c02ba5b4668f/where-will-nio-be-in-5-years%3F.html",
-        "providerPublishTime": 1658575800,
+        "link": "https://finance.yahoo.com/m/b96a1734-95d7-32d0-94f1-b9475cd85cc2/nio-is-down-70%25-from-all-time.html",
+        "providerPublishTime": 1658916480,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q3YXWpS0DOBsJJAprpf_qA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qMOsBE3OCFnkHRn3UvjrfA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e5024bc2cc41681e32ba1a306e2eed83",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/n163._zgEwl.Qd2iXg8aIw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/M0hcs0P1I2dMzzs2wmgczQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf5b7bc2714aff563f0ad40fc9afcfb1",
                     "width": 1400,
-                    "height": 752,
+                    "height": 787,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ObJq_0QK2b1sI9.sYxHAJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qMOsBE3OCFnkHRn3UvjrfA--~B/aD03NTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e5024bc2cc41681e32ba1a306e2eed83",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZVphVqjTnCjFHHcp.uNjNg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/M0hcs0P1I2dMzzs2wmgczQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cf5b7bc2714aff563f0ad40fc9afcfb1",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NIO",
+            "TSLA"
+        ]
+    },
+    "3c26849a-b4f9-3d88-b71b-5d8c729566cd": {
+        "uuid": "3c26849a-b4f9-3d88-b71b-5d8c729566cd",
+        "title": "Nasdaq Bear Market: 3 Stellar Growth Stocks That Can Double Your Money by 2025",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/3c26849a-b4f9-3d88-b71b-5d8c729566cd/nasdaq-bear-market%3A-3-stellar.html",
+        "providerPublishTime": 1658913660,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WqgK9ySLtlgjdnoA0L1Uow--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wIoZCde_kB.lbOW5859H7w--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0b24cdd20ba97c86c2eebdf875ed0acd",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mfyCHRrbPz27mK6HSlJSvw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wIoZCde_kB.lbOW5859H7w--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0b24cdd20ba97c86c2eebdf875ed0acd",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "COMP",
+            "NIO",
+            "UPST"
+        ]
+    },
+    "a2f1825f-9be1-3a64-8024-c86043cb14d5": {
+        "uuid": "a2f1825f-9be1-3a64-8024-c86043cb14d5",
+        "title": "NIO Inc. (NIO) Dips More Than Broader Markets: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/nio-inc-nio-dips-more-214509246.html",
+        "providerPublishTime": 1658871909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nAH6fXoesF4FO.fkctxFig--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+                    "width": 900,
+                    "height": 845,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Bq.M_4Vj5tmmHLkoBQb0XQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gUf3JPAiwp3PVjuDKftvaA--~B/aD04NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -26,23 +83,51 @@
             "NIO"
         ]
     },
-    "7e29bf6e-7645-35be-964e-696c91611ec0": {
-        "uuid": "7e29bf6e-7645-35be-964e-696c91611ec0",
-        "title": "GM\u2019s Cadillac debuts luxury Celestiq electric vehicle",
+    "7787f58d-13aa-3237-adf3-cdc38e8d23c5": {
+        "uuid": "7787f58d-13aa-3237-adf3-cdc38e8d23c5",
+        "title": "Why Tesla, Lucid, and Nio Stocks Were All Falling Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7787f58d-13aa-3237-adf3-cdc38e8d23c5/why-tesla%2C-lucid%2C-and-nio.html",
+        "providerPublishTime": 1658864279,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WDdGttTX9QSocJEM6KBYCw--~B/aD01OTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3TquFH6BGUsN_RSWIRhbLw--~B/aD01OTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/56b769a90a7936d56c9830e3cf154316",
+                    "width": 1400,
+                    "height": 592,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qdgnFtWNAXS4zo2HoVlgUA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3TquFH6BGUsN_RSWIRhbLw--~B/aD01OTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/56b769a90a7936d56c9830e3cf154316",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "NIO"
+        ]
+    },
+    "92acecf8-a7a3-3164-b5b3-841510d1d546": {
+        "uuid": "92acecf8-a7a3-3164-b5b3-841510d1d546",
+        "title": "Auto industry \u2018really struggling\u2019 due to chip shortage, analyst says",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/gm-cadillac-debuts-luxury-celestiq-143449896.html",
-        "providerPublishTime": 1658500489,
+        "link": "https://finance.yahoo.com/video/auto-industry-really-struggling-due-165946999.html",
+        "providerPublishTime": 1658854786,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9OdoOSiZaier4GamfM6btA--~B/aD0xNTMyO3c9MjcyOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/71877ff0-09cb-11ed-97f5-9a039e8a6c3f",
-                    "width": 2729,
-                    "height": 1532,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jJZRB1Om4JBblykMeoG_XQ--~B/aD0yODg7dz01MTQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/584153e0-0d04-11ed-be77-1da749b6d013",
+                    "width": 514,
+                    "height": 288,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RWR9cIeNnKwqEPMFK_ZkUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/71877ff0-09cb-11ed-97f5-9a039e8a6c3f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xGodSkx5ZtV_kDmICV.Kbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/584153e0-0d04-11ed-be77-1da749b6d013",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -50,177 +135,61 @@
             ]
         },
         "relatedTickers": [
+            "RIVN",
+            "TM",
+            "TOYOF",
+            "HYMTF",
+            "NIO",
             "GM",
             "TSLA",
-            "LCID",
-            "FFIE",
-            "NKLA",
-            "NIO",
-            "STLA",
-            "VLTA",
             "F",
-            "FSR"
+            "VLKAF",
+            "VLKPF",
+            "VWAGY",
+            "VWAPY",
+            "HMC",
+            "HNDAF"
         ]
     },
-    "53329ce5-951b-3f1d-b3e1-13e3d8d60c42": {
-        "uuid": "53329ce5-951b-3f1d-b3e1-13e3d8d60c42",
-        "title": "Top Electric Car Stocks for Q3 2022",
-        "publisher": "Investopedia",
-        "link": "https://finance.yahoo.com/m/53329ce5-951b-3f1d-b3e1-13e3d8d60c42/top-electric-car-stocks-for.html",
-        "providerPublishTime": 1658438852,
+    "264f528a-31ea-3145-bc93-81a94629900a": {
+        "uuid": "264f528a-31ea-3145-bc93-81a94629900a",
+        "title": "NIO to Hold Annual General Meeting and Class Meetings on August 25, 2022",
+        "publisher": "GlobeNewswire",
+        "link": "https://finance.yahoo.com/news/nio-hold-annual-general-meeting-112800662.html",
+        "providerPublishTime": 1658834880,
         "type": "STORY",
         "relatedTickers": [
-            "NIO",
-            "XPEV",
-            "XPNGF",
-            "BLNK",
-            "LI",
-            "TSLA"
+            "NIO"
         ]
     },
-    "685b88f6-33f4-3dc6-a608-b7678c6caec6": {
-        "uuid": "685b88f6-33f4-3dc6-a608-b7678c6caec6",
-        "title": "NIO Inc. (NIO) Outpaces Stock Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/nio-inc-nio-outpaces-stock-214509766.html",
-        "providerPublishTime": 1658353509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NLrcU6JTDovfmseBh3I.Wg--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-                    "width": 900,
-                    "height": 588,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J7VKaGzOB6XGza6KEHjdMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NIO",
-            "^GSPC"
-        ]
-    },
-    "dffb9016-fa22-37fb-8a1d-d21837d5b629": {
-        "uuid": "dffb9016-fa22-37fb-8a1d-d21837d5b629",
-        "title": "China is the 'hearts and lungs' of the Tesla story: Analyst",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/china-hearts-lungs-tesla-story-212652879.html",
-        "providerPublishTime": 1658352412,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0mU_8ERi8zTI4y7eEtswTQ--~B/aD0xNDg3O3c9MjY0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9b483cd0-0872-11ed-9ffc-b59556d88d91",
-                    "width": 2648,
-                    "height": 1487,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/..UYaGpxzqoLkz3UybjMwQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/9b483cd0-0872-11ed-9ffc-b59556d88d91",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV",
-            "XPNGF",
-            "GM",
-            "RVNC",
-            "TSLA",
-            "LCID",
-            "LAZR",
-            "F",
-            "NIO",
-            "BTC-USD"
-        ]
-    },
-    "8dfbfa4b-50c9-3e64-aa84-f653d29a0972": {
-        "uuid": "8dfbfa4b-50c9-3e64-aa84-f653d29a0972",
-        "title": "TSLA Stock: Tesla Stock Quotes, Company News And Chart Analysis",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/8dfbfa4b-50c9-3e64-aa84-f653d29a0972/tsla-stock%3A-tesla-stock.html",
-        "providerPublishTime": 1658320563,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fcphuKlW6QERfU7cIdYo4w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mjaqLy8JgT1Px9Ww9RX8bA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/54199fe7b0aefa12e448f77057873b2d",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/e24yZpTiawDTO6g31sleXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mjaqLy8JgT1Px9Ww9RX8bA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/54199fe7b0aefa12e448f77057873b2d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "NKLA",
-            "NIO",
-            "RIVN",
-            "AAPL"
-        ]
-    },
-    "ebaf1a42-4990-3112-a9dd-c916c474c2a4": {
-        "uuid": "ebaf1a42-4990-3112-a9dd-c916c474c2a4",
-        "title": "Nasdaq Bear Market: 3 Game-Changing Stocks That Can Triple Your Money by 2027",
+    "a5f16dad-f95d-3a47-9ac2-e0df7bfc1a78": {
+        "uuid": "a5f16dad-f95d-3a47-9ac2-e0df7bfc1a78",
+        "title": "Why Nio Shares Dipped Today",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ebaf1a42-4990-3112-a9dd-c916c474c2a4/nasdaq-bear-market%3A-3.html",
-        "providerPublishTime": 1658308860,
+        "link": "https://finance.yahoo.com/m/a5f16dad-f95d-3a47-9ac2-e0df7bfc1a78/why-nio-shares-dipped-today.html",
+        "providerPublishTime": 1658769892,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qqckyPkhNASEfCmAUiiz1g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/I60fDSExWIMxG7nV8AmQ5A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0947cd85ba9c75a365faf6d301ad123e",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xcB2Guj36f8_KnCW9RaFxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/I60fDSExWIMxG7nV8AmQ5A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0947cd85ba9c75a365faf6d301ad123e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
-            "LOVE",
-            "COMP",
-            "NIO",
-            "UPST",
-            "^GSPC"
+            "NIO"
         ]
     },
-    "ea43719a-0a4c-3827-a4eb-85bc67857718": {
-        "uuid": "ea43719a-0a4c-3827-a4eb-85bc67857718",
-        "title": "Why Tesla, Rivian, and Nio Stock Popped Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ea43719a-0a4c-3827-a4eb-85bc67857718/why-tesla%2C-rivian%2C-and-nio.html",
-        "providerPublishTime": 1658161632,
+    "fcffb804-e0c7-3c2f-a4d8-5a0b20ff0c14": {
+        "uuid": "fcffb804-e0c7-3c2f-a4d8-5a0b20ff0c14",
+        "title": "10 Chinese Real Estate Stocks to Watch as Analysts Predict More Defaults and Crisis",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-chinese-real-estate-stocks-130352405.html",
+        "providerPublishTime": 1658754232,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/GhfFDwSBjTMHslhO0bezZQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eMdpVjUuB1ReiAVTI1LTAw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/773f23a8af341781507f7b8065ae13f1",
-                    "width": 1400,
-                    "height": 933,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/15qsgzFB8sFCHOjfgqrgBw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bgGnk3Imz4zIH9vwfrcGng--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/70762c9c483433fa28a10b7d61222771",
+                    "width": 750,
+                    "height": 500,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.9LyVFDte7rwqBpqE8lmiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eMdpVjUuB1ReiAVTI1LTAw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/773f23a8af341781507f7b8065ae13f1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MP9gGOSY8am.AaxJUMvqaw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bgGnk3Imz4zIH9vwfrcGng--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/70762c9c483433fa28a10b7d61222771",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -228,8 +197,12 @@
             ]
         },
         "relatedTickers": [
-            "TSLA",
-            "RIVN",
+            "BEKE",
+            "FANH",
+            "XIN",
+            "LEJU",
+            "XYF",
+            "BIDU",
             "NIO"
         ]
     }

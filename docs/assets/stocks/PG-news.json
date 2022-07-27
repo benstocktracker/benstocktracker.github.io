@@ -1,21 +1,21 @@
 {
-    "0058c7da-d828-3f9f-801e-eeb7bb6a22e6": {
-        "uuid": "0058c7da-d828-3f9f-801e-eeb7bb6a22e6",
-        "title": "What to Watch in Kimberly-Clark's Tuesday Announcement",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0058c7da-d828-3f9f-801e-eeb7bb6a22e6/what-to-watch-in.html",
-        "providerPublishTime": 1658572200,
+    "0b31101d-a48a-3fd3-ba1c-cf7142ec2638": {
+        "uuid": "0b31101d-a48a-3fd3-ba1c-cf7142ec2638",
+        "title": "Senate\u2019s Antitrust Crackdown Sputters as Schumer Signals Doubts",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/senate-antitrust-crackdown-sputters-schumer-143133894.html",
+        "providerPublishTime": 1658932293,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kzgR9UnF90oWydS3kY9Vvw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AE2YUrQYrRJ0uNT3MlI3qw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/53c3ceaf8d7ac8c62e3596e244813b0e",
-                    "width": 1400,
-                    "height": 937,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T98cTmvpINx1NI8UfEZJnw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/of1RxTPxQ5W63fuHeVPlbQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/df42811d0f30a983f58e97ceb10d41d5",
+                    "width": 2000,
+                    "height": 1334,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/G_fSv_fposBffoW1Lc731g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AE2YUrQYrRJ0uNT3MlI3qw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/53c3ceaf8d7ac8c62e3596e244813b0e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J2KArDC4aRO5vtpu8AjtFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/of1RxTPxQ5W63fuHeVPlbQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/df42811d0f30a983f58e97ceb10d41d5",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,60 +23,33 @@
             ]
         },
         "relatedTickers": [
-            "KMB",
-            "PG"
-        ]
-    },
-    "691bf50d-5168-3342-a505-3a54b042078d": {
-        "uuid": "691bf50d-5168-3342-a505-3a54b042078d",
-        "title": "10 Stocks to Buy Before Their Earnings Reports",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-buy-earnings-reports-154747567.html",
-        "providerPublishTime": 1658504867,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hWwmmeAB13ZhJesqvIe4bg--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/v.UWue.L3lFGrhyGjcv73A--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a05564366cf0c2e41fa9afec9644152b",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5oYFmNLEiBDqw0y9a7cEOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/v.UWue.L3lFGrhyGjcv73A--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a05564366cf0c2e41fa9afec9644152b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO",
-            "QCOM",
-            "FUNC",
+            "GOOG",
             "GOOGL",
-            "MSFT",
             "AAPL",
-            "PG"
+            "AXP",
+            "AMZN",
+            "MSFT",
+            "PG",
+            "META"
         ]
     },
-    "8c5b0b97-e34e-3f39-949c-c7f78d586df7": {
-        "uuid": "8c5b0b97-e34e-3f39-949c-c7f78d586df7",
-        "title": "Stocks mixed, Treasury yields down, Snap stock plummets",
+    "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
+        "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
+        "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-mixed-treasury-yields-down-141500655.html",
-        "providerPublishTime": 1658499300,
+        "link": "https://finance.yahoo.com/video/stocks-tech-leads-gains-home-141855635.html",
+        "providerPublishTime": 1658931535,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7mnavq9pbPgADboOv48bIw--~B/aD0xNTc1O3c9MjgwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/acca9460-09c8-11ed-acfa-1cde2e7dc589",
-                    "width": 2804,
-                    "height": 1575,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmhP4gKCR7sSfsx6df.GQw--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
+                    "width": 2736,
+                    "height": 1536,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_JoGdQlNo53j.2Af2g3zDw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/acca9460-09c8-11ed-acfa-1cde2e7dc589",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tuK091C_0UAl3qA0Jg4TyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -84,53 +57,72 @@
             ]
         },
         "relatedTickers": [
-            "^TNX",
-            "XLC",
-            "^FVX",
-            "XLE",
-            "WMT",
-            "XLV",
-            "PG",
-            "XLK",
-            "^DJI",
-            "V",
+            "XLP",
+            "INTC",
+            "AMZN",
+            "DIS",
+            "KO",
+            "^IXIC",
+            "SHW",
             "VZ",
+            "DHI",
+            "LEN",
+            "LEN-B",
+            "^GSPC",
+            "CVX",
+            "HON",
+            "AMGN",
+            "XLY",
+            "JPM",
+            "PG",
+            "XLI",
+            "IBM",
+            "XLF",
+            "CSCO",
+            "NVDA",
+            "PEP",
+            "TSLA",
+            "HD",
+            "XLRE",
+            "META",
+            "RKT",
+            "JNJ",
+            "AAPL",
+            "XLV",
             "MSFT",
+            "MCD",
+            "BA",
+            "WMT",
+            "LOW",
             "UNH",
+            "XLE",
+            "V",
+            "XLU",
             "GOOG",
             "GOOGL",
-            "XLI",
-            "XLF",
-            "AAPL",
+            "MRK",
+            "XLK",
             "XLB",
-            "XLY",
-            "^GSPC",
-            "XLP",
-            "XLU",
-            "AXP",
-            "^TYX",
-            "SNAP",
-            "JNJ",
-            "XLRE"
+            "XLC"
         ]
     },
-    "afb1c97c-c5a4-3fe7-8f91-aad3b11e2cf1": {
-        "uuid": "afb1c97c-c5a4-3fe7-8f91-aad3b11e2cf1",
-        "title": "Procter & Gamble (PG) Reports Next Week: Wall Street Expects Earnings Growth",
+    "008e26db-5d3e-3766-aa8d-31a0412e5d40": {
+        "uuid": "008e26db-5d3e-3766-aa8d-31a0412e5d40",
+        "title": "Factors to Influence Procter & Gamble (PG) in Q4 Earnings",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/procter-gamble-pg-reports-next-140002948.html",
-        "providerPublishTime": 1658498402,
+        "link": "https://finance.yahoo.com/news/factors-influence-procter-gamble-pg-132801783.html",
+        "providerPublishTime": 1658928481,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cbyBVJv36c9SG5fDX6er9w--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/d6hN0_BhikrNdWTnix6fng--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2",
-                    "width": 900,
-                    "height": 741,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gzM3EKbT65wTI9wto1AIZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/VQO_nC9a.rzsrJsNq57GuA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9ab8beb3e08618cdfd7e54663fd5ac93",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/x4oTL6tJCbg7_lUwefDhfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/d6hN0_BhikrNdWTnix6fng--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WRk_7dHHEU5HirSMM6j4YA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VQO_nC9a.rzsrJsNq57GuA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9ab8beb3e08618cdfd7e54663fd5ac93",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -138,102 +130,28 @@
             ]
         },
         "relatedTickers": [
-            "PG"
-        ]
-    },
-    "afaf70ca-7081-3c32-8f60-1290ac2281c7": {
-        "uuid": "afaf70ca-7081-3c32-8f60-1290ac2281c7",
-        "title": "10 Stocks Least Vulnerable to Recession",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-stocks-least-vulnerable-recession-130409658.html",
-        "providerPublishTime": 1658495049,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hL2tValX0jmfqLRLmpaycQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/cM3g4gPw5ElHZm_5skjMYA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72bc752715dc9b53b4dedd0c00352659",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jYdITfQhbV.2nt8mTIG9Tg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cM3g4gPw5ElHZm_5skjMYA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72bc752715dc9b53b4dedd0c00352659",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DTE",
-            "KHC",
-            "DUK",
-            "D",
-            "CL",
-            "KO",
             "PG",
-            "JNJ"
+            "CTVA",
+            "K"
         ]
     },
-    "19b918d1-8e85-3bf3-895a-30b996479974": {
-        "uuid": "19b918d1-8e85-3bf3-895a-30b996479974",
-        "title": "Stock Market Plunge: Why I'm Loading Up on These 3 Stocks",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/19b918d1-8e85-3bf3-895a-30b996479974/stock-market-plunge%3A-why-i%27m.html",
-        "providerPublishTime": 1658482500,
-        "type": "STORY",
-        "relatedTickers": [
-            "UL",
-            "TXN",
-            "PG",
-            "HRL",
-            "MDT"
-        ]
-    },
-    "0ceb4fe5-6f3e-3ed6-a3ca-44dff7d1354d": {
-        "uuid": "0ceb4fe5-6f3e-3ed6-a3ca-44dff7d1354d",
-        "title": "Can This Passive-Income Machine Keep Up With Inflation?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0ceb4fe5-6f3e-3ed6-a3ca-44dff7d1354d/can-this-passive-income.html",
-        "providerPublishTime": 1658482020,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YlX1.ugtNxyHeXovnM5bew--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9bpNzE.pll34PKPCWE1bEw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ebf1766ef732d473a13dc2713bd6ff80",
-                    "width": 1400,
-                    "height": 841,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KmMSTc_0xzpMrZvauRDntg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9bpNzE.pll34PKPCWE1bEw--~B/aD04NDE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ebf1766ef732d473a13dc2713bd6ff80",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
-        ]
-    },
-    "aa521c18-c33f-3b0c-8112-83a8ca1b2b09": {
-        "uuid": "aa521c18-c33f-3b0c-8112-83a8ca1b2b09",
-        "title": "10 Best Dividend Stocks to Buy in 2022",
+    "8913387e-8c5b-32ec-9635-80cd1c95da61": {
+        "uuid": "8913387e-8c5b-32ec-9635-80cd1c95da61",
+        "title": "Top 25 Dividend Stocks",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-dividend-stocks-buy-155412653.html",
-        "providerPublishTime": 1658418852,
+        "link": "https://finance.yahoo.com/news/top-25-dividend-stocks-131911008.html",
+        "providerPublishTime": 1658927951,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EE8F.ysY.lRtAJ3_g3MaYQ--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2sCuYcSGxQWuqxDpo2NFUA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
                     "width": 750,
                     "height": 500,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tomUGnwyB7JhVGgK.9SUCg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5OIs7QagqDMCkPqHlCcIIw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c807f94b40f28c99d63c0527ec3bdc1a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/83F9qQtTmpvQdlDulHEdVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -241,15 +159,168 @@
             ]
         },
         "relatedTickers": [
-            "UNH",
-            "NUE",
-            "LOW",
-            "AXP",
-            "^GSPC",
+            "LLY",
+            "CB",
+            "JNJ",
+            "BDX",
+            "MKC-V",
+            "AOS",
+            "ADM",
+            "GPC",
+            "PEP",
+            "JCI",
             "PG",
-            "KO",
-            "RTX",
-            "JNJ"
+            "SWK",
+            "ITW"
+        ]
+    },
+    "debc0f06-7c17-3e3d-b584-946893e62591": {
+        "uuid": "debc0f06-7c17-3e3d-b584-946893e62591",
+        "title": "Is Procter & Gamble Stock a Buy Right Now?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/debc0f06-7c17-3e3d-b584-946893e62591/is-procter-%26-gamble-stock-a.html",
+        "providerPublishTime": 1658923800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/k7mTQPKPAMn.rWOFRu2uHw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/r6NsD1z6qeaoUZVlWYd5Vw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/585ac9ea1957bee025530cb782b97326",
+                    "width": 1400,
+                    "height": 937,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/c75vA2JhX.dF9FHzIc7oUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/r6NsD1z6qeaoUZVlWYd5Vw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/585ac9ea1957bee025530cb782b97326",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG",
+            "KMB"
+        ]
+    },
+    "f83772e4-4e09-3cf5-a95d-7e146d943b88": {
+        "uuid": "f83772e4-4e09-3cf5-a95d-7e146d943b88",
+        "title": "Market check: Walmart warnings drags retail stocks down",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/market-check-walmart-warnings-drags-143133267.html",
+        "providerPublishTime": 1658845893,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v_Cwa3l5OPsR.sRpGfIw_Q--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
+                    "width": 2779,
+                    "height": 1560,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mA3O_oh1gGLhIrr.3mPkcw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WMT",
+            "TCEHY",
+            "TCTZF",
+            "XLRE",
+            "XLB",
+            "XLF",
+            "GOOG",
+            "GOOGL",
+            "MSFT",
+            "XLV",
+            "IUTSF",
+            "MRK",
+            "XLE",
+            "VZ",
+            "DG",
+            "AAPL",
+            "PG",
+            "BJ",
+            "META",
+            "DIS",
+            "^GSPC",
+            "MC",
+            "JNJ",
+            "JD",
+            "JDCMF",
+            "XLK",
+            "NKE",
+            "UNH",
+            "XLU",
+            "XLP",
+            "IBM",
+            "NVDA",
+            "JPM",
+            "FL",
+            "BABA",
+            "BABAF",
+            "V",
+            "SHOP",
+            "ULTA"
+        ]
+    },
+    "0a0150ff-757e-301d-b7f1-9b81b6a75736": {
+        "uuid": "0a0150ff-757e-301d-b7f1-9b81b6a75736",
+        "title": "Procter & Gamble (PG) Outpaces Stock Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/procter-gamble-pg-outpaces-stock-214509632.html",
+        "providerPublishTime": 1658785509,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 900,
+                    "height": 745,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
+    "6a3a9d36-5b1b-3647-a84a-7cc8cb1e4344": {
+        "uuid": "6a3a9d36-5b1b-3647-a84a-7cc8cb1e4344",
+        "title": "Analysis: Colgate, Tide maker P&G rejig price tactics to keep cash-strapped shoppers",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/analysis-colgate-tide-maker-p-101105179.html",
+        "providerPublishTime": 1658743865,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y5hI5xvXIaU0jBKccZWnRA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oR0poPlW_x.mA7k41uVfIA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/6ce7989199e74a07e4b01d20e287862b",
+                    "width": 800,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H6d3cmIvDxlPsapSrzRf7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oR0poPlW_x.mA7k41uVfIA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/6ce7989199e74a07e4b01d20e287862b",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHD",
+            "PG",
+            "CLX"
         ]
     }
 }

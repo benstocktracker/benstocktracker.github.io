@@ -1,4 +1,31 @@
 {
+    "7863166f-a988-318d-b1ec-29f45f80f917": {
+        "uuid": "7863166f-a988-318d-b1ec-29f45f80f917",
+        "title": "TriplePoint Venture Growth BDC Corp. Announces Extension of its Revolving Credit Facility",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/triplepoint-venture-growth-bdc-corp-204000581.html",
+        "providerPublishTime": 1658781600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/95WDjm8EAn1Qu4sxlwhyaQ--~B/aD04MDt3PTMwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/NCIVfjMrO0m.VXXFgnBfbA--~B/aD04MDt3PTMwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/74645999786bc2608fcf80f1b7f4bf3c",
+                    "width": 300,
+                    "height": 80,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/r.kE4cA2PqxCN1EU_T8HiA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NCIVfjMrO0m.VXXFgnBfbA--~B/aD04MDt3PTMwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/74645999786bc2608fcf80f1b7f4bf3c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TPVG"
+        ]
+    },
     "3156d506-e10c-312d-85e9-a065e2f42eaa": {
         "uuid": "3156d506-e10c-312d-85e9-a065e2f42eaa",
         "title": "TriplePoint Venture Growth BDC Corp. to Announce 2022 Second Quarter Financial Results on Wednesday, August 3, 2022",

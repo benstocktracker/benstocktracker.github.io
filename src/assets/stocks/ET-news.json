@@ -1,4 +1,146 @@
 {
+    "482689e8-31f1-3d09-9cdd-77103bdda54d": {
+        "uuid": "482689e8-31f1-3d09-9cdd-77103bdda54d",
+        "title": "Energy Transfer LP (ET) Gains As Market Dips: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509909.html",
+        "providerPublishTime": 1658871909,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SAL_BV4Lqcz677Hwp3FpIw--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 1000,
+                    "height": 603,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UFSM7lesnJ4LZBk9Z57AzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fs_R4sd8jCoOMib958Znmg--~B/aD02MDM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
+    "5ad9e160-0c7b-3004-8135-3324c9b95a7a": {
+        "uuid": "5ad9e160-0c7b-3004-8135-3324c9b95a7a",
+        "title": "Sunoco LP Maintains Quarterly Distribution",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/sunoco-lp-maintains-quarterly-distribution-201500851.html",
+        "providerPublishTime": 1658866500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4fGhFJ9ltHfAoOu4W9iN6g--~B/aD01Njt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/ljDSuW2Fn4G.Ta5cqXY_kQ--~B/aD01Njt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a18822e479144e6af359140e8668c91a",
+                    "width": 400,
+                    "height": 56,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xaELycjag8c3va_6ynlnNQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ljDSuW2Fn4G.Ta5cqXY_kQ--~B/aD01Njt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/a18822e479144e6af359140e8668c91a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET",
+            "ET-PC",
+            "ET-PD",
+            "ET-PE",
+            "SUN"
+        ]
+    },
+    "01515369-7165-3038-a6c5-8c158acca8af": {
+        "uuid": "01515369-7165-3038-a6c5-8c158acca8af",
+        "title": "Energy Transfer Announces Increase in Quarterly Cash Distribution",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/energy-transfer-announces-increase-quarterly-201500691.html",
+        "providerPublishTime": 1658866500,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qjz_Of6A.Vzp66Vf3SuLmg--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bJPexZM6IAfq6eFeREuIAw--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/bde499116ff10880c30e895b668ff3e6",
+                    "width": 480,
+                    "height": 140,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Gb14ZqX.aqZ1fSJeYbBYig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bJPexZM6IAfq6eFeREuIAw--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/bde499116ff10880c30e895b668ff3e6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET",
+            "ET-PC",
+            "ET-PD",
+            "ET-PE"
+        ]
+    },
+    "14661c8f-8b3b-3561-9bb7-9a30d1d2b7c9": {
+        "uuid": "14661c8f-8b3b-3561-9bb7-9a30d1d2b7c9",
+        "title": "Is Most-Watched Stock Energy Transfer LP (ET) Worth Betting on Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/most-watched-stock-energy-transfer-130001891.html",
+        "providerPublishTime": 1658840401,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dOFJjF.lFJbuBeMTQ.srQg--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 900,
+                    "height": 587,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mmJVro2NZX9hs6RN4C.7CQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aMCT_Lh5K9xNn9.QUdX03w--~B/aD01ODc7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
+    "508648f0-26f2-3106-87ae-892a452e92ae": {
+        "uuid": "508648f0-26f2-3106-87ae-892a452e92ae",
+        "title": "Energy Transfer Equity Stock Flashing Renewed Technical Strength",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/508648f0-26f2-3106-87ae-892a452e92ae/energy-transfer-equity-stock.html",
+        "providerPublishTime": 1658760540,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pcnsj2iKd56va2vSfB0J2w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xRFjNTAFgOkvUTxHG0gbdQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3417047a4b024123b3a81ee1e1f53d5e",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ij7NbyPIokQsbvnNKND4oA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xRFjNTAFgOkvUTxHG0gbdQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3417047a4b024123b3a81ee1e1f53d5e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ET-PD"
+        ]
+    },
     "03e4f54e-cea7-3099-ae7b-53560c1c944d": {
         "uuid": "03e4f54e-cea7-3099-ae7b-53560c1c944d",
         "title": "The Companies Taking Advantage Of America\u2019s LNG Boom",
@@ -91,138 +233,6 @@
             "ET-PC",
             "ET-PD",
             "ET-PE"
-        ]
-    },
-    "e987d42a-a536-3838-8ff8-3d54a69bfb01": {
-        "uuid": "e987d42a-a536-3838-8ff8-3d54a69bfb01",
-        "title": "7 Best Energy Stocks to Buy Now According to Billionaire Leon Cooperman",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/7-best-energy-stocks-buy-141045732.html",
-        "providerPublishTime": 1658412645,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WiWPvw8BWv885k21yWQ8zQ--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1CxQITGYoHRHFhyfvOkhSA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/755f17038f55b5ec1f36577e4137ee40",
-                    "width": 450,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hGbe04vn3kESElWo_hgtxA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1CxQITGYoHRHFhyfvOkhSA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/755f17038f55b5ec1f36577e4137ee40",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "PXD",
-            "NRG",
-            "ET-PD",
-            "EPD",
-            "GE",
-            "CVX"
-        ]
-    },
-    "ae3d3472-16c9-3403-a4cb-4d3c5c483f6d": {
-        "uuid": "ae3d3472-16c9-3403-a4cb-4d3c5c483f6d",
-        "title": "Energy Transfer LP (ET) Gains But Lags Market: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-gains-214509398.html",
-        "providerPublishTime": 1658353509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/I6NEfdIfVQnuBOcsyd4sPg--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
-                    "width": 900,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OuKZPaloUxgcmtaUQs.1EA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xopQugjeNyS1VO21qlHkcQ--~B/aD02NzU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
-        ]
-    },
-    "0d2e4341-6640-38aa-ac82-8a622bea70bd": {
-        "uuid": "0d2e4341-6640-38aa-ac82-8a622bea70bd",
-        "title": "Soros Backs O\u2019Rourke\u2019s Bid for Texas Governor With $1 Million",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/soros-backs-o-rourke-bid-192901482.html",
-        "providerPublishTime": 1658258941,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UXIzcHnNvmGNnTqPSJQMmA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/Lx1DdFduF3Kb63JyP2yLRw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/ff8159091e0c7f9bdf2b26c92ff4c064",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MlNUasP.3rtjWI3DJyqPXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Lx1DdFduF3Kb63JyP2yLRw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/ff8159091e0c7f9bdf2b26c92ff4c064",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET",
-            "ET-PC",
-            "ET-PD",
-            "ET-PE"
-        ]
-    },
-    "23f08d1f-49f0-3a2c-91b0-ba51e2b48d65": {
-        "uuid": "23f08d1f-49f0-3a2c-91b0-ba51e2b48d65",
-        "title": "This Oil Stock Is Making a Massive Bet on Natural Gas",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/23f08d1f-49f0-3a2c-91b0-ba51e2b48d65/this-oil-stock-is-making-a.html",
-        "providerPublishTime": 1658066400,
-        "type": "STORY",
-        "relatedTickers": [
-            "NG=F",
-            "CL=F",
-            "COP",
-            "SRE",
-            "ET-PD"
-        ]
-    },
-    "c32478c7-7787-34a5-81b5-8d6361d54a4d": {
-        "uuid": "c32478c7-7787-34a5-81b5-8d6361d54a4d",
-        "title": "Energy Transfer LP (ET) is Attracting Investor Attention: Here is What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-et-attracting-130001626.html",
-        "providerPublishTime": 1657890001,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YRz8MGJWcybk9QoXQlMEnQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o6VhAe2Lh5wjpYDfWJVJYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET-PD"
         ]
     }
 }

@@ -1,4 +1,46 @@
 {
+    "38638bd1-2be1-3b67-b6da-cbbe65d67cc8": {
+        "uuid": "38638bd1-2be1-3b67-b6da-cbbe65d67cc8",
+        "title": "3 High-Yielding Dividend Stocks With Payout Ratios Over 100%",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/38638bd1-2be1-3b67-b6da-cbbe65d67cc8/3-high-yielding-dividend.html",
+        "providerPublishTime": 1658931780,
+        "type": "STORY",
+        "relatedTickers": [
+            "MO",
+            "VTRS",
+            "^GSPC",
+            "ENB"
+        ]
+    },
+    "16e4aa1f-7525-3302-a633-f65d7f5fc105": {
+        "uuid": "16e4aa1f-7525-3302-a633-f65d7f5fc105",
+        "title": "Billionaires Are Piling Into These 2 Dividend-Paying Pharma Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/16e4aa1f-7525-3302-a633-f65d7f5fc105/billionaires-are-piling-into.html",
+        "providerPublishTime": 1658843100,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/niN2Hkm.PNwsfpZEj8O0Ig--~B/aD02NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sFKoFmMPNrHI482sI7gRZw--~B/aD02NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/117bd7610eb9d22c9a34a7a234a42bcb",
+                    "width": 1400,
+                    "height": 648,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QTyThHAfAZVripxFCABSJA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sFKoFmMPNrHI482sI7gRZw--~B/aD02NDg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/117bd7610eb9d22c9a34a7a234a42bcb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "VTRS"
+        ]
+    },
     "e17e3ed4-aa41-34a4-abfa-9474ea610a6b": {
         "uuid": "e17e3ed4-aa41-34a4-abfa-9474ea610a6b",
         "title": "Stocks Are Under a Lot of Pressure. Add This Accounting Entry to the Risks.",
@@ -23,12 +65,12 @@
             ]
         },
         "relatedTickers": [
-            "ADT",
-            "TDOC",
-            "VTRS",
+            "POST",
             "CLVT",
             "CLVT-PA",
-            "POST"
+            "VTRS",
+            "ADT",
+            "TDOC"
         ]
     },
     "703f5ae1-5cb7-33de-a017-dd9e11ed38a0": {
@@ -157,62 +199,6 @@
         "relatedTickers": [
             "VTRS",
             "AFCG"
-        ]
-    },
-    "4fc9909b-58fc-3a2c-babc-65f4c05aa30a": {
-        "uuid": "4fc9909b-58fc-3a2c-babc-65f4c05aa30a",
-        "title": "Why Shares of Viatris Climbed 18.8% in May",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/4fc9909b-58fc-3a2c-babc-65f4c05aa30a/why-shares-of-viatris-climbed.html",
-        "providerPublishTime": 1654516612,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YIgsE4QyOFlt3Vl0BKnEag--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zaV.qhQahL9SAgfc5CcMGA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/29ba53402b13472ac777714eb74fa9cd",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w4wEtZ53KkEppaqX_QWhvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zaV.qhQahL9SAgfc5CcMGA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/29ba53402b13472ac777714eb74fa9cd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VTRS"
-        ]
-    },
-    "85830c8e-1bae-3051-8a9b-09de38265f25": {
-        "uuid": "85830c8e-1bae-3051-8a9b-09de38265f25",
-        "title": "3 Great Dividend Stocks to Buy in June",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/85830c8e-1bae-3051-8a9b-09de38265f25/3-great-dividend-stocks-to.html",
-        "providerPublishTime": 1654427040,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xQokBh7af8iiZibpM1NfkA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/N0UuEna7mU2TjatPrxR1xA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/18076b8077a53b184b35db869537a4f0",
-                    "width": 1400,
-                    "height": 787,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/A0M2YTsxVEVi3zly8iHkZQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/N0UuEna7mU2TjatPrxR1xA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/18076b8077a53b184b35db869537a4f0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VTRS",
-            "ABBV",
-            "NVS"
         ]
     }
 }

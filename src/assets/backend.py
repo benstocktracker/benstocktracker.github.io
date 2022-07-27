@@ -157,7 +157,7 @@ if __name__ == '__main__':
     stock_rows = calculate_row_data(stock_data)
     helper.dump(stock_rows, f'{BACKEND_DIR}/stock-rows.json')
 
-    # fetch_watchlist_tickers_data()
+    fetch_watchlist_tickers_data()
     watchlist_data = combine_watchlist_data()
     watchlist_rows = calculate_row_data(watchlist_data)
     helper.dump(watchlist_rows, f'{BACKEND_DIR}/watchlist-rows.json')

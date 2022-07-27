@@ -1,32 +1,95 @@
 {
-    "f4c1edad-b087-338e-b5a3-7d3a263e19d9": {
-        "uuid": "f4c1edad-b087-338e-b5a3-7d3a263e19d9",
-        "title": "Is It a Bad Time to Own TSMC Stock?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/f4c1edad-b087-338e-b5a3-7d3a263e19d9/is-it-a-bad-time-to-own-tsmc.html",
-        "providerPublishTime": 1658577600,
-        "type": "STORY",
+    "f90bae79-5014-3505-b694-4c623e36e768": {
+        "uuid": "f90bae79-5014-3505-b694-4c623e36e768",
+        "title": "Siemens USA CEO: U.S. chip manufacturing is 'essential' for next era",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/siemens-usa-ceo-u-chip-143207131.html",
+        "providerPublishTime": 1658932327,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pL8r5IZuF61kzvBLFptjrg--~B/aD0xNTUwO3c9Mjc2MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e0500ec0-0db8-11ed-bf97-ee7d91442aeb",
+                    "width": 2761,
+                    "height": 1550,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ssoCgD74D59MiA0Rg43tAQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/e0500ec0-0db8-11ed-bf97-ee7d91442aeb",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
-            "TSM"
+            "ASML",
+            "ASMLF",
+            "SWKS",
+            "TSM",
+            "NVDA",
+            "AMD",
+            "AVGO",
+            "AVGOP",
+            "INTC",
+            "QCOM",
+            "MU"
         ]
     },
-    "24679ea8-a054-3d37-998c-68bd7b8cf5b6": {
-        "uuid": "24679ea8-a054-3d37-998c-68bd7b8cf5b6",
-        "title": "It\u2019s a Bear-Market Rally. Whether it Lasts Depends on the Fed.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/24679ea8-a054-3d37-998c-68bd7b8cf5b6/it%E2%80%99s-a-bear-market-rally..html",
-        "providerPublishTime": 1658539140,
+    "7d104211-a0c1-3251-aaab-389e873a68f0": {
+        "uuid": "7d104211-a0c1-3251-aaab-389e873a68f0",
+        "title": "CHIPS Act: What's next for the bill after clearing a Senate hurdle",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/chips-act-whats-next-bill-142015544.html",
+        "providerPublishTime": 1658931615,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TiBjCMKI7rbG79H3zwBHbA--~B/aD0xNTY3O3c9Mjc5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3afba520-0db7-11ed-bfdf-aca023a9ba90",
+                    "width": 2792,
+                    "height": 1567,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2oAQucKC4WTPrtcxq1dYIQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/3afba520-0db7-11ed-bfdf-aca023a9ba90",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MU",
+            "ASML",
+            "ASMLF",
+            "TSM",
+            "AVGO",
+            "AVGOP",
+            "INTC",
+            "SWKS",
+            "AMD",
+            "NVDA",
+            "QCOM"
+        ]
+    },
+    "8085f575-9a7b-39f7-991e-5deaf2e7c61d": {
+        "uuid": "8085f575-9a7b-39f7-991e-5deaf2e7c61d",
+        "title": "Semiconductor stocks have been hit hard, but many are poised for rapid growth. Here are 15 expected to shine through 2024",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/8085f575-9a7b-39f7-991e-5deaf2e7c61d/semiconductor-stocks-have.html",
+        "providerPublishTime": 1658925120,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jmU6atXgGnCaqNrwKnb4Uw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMUJQHGZAmX8bFXH34J5Lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8455c580f51369173efc946ebe0631c3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OC.6u.rNVCQi5gCcvB15gg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qE.HiqWTELLgVdOhIYKzhA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/48ad15eb96145a67187abeff7cfe9312",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vKTW.YxvZdCoCYF70.Uxxg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WMUJQHGZAmX8bFXH34J5Lg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/8455c580f51369173efc946ebe0631c3",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s5a1R_PAw2_Bax9ELf7y8A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qE.HiqWTELLgVdOhIYKzhA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/48ad15eb96145a67187abeff7cfe9312",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -34,109 +97,58 @@
             ]
         },
         "relatedTickers": [
-            "^GSPC",
-            "INTC",
+            "MRVL",
+            "NVDA",
             "TSM",
-            "SSNLF",
-            "GFS"
+            "SPY",
+            "AMD"
         ]
     },
-    "30052197-b722-3d05-a663-6cdd1a775b02": {
-        "uuid": "30052197-b722-3d05-a663-6cdd1a775b02",
-        "title": "These 10 Companies Upped Guidance Despite Global Economic Headwinds",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-companies-upped-guidance-despite-131652437.html",
-        "providerPublishTime": 1658495812,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SKNxgInRcq6JvRYFE1fYVg--~B/aD00ODk7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7yypmy5ZSP0WNfCEeCxrvQ--~B/aD00ODk7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fe25e8b2ea6512ae48ec312ea037ed79",
-                    "width": 768,
-                    "height": 489,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/REbpeBbcK5SPmTjWS3yCgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7yypmy5ZSP0WNfCEeCxrvQ--~B/aD00ODk7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/fe25e8b2ea6512ae48ec312ea037ed79",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AEHR",
-            "REXR-PC",
-            "BIIB",
-            "KNX",
-            "UNH",
-            "SON",
-            "ABT",
-            "TSM"
-        ]
-    },
-    "33c3fa5a-2d02-3686-a804-dbab1bcea48b": {
-        "uuid": "33c3fa5a-2d02-3686-a804-dbab1bcea48b",
-        "title": "10 Companies that Recently Raised Guidance",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-companies-recently-raised-guidance-130424632.html",
-        "providerPublishTime": 1658495064,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nZmMEGzvAP.a6gxWUgYBJQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ylrkqJbh1YSTxvZcNWuGBw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2bcdedba1d0217bdc171ea798064397c",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4LclbNidTIBRXXIL5cfnQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ylrkqJbh1YSTxvZcNWuGBw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2bcdedba1d0217bdc171ea798064397c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DGX",
-            "VMI",
-            "HRI",
-            "VRRMW",
-            "ABT",
-            "BIIB",
-            "TSM"
-        ]
-    },
-    "3c82461b-ba3a-3fae-b4d4-d5b93664bda9": {
-        "uuid": "3c82461b-ba3a-3fae-b4d4-d5b93664bda9",
-        "title": "Semiconductor Investors: 3 Key Takeaways From Recent Earnings",
+    "29b36b9e-f658-36fe-aa36-e5b33470f435": {
+        "uuid": "29b36b9e-f658-36fe-aa36-e5b33470f435",
+        "title": "Have $1,000? These 2 Stocks Could Be Bargain Buys for 2022 and Beyond",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3c82461b-ba3a-3fae-b4d4-d5b93664bda9/semiconductor-investors%3A-3.html",
-        "providerPublishTime": 1658487600,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSM",
-            "ASML"
-        ]
-    },
-    "990b23ca-1cca-3682-ac54-51aa3bcc6dd9": {
-        "uuid": "990b23ca-1cca-3682-ac54-51aa3bcc6dd9",
-        "title": "China\u2019s Top Chipmaker Achieves Breakthrough Despite US Curbs",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/china-top-chipmaker-makes-big-054344694.html",
-        "providerPublishTime": 1658426397,
+        "link": "https://finance.yahoo.com/m/29b36b9e-f658-36fe-aa36-e5b33470f435/have-%241%2C000%3F-these-2-stocks.html",
+        "providerPublishTime": 1658917800,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SdkHIRKzH1D_xjfh8M_vtA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/e1fLchmrZ4wTFIxoOOHGHQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/81d42f031f3bee486c502c5aae4cfc72",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aPytdkL3NDpVd1mipNJweQ--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LLyfMA5R39W7ji1pHKmuHw--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7b332458e29c33899219436b0432df89",
+                    "width": 1400,
+                    "height": 906,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KDduxvURm2eFGKZQjBoKcA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LLyfMA5R39W7ji1pHKmuHw--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7b332458e29c33899219436b0432df89",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSM",
+            "ZM"
+        ]
+    },
+    "87e4d311-1373-3cad-ba80-419e37381023": {
+        "uuid": "87e4d311-1373-3cad-ba80-419e37381023",
+        "title": "Synopsys-Backed China Chip Firm Accused of Poaching TSMC Talent",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/synopsys-backed-china-chip-firm-084615838.html",
+        "providerPublishTime": 1658911575,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yj5.Prfik1C7R3ZH7LgNOQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/mi4jamC0LOf1UEeBPDmDKw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/bd4bd5cabeedda3ef9dc5977fb7dd9b5",
                     "width": 2000,
                     "height": 1334,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/a1sR.nnXIa3YPUa5jYVEmg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e1fLchmrZ4wTFIxoOOHGHQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/81d42f031f3bee486c502c5aae4cfc72",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3fUT6CfC87jUNuH7vIGeIA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mi4jamC0LOf1UEeBPDmDKw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/bd4bd5cabeedda3ef9dc5977fb7dd9b5",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -144,32 +156,28 @@
             ]
         },
         "relatedTickers": [
-            "SFDMY",
-            "ASML",
-            "ASMLF",
+            "SNPS",
             "TSM",
-            "0981.HK",
-            "SSNLF",
-            "INTC"
+            "ASML"
         ]
     },
-    "abebf735-a756-383f-b3a2-f97ba983e16c": {
-        "uuid": "abebf735-a756-383f-b3a2-f97ba983e16c",
-        "title": "Samsung Eyes $200 Billion Expansion of Chip Plants in Texas",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/samsung-eyes-200-billion-expansion-172557678.html",
-        "providerPublishTime": 1658424357,
+    "8bd10fe0-c330-30a2-97fd-97040c5ced97": {
+        "uuid": "8bd10fe0-c330-30a2-97fd-97040c5ced97",
+        "title": "Is it Still Worthy to Keep Your Taiwan Semiconductor (TSM) Stake?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/still-worthy-keep-taiwan-semiconductor-060634633.html",
+        "providerPublishTime": 1658901994,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YrkyIlXP6.mWuFHeETLkVA--~B/aD0yNjQwO3c9Mzk2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/luGqaNgMf2hPcyEJdmN9lg--~B/aD0yNjQwO3c9Mzk2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/4fbe657f7d912c39a55dd92a0f527b66",
-                    "width": 3960,
-                    "height": 2640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dwKZVsEmlpYKfWQh50Q38w--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Wr.fUjPEM3KxWqtO8x0bVg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c8dd0571a0bb630d511a1458c464a139",
+                    "width": 750,
+                    "height": 500,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bLaGEphF99pkNwYc9NQqSA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/luGqaNgMf2hPcyEJdmN9lg--~B/aD0yNjQwO3c9Mzk2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/4fbe657f7d912c39a55dd92a0f527b66",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NDzTf6BkeYd7se1Vc4BeKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Wr.fUjPEM3KxWqtO8x0bVg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c8dd0571a0bb630d511a1458c464a139",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -177,29 +185,26 @@
             ]
         },
         "relatedTickers": [
-            "TSM",
-            "SSNLF",
-            "AAPL",
-            "F"
+            "TSM"
         ]
     },
-    "31d1058e-adcf-3a86-9abf-da32b1d94ce2": {
-        "uuid": "31d1058e-adcf-3a86-9abf-da32b1d94ce2",
-        "title": "Investors bearish on semiconductors as Congress votes on chips bill",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/investors-bearish-semiconductors-congress-votes-142317892.html",
-        "providerPublishTime": 1658413397,
-        "type": "VIDEO",
+    "9cc96de6-c433-3748-8ab6-e22bca943be2": {
+        "uuid": "9cc96de6-c433-3748-8ab6-e22bca943be2",
+        "title": "NXP Semiconductors Gives Bullish Forecast on Industrial and\u00a0Auto Market Demand",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/nxp-semiconductors-gives-bullish-forecast-201959991.html",
+        "providerPublishTime": 1658845730,
+        "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cQpGMmRZxqNcz4itObuYqg--~B/aD0xNTUzO3c9Mjc2NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a922e600-0900-11ed-add7-e8cd3c8eddf5",
-                    "width": 2767,
-                    "height": 1553,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pRltrXZZWSPgaRnDlnGQsg--~B/aD0xMjgxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/NbGKEu2Y3Q85o_5O17Q_oA--~B/aD0xMjgxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/9a3cb452d57aeb8e58d85deabeb757a3",
+                    "width": 2000,
+                    "height": 1281,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jYSCcRW80pVDevOhgylQqQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a922e600-0900-11ed-add7-e8cd3c8eddf5",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jGbm_zkpDmUYfQr2IsdmSg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NbGKEu2Y3Q85o_5O17Q_oA--~B/aD0xMjgxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/9a3cb452d57aeb8e58d85deabeb757a3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -207,17 +212,19 @@
             ]
         },
         "relatedTickers": [
-            "SWKS",
-            "NVDA",
-            "ASML",
-            "ASMLF",
-            "AVGO",
-            "AVGOP",
-            "TSM",
-            "AMD",
-            "QCOM",
-            "MU",
-            "INTC"
+            "NXPI",
+            "TSM"
+        ]
+    },
+    "283a8964-4be2-334b-908b-11bdc0372b2e": {
+        "uuid": "283a8964-4be2-334b-908b-11bdc0372b2e",
+        "title": "Taiwan Q2 GDP to gain from chip exports, but face COVID headwinds - Reuters poll",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/taiwan-q2-gdp-gain-chip-025257930.html",
+        "providerPublishTime": 1658803977,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSM"
         ]
     }
 }

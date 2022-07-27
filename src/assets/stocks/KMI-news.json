@@ -1,21 +1,21 @@
 {
-    "ca9bf360-bfb3-32a0-afdb-daea44323b07": {
-        "uuid": "ca9bf360-bfb3-32a0-afdb-daea44323b07",
-        "title": "Don't Just Rely on Social Security: 3 Dividend Stocks to Buy in a Bear Market",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/ca9bf360-bfb3-32a0-afdb-daea44323b07/don%27t-just-rely-on-social.html",
-        "providerPublishTime": 1658572560,
+    "3044c7f5-7521-3212-b615-0bbb4c176314": {
+        "uuid": "3044c7f5-7521-3212-b615-0bbb4c176314",
+        "title": "Hess (HES) Surpasses Earnings & Revenue Estimates in Q2",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/hess-hes-surpasses-earnings-revenue-135101617.html",
+        "providerPublishTime": 1658929861,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q2_8_4lv_rfsDDC9RW2qug--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GmGzCkkyGVbTf5O_0YfiMg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b2dc27fe0c0308e163ca72908435960f",
-                    "width": 1400,
-                    "height": 933,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fp.mF0..GHOj63b6kOvDbg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/iA0pEpik6fVUsCBAoxgiUg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8a61c7cb9a22ca41cfb9605a78d42897",
+                    "width": 635,
+                    "height": 400,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1ON_AYgJW52KdFddysr0nw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GmGzCkkyGVbTf5O_0YfiMg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b2dc27fe0c0308e163ca72908435960f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1b5w07DtEPN1SHnXPDotKw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iA0pEpik6fVUsCBAoxgiUg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8a61c7cb9a22ca41cfb9605a78d42897",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,41 +23,28 @@
             ]
         },
         "relatedTickers": [
-            "UL",
+            "HES",
             "KMI",
-            "PEP"
+            "HAL"
         ]
     },
-    "8b5a09dd-c20f-3d0e-bab3-6a75871a785f": {
-        "uuid": "8b5a09dd-c20f-3d0e-bab3-6a75871a785f",
-        "title": "Got $5,000? 3 Top Pipeline Stocks to Buy for the Long Term",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/8b5a09dd-c20f-3d0e-bab3-6a75871a785f/got-%245%2C000%3F-3-top-pipeline.html",
-        "providerPublishTime": 1658488440,
-        "type": "STORY",
-        "relatedTickers": [
-            "EPD",
-            "ENB",
-            "KMI"
-        ]
-    },
-    "03e4f54e-cea7-3099-ae7b-53560c1c944d": {
-        "uuid": "03e4f54e-cea7-3099-ae7b-53560c1c944d",
-        "title": "The Companies Taking Advantage Of America\u2019s LNG Boom",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/companies-taking-advantage-america-lng-000000486.html",
-        "providerPublishTime": 1658448000,
+    "cbabb877-79fc-3066-9e09-87572f6fe828": {
+        "uuid": "cbabb877-79fc-3066-9e09-87572f6fe828",
+        "title": "Is Trending Stock Kinder Morgan, Inc. (KMI) a Buy Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/trending-stock-kinder-morgan-inc-130001676.html",
+        "providerPublishTime": 1658926801,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vObjrC2X5Pg1mlXFiJWDHg--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ZzDWljAGhYDf6o8G7R_HsQ--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a8cbd32466e4763e2559df596b6114f6",
-                    "width": 450,
-                    "height": 357,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KYo3DiyZdD4X0nl2I8k31A--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+                    "width": 900,
+                    "height": 469,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aqAjUIEKKKDtp5UaeiE0PQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZzDWljAGhYDf6o8G7R_HsQ--~B/aD0zNTc7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a8cbd32466e4763e2559df596b6114f6",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FlKSooiKsd3JFhF0XXj_PA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/T44Iwg7RbRrkaTIYz_liyQ--~B/aD00Njk7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -65,32 +52,54 @@
             ]
         },
         "relatedTickers": [
-            "CL=F",
-            "NG=F",
-            "LNG",
-            "MPLX",
-            "DVN",
-            "ET-PD",
             "KMI"
         ]
     },
-    "c3e05c75-c44c-3307-94fe-a281b1904729": {
-        "uuid": "c3e05c75-c44c-3307-94fe-a281b1904729",
-        "title": "Kinder Morgan Issues 2021 Environmental, Social and Governance Report",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-issues-2021-environmental-204500221.html",
-        "providerPublishTime": 1658436300,
+    "27a2f9dc-76da-3d49-b440-fc05ff99c56b": {
+        "uuid": "27a2f9dc-76da-3d49-b440-fc05ff99c56b",
+        "title": "Kinder Morgan grows RNG footprint with $355M acquisition, adds Arlington gas facility",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/27a2f9dc-76da-3d49-b440-fc05ff99c56b/kinder-morgan-grows-rng.html",
+        "providerPublishTime": 1658860758,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G3ebWpR1DArKPKvYkavifA--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/fW6trlQBYA_9asYrP0tSOg--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/a015135b6b086606401e788972b85caa",
+                    "width": 1440,
+                    "height": 2160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jRa1THrP1PSqSmy9Gc50XA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/fW6trlQBYA_9asYrP0tSOg--~B/aD0yMTYwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bizjournals.com/a015135b6b086606401e788972b85caa",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
             "KMI"
         ]
     },
-    "d72be79c-d5c5-3ab2-8f34-51fe5de7b516": {
-        "uuid": "d72be79c-d5c5-3ab2-8f34-51fe5de7b516",
-        "title": "Industry Analysts Just Upgraded Their Kinder Morgan, Inc. (NYSE:KMI) Revenue Forecasts By 21%",
+    "32637953-f49e-3eea-9720-e0a6e11885fe": {
+        "uuid": "32637953-f49e-3eea-9720-e0a6e11885fe",
+        "title": "Kinder Morgan Isn't Happy With Its Stock Price",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/32637953-f49e-3eea-9720-e0a6e11885fe/kinder-morgan-isn%27t-happy.html",
+        "providerPublishTime": 1658667600,
+        "type": "STORY",
+        "relatedTickers": [
+            "KMI",
+            "^GSPC"
+        ]
+    },
+    "48ee6be8-3786-37cf-a052-4df85239bd55": {
+        "uuid": "48ee6be8-3786-37cf-a052-4df85239bd55",
+        "title": "Kinder Morgan (NYSE:KMI) Will Pay A Larger Dividend Than Last Year At $0.2775",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/industry-analysts-just-upgraded-kinder-163723637.html",
-        "providerPublishTime": 1658421443,
+        "link": "https://finance.yahoo.com/news/kinder-morgan-nyse-kmi-pay-123136330.html",
+        "providerPublishTime": 1658665896,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -112,23 +121,23 @@
             "KMI"
         ]
     },
-    "3896371f-2db6-3347-922e-4b0be3fad2a8": {
-        "uuid": "3896371f-2db6-3347-922e-4b0be3fad2a8",
-        "title": "Kinder Morgan Is Seeing Surging Demand for Natural Gas",
+    "a09474f8-c214-35a0-b23a-5148221d47bc": {
+        "uuid": "a09474f8-c214-35a0-b23a-5148221d47bc",
+        "title": "My Top High-Yield Dividend Stock for the Second Half of 2022 (and It's Not Even Close)",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3896371f-2db6-3347-922e-4b0be3fad2a8/kinder-morgan-is-seeing.html",
-        "providerPublishTime": 1658418300,
+        "link": "https://finance.yahoo.com/m/a09474f8-c214-35a0-b23a-5148221d47bc/my-top-high-yield-dividend.html",
+        "providerPublishTime": 1658660100,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DSfgdjA3fR9ezaHtLpulpQ--~B/aD05NTY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FLSfrh2rTIKEKBxBevtSjg--~B/aD05NTY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a77cdc9fa1468962b599708d245dff1a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/T89GKr_TJpAQTMMZtcfYTQ--~B/aD05MjQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1UP.Go9ImXMtTG75y4TUgg--~B/aD05MjQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d0e491ee6ee57ff96ae8f8dd1cbb6e1b",
                     "width": 1400,
-                    "height": 956,
+                    "height": 924,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9JG9yJDwYqB.8uUCF7oCfw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FLSfrh2rTIKEKBxBevtSjg--~B/aD05NTY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a77cdc9fa1468962b599708d245dff1a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4rKfIKCK8AbbcsV62P00_Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1UP.Go9ImXMtTG75y4TUgg--~B/aD05MjQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d0e491ee6ee57ff96ae8f8dd1cbb6e1b",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -136,28 +145,26 @@
             ]
         },
         "relatedTickers": [
-            "CL=F",
-            "NG=F",
             "KMI"
         ]
     },
-    "a58b891f-684f-3000-a157-ce703b8ad0d2": {
-        "uuid": "a58b891f-684f-3000-a157-ce703b8ad0d2",
-        "title": "Kinder Morgan (KMI) Q2 Earnings Meet Estimates, Revenues Beat",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/kinder-morgan-kmi-q2-earnings-115511251.html",
-        "providerPublishTime": 1658404511,
+    "2032ed3f-b232-381a-bbe0-5c6b4136d471": {
+        "uuid": "2032ed3f-b232-381a-bbe0-5c6b4136d471",
+        "title": "Got $300? These 3 Dividend Stocks Deserve a Look",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2032ed3f-b232-381a-bbe0-5c6b4136d471/got-%24300%3F-these-3-dividend.html",
+        "providerPublishTime": 1658657700,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fmzuAwcnLrNbJZtmpFSjlw--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TJqqyphr9dM9bqjAG8hSVw--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/97043191c2692713bd3ae980ff9da8a0",
-                    "width": 620,
-                    "height": 413,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5rlXb_1ZqCb8xqJlArPo2A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cNd.AwAD__ztYn.H1Nzvsg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b5aed6540dce4562f04a45d355cda44d",
+                    "width": 1400,
+                    "height": 933,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Gatg_iO0ng6Tmt3FvyVodQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TJqqyphr9dM9bqjAG8hSVw--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/97043191c2692713bd3ae980ff9da8a0",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fY7pbKWBzTrOsyNxjdgQ4w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cNd.AwAD__ztYn.H1Nzvsg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b5aed6540dce4562f04a45d355cda44d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -166,34 +173,17 @@
         },
         "relatedTickers": [
             "KMI",
-            "BP",
-            "AR",
-            "CLR"
+            "COP",
+            "UPS"
         ]
     },
-    "805d0f16-9790-3f13-91a3-ad5ed23c7f94": {
-        "uuid": "805d0f16-9790-3f13-91a3-ad5ed23c7f94",
-        "title": "Kinder Morgan (KMI) Q2 2022 Earnings Call Transcript",
+    "3bb68c7c-fc9e-33d6-aa5f-687744fad9c6": {
+        "uuid": "3bb68c7c-fc9e-33d6-aa5f-687744fad9c6",
+        "title": "Kinder Morgan Is Diving Deeper Into Renewable Energy",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/805d0f16-9790-3f13-91a3-ad5ed23c7f94/kinder-morgan-%28kmi%29-q2-2022.html",
-        "providerPublishTime": 1658365218,
+        "link": "https://finance.yahoo.com/m/3bb68c7c-fc9e-33d6-aa5f-687744fad9c6/kinder-morgan-is-diving.html",
+        "providerPublishTime": 1658585700,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-                    "width": 1400,
-                    "height": 1494,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "KMI"
         ]
