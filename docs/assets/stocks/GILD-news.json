@@ -1,4 +1,114 @@
 {
+    "d8a407e5-48a8-35cf-b4a2-daa8193beac6": {
+        "uuid": "d8a407e5-48a8-35cf-b4a2-daa8193beac6",
+        "title": "3 Healthcare Stocks With 3%+ Dividend Yields",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/d8a407e5-48a8-35cf-b4a2-daa8193beac6/3-healthcare-stocks-with-3%25%2B.html",
+        "providerPublishTime": 1659044700,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xDN1uQ.MT35ZnGMR.vDhKg--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/_AtdQ9Tu699ivjW1Eyvqlw--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/adc9a5bc75763173cce836bbf2ae719f",
+                    "width": 1600,
+                    "height": 1067,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zlcfYtPbiSs6_2ykIRzl1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_AtdQ9Tu699ivjW1Eyvqlw--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/adc9a5bc75763173cce836bbf2ae719f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMGN",
+            "CAH",
+            "GILD"
+        ]
+    },
+    "d542bf17-4adb-30c4-ab19-9d547b0fc793": {
+        "uuid": "d542bf17-4adb-30c4-ab19-9d547b0fc793",
+        "title": "Gilead's Biktarvy Demonstrates High Efficacy In HIV/HBV Coinfection Patients",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/gileads-biktarvy-demonstrates-high-efficacy-190902446.html",
+        "providerPublishTime": 1659035342,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pvpZPCg_nZyrToAx1DtuIA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nOkSxnUNhsvUx8EIrNpIZQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/fb9febdfe688b92bd1c45e2f84a4fbea",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nbYizjM4coOtvC.BKN2gqA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nOkSxnUNhsvUx8EIrNpIZQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/fb9febdfe688b92bd1c45e2f84a4fbea",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "005c4106-94cf-3796-aea1-8f8631fe9216": {
+        "uuid": "005c4106-94cf-3796-aea1-8f8631fe9216",
+        "title": "Biktarvy\u00ae Demonstrates High Efficacy for a Broad Range of People Initiating Treatment for HIV, Including Those With HBV Coinfection",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/biktarvy-demonstrates-high-efficacy-broad-173000009.html",
+        "providerPublishTime": 1659029400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aSb7fGmj18LrVUsInF3ZnQ--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/.mqGOgUNVGEMu1peR_GAeA--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/f80f5c2fd32711d2e4e2f5a430f963f3",
+                    "width": 480,
+                    "height": 160,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/_4pul.Bi2XCDLqmSqcMhqw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.mqGOgUNVGEMu1peR_GAeA--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/f80f5c2fd32711d2e4e2f5a430f963f3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
+    "0794a630-e125-3800-9c00-9fb076ae4756": {
+        "uuid": "0794a630-e125-3800-9c00-9fb076ae4756",
+        "title": "Is a Beat in Store for Gilead (GILD) in This Earnings Season?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/beat-store-gilead-gild-earnings-141002133.html",
+        "providerPublishTime": 1659017402,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Mz7sx1RxbRvr5UCOj9XCZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/2Uxrul9Xalj9HwUZqlOfZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/79b7ecb3a59852f0816e6eb69c31b2fe",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DbvnF7x22xqvCurKPze8FQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2Uxrul9Xalj9HwUZqlOfZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/79b7ecb3a59852f0816e6eb69c31b2fe",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "8646f772-72cf-3fff-b727-99874e37aec6": {
         "uuid": "8646f772-72cf-3fff-b727-99874e37aec6",
         "title": "Gilead Sciences (GILD) Stock Moves -0.21%: What You Should Know",
@@ -106,98 +216,6 @@
         },
         "relatedTickers": [
             "BNTX",
-            "GILD"
-        ]
-    },
-    "ef01f784-a52c-33ad-882c-445ef339bcf5": {
-        "uuid": "ef01f784-a52c-33ad-882c-445ef339bcf5",
-        "title": "Kite\u2019s CAR T-cell Therapy Tecartus\u00ae Receives Positive CHMP Opinion in Relapsed or Refractory Acute Lymphoblastic Leukemia (r/r ALL)",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/kite-car-t-cell-therapy-134200146.html",
-        "providerPublishTime": 1658497320,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VNPCvxNNHMERh.u5pdYVvA--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DMLEZx462rcxf6fFOJEfow--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/69634d16f8c8bc7bfbdaee6cfd2cb141",
-                    "width": 480,
-                    "height": 210,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PN1leJQE5XXBfAXzKUIV.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DMLEZx462rcxf6fFOJEfow--~B/aD0yMTA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/69634d16f8c8bc7bfbdaee6cfd2cb141",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "749711b7-b3e3-33e1-8bda-335b59d1fa77": {
-        "uuid": "749711b7-b3e3-33e1-8bda-335b59d1fa77",
-        "title": "Youth Can't Wait - Empowering Young People in the Fight Against Hepatitis",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/youth-cant-wait-empowering-young-124519783.html",
-        "providerPublishTime": 1658493919,
-        "type": "STORY",
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "6499d300-2c50-3abb-a787-dfcae6a0fa81": {
-        "uuid": "6499d300-2c50-3abb-a787-dfcae6a0fa81",
-        "title": "CHMP Adopts Positive Opinion Recommending Veklury\u00ae (Remdesivir) Receive Full Marketing Authorization for the Treatment of Patients With COVID-19",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/chmp-adopts-positive-opinion-recommending-110600654.html",
-        "providerPublishTime": 1658487960,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/00ah5Z85rCq83s0rjOk8Xw--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BuGXVFuhkaT.B7j3TiIQLg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/59af9fb6cf16744cca9b014f53e0f835",
-                    "width": 480,
-                    "height": 160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/dtyQYk3oTXVLOu_h2fTAAw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BuGXVFuhkaT.B7j3TiIQLg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/59af9fb6cf16744cca9b014f53e0f835",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GILD"
-        ]
-    },
-    "671377db-e309-3eae-8a6f-f71925a6ae48": {
-        "uuid": "671377db-e309-3eae-8a6f-f71925a6ae48",
-        "title": "Scientific Innovation and Collaboration Highlighted at AIDS 2022 as Gilead Extends Leadership Efforts Toward Ending the Global HIV Epidemic",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/scientific-innovation-collaboration-highlighted-aids-123000134.html",
-        "providerPublishTime": 1658406600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wecT5yZj4vDvYdQ9iyXT4w--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/n2.bIz_4HUNBoaCfX0Feqg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/55eaee9e7b7430ef1f5d753ae0af10fc",
-                    "width": 480,
-                    "height": 160,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/A16N1UvFnCnr.kdQnHKgFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/n2.bIz_4HUNBoaCfX0Feqg--~B/aD0xNjA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/55eaee9e7b7430ef1f5d753ae0af10fc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "GILD"
         ]
     }

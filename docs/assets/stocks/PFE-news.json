@@ -1,21 +1,21 @@
 {
-    "85df1958-324f-3fec-ace1-b7142128a1de": {
-        "uuid": "85df1958-324f-3fec-ace1-b7142128a1de",
-        "title": "Billionaire Rob Citrone Is Selling These 10 Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/billionaire-rob-citrone-selling-10-155635858.html",
-        "providerPublishTime": 1658937395,
+    "a6f7a67d-64ad-3d8c-97ba-74f7a40d7417": {
+        "uuid": "a6f7a67d-64ad-3d8c-97ba-74f7a40d7417",
+        "title": "Pfizer Tumbles On Lackluster Outlook Despite A Covid-Driven Quarterly Beat",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/a6f7a67d-64ad-3d8c-97ba-74f7a40d7417/pfizer-tumbles-on-lackluster.html",
+        "providerPublishTime": 1659039989,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aEdHYWU9kA4WXRpmSjwPZw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zv6NgodKUMCqgVUG0DdNCw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a95cbf23d4d4001bfd7a821a3d097067",
-                    "width": 450,
-                    "height": 600,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qt8DMg8s2ihAm.YwGHllTQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.BHijbmWvMVqx76V_iGlBQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3dffc435f585895e4f9c02c947878503",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WVHiOqKndUNcKLFup2CCbg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zv6NgodKUMCqgVUG0DdNCw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a95cbf23d4d4001bfd7a821a3d097067",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KlYAY2STXbkjKyPovVDJPA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.BHijbmWvMVqx76V_iGlBQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/3dffc435f585895e4f9c02c947878503",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,70 +23,26 @@
             ]
         },
         "relatedTickers": [
-            "RIVN",
-            "MU",
-            "PFE",
-            "MDB",
-            "M",
-            "NVDA"
+            "PFE"
         ]
     },
-    "3088413b-d7ea-3ef4-863d-eca986002341": {
-        "uuid": "3088413b-d7ea-3ef4-863d-eca986002341",
-        "title": "Bristol-Myers (BMY) Q2 Earnings, Sales Beat on Eliquis, Opdivo",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/bristol-myers-bmy-q2-earnings-143602430.html",
-        "providerPublishTime": 1658932562,
+    "8ba47b15-0850-3c57-917a-572919ab8345": {
+        "uuid": "8ba47b15-0850-3c57-917a-572919ab8345",
+        "title": "Pfizer\u2019s Updated Covid-19 Booster Will \u2018Likely\u2019 Be Ready in Early Fall, CEO Says",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/8ba47b15-0850-3c57-917a-572919ab8345/pfizer%E2%80%99s-updated-covid-19.html",
+        "providerPublishTime": 1659038160,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4SdZokudQLrfx2Vyo6KT4Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sw1LOX5YexydUdEjsla3IA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ShfhwtDyA2WzDBKdAL7M8Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BMY",
-            "PFE"
-        ]
-    },
-    "034f62dd-5911-3dfb-90a0-a65d1b68036b": {
-        "uuid": "034f62dd-5911-3dfb-90a0-a65d1b68036b",
-        "title": "Pfizer Earnings: What to Look For From PFE",
-        "publisher": "Investopedia",
-        "link": "https://finance.yahoo.com/m/034f62dd-5911-3dfb-90a0-a65d1b68036b/pfizer-earnings%3A-what-to-look.html",
-        "providerPublishTime": 1658930655,
-        "type": "STORY",
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "74ad2460-4095-312a-8130-a5338c092bf7": {
-        "uuid": "74ad2460-4095-312a-8130-a5338c092bf7",
-        "title": "Research shows coronavirus pandemic originated in Wuhan wet market and did not escape from a Chinese lab",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/74ad2460-4095-312a-8130-a5338c092bf7/research-shows-coronavirus.html",
-        "providerPublishTime": 1658930640,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tUGW9ppPlZ3Nvs37bEgoAw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/blWC7e70gK4tzpjP197Chg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1898a2dc865529d7151624f70420f1e4",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aQDvNjPkF03mKs6P.8oMPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ElcGcev6_KNzsc62g2s6zw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/abd54c5804bc5509984a163bb4465dcd",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xRAsnJYxk4Sv6oY9ediSWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/blWC7e70gK4tzpjP197Chg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/1898a2dc865529d7151624f70420f1e4",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R4rzSADimtZQC8egW.HKKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ElcGcev6_KNzsc62g2s6zw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/abd54c5804bc5509984a163bb4465dcd",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -95,98 +51,26 @@
         },
         "relatedTickers": [
             "PFE",
-            "BNTX"
+            "MRNA"
         ]
     },
-    "b5a63b2c-f6d8-3653-aec6-c61b42adab95": {
-        "uuid": "b5a63b2c-f6d8-3653-aec6-c61b42adab95",
-        "title": "Billionaire Philippe Laffont is Selling These 10 Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/billionaire-philippe-laffont-selling-10-131151125.html",
-        "providerPublishTime": 1658927511,
+    "fe038b68-bc87-3cf0-8819-1db615692604": {
+        "uuid": "fe038b68-bc87-3cf0-8819-1db615692604",
+        "title": "Pfizer Sales Climb Again on Covid-19 Products",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/fe038b68-bc87-3cf0-8819-1db615692604/pfizer-sales-climb-again-on.html",
+        "providerPublishTime": 1659036360,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/JWA6pPn8zkJqDkkGQSz.DQ--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
-                    "width": 489,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iPlQEYc1PzjO2al.b0LPOw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5HcZJpsBsJZiClvW3jjBGg--~B/aD02MDA7dz00ODk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/586bc91b3deb0c7856dee8bc06d100b6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SNAP",
-            "GPN",
-            "SHOP",
-            "TWTR",
-            "AMAT",
-            "PFE",
-            "MA"
-        ]
-    },
-    "1a028e4c-43eb-31af-af79-193639effa9d": {
-        "uuid": "1a028e4c-43eb-31af-af79-193639effa9d",
-        "title": "Pfizer loses court battle over drug copay assistance program with big implications for Medicare spending",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/1a028e4c-43eb-31af-af79-193639effa9d/pfizer-loses-court-battle.html",
-        "providerPublishTime": 1658923500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uKmVP_7W2SGnoUO0.2k0VQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OA3Hlp6bTn5W_cyAgZBOxg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/612ab9d92f78335fdad61c1e413ee42e",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wv8A81dkMbRTycxfTZbEsQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4jPONrVz6DXgRJqU5bmxPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/91aceae47a1b6a3ac4a5f50147ae0b44",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/qx10ax0jjksnVojph1XAzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/OA3Hlp6bTn5W_cyAgZBOxg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/612ab9d92f78335fdad61c1e413ee42e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE"
-        ]
-    },
-    "fd8809a0-c412-326b-8fc4-eea1d9a38387": {
-        "uuid": "fd8809a0-c412-326b-8fc4-eea1d9a38387",
-        "title": "Revlimid sales drive higher-than-expected Bristol Myers results",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/revlimid-sales-drive-higher-expected-105900069.html",
-        "providerPublishTime": 1658919540,
-        "type": "STORY",
-        "relatedTickers": [
-            "BMY",
-            "PFE"
-        ]
-    },
-    "57aa1b13-18ad-348d-8fac-b21fe92ae1dd": {
-        "uuid": "57aa1b13-18ad-348d-8fac-b21fe92ae1dd",
-        "title": "Pfizer and BioNTech launch study to evaluate COVID-19 vaccine targeting original virus strain plus omicron variant",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/57aa1b13-18ad-348d-8fac-b21fe92ae1dd/pfizer-and-biontech-launch.html",
-        "providerPublishTime": 1658919478,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JqaLnTvCTiAbPMEC8CJBXA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4jPONrVz6DXgRJqU5bmxPw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/91aceae47a1b6a3ac4a5f50147ae0b44",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -195,8 +79,112 @@
         },
         "relatedTickers": [
             "BNTX",
-            "^GSPC",
             "PFE"
+        ]
+    },
+    "b7a7db2c-6a2b-3cbf-87d4-1ed21966f7ee": {
+        "uuid": "b7a7db2c-6a2b-3cbf-87d4-1ed21966f7ee",
+        "title": "Pfizer Raises Earnings Outlook Even as Covid-Era Supply Deals Slow",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/pfizer-raises-earnings-outlook-even-134418626.html",
+        "providerPublishTime": 1659036324,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3RHud0AdvRwdLJc0tLptEQ--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/03hLXUDGa9yEQaDAV74bLA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/bb7827c3ebfe0062d902daf06ff02cc2",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9rAiiJFv6nswWbzMlVCFZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/03hLXUDGa9yEQaDAV74bLA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/bb7827c3ebfe0062d902daf06ff02cc2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "1060e02f-41a4-319a-a011-70ffede3eaca": {
+        "uuid": "1060e02f-41a4-319a-a011-70ffede3eaca",
+        "title": "Pharma Is Immune to a Recession, but Not to Washington",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/1060e02f-41a4-319a-a011-70ffede3eaca/pharma-is-immune-to-a.html",
+        "providerPublishTime": 1659030600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/C4yfU0ibRFemwFfXmx36mg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2KjxvsvZpngSIRsd.XTZsA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3fc1109fd8ab4559537331a499d1e4f5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vLCdCMVoV.dJJKoOh0GZ.w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2KjxvsvZpngSIRsd.XTZsA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3fc1109fd8ab4559537331a499d1e4f5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BMY",
+            "PFE"
+        ]
+    },
+    "9a6f7dfd-febf-37fb-912a-e0504d778fbc": {
+        "uuid": "9a6f7dfd-febf-37fb-912a-e0504d778fbc",
+        "title": "Is Pfizer Stock A Sell On More Moderate Expectations For 2022 Sales?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/9a6f7dfd-febf-37fb-912a-e0504d778fbc/is-pfizer-stock-a-sell-on.html",
+        "providerPublishTime": 1659029239,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aL0JwQMm.inZ1aCmR2jyfg--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VXlE44YwXg8AwqPI_gImww--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f30299e3b2fb410e4254157268387d26",
+                    "width": 1065,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UGNMzQYKLnvtV4azlBFt5Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VXlE44YwXg8AwqPI_gImww--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/f30299e3b2fb410e4254157268387d26",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "9aa73ebf-b0d3-3812-9a36-e83393b61eeb": {
+        "uuid": "9aa73ebf-b0d3-3812-9a36-e83393b61eeb",
+        "title": "Pfizer Earnings: What Happened with PFE",
+        "publisher": "Investopedia",
+        "link": "https://finance.yahoo.com/m/9aa73ebf-b0d3-3812-9a36-e83393b61eeb/pfizer-earnings%3A-what.html",
+        "providerPublishTime": 1659026857,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE"
+        ]
+    },
+    "ee6548ce-9cb0-3c10-a628-9972bea48fa2": {
+        "uuid": "ee6548ce-9cb0-3c10-a628-9972bea48fa2",
+        "title": "2 Ultra-Safe Dividend Stocks With Extremely Low Payout Ratios",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ee6548ce-9cb0-3c10-a628-9972bea48fa2/2-ultra-safe-dividend-stocks.html",
+        "providerPublishTime": 1659022200,
+        "type": "STORY",
+        "relatedTickers": [
+            "PFE",
+            "COST"
         ]
     }
 }

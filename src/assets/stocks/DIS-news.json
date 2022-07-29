@@ -1,21 +1,175 @@
 {
-    "d11a08dc-6862-3b63-b658-10686bc748d9": {
-        "uuid": "d11a08dc-6862-3b63-b658-10686bc748d9",
-        "title": "Hulu political ads: Streaming giant reverses stance, updates ad policy",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/d11a08dc-6862-3b63-b658-10686bc748d9/hulu-political-ads%3A-streaming.html",
-        "providerPublishTime": 1658933700,
+    "b4dd2cc6-45d5-3c5c-abe9-08a5f37826f4": {
+        "uuid": "b4dd2cc6-45d5-3c5c-abe9-08a5f37826f4",
+        "title": "Disney Parks, Experiences and Products Announces Plans for D23 Expo: The Ultimate Disney Fan Event, September 9 Through 11, 2022",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/disney-parks-experiences-products-announces-170000913.html",
+        "providerPublishTime": 1659027600,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MOFdq26hoG4lMiHC936wAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LbxCYwaX.6aPMQKrQK.T.Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/eab50bfaa42535389d536c25f1e24f73",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/x8mq6lZAhl5dpdktDQxIdA--~B/aD0yNDQ7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oOtTVqOPJD5zH1pdaAoifA--~B/aD0yNDQ7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/64a729165173cf1f3f5a009b0840ac31",
+                    "width": 480,
+                    "height": 244,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AYrJRpCTX682AtNZxD1txA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oOtTVqOPJD5zH1pdaAoifA--~B/aD0yNDQ7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/64a729165173cf1f3f5a009b0840ac31",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "cd3da7f6-9803-30f0-ae27-7a597ce29022": {
+        "uuid": "cd3da7f6-9803-30f0-ae27-7a597ce29022",
+        "title": "Disney World's New Addition Has a Big Problem (Two, in Fact)",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/cd3da7f6-9803-30f0-ae27-7a597ce29022/disney-world%27s-new-addition.html",
+        "providerPublishTime": 1659025260,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/viikAi8uTi_DU073pwU0pQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/oP7PZrRVvxSZ09NIrj1obQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/61fc749c90fdb7166869220934fe754e",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DN2mGlQDPSk4QKxbt4VFSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oP7PZrRVvxSZ09NIrj1obQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/61fc749c90fdb7166869220934fe754e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "cdcb6088-bfc1-378b-ac17-b18c9ae4f980": {
+        "uuid": "cdcb6088-bfc1-378b-ac17-b18c9ae4f980",
+        "title": "Comcast failed to add broadband subscribers in Q2, stock plunges",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/comcast-failed-add-broadband-subscribers-144115118.html",
+        "providerPublishTime": 1659019275,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/d0o5BciznezFdZe1402Kyw--~B/aD0zNTA5O3c9NjI0NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/50c6bda0-0e83-11ed-bfed-9779a5c74508",
+                    "width": 6246,
+                    "height": 3509,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jsXPsRwvZStN0OzzD2MiNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/50c6bda0-0e83-11ed-bfed-9779a5c74508",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "DIS",
+            "NFLX",
+            "T",
+            "T-PA",
+            "T-PC",
+            "CMCSA",
+            "VZ",
+            "AAPL"
+        ]
+    },
+    "127fd8ca-5c6d-317d-9ff8-07cdd936fe88": {
+        "uuid": "127fd8ca-5c6d-317d-9ff8-07cdd936fe88",
+        "title": "Jeopardy inks permanent hosting deals, announces new initiatives",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/127fd8ca-5c6d-317d-9ff8-07cdd936fe88/jeopardy-inks-permanent.html",
+        "providerPublishTime": 1659015470,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aDrYolRV9_A_yDeVOQvXsA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/opvt7x4mZkP3b12wd1bO0g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/cdba18646238da639346b83da9ce36b8",
+                    "width": 1200,
+                    "height": 800,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E.DVLJLK5qoZB61tsXUCKg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/opvt7x4mZkP3b12wd1bO0g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/cdba18646238da639346b83da9ce36b8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "ed8cc1f1-5d40-3eb9-92cb-a6acb4d3849e": {
+        "uuid": "ed8cc1f1-5d40-3eb9-92cb-a6acb4d3849e",
+        "title": "Disney's Reedy Creek Improvement District extends some agreements as its future sunset looms",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/ed8cc1f1-5d40-3eb9-92cb-a6acb4d3849e/disney%27s-reedy-creek.html",
+        "providerPublishTime": 1659014686,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3MZspqyA6k2bpHOm0mFiSQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nKHzwsWqYH8QrUX.YylcwA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/76a83857cd4ad56b2ceb3058774cbac8",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/vfbME.5FUP4q8Xhr_.TViw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nKHzwsWqYH8QrUX.YylcwA--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/76a83857cd4ad56b2ceb3058774cbac8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "8c8138a2-1301-343e-87f6-a4e3a622a132": {
+        "uuid": "8c8138a2-1301-343e-87f6-a4e3a622a132",
+        "title": "Here's Why Disney's Latest Price Hike Could Backfire",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8c8138a2-1301-343e-87f6-a4e3a622a132/here%27s-why-disney%27s-latest.html",
+        "providerPublishTime": 1659014040,
+        "type": "STORY",
+        "relatedTickers": [
+            "DIS"
+        ]
+    },
+    "d187b009-cc93-3631-be5a-c7405e28f10a": {
+        "uuid": "d187b009-cc93-3631-be5a-c7405e28f10a",
+        "title": "What does FX\u2019s acclaimed \u2018The Bear\u2019 really teach us? Skip Chicago\u2019s overhyped deep dish for a beef and giardiniera.",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/d187b009-cc93-3631-be5a-c7405e28f10a/what-does-fx%E2%80%99s-acclaimed-%E2%80%98the.html",
+        "providerPublishTime": 1659013680,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YQ_oBmrVEw8pr.C9.t5iIQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EVk1NOnfnWkYm8yOvsRToA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/93235f6487d9bae3db56c595b7f542e7",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Jlu3MRCGBc9kcTRmvtmjOA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LbxCYwaX.6aPMQKrQK.T.Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/eab50bfaa42535389d536c25f1e24f73",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WEiQaId9CNBEoP_Q0v6ycA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EVk1NOnfnWkYm8yOvsRToA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/93235f6487d9bae3db56c595b7f542e7",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -24,38 +178,26 @@
         },
         "relatedTickers": [
             "DIS",
-            "TWTR"
+            "PTLO"
         ]
     },
-    "eb58e6cb-fb35-3b10-9561-fd7f6f46d196": {
-        "uuid": "eb58e6cb-fb35-3b10-9561-fd7f6f46d196",
-        "title": "Marvel Is Integral to Disney's Streaming Strategy",
+    "1d5ab9f3-7235-3200-aab2-33cdde3c7a16": {
+        "uuid": "1d5ab9f3-7235-3200-aab2-33cdde3c7a16",
+        "title": "The Dow Jones Industrial Average's 5 Fastest-Growing Stocks",
         "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/eb58e6cb-fb35-3b10-9561-fd7f6f46d196/marvel-is-integral-to.html",
-        "providerPublishTime": 1658932620,
-        "type": "STORY",
-        "relatedTickers": [
-            "DIS",
-            "NFLX"
-        ]
-    },
-    "73ef9cd7-5f67-30c1-9ee2-d25c37e96356": {
-        "uuid": "73ef9cd7-5f67-30c1-9ee2-d25c37e96356",
-        "title": "More Political Ads Are coming to Disney\u2019s Hulu",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/more-political-ads-coming-disney-142106473.html",
-        "providerPublishTime": 1658931666,
+        "link": "https://finance.yahoo.com/m/1d5ab9f3-7235-3200-aab2-33cdde3c7a16/the-dow-jones-industrial.html",
+        "providerPublishTime": 1659000060,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Lpd4LD9ya.j322AH18u0UQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/LxAhIS6JhikedJXyit4AFA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/6c5f6c4250ec732edd462a3691def24f",
-                    "width": 2000,
-                    "height": 1334,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fGLNIMGyY1BlIy8E_F2LXg--~B/aD05Njg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yRForajT.yI47eB6tYnN4g--~B/aD05Njg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4b8b28c13c1d4fd548e5753801db2ce4",
+                    "width": 1400,
+                    "height": 968,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/W3n0Nc57dotVTnxSbyxRRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LxAhIS6JhikedJXyit4AFA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/6c5f6c4250ec732edd462a3691def24f",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sZEyumQsKjc6xS09MSTJVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yRForajT.yI47eB6tYnN4g--~B/aD05Njg7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4b8b28c13c1d4fd548e5753801db2ce4",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -63,191 +205,12 @@
             ]
         },
         "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
-        "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
-        "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-tech-leads-gains-home-141855635.html",
-        "providerPublishTime": 1658931535,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmhP4gKCR7sSfsx6df.GQw--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
-                    "width": 2736,
-                    "height": 1536,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tuK091C_0UAl3qA0Jg4TyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XLP",
-            "INTC",
-            "AMZN",
+            "^DJI",
             "DIS",
-            "KO",
-            "^IXIC",
-            "SHW",
-            "VZ",
-            "DHI",
-            "LEN",
-            "LEN-B",
-            "^GSPC",
             "CVX",
-            "HON",
-            "AMGN",
-            "XLY",
-            "JPM",
-            "PG",
-            "XLI",
-            "IBM",
-            "XLF",
-            "CSCO",
-            "NVDA",
-            "PEP",
-            "TSLA",
-            "HD",
-            "XLRE",
-            "META",
-            "RKT",
-            "JNJ",
-            "AAPL",
-            "XLV",
-            "MSFT",
-            "MCD",
             "BA",
-            "WMT",
-            "LOW",
-            "UNH",
-            "XLE",
             "V",
-            "XLU",
-            "GOOG",
-            "GOOGL",
-            "MRK",
-            "XLK",
-            "XLB",
-            "XLC"
-        ]
-    },
-    "97d9e361-8a16-3999-811e-52dddfd36b09": {
-        "uuid": "97d9e361-8a16-3999-811e-52dddfd36b09",
-        "title": "Should Investors Buy Netflix Stock With $1,000 Right Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/97d9e361-8a16-3999-811e-52dddfd36b09/should-investors-buy-netflix.html",
-        "providerPublishTime": 1658929006,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/skClQsIgmd_7B31yl5Sm1g--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cpiD3LLiRG_g2.KQO3HvXA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7a15cb4634e53c2670ba6b2b82e7a846",
-                    "width": 1400,
-                    "height": 934,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YS20uLuxjwQhqX4gRDg.IQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cpiD3LLiRG_g2.KQO3HvXA--~B/aD05MzQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7a15cb4634e53c2670ba6b2b82e7a846",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "DIS"
-        ]
-    },
-    "73966b9d-329f-3707-ab14-4494acc2e101": {
-        "uuid": "73966b9d-329f-3707-ab14-4494acc2e101",
-        "title": "Investors Heavily Search The Walt Disney Company (DIS): Here is What You Need to Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/investors-heavily-search-walt-disney-130001925.html",
-        "providerPublishTime": 1658926801,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/doNd7eHL8aujU2c6BkjF7g--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 900,
-                    "height": 633,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iF.se0MBh7j5M5Ti...4jw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xMhOxlfdhVA7Ts3pP3IHyA--~B/aD02MzM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS"
-        ]
-    },
-    "7142c7c9-dda0-3fe6-aef5-249be2c71971": {
-        "uuid": "7142c7c9-dda0-3fe6-aef5-249be2c71971",
-        "title": "3 Reasons Disney+ Could Soon Overtake Netflix",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/7142c7c9-dda0-3fe6-aef5-249be2c71971/3-reasons-disney%2B-could-soon.html",
-        "providerPublishTime": 1658925960,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zekdw_C6MNwmFgkfrcKR3g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NNAhjcAh5KXKOcf6dF4AKQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/782627ecf68c352491c6c39fbcbfb67d",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WDkfXqHHS3NPOg0XFd_y2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NNAhjcAh5KXKOcf6dF4AKQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/782627ecf68c352491c6c39fbcbfb67d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "NFLX"
-        ]
-    },
-    "630b7190-662b-33e7-a9a2-934f76f4ef5d": {
-        "uuid": "630b7190-662b-33e7-a9a2-934f76f4ef5d",
-        "title": "If You Invested $3,000 in Netflix in 2007, This Is How Much You Would Have Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/630b7190-662b-33e7-a9a2-934f76f4ef5d/if-you-invested-%243%2C000-in.html",
-        "providerPublishTime": 1658925913,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DyMoayjSgqI_EDJARJ7ZsA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PjPOJOTlCzJu0DYstou9lw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8fab7d78df517a4db012d943e8aa452a",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gRcPoOCapeFanw7iySSrxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PjPOJOTlCzJu0DYstou9lw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8fab7d78df517a4db012d943e8aa452a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "DIS"
+            "CRM"
         ]
     }
 }

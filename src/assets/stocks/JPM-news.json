@@ -1,123 +1,21 @@
 {
-    "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
-        "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
-        "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-tech-leads-gains-home-141855635.html",
-        "providerPublishTime": 1658931535,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmhP4gKCR7sSfsx6df.GQw--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
-                    "width": 2736,
-                    "height": 1536,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tuK091C_0UAl3qA0Jg4TyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XLP",
-            "INTC",
-            "AMZN",
-            "DIS",
-            "KO",
-            "^IXIC",
-            "SHW",
-            "VZ",
-            "DHI",
-            "LEN",
-            "LEN-B",
-            "^GSPC",
-            "CVX",
-            "HON",
-            "AMGN",
-            "XLY",
-            "JPM",
-            "PG",
-            "XLI",
-            "IBM",
-            "XLF",
-            "CSCO",
-            "NVDA",
-            "PEP",
-            "TSLA",
-            "HD",
-            "XLRE",
-            "META",
-            "RKT",
-            "JNJ",
-            "AAPL",
-            "XLV",
-            "MSFT",
-            "MCD",
-            "BA",
-            "WMT",
-            "LOW",
-            "UNH",
-            "XLE",
-            "V",
-            "XLU",
-            "GOOG",
-            "GOOGL",
-            "MRK",
-            "XLK",
-            "XLB",
-            "XLC"
-        ]
-    },
-    "35a92f14-6b93-3fb7-89ba-4724eb96e1b0": {
-        "uuid": "35a92f14-6b93-3fb7-89ba-4724eb96e1b0",
-        "title": "Should JPMorgan Diversified Return U.S. Small Cap Equity ETF (JPSE) Be on Your Investing Radar?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/jpmorgan-diversified-return-u-small-102010445.html",
-        "providerPublishTime": 1658917210,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r3XbmSiK8NsZqGuIQaOcPA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/e0VWXB5.wUFiKGuJPPpLzg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r89o9RH2ZURWvAA6JRf1tA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/e0VWXB5.wUFiKGuJPPpLzg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^RUT",
-            "JPM",
-            "AR"
-        ]
-    },
-    "e0011295-6c19-3730-a5e9-6aa50e9493e0": {
-        "uuid": "e0011295-6c19-3730-a5e9-6aa50e9493e0",
-        "title": "Big European Banks Brace For Chat-App Costs",
+    "fb0e4616-554e-3608-9feb-5d1080b328b9": {
+        "uuid": "fb0e4616-554e-3608-9feb-5d1080b328b9",
+        "title": "JPMorgan Must Face Former Compliance Employee\u2019s Lawsuit, Judge Rules",
         "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/e0011295-6c19-3730-a5e9-6aa50e9493e0/big-european-banks-brace-for.html",
-        "providerPublishTime": 1658887995,
+        "link": "https://finance.yahoo.com/m/fb0e4616-554e-3608-9feb-5d1080b328b9/jpmorgan-must-face-former.html",
+        "providerPublishTime": 1659045480,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/izyTeLtncJBFGbGKv.lfJQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MwWFX8OcZqnqVDhfGtM6Aw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9f4e4fb1ab6729e3c52916f82643956a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/18FWrr9.xyi.8vvljqWTRA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CdeKrqxXoLwLM3GM0vriQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/4e11519e4977265d7106d54c8f2e19d2",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rAxnHoAGMMNLHEq24m7o6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MwWFX8OcZqnqVDhfGtM6Aw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9f4e4fb1ab6729e3c52916f82643956a",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2EXV.7Ym9_boLxSENYaQ0A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CdeKrqxXoLwLM3GM0vriQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/4e11519e4977265d7106d54c8f2e19d2",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -125,181 +23,68 @@
             ]
         },
         "relatedTickers": [
-            "CS",
+            "JPM"
+        ]
+    },
+    "e0156130-7f39-3dd8-b6e3-59ec1b52f933": {
+        "uuid": "e0156130-7f39-3dd8-b6e3-59ec1b52f933",
+        "title": "SEC Charges J.P. Morgan, UBS, TradeStation Over Identity Theft Programs",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/e0156130-7f39-3dd8-b6e3-59ec1b52f933/sec-charges-j.p.-morgan%2C-ubs%2C.html",
+        "providerPublishTime": 1659042900,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/h5yMCOEicM9liUMDB0ylxQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eMWHAfuZ7KyqtnOsT0Sfkg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/27eb2a7021781d93d807dd27d7cbdc08",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/QRJulPop_H2AI8Kslpwk.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/eMWHAfuZ7KyqtnOsT0Sfkg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/27eb2a7021781d93d807dd27d7cbdc08",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "JPM",
+            "UBS"
+        ]
+    },
+    "7d07bc03-7edb-3b3b-9638-83a1a7a768fc": {
+        "uuid": "7d07bc03-7edb-3b3b-9638-83a1a7a768fc",
+        "title": "UPDATE 1-Ex-JPMorgan traders' racketeering trial draws to close",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-ex-jpmorgan-traders-racketeering-202610085.html",
+        "providerPublishTime": 1659039970,
+        "type": "STORY",
+        "relatedTickers": [
+            "DBK.DE",
             "UBS",
-            "HSBC"
-        ]
-    },
-    "f83772e4-4e09-3cf5-a95d-7e146d943b88": {
-        "uuid": "f83772e4-4e09-3cf5-a95d-7e146d943b88",
-        "title": "Market check: Walmart warnings drags retail stocks down",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-walmart-warnings-drags-143133267.html",
-        "providerPublishTime": 1658845893,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/v_Cwa3l5OPsR.sRpGfIw_Q--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mA3O_oh1gGLhIrr.3mPkcw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WMT",
-            "TCEHY",
-            "TCTZF",
-            "XLRE",
-            "XLB",
-            "XLF",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "XLV",
-            "IUTSF",
-            "MRK",
-            "XLE",
-            "VZ",
-            "DG",
-            "AAPL",
-            "PG",
-            "BJ",
-            "META",
-            "DIS",
-            "^GSPC",
-            "MC",
-            "JNJ",
-            "JD",
-            "JDCMF",
-            "XLK",
-            "NKE",
-            "UNH",
-            "XLU",
-            "XLP",
-            "IBM",
-            "NVDA",
-            "JPM",
-            "FL",
-            "BABA",
-            "BABAF",
-            "V",
-            "SHOP",
-            "ULTA"
-        ]
-    },
-    "52d5aab0-02dd-39db-9943-4975d9d4db6e": {
-        "uuid": "52d5aab0-02dd-39db-9943-4975d9d4db6e",
-        "title": "J.P. Morgan Real Estate Income Trust, Inc. Initial Public Offering Declared Effective by Securities and Exchange Commission",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/j-p-morgan-real-estate-141500001.html",
-        "providerPublishTime": 1658844900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pmXGZZAskTuYp1c9nMgcIg--~B/aD0xNDc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/38Do7xRCEqtPSqIdgW2H7w--~B/aD0xNDc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/fe5c4bac941fd6f7ae08fee52b4b6af3",
-                    "width": 400,
-                    "height": 147,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jOGGVQNdUpLEZ6MFT9ZYhA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/38Do7xRCEqtPSqIdgW2H7w--~B/aD0xNDc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/fe5c4bac941fd6f7ae08fee52b4b6af3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
+            "NWG.L",
             "JPM"
         ]
     },
-    "60ad4a2a-04c1-30e7-9f42-bc0c845d1872": {
-        "uuid": "60ad4a2a-04c1-30e7-9f42-bc0c845d1872",
-        "title": "Political Strife Threatens Even Bigger Losses in Pakistan Assets",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/political-strife-threatens-even-bigger-032828473.html",
-        "providerPublishTime": 1658806108,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/w8pKTX3plnbod5xnPQcBnA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZdWXWoPQYNBR4RzcgN719g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/cbb70e6339139991babc40d5686c89e1",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tQ2l3U3Wq5x8kVL0H4bqYw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZdWXWoPQYNBR4RzcgN719g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/cbb70e6339139991babc40d5686c89e1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JPM"
-        ]
-    },
-    "49f684e2-6985-313c-a8af-0c61907e2722": {
-        "uuid": "49f684e2-6985-313c-a8af-0c61907e2722",
-        "title": "Snap Loses Wall Street Fan Base as \u2018Cash Bonfire\u2019 Rages On",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/snap-loses-fan-wall-street-173509569.html",
-        "providerPublishTime": 1658780963,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/nckE_mbEQ9IHXP3dhqybSQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AOPvWIERvi40n9HevyNPLA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/de8d709f8e23b9e2eaac6a021ab16bc5",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/xFa9jjUhDmMVT7S7KT7ByA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AOPvWIERvi40n9HevyNPLA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/de8d709f8e23b9e2eaac6a021ab16bc5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NFLX",
-            "JPM",
-            "SNAP",
-            "MS",
-            "MS-PO",
-            "META",
-            "PINS"
-        ]
-    },
-    "bc592a98-78ab-3e52-9f58-4278afa433b9": {
-        "uuid": "bc592a98-78ab-3e52-9f58-4278afa433b9",
-        "title": "JPMorgan private equity reappointed to invest millions of state\u2019s pension funds",
+    "9fbc874d-5096-3a8b-94b8-d0f1b2597794": {
+        "uuid": "9fbc874d-5096-3a8b-94b8-d0f1b2597794",
+        "title": "JPMorgan Chase invests $540K in AMPED, Story's Wild Beta Accelerator",
         "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/bc592a98-78ab-3e52-9f58-4278afa433b9/jpmorgan-private-equity.html",
-        "providerPublishTime": 1658773923,
+        "link": "https://finance.yahoo.com/m/9fbc874d-5096-3a8b-94b8-d0f1b2597794/jpmorgan-chase-invests-%24540k.html",
+        "providerPublishTime": 1659032766,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Bpejws2ShSoKZR5MqM7JCg--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cdw5n.mvaggQTdQpRzWe.g--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3032a5b1e3f678955276d6fe2ed0fb9d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ul1_QzHJ4zetfV02DU.J8g--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tDAPwST5FPCWm3dUUhSYSA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/a86980e14dd81a691817575678feb754",
                     "width": 1440,
-                    "height": 961,
+                    "height": 959,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8zEWdCjkjVrMP1dMQEXdTA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cdw5n.mvaggQTdQpRzWe.g--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/3032a5b1e3f678955276d6fe2ed0fb9d",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UiY5WZzj.k.WuTpFyXNidg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tDAPwST5FPCWm3dUUhSYSA--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/a86980e14dd81a691817575678feb754",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -307,6 +92,132 @@
             ]
         },
         "relatedTickers": [
+            "JPM"
+        ]
+    },
+    "da35d9a3-d78d-30e8-9fa7-1f7ce3d659df": {
+        "uuid": "da35d9a3-d78d-30e8-9fa7-1f7ce3d659df",
+        "title": "West Virginia Penalizes Banks Including JPMorgan, Goldman for Coal \u2018Boycotts\u2019",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/da35d9a3-d78d-30e8-9fa7-1f7ce3d659df/west-virginia-penalizes-banks.html",
+        "providerPublishTime": 1659029160,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RbIG3K7fzN9Ou3P12TXFaQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yM5jtFMeVkkqOtytZm8bDw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/92bc118f236a2f7c2f401cf963851b69",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/5uT0lrpSmw3HJE7KXsfBIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yM5jtFMeVkkqOtytZm8bDw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/92bc118f236a2f7c2f401cf963851b69",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "WFC",
+            "WFC-PD",
+            "BLK",
+            "JPM",
+            "GS",
+            "MS",
+            "MS-PO"
+        ]
+    },
+    "ca2d187b-110a-3f6c-a453-6bdbab9b5f37": {
+        "uuid": "ca2d187b-110a-3f6c-a453-6bdbab9b5f37",
+        "title": "ECB\u2019s Visco Says There\u2019s a Risk of a Recession in Europe",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/ecb-visco-says-risk-recession-141124347.html",
+        "providerPublishTime": 1659017484,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kFPDDDQNgjdG7Cu08Spw4w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/4MqiJA5hevWIOWCGrJ0Y6w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/415da975ebf89e086957e00ddde72372",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8IAfcpFlm9EDYkIqQC0_Ig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4MqiJA5hevWIOWCGrJ0Y6w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/415da975ebf89e086957e00ddde72372",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JPM",
+            "GS"
+        ]
+    },
+    "721ae551-a93e-325d-8f3e-d2af5d31a46c": {
+        "uuid": "721ae551-a93e-325d-8f3e-d2af5d31a46c",
+        "title": "15 quality dividend stocks that you can buy on sale right now",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/721ae551-a93e-325d-8f3e-d2af5d31a46c/15-quality-dividend-stocks.html",
+        "providerPublishTime": 1659010440,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/upbR7Bowdd2FPCfDhVsesw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Nn2PC7onn5fGodHkDy4Ibg--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0bcd82593b4d26e8e240c6ef3ecaa460",
+                    "width": 1279,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ldMYtcy01I02QxiLAAir2A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Nn2PC7onn5fGodHkDy4Ibg--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0bcd82593b4d26e8e240c6ef3ecaa460",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KEY",
+            "KEY-PI",
+            "KEY-PJ",
+            "KEY-PK",
+            "NYCB",
+            "NYCB-PA",
+            "JPM",
+            "CSCO",
+            "INTC"
+        ]
+    },
+    "a26465d8-19fe-3cc1-bcf9-0a9694d7abb7": {
+        "uuid": "a26465d8-19fe-3cc1-bcf9-0a9694d7abb7",
+        "title": "Citizens business conditions index dips in Q2, but still shows signs of growth",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/a26465d8-19fe-3cc1-bcf9-0a9694d7abb7/citizens-business-conditions.html",
+        "providerPublishTime": 1659001782,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7Uexy8v8XMHtQHgfbZJsqQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IkxjKWzpVXbxZYop1IoJKg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/8f82eefffd5b1d48d2d191dba61ea7a2",
+                    "width": 1440,
+                    "height": 960,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I8.rxH5Rp4TYvbMc3oo9NQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IkxjKWzpVXbxZYop1IoJKg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/8f82eefffd5b1d48d2d191dba61ea7a2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CFG",
+            "CFG-PD",
+            "CFG-PE",
             "JPM"
         ]
     }

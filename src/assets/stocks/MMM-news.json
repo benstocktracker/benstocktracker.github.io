@@ -1,4 +1,31 @@
 {
+    "f4e06159-f79e-3656-b276-3133bfd94bc1": {
+        "uuid": "f4e06159-f79e-3656-b276-3133bfd94bc1",
+        "title": "Judge Questions 3M\u2019s Use of Bankruptcy to Fight Veterans\u2019 Suits",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/judge-questions-3m-bankruptcy-fight-233130667.html",
+        "providerPublishTime": 1658964690,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HZPYFaz5OHIVfwEjeuc2eg--~B/aD0xNTQwO3c9MjMxMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/VNhiSpFlzj61NOOXSs.Sqw--~B/aD0xNTQwO3c9MjMxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/89a0da54e2b308350161ee068ed7110e",
+                    "width": 2310,
+                    "height": 1540,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Xk6YaSsGSVNo79buA03Cgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VNhiSpFlzj61NOOXSs.Sqw--~B/aD0xNTQwO3c9MjMxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/89a0da54e2b308350161ee068ed7110e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MMM"
+        ]
+    },
     "6421ff71-7780-3a5c-9660-659a483733be": {
         "uuid": "6421ff71-7780-3a5c-9660-659a483733be",
         "title": "News on 3M, Raytheon, Coinbase: The National Observer July 27, 2022",
@@ -184,33 +211,6 @@
         "link": "https://finance.yahoo.com/m/60282a6f-fa00-3192-b7e5-b80df320b182/3m%3A-prodding-a-prodigal-into.html",
         "providerPublishTime": 1658858444,
         "type": "STORY",
-        "relatedTickers": [
-            "MMM"
-        ]
-    },
-    "6886931d-b9e1-3b8d-b806-0277b9cb7cbb": {
-        "uuid": "6886931d-b9e1-3b8d-b806-0277b9cb7cbb",
-        "title": "3M to Spin Off Healthcare Business;  Earplugs Unit Files for Bankruptcy",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/6886931d-b9e1-3b8d-b806-0277b9cb7cbb/3m-to-spin-off-healthcare.html",
-        "providerPublishTime": 1658856480,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zus0oJIYN3SkXKs24xtpRg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_JMqcRWRHvvc5Du8ZeCesg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/e3656c16d94443985a890e8549dad667",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/flgeq_EISGWt415La6dj1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/_JMqcRWRHvvc5Du8ZeCesg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/e3656c16d94443985a890e8549dad667",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "MMM"
         ]

@@ -1,4 +1,32 @@
 {
+    "e58fa432-5718-3f46-a9be-46fa1891fe67": {
+        "uuid": "e58fa432-5718-3f46-a9be-46fa1891fe67",
+        "title": "Equinix (EQIX) Tops Q2 FFO Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/equinix-eqix-tops-q2-ffo-220510081.html",
+        "providerPublishTime": 1658959510,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nLGLIeBHgri1fQIhUG_CNA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/auhFPLcthJM50UYepXcODg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2f0d6efdd8740952a371c97ddea6e926",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pPbTXes1lNFyjerwRPTLFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/auhFPLcthJM50UYepXcODg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2f0d6efdd8740952a371c97ddea6e926",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EQIX",
+            "STOR"
+        ]
+    },
     "b377f314-4a38-33a0-ac34-3d9b1dcedc87": {
         "uuid": "b377f314-4a38-33a0-ac34-3d9b1dcedc87",
         "title": "Love Passive Income? These Dividend Stocks Are for You",
@@ -162,38 +190,6 @@
             "HBAN",
             "STOR",
             "UHT"
-        ]
-    },
-    "832ec5f0-d0ba-3fa3-984e-0ff353e50f31": {
-        "uuid": "832ec5f0-d0ba-3fa3-984e-0ff353e50f31",
-        "title": "6 Undervalued Dividend Stocks to Buy Before July 2022",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/6-undervalued-dividend-stocks-buy-180557711.html",
-        "providerPublishTime": 1656353157,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SQhWJekhmA1a992Vrk4XwQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3NYvcYt5avVFsqL1e3WYTQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4565ebfb1c185aa9dc9589eee0d385a0",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k1WWkfIIWZ2voN0HtuZWXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3NYvcYt5avVFsqL1e3WYTQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/4565ebfb1c185aa9dc9589eee0d385a0",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FNF",
-            "JEF",
-            "HMST",
-            "STWD",
-            "CRI",
-            "STOR"
         ]
     }
 }

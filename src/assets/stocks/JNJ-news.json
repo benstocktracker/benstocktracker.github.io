@@ -1,10 +1,123 @@
 {
+    "25a33ce2-9961-3279-a377-c4ac0ba201c0": {
+        "uuid": "25a33ce2-9961-3279-a377-c4ac0ba201c0",
+        "title": "Director of 9/11 Fund Picked to Estimate Cost of J&J Talc Claims",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/director-9-11-fund-picked-171303264.html",
+        "providerPublishTime": 1659028383,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qeecO55Vd.XRqg00fLsNKw--~B/aD0xMTI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/WzRjByCurGV0Hd3ntMHQsg--~B/aD0xMTI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/e538d7ec8ca6ecbfa30da34a0d5357e9",
+                    "width": 2000,
+                    "height": 1125,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/P48MCq5KGrQ0QgvP9762lQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WzRjByCurGV0Hd3ntMHQsg--~B/aD0xMTI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/e538d7ec8ca6ecbfa30da34a0d5357e9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JNJ"
+        ]
+    },
+    "5b63227f-2bac-3f69-aacd-436b2c1d0f72": {
+        "uuid": "5b63227f-2bac-3f69-aacd-436b2c1d0f72",
+        "title": "BIOAF: FY 2022 Results and Valuation Update",
+        "publisher": "Zacks Small Cap Research",
+        "link": "https://finance.yahoo.com/news/bioaf-fy-2022-results-valuation-141000354.html",
+        "providerPublishTime": 1659017400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1HvOf3XDr2WUsREetJfJHQ--~B/aD04NTg7dz0xMzc4O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TD4t8T_GgsdDm8exulnSpA--~B/aD04NTg7dz0xMzc4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/scr.zacks.com/558549da8d02e806a59754c0c9f7613a",
+                    "width": 1378,
+                    "height": 858,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ABkzT5KrHUKA19e332jH_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TD4t8T_GgsdDm8exulnSpA--~B/aD04NTg7dz0xMzc4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/scr.zacks.com/558549da8d02e806a59754c0c9f7613a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BIOAF",
+            "JNJ"
+        ]
+    },
+    "5fb0ee93-e4bf-3031-a0dd-1817f7b1babd": {
+        "uuid": "5fb0ee93-e4bf-3031-a0dd-1817f7b1babd",
+        "title": "2 Growth Stocks That Could Be Good Bear Market Buys",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/5fb0ee93-e4bf-3031-a0dd-1817f7b1babd/2-growth-stocks-that-could-be.html",
+        "providerPublishTime": 1659016800,
+        "type": "STORY",
+        "relatedTickers": [
+            "JNJ",
+            "ROST"
+        ]
+    },
+    "0cf88e08-bcb1-35a2-b369-2ea3c165950b": {
+        "uuid": "0cf88e08-bcb1-35a2-b369-2ea3c165950b",
+        "title": "Top 10 Stock Picks of Efrem Kamen\u2019s Pura Vida Investments",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/top-10-stock-picks-efrem-134415478.html",
+        "providerPublishTime": 1659015855,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/F7FZNTf3hlMIPEQ6DrG9Fg--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UzJE93LHbCWAEguAt1ZghQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dc80761093b430fc5d9d5d2414e9dbe5",
+                    "width": 768,
+                    "height": 512,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FI97nzQpJVIk5iwmi03JcQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UzJE93LHbCWAEguAt1ZghQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dc80761093b430fc5d9d5d2414e9dbe5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VRTX",
+            "BIIB",
+            "LIVN",
+            "JNJ",
+            "ABT",
+            "OM",
+            "BSX",
+            "ATRC"
+        ]
+    },
+    "c33cd9ea-305b-3196-a8e8-f12ea51964c7": {
+        "uuid": "c33cd9ea-305b-3196-a8e8-f12ea51964c7",
+        "title": "Why Legend Biotech's Shares Jumped 11.8% on Wednesday",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c33cd9ea-305b-3196-a8e8-f12ea51964c7/why-legend-biotech%27s-shares.html",
+        "providerPublishTime": 1658959102,
+        "type": "STORY",
+        "relatedTickers": [
+            "LEGN",
+            "JNJ"
+        ]
+    },
     "279dc44b-6437-3be3-b83d-001cc997340e": {
         "uuid": "279dc44b-6437-3be3-b83d-001cc997340e",
         "title": "$4.4 Billion Opioid Settlement Gives Teva Stock a Boost",
         "publisher": "Barrons.com",
         "link": "https://finance.yahoo.com/m/279dc44b-6437-3be3-b83d-001cc997340e/%244.4-billion-opioid.html",
-        "providerPublishTime": 1658935380,
+        "providerPublishTime": 1658946840,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -26,6 +139,34 @@
             "JNJ",
             "TEVA",
             "TEVJF"
+        ]
+    },
+    "d2595f47-e2ab-301c-ac99-99c3166e705d": {
+        "uuid": "d2595f47-e2ab-301c-ac99-99c3166e705d",
+        "title": "GSK's Q2 Earnings Beat, Sales Miss, Raises 2022 Guidance",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/gsks-q2-earnings-beat-sales-164704026.html",
+        "providerPublishTime": 1658940424,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OzqoHpmQtUN54ovmQb5mOw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xv6z5qOXwMUPNA44Zi9mdw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oNkdJWo6fDmmhkTg0Awwog--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c0c563b233f28a1874a33c46aadaa70e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PFE",
+            "JNJ"
         ]
     },
     "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
@@ -99,194 +240,6 @@
             "XLK",
             "XLB",
             "XLC"
-        ]
-    },
-    "8913387e-8c5b-32ec-9635-80cd1c95da61": {
-        "uuid": "8913387e-8c5b-32ec-9635-80cd1c95da61",
-        "title": "Top 25 Dividend Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/top-25-dividend-stocks-131911008.html",
-        "providerPublishTime": 1658927951,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2sCuYcSGxQWuqxDpo2NFUA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/83F9qQtTmpvQdlDulHEdVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LLY",
-            "CB",
-            "JNJ",
-            "BDX",
-            "MKC-V",
-            "AOS",
-            "ADM",
-            "GPC",
-            "PEP",
-            "JCI",
-            "PG",
-            "SWK",
-            "ITW"
-        ]
-    },
-    "51c86534-b652-3112-887d-5c725438a80c": {
-        "uuid": "51c86534-b652-3112-887d-5c725438a80c",
-        "title": "3 No-Brainer Warren Buffett Stocks That Will Undeniably Profit from the Bear Market",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/51c86534-b652-3112-887d-5c725438a80c/3-no-brainer-warren-buffett.html",
-        "providerPublishTime": 1658920500,
-        "type": "STORY",
-        "relatedTickers": [
-            "JNJ",
-            "MCK",
-            "DVA"
-        ]
-    },
-    "0ba30731-e40b-3128-8693-dc9b08a50ca8": {
-        "uuid": "0ba30731-e40b-3128-8693-dc9b08a50ca8",
-        "title": "3 Supercharged Dividend Stocks to Buy if There's a Stock Market Sell-Off",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/0ba30731-e40b-3128-8693-dc9b08a50ca8/3-supercharged-dividend.html",
-        "providerPublishTime": 1658916000,
-        "type": "STORY",
-        "relatedTickers": [
-            "JNJ",
-            "CAH",
-            "ABBV"
-        ]
-    },
-    "0111318e-5fa8-360c-a361-2a0cb5abeeaf": {
-        "uuid": "0111318e-5fa8-360c-a361-2a0cb5abeeaf",
-        "title": "3M\u2019s $1 billion fund for resolving veterans\u2019 earplugs litigation not enough, says law professor",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/0111318e-5fa8-360c-a361-2a0cb5abeeaf/3m%E2%80%99s-%241-billion-fund-for.html",
-        "providerPublishTime": 1658871120,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3BpmRM25mQ_S6YAuQ9s.rw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Sg.LTriyqQuR9FO2_2B2kQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/9e4bec551d9f77a92f4100a8a7f55560",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ek2BgP4nENvnxGkt7u.Kgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Sg.LTriyqQuR9FO2_2B2kQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/9e4bec551d9f77a92f4100a8a7f55560",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "JNJ",
-            "MMM"
-        ]
-    },
-    "f83772e4-4e09-3cf5-a95d-7e146d943b88": {
-        "uuid": "f83772e4-4e09-3cf5-a95d-7e146d943b88",
-        "title": "Market check: Walmart warnings drags retail stocks down",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-walmart-warnings-drags-143133267.html",
-        "providerPublishTime": 1658845893,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/v_Cwa3l5OPsR.sRpGfIw_Q--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mA3O_oh1gGLhIrr.3mPkcw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WMT",
-            "TCEHY",
-            "TCTZF",
-            "XLRE",
-            "XLB",
-            "XLF",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "XLV",
-            "IUTSF",
-            "MRK",
-            "XLE",
-            "VZ",
-            "DG",
-            "AAPL",
-            "PG",
-            "BJ",
-            "META",
-            "DIS",
-            "^GSPC",
-            "MC",
-            "JNJ",
-            "JD",
-            "JDCMF",
-            "XLK",
-            "NKE",
-            "UNH",
-            "XLU",
-            "XLP",
-            "IBM",
-            "NVDA",
-            "JPM",
-            "FL",
-            "BABA",
-            "BABAF",
-            "V",
-            "SHOP",
-            "ULTA"
-        ]
-    },
-    "2f66d6a0-ccca-3162-bc59-62a7a37890d8": {
-        "uuid": "2f66d6a0-ccca-3162-bc59-62a7a37890d8",
-        "title": "AbbVie (ABBV) to Report Q2 Earnings: What's in the Cards?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-abbv-report-q2-earnings-142402606.html",
-        "providerPublishTime": 1658845442,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sBy0Jqrq1puvNI83AuaseQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/J5PJq8rtkuiBcDVdnbD5LA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd916198e87314e1ef238f8179e6227",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rFj6uz1yhoLFyrXhNS1E4Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J5PJq8rtkuiBcDVdnbD5LA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dbd916198e87314e1ef238f8179e6227",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV",
-            "JNJ",
-            "ROG.SW"
         ]
     }
 }

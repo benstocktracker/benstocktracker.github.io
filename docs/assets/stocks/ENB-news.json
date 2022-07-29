@@ -1,4 +1,35 @@
 {
+    "2071b994-3f46-3e47-b2c0-ec01af425d22": {
+        "uuid": "2071b994-3f46-3e47-b2c0-ec01af425d22",
+        "title": "Employee and Contractor Safety at Enbridge",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/employee-contractor-safety-enbridge-171008523.html",
+        "providerPublishTime": 1658941808,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/eJNNHrAaZTQm5U2vNtbZfw--~B/aD0zNTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DM0HQfoy5GZaUXqO862JgA--~B/aD0zNTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/3c46a81874812991232094c1731dcf03",
+                    "width": 650,
+                    "height": 350,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GDHG.x3QWwpmbjOIgBwblw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DM0HQfoy5GZaUXqO862JgA--~B/aD0zNTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/3c46a81874812991232094c1731dcf03",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "EBBGF",
+            "EBBNF",
+            "EBGEF",
+            "ENB",
+            "ENBFF"
+        ]
+    },
     "38638bd1-2be1-3b67-b6da-cbbe65d67cc8": {
         "uuid": "38638bd1-2be1-3b67-b6da-cbbe65d67cc8",
         "title": "3 High-Yielding Dividend Stocks With Payout Ratios Over 100%",
@@ -74,6 +105,40 @@
             "ENBFF"
         ]
     },
+    "2b771571-ef4c-3042-8a72-0f2283d8a04d": {
+        "uuid": "2b771571-ef4c-3042-8a72-0f2283d8a04d",
+        "title": "7 Energy Stocks to Buy on the Dip",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-energy-stocks-buy-dip-100147920.html",
+        "providerPublishTime": 1658743307,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RUyb0fFldW20OeA3VI_iwA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ECDBFX4JEGNwglkgzsKuew--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/1d86fe3452d2be3f4727095b5e81a63d",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YJPiBDgDmPPBArsdNG8iqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ECDBFX4JEGNwglkgzsKuew--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/1d86fe3452d2be3f4727095b5e81a63d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F",
+            "XOM",
+            "VLO",
+            "CNQ",
+            "ENB",
+            "SU",
+            "TRP"
+        ]
+    },
     "438f53fc-3f06-3f70-b176-013db5887076": {
         "uuid": "438f53fc-3f06-3f70-b176-013db5887076",
         "title": "My Top Renewable Energy Stock to Buy Right Now",
@@ -143,66 +208,6 @@
             "EBGEF",
             "ENB",
             "ENBFF"
-        ]
-    },
-    "42e73d95-b687-3b05-94cc-898a476d9d19": {
-        "uuid": "42e73d95-b687-3b05-94cc-898a476d9d19",
-        "title": "Enbridge (ENB) Stock Sinks As Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/enbridge-enb-stock-sinks-market-215009346.html",
-        "providerPublishTime": 1658353809,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/icWwTnXD.RDbbaiJecovTw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9hmYK3wZFQeDq1Iw4TW61Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wXNaNKXxuWlbebD.cUCv9g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f541c90e0d995722d10914cb76a7c653",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ENB"
-        ]
-    },
-    "61e0ae37-4c7f-391e-bb6d-79aff70128a2": {
-        "uuid": "61e0ae37-4c7f-391e-bb6d-79aff70128a2",
-        "title": "BlackRock paying $700 million for Vanguard Renewables: WSJ",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/61e0ae37-4c7f-391e-bb6d-79aff70128a2/blackrock-paying-%24700-million.html",
-        "providerPublishTime": 1658318456,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 1200,
-                    "height": 630,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "EBBGF",
-            "EBBNF",
-            "EBGEF",
-            "ENB",
-            "ENBFF",
-            "D",
-            "BLK"
         ]
     }
 }

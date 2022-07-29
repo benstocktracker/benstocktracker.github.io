@@ -1,4 +1,88 @@
 {
+    "60142df7-bc8c-39d6-8ec4-369e95d623b5": {
+        "uuid": "60142df7-bc8c-39d6-8ec4-369e95d623b5",
+        "title": "Comcast's Internet Business Stalled by Housing Slowdown",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/comcasts-internet-business-stalled-housing-125800912.html",
+        "providerPublishTime": 1659039797,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZPApPdgpMCkvP4mNAsLqbA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/64JWTQE_s6qJP_tZfGpACw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/de0e48f4443bd8d59cee8a9fdfce567d",
+                    "width": 1200,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BuPFiM3puwZM4fQMWq7X5g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/64JWTQE_s6qJP_tZfGpACw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/de0e48f4443bd8d59cee8a9fdfce567d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CMCSA",
+            "CHTR"
+        ]
+    },
+    "9e6a4f5c-2ae6-31f5-9564-47c05f7c8ee7": {
+        "uuid": "9e6a4f5c-2ae6-31f5-9564-47c05f7c8ee7",
+        "title": "Comcast stock heads for worst slide since 2008 as earnings show broadband growth screeching to halt",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/9e6a4f5c-2ae6-31f5-9564-47c05f7c8ee7/comcast-stock-heads-for-worst.html",
+        "providerPublishTime": 1659018120,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/I2oko65GQ2Qz5k1RU8p7sA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5BVSYsxHdaq4Bc33TK4WmA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/a36c9b9c82313dcce5542a8a1df951ee",
+                    "width": 1279,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dd42d6X2NLt4aksuikiZXQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5BVSYsxHdaq4Bc33TK4WmA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/a36c9b9c82313dcce5542a8a1df951ee",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CMCSA",
+            "CHTR"
+        ]
+    },
+    "1b084990-101b-3275-93d2-8e0dc96e3d85": {
+        "uuid": "1b084990-101b-3275-93d2-8e0dc96e3d85",
+        "title": "What's in Store for Charter Communications' (CHTR) Q2 Earnings?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/whats-store-charter-communications-chtr-160104422.html",
+        "providerPublishTime": 1658937664,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/An4YoauSgvMp3rK7Vr7CRw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/R.v1VxtrEvJ7W1kaBNb9Ng--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3b1e1143e18f90db3540765204e7a39c",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0Gn3aFXq12O1EWf9t3zxpw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/R.v1VxtrEvJ7W1kaBNb9Ng--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3b1e1143e18f90db3540765204e7a39c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CHTR",
+            "UTI"
+        ]
+    },
     "4b787c49-9b31-3eef-b9cc-2025189bf52f": {
         "uuid": "4b787c49-9b31-3eef-b9cc-2025189bf52f",
         "title": "Why Charter Communications (CHTR) is a Top Value Stock for the Long-Term",
@@ -133,89 +217,6 @@
         "relatedTickers": [
             "CHTR",
             "RCI"
-        ]
-    },
-    "cf0a76ca-16a8-3987-87c7-ae0eebbf41fa": {
-        "uuid": "cf0a76ca-16a8-3987-87c7-ae0eebbf41fa",
-        "title": "4 Media Stocks Set to Beat Estimates This Earnings Season",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/4-media-stocks-set-beat-113611063.html",
-        "providerPublishTime": 1658748971,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Gh6YA_qNjKFzMjbYcv2q9Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TRTitunQn0F.YjLMiG.Tgg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0e3ec48c3c58a13cf7da1ac7d8216c51",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zw7uPlIdwzYepPUuHS41zA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TRTitunQn0F.YjLMiG.Tgg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0e3ec48c3c58a13cf7da1ac7d8216c51",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHTR",
-            "RCI"
-        ]
-    },
-    "0cb7e510-7b8a-3fcc-8c24-f7443bad315b": {
-        "uuid": "0cb7e510-7b8a-3fcc-8c24-f7443bad315b",
-        "title": "Is Charter Communication (CHTR) a Great Investment Choice?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/charter-communication-chtr-great-investment-161405793.html",
-        "providerPublishTime": 1658592845,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/yn2n6y1DqNBgpx98cIBitA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LRgu9B8.nv7RcoBT122Bag--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a777acd01fe7987be7ed6a425ebca0a2",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NJuCkhQPe9CxduUmKArEnA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LRgu9B8.nv7RcoBT122Bag--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a777acd01fe7987be7ed6a425ebca0a2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHTR"
-        ]
-    },
-    "db7bd228-384a-3c9f-abdc-ee57cd702906": {
-        "uuid": "db7bd228-384a-3c9f-abdc-ee57cd702906",
-        "title": "Charter Communications (CHTR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/charter-communications-chtr-earnings-expected-140002147.html",
-        "providerPublishTime": 1658498402,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EImgd0LqW8h3S_wmSALeYw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ZVGBNd2_.kAicju5mLde7g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/W6hHOIKhj.VjzK9UJKmWeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ZVGBNd2_.kAicju5mLde7g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHTR",
-            "CMCSA"
         ]
     }
 }

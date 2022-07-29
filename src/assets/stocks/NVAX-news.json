@@ -1,4 +1,58 @@
 {
+    "ec950b30-3893-3437-869c-ab161a898585": {
+        "uuid": "ec950b30-3893-3437-869c-ab161a898585",
+        "title": "Novavax (NVAX) to Report Q2 Earnings: What's in the Cards?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-report-q2-earnings-154003477.html",
+        "providerPublishTime": 1659022803,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BTxlatpi1coxA.PFqOOucA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RcDPLy_LfY3zCFa5oGTvzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/41D0IKqXpOevA73jRCvjig--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5ef34b229359328ddb52bd15cfa3b6b2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
+    "cd626939-d3e2-3d89-84a7-5ff2de69300b": {
+        "uuid": "cd626939-d3e2-3d89-84a7-5ff2de69300b",
+        "title": "Novavax (NVAX) Stock Sinks As Market Gains: What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/novavax-nvax-stock-sinks-market-214509832.html",
+        "providerPublishTime": 1658958309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YsLi38.JNFUFos53LSrRtQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Tw87WEC1wh0JNb8.IBuFMA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ieOIdaDWPR.qUMOS7OCjig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Tw87WEC1wh0JNb8.IBuFMA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NVAX"
+        ]
+    },
     "3c2ada6d-b2f2-3538-aaed-f76cfe278437": {
         "uuid": "3c2ada6d-b2f2-3538-aaed-f76cfe278437",
         "title": "Why\u00a0Novavax Stock Jumped on Tuesday",
@@ -132,60 +186,6 @@
             "TAK",
             "TKPHF",
             "^GSPC",
-            "NVAX"
-        ]
-    },
-    "1ce5671a-1967-358f-86ea-dd367609a290": {
-        "uuid": "1ce5671a-1967-358f-86ea-dd367609a290",
-        "title": "Novavax Announces Expanded Approval of Nuvaxovid\u2122 COVID-19 Vaccine for Adolescents Aged 12 through 17 in Japan",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/novavax-announces-expanded-approval-nuvaxovid-120500435.html",
-        "providerPublishTime": 1658837100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5LCY4P48cpLS9HvOTdAatQ--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 400,
-                    "height": 176,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EN0UiQl8i4B0tHITKGkZmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NVAX"
-        ]
-    },
-    "b06abaa3-1a05-3e09-b190-bfef6a0a948b": {
-        "uuid": "b06abaa3-1a05-3e09-b190-bfef6a0a948b",
-        "title": "Novavax Nuvaxovid\u2122 COVID-19 Vaccine Granted Provisional Registration in Australia for Use in Adolescents Aged 12 Through 17",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/novavax-nuvaxovid-covid-19-vaccine-120000413.html",
-        "providerPublishTime": 1658836800,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5LCY4P48cpLS9HvOTdAatQ--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 400,
-                    "height": 176,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EN0UiQl8i4B0tHITKGkZmw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3SLufsBqxw1lpiyAEr.rrg--~B/aD0xNzY7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/45c337194539ab741be8b60e8acd9916",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "NVAX"
         ]
     }

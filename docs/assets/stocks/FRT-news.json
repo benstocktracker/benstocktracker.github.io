@@ -1,4 +1,59 @@
 {
+    "3d63540a-cc11-3022-9b0c-a0b9f34bf6da": {
+        "uuid": "3d63540a-cc11-3022-9b0c-a0b9f34bf6da",
+        "title": "Federal Realty Investment Trust (FRT) Recently Broke Out Above the 50-Day Moving Average",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/federal-realty-investment-trust-frt-133001400.html",
+        "providerPublishTime": 1659015001,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/clODVF3EcX410F.EsuMH4Q--~B/aD00NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/CorpxfcSD3xaruoFanouDg--~B/aD00NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ace7df31c7fcb10255abe7c990ea373a",
+                    "width": 900,
+                    "height": 476,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OcNTjCnDtEguHTnfXx1Cmg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CorpxfcSD3xaruoFanouDg--~B/aD00NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ace7df31c7fcb10255abe7c990ea373a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "FRT"
+        ]
+    },
+    "0c51bde7-a607-3eb4-84fc-2b40027e22ac": {
+        "uuid": "0c51bde7-a607-3eb4-84fc-2b40027e22ac",
+        "title": "SITE CENTERS CORP. (SITC) Q2 FFO and Revenues Top Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/centers-corp-sitc-q2-ffo-124512532.html",
+        "providerPublishTime": 1659012312,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/nLGLIeBHgri1fQIhUG_CNA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/auhFPLcthJM50UYepXcODg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2f0d6efdd8740952a371c97ddea6e926",
+                    "width": 900,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/pPbTXes1lNFyjerwRPTLFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/auhFPLcthJM50UYepXcODg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/2f0d6efdd8740952a371c97ddea6e926",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SITC",
+            "FRT"
+        ]
+    },
     "4f9545fd-f5bd-376a-85ec-62889404def9": {
         "uuid": "4f9545fd-f5bd-376a-85ec-62889404def9",
         "title": "1 Dividend King to Hold Till You're Blue in the Face",
@@ -139,64 +194,6 @@
         "type": "STORY",
         "relatedTickers": [
             "FRT"
-        ]
-    },
-    "b95492d4-bacc-38cd-80e0-dbf5af575e0b": {
-        "uuid": "b95492d4-bacc-38cd-80e0-dbf5af575e0b",
-        "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/why-1-growth-stock-could-134501292.html",
-        "providerPublishTime": 1657806301,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aZJISTBDbLQprkAivv8_Zw--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
-                    "width": 900,
-                    "height": 876,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gzj3SiD9eD0uG5FsmaII7Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT"
-        ]
-    },
-    "f04f77f8-64bc-3655-b535-ca618e992a9c": {
-        "uuid": "f04f77f8-64bc-3655-b535-ca618e992a9c",
-        "title": "5 Dividend Kings That Income Investors Can Count On",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/5-dividend-kings-income-investors-122907804.html",
-        "providerPublishTime": 1657715347,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/osexMdBBaK4r9ejIOAiVhw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/IQyx.BVqAbMVNy1Vy7eVMQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/3b4eb6b86c198ae66ea504794ccce6a3",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LzXAKl.9IrgcYT4fvCH6uQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IQyx.BVqAbMVNy1Vy7eVMQ--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/3b4eb6b86c198ae66ea504794ccce6a3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FRT",
-            "PEP",
-            "ABT",
-            "LOW",
-            "KMB"
         ]
     }
 }

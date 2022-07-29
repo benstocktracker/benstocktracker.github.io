@@ -1,4 +1,17 @@
 {
+    "b0870910-10dd-3c2c-a48b-4c2374025add": {
+        "uuid": "b0870910-10dd-3c2c-a48b-4c2374025add",
+        "title": "3 Stocks That Are Trading Near 4-Year Lows",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/b0870910-10dd-3c2c-a48b-4c2374025add/3-stocks-that-are-trading.html",
+        "providerPublishTime": 1659021300,
+        "type": "STORY",
+        "relatedTickers": [
+            "ILMN",
+            "PYPL",
+            "UL"
+        ]
+    },
     "119b2654-cdc4-3482-b871-55861d9fbf8b": {
         "uuid": "119b2654-cdc4-3482-b871-55861d9fbf8b",
         "title": "\u2018This is painful\u2019: Choco Taco fans mourn the loss of the ice-cream treat",
@@ -178,38 +191,6 @@
         "relatedTickers": [
             "UL",
             "UNLYF"
-        ]
-    },
-    "e81c8245-e2ec-3692-8fff-b4a3080db213": {
-        "uuid": "e81c8245-e2ec-3692-8fff-b4a3080db213",
-        "title": "Walmart\u2019s Retail Rout Offers the Fed Food for Thought",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/e81c8245-e2ec-3692-8fff-b4a3080db213/walmart%E2%80%99s-retail-rout-offers.html",
-        "providerPublishTime": 1658832000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/uv1aXJmh7.ZDM.9CWDL5kA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iZ_OMHwJnuAUB5pzTNjWNQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b6172680aa4e470f4458c3b446fbc0b3",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Sn_JjExqnUxOpj00M3UtTA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/iZ_OMHwJnuAUB5pzTNjWNQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/b6172680aa4e470f4458c3b446fbc0b3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "COIN",
-            "LMT",
-            "^GSPC",
-            "UL",
-            "UNLYF",
-            "TGT"
         ]
     }
 }

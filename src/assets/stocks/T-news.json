@@ -1,21 +1,85 @@
 {
+    "cdcb6088-bfc1-378b-ac17-b18c9ae4f980": {
+        "uuid": "cdcb6088-bfc1-378b-ac17-b18c9ae4f980",
+        "title": "Comcast failed to add broadband subscribers in Q2, stock plunges",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/comcast-failed-add-broadband-subscribers-144115118.html",
+        "providerPublishTime": 1659019275,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/d0o5BciznezFdZe1402Kyw--~B/aD0zNTA5O3c9NjI0NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/50c6bda0-0e83-11ed-bfed-9779a5c74508",
+                    "width": 6246,
+                    "height": 3509,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jsXPsRwvZStN0OzzD2MiNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/50c6bda0-0e83-11ed-bfed-9779a5c74508",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "DIS",
+            "NFLX",
+            "T",
+            "T-PA",
+            "T-PC",
+            "CMCSA",
+            "VZ",
+            "AAPL"
+        ]
+    },
+    "4a06970b-05e2-307c-b5e6-89a2532bda8c": {
+        "uuid": "4a06970b-05e2-307c-b5e6-89a2532bda8c",
+        "title": "Is T-Mobile A Buy Or Sell? Market Share Gains Versus Verizon Pick Up In Q2",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/4a06970b-05e2-307c-b5e6-89a2532bda8c/is-t-mobile-a-buy-or-sell%3F.html",
+        "providerPublishTime": 1659009913,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/q.hiheoo1REzoNwOnFgLRQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CSUyjuqWFFQ8R1Jj9kQ6LQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7f0f9bc7a30276384d9ba517c713e1b9",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yusVYv3xKJFn6RN1yEbo6Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CSUyjuqWFFQ8R1Jj9kQ6LQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7f0f9bc7a30276384d9ba517c713e1b9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TMUS",
+            "VZ",
+            "T"
+        ]
+    },
     "70f13206-16b8-31f3-b104-5b9fd4578dc8": {
         "uuid": "70f13206-16b8-31f3-b104-5b9fd4578dc8",
         "title": "Dycom Boost Seen From AT&T Fiber-Optic Push, Government Subsidies For Rural Areas",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/70f13206-16b8-31f3-b104-5b9fd4578dc8/dycom-boost-seen-from-at%26t.html",
-        "providerPublishTime": 1658940591,
+        "providerPublishTime": 1658954211,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tiCd9ZeiB79W2k8_G0Sa3w--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/7i.Q647c6jh9Ya1r2QMvJA--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/635c7f20bcdefcc2c8af5c0daecb1938",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4JhI638EpEQEM8sF3FFtMA--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BbfPv7m_rheiYcWo.G4Gqg--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3716742d5b291d25161ed0af59910c13",
                     "width": 816,
                     "height": 430,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DlTJ3iuVFAhdiP9isBHP6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/7i.Q647c6jh9Ya1r2QMvJA--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/635c7f20bcdefcc2c8af5c0daecb1938",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KXuiVNYTg2Jqf1GoXriJDg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BbfPv7m_rheiYcWo.G4Gqg--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3716742d5b291d25161ed0af59910c13",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -27,24 +91,12 @@
             "T-PC"
         ]
     },
-    "ebf10773-89fe-3576-9991-375456cda425": {
-        "uuid": "ebf10773-89fe-3576-9991-375456cda425",
-        "title": "UPDATE 2-Televisa's Sky unit plans revamp, to offer new mobile service with AT&T network",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-televisas-sky-unit-plans-150839291.html",
-        "providerPublishTime": 1658934519,
-        "type": "STORY",
-        "relatedTickers": [
-            "TV",
-            "T-PC"
-        ]
-    },
     "8a6c1792-f905-359f-b982-cb35b02b6d78": {
         "uuid": "8a6c1792-f905-359f-b982-cb35b02b6d78",
         "title": "T-Mobile Climbs As Wireless Subscriber Growth Tops Expectations",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/8a6c1792-f905-359f-b982-cb35b02b6d78/t-mobile-climbs-as-wireless.html",
-        "providerPublishTime": 1658931622,
+        "providerPublishTime": 1658952262,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -64,6 +116,18 @@
         },
         "relatedTickers": [
             "TMUS",
+            "T-PC"
+        ]
+    },
+    "ebf10773-89fe-3576-9991-375456cda425": {
+        "uuid": "ebf10773-89fe-3576-9991-375456cda425",
+        "title": "UPDATE 2-Televisa's Sky unit plans revamp, to offer new mobile service with AT&T network",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/1-televisas-sky-unit-plans-150839291.html",
+        "providerPublishTime": 1658934519,
+        "type": "STORY",
+        "relatedTickers": [
+            "TV",
             "T-PC"
         ]
     },
@@ -154,63 +218,6 @@
             "T-PC",
             "TMUS",
             "VZ"
-        ]
-    },
-    "2d3a487d-1d8a-3774-959e-9dbcf470ad56": {
-        "uuid": "2d3a487d-1d8a-3774-959e-9dbcf470ad56",
-        "title": "At a 5-Year Low, Is Verizon Communications Stock a Buy?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/2d3a487d-1d8a-3774-959e-9dbcf470ad56/at-a-5-year-low%2C-is-verizon.html",
-        "providerPublishTime": 1658918700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PNmwH3gZOi7GeeWarin9_Q--~B/aD05Nzk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cxZMdHOKaiAEzqYD_VND5w--~B/aD05Nzk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6502dfd8a040ef21602dc1163be6908f",
-                    "width": 1400,
-                    "height": 979,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kTKXSX0ROsV0rftpcuIAXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cxZMdHOKaiAEzqYD_VND5w--~B/aD05Nzk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6502dfd8a040ef21602dc1163be6908f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ",
-            "T-PC"
-        ]
-    },
-    "84095a2f-2db1-3e9c-b848-acbcfa02731a": {
-        "uuid": "84095a2f-2db1-3e9c-b848-acbcfa02731a",
-        "title": "AT&T and State of Louisiana Collaborate on Plan to Deliver Fiber Broadband to Portions of 13 Louisiana Parishes",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/t-state-louisiana-collaborate-plan-183000346.html",
-        "providerPublishTime": 1658860200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8iTVp1geUJ0_sPPQvOAllA--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/kwHByhNLrSOZjdv3Cg.Sig--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/0c8d14fa161d1b8f9160bcd25add14b3",
-                    "width": 400,
-                    "height": 232,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1U58aXJ8thVuZhO7IxHvGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kwHByhNLrSOZjdv3Cg.Sig--~B/aD0yMzI7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/0c8d14fa161d1b8f9160bcd25add14b3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "T",
-            "T-PA",
-            "T-PC"
         ]
     }
 }

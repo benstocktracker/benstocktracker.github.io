@@ -1,4 +1,88 @@
 {
+    "ae048789-5fc2-3426-bcc5-551b4fd411d4": {
+        "uuid": "ae048789-5fc2-3426-bcc5-551b4fd411d4",
+        "title": "Papa John's (PZZA) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/papa-johns-pzza-expected-beat-140202667.html",
+        "providerPublishTime": 1659016922,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ffKO.4EbCj1BJM65zWy0mg--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+                    "width": 900,
+                    "height": 601,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/95p02wXX_mPZm4qTHztw1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PZZA",
+            "SBUX"
+        ]
+    },
+    "e720abee-9315-3e40-8097-e7d3bd8e6614": {
+        "uuid": "e720abee-9315-3e40-8097-e7d3bd8e6614",
+        "title": "Should You Now Go Short in Starbucks (SBUX)?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/now-short-starbucks-sbux-125851101.html",
+        "providerPublishTime": 1659013131,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/f43VHnKLMH6TX4hePxSkAA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5bR4V6eJfSZ2JTUPtheMlA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6395fff3d6819f47139551d3d7a63118",
+                    "width": 450,
+                    "height": 600,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/r7mdL1PUNBL5WRqZuZXWbQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5bR4V6eJfSZ2JTUPtheMlA--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6395fff3d6819f47139551d3d7a63118",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SBUX",
+            "^GSPC"
+        ]
+    },
+    "ee8654bb-32a0-32d6-8783-1be025ab7ebb": {
+        "uuid": "ee8654bb-32a0-32d6-8783-1be025ab7ebb",
+        "title": "Is Chipotle Stock A Buy After Showing It Can Beat Inflation?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ee8654bb-32a0-32d6-8783-1be025ab7ebb/is-chipotle-stock-a-buy-after.html",
+        "providerPublishTime": 1659012300,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.DotM.rU9vk2R7mW.lIeOg--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GBNC8BZLkhrbkAl7Hm5vDA--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0bd9bd1f9d180ae8ce19a39f8750b8d5",
+                    "width": 1400,
+                    "height": 931,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zauqGYStu959XUPG0x6jmg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GBNC8BZLkhrbkAl7Hm5vDA--~B/aD05MzE7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0bd9bd1f9d180ae8ce19a39f8750b8d5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CMG",
+            "SBUX"
+        ]
+    },
     "8b683767-f88e-3916-b34a-177e068cf1ab": {
         "uuid": "8b683767-f88e-3916-b34a-177e068cf1ab",
         "title": "Starbucks opens this week in downtown Dayton performing arts center",
@@ -132,75 +216,6 @@
             "CVX",
             "SBUX",
             "TGT"
-        ]
-    },
-    "6c46d36f-d86c-3be4-8a39-d2e606948ff6": {
-        "uuid": "6c46d36f-d86c-3be4-8a39-d2e606948ff6",
-        "title": "3 Reasons to Watch McDonald's Stock This Week",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/6c46d36f-d86c-3be4-8a39-d2e606948ff6/3-reasons-to-watch-mcdonald%27s.html",
-        "providerPublishTime": 1658662200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/01EvEC3Nq7VXkzmthtCNbg--~B/aD05NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/y.OWKITtRiB8EizjeOuR7A--~B/aD05NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0c7c8302070a8054b05aa8f2657e36f8",
-                    "width": 1400,
-                    "height": 970,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J5fF5VvBWZX6o0NyaIcr3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/y.OWKITtRiB8EizjeOuR7A--~B/aD05NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0c7c8302070a8054b05aa8f2657e36f8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MCD",
-            "SBUX"
-        ]
-    },
-    "83420f20-3d56-36f3-83d3-ee1ff8ba5657": {
-        "uuid": "83420f20-3d56-36f3-83d3-ee1ff8ba5657",
-        "title": "Restaurant Stocks Are Finally Coming Back to Life. This One Looks Like a Good Bet.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/83420f20-3d56-36f3-83d3-ee1ff8ba5657/restaurant-stocks-are-finally.html",
-        "providerPublishTime": 1658538360,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/x.uf3iVk3FmLTcf55o48wA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DLHtszrk9oOvdk.jGQpVpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/303d0dfde57ebcf7fb49dff9f20c6976",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_ogjD_rPUtEY0xQ0xefKsg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DLHtszrk9oOvdk.jGQpVpw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/303d0dfde57ebcf7fb49dff9f20c6976",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "SBUX",
-            "MCD",
-            "YUM"
-        ]
-    },
-    "b153c940-7f67-3159-b3aa-e6b049d9678e": {
-        "uuid": "b153c940-7f67-3159-b3aa-e6b049d9678e",
-        "title": "Howard Schultz seeks to bring Starbucks back up to full strength",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/b153c940-7f67-3159-b3aa-e6b049d9678e/howard-schultz-seeks-to-bring.html",
-        "providerPublishTime": 1658527224,
-        "type": "STORY",
-        "relatedTickers": [
-            "SBUX"
         ]
     }
 }

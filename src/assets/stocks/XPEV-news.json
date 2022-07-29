@@ -1,10 +1,42 @@
 {
+    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
+        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
+        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
+        "providerPublishTime": 1659043614,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "BYDDY",
+            "LI",
+            "^GSPC",
+            "^HSI",
+            "BABA"
+        ]
+    },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
         "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
         "title": "Tesla Stock Vs. BYD Stock: Tesla Bounces, China EV Giant Launching BYD Seal, Model 3 Rival",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1658929164,
+        "providerPublishTime": 1659043404,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -31,23 +63,23 @@
             "RIVN"
         ]
     },
-    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
-        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
-        "providerPublishTime": 1658928714,
-        "type": "STORY",
+    "a95b4f4f-dfb7-38ff-8f30-b57ce9c92be3": {
+        "uuid": "a95b4f4f-dfb7-38ff-8f30-b57ce9c92be3",
+        "title": "Senate expands tax credit for EV drivers",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/senate-expands-tax-credit-ev-201329980.html",
+        "providerPublishTime": 1659039209,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 1000,
-                    "height": 563,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/W1onXksGsl4atb5sZQXFZw--~B/aD0xNTI1O3c9MjcxNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a48c93f0-0eb1-11ed-bffd-56846bcb4c31",
+                    "width": 2717,
+                    "height": 1525,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZoVpi_zMX3ZkskpmZm5n6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a48c93f0-0eb1-11ed-bffd-56846bcb4c31",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -55,12 +87,19 @@
             ]
         },
         "relatedTickers": [
+            "GM",
+            "TM",
+            "TOYOF",
+            "VLTA",
             "XPEV",
-            "BYDDY",
-            "LI",
-            "^GSPC",
-            "^HSI",
-            "BABA"
+            "XPNGF",
+            "LCID",
+            "LAZR",
+            "RIVN",
+            "F",
+            "PSNY",
+            "TSLA",
+            "NKLA"
         ]
     },
     "be6fb55e-28e0-30bc-8991-669116b20498": {
@@ -89,20 +128,20 @@
         "relatedTickers": [
             "BNPQF",
             "BNPQY",
+            "GS",
+            "XIACF",
+            "XIACY",
             "LI",
+            "TCEHY",
+            "TCTZF",
             "MPNGF",
             "MPNGY",
-            "GS",
             "BABA",
             "BABAF",
             "XPEV",
             "XPNGF",
             "BAIDF",
-            "BIDU",
-            "TCEHY",
-            "TCTZF",
-            "XIACF",
-            "XIACY"
+            "BIDU"
         ]
     },
     "51338065-5d09-3b53-8be8-6adb24b754d7": {
@@ -131,20 +170,20 @@
         "relatedTickers": [
             "BAIDF",
             "BIDU",
-            "SFTBF",
-            "SFTBY",
-            "HKXCF",
-            "HKXCY",
             "ZLAB",
             "JD",
             "JDCMF",
+            "LI",
             "BABA",
             "BABAF",
+            "HKXCF",
+            "HKXCY",
+            "BILI",
+            "BLBLF",
             "XPEV",
             "XPNGF",
-            "LI",
-            "BILI",
-            "BLBLF"
+            "SFTBF",
+            "SFTBY"
         ]
     },
     "55ba0cb4-62ec-3588-9082-5a7b22698a49": {
@@ -214,37 +253,6 @@
             "CHPT",
             "XPEV",
             "QS"
-        ]
-    },
-    "e0b57c0d-8387-3241-84d5-6295e737681d": {
-        "uuid": "e0b57c0d-8387-3241-84d5-6295e737681d",
-        "title": "7 Most Undervalued Electric Vehicle Stocks to Buy Before They Race Higher",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-most-undervalued-electric-vehicle-101508259.html",
-        "providerPublishTime": 1658484908,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VCBj0YVesXhshtTCdJbyvg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/MHV003uU7EDhDSYydyjt1w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d3c81c9fb32240b2ba2f5260418c15d4",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BastD45Q_dKke.vAaQwVAQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/MHV003uU7EDhDSYydyjt1w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/d3c81c9fb32240b2ba2f5260418c15d4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "RIVN",
-            "NIO",
-            "XPEV",
-            "BYDDY",
-            "LI"
         ]
     }
 }

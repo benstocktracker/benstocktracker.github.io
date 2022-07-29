@@ -1,10 +1,37 @@
 {
+    "afd49c4f-b228-372d-8b4a-9c6bc3eb3b2a": {
+        "uuid": "afd49c4f-b228-372d-8b4a-9c6bc3eb3b2a",
+        "title": "The Senate Reports Oil and Gas Prices Are Not Impacted by Corporate Greed \u2013 These Experts Say Otherwise",
+        "publisher": "GOBankingRates",
+        "link": "https://finance.yahoo.com/news/senate-reports-oil-gas-prices-210208407.html",
+        "providerPublishTime": 1659042128,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iVTBbzuOqs5pAjXLGzCgZw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/wa4Xe_646fpFiQCfs3smlg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/fa610cb006bd69b75586ace335492cc2",
+                    "width": 1920,
+                    "height": 1080,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IZQp2SKogzeelOMW44kWQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wa4Xe_646fpFiQCfs3smlg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/fa610cb006bd69b75586ace335492cc2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F"
+        ]
+    },
     "82aaa0ad-d1a1-39a8-bece-fa2d8b281753": {
         "uuid": "82aaa0ad-d1a1-39a8-bece-fa2d8b281753",
-        "title": "Oil Stocks: Will Oil Rig Leaders' Earnings Show Oil Production Increasing?",
+        "title": "Oil Stocks: Oil Rig Leaders' Top Earnings, While Production Stays Flat",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/82aaa0ad-d1a1-39a8-bece-fa2d8b281753/oil-stocks%3A-will-oil-rig.html",
-        "providerPublishTime": 1658939726,
+        "link": "https://finance.yahoo.com/m/82aaa0ad-d1a1-39a8-bece-fa2d8b281753/oil-stocks%3A-oil-rig-leaders%27.html",
+        "providerPublishTime": 1659040766,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -29,35 +56,23 @@
             "HP"
         ]
     },
-    "08799532-061a-3fab-9b6e-7138fa67e337": {
-        "uuid": "08799532-061a-3fab-9b6e-7138fa67e337",
-        "title": "CORRECTED-UPDATE 1-U.S. crude stockpiles drop as exports surge to record high- EIA",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-u-crude-stockpiles-drop-152819018.html",
-        "providerPublishTime": 1658935699,
-        "type": "STORY",
-        "relatedTickers": [
-            "HO=F",
-            "CL=F"
-        ]
-    },
-    "6914479b-ed1c-3c3c-a267-82eb35769ba3": {
-        "uuid": "6914479b-ed1c-3c3c-a267-82eb35769ba3",
-        "title": "Big Options Bets May Fuel US Oil\u2019s Bumper Discount to Brent",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/big-options-bets-may-fuel-151817084.html",
-        "providerPublishTime": 1658935097,
+    "42d60bdd-1151-3267-bae1-854b299e2b11": {
+        "uuid": "42d60bdd-1151-3267-bae1-854b299e2b11",
+        "title": "Exxon and 3 Other Oil and Gas Companies That Could Benefit From Inflation Bill",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/42d60bdd-1151-3267-bae1-854b299e2b11/exxon-and-3-other-oil-and-gas.html",
+        "providerPublishTime": 1659040560,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bkYrNvnpWVvutSWO8VdcYg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pxeXIycseRL9_uNsJQ1xRw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/b83fa000dc7270a2e008f075b456ecd1",
-                    "width": 1200,
-                    "height": 675,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TzcxkRCVxm1uc4.7rVKCpQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RxaSY9L6iWVXFMv6skNT4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/308c0fd834fd42ebce3c0a67ec65899c",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AqbVoVGYMk4DTEyJE.xdJw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pxeXIycseRL9_uNsJQ1xRw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/b83fa000dc7270a2e008f075b456ecd1",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AaNCyJK8tlnHWC5jyDNmXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RxaSY9L6iWVXFMv6skNT4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/308c0fd834fd42ebce3c0a67ec65899c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -65,26 +80,87 @@
             ]
         },
         "relatedTickers": [
+            "EQTNP",
+            "ETRN",
+            "XOM",
+            "CVX",
+            "OXY",
+            "NG=F",
             "CL=F"
         ]
     },
-    "2e905fa1-b1d2-3970-b3a9-03ec7c21b148": {
-        "uuid": "2e905fa1-b1d2-3970-b3a9-03ec7c21b148",
-        "title": "Oil prices higher with U.S. crude supplies down a second week",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/2e905fa1-b1d2-3970-b3a9-03ec7c21b148/oil-prices-higher-with-u.s..html",
-        "providerPublishTime": 1658934180,
+    "954e51e9-e965-304a-9b5f-5f67f92fe5c6": {
+        "uuid": "954e51e9-e965-304a-9b5f-5f67f92fe5c6",
+        "title": "Realty Income Announces $1.5 Billion Euro Commercial Paper Program",
+        "publisher": "PR Newswire",
+        "link": "https://finance.yahoo.com/news/realty-income-announces-1-5-200500338.html",
+        "providerPublishTime": 1659038700,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bNy4v0Y_ntI1nyYYUwVsVg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9ccpDMkhsg1Y5wae3rmuWA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/3004c17f10e24a3b90ae5079fe4076d7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OVR0fnc.DBQlCb_3riv__Q--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lnEVp2n9tkloQyj6SD2iOg--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d1d1021e3bd502af16e532b1b00c6ec9",
+                    "width": 400,
+                    "height": 109,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/jcnPiltbjN3xl1AH7KB.gw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lnEVp2n9tkloQyj6SD2iOg--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d1d1021e3bd502af16e532b1b00c6ec9",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "O"
+        ]
+    },
+    "aeaf9021-4b12-3e2c-9b87-d8984b02c1f9": {
+        "uuid": "aeaf9021-4b12-3e2c-9b87-d8984b02c1f9",
+        "title": "Occidental Petroleum Stock Eyes Buy Point As Earnings Approach",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/aeaf9021-4b12-3e2c-9b87-d8984b02c1f9/occidental-petroleum-stock.html",
+        "providerPublishTime": 1659036699,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bNtR6OOQbN.6_mXMhirKrw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3KKMQrf60CMxbgnkbHETkg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dc977d273f3773f6b2f3294d14fb235e",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kQHFNR1UpPXHWXnykHyT1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3KKMQrf60CMxbgnkbHETkg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dc977d273f3773f6b2f3294d14fb235e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CL=F",
+            "OXY"
+        ]
+    },
+    "e6c7e6a0-bafe-3dd5-be57-5a813681a26a": {
+        "uuid": "e6c7e6a0-bafe-3dd5-be57-5a813681a26a",
+        "title": "Brent oil scores back-to-back gains, while U.S. benchmark ends lower on recession worries",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/e6c7e6a0-bafe-3dd5-be57-5a813681a26a/brent-oil-scores-back-to-back.html",
+        "providerPublishTime": 1659035280,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hRRhFSAcdYi9zpNCm.bWOA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dbS3YoPP6QTtAl4cY5IELw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/a536d5b0cf8a4421552102dbaab544ef",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Pk2IDvCFZsjvs5E3bek9Uw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9ccpDMkhsg1Y5wae3rmuWA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/3004c17f10e24a3b90ae5079fe4076d7",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g8mSp_ViffAk8HElef4XWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dbS3YoPP6QTtAl4cY5IELw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/a536d5b0cf8a4421552102dbaab544ef",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -97,23 +173,39 @@
             "NG=F"
         ]
     },
-    "edecaef9-b1c7-354b-a830-904fd09a0eef": {
-        "uuid": "edecaef9-b1c7-354b-a830-904fd09a0eef",
-        "title": "EIA Inventory Report Pushes Oil Prices Higher",
-        "publisher": "Oilprice.com",
-        "link": "https://finance.yahoo.com/news/eia-inventory-report-pushes-oil-144606286.html",
-        "providerPublishTime": 1658933166,
+    "a0e7a5a1-8d6d-3b63-b86c-be33ed56af2f": {
+        "uuid": "a0e7a5a1-8d6d-3b63-b86c-be33ed56af2f",
+        "title": "U.S. Plans to Push Down Oil Prices Won\u2019t Be Straightforward",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/a0e7a5a1-8d6d-3b63-b86c-be33ed56af2f/u.s.-plans-to-push-down-oil.html",
+        "providerPublishTime": 1659034320,
         "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ojkKMKy9U8Qej07jg10dLg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UBzEbcay44Cd6xYwSMO2yg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/72ba7d541e7cf8446fcb6b09bc8cbfa5",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gOQ3XA73uPXI1ycR0MpweA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UBzEbcay44Cd6xYwSMO2yg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/72ba7d541e7cf8446fcb6b09bc8cbfa5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
         "relatedTickers": [
             "CL=F"
         ]
     },
-    "316c4cbe-2531-30be-915b-ba4804728a9c": {
-        "uuid": "316c4cbe-2531-30be-915b-ba4804728a9c",
-        "title": "EIA reports weekly declines in U.S. crude, gasoline and distillate supplies",
+    "c324999f-86ca-32b5-b622-1c7d9bde5436": {
+        "uuid": "c324999f-86ca-32b5-b622-1c7d9bde5436",
+        "title": "U.S. oil prices give up early gains to finish with a loss",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/316c4cbe-2531-30be-915b-ba4804728a9c/eia-reports-weekly-declines.html",
-        "providerPublishTime": 1658932804,
+        "link": "https://finance.yahoo.com/m/c324999f-86ca-32b5-b622-1c7d9bde5436/u.s.-oil-prices-give-up-early.html",
+        "providerPublishTime": 1659033702,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -132,67 +224,7 @@
             ]
         },
         "relatedTickers": [
-            "CL=F",
-            "HO=F",
-            "RB=F"
-        ]
-    },
-    "a0aa22e4-4e96-35ab-a6e7-645228419395": {
-        "uuid": "a0aa22e4-4e96-35ab-a6e7-645228419395",
-        "title": "Saudi Arabia eyes record-high premium for Asian oil customers despite crude's recent slump",
-        "publisher": "Business Insider",
-        "link": "https://finance.yahoo.com/m/a0aa22e4-4e96-35ab-a6e7-645228419395/saudi-arabia-eyes-record-high.html",
-        "providerPublishTime": 1658930517,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/d6PJEx623F24I.mtiT0cKQ--~B/aD0xOTk4O3c9MjY2NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/omdkh9h4FmE3l6ZH5ar.Xg--~B/aD0xOTk4O3c9MjY2NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/4c25ae51d63cea0f2ae902fe34b8d9d7",
-                    "width": 2664,
-                    "height": 1998,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zuGkZREgdFNJI1hm1WmxHw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/omdkh9h4FmE3l6ZH5ar.Xg--~B/aD0xOTk4O3c9MjY2NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/4c25ae51d63cea0f2ae902fe34b8d9d7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
             "CL=F"
-        ]
-    },
-    "3efc088b-9058-3f5c-baba-376d42afcf9b": {
-        "uuid": "3efc088b-9058-3f5c-baba-376d42afcf9b",
-        "title": "What Do Some of My Favorite S&P 500 Stocks Have In Common? They're All REITs",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/3efc088b-9058-3f5c-baba-376d42afcf9b/what-do-some-of-my-favorite.html",
-        "providerPublishTime": 1658920200,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jowIXwbHypEOCWIGYEIUPw--~B/aD05NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IikOee.h_SUFdfFGhsYiQw--~B/aD05NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/565ccc719c10178d6c583873ee9931d6",
-                    "width": 1400,
-                    "height": 972,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/c4p8z9Z7XSZysnNFmvyQSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IikOee.h_SUFdfFGhsYiQw--~B/aD05NzI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/565ccc719c10178d6c583873ee9931d6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "O",
-            "ARE",
-            "DLR-PK",
-            "CCI"
         ]
     }
 }

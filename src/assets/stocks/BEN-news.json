@@ -1,119 +1,80 @@
 {
-    "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7": {
-        "uuid": "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7",
-        "title": "Franklin Templeton's Employees Engage in Global Events to Give Back to the Community",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templetons-employees-engage-global-130019288.html",
-        "providerPublishTime": 1658926819,
+    "ca1b877a-3a8b-3b6b-8caf-964b0cba1e3b": {
+        "uuid": "ca1b877a-3a8b-3b6b-8caf-964b0cba1e3b",
+        "title": "Why\u00a0Franklin Resources Stock Jumped More Than 4% Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ca1b877a-3a8b-3b6b-8caf-964b0cba1e3b/why%C2%A0franklin-resources-stock.html",
+        "providerPublishTime": 1659039531,
         "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o.ozl87r8mmv2h754vK6Fw--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
-                    "width": 650,
-                    "height": 488,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3P06.lCV4GjOT1QOfm2lsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "BEN"
         ]
     },
-    "abfe4c53-79c1-3349-b0b0-fa7204279291": {
-        "uuid": "abfe4c53-79c1-3349-b0b0-fa7204279291",
-        "title": "Ameriprise Financial Services (AMP) Q2 Earnings Surpass Estimates",
+    "0627bc35-cadf-3f40-8bdb-69432cb98103": {
+        "uuid": "0627bc35-cadf-3f40-8bdb-69432cb98103",
+        "title": "Templeton Emerging Markets Income Fund (\"TEI\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-emerging-markets-income-fund-172700865.html",
+        "providerPublishTime": 1659029220,
+        "type": "STORY",
+        "relatedTickers": [
+            "TEI",
+            "BEN"
+        ]
+    },
+    "c2537a12-5223-3608-9a2d-8aeff2622efe": {
+        "uuid": "c2537a12-5223-3608-9a2d-8aeff2622efe",
+        "title": "Templeton Global Income Fund (\"GIM\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/templeton-global-income-fund-gim-171500525.html",
+        "providerPublishTime": 1659028500,
+        "type": "STORY",
+        "relatedTickers": [
+            "BEN",
+            "GIM"
+        ]
+    },
+    "ce4aeb96-a37a-3787-8a77-5c722a5c26bf": {
+        "uuid": "ce4aeb96-a37a-3787-8a77-5c722a5c26bf",
+        "title": "Franklin Universal Trust (\"FT\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-universal-trust-ft-fund-171300606.html",
+        "providerPublishTime": 1659028380,
+        "type": "STORY",
+        "relatedTickers": [
+            "FT",
+            "BEN"
+        ]
+    },
+    "cd0d4230-49f5-3611-b2a4-b68f60500f8c": {
+        "uuid": "cd0d4230-49f5-3611-b2a4-b68f60500f8c",
+        "title": "Franklin Limited Duration Income Trust (\"FTF\" or the \"Fund\") Announces Notification of Sources of Distributions",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-limited-duration-income-trust-171200963.html",
+        "providerPublishTime": 1659028320,
+        "type": "STORY",
+        "relatedTickers": [
+            "BEN",
+            "FTF"
+        ]
+    },
+    "65797cde-67cf-30e6-ba99-d646c362d3f5": {
+        "uuid": "65797cde-67cf-30e6-ba99-d646c362d3f5",
+        "title": "INSERTING\u00a0and\u00a0REPLACING Franklin Resources, Inc. Announces Third Quarter Results",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/franklin-resources-inc-announces-third-123000421.html",
+        "providerPublishTime": 1659020280,
+        "type": "STORY",
+        "relatedTickers": [
+            "BEN"
+        ]
+    },
+    "37c7572e-e4f1-3b27-a1e1-5719fc5e17ac": {
+        "uuid": "37c7572e-e4f1-3b27-a1e1-5719fc5e17ac",
+        "title": "Franklin (BEN) Q3 Earnings Top Estimates, Revenues & AUM Dip",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ameriprise-financial-services-amp-q2-214509786.html",
-        "providerPublishTime": 1658871909,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/f_bLTsOnmzrA8rHMNKfNRw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
-                    "width": 900,
-                    "height": 594,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/24eK28oXPAmS7aYFGj00Ag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fj4TPQveJWuth16WIsEVAw--~B/aD01OTQ7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/46ebfcbff417ac1bbde85ad33fa0d4be",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMP",
-            "BEN"
-        ]
-    },
-    "e825e81e-04ab-34b8-877c-af408e0bfd58": {
-        "uuid": "e825e81e-04ab-34b8-877c-af408e0bfd58",
-        "title": "Franklin Templeton Celebrates LGBTQ+ Inclusion",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-celebrates-lgbtq-inclusion-130014242.html",
-        "providerPublishTime": 1658840414,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pQI.mG.tDZTrucGHfJ6NMQ--~B/aD0zNzY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/sjcW1SUFuG51rBqwaC8laQ--~B/aD0zNzY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/36034c0804e9de0e0a7bde2acd6da4dd",
-                    "width": 650,
-                    "height": 376,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8U3w3UnzrV44k5pAVRA_SQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/sjcW1SUFuG51rBqwaC8laQ--~B/aD0zNzY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/36034c0804e9de0e0a7bde2acd6da4dd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "af42c226-0eac-35b2-894f-63a94bbb7fcb": {
-        "uuid": "af42c226-0eac-35b2-894f-63a94bbb7fcb",
-        "title": "Franklin Templeton Earns Top Score in the Disability Equality Index",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-earns-top-score-140032082.html",
-        "providerPublishTime": 1658757632,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Icpu9AZQgvrnTh7wAK8d6w--~B/aD02NTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/yX6I.m9YQnZ8kDbmwFihqA--~B/aD02NTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/5f8640cc8bc8062b980355f3176f8e06",
-                    "width": 650,
-                    "height": 650,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/d_yq8lliHaWvyfQmIwWzNw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yX6I.m9YQnZ8kDbmwFihqA--~B/aD02NTA7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/5f8640cc8bc8062b980355f3176f8e06",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "2d4ba627-5e7a-3e91-8015-09b0968719af": {
-        "uuid": "2d4ba627-5e7a-3e91-8015-09b0968719af",
-        "title": "What Awaits Franklin Resources (BEN) in Fiscal Q3 Earnings?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/awaits-franklin-resources-ben-fiscal-135701742.html",
-        "providerPublishTime": 1658757421,
+        "link": "https://finance.yahoo.com/news/franklin-ben-q3-earnings-top-140502601.html",
+        "providerPublishTime": 1659017102,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -135,78 +96,23 @@
             "BEN"
         ]
     },
-    "d612b5ac-c9d2-3cb0-a900-12484e5fc1f2": {
-        "uuid": "d612b5ac-c9d2-3cb0-a900-12484e5fc1f2",
-        "title": "Earnings Preview: Virtus Investment Partners (VRTS) Q2 Earnings Expected to Decline",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/earnings-preview-virtus-investment-partners-140002836.html",
-        "providerPublishTime": 1658498402,
+    "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7": {
+        "uuid": "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7",
+        "title": "Franklin Templeton's Employees Engage in Global Events to Give Back to the Community",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/franklin-templetons-employees-engage-global-130019288.html",
+        "providerPublishTime": 1658926819,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/YRz8MGJWcybk9QoXQlMEnQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
-                    "width": 900,
-                    "height": 600,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/o.ozl87r8mmv2h754vK6Fw--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
+                    "width": 650,
+                    "height": 488,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o6VhAe2Lh5wjpYDfWJVJYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HIalcDlt7JZPKSITVlxPuw--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VRTS",
-            "BEN"
-        ]
-    },
-    "411d6ac3-336a-3714-b465-3af870095192": {
-        "uuid": "411d6ac3-336a-3714-b465-3af870095192",
-        "title": "Should Franklin U.S. Low Volatility High Dividend Index ETF (LVHD) Be on Your Investing Radar?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/franklin-u-low-volatility-high-102010216.html",
-        "providerPublishTime": 1658312410,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/88Fg6KE6GPnh0zlh3tqRTA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pqnfGkvbQ5ArK7CRuvTLzw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9naTdeJlVMX28sdlDpLdrQ--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "d5765962-5b08-3450-a5c4-c0039953f73e": {
-        "uuid": "d5765962-5b08-3450-a5c4-c0039953f73e",
-        "title": "Franklin Templeton Targets More Assets in ETF Overhaul",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/franklin-templeton-targets-50-billion-165451547.html",
-        "providerPublishTime": 1658172921,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ehOssVAqPS7Q.nYGAHx2nw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gzpQttJYpzZ92eJUIpVyeA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/5a95ad14c318c7fca2770f18589c36e4",
-                    "width": 1200,
-                    "height": 675,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/198HQg4P.5yaGFaUMW1.UQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gzpQttJYpzZ92eJUIpVyeA--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/5a95ad14c318c7fca2770f18589c36e4",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3P06.lCV4GjOT1QOfm2lsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

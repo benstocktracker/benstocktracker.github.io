@@ -1,4 +1,31 @@
 {
+    "a90d13a0-be3a-3a43-ad70-29ec478de049": {
+        "uuid": "a90d13a0-be3a-3a43-ad70-29ec478de049",
+        "title": "Ares Capital Corporation Announces Public Offering",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/ares-capital-corporation-announces-public-201100751.html",
+        "providerPublishTime": 1659039060,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MsLvuS2HwEpoY43UIIApwA--~B/aD0xNjk7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/.QBFPIcrLepSrhEMtpW3PA--~B/aD0xNjk7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/fe5995b905dfbf64681e68d3d3b083af",
+                    "width": 480,
+                    "height": 169,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BZvUzUAOPyKbu2VKly0rLQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.QBFPIcrLepSrhEMtpW3PA--~B/aD0xNjk7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/fe5995b905dfbf64681e68d3d3b083af",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ARCC"
+        ]
+    },
     "46ad2147-f090-38c3-a62d-9a7e50c4c18c": {
         "uuid": "46ad2147-f090-38c3-a62d-9a7e50c4c18c",
         "title": "Ares Capital (ARCC) Stock Rises on Q2 Earnings Beat, Costs Dip",
@@ -181,34 +208,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/ieOIdaDWPR.qUMOS7OCjig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Tw87WEC1wh0JNb8.IBuFMA--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/03fca48475577988aa4e0db94f484b4e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ARCC",
-            "^GSPC"
-        ]
-    },
-    "932767af-6901-3a8e-a1f4-d786c391d538": {
-        "uuid": "932767af-6901-3a8e-a1f4-d786c391d538",
-        "title": "Ares Capital (ARCC) Dips More Than Broader Markets: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/ares-capital-arcc-dips-more-221510517.html",
-        "providerPublishTime": 1657750510,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/teV0gueUZEoYFpDIun8VjA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-                    "width": 900,
-                    "height": 506,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RhON.yVPvTv6Fl1I0IrY8w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/132juehTNIyEUn7pK7.GPA--~B/aD01MDY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

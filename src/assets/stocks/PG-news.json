@@ -1,4 +1,70 @@
 {
+    "52286e28-93e2-3647-9f3f-3895eefff0c8": {
+        "uuid": "52286e28-93e2-3647-9f3f-3895eefff0c8",
+        "title": "Oil Producers, Procter & Gamble, AstraZeneca: 3 Things to Watch",
+        "publisher": "Investing.com",
+        "link": "https://finance.yahoo.com/news/oil-producers-procter-gamble-astrazeneca-154751391.html",
+        "providerPublishTime": 1659023271,
+        "type": "STORY",
+        "relatedTickers": [
+            "AZN",
+            "PG"
+        ]
+    },
+    "8d99fb73-fb8d-39a4-92f0-fb5049a18cd1": {
+        "uuid": "8d99fb73-fb8d-39a4-92f0-fb5049a18cd1",
+        "title": "Procter & Gamble Q4 Preview: Another EPS Beat Inbound?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/procter-gamble-q4-preview-another-203208658.html",
+        "providerPublishTime": 1658953928,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kbaP5qRyks9t.OI3VimjBQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HD2kfRVE8LP1fz1OOG.4VA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7f3667ffb0901a87f0646d99fc0299de",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9va68O0C3dwQHb_Gq.AlHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HD2kfRVE8LP1fz1OOG.4VA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7f3667ffb0901a87f0646d99fc0299de",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
+    "5eddd212-ab1c-31b2-803f-df260c8ab503": {
+        "uuid": "5eddd212-ab1c-31b2-803f-df260c8ab503",
+        "title": "Can P&G (PG) Keep the Earnings Surprise Streak Alive?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/p-g-pg-keep-earnings-161004408.html",
+        "providerPublishTime": 1658938204,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NLrcU6JTDovfmseBh3I.Wg--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
+                    "width": 900,
+                    "height": 588,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/J7VKaGzOB6XGza6KEHjdMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
     "0b31101d-a48a-3fd3-ba1c-cf7142ec2638": {
         "uuid": "0b31101d-a48a-3fd3-ba1c-cf7142ec2638",
         "title": "Senate\u2019s Antitrust Crackdown Sputters as Schumer Signals Doubts",
@@ -23,14 +89,14 @@
             ]
         },
         "relatedTickers": [
+            "META",
+            "MSFT",
+            "AMZN",
             "GOOG",
             "GOOGL",
             "AAPL",
             "AXP",
-            "AMZN",
-            "MSFT",
-            "PG",
-            "META"
+            "PG"
         ]
     },
     "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
@@ -200,127 +266,6 @@
         "relatedTickers": [
             "PG",
             "KMB"
-        ]
-    },
-    "f83772e4-4e09-3cf5-a95d-7e146d943b88": {
-        "uuid": "f83772e4-4e09-3cf5-a95d-7e146d943b88",
-        "title": "Market check: Walmart warnings drags retail stocks down",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/market-check-walmart-warnings-drags-143133267.html",
-        "providerPublishTime": 1658845893,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/v_Cwa3l5OPsR.sRpGfIw_Q--~B/aD0xNTYwO3c9Mjc3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
-                    "width": 2779,
-                    "height": 1560,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/mA3O_oh1gGLhIrr.3mPkcw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a42e53d0-0cef-11ed-b5e1-a8fe214b26d3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WMT",
-            "TCEHY",
-            "TCTZF",
-            "XLRE",
-            "XLB",
-            "XLF",
-            "GOOG",
-            "GOOGL",
-            "MSFT",
-            "XLV",
-            "IUTSF",
-            "MRK",
-            "XLE",
-            "VZ",
-            "DG",
-            "AAPL",
-            "PG",
-            "BJ",
-            "META",
-            "DIS",
-            "^GSPC",
-            "MC",
-            "JNJ",
-            "JD",
-            "JDCMF",
-            "XLK",
-            "NKE",
-            "UNH",
-            "XLU",
-            "XLP",
-            "IBM",
-            "NVDA",
-            "JPM",
-            "FL",
-            "BABA",
-            "BABAF",
-            "V",
-            "SHOP",
-            "ULTA"
-        ]
-    },
-    "0a0150ff-757e-301d-b7f1-9b81b6a75736": {
-        "uuid": "0a0150ff-757e-301d-b7f1-9b81b6a75736",
-        "title": "Procter & Gamble (PG) Outpaces Stock Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/procter-gamble-pg-outpaces-stock-214509632.html",
-        "providerPublishTime": 1658785509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0hxLqfjYVq3.yjMAVUJdzw--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
-                    "width": 900,
-                    "height": 745,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1XfyO_BuDEAZkgi3aI7Yqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UPInF06X6fJkTqeimnpZuQ--~B/aD03NDU7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
-        ]
-    },
-    "6a3a9d36-5b1b-3647-a84a-7cc8cb1e4344": {
-        "uuid": "6a3a9d36-5b1b-3647-a84a-7cc8cb1e4344",
-        "title": "Analysis: Colgate, Tide maker P&G rejig price tactics to keep cash-strapped shoppers",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/analysis-colgate-tide-maker-p-101105179.html",
-        "providerPublishTime": 1658743865,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Y5hI5xvXIaU0jBKccZWnRA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/oR0poPlW_x.mA7k41uVfIA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/6ce7989199e74a07e4b01d20e287862b",
-                    "width": 800,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/H6d3cmIvDxlPsapSrzRf7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oR0poPlW_x.mA7k41uVfIA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/6ce7989199e74a07e4b01d20e287862b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CHD",
-            "PG",
-            "CLX"
         ]
     }
 }

@@ -1,4 +1,159 @@
 {
+    "4e156b8c-f6c5-33c6-b3a1-cbe93e9e1073": {
+        "uuid": "4e156b8c-f6c5-33c6-b3a1-cbe93e9e1073",
+        "title": "Sprite discontinues green plastic bottles for environmental reasons",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/sprite-discontinues-green-plastic-bottles-211018616.html",
+        "providerPublishTime": 1659042618,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/7oBERjl3In8M2hn3s1wpRw--~B/aD0xOTE0O3c9MzQwNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ac300440-0eb9-11ed-bfee-7d9c4868012e",
+                    "width": 3407,
+                    "height": 1914,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8dnOLSbtObEOf._wbjC_rA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/ac300440-0eb9-11ed-bfee-7d9c4868012e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO"
+        ]
+    },
+    "d26813f6-f908-33ae-a88f-336ab95024c1": {
+        "uuid": "d26813f6-f908-33ae-a88f-336ab95024c1",
+        "title": "These 10 Stocks are Gaining After Announcing Share Buybacks",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-stocks-gaining-announcing-share-192421411.html",
+        "providerPublishTime": 1659036261,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZuqbA.XVAn7jCjbZ6lXIWw--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ru.9ziyXL4vQm3k3Drkzxg--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eee11a4e5aa8b2ab8f4802d79b6865ad",
+                    "width": 750,
+                    "height": 498,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MySwg8M5Imnk3ZTcf0G7Vg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ru.9ziyXL4vQm3k3Drkzxg--~B/aD00OTg7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eee11a4e5aa8b2ab8f4802d79b6865ad",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PRPH",
+            "KO",
+            "RBB",
+            "CBNK",
+            "SHBI",
+            "TSLA",
+            "MSFT"
+        ]
+    },
+    "9dfd19ba-533b-3e8a-bd39-5e1a210140c4": {
+        "uuid": "9dfd19ba-533b-3e8a-bd39-5e1a210140c4",
+        "title": "Sprite Goes Green by Ditching Its Green Bottle",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/9dfd19ba-533b-3e8a-bd39-5e1a210140c4/sprite-goes-green-by-ditching.html",
+        "providerPublishTime": 1659022920,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/IdC1lEYrEP07xukH79mrjA--~B/aD02NDA7dz01MTI7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/PJnydOsei0m0GfteZFd7Pg--~B/aD02NDA7dz01MTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4efaf50ba4e2474d64e8ef4d63616872",
+                    "width": 512,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qK1iTNpdctFvzR3jmydVjQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PJnydOsei0m0GfteZFd7Pg--~B/aD02NDA7dz01MTI7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4efaf50ba4e2474d64e8ef4d63616872",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO"
+        ]
+    },
+    "26889e95-9aa6-389a-8074-a53ff12db650": {
+        "uuid": "26889e95-9aa6-389a-8074-a53ff12db650",
+        "title": "Bear Market Investing: 3 Reasons to Buy Stocks Now",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/26889e95-9aa6-389a-8074-a53ff12db650/bear-market-investing%3A-3.html",
+        "providerPublishTime": 1659004200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zfIfqQjyrSFo115iMoh2Vg--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TtAoDt.0757Bbbkh3DhSvw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d5c0b80b2fab4946ce32fb4ff2d4af2f",
+                    "width": 1400,
+                    "height": 873,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/s7aTzM0ACjROq.obV7b6uQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TtAoDt.0757Bbbkh3DhSvw--~B/aD04NzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d5c0b80b2fab4946ce32fb4ff2d4af2f",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KO",
+            "NKE",
+            "ISRG",
+            "TXN"
+        ]
+    },
+    "cb39b198-b708-35d3-be83-b42dc2206277": {
+        "uuid": "cb39b198-b708-35d3-be83-b42dc2206277",
+        "title": "The U.S. isn't in a 'typical recession': Fmr Home Depot CEO",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/u-isnt-typical-recession-fmr-192958437.html",
+        "providerPublishTime": 1658950198,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KmdwDbfI.ORL09IJ8HOUPw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/cb39b198-b708-35d3-be83-b42dc2206277/2022-07-27/19-29-58/b31f9845-6d5c-5c5c-b839-9cf5ee3a362e/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 1280,
+                    "height": 720,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/d9R.CzOZSTqBIYStoMQ0_g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/hd/cp-video-transcode/production/cb39b198-b708-35d3-be83-b42dc2206277/2022-07-27/19-29-58/b31f9845-6d5c-5c5c-b839-9cf5ee3a362e/stream_1280x720x0_v2_3_0.jpg",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PEP",
+            "^IXIC",
+            "GM",
+            "F",
+            "KO",
+            "^DJI",
+            "TSLA",
+            "HD",
+            "IWM",
+            "LOW",
+            "^GSPC",
+            "GE"
+        ]
+    },
     "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
         "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
         "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
@@ -112,163 +267,6 @@
         "relatedTickers": [
             "KO",
             "KR"
-        ]
-    },
-    "597eca1b-9933-49cc-a60d-f9a4185078cf": {
-        "uuid": "597eca1b-9933-49cc-a60d-f9a4185078cf",
-        "title": "Strategist: 'Soul-crushing' sell-offs 'may be delayed until late summer'",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/news/why-a-soul-crushing-stock-market-sell-off-may-be-delayed-095034834.html",
-        "providerPublishTime": 1658915434,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ctRRL8AUSk9LLBbx8E7Lgg--~B/aD0zNTY1O3c9NTE5OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-10/e36ca460-38ca-11ec-b7eb-a7e1f192f4f5",
-                    "width": 5199,
-                    "height": 3565,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2UL.VJJ4133tmtanZxfrFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-10/e36ca460-38ca-11ec-b7eb-a7e1f192f4f5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^DJI",
-            "RDBX",
-            "^GSPC",
-            "UPS",
-            "MCD",
-            "^IXIC",
-            "KO",
-            "WMT"
-        ]
-    },
-    "6d865fe8-8646-3878-a777-19e0fca5b33b": {
-        "uuid": "6d865fe8-8646-3878-a777-19e0fca5b33b",
-        "title": "Coca-Cola Posts Higher Quarterly Sales Despite Price Increases",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/6d865fe8-8646-3878-a777-19e0fca5b33b/coca-cola-posts-higher.html",
-        "providerPublishTime": 1658889480,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6desPoIS6DkbwMznSuAmMg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HHprajiMQRhSeFBJQ5RgMQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f6ee50787174bf42ac3d6cfc826c73f7",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rW1YsxFK0QmocCH7oBF9xA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HHprajiMQRhSeFBJQ5RgMQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/f6ee50787174bf42ac3d6cfc826c73f7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KO"
-        ]
-    },
-    "aba93b7d-cc19-304c-ac8e-7eb0fc416b9f": {
-        "uuid": "aba93b7d-cc19-304c-ac8e-7eb0fc416b9f",
-        "title": "Don\u2019t Expect Big Consumer Brands to Lower Prices Soon",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/aba93b7d-cc19-304c-ac8e-7eb0fc416b9f/don%E2%80%99t-expect-big-consumer.html",
-        "providerPublishTime": 1658873640,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/oojI6Xpi9w5XS7tFpdVJ1w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VbSl0iZEK9Y1stIqdvx56Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9fbe27ccca0da65b2cab64e6052b6480",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LvYdCziYdd1T1GWCiACmRA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VbSl0iZEK9Y1stIqdvx56Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/9fbe27ccca0da65b2cab64e6052b6480",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CMG",
-            "GM",
-            "ACI",
-            "KO",
-            "KMB"
-        ]
-    },
-    "20121ef0-7263-3d93-baa8-9c87684a452d": {
-        "uuid": "20121ef0-7263-3d93-baa8-9c87684a452d",
-        "title": "US STOCKS-Indexes drop as Walmart profit warning spooks investors",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/us-stocks-indexes-drop-walmart-205517273.html",
-        "providerPublishTime": 1658868917,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pGDhdnTG.knr85ANeyLK3w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/32407090-0d1d-11ed-9f7d-913f3671be29",
-                    "width": 1280,
-                    "height": 720,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9Qd88CxHQ1.QZA12fjPIHw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/32407090-0d1d-11ed-9f7d-913f3671be29",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "COMP",
-            "WMT",
-            "^DJI",
-            "MSFT",
-            "MMM",
-            "TGT",
-            "KO",
-            "AMZN"
-        ]
-    },
-    "6156a57f-bc83-3369-b655-f3e8020f1e64": {
-        "uuid": "6156a57f-bc83-3369-b655-f3e8020f1e64",
-        "title": "Treasury Moves to Ease Limits on Foreign Tax Credits After Companies Object",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/6156a57f-bc83-3369-b655-f3e8020f1e64/treasury-moves-to-ease-limits.html",
-        "providerPublishTime": 1658868180,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/39FILH5ei5wgmIyaljy_rA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nYKLLfG_mkdIzD5hwIhwbg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/831b2970d2ad165a115b42770b346bdc",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IDarJmwkwTJfwb3Q5iIlFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nYKLLfG_mkdIzD5hwIhwbg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/831b2970d2ad165a115b42770b346bdc",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DIS",
-            "BLMN",
-            "KO",
-            "YUM"
         ]
     }
 }
