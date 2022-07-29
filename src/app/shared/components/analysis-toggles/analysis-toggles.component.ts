@@ -30,6 +30,6 @@ export class AnalysisTogglesComponent implements OnInit {
   }
 
   getWinLoseColor() { 
-    return this.costAverage > this.marketPrice ? 'tomato' : 'forestgreen';
+    return this.winLose === 'Loser' ? 'tomato' : 'forestgreen';
   }
 }
