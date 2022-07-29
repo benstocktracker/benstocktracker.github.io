@@ -15,7 +15,7 @@ export class AnalysisTogglesComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    this.winLose = this.costAverage < this.fiftyTwoWeekLow ? 'Winner' : 'Loser';
+    this.winLose = this.costAverage < this.fiftyTwoWeekLow && this.costAverage < this.marketPrice ? 'Winner' : 'Loser';
   }
 
   getAnalysisColor() {
