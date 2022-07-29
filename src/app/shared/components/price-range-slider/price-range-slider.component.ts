@@ -12,12 +12,16 @@ export class PriceRangeSliderComponent implements OnInit {
   @Input() costAverage!: number;
   @Input() shares!: number;
   @Input() showHolding: boolean = true;
-  color: string = '';
+  sliderColor: string = '';
 
   constructor() { }
 
   ngOnInit(): void {
     let mid = (+this.min + +this.max) / 2;
-    this.color = +this.currentPrice > mid ? 'primary' : 'warn';
+    this.sliderColor = +this.currentPrice > mid ? 'primary' : 'warn';
+  }
+
+  getColor() { 
+    return this.costAverage > +this.min ? 'tomato' : 'forestgreen';
   }
 }

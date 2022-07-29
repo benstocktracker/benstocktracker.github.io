@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 
 import { NgMaterialModule } from '../ng-material/ng-material.module';
+import { AnalysisTogglesComponent } from './analysis-toggles/analysis-toggles.component';
 import { PriceRangeSliderComponent } from './price-range-slider/price-range-slider.component';
 import { StatCardComponent } from './stat-card/stat-card.component';
 import { StockChartPanelComponent } from './stock-chart-panel/stock-chart-panel.component';
@@ -27,7 +28,8 @@ const components = [
   SymbolFinancialsWidgetComponent,
   MiniChartWidgetComponent,
   PriceRangeSliderComponent,
-  TickersWidgetComponent
+  TickersWidgetComponent,
+  AnalysisTogglesComponent
 ];
 
 @NgModule({
@@ -35,4 +37,4 @@ const components = [
   exports: components,
   imports: [CommonModule, NgMaterialModule],
 })
-export class SharedComponentsModule {}
+export class SharedComponentsModule { }

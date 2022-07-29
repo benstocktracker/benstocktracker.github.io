@@ -1,0 +1,13 @@
+<mat-button-toggle-group name="holding">
+  <mat-button-toggle
+    disabled
+    [ngStyle]="{ color: getAnalysisColor() }"
+    >{{ analysis | titlecase }}</mat-button-toggle
+  >
+  <mat-button-toggle
+    disabled
+    [ngStyle]="{ color: getWinLoseColor() }"
+    >{{ winLose }}</mat-button-toggle
+  >
+  <mat-button-toggle *ngIf="" disabled>hello!</mat-button-toggle>
+</mat-button-toggle-group>

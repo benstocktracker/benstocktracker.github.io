@@ -2,7 +2,7 @@
   <div class="price-range-slider">
     <span>${{ min }}</span>
     <mat-slider
-      [color]="color"
+      [color]="sliderColor"
       [min]="min"
       [max]="max"
       value="{{ currentPrice }}"
@@ -12,11 +12,19 @@
     <span>${{ max }}</span>
   </div>
   <div *ngIf="showHolding" class="cost-average">
-    <!-- ${{ costAverage }}  |  {{ shares }}x  |  ${{ (costAverage * shares).toFixed(2) }} -->
     <mat-button-toggle-group name="holding">
-      <mat-button-toggle disabled value="costAverage">${{ costAverage }}</mat-button-toggle>
-      <mat-button-toggle disabled value="shares">{{ shares }}x</mat-button-toggle>
-      <mat-button-toggle disabled value="matketValue">${{ (costAverage * shares).toFixed(2) }}</mat-button-toggle>
+      <mat-button-toggle
+        disabled
+        value="costAverage"
+        [ngStyle]="{ color: getColor() }"
+        >${{ costAverage }}</mat-button-toggle
+      >
+      <mat-button-toggle disabled value="shares"
+        >{{ shares }}x</mat-button-toggle
+      >
+      <mat-button-toggle disabled value="matketValue"
+        >${{ (costAverage * shares).toFixed(2) }}</mat-button-toggle
+      >
     </mat-button-toggle-group>
   </div>
 </div>
