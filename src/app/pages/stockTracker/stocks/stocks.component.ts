@@ -49,10 +49,10 @@ export class StocksComponent implements OnInit, AfterViewInit {
     (stock: any) => '',
     (stock: any) => `$${stock.marketValue.toFixed(2)}`,
     (stock: any) => `$${stock.profit.toFixed(2)}`,
-    (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield.toFixed(2)})` : 'N/A',
-    (stock: any) => stock.yield > 0 ? `$${stock.dividendIncome.toFixed(2)} (${(stock.dividendIncome / this.dividendIncome * 100).toFixed(2)}%)` : 'N/A',
-    (stock: any) => stock.yield > 0 ? `${stock.yieldOnCost.toFixed(2)}%` : 'N/A',
-    (stock: any) => stock.yield > 0 ? `${stock.payoutRatio.toFixed(2)}%` : 'N/A',
+    (stock: any) => stock.yield > 0 ? `${stock.yieldPercent.toFixed(2)}% ($${stock.yield.toFixed(2)})` : '-',
+    (stock: any) => stock.yield > 0 ? `$${stock.dividendIncome.toFixed(2)} (${(stock.dividendIncome / this.dividendIncome * 100).toFixed(2)}%)` : '-',
+    (stock: any) => stock.yield > 0 ? `${stock.yieldOnCost.toFixed(2)}%` : '-',
+    (stock: any) => stock.yield > 0 ? `${stock.payoutRatio.toFixed(2)}%` : '-',
     (stock: any) => ``,
     (stock: any) => stock.sector,
     (stock: any) => stock.analysis.toUpperCase(),
@@ -85,25 +85,10 @@ export class StocksComponent implements OnInit, AfterViewInit {
     switch (index) {
       case 3:
         return this.cells[index](stock)[1] === '-' ? 'tomato' : 'forestgreen';
-      case 6:
-        return stock.yield > 0 ? 'steelblue' : '#191919';
       case 7:
         return stock.payoutRatio >= 50 ? 'tomato' : '#191919';
-      case 10:
-        return this.getAnalysisColor(stock.analysis);
       default:
         return '#191919';
-    }
-  }
-
-  getAnalysisColor(value: string) {
-    switch (value) {
-      case 'strong buy': return 'forestgreen';
-      case 'buy': return 'limegreen';
-      case 'hold': return 'steelblue';
-      case 'underperform': return 'orange';
-      case 'sell': return 'tomato';
-      default: return '#191919';
     }
   }
 

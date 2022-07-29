@@ -83,8 +83,16 @@
               {{ stock.profitPercent.toFixed(2) }}%
             </div>
           </div>
-          <div *ngIf="cidx === 8; else elseBlock" (click)="expandRow(stock)">
+          <div *ngIf="cidx === 8" (click)="expandRow(stock)">
             <div>{{ stock.exDivDate }}</div>
+          </div>
+          <div *ngIf="cidx === 10;  else elseBlock">
+            <app-analysis-toggles
+              [analysis]="cells[cidx](stock)"
+              [costAverage]="stock.costAverage"
+              [marketPrice]="stock.stats.price.regularMarketPrice"
+              [fiftyTwoWeekLow]="+stock.stats.summaryDetail.fiftyTwoWeekLow.toFixed(2)"
+            ></app-analysis-toggles>
           </div>
           <ng-template #elseBlock>
             <span
