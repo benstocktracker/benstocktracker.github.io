@@ -1,4 +1,38 @@
 {
+    "68ce372a-9a32-3233-86bb-6d91ed19bac3": {
+        "uuid": "68ce372a-9a32-3233-86bb-6d91ed19bac3",
+        "title": "Summer blockbuster openings 'are pretty comparable to what it was before' COVID: IMAX CEO",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/sumer-blockbuster-openings-pretty-comparable-202035540.html",
+        "providerPublishTime": 1659126035,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/doGkqX_4D8eQm9T9fZPm3Q--~B/aD0xNTA4O3c9MjY4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d5e8c7f0-0f7b-11ed-bccb-f5d292668763",
+                    "width": 2685,
+                    "height": 1508,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tObZJtTDMnyQuDT7XERZsQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/d5e8c7f0-0f7b-11ed-bccb-f5d292668763",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "IMAX",
+            "PARA",
+            "PARAA",
+            "PARAP",
+            "AMC",
+            "CNK",
+            "DIS",
+            "WBD"
+        ]
+    },
     "d37ac5f6-3ca0-3e5e-b53d-431ce87ce2a5": {
         "uuid": "d37ac5f6-3ca0-3e5e-b53d-431ce87ce2a5",
         "title": "Chris Cuomo Gets New TV-Host Gig With NewsNation",
@@ -207,33 +241,6 @@
             "WBD",
             "SNAP",
             "TWTR"
-        ]
-    },
-    "3b752317-194d-32ed-9f96-fe06d6b70fbd": {
-        "uuid": "3b752317-194d-32ed-9f96-fe06d6b70fbd",
-        "title": "\u2018Full Frontal with Samantha Bee\u2019 Is Canceled After Seven Seasons",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/3b752317-194d-32ed-9f96-fe06d6b70fbd/%E2%80%98full-frontal-with-samantha.html",
-        "providerPublishTime": 1658777700,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ir1tVrZnT.I.cychJwX82g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BGjx219gg89phrCf24r.lw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/018845c032143652edcc1e24d64a38e2",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/h5d4FqImFFR5dUULH7ccww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/BGjx219gg89phrCf24r.lw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/018845c032143652edcc1e24d64a38e2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBD"
         ]
     }
 }

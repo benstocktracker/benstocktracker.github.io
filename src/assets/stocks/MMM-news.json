@@ -86,6 +86,37 @@
             "MMM"
         ]
     },
+    "7b09ac41-972c-3f9b-af60-3ca0f0c6e499": {
+        "uuid": "7b09ac41-972c-3f9b-af60-3ca0f0c6e499",
+        "title": "The 7 Best Industrial Stocks to Buy Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-best-industrial-stocks-buy-220024826.html",
+        "providerPublishTime": 1658872824,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LFmi1xsxYzWeVEn7PPa4Rw--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/qSbyi.jxWuMec9g.GkHZUg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/e3a19e0d3b09ed623528b9ca9d6f8d0a",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/zOi.Lpt3W9y_ZsimBrno0g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qSbyi.jxWuMec9g.GkHZUg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/e3a19e0d3b09ed623528b9ca9d6f8d0a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BA",
+            "LMT",
+            "LUV",
+            "MMM",
+            "CAT"
+        ]
+    },
     "0111318e-5fa8-360c-a361-2a0cb5abeeaf": {
         "uuid": "0111318e-5fa8-360c-a361-2a0cb5abeeaf",
         "title": "3M\u2019s $1 billion fund for resolving veterans\u2019 earplugs litigation not enough, says law professor",
@@ -200,17 +231,6 @@
                 }
             ]
         },
-        "relatedTickers": [
-            "MMM"
-        ]
-    },
-    "60282a6f-fa00-3192-b7e5-b80df320b182": {
-        "uuid": "60282a6f-fa00-3192-b7e5-b80df320b182",
-        "title": "3M: prodding a prodigal into the bankruptcy courts",
-        "publisher": "Financial Times",
-        "link": "https://finance.yahoo.com/m/60282a6f-fa00-3192-b7e5-b80df320b182/3m%3A-prodding-a-prodigal-into.html",
-        "providerPublishTime": 1658858444,
-        "type": "STORY",
         "relatedTickers": [
             "MMM"
         ]

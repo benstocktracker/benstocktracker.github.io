@@ -1,4 +1,35 @@
 {
+    "8dfbfa4b-50c9-3e64-aa84-f653d29a0972": {
+        "uuid": "8dfbfa4b-50c9-3e64-aa84-f653d29a0972",
+        "title": "TSLA Stock: Tesla Stock Quotes, Company News And Chart Analysis",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/8dfbfa4b-50c9-3e64-aa84-f653d29a0972/tsla-stock%3A-tesla-stock.html",
+        "providerPublishTime": 1659098583,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fcphuKlW6QERfU7cIdYo4w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mjaqLy8JgT1Px9Ww9RX8bA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/54199fe7b0aefa12e448f77057873b2d",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/e24yZpTiawDTO6g31sleXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mjaqLy8JgT1Px9Ww9RX8bA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/54199fe7b0aefa12e448f77057873b2d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TSLA",
+            "NKLA",
+            "RIVN",
+            "AAPL",
+            "NIO"
+        ]
+    },
     "b96a1734-95d7-32d0-94f1-b9475cd85cc2": {
         "uuid": "b96a1734-95d7-32d0-94f1-b9475cd85cc2",
         "title": "Nio Is Down 70% From All-Time Highs. Here Are 2 Reasons Why It's Worth a Second Chance.",
@@ -151,6 +182,37 @@
             "HNDAF"
         ]
     },
+    "04f8780d-946b-3ecb-bc94-828db330bdd9": {
+        "uuid": "04f8780d-946b-3ecb-bc94-828db330bdd9",
+        "title": "7 Chinese Stocks to Buy on the Dip",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-chinese-stocks-buy-dip-142331871.html",
+        "providerPublishTime": 1658845411,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmFbyS.gQme12DtDgwexeg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/LEKn1rGwPdcyfGbtmn1V_w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/0246c9ce0fdee8c77b7371130fe9d3d5",
+                    "width": 728,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/24KgENbxVDLN55bSnFE8.Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LEKn1rGwPdcyfGbtmn1V_w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/0246c9ce0fdee8c77b7371130fe9d3d5",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "LI",
+            "NIO",
+            "BABA",
+            "BIDU",
+            "BILI"
+        ]
+    },
     "264f528a-31ea-3145-bc93-81a94629900a": {
         "uuid": "264f528a-31ea-3145-bc93-81a94629900a",
         "title": "NIO to Hold Annual General Meeting and Class Meetings on August 25, 2022",
@@ -159,50 +221,6 @@
         "providerPublishTime": 1658834880,
         "type": "STORY",
         "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "a5f16dad-f95d-3a47-9ac2-e0df7bfc1a78": {
-        "uuid": "a5f16dad-f95d-3a47-9ac2-e0df7bfc1a78",
-        "title": "Why Nio Shares Dipped Today",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a5f16dad-f95d-3a47-9ac2-e0df7bfc1a78/why-nio-shares-dipped-today.html",
-        "providerPublishTime": 1658769892,
-        "type": "STORY",
-        "relatedTickers": [
-            "NIO"
-        ]
-    },
-    "fcffb804-e0c7-3c2f-a4d8-5a0b20ff0c14": {
-        "uuid": "fcffb804-e0c7-3c2f-a4d8-5a0b20ff0c14",
-        "title": "10 Chinese Real Estate Stocks to Watch as Analysts Predict More Defaults and Crisis",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-chinese-real-estate-stocks-130352405.html",
-        "providerPublishTime": 1658754232,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/15qsgzFB8sFCHOjfgqrgBw--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/bgGnk3Imz4zIH9vwfrcGng--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/70762c9c483433fa28a10b7d61222771",
-                    "width": 750,
-                    "height": 500,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/MP9gGOSY8am.AaxJUMvqaw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/bgGnk3Imz4zIH9vwfrcGng--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/70762c9c483433fa28a10b7d61222771",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEKE",
-            "FANH",
-            "XIN",
-            "LEJU",
-            "XYF",
-            "BIDU",
             "NIO"
         ]
     }

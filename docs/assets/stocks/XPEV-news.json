@@ -1,42 +1,10 @@
 {
-    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
-        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
-        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
-        "providerPublishTime": 1659043614,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV",
-            "BYDDY",
-            "LI",
-            "^GSPC",
-            "^HSI",
-            "BABA"
-        ]
-    },
     "1290d6ab-a5b1-3718-86d9-d4814e62c904": {
         "uuid": "1290d6ab-a5b1-3718-86d9-d4814e62c904",
-        "title": "Tesla Stock Vs. BYD Stock: Tesla Bounces, China EV Giant Launching BYD Seal, Model 3 Rival",
+        "title": "Tesla Stock Vs. BYD Stock: Tesla Bounces, China EV Giant Launches BYD Seal, Model 3 Rival",
         "publisher": "Investor's Business Daily",
         "link": "https://finance.yahoo.com/m/1290d6ab-a5b1-3718-86d9-d4814e62c904/tesla-stock-vs.-byd-stock%3A.html",
-        "providerPublishTime": 1659043404,
+        "providerPublishTime": 1659134184,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -61,6 +29,100 @@
             "XPEV",
             "LI",
             "RIVN"
+        ]
+    },
+    "46b82b41-9954-347c-bb47-98ef98398249": {
+        "uuid": "46b82b41-9954-347c-bb47-98ef98398249",
+        "title": "China EV Sales Set To Double As Nio Stock, Xpeng Rally On Subsidy Hope",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/46b82b41-9954-347c-bb47-98ef98398249/china-ev-sales-set-to-double.html",
+        "providerPublishTime": 1659132436,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/tmxUYr6mRZc.Iq2uCOUTXA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/62PVwfCqPHkpvurhjrtncA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/a5c67f8545bda99c131384e7dd3206d3",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/X_jOyz1bTXry_x4Le.Is6A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/62PVwfCqPHkpvurhjrtncA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/a5c67f8545bda99c131384e7dd3206d3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "TSLA"
+        ]
+    },
+    "71d0fde7-e65f-3e16-bd19-5deb79cf9f0c": {
+        "uuid": "71d0fde7-e65f-3e16-bd19-5deb79cf9f0c",
+        "title": "Dow Jones Futures: Stock Market Rally Passes Inflection Point; Apple, Exxon Flash Buy Signals",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/71d0fde7-e65f-3e16-bd19-5deb79cf9f0c/dow-jones-futures%3A-stock.html",
+        "providerPublishTime": 1659131379,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ohq71CoV0y0IB07KSSKhIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E3bZz6JkZegShfPcuwD_AQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^DJI",
+            "COMP",
+            "^GSPC",
+            "XOM",
+            "^RUT",
+            "XPEV",
+            "AAPL",
+            "LI"
+        ]
+    },
+    "e074e541-a391-3d14-a74d-dcf58539eb5c": {
+        "uuid": "e074e541-a391-3d14-a74d-dcf58539eb5c",
+        "title": "5 Best Chinese Stocks: Tech Crackdown, Covid Fears Return",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/e074e541-a391-3d14-a74d-dcf58539eb5c/5-best-chinese-stocks%3A-tech.html",
+        "providerPublishTime": 1659124914,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bpKEFu_t06lPVpuIScBeVw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 1000,
+                    "height": 563,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wj3DJ61nfGolnRNm_drtdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WneqmBtsZgljDP2fI8nbuQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/921b5be5ac8c931a68a703b184467a49",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "XPEV",
+            "BYDDY",
+            "LI",
+            "^GSPC",
+            "^HSI",
+            "BABA"
         ]
     },
     "a95b4f4f-dfb7-38ff-8f30-b57ce9c92be3": {
@@ -126,22 +188,22 @@
             ]
         },
         "relatedTickers": [
+            "GS",
             "BNPQF",
             "BNPQY",
-            "GS",
-            "XIACF",
-            "XIACY",
+            "BABA",
+            "BABAF",
             "LI",
             "TCEHY",
             "TCTZF",
-            "MPNGF",
-            "MPNGY",
-            "BABA",
-            "BABAF",
+            "BAIDF",
+            "BIDU",
+            "XIACF",
+            "XIACY",
             "XPEV",
             "XPNGF",
-            "BAIDF",
-            "BIDU"
+            "MPNGF",
+            "MPNGY"
         ]
     },
     "51338065-5d09-3b53-8be8-6adb24b754d7": {
@@ -168,22 +230,22 @@
             ]
         },
         "relatedTickers": [
+            "ZLAB",
+            "SFTBF",
+            "SFTBY",
+            "XPEV",
+            "XPNGF",
             "BAIDF",
             "BIDU",
-            "ZLAB",
-            "JD",
-            "JDCMF",
-            "LI",
-            "BABA",
-            "BABAF",
             "HKXCF",
             "HKXCY",
             "BILI",
             "BLBLF",
-            "XPEV",
-            "XPNGF",
-            "SFTBF",
-            "SFTBY"
+            "LI",
+            "BABA",
+            "BABAF",
+            "JD",
+            "JDCMF"
         ]
     },
     "55ba0cb4-62ec-3588-9082-5a7b22698a49": {
@@ -211,48 +273,6 @@
         },
         "relatedTickers": [
             "XPEV"
-        ]
-    },
-    "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2": {
-        "uuid": "a6c3f7e5-1831-3b8e-bddc-89cd40771ad2",
-        "title": "XPeng Stock Shows Strong Q2 Delivery Numbers; Is It A Buy Now? Here's What Charts, Analysis Show",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/a6c3f7e5-1831-3b8e-bddc-89cd40771ad2/xpeng-stock-shows-strong-q2.html",
-        "providerPublishTime": 1658748631,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9nNLHrbrYnFTXCpzZceUFg--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gp1XP6AS9gJ9Utl727s6Rw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0a55af9c134ab52f232d324db90592ce",
-                    "width": 945,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/0z0NloUvLB4UAIfWT_gEfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gp1XP6AS9gJ9Utl727s6Rw--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0a55af9c134ab52f232d324db90592ce",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "XPEV"
-        ]
-    },
-    "804cd296-22db-3eed-b4e0-bd8b6060b3f1": {
-        "uuid": "804cd296-22db-3eed-b4e0-bd8b6060b3f1",
-        "title": "7 Long-Term Stocks to Buy on the Dip",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/7-long-term-stocks-buy-130337386.html",
-        "providerPublishTime": 1658667817,
-        "type": "STORY",
-        "relatedTickers": [
-            "GOOGL",
-            "AAPL",
-            "CHPT",
-            "XPEV",
-            "QS"
         ]
     }
 }

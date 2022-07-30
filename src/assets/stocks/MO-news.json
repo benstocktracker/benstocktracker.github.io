@@ -1,4 +1,31 @@
 {
+    "f9a7f843-e3cf-3edd-8d25-601f3e62630c": {
+        "uuid": "f9a7f843-e3cf-3edd-8d25-601f3e62630c",
+        "title": "Altria Group (MO) Q2 2022 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f9a7f843-e3cf-3edd-8d25-601f3e62630c/altria-group-%28mo%29-q2-2022.html",
+        "providerPublishTime": 1659090654,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 1400,
+                    "height": 1494,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "MO"
+        ]
+    },
     "72e4962d-9c31-3cc5-ab7f-690685a610b0": {
         "uuid": "72e4962d-9c31-3cc5-ab7f-690685a610b0",
         "title": "REPLAY- Predicting the Next FDA Juul Crackdown and More: Join Stream and Sentieo in Fireside to Discuss Expert Call Platform",
@@ -197,39 +224,6 @@
         },
         "relatedTickers": [
             "MO"
-        ]
-    },
-    "29a6c694-e21e-3ded-ae0d-0382b883fbaa": {
-        "uuid": "29a6c694-e21e-3ded-ae0d-0382b883fbaa",
-        "title": "10 High-Yield But Safe Dividend Stocks to Buy Now",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-high-yield-safe-dividend-133752121.html",
-        "providerPublishTime": 1659015472,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sOeLjPZ1NM1RLyGFq91iRQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/A68hnxIXgC.ZxxAGAiq41w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c1c2933a5655260bed1ddbb26d54adda",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NzRKHrFi2v2S5E7G.fNVtw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/A68hnxIXgC.ZxxAGAiq41w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c1c2933a5655260bed1ddbb26d54adda",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PXD",
-            "BGS",
-            "BGFV",
-            "MO",
-            "VNORP",
-            "ABBV",
-            "XOM"
         ]
     }
 }

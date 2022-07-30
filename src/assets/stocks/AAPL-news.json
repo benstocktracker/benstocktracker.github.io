@@ -1,48 +1,21 @@
 {
-    "5cf197b3-4eec-3c20-ba2a-04eaf472bcea": {
-        "uuid": "5cf197b3-4eec-3c20-ba2a-04eaf472bcea",
-        "title": "Apple Narrowly Tops Estimates as iPhone Fares Better Than Feared",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/apple-narrowly-tops-estimates-iphone-203323144.html",
-        "providerPublishTime": 1659050576,
+    "dd7b7263-cdc0-3162-aa56-98d9eb4a415d": {
+        "uuid": "dd7b7263-cdc0-3162-aa56-98d9eb4a415d",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/dd7b7263-cdc0-3162-aa56-98d9eb4a415d/weekly-roundup.html",
+        "providerPublishTime": 1659135060,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/quPl8JGeGfIQ7HHk8R7JIw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/p7c.ooiHwYMmxUdSCcz77g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/4078e064a1e277b88dccd94366e1c3d2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mnA3rXdnetVVaxnbEVNbyg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c3ossIGFVJqhyffIK57JDQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/19ec2467e2d531fc848f1d4406af1c6d",
                     "width": 1200,
-                    "height": 675,
+                    "height": 800,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/r5tKESLaFtgLgXnXeN_KFQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/p7c.ooiHwYMmxUdSCcz77g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/4078e064a1e277b88dccd94366e1c3d2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "f398e889-45f4-3c02-956e-0076335ec032": {
-        "uuid": "f398e889-45f4-3c02-956e-0076335ec032",
-        "title": "GuruFocus Feature Highlight: Financial Glossary and Term Pages",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/news/gurufocus-feature-highlight-financial-glossary-230724184.html",
-        "providerPublishTime": 1659049644,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eWuIaML1r8EO0lMWU1VdNw--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Fy7wKjfC8NWAaUs7WHSqQQ--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/9ccf6bd6beebfece0e582f2e1d42b670",
-                    "width": 550,
-                    "height": 366,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fHjy8GknQ4XGOMVQcgqe7g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Fy7wKjfC8NWAaUs7WHSqQQ--~B/aD0zNjY7dz01NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.gurufocus/9ccf6bd6beebfece0e582f2e1d42b670",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UL5hLTJtpHtE5XZmRD8OGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c3ossIGFVJqhyffIK57JDQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/19ec2467e2d531fc848f1d4406af1c6d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -51,26 +24,38 @@
         },
         "relatedTickers": [
             "AAPL",
-            "WMT"
+            "GOOGL",
+            "MSFT",
+            "INTC",
+            "SPGI",
+            "VZ",
+            "AMZN",
+            "CMG",
+            "NUE",
+            "URI",
+            "F",
+            "NVDA",
+            "AMN",
+            "CHPT"
         ]
     },
-    "058118a4-4643-357c-867c-b570d976f9ce": {
-        "uuid": "058118a4-4643-357c-867c-b570d976f9ce",
-        "title": "Dow Jones Futures Rise: Market Rally Extends Momentum As Apple Pops, Amazon Soars On Earnings",
+    "71d0fde7-e65f-3e16-bd19-5deb79cf9f0c": {
+        "uuid": "71d0fde7-e65f-3e16-bd19-5deb79cf9f0c",
+        "title": "Dow Jones Futures: Stock Market Rally Passes Inflection Point; Apple, Exxon Flash Buy Signals",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/058118a4-4643-357c-867c-b570d976f9ce/dow-jones-futures-rise%3A.html",
-        "providerPublishTime": 1659048292,
+        "link": "https://finance.yahoo.com/m/71d0fde7-e65f-3e16-bd19-5deb79cf9f0c/dow-jones-futures%3A-stock.html",
+        "providerPublishTime": 1659131379,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2rAQAJFMaGWfAXx80V.P1g--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JzA6CUvH71rXxzJyTGYlPw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/423dd089c9059549af60c62a443c9288",
-                    "width": 1065,
-                    "height": 600,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Ohq71CoV0y0IB07KSSKhIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SjgL54b9NarDghH_pAp6zQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JzA6CUvH71rXxzJyTGYlPw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/423dd089c9059549af60c62a443c9288",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/E3bZz6JkZegShfPcuwD_AQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1Dv8tjENy.cqs9vAmCgNKQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/7009328d95c23df6351c4a1d33db531c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -81,32 +66,30 @@
             "^DJI",
             "COMP",
             "^GSPC",
-            "AAPL",
-            "INTC",
-            "AMZN",
-            "^RUT",
-            "FSLR",
             "XOM",
-            "ABBV"
+            "^RUT",
+            "XPEV",
+            "AAPL",
+            "LI"
         ]
     },
-    "58f66c45-d72d-3c9f-a8c5-c48665ce3bc7": {
-        "uuid": "58f66c45-d72d-3c9f-a8c5-c48665ce3bc7",
-        "title": "Apple iPhone Sales Remain Resilient as Company Reports 11% Decline in Profit",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/58f66c45-d72d-3c9f-a8c5-c48665ce3bc7/apple-iphone-sales-remain.html",
-        "providerPublishTime": 1659045960,
+    "a195311b-c697-4ea8-b7de-1f38cb613e9e": {
+        "uuid": "a195311b-c697-4ea8-b7de-1f38cb613e9e",
+        "title": "Amazon's ad business could grow bigger than AWS, analyst argues",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/amazons-ad-business-grow-bigger-aws-analyst-210010388.html",
+        "providerPublishTime": 1659128410,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/djCiynX1f0dTWpSQvT3LcA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TJiV4hA1UMeCkKTECZgf4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7845aa92a40ba177996dd54fdf442333",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iXOyNuhZW3gSVcGxvVawRQ--~B/aD0zMTQwO3c9NDcxNzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-images/2019-10/ef610260-ef5d-11e9-b5eb-874f79e2e09a",
+                    "width": 4717,
+                    "height": 3140,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BlVWmAEpLcguNn2PMsc2IQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TJiV4hA1UMeCkKTECZgf4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7845aa92a40ba177996dd54fdf442333",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bm8LyDDPIPOyFDi9_aYaHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-10/ef610260-ef5d-11e9-b5eb-874f79e2e09a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -114,26 +97,29 @@
             ]
         },
         "relatedTickers": [
+            "AMZN",
+            "GOOG",
+            "GOOGL",
             "AAPL"
         ]
     },
-    "02c60a54-ade5-304c-87e1-d4f0af3545f3": {
-        "uuid": "02c60a54-ade5-304c-87e1-d4f0af3545f3",
-        "title": "Apple says macro issues aren\u2019t hurting iPhone business as earnings top expectations",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/02c60a54-ade5-304c-87e1-d4f0af3545f3/apple-says-macro-issues.html",
-        "providerPublishTime": 1659045780,
+    "8f355b43-2bb8-3961-a62b-aa7287b9e3df": {
+        "uuid": "8f355b43-2bb8-3961-a62b-aa7287b9e3df",
+        "title": "US STOCKS-S&P 500, Nasdaq register biggest monthly gains since 2020",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/us-stocks-p-500-nasdaq-204622303.html",
+        "providerPublishTime": 1659127582,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jToIEyfcpEUVpI7WbCNS_A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jsFO9Aht5P7DM6aTIPcy1A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f42ac31cc029b1b57100891bca260165",
-                    "width": 1280,
-                    "height": 640,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yQS8fEhRe_44_vmF25Bh4w--~B/aD0xNDk0O3c9MjY2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/86fff580-0f82-11ed-8f1e-c4d49bf50669",
+                    "width": 2660,
+                    "height": 1494,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tjZChxeY8chNzvzxC1.bWA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jsFO9Aht5P7DM6aTIPcy1A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/f42ac31cc029b1b57100891bca260165",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R47QNrjzy1BuJ6R.PcolDA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/86fff580-0f82-11ed-8f1e-c4d49bf50669",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -141,80 +127,69 @@
             ]
         },
         "relatedTickers": [
-            "AAPL"
+            "^GSPC",
+            "AAPL",
+            "COMP",
+            "^DJI",
+            "CVX",
+            "XOM"
         ]
     },
-    "75c55f1b-f65d-320c-8724-366984149a55": {
-        "uuid": "75c55f1b-f65d-320c-8724-366984149a55",
-        "title": "Apple Earnings Beat Estimates Thanks to the iPhone. The Stock Is Rising.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/75c55f1b-f65d-320c-8724-366984149a55/apple-earnings-beat-estimates.html",
-        "providerPublishTime": 1659045300,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/FNAPzx.KubDzlGgyuH3Wtg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u_oeWky1JH21b3st0U7E3Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3167998bb4d55bbe6bf91352778aea9e",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7SQ8Uk7hh0XKsEvX2Z2uug--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u_oeWky1JH21b3st0U7E3Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/3167998bb4d55bbe6bf91352778aea9e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "169f1dd9-2d7b-32ba-bb33-23a1c9d24d61": {
-        "uuid": "169f1dd9-2d7b-32ba-bb33-23a1c9d24d61",
-        "title": "Strong iPhone Sales, Services Revenue Drive Apple's June-Quarter Beat",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/169f1dd9-2d7b-32ba-bb33-23a1c9d24d61/strong-iphone-sales%2C-services.html",
-        "providerPublishTime": 1659044330,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DsS.zauB41XZO9XPGZBbvg--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u_jdKpUBIa9zPekG91oWww--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/357024d561b4dc25a60cd5e324d679f3",
-                    "width": 1000,
-                    "height": 565,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fgdW.lOig3zN7YxOYsTB9A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/u_jdKpUBIa9zPekG91oWww--~B/aD01NjU7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/357024d561b4dc25a60cd5e324d679f3",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AAPL"
-        ]
-    },
-    "e7208c76-c34f-3203-8b88-fbabdaab5cd5": {
-        "uuid": "e7208c76-c34f-3203-8b88-fbabdaab5cd5",
-        "title": "Apple sales are still 'all about the iPhone': Analyst",
+    "617f4b7b-84e1-3d96-8602-5476d50c6fc5": {
+        "uuid": "617f4b7b-84e1-3d96-8602-5476d50c6fc5",
+        "title": "Markets close out the week on monthly gains, energy leads major sectors",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/apple-sales-still-iphone-analyst-210250409.html",
-        "providerPublishTime": 1659042170,
+        "link": "https://finance.yahoo.com/video/markets-close-week-monthly-gains-202624293.html",
+        "providerPublishTime": 1659126384,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QUJVlAEM6cRdWfEQ1erT7Q--~B/aD0xNTExO3c9MjY5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a2b22a70-0eb8-11ed-bfe6-c71abdbb2524",
-                    "width": 2692,
-                    "height": 1511,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MTf2.Wj9KtP1PhgAYmyosg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7a232b80-0f7c-11ed-b76f-d70181697135",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2YIu5fF1.SqpH9YttvDJ8g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/a2b22a70-0eb8-11ed-bfe6-c71abdbb2524",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6yj8IF5QmH_FeP_aTJeOtQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7a232b80-0f7c-11ed-b76f-d70181697135",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "XLE",
+            "INTC",
+            "XLK",
+            "AAPL",
+            "AMZN",
+            "^IXIC",
+            "XLY",
+            "CVX",
+            "PG",
+            "TSLA",
+            "^DJI"
+        ]
+    },
+    "7575fb52-0fb3-39ad-9cb5-f44d982c2996": {
+        "uuid": "7575fb52-0fb3-39ad-9cb5-f44d982c2996",
+        "title": "Amazon, Apple Add $196 Billion in Value on Resilient Results",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/amazon-apple-poised-add-220-113037698.html",
+        "providerPublishTime": 1659125985,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rvcq3j6Jm2lcvYWTrOV1TQ--~B/aD0xMzI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/8qryTRigpitajFfSCURuQg--~B/aD0xMzI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/e1778c3a5abe03616e366499110ec718",
+                    "width": 2000,
+                    "height": 1325,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/uOiC3a.HJVXDKlMn4WqOXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/8qryTRigpitajFfSCURuQg--~B/aD0xMzI1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/e1778c3a5abe03616e366499110ec718",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -223,8 +198,68 @@
         },
         "relatedTickers": [
             "AAPL",
-            "META",
+            "AMZN",
             "MSFT"
+        ]
+    },
+    "b85b98e8-31a5-3089-a612-d81bc3c600ba": {
+        "uuid": "b85b98e8-31a5-3089-a612-d81bc3c600ba",
+        "title": "Stock Market Today: Big Tech Boosts Stocks to Best Month Since 2020",
+        "publisher": "Kiplinger",
+        "link": "https://finance.yahoo.com/news/stock-market-today-big-tech-201726134.html",
+        "providerPublishTime": 1659125846,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/RkcP.r0Uw_tdEbhujivXLg--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zdnMy2jHpUkw2hwUOrHCUw--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger.com/75b06ff64cf364b06088e8eb75d5bf61",
+                    "width": 845,
+                    "height": 475,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/n53zTBfDrVQtsQgCcNHU2g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zdnMy2jHpUkw2hwUOrHCUw--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger.com/75b06ff64cf364b06088e8eb75d5bf61",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AMZN",
+            "AAPL",
+            "^GSPC",
+            "CVX",
+            "^DJI"
+        ]
+    },
+    "f6e29c19-948b-36f8-949f-b8ef7f997a7b": {
+        "uuid": "f6e29c19-948b-36f8-949f-b8ef7f997a7b",
+        "title": "Meta Faces A Long And Winding Road To Get Out Of A Muddy Morass",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/f6e29c19-948b-36f8-949f-b8ef7f997a7b/meta-faces-a-long-and-winding.html",
+        "providerPublishTime": 1659125516,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lIXe6az7OxPQR0GisXz6ew--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cMf06Ca9n7awvMEAsoqs6w--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e5e361f46285b47e529441468ba3d2e0",
+                    "width": 1000,
+                    "height": 562,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NvLDD3vUJMbZzHChw5UmOg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cMf06Ca9n7awvMEAsoqs6w--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e5e361f46285b47e529441468ba3d2e0",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "META",
+            "GOOGL",
+            "AAPL"
         ]
     }
 }

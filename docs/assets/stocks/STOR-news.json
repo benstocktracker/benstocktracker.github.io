@@ -1,4 +1,32 @@
 {
+    "9bb17b5b-a29d-3fa8-9c95-67eeae1b4480": {
+        "uuid": "9bb17b5b-a29d-3fa8-9c95-67eeae1b4480",
+        "title": "These 3 Stocks Are Safe Bets In the Event of a Market Crash",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/9bb17b5b-a29d-3fa8-9c95-67eeae1b4480/these-3-stocks-are-safe-bets.html",
+        "providerPublishTime": 1659086400,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/bNXJTag6f9K3_bhpWwgp3g--~B/aD02OTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/m0Tp7te_rUqf7HxRyC4ERA--~B/aD02OTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/52402c34aa0efa0aee8e71362a237904",
+                    "width": 1400,
+                    "height": 699,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GLVKFm.S1tIFVmVvfe5njA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/m0Tp7te_rUqf7HxRyC4ERA--~B/aD02OTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/52402c34aa0efa0aee8e71362a237904",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STOR",
+            "BK"
+        ]
+    },
     "e58fa432-5718-3f46-a9be-46fa1891fe67": {
         "uuid": "e58fa432-5718-3f46-a9be-46fa1891fe67",
         "title": "Equinix (EQIX) Tops Q2 FFO Estimates",
@@ -158,38 +186,6 @@
         "type": "STORY",
         "relatedTickers": [
             "STOR"
-        ]
-    },
-    "4080b504-d7e7-3b4a-966c-80249a3a838a": {
-        "uuid": "4080b504-d7e7-3b4a-966c-80249a3a838a",
-        "title": "6 Dividend Stocks With Yields Over 5% to Buy in July",
-        "publisher": "InvestorPlace",
-        "link": "https://finance.yahoo.com/news/6-dividend-stocks-yields-over-161752795.html",
-        "providerPublishTime": 1656433072,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UpHYwt40SZHCrtRziksE.w--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/5IO9fWR1Z5pNLUwhqRqxkA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/15cea6795a39712c355bda109391cc36",
-                    "width": 728,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bxuGkZisD8o5kQU6RcG9SQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5IO9fWR1Z5pNLUwhqRqxkA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorplace_417/15cea6795a39712c355bda109391cc36",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "DLX",
-            "030200.KS",
-            "BIG",
-            "HBAN",
-            "STOR",
-            "UHT"
         ]
     }
 }

@@ -1,4 +1,68 @@
 {
+    "78cf966d-e3e0-3ab3-a904-99f4992c2b50": {
+        "uuid": "78cf966d-e3e0-3ab3-a904-99f4992c2b50",
+        "title": "Will Carolina Panthers' Bank of America Stadium in Charlotte keep same name after 2024?",
+        "publisher": "American City Business Journals",
+        "link": "https://finance.yahoo.com/m/78cf966d-e3e0-3ab3-a904-99f4992c2b50/will-carolina-panthers%27-bank.html",
+        "providerPublishTime": 1659115607,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/G8i3Vfkyw8mCKFnggyYB.Q--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mK0D0hBNHOxCFyAHoD.ZYw--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/645e5e36deb2092f4e4477c99c151fb8",
+                    "width": 1440,
+                    "height": 961,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NrBqdhBQ5AabrcvBLttPiw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mK0D0hBNHOxCFyAHoD.ZYw--~B/aD05NjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/645e5e36deb2092f4e4477c99c151fb8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "BAC",
+            "BAC-PQ",
+            "BAC-PS"
+        ]
+    },
+    "62656271-bcc2-38c4-8ccd-659e25517fb2": {
+        "uuid": "62656271-bcc2-38c4-8ccd-659e25517fb2",
+        "title": "80% of Warren Buffett's Portfolio Is Invested in These 7 Stocks",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/62656271-bcc2-38c4-8ccd-659e25517fb2/80%25-of-warren-buffett%27s.html",
+        "providerPublishTime": 1659085560,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/w6sJuk_SunT8xFHfkRI3AA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zGa3bx48lNp.aTgHF2VeUQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b8740ae9e01ca5d3663501bafda567a8",
+                    "width": 1400,
+                    "height": 933,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/1a2cw.dhqiZA9xRidi_7vA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zGa3bx48lNp.aTgHF2VeUQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b8740ae9e01ca5d3663501bafda567a8",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "CVX",
+            "KO",
+            "^GSPC",
+            "AXP",
+            "BAC",
+            "KHC",
+            "OXY",
+            "BRK-B"
+        ]
+    },
     "49d5d6d0-9718-3ba7-af1a-cafb4728ad99": {
         "uuid": "49d5d6d0-9718-3ba7-af1a-cafb4728ad99",
         "title": "Biden Says \u2018No Surprise\u2019 GDP Slowing, Urges Congress to Act on Energy, Taxes",
@@ -23,10 +87,10 @@
             ]
         },
         "relatedTickers": [
+            "GLW",
             "BAC",
             "BAC-PQ",
-            "BAC-PS",
-            "GLW"
+            "BAC-PS"
         ]
     },
     "233b2538-85d8-306f-a7cd-b1f683e8e682": {
@@ -113,25 +177,25 @@
             ]
         },
         "relatedTickers": [
-            "VNET",
-            "MSFT",
-            "TXN",
-            "GOOG",
-            "GOOGL",
-            "UBER",
-            "APPN",
-            "COIN",
-            "BABA",
-            "BABAF",
+            "AAPL",
+            "TWTR",
+            "000660.KS",
             "BAC",
             "BAC-PQ",
             "BAC-PS",
-            "META",
-            "TWTR",
-            "000660.KS",
             "AMZN",
-            "AAPL",
-            "PYPL"
+            "APPN",
+            "UBER",
+            "PYPL",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "TXN",
+            "MSFT",
+            "COIN",
+            "BABA",
+            "BABAF",
+            "VNET"
         ]
     },
     "51c2b412-d6a7-311c-aee4-989888422668": {
@@ -175,69 +239,6 @@
             "AMZN",
             "AXP",
             "BAC"
-        ]
-    },
-    "7182ec81-8393-379e-a578-0bba3fd90fe7": {
-        "uuid": "7182ec81-8393-379e-a578-0bba3fd90fe7",
-        "title": "Oil Rallies as Tight Supplies Counter Expectations of a Slowdown",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/oil-edges-higher-traders-weigh-224050773.html",
-        "providerPublishTime": 1658778507,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Pi3VVRHVHq7pg8ZE9rmOFA--~B/aD0xMzMxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/QsTICMDtMFU1AQNPy2gPIQ--~B/aD0xMzMxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/9ce1cf48aee459211d70e92c23e5b140",
-                    "width": 2000,
-                    "height": 1331,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Dh8xIqvk.Vzdl.WFt3EnGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QsTICMDtMFU1AQNPy2gPIQ--~B/aD0xMzMxO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/9ce1cf48aee459211d70e92c23e5b140",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "CL=F"
-        ]
-    },
-    "7a853d10-691d-30d5-ba9f-db200f189d2c": {
-        "uuid": "7a853d10-691d-30d5-ba9f-db200f189d2c",
-        "title": "Meta\u2019s Earnings Are Wednesday. Wall Street Is Cutting Its Revenue Forecasts.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/7a853d10-691d-30d5-ba9f-db200f189d2c/meta%E2%80%99s-earnings-are.html",
-        "providerPublishTime": 1658766420,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LDPC657.vJXy4OmowCG5eA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4IFxgpkywszviJoa4T2uKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/497c557d6c4e7a60dfbb9eac87f672bd",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/it470.0IRXffZU6.G43rsQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4IFxgpkywszviJoa4T2uKQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/497c557d6c4e7a60dfbb9eac87f672bd",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "BAC",
-            "BAC-PQ",
-            "BAC-PS",
-            "AAPL",
-            "IBM",
-            "SNAP"
         ]
     }
 }

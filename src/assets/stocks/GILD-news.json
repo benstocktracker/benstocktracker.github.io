@@ -1,4 +1,31 @@
 {
+    "d147409e-74d8-3921-a714-21d6952913de": {
+        "uuid": "d147409e-74d8-3921-a714-21d6952913de",
+        "title": "AIDS Memorial Quilt Panels on Display at Gilead",
+        "publisher": "News Direct",
+        "link": "https://finance.yahoo.com/news/aids-memorial-quilt-panels-display-124518158.html",
+        "providerPublishTime": 1659098718,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YNFxnep8eE6NmnwbEYbvyw--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/zAnUdkNWcH3YjtnNx8kTkQ--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/ba2b3483778bb30b2be7c97ceded177e",
+                    "width": 650,
+                    "height": 366,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Uwks1ssQely0.2Q8EjTzFw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zAnUdkNWcH3YjtnNx8kTkQ--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/ba2b3483778bb30b2be7c97ceded177e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GILD"
+        ]
+    },
     "d8a407e5-48a8-35cf-b4a2-daa8193beac6": {
         "uuid": "d8a407e5-48a8-35cf-b4a2-daa8193beac6",
         "title": "3 Healthcare Stocks With 3%+ Dividend Yields",
@@ -189,34 +216,6 @@
         "relatedTickers": [
             "GILD",
             "RARE"
-        ]
-    },
-    "4aca8bc8-4978-3495-b689-1d9cc116976d": {
-        "uuid": "4aca8bc8-4978-3495-b689-1d9cc116976d",
-        "title": "Gilead (GILD) Gets Positive CHMP Opinion for Veklury & Tecartus",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/gilead-gild-gets-positive-chmp-160304436.html",
-        "providerPublishTime": 1658764984,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/rSifIemjGs.ArOt6hbnGLA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RTGo4pt.TK_E0ckeUDNmXA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f5ec5179112ff02b207f8fd4685c071",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IJCPk1k_kHOXYeWqzifXfg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RTGo4pt.TK_E0ckeUDNmXA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f5ec5179112ff02b207f8fd4685c071",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BNTX",
-            "GILD"
         ]
     }
 }

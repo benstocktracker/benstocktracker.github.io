@@ -1,4 +1,89 @@
 {
+    "edccea16-8efb-3fde-9017-3372fb1f7649": {
+        "uuid": "edccea16-8efb-3fde-9017-3372fb1f7649",
+        "title": "JPMorgan\u2019s Gold Chief Not \u2018Mastermind\u2019 That US Claims, Lawyer Says",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/jpmorgan-gold-chief-not-mastermind-193117645.html",
+        "providerPublishTime": 1659130944,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mihbMRp1c7ckOelpLSSPUQ--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/l2UY0JhkSIelzZxxds91KA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/dc033ee28186275cc8bb334e3c8fe57a",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Swrb64VB1oCV85Rpc0IPgw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/l2UY0JhkSIelzZxxds91KA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/dc033ee28186275cc8bb334e3c8fe57a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JPM"
+        ]
+    },
+    "9cf496ab-1768-3d41-b20e-e4146cd8bbf9": {
+        "uuid": "9cf496ab-1768-3d41-b20e-e4146cd8bbf9",
+        "title": "Brazil Unemployment Hits Seven-Year Low in Boost for Bolsonaro",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/brazil-unemployment-hits-seven-low-121342422.html",
+        "providerPublishTime": 1659096822,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/LD19pKOWs7pNnKxdq9nlNw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1P7DlFaGj8Zd7SYeQ87a2w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/f326525363aa040c638d5964fdbbdfae",
+                    "width": 1200,
+                    "height": 675,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ibJOgeBWnqkeD_r4zKlmgA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1P7DlFaGj8Zd7SYeQ87a2w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/f326525363aa040c638d5964fdbbdfae",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JPM"
+        ]
+    },
+    "969188c0-0b5c-3fb9-82a7-9a8c4c390edd": {
+        "uuid": "969188c0-0b5c-3fb9-82a7-9a8c4c390edd",
+        "title": "Euro-Zone Inflation Hits Record, Backing Calls for Larger Hikes",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/euro-zone-inflation-hits-record-090000736.html",
+        "providerPublishTime": 1659085200,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/3mJ34L94mDqPabWOZJYAAg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gByHxa3InfHz.aqh8ibWLg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/b0dbb93c30e09ad20ba27f9636369c6d",
+                    "width": 2000,
+                    "height": 1334,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/DJREma_f1R.IaIwfbmCMPw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gByHxa3InfHz.aqh8ibWLg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/b0dbb93c30e09ad20ba27f9636369c6d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "GS",
+            "JPM",
+            "UNPRF",
+            "EUR=X",
+            "EURUSD=X"
+        ]
+    },
     "fb0e4616-554e-3608-9feb-5d1080b328b9": {
         "uuid": "fb0e4616-554e-3608-9feb-5d1080b328b9",
         "title": "JPMorgan Must Face Former Compliance Employee\u2019s Lawsuit, Judge Rules",
@@ -16,6 +101,33 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/2EXV.7Ym9_boLxSENYaQ0A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/CdeKrqxXoLwLM3GM0vriQw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/4e11519e4977265d7106d54c8f2e19d2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "JPM"
+        ]
+    },
+    "786e40b7-27ec-3aac-940f-7d790220053c": {
+        "uuid": "786e40b7-27ec-3aac-940f-7d790220053c",
+        "title": "JPMorgan\u2019s Gold \u2018Boss\u2019 Led Plot to Spoof Prices, Jury Told",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/jpmorgan-gold-boss-led-plot-212731315.html",
+        "providerPublishTime": 1659043651,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NCpSYe33m2jMsSMvvDQ1_Q--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/aLJxjsK44u7tCjzf7Pbh2A--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/1aa8fc9bf413e3d26d8070eadd97b0bf",
+                    "width": 2000,
+                    "height": 1335,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mHwYvC6rAwOa_5pYF9NfxQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/aLJxjsK44u7tCjzf7Pbh2A--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/1aa8fc9bf413e3d26d8070eadd97b0bf",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -92,132 +204,6 @@
             ]
         },
         "relatedTickers": [
-            "JPM"
-        ]
-    },
-    "da35d9a3-d78d-30e8-9fa7-1f7ce3d659df": {
-        "uuid": "da35d9a3-d78d-30e8-9fa7-1f7ce3d659df",
-        "title": "West Virginia Penalizes Banks Including JPMorgan, Goldman for Coal \u2018Boycotts\u2019",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/da35d9a3-d78d-30e8-9fa7-1f7ce3d659df/west-virginia-penalizes-banks.html",
-        "providerPublishTime": 1659029160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RbIG3K7fzN9Ou3P12TXFaQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yM5jtFMeVkkqOtytZm8bDw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/92bc118f236a2f7c2f401cf963851b69",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5uT0lrpSmw3HJE7KXsfBIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yM5jtFMeVkkqOtytZm8bDw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/92bc118f236a2f7c2f401cf963851b69",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WFC",
-            "WFC-PD",
-            "BLK",
-            "JPM",
-            "GS",
-            "MS",
-            "MS-PO"
-        ]
-    },
-    "ca2d187b-110a-3f6c-a453-6bdbab9b5f37": {
-        "uuid": "ca2d187b-110a-3f6c-a453-6bdbab9b5f37",
-        "title": "ECB\u2019s Visco Says There\u2019s a Risk of a Recession in Europe",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/ecb-visco-says-risk-recession-141124347.html",
-        "providerPublishTime": 1659017484,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kFPDDDQNgjdG7Cu08Spw4w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/4MqiJA5hevWIOWCGrJ0Y6w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/415da975ebf89e086957e00ddde72372",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8IAfcpFlm9EDYkIqQC0_Ig--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/4MqiJA5hevWIOWCGrJ0Y6w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/415da975ebf89e086957e00ddde72372",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "JPM",
-            "GS"
-        ]
-    },
-    "721ae551-a93e-325d-8f3e-d2af5d31a46c": {
-        "uuid": "721ae551-a93e-325d-8f3e-d2af5d31a46c",
-        "title": "15 quality dividend stocks that you can buy on sale right now",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/721ae551-a93e-325d-8f3e-d2af5d31a46c/15-quality-dividend-stocks.html",
-        "providerPublishTime": 1659010440,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/upbR7Bowdd2FPCfDhVsesw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Nn2PC7onn5fGodHkDy4Ibg--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0bcd82593b4d26e8e240c6ef3ecaa460",
-                    "width": 1279,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ldMYtcy01I02QxiLAAir2A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Nn2PC7onn5fGodHkDy4Ibg--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/0bcd82593b4d26e8e240c6ef3ecaa460",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KEY",
-            "KEY-PI",
-            "KEY-PJ",
-            "KEY-PK",
-            "NYCB",
-            "NYCB-PA",
-            "JPM",
-            "CSCO",
-            "INTC"
-        ]
-    },
-    "a26465d8-19fe-3cc1-bcf9-0a9694d7abb7": {
-        "uuid": "a26465d8-19fe-3cc1-bcf9-0a9694d7abb7",
-        "title": "Citizens business conditions index dips in Q2, but still shows signs of growth",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/a26465d8-19fe-3cc1-bcf9-0a9694d7abb7/citizens-business-conditions.html",
-        "providerPublishTime": 1659001782,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7Uexy8v8XMHtQHgfbZJsqQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IkxjKWzpVXbxZYop1IoJKg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/8f82eefffd5b1d48d2d191dba61ea7a2",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/I8.rxH5Rp4TYvbMc3oo9NQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/IkxjKWzpVXbxZYop1IoJKg--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/8f82eefffd5b1d48d2d191dba61ea7a2",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CFG",
-            "CFG-PD",
-            "CFG-PE",
             "JPM"
         ]
     }

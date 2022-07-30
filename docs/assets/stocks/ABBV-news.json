@@ -1,21 +1,48 @@
 {
-    "058118a4-4643-357c-867c-b570d976f9ce": {
-        "uuid": "058118a4-4643-357c-867c-b570d976f9ce",
-        "title": "Dow Jones Futures Rise: Market Rally Extends Momentum As Apple Pops, Amazon Soars On Earnings",
+    "c40f10fc-1b70-3a5b-b9b3-13ba3e3729dd": {
+        "uuid": "c40f10fc-1b70-3a5b-b9b3-13ba3e3729dd",
+        "title": "Why AbbVie Stock Is Tanking Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/c40f10fc-1b70-3a5b-b9b3-13ba3e3729dd/why-abbvie-stock-is-tanking.html",
+        "providerPublishTime": 1659133309,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/EFnr.QASkn2X6vQqKlkMqA--~B/aD03OTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jq6IZ2.1U9HZX7QALc3kdw--~B/aD03OTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e025a9879f30c9f0c7e8490f03f3e590",
+                    "width": 1400,
+                    "height": 799,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/2tFyEQmZlnICVfr0gINFlg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jq6IZ2.1U9HZX7QALc3kdw--~B/aD03OTk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e025a9879f30c9f0c7e8490f03f3e590",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "650c3b50-2a4d-3c53-be67-d68be36f7e57": {
+        "uuid": "650c3b50-2a4d-3c53-be67-d68be36f7e57",
+        "title": "AbbVie Leans On Immunology Drugs To Offset Aesthetic Downturn Amid Covid",
         "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/058118a4-4643-357c-867c-b570d976f9ce/dow-jones-futures-rise%3A.html",
-        "providerPublishTime": 1659048292,
+        "link": "https://finance.yahoo.com/m/650c3b50-2a4d-3c53-be67-d68be36f7e57/abbvie-leans-on-immunology.html",
+        "providerPublishTime": 1659125870,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2rAQAJFMaGWfAXx80V.P1g--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JzA6CUvH71rXxzJyTGYlPw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/423dd089c9059549af60c62a443c9288",
-                    "width": 1065,
-                    "height": 600,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/i8Ni60OeHRPzYFTbhP9RJQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LTF.xJF0OmV3su16Asmxyw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5f28833afc0a5869fde03794f79126d3",
+                    "width": 1000,
+                    "height": 563,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SjgL54b9NarDghH_pAp6zQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JzA6CUvH71rXxzJyTGYlPw--~B/aD02MDA7dz0xMDY1O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/423dd089c9059549af60c62a443c9288",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CaEpr.aatlX_L9.McM5tfQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/LTF.xJF0OmV3su16Asmxyw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/5f28833afc0a5869fde03794f79126d3",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,35 +50,26 @@
             ]
         },
         "relatedTickers": [
-            "^DJI",
-            "COMP",
-            "^GSPC",
-            "AAPL",
-            "INTC",
-            "AMZN",
-            "^RUT",
-            "FSLR",
-            "XOM",
             "ABBV"
         ]
     },
-    "c91b9937-b4d4-31a2-b8b5-6c408522c083": {
-        "uuid": "c91b9937-b4d4-31a2-b8b5-6c408522c083",
-        "title": "5 NYSE Stocks To Watch And Buy: Here Are Fundamental And Technical Reasons Why",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/c91b9937-b4d4-31a2-b8b5-6c408522c083/5-nyse-stocks-to-watch-and.html",
-        "providerPublishTime": 1659030507,
-        "type": "STORY",
+    "5d97184f-c91a-36e0-a9fc-32620f647dcd": {
+        "uuid": "5d97184f-c91a-36e0-a9fc-32620f647dcd",
+        "title": "Uber introduces changes to ride-share features, VF Corporation reports earnings miss",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/uber-introduces-changes-ride-share-200129531.html",
+        "providerPublishTime": 1659124889,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NxvQTXhPSK_hcJwNv.92mw--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WvNNHym7w4OyVWRMn_b_0A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8",
-                    "width": 1012,
-                    "height": 572,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v0ccp0vDD71C1nwJEHtiwg--~B/aD0xMzE0O3c9MjMzOTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2fd76c60-0f79-11ed-bf3e-2c417d44f38f",
+                    "width": 2339,
+                    "height": 1314,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/P5lkV7MPOsQPkyiEwAjxHQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WvNNHym7w4OyVWRMn_b_0A--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/TPJpRnapTQD_m6_dHxpFKA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2fd76c60-0f79-11ed-bf3e-2c417d44f38f",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -59,145 +77,17 @@
             ]
         },
         "relatedTickers": [
-            "^NYA",
             "ABBV",
-            "BMY",
-            "COMP"
+            "VFC",
+            "UBER"
         ]
     },
-    "29a6c694-e21e-3ded-ae0d-0382b883fbaa": {
-        "uuid": "29a6c694-e21e-3ded-ae0d-0382b883fbaa",
-        "title": "10 High-Yield But Safe Dividend Stocks to Buy Now",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-high-yield-safe-dividend-133752121.html",
-        "providerPublishTime": 1659015472,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/sOeLjPZ1NM1RLyGFq91iRQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/A68hnxIXgC.ZxxAGAiq41w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c1c2933a5655260bed1ddbb26d54adda",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NzRKHrFi2v2S5E7G.fNVtw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/A68hnxIXgC.ZxxAGAiq41w--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c1c2933a5655260bed1ddbb26d54adda",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PXD",
-            "BGS",
-            "BGFV",
-            "MO",
-            "VNORP",
-            "ABBV",
-            "XOM"
-        ]
-    },
-    "17bf4866-d78d-33b1-a9e0-45e94a53c507": {
-        "uuid": "17bf4866-d78d-33b1-a9e0-45e94a53c507",
-        "title": "Pfizer (PFE) Q2 Earnings and Revenues Surpass Estimates",
+    "83b23520-383e-3be2-81a1-a825c7798dec": {
+        "uuid": "83b23520-383e-3be2-81a1-a825c7798dec",
+        "title": "AbbVie's (ABBV) Q2 Earnings Beat Estimates, Revenues Lag",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/pfizer-pfe-q2-earnings-revenues-120512989.html",
-        "providerPublishTime": 1659009912,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aZJISTBDbLQprkAivv8_Zw--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
-                    "width": 900,
-                    "height": 876,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gzj3SiD9eD0uG5FsmaII7Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PFE",
-            "ABBV"
-        ]
-    },
-    "c19e21ee-c6d9-344c-877e-7ab823f7b589": {
-        "uuid": "c19e21ee-c6d9-344c-877e-7ab823f7b589",
-        "title": "Allergan To End Around 3,000 Opioid Lawsuits With Over $2B In Settlement: Report",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/allergan-end-around-3-000-114218563.html",
-        "providerPublishTime": 1659008538,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/KKs9Itg0AFhH4eThIruaCQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/mH9Krq1c6HkxGuuYBkrZDA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a31b1398d8d87f60c36c3e67251e9b5b",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7s4qCulQQBqyAP3P9kAMsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/mH9Krq1c6HkxGuuYBkrZDA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a31b1398d8d87f60c36c3e67251e9b5b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TEVA",
-            "ABBV"
-        ]
-    },
-    "14d3e73a-8ea4-3498-8b11-2464f0bc75ba": {
-        "uuid": "14d3e73a-8ea4-3498-8b11-2464f0bc75ba",
-        "title": "AbbVie's Allergan reaches $2 billion opioid lawsuit settlement - Bloomberg News",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/abbvies-allergan-reaches-2-billion-221725032.html",
-        "providerPublishTime": 1658960245,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IDOBda4DOs7frCs95TTdwg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/gT8TLWjSmeoMch8cJMkXEQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/38582400fd10ac90f678d145a6df437d",
-                    "width": 800,
-                    "height": 533,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WZVDegKOcY3qVzG1XCybQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gT8TLWjSmeoMch8cJMkXEQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/38582400fd10ac90f678d145a6df437d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "ebf43394-8ac0-3cd6-8b32-0b59e18fb172": {
-        "uuid": "ebf43394-8ac0-3cd6-8b32-0b59e18fb172",
-        "title": "AbbVie's Allergan reaches $2 bln opioid lawsuit settlement - Bloomberg News",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/abbvies-allergan-reaches-2-bln-221529861.html",
-        "providerPublishTime": 1658960129,
-        "type": "STORY",
-        "relatedTickers": [
-            "ABBV"
-        ]
-    },
-    "40622a61-0df9-3337-a939-fdd02844beef": {
-        "uuid": "40622a61-0df9-3337-a939-fdd02844beef",
-        "title": "AbbVie Q2 Preview: Can Shares Retain Their Strength?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/abbvie-q2-preview-shares-retain-210909633.html",
-        "providerPublishTime": 1658956149,
+        "link": "https://finance.yahoo.com/news/abbvies-abbv-q2-earnings-beat-194007087.html",
+        "providerPublishTime": 1659123607,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -216,7 +106,120 @@
             ]
         },
         "relatedTickers": [
+            "ABBV",
+            "JNJ"
+        ]
+    },
+    "a8e79348-9f45-3368-ac4d-f4e5be36da80": {
+        "uuid": "a8e79348-9f45-3368-ac4d-f4e5be36da80",
+        "title": "AbbVie (ABBV) Q2 Earnings Beat Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/abbvie-abbv-q2-earnings-beat-130501942.html",
+        "providerPublishTime": 1659099901,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mZXMp07WOOiebWcVY1HEqQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                    "width": 900,
+                    "height": 636,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/v8ztWJ5rx7tiE3Uu7OAW_w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/M2z0wFqvnPw7eaLU0tPuyQ--~B/aD02MzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "LLY"
+        ]
+    },
+    "988db6ec-3504-3501-a2dc-73cc40463b6c": {
+        "uuid": "988db6ec-3504-3501-a2dc-73cc40463b6c",
+        "title": "AbbVie Stock Slips After Earnings, Charge for Potential Opioid Deal",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/988db6ec-3504-3501-a2dc-73cc40463b6c/abbvie-stock-slips-after.html",
+        "providerPublishTime": 1659099300,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BbCG4aIF.PIAoncfo9qOFw--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.7LjmH2LViAq85t5InLGVA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dc123356034c1c215a4c693bdd67757d",
+                    "width": 1279,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y85H4AW1NX36920HkFFFEQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/.7LjmH2LViAq85t5InLGVA--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/dc123356034c1c215a4c693bdd67757d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TEVA",
+            "TEVJF",
             "ABBV"
+        ]
+    },
+    "76150221-b22a-34aa-9319-ad090baf3f12": {
+        "uuid": "76150221-b22a-34aa-9319-ad090baf3f12",
+        "title": "AbbVie's Q2 Sales Marginally Shy Of Wall Street Estimates, Confirms Annual Profit Outlook",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/abbvies-q2-sales-marginally-shy-123543832.html",
+        "providerPublishTime": 1659098143,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/kGXazQYFXg29wN8dtpreiQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/AHeiacH.ryavdx7yTKxh1A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/507dee30979079ef4c1f46e33b301759",
+                    "width": 600,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/VvQxmOGZJkTKF88RNYgNIw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/AHeiacH.ryavdx7yTKxh1A--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/507dee30979079ef4c1f46e33b301759",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV"
+        ]
+    },
+    "06e7c404-5844-31c3-b2b2-5c9978cc25d2": {
+        "uuid": "06e7c404-5844-31c3-b2b2-5c9978cc25d2",
+        "title": "AbbVie reports an increase in second-quarter revenue, led by sales of Humira",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/06e7c404-5844-31c3-b2b2-5c9978cc25d2/abbvie-reports-an-increase-in.html",
+        "providerPublishTime": 1659097067,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0xJmWLb8ZDw3vmCOCZi_VA--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 1200,
+                    "height": 630,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mMzbd204HqZneSMjGpoHGw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/S8SCotpO9m2XQyQUIGU5dw--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/96d076434b2a015a3010bd2787b8c856",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "ABBV",
+            "^GSPC"
         ]
     }
 }

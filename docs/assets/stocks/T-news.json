@@ -1,4 +1,34 @@
 {
+    "49277f56-18d3-3f82-bd21-551a2a9cdde7": {
+        "uuid": "49277f56-18d3-3f82-bd21-551a2a9cdde7",
+        "title": "Tutor Perini Announces Conference Call to Discuss Second Quarter 2022 Results",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/tutor-perini-announces-conference-call-100000697.html",
+        "providerPublishTime": 1659088800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/4K6JblbTwzHYIfa_UxKo2g--~B/aD05MDt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/t.H225szzQiP5HvUbGgoFw--~B/aD05MDt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/b1c62844ce8944f02dbc22cf81936dc3",
+                    "width": 480,
+                    "height": 90,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Y9.HreOBkFzdc44YuNEErw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/t.H225szzQiP5HvUbGgoFw--~B/aD05MDt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/b1c62844ce8944f02dbc22cf81936dc3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "T",
+            "T-PA",
+            "T-PC",
+            "TPC"
+        ]
+    },
     "cdcb6088-bfc1-378b-ac17-b18c9ae4f980": {
         "uuid": "cdcb6088-bfc1-378b-ac17-b18c9ae4f980",
         "title": "Comcast failed to add broadband subscribers in Q2, stock plunges",
@@ -186,38 +216,6 @@
         "relatedTickers": [
             "TV",
             "T-PC"
-        ]
-    },
-    "b23681cd-79db-35a8-9fd9-665bc7525f55": {
-        "uuid": "b23681cd-79db-35a8-9fd9-665bc7525f55",
-        "title": "T-Mobile Bucks the Trend With a Beat-and-Raise Quarter",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/b23681cd-79db-35a8-9fd9-665bc7525f55/t-mobile-bucks-the-trend-with.html",
-        "providerPublishTime": 1658927880,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/POdKN82BBeJEHr0maMiTnA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PPTGwzLI53vd0sl9rO3DaQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d15bbca081915806f8669922ffe0b0d7",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/VXtCqQhd5R65DybjTKecmQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/PPTGwzLI53vd0sl9rO3DaQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d15bbca081915806f8669922ffe0b0d7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "T",
-            "T-PA",
-            "T-PC",
-            "TMUS",
-            "VZ"
         ]
     }
 }

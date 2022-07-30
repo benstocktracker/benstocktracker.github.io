@@ -1,4 +1,33 @@
 {
+    "d21dc863-a746-3c63-9057-43f06e157011": {
+        "uuid": "d21dc863-a746-3c63-9057-43f06e157011",
+        "title": "Chevron (CVX) Posts Easy Q2 Earnings Beat on Strong Prices",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/chevron-cvx-posts-easy-q2-141002140.html",
+        "providerPublishTime": 1659103802,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/WhBapd0qIgmYB_BesSV.sg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/dYJ4yPQBYbrmlyr_FKyZkw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/96e740e91ef36edc1c7b493dc8e51ea2",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/O9zyThnoC.sJgnNGslpx7w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dYJ4yPQBYbrmlyr_FKyZkw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/96e740e91ef36edc1c7b493dc8e51ea2",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "CVX",
+            "HAL",
+            "KMI"
+        ]
+    },
     "7e8529ab-a14d-300d-97cd-c730258e7d84": {
         "uuid": "7e8529ab-a14d-300d-97cd-c730258e7d84",
         "title": "Valero (VLO) Q2 Earnings Beat on Higher Throughput Volumes",
@@ -170,33 +199,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/vuz7I4rBzOo9MbLG8pEMLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Y8UhOT_dbhX18UQU1dJ8kA--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a369c58332e02384b731b98e1f4f054a",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "KMI"
-        ]
-    },
-    "a09474f8-c214-35a0-b23a-5148221d47bc": {
-        "uuid": "a09474f8-c214-35a0-b23a-5148221d47bc",
-        "title": "My Top High-Yield Dividend Stock for the Second Half of 2022 (and It's Not Even Close)",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/a09474f8-c214-35a0-b23a-5148221d47bc/my-top-high-yield-dividend.html",
-        "providerPublishTime": 1658660100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/T89GKr_TJpAQTMMZtcfYTQ--~B/aD05MjQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1UP.Go9ImXMtTG75y4TUgg--~B/aD05MjQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d0e491ee6ee57ff96ae8f8dd1cbb6e1b",
-                    "width": 1400,
-                    "height": 924,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4rKfIKCK8AbbcsV62P00_Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/1UP.Go9ImXMtTG75y4TUgg--~B/aD05MjQ7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d0e491ee6ee57ff96ae8f8dd1cbb6e1b",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

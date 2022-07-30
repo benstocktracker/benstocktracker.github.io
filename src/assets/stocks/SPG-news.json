@@ -1,4 +1,31 @@
 {
+    "4f1cce82-9e95-3995-bdb3-33d42f1526f6": {
+        "uuid": "4f1cce82-9e95-3995-bdb3-33d42f1526f6",
+        "title": "What's in Store for Simon Property (SPG) in Q2 Earnings?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/whats-store-simon-property-spg-123812783.html",
+        "providerPublishTime": 1659098292,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/GOzAlzdSkYwHEhgMHo1XeA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/GbIsRcalmbowngcXKdiUzA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3538e610ebd6e650127ce4a85388e921",
+                    "width": 635,
+                    "height": 400,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/r9INtuVvZsIQN8FCuMPeVg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GbIsRcalmbowngcXKdiUzA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3538e610ebd6e650127ce4a85388e921",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SPG"
+        ]
+    },
     "e192f4c5-a3cd-3e3e-8333-01e0fcfdaca5": {
         "uuid": "e192f4c5-a3cd-3e3e-8333-01e0fcfdaca5",
         "title": "Simon Property (SPG) Dips More Than Broader Markets: What You Should Know",
@@ -201,35 +228,6 @@
             "WMB",
             "CVX",
             "SPG"
-        ]
-    },
-    "09cbf180-4fa8-31bb-8009-b371a4716049": {
-        "uuid": "09cbf180-4fa8-31bb-8009-b371a4716049",
-        "title": "Edina consultant calls 32-story Life Time tower at Southdale 'elite enclave'",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/09cbf180-4fa8-31bb-8009-b371a4716049/edina-consultant-calls.html",
-        "providerPublishTime": 1657729674,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wWCOzLgdkoQ4R9FgxQN04A--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/srvDGQFHgfs0vgQTCVKu6w--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/da3f00ab44c77ab2394f7e42656db539",
-                    "width": 1287,
-                    "height": 858,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ybrEko6g0c06RlwDf7OExg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/srvDGQFHgfs0vgQTCVKu6w--~B/aD04NTg7dz0xMjg3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/da3f00ab44c77ab2394f7e42656db539",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SPG",
-            "SPG-PJ",
-            "LTH"
         ]
     }
 }

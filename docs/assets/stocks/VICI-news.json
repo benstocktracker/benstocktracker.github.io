@@ -1,4 +1,31 @@
 {
+    "e40dda76-55af-33cf-84c5-aa21cc564771": {
+        "uuid": "e40dda76-55af-33cf-84c5-aa21cc564771",
+        "title": "VICI Properties Inc. (VICI) Q2 2022 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/e40dda76-55af-33cf-84c5-aa21cc564771/vici-properties-inc.-%28vici%29.html",
+        "providerPublishTime": 1659052845,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Guloje_tSlBr6BlSMskTnw--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 1400,
+                    "height": 1494,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ZASl8wzyvZeplvnkafRNCA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/zmj.74VZmDKFyMQXCAbujg--~B/aD0xNDk0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "VICI"
+        ]
+    },
     "4c9ceef8-7ef9-392f-9842-9a65450ac2cf": {
         "uuid": "4c9ceef8-7ef9-392f-9842-9a65450ac2cf",
         "title": "VICI Properties Inc. (VICI) Meets Q2 FFO Estimates",
@@ -147,17 +174,6 @@
         "relatedTickers": [
             "VICI",
             "MPW"
-        ]
-    },
-    "f805aae0-2a04-3429-a6f9-ae929e026c87": {
-        "uuid": "f805aae0-2a04-3429-a6f9-ae929e026c87",
-        "title": "VICI Properties Focus of Corporate Governance Case Study",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/vici-properties-focus-corporate-governance-201500483.html",
-        "providerPublishTime": 1657138500,
-        "type": "STORY",
-        "relatedTickers": [
-            "VICI"
         ]
     }
 }

@@ -1,10 +1,10 @@
 {
     "d338f12e-aa75-34cd-80f7-203ecbd9671a": {
         "uuid": "d338f12e-aa75-34cd-80f7-203ecbd9671a",
-        "title": "Intel Posts 22% Quarterly Sales Decline, Slashes Forecast",
+        "title": "Intel CEO Says Third Quarter Is \u2018Bottom\u2019 After Dour Forecast",
         "publisher": "Bloomberg",
         "link": "https://finance.yahoo.com/news/intel-posts-sizable-miss-quarterly-201335128.html",
-        "providerPublishTime": 1659044595,
+        "providerPublishTime": 1659103869,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
@@ -23,10 +23,128 @@
             ]
         },
         "relatedTickers": [
-            "AMD",
-            "IT",
-            "QCOM",
+            "TSM",
             "INTC",
+            "AMD"
+        ]
+    },
+    "4215ef90-6adf-3ef3-939e-afe9da3023bc": {
+        "uuid": "4215ef90-6adf-3ef3-939e-afe9da3023bc",
+        "title": "These 10 Semiconductor Stocks Are Popular On Reddit",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/10-semiconductor-stocks-popular-reddit-131225665.html",
+        "providerPublishTime": 1659100345,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/dwKZVsEmlpYKfWQh50Q38w--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Wr.fUjPEM3KxWqtO8x0bVg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c8dd0571a0bb630d511a1458c464a139",
+                    "width": 750,
+                    "height": 500,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/NDzTf6BkeYd7se1Vc4BeKQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Wr.fUjPEM3KxWqtO8x0bVg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c8dd0571a0bb630d511a1458c464a139",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TXN",
+            "LRCX",
+            "ASML",
+            "SOXX",
+            "AMD",
+            "KLAC",
+            "NVDA",
+            "TSM"
+        ]
+    },
+    "c5ee37fa-ad32-365a-9003-33c3787b9ce9": {
+        "uuid": "c5ee37fa-ad32-365a-9003-33c3787b9ce9",
+        "title": "Taiwan says 'key position' in semiconductors won't be shaken as US passes chip act",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/taiwan-says-key-position-semiconductors-112223215.html",
+        "providerPublishTime": 1659093743,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSM"
+        ]
+    },
+    "9474157c-41aa-34d6-b585-f7d08b5b7a68": {
+        "uuid": "9474157c-41aa-34d6-b585-f7d08b5b7a68",
+        "title": "China Probes Government, Bosses as Chip Race With US Heats Up",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/china-probes-government-bosses-chip-103321782.html",
+        "providerPublishTime": 1659090801,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/peemU3YZ3iunZNJiWLwq.A--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/spUiGDdad_2.lgngWIYy8w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f8139b098e2cf53eae9b9e66e84f1780",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/lFYWv_PMhDk9lThEpAK.HQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/spUiGDdad_2.lgngWIYy8w--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/f8139b098e2cf53eae9b9e66e84f1780",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RIO",
+            "RTNTF",
+            "RTPPF",
+            "AA",
+            "XIACF",
+            "XIACY",
+            "SSNLF",
+            "0981.HK",
+            "TSM"
+        ]
+    },
+    "c9c2c5e8-41b8-31c5-b9c9-6cd18a29bc3d": {
+        "uuid": "c9c2c5e8-41b8-31c5-b9c9-6cd18a29bc3d",
+        "title": "As chip-making business returns to US, Washington - and Arizona - dangle subsidies in race against China",
+        "publisher": "South China Morning Post",
+        "link": "https://finance.yahoo.com/news/chip-making-business-returns-us-093000929.html",
+        "providerPublishTime": 1659087000,
+        "type": "STORY",
+        "relatedTickers": [
+            "TSM",
+            "INTC",
+            "0981.HK"
+        ]
+    },
+    "07d4aa62-7d58-3b61-acf6-f94466eac1f0": {
+        "uuid": "07d4aa62-7d58-3b61-acf6-f94466eac1f0",
+        "title": "Taiwan Semi\u2019s Spending Spree Will Pay Off Big in the Long Term",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/07d4aa62-7d58-3b61-acf6-f94466eac1f0/taiwan-semi%E2%80%99s-spending-spree.html",
+        "providerPublishTime": 1659079800,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/REAqQUjxs4ojQE0H5cYqhg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ol7SBxjQ1H6b_3s.EhgqFA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bd93aff8c959c59b795bbd9395ce3292",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kl.yegf2ER7voAQMfItu6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ol7SBxjQ1H6b_3s.EhgqFA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/bd93aff8c959c59b795bbd9395ce3292",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
             "TSM"
         ]
     },
@@ -88,157 +206,6 @@
         "relatedTickers": [
             "ALGM",
             "TSM"
-        ]
-    },
-    "915b7732-1047-3304-948d-edf8fb513695": {
-        "uuid": "915b7732-1047-3304-948d-edf8fb513695",
-        "title": "Smartphones \u2018still a very strong story for us\u2019: Qualcomm CFO",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/smartphones-still-very-strong-story-143844174.html",
-        "providerPublishTime": 1659019124,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/.DY.R5SCeE2j.feNuSMAfg--~B/aD0yODQ7dz01MDU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bc64bf90-0e82-11ed-bfef-95e1b0e74024",
-                    "width": 505,
-                    "height": 284,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/46r.SmokoraYT.IbDTduFg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bc64bf90-0e82-11ed-bfef-95e1b0e74024",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TXN",
-            "QCOM",
-            "NVDA",
-            "TSM",
-            "INTC"
-        ]
-    },
-    "7b692f1f-9e26-34a7-888c-17285bba3966": {
-        "uuid": "7b692f1f-9e26-34a7-888c-17285bba3966",
-        "title": "Rival Chip Makers Brag About Having the Tiniest Products, but Who Can Tell?",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/7b692f1f-9e26-34a7-888c-17285bba3966/rival-chip-makers-brag-about.html",
-        "providerPublishTime": 1659017100,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pR6V6iXxcXP.zDVbkxxTmA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oicZcYs9cy_thdIPSgFmUQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c189ca0401810e39e13898e471f471df",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PQ4ncap.y4C67MMj_YirPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/oicZcYs9cy_thdIPSgFmUQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c189ca0401810e39e13898e471f471df",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "SSNLF",
-            "INTC"
-        ]
-    },
-    "56272461-b1a9-3fd1-b033-dbea2faa3ed0": {
-        "uuid": "56272461-b1a9-3fd1-b033-dbea2faa3ed0",
-        "title": "Intel, TSMC, Other Chipmakers Get Big Shot In Arm As US Approves Highly Anticipated $280B CHIPS Act",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/intel-tsmc-other-chipmakers-big-110256010.html",
-        "providerPublishTime": 1659006176,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4Y8oPVHxbNSnhlipkeo6PA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/Wan1OXm7V62wbssBS8a6ew--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/b4d2c13998920518ff4dd4f8ff293fb7",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/8S9Mst8_oG85TMWImuhm3Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Wan1OXm7V62wbssBS8a6ew--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/b4d2c13998920518ff4dd4f8ff293fb7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "INTC",
-            "TSM"
-        ]
-    },
-    "b793e2a9-e50e-3c95-aedc-3a4fa201a347": {
-        "uuid": "b793e2a9-e50e-3c95-aedc-3a4fa201a347",
-        "title": "Zacks Investment Ideas feature highlights: Quanex, Taiwan Semiconductor, Kronos, Apple, Nvidia and Advanced Micro Devices",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-094509420.html",
-        "providerPublishTime": 1659001509,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/SASR.1e8UyfKOAS77r2zzg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TuiWJqHciXHZR_bGyeNHIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/81363f0fa347434ddebadf36a3b1e792",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/euU_7os7PPpZTCj3kvuBvg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TuiWJqHciXHZR_bGyeNHIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/81363f0fa347434ddebadf36a3b1e792",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NX",
-            "KRO",
-            "^GSPC",
-            "TSM",
-            "AMD",
-            "AAPL"
-        ]
-    },
-    "19cf87ec-748d-396f-88fa-c78520e4bb99": {
-        "uuid": "19cf87ec-748d-396f-88fa-c78520e4bb99",
-        "title": "Senate votes to advance the CHIPS Act",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/senate-votes-advance-chips-act-200543673.html",
-        "providerPublishTime": 1658952343,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/LQxwbrh.x_ieaT6Dr1WckQ--~B/aD0xNTE4O3c9MjcwNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7d639c80-0de7-11ed-88df-640043e80476",
-                    "width": 2704,
-                    "height": 1518,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/f_blwp6yCkAbqxX9www1Yw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7d639c80-0de7-11ed-88df-640043e80476",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSM",
-            "INTC",
-            "AMD",
-            "QCOM",
-            "NVDA"
         ]
     }
 }

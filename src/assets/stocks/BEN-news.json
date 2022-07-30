@@ -1,4 +1,32 @@
 {
+    "f4b8ed27-f251-30b2-8e2d-6bda944187d7": {
+        "uuid": "f4b8ed27-f251-30b2-8e2d-6bda944187d7",
+        "title": "2 Asset Management Stocks That Are Passive Income All-Stars",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/f4b8ed27-f251-30b2-8e2d-6bda944187d7/2-asset-management-stocks.html",
+        "providerPublishTime": 1659090000,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gXPN_oyoe2CyaMaUmtXA7g--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/W.YRpvLtGiQO9SzIMdgDpQ--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/01914a5e5ada8654093536b621f98150",
+                    "width": 1400,
+                    "height": 906,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6915BGYtbBd_Fx8b2zEWBw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/W.YRpvLtGiQO9SzIMdgDpQ--~B/aD05MDY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/01914a5e5ada8654093536b621f98150",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "TROW",
+            "BEN"
+        ]
+    },
     "ca1b877a-3a8b-3b6b-8caf-964b0cba1e3b": {
         "uuid": "ca1b877a-3a8b-3b6b-8caf-964b0cba1e3b",
         "title": "Why\u00a0Franklin Resources Stock Jumped More Than 4% Today",
@@ -86,33 +114,6 @@
                 },
                 {
                     "url": "https://s.yimg.com/uu/api/res/1.2/5CtfePZlh6QsIdcRDqOHvQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/NytQ59EoEPyaPZIq5blNOA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f4da27ef25968ca5e093b20f43a1bb87",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "BEN"
-        ]
-    },
-    "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7": {
-        "uuid": "2a7bc0c3-c240-3faa-a6b3-933aeaee75c7",
-        "title": "Franklin Templeton's Employees Engage in Global Events to Give Back to the Community",
-        "publisher": "News Direct",
-        "link": "https://finance.yahoo.com/news/franklin-templetons-employees-engage-global-130019288.html",
-        "providerPublishTime": 1658926819,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/o.ozl87r8mmv2h754vK6Fw--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
-                    "width": 650,
-                    "height": 488,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3P06.lCV4GjOT1QOfm2lsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/frVFFowB9_B4DHTxyfXPVg--~B/aD00ODg7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/86dbd0b999609bce2c111e085d9dbf7d",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"

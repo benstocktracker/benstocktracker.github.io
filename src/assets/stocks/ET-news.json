@@ -87,6 +87,20 @@
             "ET-PE"
         ]
     },
+    "b2dc9536-30e4-3d52-9ac5-35b6ca1eadfa": {
+        "uuid": "b2dc9536-30e4-3d52-9ac5-35b6ca1eadfa",
+        "title": "7 Preferred Stocks Trading a Discount Right Now",
+        "publisher": "InvestorPlace",
+        "link": "https://finance.yahoo.com/news/7-preferred-stocks-trading-discount-145542469.html",
+        "providerPublishTime": 1658847342,
+        "type": "STORY",
+        "relatedTickers": [
+            "BIP",
+            "PSA-PM",
+            "ET-PD",
+            "ALL-PG"
+        ]
+    },
     "14661c8f-8b3b-3561-9bb7-9a30d1d2b7c9": {
         "uuid": "14661c8f-8b3b-3561-9bb7-9a30d1d2b7c9",
         "title": "Is Most-Watched Stock Energy Transfer LP (ET) Worth Betting on Now?",
@@ -203,36 +217,6 @@
             "ET-PD",
             "ET-PE",
             "GOSS"
-        ]
-    },
-    "5ea88957-6bef-3606-be1c-a6df14a327a6": {
-        "uuid": "5ea88957-6bef-3606-be1c-a6df14a327a6",
-        "title": "Energy Transfer LP Announces Cash Distributions on Series C, D and E Preferred Units",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/energy-transfer-lp-announces-cash-201500878.html",
-        "providerPublishTime": 1658434500,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Lgzuk_mnKF_6M1DPvvAA6A--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/QGyN1C1KNB.CmQGtW_.nsw--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/45e816feeef3fbbc5c22afd7fabca55c",
-                    "width": 480,
-                    "height": 140,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/5REmTZQc0I9LCcZpCwk2aw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QGyN1C1KNB.CmQGtW_.nsw--~B/aD0xNDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/45e816feeef3fbbc5c22afd7fabca55c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ET",
-            "ET-PC",
-            "ET-PD",
-            "ET-PE"
         ]
     }
 }

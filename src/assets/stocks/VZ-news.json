@@ -1,4 +1,44 @@
 {
+    "dd7b7263-cdc0-3162-aa56-98d9eb4a415d": {
+        "uuid": "dd7b7263-cdc0-3162-aa56-98d9eb4a415d",
+        "title": "Weekly Roundup",
+        "publisher": "TheStreet.com",
+        "link": "https://finance.yahoo.com/m/dd7b7263-cdc0-3162-aa56-98d9eb4a415d/weekly-roundup.html",
+        "providerPublishTime": 1659135060,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/mnA3rXdnetVVaxnbEVNbyg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c3ossIGFVJqhyffIK57JDQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/19ec2467e2d531fc848f1d4406af1c6d",
+                    "width": 1200,
+                    "height": 800,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/UL5hLTJtpHtE5XZmRD8OGQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/c3ossIGFVJqhyffIK57JDQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/19ec2467e2d531fc848f1d4406af1c6d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "AAPL",
+            "GOOGL",
+            "MSFT",
+            "INTC",
+            "SPGI",
+            "VZ",
+            "AMZN",
+            "CMG",
+            "NUE",
+            "URI",
+            "F",
+            "NVDA",
+            "AMN",
+            "CHPT"
+        ]
+    },
     "d7efe282-2a92-3181-b04e-2d5efac1d41d": {
         "uuid": "d7efe282-2a92-3181-b04e-2d5efac1d41d",
         "title": "Verizon Foundation Donates $10,000 to Support Relief Efforts in St. Louis Following Historic Flash Flooding",
@@ -179,33 +219,6 @@
         "publisher": "GlobeNewswire",
         "link": "https://finance.yahoo.com/news/richmond-gets-home-business-internet-144600017.html",
         "providerPublishTime": 1658933160,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/cL9F1DF1f5_wvigVmugiyw--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 1300,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIKgBLFzlY9rLoQ2_oFjPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/5GDZpjrPFG9J_DxYWODZtg--~B/aD00MDA7dz0xMzAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6585e8639ae5d58a0e4f0efd1b62030e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "VZ"
-        ]
-    },
-    "d8ec8d02-124d-3ec1-89af-eed6664739a4": {
-        "uuid": "d8ec8d02-124d-3ec1-89af-eed6664739a4",
-        "title": "Scranton and Harrisburg get new home and business Internet options from Verizon",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/scranton-harrisburg-home-business-internet-144300011.html",
-        "providerPublishTime": 1658932980,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [

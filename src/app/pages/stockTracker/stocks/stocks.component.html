@@ -83,8 +83,10 @@
               {{ stock.profitPercent.toFixed(2) }}%
             </div>
           </div>
-          <div *ngIf="cidx === 8" (click)="expandRow(stock)">
-            <div>{{ stock.exDivDate }}</div>
+          <div *ngIf="cidx === 8 && stock.exDivDate" (click)="expandRow(stock)">
+            <div>Earning: {{ (stock.stats.calendarEvents.earnings.earningsDate * 1000 | date) || '-' }}</div>
+            <div>Ex: {{ (stock.stats.calendarEvents.exDividendDate * 1000 | date) || '-' }}</div>
+            <div>Pay: {{ (stock.stats.calendarEvents.dividendDate * 1000 | date) || '-' }}</div>
           </div>
           <div *ngIf="cidx === 10;  else elseBlock">
             <app-analysis-toggles

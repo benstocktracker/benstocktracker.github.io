@@ -1,4 +1,31 @@
 {
+    "bff82808-fa9b-3ac7-a8cc-20f7a8c0acb4": {
+        "uuid": "bff82808-fa9b-3ac7-a8cc-20f7a8c0acb4",
+        "title": "DigitalOcean Holdings, Inc.'s (NYSE:DOCN) Shift From Loss To Profit",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/digitalocean-holdings-inc-nyse-docn-104113231.html",
+        "providerPublishTime": 1659091273,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/ICMPVGwHLl43hPD6tq3mpg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                    "width": 1194,
+                    "height": 432,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/PNCJnqm33tqSDf7T1z7qRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "DOCN"
+        ]
+    },
     "0d6b07ea-0b36-3bec-b6fe-9a74671209c1": {
         "uuid": "0d6b07ea-0b36-3bec-b6fe-9a74671209c1",
         "title": "DigitalOcean Has a Brilliant Growth Strategy -- Here's What Investors Want to Know",
@@ -203,18 +230,6 @@
             "DOCN",
             "FSLY",
             "^GSPC"
-        ]
-    },
-    "b6714d86-4a36-3bf3-9bb4-d658362c6599": {
-        "uuid": "b6714d86-4a36-3bf3-9bb4-d658362c6599",
-        "title": "Prediction: These Growth Stocks Will Be Worth $10 Billion by 2030",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/b6714d86-4a36-3bf3-9bb4-d658362c6599/prediction%3A-these-growth.html",
-        "providerPublishTime": 1658743440,
-        "type": "STORY",
-        "relatedTickers": [
-            "DOCN",
-            "DUOL"
         ]
     }
 }

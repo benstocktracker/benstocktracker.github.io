@@ -1,121 +1,32 @@
 {
-    "52286e28-93e2-3647-9f3f-3895eefff0c8": {
-        "uuid": "52286e28-93e2-3647-9f3f-3895eefff0c8",
-        "title": "Oil Producers, Procter & Gamble, AstraZeneca: 3 Things to Watch",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/news/oil-producers-procter-gamble-astrazeneca-154751391.html",
-        "providerPublishTime": 1659023271,
+    "fada70c7-c577-3115-a0be-082953650bfa": {
+        "uuid": "fada70c7-c577-3115-a0be-082953650bfa",
+        "title": "Why Procter & Gamble Stock Dropped Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/fada70c7-c577-3115-a0be-082953650bfa/why-procter-%26-gamble-stock.html",
+        "providerPublishTime": 1659134657,
         "type": "STORY",
-        "relatedTickers": [
-            "AZN",
-            "PG"
-        ]
-    },
-    "8d99fb73-fb8d-39a4-92f0-fb5049a18cd1": {
-        "uuid": "8d99fb73-fb8d-39a4-92f0-fb5049a18cd1",
-        "title": "Procter & Gamble Q4 Preview: Another EPS Beat Inbound?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/procter-gamble-q4-preview-another-203208658.html",
-        "providerPublishTime": 1658953928,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kbaP5qRyks9t.OI3VimjBQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/HD2kfRVE8LP1fz1OOG.4VA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7f3667ffb0901a87f0646d99fc0299de",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9va68O0C3dwQHb_Gq.AlHA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/HD2kfRVE8LP1fz1OOG.4VA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7f3667ffb0901a87f0646d99fc0299de",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
         "relatedTickers": [
             "PG"
         ]
     },
-    "5eddd212-ab1c-31b2-803f-df260c8ab503": {
-        "uuid": "5eddd212-ab1c-31b2-803f-df260c8ab503",
-        "title": "Can P&G (PG) Keep the Earnings Surprise Streak Alive?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/p-g-pg-keep-earnings-161004408.html",
-        "providerPublishTime": 1658938204,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/NLrcU6JTDovfmseBh3I.Wg--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-                    "width": 900,
-                    "height": 588,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J7VKaGzOB6XGza6KEHjdMg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PG"
-        ]
-    },
-    "0b31101d-a48a-3fd3-ba1c-cf7142ec2638": {
-        "uuid": "0b31101d-a48a-3fd3-ba1c-cf7142ec2638",
-        "title": "Senate\u2019s Antitrust Crackdown Sputters as Schumer Signals Doubts",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/senate-antitrust-crackdown-sputters-schumer-143133894.html",
-        "providerPublishTime": 1658932293,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/T98cTmvpINx1NI8UfEZJnw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/of1RxTPxQ5W63fuHeVPlbQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/df42811d0f30a983f58e97ceb10d41d5",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/J2KArDC4aRO5vtpu8AjtFA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/of1RxTPxQ5W63fuHeVPlbQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/df42811d0f30a983f58e97ceb10d41d5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "META",
-            "MSFT",
-            "AMZN",
-            "GOOG",
-            "GOOGL",
-            "AAPL",
-            "AXP",
-            "PG"
-        ]
-    },
-    "88724ead-f10e-313a-8d1a-f78e082ef8b6": {
-        "uuid": "88724ead-f10e-313a-8d1a-f78e082ef8b6",
-        "title": "Stocks: Tech leads gains, home builders fall, Sherwin-Williams sinks",
+    "617f4b7b-84e1-3d96-8602-5476d50c6fc5": {
+        "uuid": "617f4b7b-84e1-3d96-8602-5476d50c6fc5",
+        "title": "Markets close out the week on monthly gains, energy leads major sectors",
         "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-tech-leads-gains-home-141855635.html",
-        "providerPublishTime": 1658931535,
+        "link": "https://finance.yahoo.com/video/markets-close-week-monthly-gains-202624293.html",
+        "providerPublishTime": 1659126384,
         "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZmhP4gKCR7sSfsx6df.GQw--~B/aD0xNTM2O3c9MjczNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
-                    "width": 2736,
-                    "height": 1536,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MTf2.Wj9KtP1PhgAYmyosg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7a232b80-0f7c-11ed-b76f-d70181697135",
+                    "width": 1280,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/tuK091C_0UAl3qA0Jg4TyA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0b8671d0-0db7-11ed-b56e-2a9a981538ee",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/6yj8IF5QmH_FeP_aTJeOtQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/7a232b80-0f7c-11ed-b76f-d70181697135",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -123,72 +34,126 @@
             ]
         },
         "relatedTickers": [
-            "XLP",
-            "INTC",
-            "AMZN",
-            "DIS",
-            "KO",
-            "^IXIC",
-            "SHW",
-            "VZ",
-            "DHI",
-            "LEN",
-            "LEN-B",
             "^GSPC",
-            "CVX",
-            "HON",
-            "AMGN",
-            "XLY",
-            "JPM",
-            "PG",
-            "XLI",
-            "IBM",
-            "XLF",
-            "CSCO",
-            "NVDA",
-            "PEP",
-            "TSLA",
-            "HD",
-            "XLRE",
-            "META",
-            "RKT",
-            "JNJ",
-            "AAPL",
-            "XLV",
-            "MSFT",
-            "MCD",
-            "BA",
-            "WMT",
-            "LOW",
-            "UNH",
             "XLE",
-            "V",
-            "XLU",
-            "GOOG",
-            "GOOGL",
-            "MRK",
+            "INTC",
             "XLK",
-            "XLB",
-            "XLC"
+            "AAPL",
+            "AMZN",
+            "^IXIC",
+            "XLY",
+            "CVX",
+            "PG",
+            "TSLA",
+            "^DJI"
         ]
     },
-    "008e26db-5d3e-3766-aa8d-31a0412e5d40": {
-        "uuid": "008e26db-5d3e-3766-aa8d-31a0412e5d40",
-        "title": "Factors to Influence Procter & Gamble (PG) in Q4 Earnings",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/factors-influence-procter-gamble-pg-132801783.html",
-        "providerPublishTime": 1658928481,
+    "cd1b42e9-828b-3a0d-9ffd-729a1db975e3": {
+        "uuid": "cd1b42e9-828b-3a0d-9ffd-729a1db975e3",
+        "title": "P&G Falls After Inflation-Battered Outlook Trails Peers\u2019",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/p-g-falls-warning-inflation-134958102.html",
+        "providerPublishTime": 1659109020,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gzM3EKbT65wTI9wto1AIZA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/VQO_nC9a.rzsrJsNq57GuA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9ab8beb3e08618cdfd7e54663fd5ac93",
-                    "width": 635,
-                    "height": 400,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/F.gbrH1AhjqzkfM9Fc0Z9w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kjJWY7JFz40ngoTY.TroMQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/277833838e252ecbdc41c30a21ef468a",
+                    "width": 1200,
+                    "height": 675,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/WRk_7dHHEU5HirSMM6j4YA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/VQO_nC9a.rzsrJsNq57GuA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/9ab8beb3e08618cdfd7e54663fd5ac93",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/M_GvcUYg1DKr7zTCyA_yLQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/kjJWY7JFz40ngoTY.TroMQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/277833838e252ecbdc41c30a21ef468a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
+    "918fd54b-59df-3cef-a009-ec60ddf6e66c": {
+        "uuid": "918fd54b-59df-3cef-a009-ec60ddf6e66c",
+        "title": "Procter & Gamble Sounds a Warning After Strong Quarter",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/918fd54b-59df-3cef-a009-ec60ddf6e66c/procter-%26-gamble-sounds-a.html",
+        "providerPublishTime": 1659108120,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/0.rG1BjTkOa4k4puWqcJXQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J_4bA1UCTFiRsyUBubYUWQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/87dabe3c8cca59557a0bce58c215c543",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/R.xVYnfw_sKpbe40kyfofA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/J_4bA1UCTFiRsyUBubYUWQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/87dabe3c8cca59557a0bce58c215c543",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PG"
+        ]
+    },
+    "8d3bf595-d1fe-4502-a86b-41b463ff3c2a": {
+        "uuid": "8d3bf595-d1fe-4502-a86b-41b463ff3c2a",
+        "title": "P&G CEO: We are still assuming economic growth",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/pg-ceo-economic-growth-151204137.html",
+        "providerPublishTime": 1659107524,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/iyW64C6HlZBH7z6c5qyWkw--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/27ef77a0-0f32-11ed-bfff-59cc2ebc521a",
+                    "width": 5472,
+                    "height": 3648,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/YCY3KBVdU2GixfdwOTqiUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/27ef77a0-0f32-11ed-bfff-59cc2ebc521a",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "KR",
+            "CLX",
+            "CHD",
+            "PG",
+            "AMZN",
+            "WMT",
+            "ACI",
+            "KMB",
+            "TGT"
+        ]
+    },
+    "a9774d00-9062-34f4-944a-39af0e78dc3d": {
+        "uuid": "a9774d00-9062-34f4-944a-39af0e78dc3d",
+        "title": "These Consumer Staples Aren\u2019t Looking So Safe",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/a9774d00-9062-34f4-944a-39af0e78dc3d/these-consumer-staples-aren%E2%80%99t.html",
+        "providerPublishTime": 1659107160,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Pp0w5.Ao7a5DAOyVBqKNHw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qbc0QDX.ubAQIsb9ymkqCQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/beae2a3d56ba308611b748fd9bd95315",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/BDLA_huCmJ08pSqDWdIAcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/qbc0QDX.ubAQIsb9ymkqCQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/beae2a3d56ba308611b748fd9bd95315",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -197,27 +162,26 @@
         },
         "relatedTickers": [
             "PG",
-            "CTVA",
-            "K"
+            "CL"
         ]
     },
-    "8913387e-8c5b-32ec-9635-80cd1c95da61": {
-        "uuid": "8913387e-8c5b-32ec-9635-80cd1c95da61",
-        "title": "Top 25 Dividend Stocks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/top-25-dividend-stocks-131911008.html",
-        "providerPublishTime": 1658927951,
-        "type": "STORY",
+    "da73f273-dec9-3318-8b36-5112bb2261d9": {
+        "uuid": "da73f273-dec9-3318-8b36-5112bb2261d9",
+        "title": "P&G CEO: We are well-positioned \u2018to offer value to consumers\u2019",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/p-g-ceo-well-positioned-145808926.html",
+        "providerPublishTime": 1659106688,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/2sCuYcSGxQWuqxDpo2NFUA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
-                    "width": 750,
-                    "height": 500,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Es.jThcwppFhD_H36bFmuQ--~B/aD0yODI7dz01MDE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/da327900-0f4e-11ed-9e57-77c9dbe63a4c",
+                    "width": 501,
+                    "height": 282,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/83F9qQtTmpvQdlDulHEdVw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ufS6MBbYTJGKty3CMs06AA--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0f2db9571cc91b15c18a36c0e7aefeb",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/gA7tMZ3oLdX.zPQ3Ira9ew--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/da327900-0f4e-11ed-9e57-77c9dbe63a4c",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -225,38 +189,26 @@
             ]
         },
         "relatedTickers": [
-            "LLY",
-            "CB",
-            "JNJ",
-            "BDX",
-            "MKC-V",
-            "AOS",
-            "ADM",
-            "GPC",
-            "PEP",
-            "JCI",
-            "PG",
-            "SWK",
-            "ITW"
+            "PG"
         ]
     },
-    "debc0f06-7c17-3e3d-b584-946893e62591": {
-        "uuid": "debc0f06-7c17-3e3d-b584-946893e62591",
-        "title": "Is Procter & Gamble Stock a Buy Right Now?",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/debc0f06-7c17-3e3d-b584-946893e62591/is-procter-%26-gamble-stock-a.html",
-        "providerPublishTime": 1658923800,
+    "54c2cec1-1340-3a5a-ac3c-3eb2e179b6d2": {
+        "uuid": "54c2cec1-1340-3a5a-ac3c-3eb2e179b6d2",
+        "title": "Procter & Gamble Stock Slides as Forecast Misses Estimates",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/54c2cec1-1340-3a5a-ac3c-3eb2e179b6d2/procter-%26-gamble-stock-slides.html",
+        "providerPublishTime": 1659106560,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/k7mTQPKPAMn.rWOFRu2uHw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/r6NsD1z6qeaoUZVlWYd5Vw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/585ac9ea1957bee025530cb782b97326",
-                    "width": 1400,
-                    "height": 937,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/KFQrcID3jRv95m7l8PhOTg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pQ6HizXsanFlcbjDFjugsg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/1ec0ad8fcbe56f1415c682b01accdd60",
+                    "width": 1280,
+                    "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/c75vA2JhX.dF9FHzIc7oUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/r6NsD1z6qeaoUZVlWYd5Vw--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/585ac9ea1957bee025530cb782b97326",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/MeYHQ_m8Xy8F6AhK4jl6sA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/pQ6HizXsanFlcbjDFjugsg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/1ec0ad8fcbe56f1415c682b01accdd60",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -264,8 +216,7 @@
             ]
         },
         "relatedTickers": [
-            "PG",
-            "KMB"
+            "PG"
         ]
     }
 }

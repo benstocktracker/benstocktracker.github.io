@@ -1,21 +1,21 @@
 {
-    "afd49c4f-b228-372d-8b4a-9c6bc3eb3b2a": {
-        "uuid": "afd49c4f-b228-372d-8b4a-9c6bc3eb3b2a",
-        "title": "The Senate Reports Oil and Gas Prices Are Not Impacted by Corporate Greed \u2013 These Experts Say Otherwise",
-        "publisher": "GOBankingRates",
-        "link": "https://finance.yahoo.com/news/senate-reports-oil-gas-prices-210208407.html",
-        "providerPublishTime": 1659042128,
+    "d592c024-7494-31bf-929d-d745fe33175f": {
+        "uuid": "d592c024-7494-31bf-929d-d745fe33175f",
+        "title": "Alpha Metallurgical Resources: A Prime Beneficiary of Tight Global Coal Supply",
+        "publisher": "TipRanks",
+        "link": "https://finance.yahoo.com/news/alpha-metallurgical-resources-prime-beneficiary-232155159.html",
+        "providerPublishTime": 1659136915,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iVTBbzuOqs5pAjXLGzCgZw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/wa4Xe_646fpFiQCfs3smlg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/fa610cb006bd69b75586ace335492cc2",
-                    "width": 1920,
-                    "height": 1080,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H4N7L_0.9aKUu_V7apH0Hg--~B/aD00Njk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gQ2Mjdte87Z5U.x2L_7dQw--~B/aD00Njk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/ba1258a9b31f53d81d9a9719e8d35f1b",
+                    "width": 1024,
+                    "height": 469,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/IZQp2SKogzeelOMW44kWQw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/wa4Xe_646fpFiQCfs3smlg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/fa610cb006bd69b75586ace335492cc2",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/SQcfrcqkvo5a1.LGKtJNWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gQ2Mjdte87Z5U.x2L_7dQw--~B/aD00Njk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tipranks_452/ba1258a9b31f53d81d9a9719e8d35f1b",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -23,56 +23,27 @@
             ]
         },
         "relatedTickers": [
+            "AMR",
             "CL=F"
         ]
     },
-    "82aaa0ad-d1a1-39a8-bece-fa2d8b281753": {
-        "uuid": "82aaa0ad-d1a1-39a8-bece-fa2d8b281753",
-        "title": "Oil Stocks: Oil Rig Leaders' Top Earnings, While Production Stays Flat",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/82aaa0ad-d1a1-39a8-bece-fa2d8b281753/oil-stocks%3A-oil-rig-leaders%27.html",
-        "providerPublishTime": 1659040766,
-        "type": "STORY",
+    "1cada478-0439-30c1-a602-13cfb7b4365b": {
+        "uuid": "1cada478-0439-30c1-a602-13cfb7b4365b",
+        "title": "The U.S. may need 'more natural gas to decarbonize the rest of the world': Strategist",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/u-may-more-natural-gas-194329523.html",
+        "providerPublishTime": 1659123809,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zkFTpdQmQuNM.mj_H.xQxg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TCEhMHjstjOFkwCdYBdE5Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/94227f0d40957922bb27fb7d6050056c",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/eIqpr.Z6TLnr1i19rRZ_CA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/TCEhMHjstjOFkwCdYBdE5Q--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/94227f0d40957922bb27fb7d6050056c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "NG=F",
-            "CL=F",
-            "PTEN",
-            "HP"
-        ]
-    },
-    "42d60bdd-1151-3267-bae1-854b299e2b11": {
-        "uuid": "42d60bdd-1151-3267-bae1-854b299e2b11",
-        "title": "Exxon and 3 Other Oil and Gas Companies That Could Benefit From Inflation Bill",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/42d60bdd-1151-3267-bae1-854b299e2b11/exxon-and-3-other-oil-and-gas.html",
-        "providerPublishTime": 1659040560,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TzcxkRCVxm1uc4.7rVKCpQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RxaSY9L6iWVXFMv6skNT4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/308c0fd834fd42ebce3c0a67ec65899c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Pot0a2tJ5ZvOChftNq9b.g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/606ac140-0f76-11ed-83fe-29a321409f12",
                     "width": 1280,
-                    "height": 640,
+                    "height": 720,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/AaNCyJK8tlnHWC5jyDNmXw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RxaSY9L6iWVXFMv6skNT4Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/308c0fd834fd42ebce3c0a67ec65899c",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/xsurAsB_xMwJFWtEDqNTcg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/606ac140-0f76-11ed-83fe-29a321409f12",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -80,32 +51,30 @@
             ]
         },
         "relatedTickers": [
-            "EQTNP",
-            "ETRN",
+            "CL=F",
             "XOM",
-            "CVX",
-            "OXY",
             "NG=F",
-            "CL=F"
+            "CVX",
+            "XLE"
         ]
     },
-    "954e51e9-e965-304a-9b5f-5f67f92fe5c6": {
-        "uuid": "954e51e9-e965-304a-9b5f-5f67f92fe5c6",
-        "title": "Realty Income Announces $1.5 Billion Euro Commercial Paper Program",
-        "publisher": "PR Newswire",
-        "link": "https://finance.yahoo.com/news/realty-income-announces-1-5-200500338.html",
-        "providerPublishTime": 1659038700,
-        "type": "STORY",
+    "f321ba27-ed16-38a5-a6fa-50aeb8ec8321": {
+        "uuid": "f321ba27-ed16-38a5-a6fa-50aeb8ec8321",
+        "title": "Gas prices decline for the 44th straight day",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/gas-prices-decline-44th-straight-194021717.html",
+        "providerPublishTime": 1659123621,
+        "type": "VIDEO",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OVR0fnc.DBQlCb_3riv__Q--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/lnEVp2n9tkloQyj6SD2iOg--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d1d1021e3bd502af16e532b1b00c6ec9",
-                    "width": 400,
-                    "height": 109,
+                    "url": "https://s.yimg.com/uu/api/res/1.2/teCZxSwtdqx5iXj6jI4UBw--~B/aD0xNTAxO3c9MjY3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47233280-0f76-11ed-bffd-f61970e8c39a",
+                    "width": 2673,
+                    "height": 1501,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jcnPiltbjN3xl1AH7KB.gw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/lnEVp2n9tkloQyj6SD2iOg--~B/aD0xMDk7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/d1d1021e3bd502af16e532b1b00c6ec9",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/qIPNP2W0ALLr7gBxit.KYQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/47233280-0f76-11ed-bffd-f61970e8c39a",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -113,83 +82,130 @@
             ]
         },
         "relatedTickers": [
-            "O"
-        ]
-    },
-    "aeaf9021-4b12-3e2c-9b87-d8984b02c1f9": {
-        "uuid": "aeaf9021-4b12-3e2c-9b87-d8984b02c1f9",
-        "title": "Occidental Petroleum Stock Eyes Buy Point As Earnings Approach",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/aeaf9021-4b12-3e2c-9b87-d8984b02c1f9/occidental-petroleum-stock.html",
-        "providerPublishTime": 1659036699,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bNtR6OOQbN.6_mXMhirKrw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3KKMQrf60CMxbgnkbHETkg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dc977d273f3773f6b2f3294d14fb235e",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/kQHFNR1UpPXHWXnykHyT1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/3KKMQrf60CMxbgnkbHETkg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dc977d273f3773f6b2f3294d14fb235e",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
-            "OXY"
-        ]
-    },
-    "e6c7e6a0-bafe-3dd5-be57-5a813681a26a": {
-        "uuid": "e6c7e6a0-bafe-3dd5-be57-5a813681a26a",
-        "title": "Brent oil scores back-to-back gains, while U.S. benchmark ends lower on recession worries",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/e6c7e6a0-bafe-3dd5-be57-5a813681a26a/brent-oil-scores-back-to-back.html",
-        "providerPublishTime": 1659035280,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hRRhFSAcdYi9zpNCm.bWOA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dbS3YoPP6QTtAl4cY5IELw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/a536d5b0cf8a4421552102dbaab544ef",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/g8mSp_ViffAk8HElef4XWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/dbS3YoPP6QTtAl4cY5IELw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/a536d5b0cf8a4421552102dbaab544ef",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "CL=F",
             "HO=F",
+            "RB=F",
+            "WTI",
+            "BZ=F",
+            "CL=F",
             "NG=F"
         ]
     },
-    "a0e7a5a1-8d6d-3b63-b86c-be33ed56af2f": {
-        "uuid": "a0e7a5a1-8d6d-3b63-b86c-be33ed56af2f",
-        "title": "U.S. Plans to Push Down Oil Prices Won\u2019t Be Straightforward",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/a0e7a5a1-8d6d-3b63-b86c-be33ed56af2f/u.s.-plans-to-push-down-oil.html",
-        "providerPublishTime": 1659034320,
+    "0b55693b-c056-3d74-99d3-e66c37c081f4": {
+        "uuid": "0b55693b-c056-3d74-99d3-e66c37c081f4",
+        "title": "Earnings: 'Everything has been better than feared', strategist says",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/earnings-everything-better-feared-strategist-193230963.html",
+        "providerPublishTime": 1659123150,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/OZHAYMmOBX7L9e6JbYd5CA--~B/aD0xNTExO3c9MjY5MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/244fc030-0f75-11ed-b6f5-1dab9a4435dc",
+                    "width": 2692,
+                    "height": 1511,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/H3Y_qIy2Oq99c9CMW9a8og--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/244fc030-0f75-11ed-b6f5-1dab9a4435dc",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^NDX",
+            "^IRX",
+            "^FVX",
+            "^DJI",
+            "XLE",
+            "XLK",
+            "BZ=F",
+            "^IXIC",
+            "WTI",
+            "^TYX",
+            "^TNX",
+            "^GSPC",
+            "CL=F",
+            "XLV"
+        ]
+    },
+    "6a10622d-3028-3b6c-8896-fdabf5dedc1b": {
+        "uuid": "6a10622d-3028-3b6c-8896-fdabf5dedc1b",
+        "title": "Buy This Cheap Oil Stock for Big Dividends, Value & Upside Potential?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/news/buy-cheap-oil-stock-big-191807840.html",
+        "providerPublishTime": 1659122287,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ojkKMKy9U8Qej07jg10dLg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UBzEbcay44Cd6xYwSMO2yg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/72ba7d541e7cf8446fcb6b09bc8cbfa5",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/9XWDm8ZmL5tWJ_.Q4Or5kQ--~B/aD0xODg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/DuJdzg66AMq35sHuwC3_NA--~B/aD0xODg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f15daad3476fac297369f629cc5fcd3",
+                    "width": 620,
+                    "height": 188,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/.DoQX.v3HmdCJ_nbxn2vjw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/DuJdzg66AMq35sHuwC3_NA--~B/aD0xODg7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f15daad3476fac297369f629cc5fcd3",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NG=F",
+            "CL=F",
+            "BP"
+        ]
+    },
+    "43cc3806-9021-373a-908a-9786d9f3b221": {
+        "uuid": "43cc3806-9021-373a-908a-9786d9f3b221",
+        "title": "Oil prices end higher for the week but U.S. recession fears pull oil down for the month",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/43cc3806-9021-373a-908a-9786d9f3b221/oil-prices-end-higher-for-the.html",
+        "providerPublishTime": 1659121980,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JMCgfxNvPku3tBckjjbOXQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KYjsjHejtN_EBY.ANVNz2g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b7c9740f657eece29ec929dbac718834",
                     "width": 1280,
                     "height": 640,
                     "tag": "original"
                 },
                 {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/gOQ3XA73uPXI1ycR0MpweA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UBzEbcay44Cd6xYwSMO2yg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/72ba7d541e7cf8446fcb6b09bc8cbfa5",
+                    "url": "https://s.yimg.com/uu/api/res/1.2/wWmOh0397TPD6Faj5xUfvg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/KYjsjHejtN_EBY.ANVNz2g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/b7c9740f657eece29ec929dbac718834",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "RB=F",
+            "HO=F",
+            "NG=F",
+            "CL=F"
+        ]
+    },
+    "ae72dab9-f83d-32d7-a8ee-2e1604d6b038": {
+        "uuid": "ae72dab9-f83d-32d7-a8ee-2e1604d6b038",
+        "title": "Oil Notches First Back-to-Back Monthly Loss Since 2020",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/news/oil-set-weekly-gain-tight-234225255.html",
+        "providerPublishTime": 1659121757,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Kuoo.WoJdVpB26NO7I3gWA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gFVkrtfPjgwg_HcCaldLng--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/76d2eaccb301088e0848134e27a0e40e",
+                    "width": 2000,
+                    "height": 1333,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/aO4CLoPHWzJrsGThk6b3Zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/gFVkrtfPjgwg_HcCaldLng--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/76d2eaccb301088e0848134e27a0e40e",
                     "width": 140,
                     "height": 140,
                     "tag": "140x140"
@@ -200,12 +216,12 @@
             "CL=F"
         ]
     },
-    "c324999f-86ca-32b5-b622-1c7d9bde5436": {
-        "uuid": "c324999f-86ca-32b5-b622-1c7d9bde5436",
-        "title": "U.S. oil prices give up early gains to finish with a loss",
+    "92ebda85-cbe0-311a-9499-8223c905b222": {
+        "uuid": "92ebda85-cbe0-311a-9499-8223c905b222",
+        "title": "U.S. oil prices settle higher for the week, down for the month",
         "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/c324999f-86ca-32b5-b622-1c7d9bde5436/u.s.-oil-prices-give-up-early.html",
-        "providerPublishTime": 1659033702,
+        "link": "https://finance.yahoo.com/m/92ebda85-cbe0-311a-9499-8223c905b222/u.s.-oil-prices-settle-higher.html",
+        "providerPublishTime": 1659121233,
         "type": "STORY",
         "thumbnail": {
             "resolutions": [

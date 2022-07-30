@@ -1,4 +1,32 @@
 {
+    "d9fb4dd4-ddcc-4460-9273-3d1cda09497f": {
+        "uuid": "d9fb4dd4-ddcc-4460-9273-3d1cda09497f",
+        "title": "'We have woefully surrendered our energy independence': Bob Nardelli",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/news/we-have-woefully-surrendered-our-energy-independence-bob-nardelli-133019544.html",
+        "providerPublishTime": 1659101419,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/FUfTsxcqEmjFe7fD6jFFrQ--~B/aD0yNTkyO3c9MzU4ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c519f260-0ea8-11ed-9df7-2379a05336ec",
+                    "width": 3588,
+                    "height": 2592,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/yMd3Pvq6n6J.IjfXpbUfZA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/c519f260-0ea8-11ed-9df7-2379a05336ec",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "STLA",
+            "HD"
+        ]
+    },
     "3d57d58a-83af-302b-8309-0a2bff9fccb4": {
         "uuid": "3d57d58a-83af-302b-8309-0a2bff9fccb4",
         "title": "Doing Our Part: Highlights From The Home Depot's 2022 ESG Report",
@@ -114,38 +142,6 @@
             "TSLA",
             "HD",
             "AMZN"
-        ]
-    },
-    "e7029d4b-5cb2-3a7c-8a1e-c1105e54cad3": {
-        "uuid": "e7029d4b-5cb2-3a7c-8a1e-c1105e54cad3",
-        "title": "'We have woefully surrendered our energy independence': Bob Nardelli",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/woefully-surrendered-energy-independence-bob-100000873.html",
-        "providerPublishTime": 1659002400,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/_dp0Vj3ydllVHvGUiGAyCw--~B/aD0xOTY2O3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0ac590c0-0e91-11ed-bfff-2221677f79fa",
-                    "width": 3500,
-                    "height": 1966,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/HWO46jRwcZjr_EHj6RQ04A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0ac590c0-0e91-11ed-bfff-2221677f79fa",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "LOW",
-            "HD",
-            "TSLA",
-            "GE",
-            "GM",
-            "F"
         ]
     },
     "93a26512-d865-31e8-93e8-2a6fad67fdd4": {
